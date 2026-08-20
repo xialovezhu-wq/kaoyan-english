@@ -1,0 +1,38 @@
+{
+  "schema_version": "producer_binding_descriptor_v1",
+  "subject": "english",
+  "attestation_required_after": "2026-08-15T00:00:00Z",
+  "foreground_skill": {
+    "authoritative_path": "<deploy-root>/codex-skill-sources/kaoyan-english-intensive-reading/SKILL.md",
+    "authoritative_sha256": "<sha256>",
+    "installed_path": "<deploy-root>/codex-skill-sources/kaoyan-english-intensive-reading/SKILL.md",
+    "installed_sha256": "<sha256>"
+  },
+  "producer": {
+    "name": "english_learning_pipeline",
+    "version": "portable-source-closure-v1",
+    "source_files": [
+      {
+        "path": "<deploy-root>/english_pipeline/events.py",
+        "sha256": "<sha256>"
+      }
+    ],
+    "source_closure_sha256": "<sha256>"
+  },
+  "capture_contract": {
+    "schema_version": "english_capture_contract_v1",
+    "files": [
+      {
+        "path": "<deploy-root>/schema/english_pipeline/capture-event-v2.schema.json",
+        "sha256": "<sha256>"
+      },
+      {
+        "path": "<deploy-root>/schema/english_pipeline/capture-receipt-v2.schema.json",
+        "sha256": "<sha256>"
+      }
+    ]
+  },
+  "attestation_relative_root": "producer-attestations",
+  "formal_write_count": 0,
+  "descriptor_content_sha256": "<sha256>"
+}

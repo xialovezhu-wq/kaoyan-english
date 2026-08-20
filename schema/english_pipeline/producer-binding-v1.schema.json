@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.kaoyan-english/schema/english_pipeline/producer-binding-v1.schema.json",
+  "title": "Portable English producer binding descriptor v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "subject",
+    "attestation_required_after",
+    "foreground_skill",
+    "producer",
+    "capture_contract",
+    "attestation_relative_root",
+    "formal_write_count",
+    "descriptor_content_sha256"
+  ],
+  "properties": {
+    "schema_version": {"const": "producer_binding_descriptor_v1"},
+    "subject": {"const": "english"},
+    "attestation_required_after": {"type": "string", "format": "date-time"},
+    "foreground_skill": {"$ref": "#/$defs/fileBinding"},
+    "producer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "version", "source_files", "source_closure_sha256"],
+      "properties": {
+        "name": {"type": "string", "minLength": 1},
+        "version": {"type": "string", "minLength": 1},
+        "source_files": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/fileRow"}},
+        "source_closure_sha256": {"$ref": "#/$defs/sha256"}
+      }
+    },
+    "capture_contract": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "files"],
+      "properties": {
+        "schema_version": {"const": "english_capture_contract_v1"},
+        "files": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/fileRow"}}
+      }
+    },
+    "attestation_relative_root": {"type": "string", "pattern": "^(?!/)(?!.*(?:^|/)\.\.(?:/|$)).+"},
+    "formal_write_count": {"const": 0},
+    "descriptor_content_sha256": {"$ref": "#/$defs/sha256"}
+  },
+  "$defs": {
+    "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "fileRow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "sha256"],
+      "properties": {
+        "path": {"type": "string", "minLength": 1},
+        "sha256": {"$ref": "#/$defs/sha256"}
+      }
+    },
+    "fileBinding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["authoritative_path", "authoritative_sha256", "installed_path", "installed_sha256"],
+      "properties": {
+        "authoritative_path": {"type": "string", "minLength": 1},
+        "authoritative_sha256": {"$ref": "#/$defs/sha256"},
+        "installed_path": {"type": "string", "minLength": 1},
+        "installed_sha256": {"$ref": "#/$defs/sha256"}
+      }
+    }
+  }
+}

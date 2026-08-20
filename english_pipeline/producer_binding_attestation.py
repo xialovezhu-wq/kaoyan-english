@@ -104,6 +104,90 @@ def load_descriptor(path: Path, *, subject: str) -> dict[str, Any]:
     return descriptor
 
 
+def _repo_source_root() -> Path:
+    return Path(__file__).resolve().parents[1]
+
+
+def _resolved_descriptor_payload(repo_root: Path) -> dict[str, Any]:
+    """Build a deployment-local descriptor from the portable source closure.
+
+    The example descriptor committed under ``schema`` intentionally contains
+    placeholders.  A concrete descriptor is resolved only into the caller's
+    temporary/state directory, or supplied explicitly through an environment
+    binding.  This keeps machine-specific paths out of the repository.
+    """
+
+    root = _repo_source_root()
+    skill = root / "codex-skill-sources" / "kaoyan-english-intensive-reading" / "SKILL.md"
+    source_paths = sorted(root.glob("english_pipeline/*.py")) + [
+        root / "scripts" / "english_learning_pipeline.py",
+    ]
+    source_rows = [
+        {"path": str(path.resolve()), "sha256": sha256_file(path)}
+        for path in source_paths
+        if path.is_file()
+    ]
+    contract_paths = [
+        root / "schema" / "english_pipeline" / "capture-event-v2.schema.json",
+        root / "schema" / "english_pipeline" / "capture-receipt-v2.schema.json",
+    ]
+    contract_rows = [
+        {"path": str(path.resolve()), "sha256": sha256_file(path)}
+        for path in contract_paths
+        if path.is_file()
+    ]
+    foreground = {
+        "authoritative_path": str(skill.resolve()),
+        "authoritative_sha256": sha256_file(skill),
+        "installed_path": str(skill.resolve()),
+        "installed_sha256": sha256_file(skill),
+    }
+    producer = {
+        "name": "english_learning_pipeline",
+        "version": "portable-source-closure-v1",
+        "source_files": source_rows,
+        "source_closure_sha256": sha256_value(source_rows),
+    }
+    contract = {
+        "schema_version": "english_capture_contract_v1",
+        "files": contract_rows,
+    }
+    core = {
+        "schema_version": "producer_binding_descriptor_v1",
+        "subject": "english",
+        "attestation_required_after": "2026-08-15T00:00:00Z",
+        "foreground_skill": foreground,
+        "producer": producer,
+        "capture_contract": contract,
+        "attestation_relative_root": "producer-attestations",
+        "formal_write_count": 0,
+    }
+    return {**core, "descriptor_content_sha256": sha256_value(core)}
+
+
+def resolve_descriptor_path(state_dir: Path) -> Path:
+    """Resolve an explicit deployment descriptor or create a local one."""
+
+    for variable in (
+        "ENGLISH_PRODUCER_BINDING_DESCRIPTOR",
+        "ENGLISH_PIPELINE_PRODUCER_BINDING_DESCRIPTOR",
+        "ENGLISH_PRODUCER_BINDING_DESCRIPTOR_PATH",
+    ):
+        value = os.environ.get(variable)
+        if value:
+            path = Path(value).expanduser().resolve(strict=True)
+            if not path.is_file():
+                raise ProducerBindingError("producer binding descriptor is not a file")
+            return path
+    local_root = Path(state_dir).resolve() / "producer-binding"
+    payload = _resolved_descriptor_payload(_repo_source_root())
+    digest = str(payload["descriptor_content_sha256"])[:16]
+    path = local_root / f"producer-binding-{digest}.json"
+    if not path.is_file():
+        _atomic_no_clobber(path, payload)
+    return path
+
+
 def _atomic_no_clobber(path: Path, value: Mapping[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     payload = canonical_bytes(value)

@@ -14,6 +14,7 @@ from .errors import IdempotencyConflict, SourceHashMismatch, ValidationError
 from .producer_binding_attestation import (
     ProducerBindingError,
     publish_attestation,
+    resolve_descriptor_path,
 )
 from .review_status import canonical_machine_decision, exact_item_occurrences
 from .util import atomic_write_json, canonical_bytes, object_sha256, parse_iso_date, sentence_sha256, utc_now
@@ -22,12 +23,15 @@ from .util import atomic_write_json, canonical_bytes, object_sha256, parse_iso_d
 EVENT_SCHEMA_VERSION = "english_capture_event_v2"
 LEGACY_EVENT_SCHEMA_VERSION = "english_capture_event_v1"
 CAPTURE_RECEIPT_VERSION = "english_capture_receipt_v2"
-PRODUCER_BINDING_DESCRIPTOR_PATH = (
+PRODUCER_BINDING_DESCRIPTOR_EXAMPLE_PATH = (
     Path(__file__).resolve().parents[1]
     / "schema"
     / "english_pipeline"
-    / "producer-binding-v1.json"
+    / "producer-binding-v1.example.json"
 )
+# Kept as a compatibility alias for callers that inspect the producer binding
+# symbol; runtime resolution never reads this placeholder as a descriptor.
+PRODUCER_BINDING_DESCRIPTOR_PATH = PRODUCER_BINDING_DESCRIPTOR_EXAMPLE_PATH
 
 # Capture is a producer-owned, release-neutral fact object.  These names are
 # the deployment and runtime identity fields used by the Dispatcher, canary,
@@ -478,8 +482,9 @@ def _producer_binding(
     state_dir: Path, event: Mapping[str, Any]
 ) -> dict[str, Any]:
     try:
+        descriptor_path = resolve_descriptor_path(state_dir)
         return publish_attestation(
-            descriptor_path=PRODUCER_BINDING_DESCRIPTOR_PATH,
+            descriptor_path=descriptor_path,
             repo_root=state_dir.parent,
             subject="english",
             capture_id=str(event["event_id"]),
