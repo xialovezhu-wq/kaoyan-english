@@ -18,7 +18,6 @@
 - 来源与示例：Synthetic source sentence.
 - use_count：0
 - last_used：2026-08-20
-
 ## Fixture Pattern 02
 
 - 骨架：S + V + O
@@ -375,4 +374,3 @@
 - 来源与示例：Synthetic source sentence.
 - use_count：0
 - last_used：2026-08-20
-
