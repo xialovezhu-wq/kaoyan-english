@@ -1,15 +1,16 @@
 from __future__ import annotations
 
 import fcntl
+import datetime as dt
 import json
 import os
 import re
 import tempfile
 from contextlib import contextmanager
 from pathlib import Path
-from typing import Any, Iterator
+from typing import Any, Callable, Iterator, Mapping
 
-from .constants import EVIDENCE_STATES, USER_EVIDENCE
+from .constants import EVIDENCE_STATES, RAW_DIALOGUE_EVENT_TYPE, USER_EVIDENCE
 from .errors import IdempotencyConflict, SourceHashMismatch, ValidationError
 from .producer_binding_attestation import (
     ProducerBindingError,
@@ -169,6 +170,103 @@ def _assert_release_neutral(value: Any, path: str = "capture_event") -> None:
             _assert_release_neutral(nested, f"{path}[{index}]")
 
 
+def _nonempty_text(value: Any, label: str) -> str:
+    if not isinstance(value, str) or not value.strip():
+        raise ValidationError(f"{label} is required")
+    return value
+
+
+def _timestamp_value(value: Any, label: str) -> dt.datetime:
+    text = _nonempty_text(value, label)
+    normalized = text[:-1] + "+00:00" if text.endswith("Z") else text
+    try:
+        parsed = dt.datetime.fromisoformat(normalized)
+    except ValueError as exc:
+        raise ValidationError(f"{label} must be ISO-8601") from exc
+    if parsed.tzinfo is None or parsed.utcoffset() is None:
+        raise ValidationError(f"{label} must include timezone")
+    return parsed
+
+
+def _validate_raw_dialogue_event(event: Mapping[str, Any]) -> None:
+    required = {
+        "messages",
+        "attachments",
+        "context_identity",
+        "resolution_status",
+    }
+    if not required.issubset(event):
+        raise ValidationError("raw dialogue turn fields are incomplete")
+    messages = event.get("messages")
+    if not isinstance(messages, list) or len(messages) < 2:
+        raise ValidationError("raw dialogue turn requires user messages and one assistant reply")
+    seen_ids: set[str] = set()
+    timestamps: list[dt.datetime] = []
+    roles: list[str] = []
+    for index, message in enumerate(messages, start=1):
+        if not isinstance(message, dict):
+            raise ValidationError(f"raw dialogue message {index} must be an object")
+        role = message.get("role")
+        expected = {"role", "message_id", "timestamp", "content"}
+        if role == "assistant":
+            expected.add("complete")
+        if set(message) != expected or role not in {"user", "assistant"}:
+            raise ValidationError(f"raw dialogue message {index} fields are invalid")
+        message_id = _nonempty_text(message.get("message_id"), "message_id")
+        if message_id in seen_ids:
+            raise ValidationError("raw dialogue message_id values must be unique")
+        seen_ids.add(message_id)
+        timestamps.append(_timestamp_value(message.get("timestamp"), "message timestamp"))
+        _nonempty_text(message.get("content"), "message content")
+        if role == "assistant" and message.get("complete") is not True:
+            raise ValidationError("raw dialogue assistant reply must be complete")
+        roles.append(str(role))
+    if roles[-1] != "assistant" or roles.count("assistant") != 1 or any(
+        role != "user" for role in roles[:-1]
+    ):
+        raise ValidationError("raw dialogue turn must be one or more users followed by one assistant")
+    if timestamps != sorted(timestamps):
+        raise ValidationError("raw dialogue messages must preserve timestamp order")
+
+    attachments = event.get("attachments")
+    if not isinstance(attachments, list):
+        raise ValidationError("raw dialogue attachments must be a list")
+    seen_attachments: set[str] = set()
+    for index, attachment in enumerate(attachments, start=1):
+        if not isinstance(attachment, dict) or set(attachment) not in (
+            {"attachment_id", "metadata", "sha256", "durable_ref"},
+            {"attachment_id", "message_id", "metadata", "sha256", "durable_ref"},
+        ):
+            raise ValidationError(f"raw dialogue attachment {index} fields are invalid")
+        attachment_id = _nonempty_text(attachment.get("attachment_id"), "attachment_id")
+        if attachment_id in seen_attachments:
+            raise ValidationError("raw dialogue attachment_id values must be unique")
+        seen_attachments.add(attachment_id)
+        if "message_id" in attachment and attachment["message_id"] not in seen_ids:
+            raise ValidationError("raw dialogue attachment message_id is not in the turn")
+        if not isinstance(attachment.get("metadata"), dict):
+            raise ValidationError("raw dialogue attachment metadata must be an object")
+        if not re.fullmatch(r"[a-f0-9]{64}", str(attachment.get("sha256", ""))):
+            raise ValidationError("raw dialogue attachment sha256 is invalid")
+        durable_ref = _nonempty_text(attachment.get("durable_ref"), "durable_ref")
+        if durable_ref.startswith(("/", "~", "file://")) or ".." in Path(durable_ref).parts:
+            raise ValidationError("raw dialogue durable_ref must not expose a local path")
+
+    context = event.get("context_identity")
+    context_keys = {
+        "conversation_id",
+        "thread_id",
+        "workspace_id",
+        "assistant_context_id",
+    }
+    if not isinstance(context, dict) or set(context) != context_keys:
+        raise ValidationError("raw dialogue context_identity fields are invalid")
+    for key in sorted(context_keys):
+        _nonempty_text(context.get(key), f"context_identity.{key}")
+    if event.get("resolution_status") not in {"resolved", "unresolved"}:
+        raise ValidationError("raw dialogue resolution_status is invalid")
+
+
 def validate_event(event: dict[str, Any]) -> None:
     _assert_release_neutral(event)
     allowed = {
@@ -176,6 +274,8 @@ def validate_event(event: dict[str, Any]) -> None:
         "article", "source", "learning", "candidates", "supersedes_event_id", "correction_reason",
         "completion", "producer", "formal_write_count", "formal_writeback",
         "observed_signals", "source_signal_ids", "capture_coverage",
+        "messages", "attachments", "context_identity", "resolution_status",
+        "parent_raw_capture_id",
     }
     extras = sorted(set(event) - allowed)
     if extras:
@@ -187,7 +287,6 @@ def validate_event(event: dict[str, Any]) -> None:
         "idempotency_key",
         "request_sha256",
         "occurred_at",
-        "article",
         "producer",
         "formal_write_count",
         "formal_writeback",
@@ -203,8 +302,21 @@ def validate_event(event: dict[str, Any]) -> None:
         raise ValidationError("capture request_sha256 is invalid")
     if event["formal_write_count"] != 0 or event["formal_writeback"] != "none":
         raise ValidationError("capture event must have zero formal writes")
-    if event["event_type"] not in {"sentence_captured", "sentence_correction", "article_completed"}:
+    if event["event_type"] not in {
+        "sentence_captured",
+        "sentence_correction",
+        "article_completed",
+        RAW_DIALOGUE_EVENT_TYPE,
+    }:
         raise ValidationError(f"unsupported event_type: {event['event_type']}")
+    producer = event.get("producer")
+    if not isinstance(producer, dict) or set(producer) != {"role", "name", "version"}:
+        raise ValidationError("producer must contain exactly role, name and version")
+    if producer["role"] != "foreground_producer" or not str(producer["name"]).strip() or not str(producer["version"]).strip():
+        raise ValidationError("producer identity is invalid")
+    if event["event_type"] == RAW_DIALOGUE_EVENT_TYPE:
+        _validate_raw_dialogue_event(event)
+        return
     article = event.get("article")
     if not isinstance(article, dict) or not article.get("article_id") or not article.get("source_article") or not article.get("source_id"):
         raise ValidationError("article_id, source_id and source_article are required")
@@ -215,12 +327,10 @@ def validate_event(event: dict[str, Any]) -> None:
     article_allowed = {"article_id", "source_id", "source_article", "source_hash", "reference_id", "title"}
     if set(article) - article_allowed:
         raise ValidationError(f"article has unsupported fields: {sorted(set(article) - article_allowed)}")
-    producer = event.get("producer")
-    if not isinstance(producer, dict) or set(producer) != {"role", "name", "version"}:
-        raise ValidationError("producer must contain exactly role, name and version")
-    if producer["role"] != "foreground_producer" or not str(producer["name"]).strip() or not str(producer["version"]).strip():
-        raise ValidationError("producer identity is invalid")
     if event["event_type"] in {"sentence_captured", "sentence_correction"}:
+        parent = event.get("parent_raw_capture_id")
+        if parent is not None and (not isinstance(parent, str) or not parent.strip()):
+            raise ValidationError("derived sentence parent_raw_capture_id is invalid")
         if "completion" in event:
             raise ValidationError("sentence events must not contain completion")
         source = event.get("source")
@@ -564,6 +674,18 @@ def append_event(
                 _bind_receipt_attestation(replay, producer_binding)
             return replay
 
+        if proposed["event_type"] in {"sentence_captured", "sentence_correction"}:
+            parent_id = proposed.get("parent_raw_capture_id")
+            if not isinstance(parent_id, str) or not parent_id.strip():
+                raise ValidationError(
+                    "new sentence events require parent_raw_capture_id"
+                )
+            parent = event_by_id(events).get(parent_id)
+            if parent is None or parent.get("event_type") != RAW_DIALOGUE_EVENT_TYPE:
+                raise ValidationError(
+                    "derived sentence parent must be a durable raw dialogue turn"
+                )
+
         if proposed["event_type"] == "sentence_correction":
             by_id = event_by_id(events)
             target_id = proposed["supersedes_event_id"]
@@ -621,6 +743,70 @@ def append_event(
         receipt["replayed"] = False
         atomic_write_json(receipt_path, receipt)
         return receipt
+
+
+def append_derived_sentence_event(
+    state_dir: Path,
+    request: Mapping[str, Any],
+    *,
+    parent_raw_capture_id: str,
+) -> dict[str, Any]:
+    if not isinstance(parent_raw_capture_id, str) or not parent_raw_capture_id.strip():
+        raise ValidationError("parent_raw_capture_id is required")
+    derived = json.loads(json.dumps(dict(request), ensure_ascii=False))
+    if derived.get("event_type") not in {"sentence_captured", "sentence_correction"}:
+        raise ValidationError("only sentence events may derive from a raw turn")
+    derived["parent_raw_capture_id"] = parent_raw_capture_id
+    if not str(derived.get("idempotency_key", "")).strip():
+        sentence_id = str((derived.get("source") or {}).get("sentence_id", ""))
+        derived["idempotency_key"] = (
+            f"{parent_raw_capture_id}:sentence:{sentence_id}"
+        )
+    return append_event(state_dir, derived)
+
+
+def append_raw_dialogue_turn(
+    state_dir: Path,
+    request: Mapping[str, Any],
+    *,
+    sentence_parser: Callable[[Mapping[str, Any]], list[dict[str, Any]]] | None = None,
+    fault_after_event: bool = False,
+) -> dict[str, Any]:
+    """Durably save one strict raw turn before any optional sentence parsing."""
+
+    raw = json.loads(json.dumps(dict(request), ensure_ascii=False))
+    if raw.get("event_type") != RAW_DIALOGUE_EVENT_TYPE:
+        raise ValidationError("raw dialogue event_type is required")
+    receipt = append_event(
+        state_dir,
+        raw,
+        fault_after_event=fault_after_event,
+    )
+    result = dict(receipt)
+    result["sentence_derivation_receipts"] = []
+    if sentence_parser is None:
+        result["sentence_derivation_status"] = "not_requested"
+        return result
+    event = json.loads(Path(str(receipt["event_path"])).read_text(encoding="utf-8"))
+    try:
+        derived = sentence_parser(event)
+        if not isinstance(derived, list):
+            raise ValidationError("sentence parser must return a list")
+        result["sentence_derivation_receipts"] = [
+            append_derived_sentence_event(
+                state_dir,
+                sentence,
+                parent_raw_capture_id=str(receipt["capture_id"]),
+            )
+            for sentence in derived
+        ]
+        result["sentence_derivation_status"] = (
+            "created" if derived else "no_candidates"
+        )
+    except Exception as exc:
+        result["sentence_derivation_status"] = "failed"
+        result["sentence_derivation_error"] = type(exc).__name__
+    return result
 
 
 def _capture_receipt(state_dir: Path, event: dict[str, Any], status: str) -> dict[str, Any]:

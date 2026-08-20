@@ -16,6 +16,8 @@ DEFAULT_STATE_DIR = Path(
     os.environ.get("ENGLISH_PIPELINE_STATE_DIR", str(REPO_ROOT / "intake"))
 ).expanduser()
 
+RAW_DIALOGUE_EVENT_TYPE = "english_raw_dialogue_turn_v1"
+
 # User-facing evidence vocabulary.  The capture layer preserves these values;
 # later review code decides how they affect selection.
 EVIDENCE_STATES = frozenset(

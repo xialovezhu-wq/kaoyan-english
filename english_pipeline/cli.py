@@ -9,9 +9,9 @@ from pathlib import Path
 from typing import Any
 
 from .candidates import render_luna_candidate_file, validate_luna_candidate_file
-from .constants import DEFAULT_STATE_DIR, EVIDENCE_STATES, REPO_ROOT, USER_EVIDENCE
+from .constants import DEFAULT_STATE_DIR, EVIDENCE_STATES, RAW_DIALOGUE_EVENT_TYPE, REPO_ROOT, USER_EVIDENCE
 from .errors import PipelineError, SourceHashMismatch, ValidationError
-from .events import append_event
+from .events import append_event, append_raw_dialogue_turn
 from .nightly import freeze_nightly, pipeline_status, validate_events_report
 from .quick_flush import publish_quick_flush_intent
 from .util import atomic_write_json, file_sha256, load_json, parse_iso_date
@@ -84,6 +84,10 @@ def build_parser() -> argparse.ArgumentParser:
     )
     capture.add_argument("--supersedes", help="Current effective capture event id; creates a correction event.")
     capture.add_argument("--correction-reason")
+    capture.add_argument(
+        "--parent-raw-capture-id",
+        help="Durable English raw dialogue Capture that produced this sentence event.",
+    )
     capture.add_argument("--occurred-at", help="ISO-8601 timestamp; defaults to current UTC time.")
     capture.add_argument(
         "--quick-flush",
@@ -93,6 +97,13 @@ def build_parser() -> argparse.ArgumentParser:
             "This does not alter the ordinary 5-capture/180-second policy."
         ),
     )
+
+    raw_capture = subparsers.add_parser(
+        "capture-raw-turn",
+        parents=[common],
+        help="Append one strict immutable English raw dialogue turn.",
+    )
+    raw_capture.add_argument("--input-json", type=Path, required=True)
 
     complete = subparsers.add_parser("complete-article", parents=[common], help="Append article_completed and render immediate output-only A/B/C export.")
     complete.add_argument("--source-id", help="Canonical source identity.")
@@ -384,12 +395,20 @@ def _capture_request(args: argparse.Namespace, repo_root: Path) -> dict[str, Any
             request["correction_reason"] = args.correction_reason
         if args.occurred_at:
             request["occurred_at"] = args.occurred_at
+        if args.parent_raw_capture_id:
+            request["parent_raw_capture_id"] = args.parent_raw_capture_id
     return _validate_capture_source_object(repo_root, request)
 
 
 def run(args: argparse.Namespace) -> dict[str, Any]:
     state_dir = args.state_dir.resolve()
     repo_root = args.repo_root.resolve()
+    if args.command == "capture-raw-turn":
+        request = load_json(args.input_json)
+        if not isinstance(request, dict):
+            raise ValidationError("raw dialogue input JSON must be an object")
+        request["event_type"] = RAW_DIALOGUE_EVENT_TYPE
+        return append_raw_dialogue_turn(state_dir, request)
     if args.command == "capture":
         request = _capture_request(args, repo_root)
         receipt = append_event(state_dir, request)

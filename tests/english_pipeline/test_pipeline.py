@@ -17,12 +17,13 @@ from unittest.mock import patch
 
 from english_pipeline.candidates import render_luna_candidate, validate_luna_candidate
 from english_pipeline.cli import main as cli_main
-from english_pipeline.constants import MASTERED_HEADER, MASTER_HEADER, REPO_ROOT, SP_FIELDS
+from english_pipeline.constants import MASTERED_HEADER, MASTER_HEADER, RAW_DIALOGUE_EVENT_TYPE, REPO_ROOT, SP_FIELDS
 from english_pipeline.errors import IdempotencyConflict, SourceHashMismatch, ValidationError
 from english_pipeline.events import (
     RELEASE_NEUTRAL_FORBIDDEN_KEYS,
     SimulatedCaptureCrash,
-    append_event,
+    append_event as append_canonical_event,
+    append_raw_dialogue_turn,
     effective_sentence_events,
     load_events,
     exclusive_lock,
@@ -127,6 +128,45 @@ def make_source_object(
 
 
 def run_cli(argv: list[str]) -> tuple[int, dict | None, str]:
+    argv = list(argv)
+    if argv and argv[0] == "capture" and "--state-dir" in argv:
+        state_dir = Path(argv[argv.index("--state-dir") + 1])
+        if "--input-json" in argv:
+            request_path = Path(argv[argv.index("--input-json") + 1])
+            request = json.loads(request_path.read_text(encoding="utf-8"))
+            if (
+                isinstance(request, dict)
+                and request.get("event_type")
+                in {"sentence_captured", "sentence_correction"}
+                and not request.get("parent_raw_capture_id")
+            ):
+                key = str(request.get("idempotency_key") or "synthetic-cli")
+                occurred_at = str(
+                    request.get("occurred_at") or f"{STUDY_DATE}T09:00:00Z"
+                )
+                request["parent_raw_capture_id"] = synthetic_raw_parent(
+                    state_dir, key, occurred_at
+                )
+                request_path.write_text(
+                    json.dumps(request, ensure_ascii=False), encoding="utf-8"
+                )
+        elif "--parent-raw-capture-id" not in argv:
+            key = (
+                argv[argv.index("--idempotency-key") + 1]
+                if "--idempotency-key" in argv
+                else "synthetic-cli"
+            )
+            occurred_at = (
+                argv[argv.index("--occurred-at") + 1]
+                if "--occurred-at" in argv
+                else f"{STUDY_DATE}T09:00:00Z"
+            )
+            argv.extend(
+                [
+                    "--parent-raw-capture-id",
+                    synthetic_raw_parent(state_dir, key, occurred_at),
+                ]
+            )
     stdout = io.StringIO()
     stderr = io.StringIO()
     with contextlib.redirect_stdout(stdout), contextlib.redirect_stderr(stderr):
@@ -232,6 +272,73 @@ def capture_request(
         },
         "candidates": list(candidates or []),
     }
+
+
+def append_test_event(
+    state_dir: Path,
+    request: dict,
+    **kwargs: object,
+) -> dict:
+    """Bind every synthetic sentence write to one durable synthetic raw turn."""
+
+    if request.get("event_type") not in {"sentence_captured", "sentence_correction"}:
+        return append_canonical_event(state_dir, request, **kwargs)
+    key = str(request.get("idempotency_key") or "missing-key")
+    occurred_at = str(request.get("occurred_at") or f"{STUDY_DATE}T09:00:00Z")
+    parent_id = synthetic_raw_parent(state_dir, key, occurred_at)
+    derived = deepcopy(request)
+    derived["parent_raw_capture_id"] = parent_id
+    return append_canonical_event(state_dir, derived, **kwargs)
+
+
+def synthetic_raw_parent(state_dir: Path, key: str, occurred_at: str) -> str:
+    token = hashlib.sha256(key.encode("utf-8")).hexdigest()[:16]
+    raw_receipt = append_raw_dialogue_turn(
+        state_dir,
+        {
+            "event_type": RAW_DIALOGUE_EVENT_TYPE,
+            "idempotency_key": f"synthetic-parent:{key}",
+            "occurred_at": occurred_at,
+            "messages": [
+                {
+                    "role": "user",
+                    "message_id": f"synthetic-user-{token}",
+                    "timestamp": occurred_at,
+                    "content": "Synthetic parent user message.",
+                },
+                {
+                    "role": "assistant",
+                    "message_id": f"synthetic-assistant-{token}",
+                    "timestamp": occurred_at,
+                    "content": "Synthetic complete parent assistant reply.",
+                    "complete": True,
+                },
+            ],
+            "attachments": [],
+            "context_identity": {
+                "conversation_id": f"synthetic-conversation-{token}",
+                "thread_id": f"synthetic-thread-{token}",
+                "workspace_id": "synthetic-workspace",
+                "assistant_context_id": "synthetic-assistant-context",
+            },
+            "resolution_status": "resolved",
+        },
+    )
+    return str(raw_receipt["capture_id"])
+
+
+def first_sentence_event(state_dir: Path) -> dict:
+    return next(
+        event
+        for event in load_events(state_dir)
+        if event.get("event_type") in {"sentence_captured", "sentence_correction"}
+    )
+
+
+def assert_only_raw_turn(testcase: unittest.TestCase, state_dir: Path) -> None:
+    events = load_events(state_dir)
+    testcase.assertEqual(len(events), 1)
+    testcase.assertEqual(events[0]["event_type"], RAW_DIALOGUE_EVENT_TYPE)
 
 
 def word_candidate(item: str = "lasting") -> dict:
@@ -420,7 +527,7 @@ class CaptureEventTests(unittest.TestCase):
     @staticmethod
     def _valid_sentence_event() -> dict:
         with tempfile.TemporaryDirectory() as folder:
-            receipt = append_event(
+            receipt = append_test_event(
                 Path(folder) / "intake",
                 capture_request(
                     candidates=[word_candidate()],
@@ -455,7 +562,7 @@ class CaptureEventTests(unittest.TestCase):
         for label, request in cases:
             with self.subTest(label=label), tempfile.TemporaryDirectory() as folder:
                 with self.assertRaises(ValidationError):
-                    append_event(Path(folder) / "intake", request)
+                    append_test_event(Path(folder) / "intake", request)
 
     def test_capture_coverage_signal_rows_are_exact_and_release_neutral(self) -> None:
         valid = self._valid_sentence_event()
@@ -484,7 +591,7 @@ class CaptureEventTests(unittest.TestCase):
             state = base / "intake"
             repo = base / "repo"
             make_formal_repo(repo)
-            receipt = append_event(state, capture_request())
+            receipt = append_test_event(state, capture_request())
             completed = complete_article(
                 state,
                 repo,
@@ -525,25 +632,25 @@ class CaptureEventTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
             request = capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"])
-            first = append_event(state, request)
-            replay = append_event(state, request)
+            first = append_test_event(state, request)
+            replay = append_test_event(state, request)
             self.assertEqual(first["capture_id"], replay["capture_id"])
             self.assertEqual(replay["status"], "idempotent_noop")
-            self.assertEqual(len(list((state / "events").glob("*/*.json"))), 1)
+            self.assertEqual(len(list((state / "events").glob("*/*.json"))), 2)
             changed = deepcopy(request)
             changed["learning"]["translation"] = "changed"
             with self.assertRaises(IdempotencyConflict):
-                append_event(state, changed)
+                append_test_event(state, changed)
 
     def test_receipt_is_rebuilt_after_event_only_crash(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
             request = capture_request()
             with self.assertRaises(SimulatedCaptureCrash):
-                append_event(state, request, fault_after_event=True)
+                append_test_event(state, request, fault_after_event=True)
             event_path = next((state / "events").glob("*/*.json"))
             before = event_path.read_bytes()
-            replay = append_event(state, request)
+            replay = append_test_event(state, request)
             self.assertEqual(replay["status"], "idempotent_noop")
             self.assertTrue(Path(replay["receipt_path"]).is_file())
             self.assertEqual(event_path.read_bytes(), before)
@@ -552,12 +659,12 @@ class CaptureEventTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
             original_request = capture_request(first_translation="原始翻译")
-            original = append_event(state, original_request)
+            original = append_test_event(state, original_request)
             correction = capture_request(key="correction-1", first_translation="更正翻译")
             correction["event_type"] = "sentence_correction"
             correction["supersedes_event_id"] = original["capture_id"]
             correction["correction_reason"] = "用户明确更正"
-            append_event(state, correction)
+            append_test_event(state, correction)
             events = load_events(state)
             old = next(row for row in events if row["event_id"] == original["capture_id"])
             self.assertEqual(old["learning"]["first_translation"], "原始翻译")
@@ -567,7 +674,7 @@ class CaptureEventTests(unittest.TestCase):
             cross["supersedes_event_id"] = effective_sentence_events(events)[0]["event_id"]
             cross["correction_reason"] = "invalid cross-sentence correction"
             with self.assertRaises(ValidationError):
-                append_event(state, cross)
+                append_test_event(state, cross)
 
     def test_sentence_hash_and_answer_protection_fail_closed(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
@@ -575,12 +682,12 @@ class CaptureEventTests(unittest.TestCase):
             bad_hash = capture_request()
             bad_hash["source"]["sentence_hash"] = "0" * 64
             with self.assertRaises(SourceHashMismatch):
-                append_event(state, bad_hash)
+                append_test_event(state, bad_hash)
             locked = capture_request(source_kind="explanation", answer_protection="practice_safe")
             with self.assertRaises(ValidationError):
-                append_event(state, locked)
+                append_test_event(state, locked)
             unlocked = capture_request(key="unlocked", source_kind="explanation", answer_protection="unlocked")
-            append_event(state, unlocked)
+            append_test_event(state, unlocked)
             view = render_quick_capture(load_events(state), article_id="RAW-TEST-001")
             self.assertIn("受保护解析正文不在可重建视图回显", view)
             self.assertNotIn(unlocked["source"]["source_sentence"], view)
@@ -590,8 +697,8 @@ class CaptureEventTests(unittest.TestCase):
             state = Path(folder) / "intake"
             request = capture_request(first_translation=None, candidates=[], evidence_states=[])
             request["learning"]["user_evidence_verbatim"] = None
-            receipt = append_event(state, request)
-            event = load_events(state)[0]
+            receipt = append_test_event(state, request)
+            event = first_sentence_event(state)
             self.assertEqual(receipt["status"], "created")
             self.assertIsNone(event["learning"]["first_translation"])
             self.assertEqual(event["candidates"], [])
@@ -641,7 +748,7 @@ class CaptureEventTests(unittest.TestCase):
             self.assertTrue(expected.is_file())
             rendered = expected.read_text(encoding="utf-8")
             self.assertTrue(rendered.startswith("<!-- study-intake-projection-binding-v1 "))
-            event = load_events(state)[0]
+            event = first_sentence_event(state)
             event_path = Path(receipt["event_path"])
             self.assertEqual(event["article"]["source_article"], article_locator)
             self.assertEqual(event["article"]["source_hash"], source_hash)
@@ -702,8 +809,8 @@ class CaptureEventTests(unittest.TestCase):
             )
             self.assertEqual((json_code, json_error), (0, ""))
             assert json_receipt is not None
-            direct_event = load_events(direct_state)[0]
-            json_event = load_events(json_state)[0]
+            direct_event = first_sentence_event(direct_state)
+            json_event = first_sentence_event(json_state)
             self.assertEqual(direct_event["article"], json_event["article"])
             self.assertEqual(direct_event["article"]["source_article"], article_locator)
             for event, receipt in (
@@ -720,7 +827,7 @@ class CaptureEventTests(unittest.TestCase):
             code, _, error = run_cli(wrong_direct)
             self.assertEqual(code, 2)
             self.assertIn("canonical article hash mismatch", error)
-            self.assertFalse((wrong_direct_state / "events").exists())
+            assert_only_raw_turn(self, wrong_direct_state)
 
             wrong_request = deepcopy(request)
             wrong_request["article"]["source_hash"] = "0" * 64
@@ -735,7 +842,7 @@ class CaptureEventTests(unittest.TestCase):
             )
             self.assertEqual(code, 2)
             self.assertIn("canonical article hash mismatch", error)
-            self.assertFalse((wrong_json_state / "events").exists())
+            assert_only_raw_turn(self, wrong_json_state)
 
             outside_state = base / "outside-state"
             outside = list(direct)
@@ -745,7 +852,7 @@ class CaptureEventTests(unittest.TestCase):
             code, _, error = run_cli(outside)
             self.assertEqual(code, 2)
             self.assertIn("repository file", error)
-            self.assertFalse((outside_state / "events").exists())
+            assert_only_raw_turn(self, outside_state)
 
             escape = repo / "articles" / "escape.md"
             escape.symlink_to(base / "outside.md")
@@ -762,7 +869,7 @@ class CaptureEventTests(unittest.TestCase):
             )
             self.assertEqual(code, 2)
             self.assertIn("repository file", error)
-            self.assertFalse((symlink_state / "events").exists())
+            assert_only_raw_turn(self, symlink_state)
 
     def test_historical_v1_and_v2_event_bytes_remain_unchanged(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
@@ -772,7 +879,7 @@ class CaptureEventTests(unittest.TestCase):
             fixtures: list[tuple[Path, bytes]] = []
             state = base / "state"
             for index, (builder, request) in enumerate(zip(builders, requests), start=1):
-                receipt = append_event(builder, request)
+                receipt = append_test_event(builder, request)
                 event = json.loads(Path(receipt["event_path"]).read_text(encoding="utf-8"))
                 if index == 1:
                     event["schema_version"] = "english_capture_event_v1"
@@ -784,9 +891,9 @@ class CaptureEventTests(unittest.TestCase):
                 raw = (json.dumps(event, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
                 target.write_bytes(raw)
                 fixtures.append((target, raw))
-            replay = append_event(state, requests[1])
+            replay = append_test_event(state, requests[1])
             self.assertEqual(replay["status"], "idempotent_noop")
-            append_event(state, capture_request(key="new-after-history", sentence_id="S02"))
+            append_test_event(state, capture_request(key="new-after-history", sentence_id="S02"))
             for path, raw in fixtures:
                 self.assertEqual(path.read_bytes(), raw)
 
@@ -842,8 +949,19 @@ class CaptureEventTests(unittest.TestCase):
 
             def inspect_pending_then_render(*args, **kwargs):
                 paths = list((rendered_state / "receipts" / "capture").glob("*/*.json"))
-                self.assertEqual(len(paths), 1)
-                pending = json.loads(paths[0].read_text(encoding="utf-8"))
+                self.assertEqual(len(paths), 2)
+                pending = next(
+                    json.loads(path.read_text(encoding="utf-8"))
+                    for path in paths
+                    if json.loads(
+                        Path(
+                            json.loads(path.read_text(encoding="utf-8"))[
+                                "event_path"
+                            ]
+                        ).read_text(encoding="utf-8")
+                    )["event_type"]
+                    in {"sentence_captured", "sentence_correction"}
+                )
                 assert_json_schema_subset(self, pending, schema)
                 pending_receipts.append(pending)
                 return write_quick_capture_view(*args, **kwargs)
@@ -893,13 +1011,13 @@ class CaptureEventTests(unittest.TestCase):
     def test_quick_capture_projection_binding_is_order_independent(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
-            append_event(state, capture_request(key="binding-a"))
+            append_test_event(state, capture_request(key="binding-a"))
             second = capture_request(key="binding-b", sentence_id="S02")
             second["source"]["source_sentence"] = "Another real sentence is captured."
             second["source"]["sentence_hash"] = sentence_sha256(
                 second["source"]["source_sentence"]
             )
-            append_event(state, second)
+            append_test_event(state, second)
             events = load_events(state)
             forward = quick_capture_projection_binding(
                 events, article_id="RAW-TEST-001", study_date=STUDY_DATE
@@ -921,7 +1039,7 @@ class CaptureEventTests(unittest.TestCase):
             repo = base / "repo"
             state = base / "intake"
             make_formal_repo(repo)
-            append_event(state, capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"]))
+            append_test_event(state, capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"]))
             before = formal_hashes(repo)
             receipt = complete_article(
                 state,
@@ -947,7 +1065,7 @@ class CaptureEventTests(unittest.TestCase):
                     sentence=f"Real fixture sentence number {index} remains answer safe.",
                 )
                 started = time.perf_counter()
-                append_event(state, request)
+                append_test_event(state, request)
                 durations.append(time.perf_counter() - started)
             p95 = sorted(durations)[int(len(durations) * 0.95) - 1]
             self.assertLess(p95, 0.5, f"capture p95 too high: {p95:.6f}s")
@@ -957,7 +1075,7 @@ class CaptureEventTests(unittest.TestCase):
             state = Path(folder) / "intake"
             request = capture_request(key="producer-attestation")
             request["occurred_at"] = "2026-08-17T07:00:00+00:00"
-            receipt = append_event(state, request)
+            receipt = append_test_event(state, request)
             self.assertEqual(receipt["producer_binding_status"], "attested")
             self.assertRegex(
                 receipt["producer_binding_attestation_sha256"],
@@ -1003,8 +1121,8 @@ class ReviewStatusPolicyTests(unittest.TestCase):
                 evidence_states=[],
             )
             second["occurred_at"] = f"{STUDY_DATE}T10:00:00Z"
-            append_event(state, first)
-            append_event(state, second)
+            append_test_event(state, first)
+            append_test_event(state, second)
             proposals = build_review_status_proposals(
                 load_events(state), self._bank(), study_date=STUDY_DATE
             )
@@ -1014,7 +1132,7 @@ class ReviewStatusPolicyTests(unittest.TestCase):
     def test_previous_mastery_is_reactivated_after_later_failure(self) -> None:
         with tempfile.TemporaryDirectory() as name:
             state = Path(name)
-            append_event(
+            append_test_event(
                 state,
                 capture_request(
                     key="reactivate",
@@ -1072,16 +1190,16 @@ class CandidateTests(unittest.TestCase):
             state = Path(folder) / "intake"
             request = capture_request()
             request["occurred_at"] = "2026-08-05T16:00:00Z"
-            append_event(state, request)
-            event = load_events(state)[0]
+            append_test_event(state, request)
+            event = first_sentence_event(state)
             candidate = luna_candidate(event, items=[])
             with self.assertRaises(ValidationError):
                 validate_luna_candidate(candidate, state_dir=state)
     def test_lasting_golden_renderer(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
-            append_event(state, capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"]))
-            event = load_events(state)[0]
+            append_test_event(state, capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"]))
+            event = first_sentence_event(state)
             candidate = luna_candidate(event, items=[lasting_item(event)])
             validate_luna_candidate(candidate, state_dir=state)
             rendered = render_luna_candidate(candidate)
@@ -1091,8 +1209,8 @@ class CandidateTests(unittest.TestCase):
     def test_mastery_gate_requires_independent_live_evidence(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
-            append_event(state, capture_request(evidence_states=["unknown_observed"]))
-            event = load_events(state)[0]
+            append_test_event(state, capture_request(evidence_states=["unknown_observed"]))
+            event = first_sentence_event(state)
             item = lasting_item(event)
             item["candidate_status"] = "mastery_candidate"
             item["mastered_status"] = "mastery_proposed"
@@ -1112,16 +1230,16 @@ class CandidateTests(unittest.TestCase):
     def test_zero_item_luna_package_is_valid(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
-            append_event(state, capture_request())
-            candidate = luna_candidate(load_events(state)[0], items=[])
+            append_test_event(state, capture_request())
+            candidate = luna_candidate(first_sentence_event(state), items=[])
             result = validate_luna_candidate(candidate, state_dir=state)
             self.assertEqual(result["item_count"], 0)
 
     def test_runtime_identity_unverified_is_eligible_but_mismatch_and_unavailable_block(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
             state = Path(folder) / "intake"
-            append_event(state, capture_request())
-            event = load_events(state)[0]
+            append_test_event(state, capture_request())
+            event = first_sentence_event(state)
             unverified = luna_candidate(event, items=[])
             unverified["runtime_identity"] = {
                 "requested": {"model": "gpt-5.6-luna", "reasoning_effort": "max"},
@@ -1161,8 +1279,8 @@ class NightlyWriterTests(unittest.TestCase):
         self.repo = self.base / "repo"
         self.state = self.base / "intake"
         make_formal_repo(self.repo)
-        append_event(self.state, capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"]))
-        self.event = load_events(self.state)[0]
+        append_test_event(self.state, capture_request(candidates=[word_candidate()], evidence_states=["unknown_observed"]))
+        self.event = first_sentence_event(self.state)
 
     def tearDown(self) -> None:
         self.temp.cleanup()
@@ -1459,7 +1577,12 @@ class ShadowFixtureTests(unittest.TestCase):
                     else:
                         stats["failures"] += 1
             self.assertEqual(stats, {"articles": 3, "sentences": 20, "candidates": 5, "failures": 0})
-            self.assertEqual(len(list((state / "events").glob("*/*.json"))), 20)
+            events = load_events(state)
+            self.assertEqual(len(events), 40)
+            self.assertEqual(
+                sum(event["event_type"] == RAW_DIALOGUE_EVENT_TYPE for event in events),
+                20,
+            )
             self.assertFalse((repo / "bank").exists())
 
 

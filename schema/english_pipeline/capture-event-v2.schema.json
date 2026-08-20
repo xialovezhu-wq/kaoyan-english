@@ -4,11 +4,11 @@
   "title": "English immutable capture event v2",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schema_version", "event_id", "event_type", "idempotency_key", "request_sha256", "occurred_at", "article", "producer", "formal_write_count", "formal_writeback"],
+  "required": ["schema_version", "event_id", "event_type", "idempotency_key", "request_sha256", "occurred_at", "producer", "formal_write_count", "formal_writeback"],
   "properties": {
     "schema_version": {"const": "english_capture_event_v2"},
     "event_id": {"type": "string", "pattern": "^EVT-[0-9]{8}-[A-F0-9]{16}$"},
-    "event_type": {"enum": ["sentence_captured", "sentence_correction", "article_completed"]},
+    "event_type": {"enum": ["sentence_captured", "sentence_correction", "article_completed", "english_raw_dialogue_turn_v1"]},
     "idempotency_key": {"type": "string", "minLength": 1},
     "request_sha256": {"$ref": "#/$defs/sha256"},
     "occurred_at": {"type": "string", "format": "date-time"},
@@ -22,15 +22,57 @@
     "supersedes_event_id": {"type": "string"},
     "correction_reason": {"type": "string"},
     "completion": {"type": "object"},
+    "parent_raw_capture_id": {"type": "string", "minLength": 1},
+    "messages": {"type": "array", "minItems": 2, "items": {"$ref": "#/$defs/message"}},
+    "attachments": {"type": "array", "items": {"$ref": "#/$defs/attachment"}},
+    "context_identity": {"$ref": "#/$defs/context_identity"},
+    "resolution_status": {"enum": ["resolved", "unresolved"]},
     "producer": {"type": "object"},
     "formal_write_count": {"const": 0},
     "formal_writeback": {"const": "none"}
   },
   "allOf": [
-    {"if": {"properties": {"event_type": {"enum": ["sentence_captured", "sentence_correction"]}}}, "then": {"required": ["source", "learning", "candidates", "observed_signals", "source_signal_ids", "capture_coverage"]}}
+    {"if": {"properties": {"event_type": {"enum": ["sentence_captured", "sentence_correction"]}}}, "then": {"required": ["article", "source", "learning", "candidates", "observed_signals", "source_signal_ids", "capture_coverage", "parent_raw_capture_id"]}},
+    {"if": {"properties": {"event_type": {"const": "article_completed"}}}, "then": {"required": ["article", "completion"]}},
+    {"if": {"properties": {"event_type": {"const": "english_raw_dialogue_turn_v1"}}}, "then": {"required": ["messages", "attachments", "context_identity", "resolution_status"]}}
   ],
   "$defs": {
     "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "message": {
+      "type": "object",
+      "required": ["role", "message_id", "timestamp", "content"],
+      "properties": {
+        "role": {"enum": ["user", "assistant"]},
+        "message_id": {"type": "string", "minLength": 1},
+        "timestamp": {"type": "string", "format": "date-time"},
+        "content": {"type": "string", "minLength": 1},
+        "complete": {"const": true}
+      },
+      "additionalProperties": false
+    },
+    "attachment": {
+      "type": "object",
+      "required": ["attachment_id", "metadata", "sha256", "durable_ref"],
+      "properties": {
+        "attachment_id": {"type": "string", "minLength": 1},
+        "message_id": {"type": "string", "minLength": 1},
+        "metadata": {"type": "object"},
+        "sha256": {"$ref": "#/$defs/sha256"},
+        "durable_ref": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "context_identity": {
+      "type": "object",
+      "required": ["conversation_id", "thread_id", "workspace_id", "assistant_context_id"],
+      "properties": {
+        "conversation_id": {"type": "string", "minLength": 1},
+        "thread_id": {"type": "string", "minLength": 1},
+        "workspace_id": {"type": "string", "minLength": 1},
+        "assistant_context_id": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
     "candidate": {
       "type": "object", "additionalProperties": false,
       "required": ["item", "candidate_type", "meaning", "decision", "source_signal_ids"],

@@ -11,8 +11,9 @@ import tempfile
 import unittest
 from pathlib import Path
 
+from english_pipeline.constants import RAW_DIALOGUE_EVENT_TYPE
 from english_pipeline.errors import ValidationError
-from english_pipeline.events import append_event
+from english_pipeline.events import append_event, append_raw_dialogue_turn
 from english_pipeline.quick_flush import (
     publish_quick_flush_intent,
     verify_quick_flush_intent,
@@ -127,8 +128,47 @@ class QuickFlushIntentTests(unittest.TestCase):
             source_hash=self.source_hash,
         )
 
+    def _raw_parent(self, key: str) -> str:
+        token = hashlib.sha256(key.encode("utf-8")).hexdigest()[:12]
+        receipt = append_raw_dialogue_turn(
+            self.state,
+            {
+                "event_type": RAW_DIALOGUE_EVENT_TYPE,
+                "idempotency_key": f"synthetic-parent:{key}",
+                "occurred_at": "2026-08-13T08:59:00Z",
+                "messages": [
+                    {
+                        "role": "user",
+                        "message_id": f"synthetic-user-{token}",
+                        "timestamp": "2026-08-13T08:58:00Z",
+                        "content": "Synthetic quick-flush user message.",
+                    },
+                    {
+                        "role": "assistant",
+                        "message_id": f"synthetic-assistant-{token}",
+                        "timestamp": "2026-08-13T08:59:00Z",
+                        "content": "Synthetic complete quick-flush reply.",
+                        "complete": True,
+                    },
+                ],
+                "attachments": [],
+                "context_identity": {
+                    "conversation_id": f"synthetic-conversation-{token}",
+                    "thread_id": f"synthetic-thread-{token}",
+                    "workspace_id": "synthetic-workspace",
+                    "assistant_context_id": "synthetic-assistant-context",
+                },
+                "resolution_status": "resolved",
+            },
+        )
+        return str(receipt["capture_id"])
+
     def _publish(self) -> tuple[dict, dict, dict]:
-        capture = append_event(self.state, self._request())
+        request_value = self._request()
+        request_value["parent_raw_capture_id"] = self._raw_parent(
+            str(request_value["idempotency_key"])
+        )
+        capture = append_event(self.state, request_value)
         event = load_json(Path(capture["event_path"]))
         receipt = load_json(Path(capture["receipt_path"]))
         result = publish_quick_flush_intent(
@@ -194,9 +234,13 @@ class QuickFlushIntentTests(unittest.TestCase):
             )
 
     def test_cli_quick_flush_returns_event_and_intent_receipts(self) -> None:
+        request_value = self._request(key="quick-flush-cli")
+        request_value["parent_raw_capture_id"] = self._raw_parent(
+            "quick-flush-cli"
+        )
         request_path = Path(self.temp.name) / "request.json"
         request_path.write_text(
-            json.dumps(self._request(key="quick-flush-cli"), ensure_ascii=False),
+            json.dumps(request_value, ensure_ascii=False),
             encoding="utf-8",
         )
         script = Path(__file__).resolve().parents[2] / "scripts" / "english_learning_pipeline.py"
