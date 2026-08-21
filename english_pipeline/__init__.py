@@ -1,4 +1,6 @@
-"""Portable English Study Intake V2 foreground pipeline."""
+"""Evidence-bounded English learning producer/consumer pipeline."""
 
-__all__ = ["__version__"]
+from .constants import DEFAULT_STATE_DIR
+
+__all__ = ["DEFAULT_STATE_DIR"]
 __version__ = "0.1.0"

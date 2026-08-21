@@ -1,10 +1,3 @@
-"""Portable constants for the English pipeline.
-
-The module deliberately derives repository paths from its own location.  No
-machine-specific workspace path is part of the source closure; deployments can
-override the state root through ``ENGLISH_PIPELINE_STATE_DIR`` or the CLI flag.
-"""
-
 from __future__ import annotations
 
 import os
@@ -15,31 +8,8 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_STATE_DIR = Path(
     os.environ.get("ENGLISH_PIPELINE_STATE_DIR", str(REPO_ROOT / "intake"))
 ).expanduser()
-
+SCHEMA_DIR = REPO_ROOT / "schema" / "english_pipeline"
 RAW_DIALOGUE_EVENT_TYPE = "english_raw_dialogue_turn_v1"
-
-# User-facing evidence vocabulary.  The capture layer preserves these values;
-# later review code decides how they affect selection.
-EVIDENCE_STATES = frozenset(
-    {
-        "unknown_observed",
-        "mistranslated_observed",
-        "structure_trap",
-        "guided_understood",
-        "independent_correct_use",
-        "nonreport",
-    }
-)
-USER_EVIDENCE = frozenset(
-    {
-        "unknown",
-        "mistranslated",
-        "structure_trap",
-        "guided_understood",
-        "independent_correct_use",
-        "nonreport",
-    }
-)
 
 MASTER_HEADER = [
     "id",
@@ -57,7 +27,6 @@ MASTER_HEADER = [
     "last_seen",
 ]
 MASTERED_HEADER = [
-    "id",
     "item",
     "matched_id",
     "matched_type",
@@ -66,9 +35,6 @@ MASTERED_HEADER = [
     "evidence_context",
     "proof_note",
 ]
-
-# The formal sentence-pattern surface has one heading plus these fourteen
-# fields.  Keep the order stable because it is part of the append-only format.
 SP_FIELDS = [
     "title",
     "骨架",
@@ -86,3 +52,28 @@ SP_FIELDS = [
     "use_count",
     "last_used",
 ]
+
+MASTER_TYPES = {"单词", "词组", "熟词僻义", "句型", "长难句", "写作表达"}
+WRITING_VALUES = {"适合", "一般", "不建议"}
+USER_EVIDENCE = {
+    "unknown",
+    "mistranslated",
+    "missed",
+    "familiar_new_meaning",
+    "structure_trap",
+    "question_logic",
+    "direct_explanation",
+    "other",
+}
+EVIDENCE_STATES = {
+    "unknown_observed",
+    "guided_understood",
+    "independent_correct_use",
+}
+STRONG_A_EVIDENCE = {"unknown", "mistranslated", "missed", "familiar_new_meaning"}
+
+FORMAL_FILES = {
+    "master_bank": Path("bank/master_bank.csv"),
+    "mastered_items": Path("bank/mastered_items.csv"),
+    "sentence_patterns": Path("bank/sentence_patterns.md"),
+}

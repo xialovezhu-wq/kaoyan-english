@@ -1,89 +1,95 @@
-"""Portable adapters for the English formal bank surface."""
-
 from __future__ import annotations
 
 import csv
+import io
 import re
 from pathlib import Path
 from typing import Any
 
-from .constants import MASTERED_HEADER, MASTER_HEADER, SP_FIELDS
+from .constants import FORMAL_FILES, MASTERED_HEADER, MASTER_HEADER, SP_FIELDS
+from .errors import ValidationError
 from .util import file_sha256
 
 
-FORMAL_RELATIVE_PATHS = (
-    Path("bank/master_bank.csv"),
-    Path("bank/mastered_items.csv"),
-    Path("bank/sentence_patterns.md"),
-)
+def resolve_formal_paths(repo_root: Path) -> dict[str, Path]:
+    return {name: (repo_root / relative).resolve() for name, relative in FORMAL_FILES.items()}
 
 
-def formal_hashes(repo_root: Path) -> dict[str, str | None]:
-    root = Path(repo_root)
-    return {
-        str(relative): file_sha256(root / relative) if (root / relative).is_file() else None
-        for relative in FORMAL_RELATIVE_PATHS
-    }
+def formal_hashes(repo_root: Path) -> dict[str, str]:
+    paths = resolve_formal_paths(repo_root)
+    missing = [str(path) for path in paths.values() if not path.is_file()]
+    if missing:
+        raise ValidationError(f"formal files missing: {missing}")
+    return {name: file_sha256(path) for name, path in paths.items()}
 
 
-def _read_csv(path: Path, header: list[str]) -> list[dict[str, str]]:
-    if not path.is_file():
-        return []
-    with path.open(encoding="utf-8", newline="") as handle:
+def read_csv(path: Path, expected_header: list[str]) -> list[dict[str, str]]:
+    with path.open(encoding="utf-8-sig", newline="") as handle:
         reader = csv.DictReader(handle)
-        return [
-            {key: str(row.get(key, "")) for key in header}
-            for row in reader
-        ]
+        if reader.fieldnames != expected_header:
+            raise ValidationError(
+                f"CSV header mismatch for {path}: expected {expected_header}, got {reader.fieldnames}"
+            )
+        rows = list(reader)
+    for index, row in enumerate(rows, start=2):
+        if None in row:
+            raise ValidationError(f"CSV width mismatch for {path}:{index}")
+    return rows
 
 
-def read_master_bank(repo_root: Path) -> list[dict[str, str]]:
-    return _read_csv(Path(repo_root) / "bank/master_bank.csv", MASTER_HEADER)
-
-
-def read_mastered_items(repo_root: Path) -> list[dict[str, str]]:
-    return _read_csv(Path(repo_root) / "bank/mastered_items.csv", MASTERED_HEADER)
-
-
-def _sentence_pattern_cards(path: Path) -> list[dict[str, Any]]:
-    if not path.is_file():
-        return []
-    lines = path.read_text(encoding="utf-8").splitlines()
-    cards: list[dict[str, Any]] = []
-    current: dict[str, Any] | None = None
-    for line in lines:
-        if line.startswith("## "):
-            if current is not None:
-                cards.append(current)
-            current = {"title": line[3:].strip()}
-            continue
-        if current is None or not line.startswith("- ") or "：" not in line:
-            continue
-        key, value = line[2:].split("：", 1)
-        current[key.strip()] = value.strip()
-    if current is not None:
-        cards.append(current)
-    return cards
-
-
-def read_sentence_patterns(repo_root: Path) -> list[dict[str, Any]]:
-    return _sentence_pattern_cards(Path(repo_root) / "bank/sentence_patterns.md")
+def serialize_csv(rows: list[dict[str, Any]], header: list[str]) -> bytes:
+    stream = io.StringIO(newline="")
+    writer = csv.DictWriter(stream, fieldnames=header, lineterminator="\n")
+    writer.writeheader()
+    for row in rows:
+        writer.writerow({field: row.get(field, "") for field in header})
+    return stream.getvalue().encode("utf-8")
 
 
 def formal_snapshot(repo_root: Path) -> dict[str, Any]:
-    cards = read_sentence_patterns(repo_root)
-    field_count = 15 if cards else 0
-    if cards:
-        field_count = max(
-            len(set().union(*(set(card) for card in cards))),
-            len(SP_FIELDS),
-        )
+    paths = resolve_formal_paths(repo_root)
+    master_rows = read_csv(paths["master_bank"], MASTER_HEADER)
+    mastered_rows = read_csv(paths["mastered_items"], MASTERED_HEADER)
+    sentence_patterns = paths["sentence_patterns"].read_text(encoding="utf-8")
+    sp_validation = validate_sentence_patterns_text(sentence_patterns)
     return {
-        "master_bank": {"row_count": len(read_master_bank(repo_root))},
-        "mastered_items": {"row_count": len(read_mastered_items(repo_root))},
-        "sentence_patterns": {
-            "field_count": field_count,
-            "card_count": len(cards),
+        "master_bank": {
+            "path": str(paths["master_bank"]),
+            "sha256": file_sha256(paths["master_bank"]),
+            "column_count": len(MASTER_HEADER),
+            "header": MASTER_HEADER,
+            "row_count": len(master_rows),
         },
-        "formal_hashes": formal_hashes(Path(repo_root)),
+        "mastered_items": {
+            "path": str(paths["mastered_items"]),
+            "sha256": file_sha256(paths["mastered_items"]),
+            "column_count": len(MASTERED_HEADER),
+            "header": MASTERED_HEADER,
+            "row_count": len(mastered_rows),
+        },
+        "sentence_patterns": {
+            "path": str(paths["sentence_patterns"]),
+            "sha256": file_sha256(paths["sentence_patterns"]),
+            "field_count": len(SP_FIELDS),
+            "fields": SP_FIELDS,
+            "card_count": sp_validation["card_count"],
+        },
     }
+
+
+def validate_sentence_patterns_text(text: str) -> dict[str, Any]:
+    headings = list(re.finditer(r"^## (SP-\d{3})｜(.+)$", text, flags=re.MULTILINE))
+    ids = [match.group(1) for match in headings]
+    if len(ids) != len(set(ids)):
+        raise ValidationError("sentence_patterns contains duplicate SP ids")
+    expected = SP_FIELDS[1:]
+    for index, match in enumerate(headings):
+        start = match.end()
+        end = headings[index + 1].start() if index + 1 < len(headings) else len(text)
+        block = text[start:end]
+        observed = re.findall(r"^\*\*(.+?)\*\*：", block, flags=re.MULTILINE)
+        if observed != expected:
+            raise ValidationError(
+                f"sentence_patterns {match.group(1)} field order mismatch: expected {expected}, got {observed}"
+            )
+    return {"card_count": len(headings), "ids": ids, "field_count": len(SP_FIELDS)}

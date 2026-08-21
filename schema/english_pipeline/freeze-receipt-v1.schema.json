@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.kaoyan-english/schema/english_pipeline/freeze-receipt-v1.schema.json",
+  "title": "Nightly freeze CLI receipt v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "status", "batch_id", "study_date", "manifest", "candidate_count", "capture_event_count", "uncovered_capture_event_ids", "runtime_identity_summary", "formal_write_count", "formal_writeback"],
+  "properties": {
+    "schema_version": {"const": "english_freeze_receipt_v1"},
+    "status": {"enum": ["frozen", "needs_preprocess", "NOOP"]},
+    "batch_id": {"type": "string", "pattern": "^EN-BATCH-[0-9]{8}-[A-F0-9]{12}$"},
+    "study_date": {"type": "string", "format": "date"},
+    "manifest": {"type": "string", "minLength": 1},
+    "candidate_count": {"type": "integer", "minimum": 0},
+    "capture_event_count": {"type": "integer", "minimum": 0},
+    "uncovered_capture_event_ids": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+    "runtime_identity_summary": {
+      "type": "object", "additionalProperties": false,
+      "required": ["confirmed", "requested_unverified", "mismatch", "unavailable"],
+      "properties": {
+        "confirmed": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+        "requested_unverified": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+        "mismatch": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+        "unavailable": {"type": "array", "uniqueItems": true, "items": {"type": "string"}}
+      }
+    },
+    "formal_write_count": {"const": 0},
+    "formal_writeback": {"const": "none"}
+  }
+}

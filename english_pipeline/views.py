@@ -1,102 +1,128 @@
-"""Read-only projections derived from immutable English capture events."""
-
 from __future__ import annotations
 
+import hashlib
 import json
+import re
+from collections import defaultdict
+from datetime import date
 from pathlib import Path
 from typing import Any
 
+from .constants import MASTERED_HEADER, MASTER_HEADER, STRONG_A_EVIDENCE
 from .events import append_event, effective_sentence_events, load_events
-from .formal import formal_hashes
-from .util import atomic_write_json, atomic_write_text, file_sha256, object_sha256, parse_iso_date
+from .formal import formal_hashes, read_csv, resolve_formal_paths
+from .util import atomic_write_json, atomic_write_text, normalize_item, object_sha256, parse_iso_date, utc_now
+
+
+QUICK_CAPTURE_PROJECTION_SCHEMA = "english_quick_capture_projection_v2"
+QUICK_CAPTURE_BINDING_PREFIX = "<!-- study-intake-projection-binding-v1 "
 
 
 def quick_capture_projection_binding(
-    events: list[dict[str, Any]], *, article_id: str | None = None, study_date: str | None = None
+    effective_events: list[dict[str, Any]],
+    *,
+    article_id: str | None,
+    study_date: str | None,
 ) -> dict[str, Any]:
-    effective = effective_sentence_events(
-        events,
+    # Raw dialogue turns share the durable event store but are not sentence
+    # projection rows.  Always re-derive the effective sentence view so a
+    # caller cannot accidentally count parent raw turns as learning items.
+    selected = effective_sentence_events(
+        effective_events,
         article_id=article_id,
         study_date=study_date,
     )
-    effective = sorted(effective, key=lambda event: str(event.get("event_id", "")))
-    event_ids = [str(event["event_id"]) for event in effective]
-    high_water = object_sha256(
-        [
-            {
-                "event_id": event["event_id"],
-                "event_sha256": object_sha256(event),
-            }
-            for event in effective
-        ]
-    )
+    ordered = sorted(selected, key=lambda event: str(event["event_id"]))
+    rows = [f"{event['event_id']}:{object_sha256(event)}" for event in ordered]
     return {
-        "schema_version": "study-intake-projection-binding-v1",
+        "schema_version": QUICK_CAPTURE_PROJECTION_SCHEMA,
         "data_role": "projection",
-        "article_id": article_id,
+        "source_id": article_id or "all",
         "study_date": study_date,
-        "effective_event_ids": event_ids,
-        "effective_event_count": len(event_ids),
-        "effective_event_high_water_sha256": high_water,
+        "effective_event_ids": [event["event_id"] for event in ordered],
+        "effective_event_count": len(ordered),
+        "effective_event_high_water_sha256": hashlib.sha256(
+            "\n".join(rows).encode("utf-8")
+        ).hexdigest(),
         "formal_write_count": 0,
     }
 
 
-def _safe_learning(event: dict[str, Any]) -> list[str]:
-    learning = event.get("learning", {})
-    if not isinstance(learning, dict):
-        return []
-    source_kind = str(event.get("source", {}).get("source_kind", ""))
-    answer_protection = str(learning.get("answer_protection", ""))
-    if source_kind == "explanation":
-        return ["受保护解析正文不在可重建视图回显"]
-    result = []
-    for label, key in (
-        ("首译", "first_translation"),
-        ("用户证据", "user_evidence_verbatim"),
-        ("翻译", "translation"),
-        ("首个断点", "first_breakpoint"),
-        ("复述", "restatement"),
-    ):
-        value = learning.get(key)
-        if value is not None and value != "":
-            result.append(f"- {label}：{value}")
-    return result
+def _quick_capture_binding_line(binding: dict[str, Any]) -> str:
+    return (
+        QUICK_CAPTURE_BINDING_PREFIX
+        + json.dumps(binding, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+        + " -->"
+    )
+
+
+def safe_name(value: str) -> str:
+    cleaned = re.sub(r"[^A-Za-z0-9._-]+", "-", value.strip()).strip("-.")
+    return cleaned or "article"
 
 
 def render_quick_capture(
-    events: list[dict[str, Any]], *, article_id: str | None = None, study_date: str | None = None
+    events: list[dict[str, Any]],
+    *,
+    article_id: str | None = None,
+    study_date: str | None = None,
 ) -> str:
     effective = effective_sentence_events(events, article_id=article_id, study_date=study_date)
-    effective = sorted(effective, key=lambda event: str(event.get("event_id", "")))
     binding = quick_capture_projection_binding(
-        events,
+        effective,
         article_id=article_id,
         study_date=study_date,
     )
-    binding_text = json.dumps(binding, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
-    lines = [f"<!-- study-intake-projection-binding-v1 {binding_text} -->", ""]
-    if not effective:
-        lines.append("暂无当前筛选范围内的句子捕获。")
-        return "\n".join(lines) + "\n"
+    title = article_id or "全部文章"
+    lines = [
+        _quick_capture_binding_line(binding),
+        f"# 英语快速入库视图｜{title}",
+        "",
+        "> 本页由 append-only capture events 重建；它是可重建视图，不是正式学习库。",
+        "",
+        f"- 日期筛选：{study_date or '全部'}",
+        f"- 有效句子事件：{len(effective)}",
+        "- formal_write_count：0",
+        "- formal_writeback：none",
+        "",
+    ]
     for event in effective:
-        source = event.get("source", {})
+        source = event["source"]
+        learning = event["learning"]
+        protected_explanation = source.get("source_kind") == "explanation"
         lines.extend(
             [
-                f"## {source.get('sentence_id', event.get('event_id', ''))}",
+                f"## {source['sentence_id']}｜{event['event_id']}",
                 "",
-                f"事件：{event.get('event_id', '')}",
-                f"来源类型：{source.get('source_kind', '')}",
+                f"- 来源文章：{event['article']['source_article']}",
+                f"- 原句：{'[受保护解析正文不在可重建视图回显]' if protected_explanation else source['source_sentence']}",
+                f"- 文章 source hash：`{event['article']['source_hash']}`",
+                f"- 句子 sentence hash：`{source['sentence_hash']}`",
+                f"- 第一遍翻译：{'[不回显]' if protected_explanation else learning.get('first_translation', '')}",
+                f"- 用户证据：{'|'.join(learning.get('user_evidence', []))}",
+                f"- 证据来源：{learning.get('evidence_origin', '')}",
+                f"- 提示层级：L{learning.get('hint_level', 0)}",
+                f"- 答案保护：{learning.get('answer_protection', '')}",
             ]
         )
-        if source.get("source_kind") != "explanation":
-            lines.extend([f"原句：{source.get('source_sentence', '')}"])
-        lines.extend(_safe_learning(event))
+        if learning.get("translation") and not protected_explanation:
+            lines.append(f"- 本轮译文：{learning['translation']}")
+        if learning.get("explanation") and not protected_explanation:
+            lines.append(f"- 本轮讲解：{learning['explanation']}")
+        if event.get("supersedes_event_id"):
+            lines.append(f"- 更正替代：{event['supersedes_event_id']}")
+        lines.extend(["", "### 本句候选", ""])
         candidates = event.get("candidates", [])
-        if candidates:
-            lines.append("候选：" + "、".join(str(row.get("item", "")) for row in candidates))
+        if not candidates:
+            lines.append("- 无")
+        for candidate in ([] if protected_explanation else candidates):
+            lines.append(
+                f"- {candidate['item']}｜{candidate['candidate_type']}｜"
+                f"{candidate.get('meaning', '')}｜{candidate['decision']}｜"
+                f"{candidate.get('tier_hint', '待分层')}"
+            )
         lines.append("")
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def write_quick_capture_view(
@@ -106,38 +132,159 @@ def write_quick_capture_view(
     study_date: str | None = None,
     output: Path | None = None,
 ) -> tuple[Path, str]:
-    state_dir = Path(state_dir)
     events = load_events(state_dir)
-    if study_date is None:
-        matching = [event for event in events if event.get("event_type") in {"sentence_captured", "sentence_correction"}]
-        study_date = parse_iso_date(str(matching[-1]["occurred_at"])) if matching else "unknown"
     text = render_quick_capture(events, article_id=article_id, study_date=study_date)
-    path = Path(output) if output is not None else state_dir / "views" / study_date / f"{article_id or 'all'}-quick-capture.md"
+    day = study_date or date.today().isoformat()
+    path = output or state_dir / "views" / day / f"{safe_name(article_id or 'all')}-quick-capture.md"
     atomic_write_text(path, text)
     return path, text
 
 
-def _export_candidates(events: list[dict[str, Any]], article_id: str, study_date: str) -> dict[str, Any]:
-    tier_counts = {"A": 0, "B": 0, "C": 0}
-    items: list[dict[str, Any]] = []
-    for event in effective_sentence_events(events, article_id=article_id, study_date=study_date):
+def _classify_candidate(candidate: dict[str, Any], evidence: set[str]) -> tuple[str, str]:
+    explicit = candidate.get("tier_hint")
+    if explicit in {"A", "B", "C"}:
+        return str(explicit), "capture tier_hint"
+    if evidence & STRONG_A_EVIDENCE:
+        return "A", "explicit unknown, mistranslated, missed or familiar-new-meaning evidence"
+    if candidate.get("candidate_type") in {"词组", "熟词僻义", "句型", "写作表达"}:
+        return "B", "stable phrase, sense, structure or writing-transfer value"
+    return "C", "recognition value without a current strong A/B signal"
+
+
+def build_article_export(
+    events: list[dict[str, Any]],
+    *,
+    completion_event: dict[str, Any],
+    repo_root: Path,
+    hashes_before: dict[str, str],
+) -> dict[str, Any]:
+    article_id = completion_event["article"]["article_id"]
+    effective_ids = set(completion_event["completion"]["effective_capture_event_ids"])
+    effective = [
+        event
+        for event in effective_sentence_events(events, article_id=article_id)
+        if event["event_id"] in effective_ids and event.get("source", {}).get("source_kind") != "explanation"
+    ]
+    paths = resolve_formal_paths(repo_root)
+    master_rows = read_csv(paths["master_bank"], MASTER_HEADER)
+    mastered_rows = read_csv(paths["mastered_items"], MASTERED_HEADER)
+    bank_by_norm: dict[str, list[dict[str, str]]] = defaultdict(list)
+    for row in master_rows:
+        bank_by_norm[normalize_item(row["item"])].append(row)
+    mastered_norms = {normalize_item(row["item"]) for row in mastered_rows if normalize_item(row["item"])}
+    mastered_ids = {row["matched_id"].strip() for row in mastered_rows if row["matched_id"].strip()}
+
+    tiers: dict[str, list[dict[str, Any]]] = {"A": [], "B": [], "C": []}
+    exclusions: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    for event in effective:
+        evidence = set(event["learning"].get("user_evidence", []))
         for candidate in event.get("candidates", []):
-            decision = str(candidate.get("decision", ""))
-            tier = str(candidate.get("tier_hint", "C")).upper()
-            if decision == "not_recommended":
-                tier = "C"
-            if tier not in tier_counts:
-                tier = "C"
-            tier_counts[tier] += 1
-            items.append({**candidate, "tier": tier, "source_event_id": event["event_id"]})
+            item = candidate["item"].strip()
+            normalized = normalize_item(item)
+            if not normalized:
+                continue
+            if candidate["decision"] in {"article_only", "not_recommended"}:
+                exclusions.append(
+                    {
+                        "item": item,
+                        "status": candidate["decision"],
+                        "reason": candidate.get("reason", candidate["decision"]),
+                        "source_event_id": event["event_id"],
+                    }
+                )
+                continue
+            if normalized in seen:
+                exclusions.append(
+                    {"item": item, "status": "duplicate_candidate", "reason": "normalized duplicate in completion snapshot", "source_event_id": event["event_id"]}
+                )
+                continue
+            seen.add(normalized)
+            bank_matches = bank_by_norm.get(normalized, [])
+            if normalized in mastered_norms or any(row["id"] in mastered_ids for row in bank_matches):
+                exclusions.append(
+                    {"item": item, "status": "mastered_excluded", "reason": "matched mastered_items before bank classification", "source_event_id": event["event_id"]}
+                )
+                continue
+            tier, reason = _classify_candidate(candidate, evidence)
+            bank_status = "new_candidate"
+            if len(bank_matches) == 1:
+                bank_status = "existing_bank"
+            elif len(bank_matches) > 1:
+                bank_status = "duplicate_like"
+            tiers[tier].append(
+                {
+                    "item": item,
+                    "candidate_type": candidate["candidate_type"],
+                    "meaning": candidate.get("meaning", ""),
+                    "usage": candidate.get("usage", ""),
+                    "review_note": candidate.get("review_note", ""),
+                    "source_sentence": event["source"]["source_sentence"],
+                    "source_translation": event["learning"].get("translation", ""),
+                    "article_source_hash": event["article"]["source_hash"],
+                    "sentence_hash": event["source"]["sentence_hash"],
+                    "source_event_id": event["event_id"],
+                    "bank_status": bank_status,
+                    "bank_match_ids": [row["id"] for row in bank_matches],
+                    "user_evidence": sorted(evidence),
+                    "classification_reason": reason,
+                }
+            )
+    hashes_after = formal_hashes(repo_root)
     return {
         "schema_version": "english_article_export_v1",
-        "source_id": article_id,
-        "study_date": study_date,
-        "tier_counts": tier_counts,
-        "items": items,
+        "export_id": f"EXPORT-{completion_event['event_id'][4:]}",
+        "completion_event_id": completion_event["event_id"],
+        "article_id": article_id,
+        "source_id": completion_event["article"]["source_id"],
+        "study_date": completion_event["completion"]["study_date"],
+        "generated_at": utc_now(),
         "formal_write_count": 0,
+        "formal_writeback": "none",
+        "tiers": tiers,
+        "exclusions": exclusions,
+        "formal_hashes_before": hashes_before,
+        "formal_hashes_after": hashes_after,
     }
+
+
+def render_article_export(export: dict[str, Any]) -> str:
+    lines = [
+        f"# 不背单词候选｜{export['article_id']}",
+        "",
+        f"- 日期：{export['study_date']}",
+        f"- A/B/C：{len(export['tiers']['A'])}/{len(export['tiers']['B'])}/{len(export['tiers']['C'])}",
+        "- output-only：是",
+        "- formal_write_count：0",
+        "",
+    ]
+    labels = {"A": "A 类", "B": "B 类", "C": "C 类"}
+    for tier in ("A", "B", "C"):
+        lines.extend([f"## {labels[tier]}", ""])
+        if not export["tiers"][tier]:
+            lines.extend(["无", ""])
+            continue
+        for card in export["tiers"][tier]:
+            lines.extend(
+                [
+                    f"### {card['item']}：{card['meaning']}",
+                    "",
+                    f"原句：{card['source_sentence']}",
+                    f"原句中文：{card.get('source_translation', '')}",
+                    f"用法：{card.get('usage', '')}",
+                    f"一句话笔记：{card.get('review_note', '')}",
+                    f"长期库状态：{card['bank_status']}",
+                    f"分层依据：{card['classification_reason']}",
+                    "",
+                ]
+            )
+    if export["exclusions"]:
+        lines.extend(["## 已掌握、重复或仅文章保留", ""])
+        for row in export["exclusions"]:
+            lines.append(f"- {row['item']}：{row['status']}；{row['reason']}")
+        lines.append("")
+    lines.extend(["## 正式数据保护", "", "master_bank、mastered_items、sentence_patterns 未修改。", ""])
+    return "\n".join(lines)
 
 
 def complete_article(
@@ -149,42 +296,48 @@ def complete_article(
     study_date: str | None = None,
     output_dir: Path | None = None,
 ) -> dict[str, Any]:
-    state_dir = Path(state_dir)
-    repo_root = Path(repo_root)
-    events = load_events(state_dir)
-    effective = effective_sentence_events(events, article_id=article_id, study_date=study_date)
-    if not effective:
-        raise ValueError("no effective sentence captures for article")
-    if study_date is None:
-        study_date = parse_iso_date(str(effective[0]["occurred_at"]))
-    article = dict(effective[0]["article"])
-    completion = {
-        "study_date": study_date,
-        "effective_capture_event_ids": [event["event_id"] for event in effective],
-        "capture_event_sha256": {event["event_id"]: object_sha256(event) for event in effective},
-    }
+    events_before = load_events(state_dir)
+    effective = effective_sentence_events(events_before, article_id=article_id)
+    if effective:
+        article = effective[-1]["article"]
+    else:
+        raise ValueError(f"cannot complete article without at least one capture event: {article_id}")
+    study_date = study_date or date.today().isoformat()
+    hashes_before = formal_hashes(repo_root)
+    event_hashes = {event["event_id"]: object_sha256(event) for event in effective}
     request = {
         "event_type": "article_completed",
         "idempotency_key": idempotency_key,
-        "occurred_at": f"{study_date}T15:00:00Z",
         "article": article,
-        "completion": completion,
+        "completion": {
+            "study_date": study_date,
+            "effective_capture_event_ids": [event["event_id"] for event in effective],
+            "capture_event_sha256": event_hashes,
+        },
     }
-    receipt = append_event(state_dir, request)
-    export = _export_candidates(events, article_id, study_date)
-    destination = Path(output_dir) if output_dir is not None else state_dir / "exports" / study_date
-    export_path = destination / f"{article_id}-abc.json"
-    atomic_write_json(export_path, export)
+    capture_receipt = append_event(state_dir, request)
+    events_after = load_events(state_dir)
+    completion_event = next(event for event in events_after if event["event_id"] == capture_receipt["capture_id"])
+    export = build_article_export(events_after, completion_event=completion_event, repo_root=repo_root, hashes_before=hashes_before)
+    package_id = export["export_id"]
+    directory = output_dir or state_dir / "views" / study_date
+    json_path = directory / f"{package_id}.abc.json"
+    markdown_path = directory / f"{package_id}.abc.md"
+    atomic_write_json(json_path, export)
+    atomic_write_text(markdown_path, render_article_export(export))
     return {
         "schema_version": "english_article_completion_receipt_v1",
-        "status": receipt.get("status", "created"),
-        "completion_event_id": receipt["capture_id"],
-        "source_id": article_id,
+        "receipt_id": f"COMPLETE-{completion_event['event_id'][4:]}",
+        "completion_event_id": completion_event["event_id"],
+        "capture_status": capture_receipt["status"],
+        "article_id": article_id,
+        "source_id": completion_event["article"]["source_id"],
         "study_date": study_date,
-        "effective_capture_event_ids": completion["effective_capture_event_ids"],
-        "tier_counts": export["tier_counts"],
-        "export_json": str(export_path),
-        "formal_sources_unchanged": True,
+        "effective_capture_event_ids": completion_event["completion"]["effective_capture_event_ids"],
+        "export_json": str(json_path),
+        "export_markdown": str(markdown_path),
+        "tier_counts": {tier: len(export["tiers"][tier]) for tier in ("A", "B", "C")},
         "formal_write_count": 0,
         "formal_writeback": "none",
+        "formal_sources_unchanged": export["formal_hashes_before"] == export["formal_hashes_after"],
     }

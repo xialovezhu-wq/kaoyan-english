@@ -30,8 +30,6 @@ PRODUCER_BINDING_DESCRIPTOR_EXAMPLE_PATH = (
     / "english_pipeline"
     / "producer-binding-v1.example.json"
 )
-# Kept as a compatibility alias for callers that inspect the producer binding
-# symbol; runtime resolution never reads this placeholder as a descriptor.
 PRODUCER_BINDING_DESCRIPTOR_PATH = PRODUCER_BINDING_DESCRIPTOR_EXAMPLE_PATH
 
 # Capture is a producer-owned, release-neutral fact object.  These names are
@@ -592,9 +590,8 @@ def _producer_binding(
     state_dir: Path, event: Mapping[str, Any]
 ) -> dict[str, Any]:
     try:
-        descriptor_path = resolve_descriptor_path(state_dir)
         return publish_attestation(
-            descriptor_path=descriptor_path,
+            descriptor_path=resolve_descriptor_path(state_dir),
             repo_root=state_dir.parent,
             subject="english",
             capture_id=str(event["event_id"]),

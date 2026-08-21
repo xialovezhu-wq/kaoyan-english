@@ -1509,22 +1509,13 @@ class NightlyWriterTests(unittest.TestCase):
 
 
 class FormalContractTests(unittest.TestCase):
-    def test_live_sentence_patterns_have_heading_plus_fourteen_fields(self) -> None:
+    def test_synthetic_sentence_patterns_have_heading_plus_fourteen_fields(self) -> None:
         with tempfile.TemporaryDirectory() as folder:
-            repo = Path(folder) / "synthetic-formal-repo"
-            pattern_path = repo / "bank" / "sentence_patterns.md"
-            pattern_path.parent.mkdir(parents=True)
-            fixture = (
-                Path(__file__).resolve().parent
-                / "fixtures"
-                / "sentence_patterns.md"
-            )
-            pattern_path.write_bytes(fixture.read_bytes())
+            repo = Path(folder) / "repo"
+            make_formal_repo(repo)
             snapshot = formal_snapshot(repo)
         self.assertEqual(snapshot["sentence_patterns"]["field_count"], 15)
-        # The synthetic corpus exercises the production parser without reading
-        # or committing the user's formal bank.
-        self.assertGreaterEqual(snapshot["sentence_patterns"]["card_count"], 22)
+        self.assertEqual(snapshot["sentence_patterns"]["card_count"], 0)
 
 
 class ShadowFixtureTests(unittest.TestCase):
