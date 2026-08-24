@@ -93,8 +93,8 @@ def build_parser() -> argparse.ArgumentParser:
         "--quick-flush",
         action="store_true",
         help=(
-            "Publish one signed, event-bound immediate microbatch intent. "
-            "This does not alter the ordinary 5-capture/180-second policy."
+            "Compatibility spelling only. Every successful sentence capture "
+            "already publishes one signed, event-bound quick-flush intent."
         ),
     )
 
@@ -436,13 +436,12 @@ def run(args: argparse.Namespace) -> dict[str, Any]:
             canonical_receipt["status"] = "created"
             canonical_receipt["replayed"] = False
         atomic_write_json(Path(receipt["receipt_path"]), canonical_receipt)
-        if args.quick_flush:
-            quick_flush_receipt = publish_quick_flush_intent(
-                state_dir,
-                event=event,
-                capture_receipt=canonical_receipt,
-            )
-            receipt["quick_flush"] = quick_flush_receipt
+        quick_flush_receipt = publish_quick_flush_intent(
+            state_dir,
+            event=event,
+            capture_receipt=canonical_receipt,
+        )
+        receipt["quick_flush"] = quick_flush_receipt
         return receipt
     if args.command == "complete-article":
         source_id = args.source_id or args.article_id
