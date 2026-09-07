@@ -3,8 +3,8 @@
   "subject": "english",
   "repository": "xialovezhu-wq/kaoyan-english",
   "branch": "main",
-  "local_version": "db71c34f7151da9cd2a15a81f7568635df15d961b72400d8fbb4e95d3548cbf0",
-  "event_id": "R11-baseline-20260907",
+  "local_version": "ccfe2e5012738f2f3ff8f45dcc450102e5eff560f0a6dadbf073d641a84e9f6a",
+  "event_id": "R11-english-derived-refresh",
   "history_index": [
     "articles",
     "review",
@@ -20,7 +20,7 @@
   ],
   "counts": {
     "files": 3707,
-    "bytes": 1651422552,
+    "bytes": 1651445846,
     "current_files": 3707,
     "retained_files": 0,
     "lfs_files": 1
@@ -9135,8 +9135,6 @@
     "bank/learning_events.jsonl": "not_created",
     "bank/review_exclusion_ledger.jsonl": "not_created"
   },
-  "inventory_note": "Mechanical byte coverage. Use existing history_index and entrypoints for study evidence.",
-  "lfs_budget_gate": "ZERO_OVERAGE_BUDGET_VERIFIED",
   "file_inventory": [
     {
       "path": "published-inventory/906c7ff47cd7-001.jsonl",
@@ -9182,7 +9180,7 @@
     },
     {
       "path": "published-inventory/d7439bee2477-001.jsonl",
-      "sha256": "fb02414cbf47cd348fbc7a3e23c6b0e7ea015f1ab4ecf8d0860f48dfb4984eea",
+      "sha256": "fbde3c75bf8a04409947504056a28d387d2bc7178947c73c24a94eb1566a6b83",
       "count": 1538,
       "bytes": 524063,
       "source_directory": "raw"
@@ -9203,10 +9201,11 @@
     },
     {
       "path": "published-inventory/12a435ec8454-001.jsonl",
-      "sha256": "cc90c6a95ba32724a3b33b8599be2e5c1ccd4e7dcbf09283bef0bd0a48a85253",
+      "sha256": "de06712a217e2b434915bbb3de0c210fe389093e7fa8e844406cd34883b9abe1",
       "count": 42,
       "bytes": 13722,
       "source_directory": "wiki"
     }
-  ]
+  ],
+  "inventory_note": "Mechanical byte coverage. Use existing history_index and entrypoints for study evidence."
 }

@@ -890,7 +890,19 @@
         "LEARNER-20260806-079",
         "LEARNER-20260806-080",
         "LEARNER-20260806-081",
-        "LEARNER-20260806-082"
+        "LEARNER-20260806-082",
+        "LEARNER-20260813-001",
+        "LEARNER-20260813-002",
+        "LEARNER-20260813-003",
+        "LEARNER-20260813-004",
+        "LEARNER-20260813-005",
+        "LEARNER-20260813-006",
+        "LEARNER-20260813-007",
+        "LEARNER-20260813-008",
+        "LEARNER-20260813-009",
+        "LEARNER-20260813-010",
+        "LEARNER-20260813-011",
+        "LEARNER-20260813-012"
       ],
       "learner_evidence": [
         "REL-EVIDENCE-00D4421BC4683028",
@@ -1149,6 +1161,7 @@
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
         "REL-EVIDENCE-C181BD8A0EBEFB8A",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -1206,6 +1219,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -1213,6 +1227,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
@@ -13731,6 +13746,9 @@
       "contend": [
         "SYL-VOCAB-P018-L27"
       ],
+      "contend that": [
+        "LEARNER-20260813-009"
+      ],
       "content": [
         "SYL-VOCAB-P018-L28"
       ],
@@ -16085,6 +16103,9 @@
       "emerge": [
         "SYL-VOCAB-P025-L16"
       ],
+      "emerge as": [
+        "LEARNER-20260813-002"
+      ],
       "emergency": [
         "SYL-VOCAB-P025-L17"
       ],
@@ -17640,6 +17661,9 @@
       "force sb to do sth": [
         "LEARNER-20260607-008"
       ],
+      "forcing": [
+        "LEARNER-20260813-008"
+      ],
       "fore": [
         "SYL-VOCAB-P076-R27"
       ],
@@ -18521,6 +18545,9 @@
       ],
       "group": [
         "SYL-VOCAB-P032-L13"
+      ],
+      "group dynamics": [
+        "LEARNER-20260813-005"
       ],
       "grow": [
         "SYL-VOCAB-P032-L14"
@@ -19762,6 +19789,9 @@
       ],
       "improve ecological environment": [
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00479"
+      ],
+      "improve one's life": [
+        "LEARNER-20260813-012"
       ],
       "improve the living environment for residents, so as to promote their physical": [
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00589"
@@ -23635,6 +23665,7 @@
         "SYL-VOCAB-P045-L21"
       ],
       "official": [
+        "LEARNER-20260813-011",
         "SYL-VOCAB-P045-L22"
       ],
       "offset": [
@@ -24506,6 +24537,9 @@
         "LEARNER-20260607-050",
         "SYL-VOCAB-P047-R10"
       ],
+      "peer pressure": [
+        "LEARNER-20260813-001"
+      ],
       "pen": [
         "SYL-VOCAB-P047-R11"
       ],
@@ -25258,6 +25292,9 @@
         "WRITING-TOPIC-0103",
         "WRITING-TOPIC-0184",
         "WRITING-TOPIC-0191"
+      ],
+      "positive force": [
+        "LEARNER-20260813-010"
       ],
       "positive habit": [
         "WRITING-ENG-TOPIC_VOCABULARY-00207",
@@ -29409,6 +29446,9 @@
       "stimulate": [
         "SYL-VOCAB-P061-R04"
       ],
+      "stimulus": [
+        "LEARNER-20260813-004"
+      ],
       "sting": [
         "SYL-VOCAB-P085-R09"
       ],
@@ -29874,6 +29914,7 @@
         "SYL-VOCAB-P085-R37"
       ],
       "supplement": [
+        "LEARNER-20260813-003",
         "SYL-VOCAB-P062-R38"
       ],
       "supply": [
@@ -31993,6 +32034,9 @@
       "undertake": [
         "SYL-VOCAB-P067-R03"
       ],
+      "undesirable": [
+        "LEARNER-20260813-006"
+      ],
       "undo": [
         "SYL-VOCAB-P067-R04"
       ],
@@ -33026,6 +33070,9 @@
       "whisper": [
         "SYL-VOCAB-P070-L05"
       ],
+      "whispered": [
+        "LEARNER-20260813-007"
+      ],
       "whistle": [
         "SYL-VOCAB-P087-R18"
       ],
@@ -33659,6 +33706,7 @@
         "REL-EVIDENCE-BF98549E2E4C3A3A",
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -33715,6 +33763,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -33722,6 +33771,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
@@ -44521,8 +44571,47 @@
       "bank/master_bank.csv#L815": [
         "LEARNER-20260806-082"
       ],
+      "bank/master_bank.csv#L816": [
+        "LEARNER-20260813-001"
+      ],
+      "bank/master_bank.csv#L817": [
+        "LEARNER-20260813-002"
+      ],
+      "bank/master_bank.csv#L818": [
+        "LEARNER-20260813-003"
+      ],
+      "bank/master_bank.csv#L819": [
+        "LEARNER-20260813-004"
+      ],
       "bank/master_bank.csv#L82": [
         "LEARNER-20260424-081"
+      ],
+      "bank/master_bank.csv#L820": [
+        "LEARNER-20260813-005"
+      ],
+      "bank/master_bank.csv#L821": [
+        "LEARNER-20260813-006"
+      ],
+      "bank/master_bank.csv#L822": [
+        "LEARNER-20260813-007",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F"
+      ],
+      "bank/master_bank.csv#L823": [
+        "LEARNER-20260813-008",
+        "REL-EVIDENCE-EBCA8402289DB455"
+      ],
+      "bank/master_bank.csv#L824": [
+        "LEARNER-20260813-009"
+      ],
+      "bank/master_bank.csv#L825": [
+        "LEARNER-20260813-010"
+      ],
+      "bank/master_bank.csv#L826": [
+        "LEARNER-20260813-011",
+        "REL-EVIDENCE-EF6DDAD98EB30E52"
+      ],
+      "bank/master_bank.csv#L827": [
+        "LEARNER-20260813-012"
       ],
       "bank/master_bank.csv#L83": [
         "LEARNER-20260424-082"
@@ -86287,7 +86376,19 @@
         "LEARNER-20260806-079",
         "LEARNER-20260806-080",
         "LEARNER-20260806-081",
-        "LEARNER-20260806-082"
+        "LEARNER-20260806-082",
+        "LEARNER-20260813-001",
+        "LEARNER-20260813-002",
+        "LEARNER-20260813-003",
+        "LEARNER-20260813-004",
+        "LEARNER-20260813-005",
+        "LEARNER-20260813-006",
+        "LEARNER-20260813-007",
+        "LEARNER-20260813-008",
+        "LEARNER-20260813-009",
+        "LEARNER-20260813-010",
+        "LEARNER-20260813-011",
+        "LEARNER-20260813-012"
       ],
       "approved": [
         "WRITING-APPROVED-PATTERN-001",
@@ -92379,6 +92480,7 @@
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
         "REL-EVIDENCE-C181BD8A0EBEFB8A",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -92436,6 +92538,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -92443,6 +92546,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
@@ -98205,6 +98309,7 @@
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
         "REL-EVIDENCE-C181BD8A0EBEFB8A",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -98262,6 +98367,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -98269,6 +98375,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
@@ -100338,6 +100445,7 @@
         "SYL-VOCAB-P018-L26"
       ],
       "contend": [
+        "LEARNER-20260813-009",
         "SYL-VOCAB-P018-L27",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00054"
       ],
@@ -102871,7 +102979,8 @@
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00513"
       ],
       "dynamics": [
-        "LEARNER-20260424-222"
+        "LEARNER-20260424-222",
+        "LEARNER-20260813-005"
       ],
       "dynasty": [
         "SYL-VOCAB-P075-R23",
@@ -103303,6 +103412,7 @@
         "SYL-VOCAB-P025-L15"
       ],
       "emerge": [
+        "LEARNER-20260813-002",
         "SYL-VOCAB-P025-L16"
       ],
       "emergency": [
@@ -105193,9 +105303,13 @@
         "LEARNER-20260424-114",
         "LEARNER-20260424-125",
         "LEARNER-20260607-008",
+        "LEARNER-20260813-010",
         "SYL-VOCAB-P029-R19",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00418",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00448"
+      ],
+      "forcing": [
+        "LEARNER-20260813-008"
       ],
       "fore": [
         "SYL-VOCAB-P076-R27"
@@ -106264,6 +106378,7 @@
       ],
       "group": [
         "LEARNER-20260607-063",
+        "LEARNER-20260813-005",
         "SYL-VOCAB-P032-L13"
       ],
       "grow": [
@@ -107600,6 +107715,7 @@
       ],
       "improve": [
         "LEARNER-20260621-093",
+        "LEARNER-20260813-012",
         "SYL-VOCAB-P035-L12",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00399",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00479",
@@ -109441,6 +109557,7 @@
       ],
       "life": [
         "LEARNER-20260622-030",
+        "LEARNER-20260813-012",
         "SYL-VOCAB-P039-L25",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00176",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00264",
@@ -111968,6 +112085,7 @@
         "SYL-VOCAB-P045-L21"
       ],
       "official": [
+        "LEARNER-20260813-011",
         "SYL-VOCAB-P045-L22",
         "WRITING-ENG-SMALL_ESSAY_TEMPLATE-00244"
       ],
@@ -112050,6 +112168,7 @@
         "LEARNER-20260726-018",
         "LEARNER-20260806-023",
         "LEARNER-20260806-060",
+        "LEARNER-20260813-012",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00512",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00522",
         "WRITING-ENG-TOPIC_VOCABULARY-00167",
@@ -113013,6 +113132,7 @@
       ],
       "peer": [
         "LEARNER-20260607-050",
+        "LEARNER-20260813-001",
         "SYL-VOCAB-P047-R10"
       ],
       "peers": [
@@ -113964,6 +114084,7 @@
         "LEARNER-20260622-066"
       ],
       "positive": [
+        "LEARNER-20260813-010",
         "REL-WRITING_SLOT-1FEDCB57DCEA",
         "SYL-VOCAB-P049-R06",
         "WRITING-ENG-BIG_ESSAY_TEMPLATE-00301",
@@ -114286,6 +114407,7 @@
         "LEARNER-20260613-027",
         "LEARNER-20260613-029",
         "LEARNER-20260703-096",
+        "LEARNER-20260813-001",
         "SYL-VOCAB-P050-L27"
       ],
       "prestige": [
@@ -117570,6 +117692,7 @@
         "REL-EVIDENCE-BF98549E2E4C3A3A",
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -117626,6 +117749,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -117633,6 +117757,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
@@ -119383,6 +119508,9 @@
       "stimulate": [
         "SYL-VOCAB-P061-R04"
       ],
+      "stimulus": [
+        "LEARNER-20260813-004"
+      ],
       "sting": [
         "SYL-VOCAB-P085-R09"
       ],
@@ -119931,6 +120059,7 @@
         "SYL-VOCAB-P085-R37"
       ],
       "supplement": [
+        "LEARNER-20260813-003",
         "SYL-VOCAB-P062-R38"
       ],
       "supply": [
@@ -120449,6 +120578,7 @@
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
         "REL-EVIDENCE-C181BD8A0EBEFB8A",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -120506,6 +120636,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -120513,6 +120644,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
@@ -121966,6 +122098,9 @@
       "undertake": [
         "SYL-VOCAB-P067-R03"
       ],
+      "undesirable": [
+        "LEARNER-20260813-006"
+      ],
       "undo": [
         "SYL-VOCAB-P067-R04"
       ],
@@ -123085,6 +123220,9 @@
       "whisper": [
         "SYL-VOCAB-P070-L05"
       ],
+      "whispered": [
+        "LEARNER-20260813-007"
+      ],
       "whistle": [
         "SYL-VOCAB-P087-R18"
       ],
@@ -123726,6 +123864,7 @@
         "REL-EVIDENCE-C046FC15B33A1F39",
         "REL-EVIDENCE-C161A124DE6A7E1D",
         "REL-EVIDENCE-C181BD8A0EBEFB8A",
+        "REL-EVIDENCE-C2F41BBB1C4FD92F",
         "REL-EVIDENCE-C326AED9CF214727",
         "REL-EVIDENCE-C3AD5E4BE14AC305",
         "REL-EVIDENCE-C426717C36726C56",
@@ -123783,6 +123922,7 @@
         "REL-EVIDENCE-EB1D64D50C679FC8",
         "REL-EVIDENCE-EB59FACE49089A43",
         "REL-EVIDENCE-EB9915A3762C3DD8",
+        "REL-EVIDENCE-EBCA8402289DB455",
         "REL-EVIDENCE-ED1EED92AB02055B",
         "REL-EVIDENCE-EDC83863964E5FF6",
         "REL-EVIDENCE-EDF88B65D25E351F",
@@ -123790,6 +123930,7 @@
         "REL-EVIDENCE-EF19D90C38FA247E",
         "REL-EVIDENCE-EF2103F0ABCCB546",
         "REL-EVIDENCE-EF3E0CBCBE8C8F87",
+        "REL-EVIDENCE-EF6DDAD98EB30E52",
         "REL-EVIDENCE-EFA6BF9677F8F6F8",
         "REL-EVIDENCE-F18FF2A6575C4835",
         "REL-EVIDENCE-F200C7B4D079F362",
