@@ -4,7 +4,7 @@
   "repository": "xialovezhu-wq/kaoyan-english",
   "branch": "main",
   "local_version": "ccfe2e5012738f2f3ff8f45dcc450102e5eff560f0a6dadbf073d641a84e9f6a",
-  "event_id": "R11-english-derived-refresh",
+  "event_id": "R11-web-read-repair-20260907-english-01",
   "history_index": [
     "articles",
     "review",
@@ -9134,6 +9134,12 @@
   "history_state": {
     "bank/learning_events.jsonl": "not_created",
     "bank/review_exclusion_ledger.jsonl": "not_created"
+  },
+  "web_read": {
+    "schema": "study-web-read-v1",
+    "entrypoint": "WEB_READ_START.json",
+    "status": "NOT_YET_VERIFIED",
+    "fetch_max_lines": 8
   },
   "file_inventory": [
     {

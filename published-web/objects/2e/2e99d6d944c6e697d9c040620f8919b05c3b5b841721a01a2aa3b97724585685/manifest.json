@@ -1,0 +1,38 @@
+{
+  "schema": "study-web-source-v1",
+  "sha256": "2e99d6d944c6e697d9c040620f8919b05c3b5b841721a01a2aa3b97724585685",
+  "bytes": 523801,
+  "encoding": "utf8",
+  "payload_bytes_max": 1024,
+  "data_records": 512,
+  "parts": [
+    {
+      "path": "published-web/objects/2e/2e99d6d944c6e697d9c040620f8919b05c3b5b841721a01a2aa3b97724585685/part-00001.jsonl",
+      "sha256": "d3fa64911867add3561533ad7076a4bc1a9bfae5ececb4798fd8fd508abc6429",
+      "bytes": 261111,
+      "lines": 233,
+      "first_record": 1,
+      "source_byte_start": 0,
+      "source_byte_end_exclusive": 238562
+    },
+    {
+      "path": "published-web/objects/2e/2e99d6d944c6e697d9c040620f8919b05c3b5b841721a01a2aa3b97724585685/part-00002.jsonl",
+      "sha256": "4ad10634ee3f57f6daa084695fc9ef1375e6644247e16f6de27c64a405ab2c4f",
+      "bytes": 261317,
+      "lines": 233,
+      "first_record": 234,
+      "source_byte_start": 238562,
+      "source_byte_end_exclusive": 477121
+    },
+    {
+      "path": "published-web/objects/2e/2e99d6d944c6e697d9c040620f8919b05c3b5b841721a01a2aa3b97724585685/part-00003.jsonl",
+      "sha256": "e6e2782ca1936c845ed9e9e325ef9bbdcee48e835e5dea48c50ed5a283d9cad5",
+      "bytes": 51411,
+      "lines": 47,
+      "first_record": 467,
+      "source_byte_start": 477121,
+      "source_byte_end_exclusive": 523801
+    }
+  ],
+  "source_eof_required": true
+}

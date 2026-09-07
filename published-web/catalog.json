@@ -1,0 +1,71 @@
+{
+  "schema": "study-web-catalog-v1",
+  "count": 3718,
+  "parts": [
+    {
+      "path": "published-web/catalog/part-00001.jsonl",
+      "sha256": "1a6c30d827a6ffe25c1fdd7d534e425e49a71c32e3c5509ae07f4a15f2eaa42e",
+      "bytes": 262074,
+      "count": 471,
+      "first_path": "PUBLISHED_LIBRARY.json",
+      "last_path": "published-originals/SRC-EXAM-014/pages/page-0022.pdf"
+    },
+    {
+      "path": "published-web/catalog/part-00002.jsonl",
+      "sha256": "6ae92d9aad458e023d80daaa0015897864472933a27194eb7b8bfda96399c452",
+      "bytes": 262016,
+      "count": 447,
+      "first_path": "published-originals/SRC-EXAM-014/pages/page-0023.pdf",
+      "last_path": "published-originals/SRC-SYLLABUS-VOCABULARY-BOOKLET-001/pages/page-0066.pdf"
+    },
+    {
+      "path": "published-web/catalog/part-00003.jsonl",
+      "sha256": "604664ed90375fb663cd4e49f575262ed2e0039c446cb32f83194443bb997f02",
+      "bytes": 262070,
+      "count": 481,
+      "first_path": "published-originals/SRC-SYLLABUS-VOCABULARY-BOOKLET-001/pages/page-0067.pdf",
+      "last_path": "raw/protected/exam-reading-analysis/source-pages/2010/page-033.json"
+    },
+    {
+      "path": "published-web/catalog/part-00004.jsonl",
+      "sha256": "c2d3629db593b15c97053c84c1db28a2b16bd9b1faa84309705a8aacc3351ac0",
+      "bytes": 261912,
+      "count": 521,
+      "first_path": "raw/protected/exam-reading-analysis/source-pages/2010/page-033.md",
+      "last_path": "raw/protected/exam-reading-analysis/source-pages/2017/page-020.md"
+    },
+    {
+      "path": "published-web/catalog/part-00005.jsonl",
+      "sha256": "43683e28ccda6633ef659a7d5c98e951a1b26f752f93dcc5e9662534c525a33c",
+      "bytes": 261966,
+      "count": 521,
+      "first_path": "raw/protected/exam-reading-analysis/source-pages/2017/page-021.json",
+      "last_path": "raw/reference_sources/analysis_page_ocr/2022/page-01.txt"
+    },
+    {
+      "path": "published-web/catalog/part-00006.jsonl",
+      "sha256": "8da51ac5ebcd8ba7247ecb4e6150d3454bf6d5e73977eaca7b9ec5a48d30ea4d",
+      "bytes": 261737,
+      "count": 515,
+      "first_path": "raw/reference_sources/analysis_page_ocr/2022/page-02.txt",
+      "last_path": "raw/reference_sources/syllabus_vocabulary/ocr/150dpi/page-070-right.txt"
+    },
+    {
+      "path": "published-web/catalog/part-00007.jsonl",
+      "sha256": "5b5064d8d5e2cefa0d48e5da829a43dcc279902a1e3fc1fcf82e6b24237ce869",
+      "bytes": 261744,
+      "count": 507,
+      "first_path": "raw/reference_sources/syllabus_vocabulary/ocr/150dpi/page-071-left.tsv",
+      "last_path": "raw/reference_sources/syllabus_vocabulary/ocr/450dpi/page-071-right.tsv"
+    },
+    {
+      "path": "published-web/catalog/part-00008.jsonl",
+      "sha256": "37c610c23d7a4f0d4e6500c27f8c64ac000a6e61bf7242e4130e2828e7aaeec3",
+      "bytes": 128952,
+      "count": 255,
+      "first_path": "raw/reference_sources/syllabus_vocabulary/ocr/450dpi/page-071-right.txt",
+      "last_path": "wiki/writing/验证报告.md"
+    }
+  ],
+  "eof": true
+}

@@ -1,0 +1,2 @@
+{"offset":0,"data":"# raw/notebooklm\n\n保存 NotebookLM 导出的原始内容、摘要、问答或学习指南。NotebookLM 输出只作为 raw 参考，不能直接当成长期词库事实；需要经 wiki 页复核后，少量高价值内容才可进入 `bank/master_bank.csv`。\n\n"}
+{"eof":true,"sha256":"aa87b4a56d07f5c39c8e9c0235442e5c3723e9250ee956ee33ab98ddca1ccede","bytes":263,"records":1}

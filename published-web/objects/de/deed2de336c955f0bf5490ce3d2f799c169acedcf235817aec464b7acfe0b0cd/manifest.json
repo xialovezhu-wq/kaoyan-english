@@ -1,0 +1,20 @@
+{
+  "schema": "study-web-source-v1",
+  "sha256": "deed2de336c955f0bf5490ce3d2f799c169acedcf235817aec464b7acfe0b0cd",
+  "bytes": 35294,
+  "encoding": "utf8",
+  "payload_bytes_max": 1024,
+  "data_records": 35,
+  "parts": [
+    {
+      "path": "published-web/objects/de/deed2de336c955f0bf5490ce3d2f799c169acedcf235817aec464b7acfe0b0cd/part-00001.jsonl",
+      "sha256": "4c66126081e2bcd2c1951eccf0e645abf37843315ce9a7270d389e74abff7998",
+      "bytes": 39315,
+      "lines": 36,
+      "first_record": 1,
+      "source_byte_start": 0,
+      "source_byte_end_exclusive": 35294
+    }
+  ],
+  "source_eof_required": true
+}
