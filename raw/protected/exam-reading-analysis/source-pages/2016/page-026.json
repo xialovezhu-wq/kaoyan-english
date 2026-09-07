@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P026",
+  "year": 2016,
+  "pdf_page": 26,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.030102609189268548,
+      "text": "•词汇注释与难句分析。y",
+      "width": 0.26146043007961883,
+      "x": 0.391846639034647,
+      "y": 0.8992939881449067
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "① sensible ［'sensibal］a. 明的，合理的",
+      "width": 0.3049040405973649,
+      "x": 0.07675906458049313,
+      "y": 0.8761408083871872
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02630870873800617,
+      "text": "B @inirisen ［in'Hnusan］ n.f犯",
+      "width": 0.27718550206142456,
+      "x": 0.5074626835961534,
+      "y": 0.8648255813072162
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095176064,
+      "text": "②infrastructure ［'infrostrAktjo］n. 基础设施",
+      "width": 0.341151366954096,
+      "x": 0.07675906705600113,
+      "y": 0.8572359843542436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013358069523061511,
+      "text": "③identify Lar'dentifar］v.（经考虑）确定",
+      "width": 0.3006396612747222,
+      "x": 0.07889125893010769,
+      "y": 0.8386627908570965
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "①in place（准备就绪的）",
+      "width": 0.19829423660074097,
+      "x": 0.5351812374299066,
+      "y": 0.8311603653329862
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02180232529223669,
+      "text": "•语篇分析•次",
+      "width": 0.159914705994936,
+      "x": 0.4434968034524254,
+      "y": 0.8023255814551413
+    },
+    {
+      "confidence": 1,
+      "height": 0.014580364177559701,
+      "text": "第四至六段为第二层次，分析并解决问题。",
+      "width": 0.3603411468447508,
+      "x": 0.11940298991908051,
+      "y": 0.7761627910428193
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "第四、五段分析问题：肆意开发乡村并非解决城市住房问题的正确方式（影射之意：乡村保护问题因",
+      "width": 0.8379530605804851,
+      "x": 0.11940300760954413,
+      "y": 0.7555410689780758
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "城市住房形势严峻而来，正确处理城市住房问题即可解决乡村保护问题）。",
+      "width": 0.6311300653344587,
+      "x": 0.07889126520057432,
+      "y": 0.7353324640774445
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630484234089946,
+      "text": "第四段以实例分析说明住房建设的合理之地在城镇。关键词：the sensible place。",
+      "width": 0.6780383837610541,
+      "x": 0.11940298973994194,
+      "y": 0.7151162789830968
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "①句（段落主旨句）指出合理建房之地：人口集聚、基础设施完善的城市和城镇。sensible（reasonable，",
+      "width": 0.840085264829559,
+      "x": 0.11940300358379886,
+      "y": 0.6947674418198215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "practical, and showing good judgment）指向住房建设的理性之地，反衬现在吞噬乡村的非理性；两个 where",
+      "width": 0.8848613790070805,
+      "x": 0.07889128096554272,
+      "y": 0.6744186046226317
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "从句明示建房的合理之处，其中 in place 意为 existing and ready to be used”准备就绪的”。",
+      "width": 0.7356076650820088,
+      "x": 0.07889126953788679,
+      "y": 0.6538461537281448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "②句以“伦敦地产经纪商 Stirling Ackroyd新近在市内圈定足够且无需破坏绿化带的建筑用地”例证",
+      "width": 0.8379530605804851,
+      "x": 0.11940300802532233,
+      "y": 0.6336375486758405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "①句。identified enough sites...in the London area alone 强调光市内就能找出很充裕的住房建设用地，",
+      "width": 0.8805970288599426,
+      "x": 0.07889125731842953,
+      "y": 0.6133720929739606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "证实首句“城市是建造新房子等的合理之地”，其中 identified 本指“找到，发现”，此处延伸处理为“圈定”。",
+      "width": 0.8827291747580067,
+      "x": 0.07889128312561634,
+      "y": 0.5930232560749658
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01630294680439981,
+      "text": "with no intrusion on green belt 以“城市建筑用地无需破坏绿化带”说明目前城市年年外扩、不断吞噬乡",
+      "width": 0.8784648246108688,
+      "x": 0.07889126354744386,
+      "y": 0.5723598437946256
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "村是一种不理性行为。",
+      "width": 0.19189765302902428,
+      "x": 0.07889126117205497,
+      "y": 0.5521512385448322
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "③句进而以伦敦扩及其他地区：各省更能找出充足建筑用地而无需侵占乡村土地（全面论证①句）。",
+      "width": 0.8422174690786329,
+      "x": 0.11940299855541395,
+      "y": 0.5319426337843587
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "what is true of A is even truer of B 结构表明“A（人口、建筑均密集的首都伦敦）都能做到的事情B（各省）",
+      "width": 0.8805970288599426,
+      "x": 0.07889124369014247,
+      "y": 0.5116279067907519
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "更加能够做到”；其中 true 语带双关，既表明这一情况属实，也暗示这种做法是正确的；even 用以加强比",
+      "width": 0.8805970288599426,
+      "x": 0.07889125836675923,
+      "y": 0.4912790697510232
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "较，表示“甚至更，您加”之意，强调外省更应该有足够城市建筑用地，无需外扩吞噬乡村。",
+      "width": 0.7484008322254422,
+      "x": 0.07889126072629835,
+      "y": 0.4706649284196118
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "【深层解读】一、段中三句为“总（①句）—一分（②③句）”结构：①句以 The sensible place...is in",
+      "width": 0.8443496733277067,
+      "x": 0.11727079937026161,
+      "y": 0.450456323470531
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "cities and towns 引出建筑的合理用地在人多之处或城镇；②句聚焦圾典型事例，以 recently identified",
+      "width": 0.8827291747580067,
+      "x": 0.07889126880436562,
+      "y": 0.430232558370477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "enough sites... in the London area alone 指出地产商在（人口、建筑最为密集的首都）伦敦找到了足够建",
+      "width": 0.8805970288599426,
+      "x": 0.07889125836675923,
+      "y": 0.40988372091381386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "筑用地，初步例证①句；③句进而以 What is true of London is even truer of the provinces 延及（人口、建",
+      "width": 0.8805970288599426,
+      "x": 0.07889125836675923,
+      "y": 0.3895348837045114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "筑相对稀疏的）各省，全面论证①句。二、段中 sensible、 enough sites in the London area alone、 with no",
+      "width": 0.8827291747580067,
+      "x": 0.07889128498773425,
+      "y": 0.368970012907996
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "intrusion on green belt、what is true of A is even truer of B 明显传递情感，清晰展示作者立场。",
+      "width": 0.8038379092973232,
+      "x": 0.07675909164664733,
+      "y": 0.3487614078351007
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01457657434794235,
+      "text": "V ① The idea that“housing crisis”equals",
+      "width": 0.42217483666385336,
+      "x": 0.12366738614568498,
+      "y": 0.3168187741856502
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "“住房危机”等于“将草地浇筑混凝土”的理",
+      "width": 0.35181235902396035,
+      "x": 0.6034115141980412,
+      "y": 0.3095930235303609
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "“concreted meadows①\" is pure lobby®talk. ② The issue",
+      "width": 0.46481874659230105,
+      "x": 0.08102346833497943,
+      "y": 0.29651162824693056
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "念纯粹是游说团体的说辞。问题不是需要建造",
+      "width": 0.38805968538069124,
+      "x": 0.5671641878533643,
+      "y": 0.28617992194548303
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013276583212761706,
+      "text": "is not the need for more houses but, as always, where",
+      "width": 0.466950950841375,
+      "x": 0.07889126698869416,
+      "y": 0.27616279082802675
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "更多房子，而是，一如既往的，在哪里建造房子。",
+      "width": 0.39019188962976525,
+      "x": 0.5671641870188061,
+      "y": 0.2672750979282287
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013354279693444382,
+      "text": "to put them. 3 Under lobby pressure, George Osborne",
+      "width": 0.46695095084137483,
+      "x": 0.0788912545366689,
+      "y": 0.2555410689843428
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "在游说团体的压力下，乔治•奧斯本支持在乡村",
+      "width": 0.39019188962976514,
+      "x": 0.5650319866083584,
+      "y": 0.24706649290405092
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014667535232285367,
+      "text": "favours rural new-build® against urban renovation® and",
+      "width": 0.46481874659230105,
+      "x": 0.07889126629162489,
+      "y": 0.23533246422185006
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "新建房子而非城市翻新和改造。他支持郊外购",
+      "width": 0.38805968538069135,
+      "x": 0.5671641910409976,
+      "y": 0.22674418601798052
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011919741524866634,
+      "text": "renewal®",
+      "width": 0.07462686425641205,
+      "x": 0.08102345610917844,
+      "y": 0.21773142087116049
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": ". ④ He favours out-of-town®shopping sites",
+      "width": 0.39232409387883904,
+      "x": 0.15138593139746748,
+      "y": 0.2151162794024537
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "物场所而不是商业街。这不是自由市场而是有",
+      "width": 0.38805968538069135,
+      "x": 0.5671641869827176,
+      "y": 0.20639534860276731
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0131856223284188,
+      "text": "against high streets. ⑤ This is not a free market but a",
+      "width": 0.4626865423432272,
+      "x": 0.08102346126442067,
+      "y": 0.19476744178369532
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "偏好的市场。乡村小镇和村庄已经发展并将一",
+      "width": 0.38805968538069135,
+      "x": 0.5671641910409976,
+      "y": 0.18578878767219442
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01715309958725275,
+      "text": "biased® one. ⑥ Rural towns and villages have grown",
+      "width": 0.462953410686544,
+      "x": 0.08089660662571511,
+      "y": 0.17360704763556345
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "直发展下去。在建筑毗邻其边界并尊重其特点",
+      "width": 0.38805968538069135,
+      "x": 0.5671641853693558,
+      "y": 0.16558018260077845
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013305008799964546,
+      "text": "and will always grow. @ They do so best where building",
+      "width": 0.46481874659230105,
+      "x": 0.08102346833497943,
+      "y": 0.15384615392215428
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "的地方，它们发展得最好。我们没有破坏城市保",
+      "width": 0.38805968538069135,
+      "x": 0.567164187458908,
+      "y": 0.1453488369482132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011860996057343698,
+      "text": "sticks to their eages and respects their character. 8 We do",
+      "width": 0.464818746592301,
+      "x": 0.08102346717293257,
+      "y": 0.13494132971231243
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "护区，为何要破坏乡村保护区？",
+      "width": 0.24946693434997902,
+      "x": 0.5671641899039018,
+      "y": 0.12645348876291895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013174252217875937,
+      "text": "not ruin urban conservation areas. ⑨ Why ruin rural ones？",
+      "width": 0.46268654234322704,
+      "x": 0.08102347243179772,
+      "y": 0.11473272465758577
+    },
+    {
+      "confidence": 1,
+      "height": 0.011912161865632265,
+      "text": "26",
+      "width": 0.02345415738982863,
+      "x": 0.09381663152185896,
+      "y": 0.05523255808208771
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析。y\n① sensible ［'sensibal］a. 明的，合理的\nB @inirisen ［in'Hnusan］ n.f犯\n②infrastructure ［'infrostrAktjo］n. 基础设施\n③identify Lar'dentifar］v.（经考虑）确定\n①in place（准备就绪的）\n•语篇分析•次\n第四至六段为第二层次，分析并解决问题。\n第四、五段分析问题：肆意开发乡村并非解决城市住房问题的正确方式（影射之意：乡村保护问题因\n城市住房形势严峻而来，正确处理城市住房问题即可解决乡村保护问题）。\n第四段以实例分析说明住房建设的合理之地在城镇。关键词：the sensible place。\n①句（段落主旨句）指出合理建房之地：人口集聚、基础设施完善的城市和城镇。sensible（reasonable，\npractical, and showing good judgment）指向住房建设的理性之地，反衬现在吞噬乡村的非理性；两个 where\n从句明示建房的合理之处，其中 in place 意为 existing and ready to be used”准备就绪的”。\n②句以“伦敦地产经纪商 Stirling Ackroyd新近在市内圈定足够且无需破坏绿化带的建筑用地”例证\n①句。identified enough sites...in the London area alone 强调光市内就能找出很充裕的住房建设用地，\n证实首句“城市是建造新房子等的合理之地”，其中 identified 本指“找到，发现”，此处延伸处理为“圈定”。\nwith no intrusion on green belt 以“城市建筑用地无需破坏绿化带”说明目前城市年年外扩、不断吞噬乡\n村是一种不理性行为。\n③句进而以伦敦扩及其他地区：各省更能找出充足建筑用地而无需侵占乡村土地（全面论证①句）。\nwhat is true of A is even truer of B 结构表明“A（人口、建筑均密集的首都伦敦）都能做到的事情B（各省）\n更加能够做到”；其中 true 语带双关，既表明这一情况属实，也暗示这种做法是正确的；even 用以加强比\n较，表示“甚至更，您加”之意，强调外省更应该有足够城市建筑用地，无需外扩吞噬乡村。\n【深层解读】一、段中三句为“总（①句）—一分（②③句）”结构：①句以 The sensible place...is in\ncities and towns 引出建筑的合理用地在人多之处或城镇；②句聚焦圾典型事例，以 recently identified\nenough sites... in the London area alone 指出地产商在（人口、建筑最为密集的首都）伦敦找到了足够建\n筑用地，初步例证①句；③句进而以 What is true of London is even truer of the provinces 延及（人口、建\n筑相对稀疏的）各省，全面论证①句。二、段中 sensible、 enough sites in the London area alone、 with no\nintrusion on green belt、what is true of A is even truer of B 明显传递情感，清晰展示作者立场。\nV ① The idea that“housing crisis”equals\n“住房危机”等于“将草地浇筑混凝土”的理\n“concreted meadows①\" is pure lobby®talk. ② The issue\n念纯粹是游说团体的说辞。问题不是需要建造\nis not the need for more houses but, as always, where\n更多房子，而是，一如既往的，在哪里建造房子。\nto put them. 3 Under lobby pressure, George Osborne\n在游说团体的压力下，乔治•奧斯本支持在乡村\nfavours rural new-build® against urban renovation® and\n新建房子而非城市翻新和改造。他支持郊外购\nrenewal®\n. ④ He favours out-of-town®shopping sites\n物场所而不是商业街。这不是自由市场而是有\nagainst high streets. ⑤ This is not a free market but a\n偏好的市场。乡村小镇和村庄已经发展并将一\nbiased® one. ⑥ Rural towns and villages have grown\n直发展下去。在建筑毗邻其边界并尊重其特点\nand will always grow. @ They do so best where building\n的地方，它们发展得最好。我们没有破坏城市保\nsticks to their eages and respects their character. 8 We do\n护区，为何要破坏乡村保护区？\nnot ruin urban conservation areas. ⑨ Why ruin rural ones？\n26",
+  "pdf_text_layer": "：：：•：词汇辞呈难句分析＜ J\n\n                                                       ;; ．经典搭配\n( sensible [ 1 sens1bal ］ α ．明智的，合理的                   1\\     ( intrusion [ m1t 川 ：3a n ］ η ．侵犯\n② infrastn川ure [1mfrastrAktJa］ η ．基础设施\n\n( identify [ a11dent1fa1 ］队（经考虑 Hefti 定\n                                                              ① 1 川ce （准备就绪 的 ）\n\n                                             三董事分析－：：： fl\n       第四至六段为第二层次，分析并解决问题。\n       第四、五段分析问题：肆意开发乡村并非解决城市住房问题的正确方式（影射之意：乡村保护问题因\n城市住房形势严峻而来，正确处理城市住房问题即可解决乡村保护问题）。\n       第四段以实例分析说明住房建设的合理之地在城镇。关键询： the sensible place 。\n       ① 旬（段落主旨旬）指出合理建房之地：人口集聚、基础设施完善的城市和城镇。 sensib l e( reasonable,\npractical, and showing good judgment ）指向住房建设的理性之地，反衬现在吞噬乡村的非理性 i 两个 where\n从句明示 建房 的合理之处，其中 in place 意为 exi st ing and ready to be used“准备就绪 的” 。\n       ② 旬以“伦敦地产经纪商 Stirling Ackroyd 新近在市内圈定足够且无需破坏绿化带的建筑用地”例证\n① 旬。 id entifi ed enough s ites . . . in the London area a l one 强调光市内就能找出很充裕的住房建设用地，\n证实首句“城市是建造新房子 等 的合理之地”，其中 id ent ifi ed 本指“找 到 ，发 现”，此处延伸处理为 “ 圈定” 。\nwith no intru sion on green b e lt 以“城市建筑用地无 需破坏绿 化 带”说 明目前城市年 年外扩、不断吞噬乡\n村是 一 种不理性行为 。\n       ③ 旬进而以伦敦扩及其他地区：各省更能找出充足建筑用地而无需侵占乡村土地（全面论证 ① 旬）。\nwhat is true of A is even tru er of B 结构 表 明“ A C 人口、 建筑均密集 的 首都 伦 敦） 都能做到的 事情 BC 各省）\n更加能够做到”；其中 tru e 语带双关，既表明这 一 情况属 实， 也暗 示这 种做法 是正 确的； even 用以加强比\n较，表示“甚至更，愈加”之意，强调外省更应该有足够城市建筑用地，无需外扩吞噬乡村 。\n       【深层解读】 一、 段中 三句为“总（①句） 一一分（ ②③ 句）”结构： ① 句以 The sens ibl e place ... 1s in\ncities and towns 引出建筑的合理用地在人 多 之处或城镇； ② 句聚焦最典型事例，以 recently identified\nenough sites ... in the London area alone 指出地产商在（人口、建筑最为密集的首都）伦敦找到了足够建\n筑用地，初步例证 ① 句； ③ 句进而以 What is tru e of Londo n is even truer of the pro v in ces 延及（ 人口、建\n筑相对稀疏的）各省，全面论证①句。二、段中 sensib l e 、 e nough s ites in the London area alone 、 with no\nintrus ion on green b e lt 、 w h at is tru e of A is even tru er of B 明显传递情感、清晰展示作者立场 。\n\n       V O The idea that “ housing crisis ” equals                    “ 住房危机”等于“将草地浇筑混凝土”的理\n“ concreted meadows( ” is pure lobby( talk. @The iss ue\n                                                                 念纯粹是游说团体的说辞 。 问题不是需要建造\nis not the need for more houses but, as a lways, where\n                                                                 更多房子 ， 而是 ， 一如既往的，在哪里建造房子 。\nto put them. @Under lobby pressure, George Osborne\n                                                                 在游说！团体的压力： 下 ， 乔治 · 奥斯本支持在乡村\nfavours rural new-build® aga inst urban renovation© and\n                                                                 新建房子而非城市翻新和改造 。 他支持郊外购\nrenewal⑤ ．。 H e favours out-of-town(        s hopping sites\n                                                                 物场所而不是商业衔 。 这不是自由市场而是有\nagainst high streets. 0This is not a fr ee market but a\n                                                                 偏好的市场 。         乡村小镇和村庄已经发展并将一\nbiased( one. 0 Rural towns and villages have grown\n                                                                 直发展下去 。 在建筑毗邻其边界并尊重其特点\nand will a lways grow. @They do so best where buildmg\n                                                                 的地方，它们发展得最好 。 我们没有破坏城市保\nsticks to their edges and respects their character. @We do\n                                                                 护区，为何妥破坏乡村保护区？\n口ot ruin urban conservation areas.   0Why ruin rural ones?\n\n\n\n\n  26",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 2216,
+    "pdf_text_character_count": 3280,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P044",
+  "year": 2018,
+  "pdf_page": 44,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.027237451231324816,
+      "text": "•词汇注释与难句分析•这",
+      "width": 0.26375695077228734,
+      "x": 0.38422161849122005,
+      "y": 0.9076929652909537
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013217305517815858,
+      "text": "①vehicle［ viakl］n. 交通工具",
+      "width": 0.21581195371784623,
+      "x": 0.07264958139428195,
+      "y": 0.8880813958429252
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488337529174,
+      "text": "⑥long-standing［'1oJstaed ］a.存在已久的",
+      "width": 0.311965796505288,
+      "x": 0.5341880380187236,
+      "y": 0.888081395448982
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013281485941503024,
+      "text": "②retiree［rutalo'ri：］n. 退休人员",
+      "width": 0.2329059841527994,
+      "x": 0.07264957036255028,
+      "y": 0.8691860462229294
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01344332385372804,
+      "text": "• 经典搭配",
+      "width": 0.1047978592648332,
+      "x": 0.5362762829963453,
+      "y": 0.8690050821828881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013636363636363669,
+      "text": "③ offset［'ofset］u. 补偿，抵消",
+      "width": 0.21367521267776055,
+      "x": 0.07051281834060699,
+      "y": 0.850000000132715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013636363636363558,
+      "text": "①heaviest user 极重度用户",
+      "width": 0.20726496038199838,
+      "x": 0.5363247865825052,
+      "y": 0.8499999996987658
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014606613927073298,
+      "text": "④pre-fundLpri fand］v. 预筹资金",
+      "width": 0.24572648874432362,
+      "x": 0.07264957371010321,
+      "y": 0.829870129904468
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014606614546342267,
+      "text": "②move through 经过（全部的过程）",
+      "width": 0.27136752710287704,
+      "x": 0.536324785353476,
+      "y": 0.829870129648571
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013243732823953969,
+      "text": "⑤addressLa'dres］v.解决，处理",
+      "width": 0.23076922852496118,
+      "x": 0.07051281875034,
+      "y": 0.8123376620671325
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308894590897991,
+      "text": "③shift into 使转移",
+      "width": 0.14529914928895793,
+      "x": 0.5363247855407062,
+      "y": 0.8110389607493061
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01672386318058161,
+      "text": "• 语篇分析•",
+      "width": 0.11560131532512247,
+      "x": 0.4357890844856898,
+      "y": 0.7801555102064684
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014935064935064912,
+      "text": "第三段引入国会拟出台的一项邮政改革法案。关键词：a plan to fix the system。",
+      "width": 0.6688034028441683,
+      "x": 0.11324787600465575,
+      "y": 0.7525974025093164
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766156,
+      "text": "①句引出新情形/新事物：相关各方就“解决邮政系统问题的方案”终于达成了一致。倒装结构 Now",
+      "width": 0.8418803169440129,
+      "x": 0.1111111130557716,
+      "y": 0.7324675322758782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372208236123,
+      "text": "comes word（ word comes Now; word 意为“信息，消息”）转承上文引出新情形/新希望（同时暗含作者疑虑）。",
+      "width": 0.8696580817548997,
+      "x": 0.07051283221727968,
+      "y": 0.7107558138110951
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766156,
+      "text": "破折号内说明“所有相关者（everyone involved）”：待改革方（the Postal Service，陷人财政困境的独立",
+      "width": 0.8376068056883365,
+      "x": 0.11324788618717073,
+      "y": 0.690259739984487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016305496785547824,
+      "text": "政府机构），改革发起者、立法者（Democrats，Republicans 这里指国会议员，由下文可知指众议院议员），",
+      "width": 0.8803418598940905,
+      "x": 0.07264959020964977,
+      "y": 0.6700581395136145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017645726265845374,
+      "text": "改革阻挠者以及利益相关群体（the unions and the system's heaviest users）。 has finally agreed on（相关",
+      "width": 0.8782051042662523,
+      "x": 0.07264959310191639,
+      "y": 0.648051947995941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766267,
+      "text": "所有人⋯⋯终于达成一致）回应上段 repeated attempts...have failed（多次立法尝试均失败），传递“柳暗",
+      "width": 0.8782051042662524,
+      "x": 0.07264959241815581,
+      "y": 0.6292207791790404
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372208236123,
+      "text": "花明”之感（结合上文“各利益集团为维护自身利益向国会强硬施压”，可知此次共识是立法者协调各方",
+      "width": 0.8782051042662524,
+      "x": 0.07264958771730105,
+      "y": 0.6075581393173937
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766267,
+      "text": "利益的结果）。a plan to fix the system 为本句意在亮出的新事物：修补邮政系统的新方案（fix 意为“修",
+      "width": 0.8782051042662524,
+      "x": 0.07264957834611686,
+      "y": 0.5870129870987303
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372208236123,
+      "text": "理，修补”，力度明显弱于上文 reform、modernization，为下文批驳埋下伏笔）。",
+      "width": 0.6431623936611198,
+      "x": 0.07264956704052282,
+      "y": 0.5654069766260176
+    },
+    {
+      "confidence": 1,
+      "height": 0.014935064935065023,
+      "text": "②句介绍立法进展，并概括其预期效果。",
+      "width": 0.33974359049167957,
+      "x": 0.11324786570501486,
+      "y": 0.544805194959034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013270159510822888,
+      "text": "Legislation is moving through the House（ Legislation 回应 a plan to fix the system）指出立法进展：正",
+      "width": 0.8354700500604983,
+      "x": 0.11538464005165955,
+      "y": 0.5259740262172306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629794603818424,
+      "text": "在众议院接受审理（尚未完全通过）。would save USPS an estimated $ 28.6 billion 说明立法对 USPS的",
+      "width": 0.8782051042662524,
+      "x": 0.07264958133375424,
+      "y": 0.5025974026567768
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766156,
+      "text": "巨大效用。which 从句进一步以 survival measures 呼应首段 at the brink of bankruptcy，指出这笔钱能够",
+      "width": 0.8760683486384142,
+      "x": 0.0747863447589369,
+      "y": 0.48246753246015983
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372208236123,
+      "text": "起到拯救 USPS的功用。new vehicles, among other survival measures 暗示曾经盛极一时的 USPS 如今",
+      "width": 0.8782051042662524,
+      "x": 0.07264957882307053,
+      "y": 0.46075581369602725
+    },
+    {
+      "confidence": 1,
+      "height": 0.016233766233766156,
+      "text": "面临多方困境，运输工具破旧落后是其中最大难题。",
+      "width": 0.44017092994704526,
+      "x": 0.07478633356636329,
+      "y": 0.44025974053108163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016305496785547935,
+      "text": "③④句说明法案提出的两项措施。shifting postal retirees into Medicare、The latter step 回指衔接。",
+      "width": 0.822649574644479,
+      "x": 0.11111112039677731,
+      "y": 0.42005813945910864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766156,
+      "text": "③句指出上述资金的两个主要来源（法案的两项具体措施）。Most of the money would come",
+      "width": 0.841880316944013,
+      "x": 0.11324787897457472,
+      "y": 0.3980519478520934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016233766233766156,
+      "text": "from...and from..表面是在说明“节约资金的两个出处”，实际是在说明“法规的两项具体措施”（Most",
+      "width": 0.884615371149767,
+      "x": 0.07051283670075728,
+      "y": 0.37922077921901143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372208236123,
+      "text": "of the money 回指 an estimated $28.6 billion）：一是永久性提高邮资价格（增加收入）；二是将邮政退休",
+      "width": 0.8782051042662524,
+      "x": 0.0726495920709335,
+      "y": 0.35755813927742264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014935064935065023,
+      "text": "员工纳人联邦医疗保险（削减支出）。",
+      "width": 0.3098290408774498,
+      "x": 0.07264957902708713,
+      "y": 0.33701298675349145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016256417856588046,
+      "text": "④句进一步强调第二项措施的意义。would largely offset the financial burden of annually pre- funding",
+      "width": 0.8440170725718511,
+      "x": 0.11111113238394607,
+      "y": 0.3168604650768412
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488337529174,
+      "text": "retiree health care（largely 意“大大地，很大程度上”，起强调效果）回应首段③句暗示信息“USPS机构臃",
+      "width": 0.8824786155219289,
+      "x": 0.07051281796018964,
+      "y": 0.29651162797078434
+    },
+    {
+      "confidence": 1,
+      "height": 0.014568861428793434,
+      "text": "肿，福利支出巨大”，形成“指出问题一化解问题”的逻辑，凸显第二项措施功效：大大化解其退休人员医保",
+      "width": 0.8803418598940905,
+      "x": 0.07264959387774081,
+      "y": 0.27467532455391064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629794603818424,
+      "text": "造成的财政负担。thus addressing a long-standing complaint by the USPS and its unions（thus 意力“因此，从",
+      "width": 0.8782051042662524,
+      "x": 0.0726495773273441,
+      "y": 0.25259740265677677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014935064935064912,
+      "text": "而”，引出结果，体现语义递进）进一步指出“这可以化解邮局和工会的长期抱怨”，侧面强调 USPS 和工会",
+      "width": 0.8760683486384142,
+      "x": 0.07478634397673299,
+      "y": 0.23376623350767123
+    },
+    {
+      "confidence": 1,
+      "height": 0.01456131068142974,
+      "text": "的长期矛盾：一方面，USPS抱怨巨额医疗福利费用令其不堪重负；另一方面工会抱怨邮局无力预付医保损",
+      "width": 0.8782051042662524,
+      "x": 0.07264957583695934,
+      "y": 0.21363636350621618
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016290395910089628,
+      "text": "害员工权益。注：Medicare 是美国为65岁以上民众设立的医疗保险计划。",
+      "width": 0.6132478732223948,
+      "x": 0.07264957532790495,
+      "y": 0.19155844133865052
+    },
+    {
+      "confidence": 1,
+      "height": 0.016233766233766156,
+      "text": "【深层解读】①②句转承上文，指出多年来改革屡屡受阻的情形终于发生改变，同时两句暗含先后",
+      "width": 0.8418803169440129,
+      "x": 0.10897436091901946,
+      "y": 0.17142857146800927
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372208236123,
+      "text": "关系：各方利益协调、最终达成一致，在众议院提出议案（has finally agreed on a plan to fix the system）->",
+      "width": 0.8803418598940905,
+      "x": 0.07264959387774081,
+      "y": 0.151162790730911
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016282845162726045,
+      "text": "法规目前在众议院接受审议、等待投票通过（is moving through the House）。③④⑤句具体介绍法案两",
+      "width": 0.8782051042662524,
+      "x": 0.07264957364144674,
+      "y": 0.13051948042176997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01761174821234368,
+      "text": "项措施，“着墨多少”暗示作者重点关注对象：涉及 USPS 和工会矛盾（a long-standing complaint by the",
+      "width": 0.8824786155219287,
+      "x": 0.07264958995271077,
+      "y": 0.10901162829635336
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488337529174,
+      "text": "USPS and its unions）的第二项措施。",
+      "width": 0.3098290408774498,
+      "x": 0.07478633736042037,
+      "y": 0.0901162792425867
+    },
+    {
+      "confidence": 1,
+      "height": 0.011914829155067364,
+      "text": "44",
+      "width": 0.023504273613369944,
+      "x": 0.08760683774459706,
+      "y": 0.06948051955146128
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析•这\n①vehicle［ viakl］n. 交通工具\n⑥long-standing［'1oJstaed ］a.存在已久的\n②retiree［rutalo'ri：］n. 退休人员\n• 经典搭配\n③ offset［'ofset］u. 补偿，抵消\n①heaviest user 极重度用户\n④pre-fundLpri fand］v. 预筹资金\n②move through 经过（全部的过程）\n⑤addressLa'dres］v.解决，处理\n③shift into 使转移\n• 语篇分析•\n第三段引入国会拟出台的一项邮政改革法案。关键词：a plan to fix the system。\n①句引出新情形/新事物：相关各方就“解决邮政系统问题的方案”终于达成了一致。倒装结构 Now\ncomes word（ word comes Now; word 意为“信息，消息”）转承上文引出新情形/新希望（同时暗含作者疑虑）。\n破折号内说明“所有相关者（everyone involved）”：待改革方（the Postal Service，陷人财政困境的独立\n政府机构），改革发起者、立法者（Democrats，Republicans 这里指国会议员，由下文可知指众议院议员），\n改革阻挠者以及利益相关群体（the unions and the system's heaviest users）。 has finally agreed on（相关\n所有人⋯⋯终于达成一致）回应上段 repeated attempts...have failed（多次立法尝试均失败），传递“柳暗\n花明”之感（结合上文“各利益集团为维护自身利益向国会强硬施压”，可知此次共识是立法者协调各方\n利益的结果）。a plan to fix the system 为本句意在亮出的新事物：修补邮政系统的新方案（fix 意为“修\n理，修补”，力度明显弱于上文 reform、modernization，为下文批驳埋下伏笔）。\n②句介绍立法进展，并概括其预期效果。\nLegislation is moving through the House（ Legislation 回应 a plan to fix the system）指出立法进展：正\n在众议院接受审理（尚未完全通过）。would save USPS an estimated $ 28.6 billion 说明立法对 USPS的\n巨大效用。which 从句进一步以 survival measures 呼应首段 at the brink of bankruptcy，指出这笔钱能够\n起到拯救 USPS的功用。new vehicles, among other survival measures 暗示曾经盛极一时的 USPS 如今\n面临多方困境，运输工具破旧落后是其中最大难题。\n③④句说明法案提出的两项措施。shifting postal retirees into Medicare、The latter step 回指衔接。\n③句指出上述资金的两个主要来源（法案的两项具体措施）。Most of the money would come\nfrom...and from..表面是在说明“节约资金的两个出处”，实际是在说明“法规的两项具体措施”（Most\nof the money 回指 an estimated $28.6 billion）：一是永久性提高邮资价格（增加收入）；二是将邮政退休\n员工纳人联邦医疗保险（削减支出）。\n④句进一步强调第二项措施的意义。would largely offset the financial burden of annually pre- funding\nretiree health care（largely 意“大大地，很大程度上”，起强调效果）回应首段③句暗示信息“USPS机构臃\n肿，福利支出巨大”，形成“指出问题一化解问题”的逻辑，凸显第二项措施功效：大大化解其退休人员医保\n造成的财政负担。thus addressing a long-standing complaint by the USPS and its unions（thus 意力“因此，从\n而”，引出结果，体现语义递进）进一步指出“这可以化解邮局和工会的长期抱怨”，侧面强调 USPS 和工会\n的长期矛盾：一方面，USPS抱怨巨额医疗福利费用令其不堪重负；另一方面工会抱怨邮局无力预付医保损\n害员工权益。注：Medicare 是美国为65岁以上民众设立的医疗保险计划。\n【深层解读】①②句转承上文，指出多年来改革屡屡受阻的情形终于发生改变，同时两句暗含先后\n关系：各方利益协调、最终达成一致，在众议院提出议案（has finally agreed on a plan to fix the system）->\n法规目前在众议院接受审议、等待投票通过（is moving through the House）。③④⑤句具体介绍法案两\n项措施，“着墨多少”暗示作者重点关注对象：涉及 USPS 和工会矛盾（a long-standing complaint by the\nUSPS and its unions）的第二项措施。\n44",
+  "pdf_text_layer": "c~：词汇注释当难句；分析： ~ ：： ；／\n( vehicle[ 1v1ak l ] n. 交通 工具                        Ii ® tong-standing[ 11::iastrect1 a Ja. 存在已久 的\n( retiree[ r1 ,ta1a' ri: ] 11. 退休人员\n③ offset〔 1 口fset ]1人 补偿，抵消\n                                                    !   ·经典搭配\n                                                     < ( heaviest u ser 极重度 用户\n( pre-fund[ pr1 'fond] v. 预 筹 资金                     » ( move through 经过（全部的过稳）\n( address[ a'dres]1人 解决，处理                          ;(     shi\n\n                                           ；：－逼草劳：析二：； J\n       第三段引入国会拟出台的一项邮政改革法案。关键词： a plan to fix the system 。\n\n       ① 旬引出新情形／新事物：相关各方就“解决邮政系统问题的方案”终于达成了一致。 fflJ 装结构 Now\ncomes word ( wo时 comes Now; word 意为“信息，消息”）转承上文引出新情形／新希望（同时暗含作者疑虑）。\n       破折号内说明“所 有 相 关者（ eve ry o n e involve d ）”：待改革方（ th e Postal Se r vice ，陷入财政困境的独立\n政府机构），改革发起 者 、 立法者（ Demo era ts, R e publi ca ns 这里 指国会议员，由下文可知指众议院议员），\n改革阻挠者以及利 益 相 关群 体（ the uni ons a nd the system ’ s heavies t us e rs ） 。 h as finall y agreed on （相关\n所有人 …… 终于达成 一 致）回应上段 r e peated a ttempts ... have fail e d （ 多次立法尝试 均失败），传递“柳暗\n花明”之感（结合上文“各利 益集团为维 护自 身 利益向国 会 强硬施压”，可知此次共识 是立法者 协调各方\n利益的 结果） 。 a plan to fix the s y s t e m 为本句 意在亮 出的新 事 物：修补邮政系统的新方案 (fix 意为“修\n理，修补”，力度明显弱 于上文 reform 、 mod ernization ，为下文批驳埋下伏笔） 。\n       ② 旬介绍立法进展，并概括其预期效果。\n       Legis lation is moving thro ugh the House( L egislation 回应 a plan to fix the sys t 巳m ）指 出 立法 进展：正\n在众议院接 受审理（ 尚 未完全通 过） 。 wou ld save USPS an es timated                    $ 28 . 6 billion 说明 立法 对 USPS 的\n巨大效用 。 which 从句进 一步 以 s urviv a l m eas ures 呼应 首 段 a t the brink of bankruptcy ，指出这笔钱能够\n起到拯救 USPS 的功用 。 n e w vehicles, among ot her s urvival meas ures 暗示曾 经 盛极 一 时的 USPS 如今\n\n面临多方困境，运输 工具 破旧落后 是其中最大难题 。\n       ③④ 旬说明法案提出的两项措施。 shifting postal retirees into Medicare 、 The latter step 回指衔接。\n\n       ③ 旬指出上述资金的两个主要来源（法案的两项具体措施）。 Most of the money wo uld come\nfrom ... and from ... 表 丽是在说明 “ 节约资 金 的两个出处”， 实 际 是在 说明“法规的两项具体措施”（ Mo s t\nof the mon ey 回指 an estimated $ 28. 6 billion ）： 一 是永久性提高师资价格（增 加收入）； 二 是将邮政退休\n员工纳入联邦医疗保险（削减 支 出 ）。\n       ④旬进一步强调第二项措施的意义。 WO川d largely offset the fin ancial burden of annually pre-funding\nretire巳 health care( l argel y 意为“大大 地，很 大程度上”，起强调效果）回应首段③句暗示信息“ USPS 机构脆\n\n肿， 福 利 支出巨大”，形成“指出 问题 一 化 fWf 问题”的逻辑，凸显第 二 项措施功效：大大化解其退休人员医保\n造成的财政负担 。 thus addressing a long-standing complaint by the USPS and its unions( thus 意 为“因此，从\n而”，引出 结果，体现语义递进）进 一 步指出“这可以 化解 l!ifl 局和工会的长期抱怨”， 侧丽强调 USPS 和 工会\n\n的长期 矛盾： 一 方面， USPS 抱怨巨额医疗福利费用令其不堪重负；另 一 方面工会抱怨邮局无力预付医保损\n害员工权益。注 ： Medicare 是美国为 65 岁 以上民众设立 的医疗保险计划 。\n       【深层解读】 ①② 旬转承上文，指出多年来改革屡屡受阻的情形终子发生改变，同时两旬暗含先后\n关系 ：各 方 利 益协调 、 最终 达成 一 致，在众议院提出议案（ has finally agreed on a plan to fix th e sys tem )•\n法规目前在众以院接 受审议、等待 投 票通 过（ is moving through th e Hous e ）。 ①④⑤ 旬具体介绍法案两\n项措施’‘．着墨多少”暗示 f乍者重点关注对象 ： i涉及 USPS 和l 工会矛盾（ a long-s tanding comp la int by the\n\nUSPS a nd its un 阳\n  44",
+  "quality": {
+    "vision_line_count": 46,
+    "vision_character_count": 2194,
+    "pdf_text_character_count": 2820,
+    "nonempty": true
+  }
+}

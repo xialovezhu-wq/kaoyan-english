@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P016",
+  "year": 2011,
+  "pdf_page": 16,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.028952794037662044,
+      "text": ">二.语篇分析及试题精解",
+      "width": 0.28512384323846723,
+      "x": 0.08192562158039134,
+      "y": 0.9031267366132106
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017707510965611184,
+      "text": "I O When Liam McGee departed as president of",
+      "width": 0.44279660179501484,
+      "x": 0.12076271264062825,
+      "y": 0.8805483031188653
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013233195397000963,
+      "text": "利亚姆•麦基8月份辞去其作为美国",
+      "width": 0.32627118791852683,
+      "x": 0.6250000015915841,
+      "y": 0.876453488632966
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "Bank of America in August, his explanation was",
+      "width": 0.46398303803943447,
+      "x": 0.08474576350146938,
+      "y": 0.861618799168908
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287142,
+      "text": "银行总裁的职务时，他的解释出人意料地直",
+      "width": 0.3686440604073661,
+      "x": 0.5847457694785203,
+      "y": 0.8544386420181523
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "surprisingly straight®up. ② Rather than cloaking®his",
+      "width": 0.48093218122209813,
+      "x": 0.08262712171239751,
+      "y": 0.8400783291935658
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "率。他没有用常见的一些含糊其辞的借口",
+      "width": 0.36652541387648807,
+      "x": 0.584745763972773,
+      "y": 0.8328488370208135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014606988772399743,
+      "text": "exit in the usual vague® excuses, he came right out and",
+      "width": 0.4788135346912202,
+      "x": 0.08262712974125434,
+      "y": 0.8211488250153313
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "来掩饰自己的离开，而是公开声明他离职是",
+      "width": 0.3686440604073661,
+      "x": 0.5847457627200459,
+      "y": 0.8139534886613969
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "said he was leaving “to pursue my goal of running a",
+      "width": 0.4766949172247025,
+      "x": 0.08474576037599636,
+      "y": 0.8008720935523853
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860378255347,
+      "text": "“为了追求我管理一家公司的目标”。麦基",
+      "width": 0.370762706938244,
+      "x": 0.5826271238402,
+      "y": 0.7921511626597095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "company. \" ③ Broadcasting® his ambition was “very much",
+      "width": 0.48093218122209824,
+      "x": 0.08262712912765155,
+      "y": 0.7805232565871146
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837232465211,
+      "text": "说，公布他的追求目标“完全是我自己的决",
+      "width": 0.3686440604073661,
+      "x": 0.5847457694785203,
+      "y": 0.7732558138982359
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014629758680458127,
+      "text": "my decision， ” McGee says. ④ Within two weeks, he was",
+      "width": 0.48093218122209824,
+      "x": 0.08262712641755256,
+      "y": 0.7601744191337807
+    },
+    {
+      "confidence": 1,
+      "height": 0.01762402088772841,
+      "text": "定”。不出两周，麦基首次与哈特福德金融",
+      "width": 0.3686440604073661,
+      "x": 0.5847457623280966,
+      "y": 0.7513054829861613
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "talking for the first time with the board® of Hartford",
+      "width": 0.48093218122209824,
+      "x": 0.0826271326675525,
+      "y": 0.7395561359374442
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "服务集团的董事会会谈，9月29日，该集团",
+      "width": 0.36652541387648807,
+      "x": 0.5847457683001034,
+      "y": 0.731070495985034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013236990174176455,
+      "text": "Financial Services Group, which named him CEO and",
+      "width": 0.47669491722470236,
+      "x": 0.08474575775417428,
+      "y": 0.7193211491119467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371079646457,
+      "text": "任命他为 CEO兼董事长。",
+      "width": 0.22033897763206844,
+      "x": 0.58474576330261,
+      "y": 0.7107558146600315
+    },
+    {
+      "confidence": 1,
+      "height": 0.012549507400074433,
+      "text": "chairman",
+      "width": 0.07867039998372395,
+      "x": 0.08460547752011775,
+      "y": 0.7001205953363487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011749347258485754,
+      "text": "on September 29.",
+      "width": 0.1504237293061756,
+      "x": 0.1610169514132963,
+      "y": 0.6990861619667563
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.2288135492234003,
+      "x": 0.4067796689264353,
+      "y": 0.655352480197201
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013293915566825243,
+      "text": "①straight ［strert］a.坦率的，直截了当的",
+      "width": 0.30932201567150297,
+      "x": 0.08262712996691193,
+      "y": 0.6322674421213381
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "⑥impulsive ［im'pAlsiv］a. 冲动造成的",
+      "width": 0.28813557942708334,
+      "x": 0.5444915299192267,
+      "y": 0.6305483025775073
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565243110955639,
+      "text": "②cloak ［klauk］v.遮盖；掩盖",
+      "width": 0.22245762416294645,
+      "x": 0.08262712216111145,
+      "y": 0.6133720935523852
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.012000944222233634,
+      "text": "（26题）",
+      "width": 0.05947570074172248,
+      "x": 0.5634824891091118,
+      "y": 0.6146390625819266
+    },
+    {
+      "confidence": 1,
+      "height": 0.009138381201044377,
+      "text": "知识补充",
+      "width": 0.063559323265439,
+      "x": 0.8644067801045685,
+      "y": 0.6116187989606328
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394972440208,
+      "text": "③vague ［veig］ a. 含糊的，不明确的",
+      "width": 0.2669491431826637,
+      "x": 0.08262712109934617,
+      "y": 0.595930232685776
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015318977614918294,
+      "text": "•经典搭配",
+      "width": 0.10404167538597475,
+      "x": 0.5443774681319044,
+      "y": 0.5868172554672457
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0130927799264694,
+      "text": "④ broadcast ［'bro:dkast］w. 公开宣布（信息等）",
+      "width": 0.3580508277529762,
+      "x": 0.08262712551263625,
+      "y": 0.5770234988945375
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014584218864341358,
+      "text": "①depart as（辞去⋯⋯职务）",
+      "width": 0.21398305257161454,
+      "x": 0.5444915233540233,
+      "y": 0.5683139536904667
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011821452382339226,
+      "text": "⑤5 board Lbo:d」n. 董事会",
+      "width": 0.188559323265439,
+      "x": 0.08262711645696981,
+      "y": 0.5593994777485909
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013096575326147719,
+      "text": "②come out（公开表明（同意或不同意））",
+      "width": 0.28601693289620533,
+      "x": 0.5466101796626721,
+      "y": 0.5508720932841288
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01598837107964668,
+      "text": "•语篇分析•",
+      "width": 0.11864406767345609,
+      "x": 0.4427966117141194,
+      "y": 0.5232558145146824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017650586195465223,
+      "text": "第一段介绍事件：美国银行总裁 Liam McGee 辞职异常坦率，而后很快获得其理想中的职位。关键",
+      "width": 0.8347457449776785,
+      "x": 0.12076271289251682,
+      "y": 0.4954308093279649
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "词为：①surprisingly straight up； ②pursue。",
+      "width": 0.35593221028645833,
+      "x": 0.08050847367033016,
+      "y": 0.476501305282546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "①②③句为评述视角，评价银行总裁 McGee的离职情况。",
+      "width": 0.48516947428385415,
+      "x": 0.11864408126908974,
+      "y": 0.45626631884193003
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772852,
+      "text": "①句总评 McGee 的离职：直率得惊人。as president of Bank of America、departed 分别表明“人物身份”及",
+      "width": 0.8368643624441965,
+      "x": 0.12076273176518997,
+      "y": 0.4373368144904217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017639200618933093,
+      "text": "“事件”：银行总裁->辞职；straight up 对事件进行评论，内含两层信息：一、离职直接，不绕弯子；二、坦陈自己离",
+      "width": 0.8771186174665178,
+      "x": 0.08050847910572428,
+      "y": 0.4184073109655434
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772841,
+      "text": "开的原因；该信息被副词 surprisingly 修饰，为下文具体说明“此举为何出人意料、不寻常”预留悬念。",
+      "width": 0.794491489955357,
+      "x": 0.08262714237401621,
+      "y": 0.3981723234709518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017654380972640604,
+      "text": "②③句具体介绍 McGee 的离职做法，说明“为何坦率得惊人”。",
+      "width": 0.5233050827752976,
+      "x": 0.11864407479349515,
+      "y": 0.3779069770056398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860378255458,
+      "text": "②句解释 McGee 的离职方式：并未遮掩，而是直陈原因—想实现自己的职业目标。取舍词 Rather",
+      "width": 0.8432203311011905,
+      "x": 0.11864408016974354,
+      "y": 0.3575581396655235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "than 强调 McGee 离职时主观意愿上的抉择：弃“模棱两可”选“直截了当”，并借助usual 强化了这一抉择",
+      "width": 0.8792372930617559,
+      "x": 0.08050848310365566,
+      "y": 0.34007832874669286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "的非传统性，解开①句 surprisingly 悬念。he came right out and said（come out 意 to say publicly“公开",
+      "width": 0.8771186174665179,
+      "x": 0.0826271429086899,
+      "y": 0.3197674424579965
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "说明”；right 表示程度“完全地”）以动态描写凸显 McGee 的直接坦率，与cloaking、vague 所表现的高管",
+      "width": 0.875,
+      "x": 0.08262712489406773,
+      "y": 0.30087209298011575
+    },
+    {
+      "confidence": 1,
+      "height": 0.017783778765805502,
+      "text": "惯常做法“闪烁其词，生怕被外界知道辞职及其原因”反差鲜明。",
+      "width": 0.5362225051153274,
+      "x": 0.08253562589707593,
+      "y": 0.2804805081937247
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018183546340185486,
+      "text": "③句引用 McGee 原话强调其离职宣告的真实纯粹性。主语回指②句McGee 行为，其中 broadcast 突出",
+      "width": 0.8369655645461309,
+      "x": 0.12070537927762892,
+      "y": 0.2594551993904858
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017895323800667162,
+      "text": "刻画 McGee辞职的高调直白；此处 ambition 指具体的“抱负目标、夙愿”，即②句“去管理一家公司”。",
+      "width": 0.8200298781622024,
+      "x": 0.08256902359222901,
+      "y": 0.24085272749397246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01774546122737719,
+      "text": "④句由评述视角切换至叙述视角，说明 McGee 离职后情况：很快便获得目标理想职位。Within two",
+      "width": 0.8411016555059524,
+      "x": 0.11864407714638847,
+      "y": 0.2206266319704715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043444,
+      "text": "weeks 置于句首，突出反映 McGee 从辞职到获得心仪职位用时之短，不由让人推测其离职是有备而来，",
+      "width": 0.8771186174665178,
+      "x": 0.08050847910572428,
+      "y": 0.20348837235325734
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "而 for the first time（首次接洽潜在雇主）则表明他实为裸辞，同时从侧面体现出 McGee“昭告”式离职方",
+      "width": 0.875,
+      "x": 0.08262712041843218,
+      "y": 0.1831395351905546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "式的积极意义：第一时间获得外界雇主的关注；named him CEO and chairman 符合McGee 职业夙愿。",
+      "width": 0.8516949172247024,
+      "x": 0.08050848210798763,
+      "y": 0.1642441859161623
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "【深层解读】从段落中反复出现的同义不同形的词语表达中窥视作者用意。①句 departed 虽与",
+      "width": 0.8411016555059524,
+      "x": 0.11652545394723542,
+      "y": 0.14360313291714533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017768231135435575,
+      "text": "exit, leaving 同义，均表示“离职”，但depart 含有“离开某地，开启新航程”的意味，因而从文章一开始就",
+      "width": 0.8771186174665179,
+      "x": 0.08050848411631749,
+      "y": 0.12467362906822699
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "暗示 McGee 离职态度积极，皆因有更好的职业追求。②句 excuses 与①句 explanation 看似同义，却蕴藏",
+      "width": 0.875,
+      "x": 0.08262712489406773,
+      "y": 0.10610465111965062
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "不同的情感色彩，excuses 语带贬义，而 explanation 偏中性，以 explanation 说明 McGee 离职特例，以",
+      "width": 0.875,
+      "x": 0.0826271273940676,
+      "y": 0.08550913845387542
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "excuses 描述高管离职惯例，深层暗示作者赞赏“McGee 现行做法”，由此奠定全文正向的情感基调。",
+      "width": 0.8347457449776785,
+      "x": 0.08050847509590658,
+      "y": 0.06657963460922978
+    },
+    {
+      "confidence": 1,
+      "height": 0.011939097322309689,
+      "text": "16",
+      "width": 0.023305084591820124,
+      "x": 0.09533898329428363,
+      "y": 0.04941860474240889
+    }
+  ],
+  "vision_ocr_text": ">二.语篇分析及试题精解\nI O When Liam McGee departed as president of\n利亚姆•麦基8月份辞去其作为美国\nBank of America in August, his explanation was\n银行总裁的职务时，他的解释出人意料地直\nsurprisingly straight®up. ② Rather than cloaking®his\n率。他没有用常见的一些含糊其辞的借口\nexit in the usual vague® excuses, he came right out and\n来掩饰自己的离开，而是公开声明他离职是\nsaid he was leaving “to pursue my goal of running a\n“为了追求我管理一家公司的目标”。麦基\ncompany. \" ③ Broadcasting® his ambition was “very much\n说，公布他的追求目标“完全是我自己的决\nmy decision， ” McGee says. ④ Within two weeks, he was\n定”。不出两周，麦基首次与哈特福德金融\ntalking for the first time with the board® of Hartford\n服务集团的董事会会谈，9月29日，该集团\nFinancial Services Group, which named him CEO and\n任命他为 CEO兼董事长。\nchairman\non September 29.\n•词汇注释与难句分析•\n①straight ［strert］a.坦率的，直截了当的\n⑥impulsive ［im'pAlsiv］a. 冲动造成的\n②cloak ［klauk］v.遮盖；掩盖\n（26题）\n知识补充\n③vague ［veig］ a. 含糊的，不明确的\n•经典搭配\n④ broadcast ［'bro:dkast］w. 公开宣布（信息等）\n①depart as（辞去⋯⋯职务）\n⑤5 board Lbo:d」n. 董事会\n②come out（公开表明（同意或不同意））\n•语篇分析•\n第一段介绍事件：美国银行总裁 Liam McGee 辞职异常坦率，而后很快获得其理想中的职位。关键\n词为：①surprisingly straight up； ②pursue。\n①②③句为评述视角，评价银行总裁 McGee的离职情况。\n①句总评 McGee 的离职：直率得惊人。as president of Bank of America、departed 分别表明“人物身份”及\n“事件”：银行总裁->辞职；straight up 对事件进行评论，内含两层信息：一、离职直接，不绕弯子；二、坦陈自己离\n开的原因；该信息被副词 surprisingly 修饰，为下文具体说明“此举为何出人意料、不寻常”预留悬念。\n②③句具体介绍 McGee 的离职做法，说明“为何坦率得惊人”。\n②句解释 McGee 的离职方式：并未遮掩，而是直陈原因—想实现自己的职业目标。取舍词 Rather\nthan 强调 McGee 离职时主观意愿上的抉择：弃“模棱两可”选“直截了当”，并借助usual 强化了这一抉择\n的非传统性，解开①句 surprisingly 悬念。he came right out and said（come out 意 to say publicly“公开\n说明”；right 表示程度“完全地”）以动态描写凸显 McGee 的直接坦率，与cloaking、vague 所表现的高管\n惯常做法“闪烁其词，生怕被外界知道辞职及其原因”反差鲜明。\n③句引用 McGee 原话强调其离职宣告的真实纯粹性。主语回指②句McGee 行为，其中 broadcast 突出\n刻画 McGee辞职的高调直白；此处 ambition 指具体的“抱负目标、夙愿”，即②句“去管理一家公司”。\n④句由评述视角切换至叙述视角，说明 McGee 离职后情况：很快便获得目标理想职位。Within two\nweeks 置于句首，突出反映 McGee 从辞职到获得心仪职位用时之短，不由让人推测其离职是有备而来，\n而 for the first time（首次接洽潜在雇主）则表明他实为裸辞，同时从侧面体现出 McGee“昭告”式离职方\n式的积极意义：第一时间获得外界雇主的关注；named him CEO and chairman 符合McGee 职业夙愿。\n【深层解读】从段落中反复出现的同义不同形的词语表达中窥视作者用意。①句 departed 虽与\nexit, leaving 同义，均表示“离职”，但depart 含有“离开某地，开启新航程”的意味，因而从文章一开始就\n暗示 McGee 离职态度积极，皆因有更好的职业追求。②句 excuses 与①句 explanation 看似同义，却蕴藏\n不同的情感色彩，excuses 语带贬义，而 explanation 偏中性，以 explanation 说明 McGee 离职特例，以\nexcuses 描述高管离职惯例，深层暗示作者赞赏“McGee 现行做法”，由此奠定全文正向的情感基调。\n16",
+  "pdf_text_layer": "等 ［；；语篇金血旦噩璧\n       I   O 困 Wh rn Li am McGee depa rt ed as presid ent of\n                                                                                        利亚姆·麦基 8 月份辞去其作为美国\nBank of Ameri:a in August,              his exp la nation was\n                                                                               银行总裁的职务时，他的解释出人意料地直\ns urpri singly straight(   up.   8 R a ther than cloaking:2l hi s              率 。 他没有用常见的一些含糊其辞的借口\nexit in the usual vaguecr> exc uses, he ca me right out and\n                                                                               来掩饰自己的离开，而是公开声明他离耳只是\nsaid he was leaving “ to pursue my goa l of runnin g a\n                                                                               “为了追求我管理一家公司的目标” 。 麦基\nco mpany. ”。 Broadcasting® hi s am bi t ion was “ very mu ch\n                                                                               说，公布他的追求目标“完全是我自己的决\nm y decision ,'’ M cGee says. ()Within two wee ks , he was\n                                                                               定” 。 不出两周，麦基首次与哈特福德金融\ntalking for the fir st time with the board(           of H artford\n                                                                               服务集团的董事会会谈， 9 月 29 日，该集团\nFinancial Services Gro up , whi ch nam ed him CEO a nd\n                                                                               任命他为 CEO 兼董事长 。\nchairman on September 29.\n\n                                                                                         J\n                                                …\n                                                词 …            …\n                                                               与 …                 析…\n                                                      注 …           难－\n                                                                                   …\n                                                                               分\n                                                          释e\n                                                                         旬 …\n                                                                      …        u\n                                                      …                                                          回黑盟.t~回\n                                                      ．L\n                                                       户                       守\n\n\n\n\n( straight [ stre1 t ］ α ．坦 率的，直截了当的                           1\\    ® impulsive [ 1m 1 pA !s 1 v ］ α ．冲 动造成 的   西堕握主自￥－\n\n\n\n                                                            :\n                                                                                                                 E盲目窜勘\n( cloak [ kl剖 k ] 'V . 遮盖；掩盖                                   \\\\         C26 题）                                  知识补充\n( vague [ ve 1 g ］ ι 含糊的，不 明确的\n( broadcast [ ' b r:>:dka:st ］ υ．公开 宣 布（信息 等）\n                                                                     ．经典搭配\n                                                               引     ( depart as （辞去……职务）\n( board [ b:>:d] n. 董事会\n                                                               !(         com\n\n                                                j；语；撞分析 ：＜： 1'\n       第一段介绍事件 ： 美国银行总裁 Liam McGee 辞职异常坦率，而后很快获得其理想中的职位。关键\n词为： ① surprisingly straight up ； ② pursue 。\n       ①②③ 旬为评述视角，评价银行总裁 McGee 的离职情况 。\n       ①旬总 i平 McGee 的离职：直率得惊人。 as president of Bank of Ameri ca 、 departed 分别表明“人物身份”及\n“事 件”：银行总裁→辞 职； straight up 对事 件进行评论，内 含两层信息 ： 一 、离 职直接，不绕弯子 ； 二 、坦陈自己离\n开的原因；该信息被副词 surpri singl y 修饰，为下文具体说明“此举为何出人 意料、 不寻常”预留悬念 。\n       ②③ 旬具体介绍 McGee 的离职做法，说明“为何坦率得惊人”。\n       ② 旬解释 McGee 的离职方式：并未遮掩，而是直陈原因－一想实现自己的职业目标。 取 舍 词 R a the r\nth a n 强调 M cGee 离职时主 观 意愿仁 的抉择： 弃“模棱两可”选“直截了当 ”， 并 借助 u s u a l 强化了这 一 抉择\n的非传统性，解开 ①句 s urpri s ingl y 悬念。 h e came r ight o ut and sa id (come o ut 意为 to say publicly“公开\n说明”； right 表示程度“完全 地”）以动 态 描 写 凸显 McGee 的 直接坦率，与 cl oa king 、 va g u e 所 表 现的高管\n惯常做法“闪烁其词，生怕被外界知道辞职及其原因”反 差 鲜明 。\n       ③ 旬引用 McGee 原话强调其离职宣告的真实纯粹性。 主语回 指 ②句 McGee 行为，其中 broadcast 突出\n刻画 M cGee 辞 职的 高 调 直 白；此处 ambiti on 指 具 体的“抱负目标、凤愿 ” ，目11 ②句 “ 去管理一家 公司” 。\n       ④ 旬由评述视角切换至叙述视角，说明 McGee 离职后情况：很快便获得目标理想职位。 Within two\nweek s 置于句首 ， 突 出 反 映 McGee 从辞职到 获得 心仪职位用时之 短，不由让人 推测 其离 职是有 备 而来，\n而 for th e firs t time （首次接洽潜在雇主）则表明他实为裸醉，同时从侧面体现出 McGee“昭告”式离职方\n式 的积极 意义 ．第 一 时间 获得 外 界鹿主 的 关注； n a m e d him CEO and c h a irm a n 符 合 M cGee 职业凤愿 。\n       【深层解读】从段落中反复出现的同义不同形的词语表达申窥视作者用意。 ①句 depart e d 虽与\nexit , l eav in g 同义，均 表示“离 职” ，但 cl epa rt 含有“离开某地，开启新航程”的意味，因而从文章 一 开始就\n暗示 M cGee 离职态度积极 ， 皆因有更好 的职业追求 。② 句 excus es 与① 句 e xp l a nation 看 似同义 ， 却蕴藏\n不同 的情感色 彩， exc u ses 语带贬义， 而 exp l a n at i on 偏中性，以 exp l a nati o n 说明 M cGee 离 职特例，以\nexc us es 描述 高管离职惯例 ，深 层暗示作者赞赏“ M cGee 现 行 做 法”，由 此 奠定全文正 向的 情感基 调 。\n  16",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2191,
+    "pdf_text_character_count": 4818,
+    "nonempty": true
+  }
+}

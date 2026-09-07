@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P030",
+  "year": 2019,
+  "pdf_page": 30,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017735590058168826,
+      "text": "类各类需求的人工智能，与之相对的专用人工智能（又称“弱AT”）则是指能处理特定问题的人工智能。",
+      "width": 0.8653846243788913,
+      "x": 0.06196581468021234,
+      "y": 0.9139504563620204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01890482398956983,
+      "text": "②句补充人类对通用人工智能的痴迷。the idea of robots 借 the idea“构想/概念”暗示通用人工智",
+      "width": 0.8397435447722104,
+      "x": 0.10256413344722809,
+      "y": 0.8924380704771543
+    },
+    {
+      "confidence": 1,
+      "height": 0.01811898267564438,
+      "text": "能当前实际尚属虚无缥缈；remain fascinated 则借人类一直以来对其热切向往烘托科学家们仍在为之努",
+      "width": 0.8804903578484196,
+      "x": 0.061897023107475115,
+      "y": 0.8744054408357391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "力奋斗。注：robots that would.•，similar to those...“能像人一样观察、行动及反应，类似于当前科幻",
+      "width": 0.8803418623533286,
+      "x": 0.0619658146719316,
+      "y": 0.8546284226022189
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "剧中的人形机器人/仿生人”义同上段 artificial general intelligence, machines that would...，均指向“可",
+      "width": 0.8803418623533286,
+      "x": 0.06196581362390568,
+      "y": 0.8357235985554327
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860233789352,
+      "text": "模拟人类思维方式的机器人（即通用人工智能）”。",
+      "width": 0.42094015070305013,
+      "x": 0.06196582729270558,
+      "y": 0.8139534882697332
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695794360423123,
+      "text": "第四段引证说明原因：人类目前对意识的认知太过有限。关键词：① still far too complex to be",
+      "width": 0.8440170580399904,
+      "x": 0.10470087625778259,
+      "y": 0.793350717326239
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013276583212761706,
+      "text": "understood； ②no good theories explaining.",
+      "width": 0.34829060053916727,
+      "x": 0.06410256733191197,
+      "y": 0.7761627908025907
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02074166786561893,
+      "text": "①句间接引证。强调词Just”正好，恰好（可延伸为‘究竟’）”、stil”仍然，至今还”、far too...to.•",
+      "width": 0.8399277025712404,
+      "x": 0.10245600247038265,
+      "y": 0.7538390886644875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "“太⋯⋯而不能”、let alone”（常用在含否定意味的句子后表示进一步否定）更不用说”构成“单单••⋯仍",
+      "width": 0.8846153756211087,
+      "x": 0.05982905326850571,
+      "y": 0.7383720929038817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "然不可能⋯⋯更别提/更不可能⋯•••”语义逻辑，传递强烈语气：单是人类如何思考这一复杂问题我们至",
+      "width": 0.8824786189872187,
+      "x": 0.06196582753630511,
+      "y": 0.7177314209049213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771945,
+      "text": "今都仍未搞懂，更别提去复制人类思维了。注：reproduced 同义复现上文 imitate、like humans，其所描述",
+      "width": 0.8824786189872187,
+      "x": 0.06196581710895478,
+      "y": 0.6975228160358391
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "对象均为“通用人工智能”。",
+      "width": 0.2307692195263859,
+      "x": 0.06196581946757624,
+      "y": 0.6786179921203289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019033685656849597,
+      "text": "②句直接引证。连词 and 传递因果关联：缺乏解释意识的优质理论（即还未搞懂意识是什么）一～想",
+      "width": 0.8418803014061003,
+      "x": 0.102564117993531,
+      "y": 0.6569767443611179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "创建复制意识的机器（即实现通用人工智能）简直是天方夜谭；how you could ever...以反问句式及强调",
+      "width": 0.8803418623533286,
+      "x": 0.0641025793849962,
+      "y": 0.6395045632111518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "词 ever“在任何时候”加强否定语气：根本不可能建造这样的机器。注：句中just 不同于段首Just，此处为",
+      "width": 0.8824786189872187,
+      "x": 0.061965807680536174,
+      "y": 0.6191860463559166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "时间副词“此时，眼下，现在”，强调目前正面临的现状。build a machine to get there 中 get there 为抽象",
+      "width": 0.8824786189872186,
+      "x": 0.06196580988673271,
+      "y": 0.5988372093598495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "概念“实现目标/取得成功”，此处具体指“复制人类意识”，a machine 实指向第三段中 artificial general",
+      "width": 0.8867521322549988,
+      "x": 0.061965805346859665,
+      "y": 0.5813953486633293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01425266141530901,
+      "text": "intelligence, machines that...。",
+      "width": 0.26740475358634164,
+      "x": 0.06181834852619786,
+      "y": 0.5624408302794214
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019836409617278616,
+      "text": "【深层解读】第三、四段既是对第二段 fundamental questions 浅层文意“对人类意识知之甚少”的解释说",
+      "width": 0.8463256368235154,
+      "x": 0.10034243633230001,
+      "y": 0.5386580404876132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01903558119334936,
+      "text": "明，亦是对下文第五段 thorny ethical questions 的过渡铺垫：两段针对通用人工智能展开论述，借助“人类尚",
+      "width": 0.8803418623533286,
+      "x": 0.06410257925780861,
+      "y": 0.5202086046780909
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "未理解自身意识的本质，也无法复制意识，因此对人类极具吸引力的通用人工智能目前无法实现”的逻辑",
+      "width": 0.8803418623533286,
+      "x": 0.0641025793849962,
+      "y": 0.5026075621468495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "营造出“强AI尚未到来，伦理问题看似尚未出现”的假象，为下文论述“弱AI 的技术伦理问题”做铺垫。",
+      "width": 0.8525640845755507,
+      "x": 0.06410258020154075,
+      "y": 0.4823989572764993
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01744186023378924,
+      "text": "•真题精解•",
+      "width": 0.13675213225499877,
+      "x": 0.42735043130839806,
+      "y": 0.45348837231769834
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "32. In David Eagleman's opinion, our current knowledge of",
+      "width": 0.5042735132677801,
+      "x": 0.07264956630058296,
+      "y": 0.42568448519093516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01771284983708299,
+      "text": "32. 大卫 •伊格曼认为，我们目前对意",
+      "width": 0.341880330637497,
+      "x": 0.5918803483992002,
+      "y": 0.42296511622031463
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418055249657,
+      "text": "consciousness",
+      "width": 0.10897435447722102,
+      "x": 0.07478632664315586,
+      "y": 0.4098837213745069
+    },
+    {
+      "confidence": 1,
+      "height": 0.013278478127570326,
+      "text": "识的认识",
+      "width": 0.08119657669944325,
+      "x": 0.5918803431139537,
+      "y": 0.40677966126606
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907236987034,
+      "text": "。",
+      "width": 0.017094016531874923,
+      "x": 0.7286324788067121,
+      "y": 0.4040697674086382
+    },
+    {
+      "confidence": 1,
+      "height": 0.013280373664070089,
+      "text": "［A］ helps explain artificial intelligence",
+      "width": 0.3269230634316631,
+      "x": 0.0747863369807495,
+      "y": 0.3837209303435305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "［A］ 有助于解释人工智能",
+      "width": 0.2222222222222222,
+      "x": 0.5918803402930404,
+      "y": 0.38200782258827437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325384299167598,
+      "text": "［B］ can be misleading to robot making",
+      "width": 0.3290598200655531,
+      "x": 0.0726495826310409,
+      "y": 0.3559322034089796
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014557623956473864,
+      "text": "［B］ 可能误导机器人制造",
+      "width": 0.2200854655883322,
+      "x": 0.5918803468799791,
+      "y": 0.35462842232421177
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555728419974101,
+      "text": "［CJ inspires popular sci-fi TV series",
+      "width": 0.3119657962258291,
+      "x": 0.07051283098252695,
+      "y": 0.3270348840729965
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555728419974101,
+      "text": "［C］ 给热门科幻电视剧以启示",
+      "width": 0.25854699730416375,
+      "x": 0.5918803493485286,
+      "y": 0.3270348841076033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013339119131593025,
+      "text": "［D］ is too limited for us to reproduce it",
+      "width": 0.33760681736971687,
+      "x": 0.07264958698821841,
+      "y": 0.30087209316450925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "［D］太过有限而无法复制意识",
+      "width": 0.26068375393805376,
+      "x": 0.591880342902768,
+      "y": 0.2992177314058937
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "［精准定位］由题干关键词 David Eagleman 可直接定位至第四段。该段通过直接引用、间接引用两",
+      "width": 0.8418803014061003,
+      "x": 0.10256412553626601,
+      "y": 0.271802325320306
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "种方式指出伊格曼观点：人类思维方式（文中又指“意识”）极其复杂、难于理解，更甭提复制（思维方式/",
+      "width": 0.8867521322549988,
+      "x": 0.06196582308190214,
+      "y": 0.25290697674472484
+    },
+    {
+      "confidence": 1,
+      "height": 0.018050447436634753,
+      "text": "意识）。换言之，人类目前对意识的认识还十分有限、尚且无法复制意识。［D］正确。",
+      "width": 0.7137976167759219,
+      "x": 0.06191003948208585,
+      "y": 0.23198130511760873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "［命题解密］题干十正确项是对第四段①句的同义改写：题干中 consciousness 对应 how people",
+      "width": 0.8482905713077705,
+      "x": 0.10042737452239654,
+      "y": 0.21511627940972144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014536778650196758,
+      "text": "think，［D］项同义改写 far too complex to be understood, let alone reproduced。",
+      "width": 0.6623931533988865,
+      "x": 0.06410257522363356,
+      "y": 0.19621903499967486
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "LAJ利用第四段②句中 explaining what...and how...设障，却忽略其前否定表达 there are no good",
+      "width": 0.8461538146738805,
+      "x": 0.10042735770579496,
+      "y": 0.175872093268733
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "theories，从而将原文 no theories explaining...“没有理论能够解释意识、更甭提去制造复制意识的机器",
+      "width": 0.8824786189872187,
+      "x": 0.06196581135753036,
+      "y": 0.15552325565218605
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "（即‘人工智能’）”曲解为 helps explain“有助解释人工智能”。",
+      "width": 0.5149572379744373,
+      "x": 0.06196583060679832,
+      "y": 0.1366279068610038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014601209483836697,
+      "text": "［BJ中 robot making 虽与第四段段末 build a machine 同义，但原文意在指出我们目前对意识的认识",
+      "width": 0.8440170580399904,
+      "x": 0.10042735997573149,
+      "y": 0.11773255838501206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01776706441906628,
+      "text": "“阻碍（how you could ever）”而非“误导（misleading）”机器人的制造。",
+      "width": 0.5792719230798012,
+      "x": 0.061860661016063426,
+      "y": 0.09735053625926482
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "［C］虽复现第三段末 popular sci-fi TV series，但原文并未提及“我们目前对意识的认识”与热门科幻",
+      "width": 0.8440170580399905,
+      "x": 0.10042737896611567,
+      "y": 0.07822685767510129
+    },
+    {
+      "confidence": 1,
+      "height": 0.011898896840280782,
+      "text": "30",
+      "width": 0.02350427364480906,
+      "x": 0.07692307704867808,
+      "y": 0.05932203359507304
+    }
+  ],
+  "vision_ocr_text": "类各类需求的人工智能，与之相对的专用人工智能（又称“弱AT”）则是指能处理特定问题的人工智能。\n②句补充人类对通用人工智能的痴迷。the idea of robots 借 the idea“构想/概念”暗示通用人工智\n能当前实际尚属虚无缥缈；remain fascinated 则借人类一直以来对其热切向往烘托科学家们仍在为之努\n力奋斗。注：robots that would.•，similar to those...“能像人一样观察、行动及反应，类似于当前科幻\n剧中的人形机器人/仿生人”义同上段 artificial general intelligence, machines that would...，均指向“可\n模拟人类思维方式的机器人（即通用人工智能）”。\n第四段引证说明原因：人类目前对意识的认知太过有限。关键词：① still far too complex to be\nunderstood； ②no good theories explaining.\n①句间接引证。强调词Just”正好，恰好（可延伸为‘究竟’）”、stil”仍然，至今还”、far too...to.•\n“太⋯⋯而不能”、let alone”（常用在含否定意味的句子后表示进一步否定）更不用说”构成“单单••⋯仍\n然不可能⋯⋯更别提/更不可能⋯•••”语义逻辑，传递强烈语气：单是人类如何思考这一复杂问题我们至\n今都仍未搞懂，更别提去复制人类思维了。注：reproduced 同义复现上文 imitate、like humans，其所描述\n对象均为“通用人工智能”。\n②句直接引证。连词 and 传递因果关联：缺乏解释意识的优质理论（即还未搞懂意识是什么）一～想\n创建复制意识的机器（即实现通用人工智能）简直是天方夜谭；how you could ever...以反问句式及强调\n词 ever“在任何时候”加强否定语气：根本不可能建造这样的机器。注：句中just 不同于段首Just，此处为\n时间副词“此时，眼下，现在”，强调目前正面临的现状。build a machine to get there 中 get there 为抽象\n概念“实现目标/取得成功”，此处具体指“复制人类意识”，a machine 实指向第三段中 artificial general\nintelligence, machines that...。\n【深层解读】第三、四段既是对第二段 fundamental questions 浅层文意“对人类意识知之甚少”的解释说\n明，亦是对下文第五段 thorny ethical questions 的过渡铺垫：两段针对通用人工智能展开论述，借助“人类尚\n未理解自身意识的本质，也无法复制意识，因此对人类极具吸引力的通用人工智能目前无法实现”的逻辑\n营造出“强AI尚未到来，伦理问题看似尚未出现”的假象，为下文论述“弱AI 的技术伦理问题”做铺垫。\n•真题精解•\n32. In David Eagleman's opinion, our current knowledge of\n32. 大卫 •伊格曼认为，我们目前对意\nconsciousness\n识的认识\n。\n［A］ helps explain artificial intelligence\n［A］ 有助于解释人工智能\n［B］ can be misleading to robot making\n［B］ 可能误导机器人制造\n［CJ inspires popular sci-fi TV series\n［C］ 给热门科幻电视剧以启示\n［D］ is too limited for us to reproduce it\n［D］太过有限而无法复制意识\n［精准定位］由题干关键词 David Eagleman 可直接定位至第四段。该段通过直接引用、间接引用两\n种方式指出伊格曼观点：人类思维方式（文中又指“意识”）极其复杂、难于理解，更甭提复制（思维方式/\n意识）。换言之，人类目前对意识的认识还十分有限、尚且无法复制意识。［D］正确。\n［命题解密］题干十正确项是对第四段①句的同义改写：题干中 consciousness 对应 how people\nthink，［D］项同义改写 far too complex to be understood, let alone reproduced。\nLAJ利用第四段②句中 explaining what...and how...设障，却忽略其前否定表达 there are no good\ntheories，从而将原文 no theories explaining...“没有理论能够解释意识、更甭提去制造复制意识的机器\n（即‘人工智能’）”曲解为 helps explain“有助解释人工智能”。\n［BJ中 robot making 虽与第四段段末 build a machine 同义，但原文意在指出我们目前对意识的认识\n“阻碍（how you could ever）”而非“误导（misleading）”机器人的制造。\n［C］虽复现第三段末 popular sci-fi TV series，但原文并未提及“我们目前对意识的认识”与热门科幻\n30",
+  "pdf_text_layer": "类各类需求的人工智能，与之相对的专用人工智能（又称“弱 AI ”）则是指能处理特定问题的人工智能。\n      ② 句补充人 类 对 通 用人 工智 能的痴迷 。 t h e idea of robots 借 the id ea “构想 ／ 概念”暗示通用人工智\n能 当 前 实际尚属虚无嫖纱 ； r ema in fasc inated 则 借人类 一 直以来对其热切 向 往烘托科学家 们仍 在为 之努\n力奋斗 。 注： robots th at wou ld ... , simi lar to t hose ...“能像人 一 样观察、行动及反应，类 似于 当 前科幻\n剧中的人形机 器人 ／仿生人”义同上段 artificial genera l intelli gence, machines that wou ld .. .，均指向“可\n模拟人类思维方式的机器人（即通用人工智能）” 。\n      第四段引证说明原因：人类目前对意识的认知太过有限。关键词：① still far too complex to be\nundersto创；②no good theories explaining 。\n      ①旬间接引证。 强调词 j ust“正好，恰好（可延伸为‘究竟＇）”、 still “仍然，至今还”、 far too .. . to.\n“太 ……而不能 飞 l et a lon e“（ 常用在含否定意昧的句子后表示进 一 步否定）更不用说 ”构成“单单……仍\n然不可能 …… 更别提 ／更不可 能…… ”语义逻辑，传递强烈语气 ： 单是人类如 何思 考这一复杂 问题我们至\n今都仍未搞懂，更别提去复制人类思维了 。 注： re produ ced 同义 复现上文 imitate 、 lik e hum a ns ， 其 所描述\n对 象均为“ 通用人 工智能”。\n      ②旬直接引证。 连同 and 传递因果关联：缺乏解释意识的优质理论 Olfl 还未摘懂意识是什么）→想\n创建 复 制 意 识的机器（即 实 现通用人 工智 能 ）简直是天方夜谭 ； how yo u cou ld ever. ..以反问句式及强调\n词 ever“在任 何时候”加强 否定语气 ：根本 不 可能 建造这样的 机器 。注 ：句中 just 不同于段首 Ju s t ，此处为\n时间副同 “ 此时，眼下，现 在” ， 强调目前正面 临的现状 。 build a machin e to get there 中 get there 为抽象\n概念“实现目标 ／ 取得成功”，此处具体指“复制人类意识”， a mach in e 实指 向 第 三 段中 art ifi cia l genera l\nintelli gence, machines that .. .\n      【深层解读】第二、四段既是对第二段 fundamental qu四ions f交层文意“对人类意识知之甚少”的解释说\n明，亦是对下文第五段 thorny ethical questions 的过渡铺垫： 两段针对通用人工智能展开论述，借助“人类尚\n未理解自身意识的本质，也无法复制意识，因此对人类极具吸引力的通用人 工智 能目前无法实现”的逻辑\n营造 出“强 AI 尚 未到来，伦理 问题 看 似尚 未出现”的假象，为 下 文论述“弱 AI 的 技术伦理问题”做铺垫 。\n\n                                                ： ： ~：：真霆号；但＜ 1'\n 32. In David Eagleman ’ s opinion, our current knowledge of       32. 大］！ .伊格曼认为，我们 目前对意\n consciousness                                                     识的认识           。\n\n\n\n\n [A] helps exp lain artifi cial inte lligence                      [A〕有助于解释人工智 能\n\n [ BJ ca n be mis lead ing to robot mak ing                        [BJ 可能误导机器人制造\n\n [ CJ inspires popular sci-fi TV series                            [CJ 给热 门科幻电视剧以启 示\n\n [DJ is too limit ed for us to reproduce it                        [DJ 太过有 限而无法 复 制 意 识\n\n      ［精准定位］ 由题 干关键词 David Eagl ema n 可 直接定位至第 四段 。该 段通过直接引用、间接引用两\n种方式指出伊格 曼 观 点 ： 人类思维方式（文中又指“意识”）极其复杂、难予理解，更甭提复制（思维方式／\n意 识） 。 换 言之，人类目前对意识的认识还十分有 限 、尚且无法复 制 意识。［ DJ 正确。\n      ［命题解密］ 题干十正确项是对第 四段 ① 句的同义改写：题干中 consciousness 对应 how people\nthink, [ D］项 同义改 写 fa r too compl ex to be und 巳rstood, let alon e reproduced 。\n      [ A ］利用第四段 ② 句中 explaining what ... a nd how .. .设障，却忽略其前否定表达 t h e r e a re no good\nth eori es ，从 而将 原文口o t heori es explaining ...“没有理论能够解释意识、更甭提去制造复制意识的机器\n（即‘人工智能’）”曲解为 he l ps exp l a in“ 有助解释人工智能” 。\n      [BJ 中 robot m a kin g 虽与第四段段末 bu ild a machine 同义，但原文意在指出我们目前对意识的认识\n“ 阻碍 （ how yo u co uld eve r ）” 而 非“ 误导 （ misleading ）”机器人的制造 。\n      [CJ 虽复现第 三 段末 popular sci-fi TV ser i es ，但原文并未提及“我们目前对意识 的认识” 与 热门科幻\n 30",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 2179,
+    "pdf_text_character_count": 2759,
+    "nonempty": true
+  }
+}

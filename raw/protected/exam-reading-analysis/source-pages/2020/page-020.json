@@ -1,0 +1,590 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P020",
+  "year": 2020,
+  "pdf_page": 20,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01308139468408731,
+      "text": "gone through an existential crisis",
+      "width": 0.282377914286863,
+      "x": 0.10615711033710659,
+      "y": 0.8953488374205533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0147329065390438,
+      "text": "［B］经历了一场生死存亡的危机",
+      "width": 0.2802547743595929,
+      "x": 0.5605095582979104,
+      "y": 0.8953488373480176
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139468408731,
+      "text": "［C］ reviewed the publishing industry",
+      "width": 0.3142250334599104,
+      "x": 0.07006370931392293,
+      "y": 0.8735465119845067
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014693301769952982,
+      "text": "［C］对出版行业进行了反思",
+      "width": 0.239915075213469,
+      "x": 0.5605095560875331,
+      "y": 0.871934605184355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395550276542,
+      "text": "［D］ financed researchers generously",
+      "width": 0.30573247375083,
+      "x": 0.07006370197808814,
+      "y": 0.8517441859821292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014689341552900581,
+      "text": "［D］为研究人员提供了慷慨资助",
+      "width": 0.2802547743595929,
+      "x": 0.5605095572469552,
+      "y": 0.8501362398345469
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859578783192,
+      "text": "［精准定位］第二段初步说明，大学图书馆是科学文献的购买主力；第三段为第二段的具体例证，以",
+      "width": 0.8450105826693228,
+      "x": 0.09766456848487137,
+      "y": 0.824127907637934
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125325,
+      "text": "“爱思唯尔盈利之巨”与“英国图书馆购买科学文献花销之大”证明爱思唯尔等科学出版商主要依靠大学",
+      "width": 0.8853502818154465,
+      "x": 0.057324850281236545,
+      "y": 0.8051771113874415
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125325,
+      "text": "图书馆赚取巨额利润。因此［A］正确。",
+      "width": 0.32484075336025686,
+      "x": 0.06157112828271659,
+      "y": 0.7847411442494574
+    },
+    {
+      "confidence": 1,
+      "height": 0.01602797633837183,
+      "text": "［命题解密］正确选项［A］是对爱思唯尔的例子所论证内容的准确归纳。",
+      "width": 0.6157112273562002,
+      "x": 0.09766456386967047,
+      "y": 0.7659883723367258
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125436,
+      "text": "［B］将第二段③句“其他出版业”的经历偷换为“科学出版机构爱思唯尔”的经历；［C］曲解第三段",
+      "width": 0.8471337631245851,
+      "x": 0.09766454941435275,
+      "y": 0.7484105360151911
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859578783192,
+      "text": "desperate efforts to change them，原文说的是“人们试图改变爱思唯尔获取暴利的模式”，即爱思唯尔等出版",
+      "width": 0.8874734622707089,
+      "x": 0.05732483846124863,
+      "y": 0.7296511634082828
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859578783192,
+      "text": "商为被反思的对象，而非其主动对出版业进行了反思，［D］将第三段“政府资助”偷换为“爱思唯尔资助”。",
+      "width": 0.8662419819420236,
+      "x": 0.06157116206508155,
+      "y": 0.7093023260245619
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125325,
+      "text": "［技巧总结］本题实质上为“写作目的十推理引申”题，回答本题应首先准确归纳第二、三段的段落主",
+      "width": 0.8471337631245849,
+      "x": 0.09766453035384355,
+      "y": 0.6902815624456518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185957878308,
+      "text": "旨，然后在两段话的基础上进行合理引申。第二段①②③句分别通过 needs only find a market、 not very",
+      "width": 0.8853502818154465,
+      "x": 0.061571150971257524,
+      "y": 0.6715116283743681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107185876553576,
+      "text": "price sensitive 与 profit margins approaching 40%形成“需找销路一大学图书馆慷慨购买（也即销路不愁）",
+      "width": 0.8874734622707089,
+      "x": 0.05944799111517622,
+      "y": 0.6539509534400636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125436,
+      "text": "一科学出版社利润丰厚”的逻辑链，因此第二段主旨为科学出版机构的盈利主要依靠大学图书馆的购",
+      "width": 0.8853502818154465,
+      "x": 0.05944799786616214,
+      "y": 0.6335149861781424
+    },
+    {
+      "confidence": 1,
+      "height": 0.01988819617774673,
+      "text": "买；第三段以爱思唯尔与英国大学为例进行具体论证，［A］即为对两段内容准确概括基础上的合理引申。",
+      "width": 0.8876793444710739,
+      "x": 0.061476636952109205,
+      "y": 0.6133217609656991
+    },
+    {
+      "confidence": 1,
+      "height": 0.020138366345813563,
+      "text": "其余三项要义“经历危机”、“反思现状”、“慷慨资助科研”均为“行业改革向好”的逻辑，与“科学出版行业",
+      "width": 0.8855071251452524,
+      "x": 0.059370464180889586,
+      "y": 0.5940005825131704
+    },
+    {
+      "confidence": 1,
+      "height": 0.016062300818059483,
+      "text": "坐收暴利”的情感色彩不符。",
+      "width": 0.24203821514073914,
+      "x": 0.06157112894767709,
+      "y": 0.5770348837829468
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017711171662125325,
+      "text": "N OThe most drastic®， and thoroughly®illegal，",
+      "width": 0.42887471111647163,
+      "x": 0.10403398508477298,
+      "y": 0.5449591276637568
+    },
+    {
+      "confidence": 1,
+      "height": 0.016086062986562788,
+      "text": "最为猛烈、也是完全违规的抵制是 Sci-",
+      "width": 0.3460721728969538,
+      "x": 0.5966029828296547,
+      "y": 0.5376930065916824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883715692809,
+      "text": "reaction has been the emergence® of Sci-Hub, a kind of",
+      "width": 0.4713375501898655,
+      "x": 0.0636942830260863,
+      "y": 0.5276162795314933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016348773841961872,
+      "text": "Hub的出现。Sci-Hub—它有点类似全球",
+      "width": 0.3821655921885375,
+      "x": 0.5583864168144361,
+      "y": 0.5172570391775355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015989691641631776,
+      "text": "global photocopier® for scientific papers, set up in 2012，",
+      "width": 0.46921441026259547,
+      "x": 0.06369428576042191,
+      "y": 0.5072661220645203
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883715692809,
+      "text": "性的科学论文影印机——创立于2012年，现",
+      "width": 0.3842887321158076,
+      "x": 0.5562632801381329,
+      "y": 0.49854651175654163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018739757485870423,
+      "text": "which now claims to offer access to every paywalled",
+      "width": 0.4695747041132345,
+      "x": 0.0656487868930185,
+      "y": 0.48752084960904674
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014713104587593118,
+      "text": "声称可以提供2015年以来发表的所有付费",
+      "width": 0.3821655921885375,
+      "x": 0.5583864215278118,
+      "y": 0.48092643028822657
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014537523704480249,
+      "text": "article published since 2015. ② The success of Sci-Hub，",
+      "width": 0.4713375501898655,
+      "x": 0.06369429008553401,
+      "y": 0.4709302325902658
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01608342284186126,
+      "text": "论文的访问权。Sci-Hub 的成功——有赖于",
+      "width": 0.3821655921885375,
+      "x": 0.5583864173876845,
+      "y": 0.46075581408212307
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014707823432000722,
+      "text": "which relies on researchers passing on copies they have",
+      "width": 0.4713375501898655,
+      "x": 0.06369427437428193,
+      "y": 0.45186194388083445
+    },
+    {
+      "confidence": 1,
+      "height": 0.014615413170311342,
+      "text": "研究者交递自身以合法方式获取的文献副",
+      "width": 0.3821655921885375,
+      "x": 0.5583864156133442,
+      "y": 0.44323342389612286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014635215121762135,
+      "text": "themselves legally accessed, shows the legal ecosystem",
+      "width": 0.47133755018986556,
+      "x": 0.06369427633818839,
+      "y": 0.4331395349279594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014727626249640746,
+      "text": "本——表明，合法的生态系统在用户中已失",
+      "width": 0.3821655921885375,
+      "x": 0.5583864210728529,
+      "y": 0.42441860479403093
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014701223070246905,
+      "text": "has lost legitimacy®",
+      "width": 0.18046707619392222,
+      "x": 0.0636942780743056,
+      "y": 0.41553133513406115
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013169845594913743,
+      "text": "among its users",
+      "width": 0.1549893768026851,
+      "x": 0.25265393413935094,
+      "y": 0.41416893713043146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "and",
+      "width": 0.03397027429831456,
+      "x": 0.41401273999167776,
+      "y": 0.41553133525301444
+    },
+    {
+      "confidence": 1,
+      "height": 0.009082652134423275,
+      "text": "must",
+      "width": 0.057324838828280655,
+      "x": 0.447983016431578,
+      "y": 0.4155313352750686
+    },
+    {
+      "confidence": 1,
+      "height": 0.010445049954586727,
+      "text": "be",
+      "width": 0.023354564529966093,
+      "x": 0.5138004251306291,
+      "y": 0.41553133533524
+    },
+    {
+      "confidence": 1,
+      "height": 0.016002894097517872,
+      "text": "去正统性，必须对之进行改革以便它能够服",
+      "width": 0.3821655921885375,
+      "x": 0.558386415795328,
+      "y": 0.404069767503877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018042712510444203,
+      "text": "transformed® so that it works for all participants.",
+      "width": 0.41658629965813826,
+      "x": 0.06351518346063452,
+      "y": 0.39435236241393934
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605833973481796,
+      "text": "务于所有参与者。",
+      "width": 0.152866236875415,
+      "x": 0.5583864159996597,
+      "y": 0.38510445071552013
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020500655178586347,
+      "text": "•词汇注释与难包分析•泌",
+      "width": 0.25902335482289596,
+      "x": 0.37791931830688186,
+      "y": 0.33560399602041135
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565246956225075,
+      "text": "①drastic ［'dreestik］a. 急剧的，猛烈的",
+      "width": 0.29723991404174965,
+      "x": 0.06369427050920294,
+      "y": 0.3183139536416222
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01474742820109165,
+      "text": "⑤legitimacy ［u'dstimasi］ n. 合理性，正统性",
+      "width": 0.3418258930424136,
+      "x": 0.5307855715520414,
+      "y": 0.31540697689743624
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014750068345793177,
+      "text": "②thoroughly ［'0nrali］ ad. 彻底，完全",
+      "width": 0.2887473340686732,
+      "x": 0.06369427256226638,
+      "y": 0.30087209328551767
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013226611737659266,
+      "text": "⑥ transform ［treens'form］ w.",
+      "width": 0.22292993553131224,
+      "x": 0.5307855667354053,
+      "y": 0.29927338800264014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013169845594913632,
+      "text": "转换，改变",
+      "width": 0.08280254328551684,
+      "x": 0.749469217714991,
+      "y": 0.29791098983805453
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906674585131,
+      "text": "③emergence ［r'm3:dsons］ n.",
+      "width": 0.21231421563096575,
+      "x": 0.06581741801608106,
+      "y": 0.28633720945340513
+    },
+    {
+      "confidence": 1,
+      "height": 0.013169845594913743,
+      "text": "出现，兴起",
+      "width": 0.08067940335824675,
+      "x": 0.28450106273701253,
+      "y": 0.28337874647326344
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014836017702191007,
+      "text": "• 经典搭配",
+      "width": 0.10412320039503453,
+      "x": 0.5328640885228522,
+      "y": 0.28037268875441523
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013169845594913743,
+      "text": "④photocopier ［'Fautoukopia］ n. 复印机",
+      "width": 0.29936305396901974,
+      "x": 0.06369426545179596,
+      "y": 0.26884650300968016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01467349981850219,
+      "text": "①pass on （［用后］递给，传递）",
+      "width": 0.23566877509493267,
+      "x": 0.5286624295172895,
+      "y": 0.2629427789890034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020486020911941738,
+      "text": "The most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global",
+      "width": 0.8474322923151145,
+      "x": 0.10174263092792556,
+      "y": 0.22852558233526754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016348773841961872,
+      "text": "photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article",
+      "width": 0.8874734622707089,
+      "x": 0.06369427783492135,
+      "y": 0.21344232503610738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208129425464676,
+      "text": "published since 2015.",
+      "width": 0.17622079633938204,
+      "x": 0.06369427560950207,
+      "y": 0.19754768397762557
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01468142025260688,
+      "text": "结构切分：",
+      "width": 0.09341825811986429,
+      "x": 0.10191082964495105,
+      "y": 0.17877906988435488
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014744788056390012,
+      "text": "and thoroughly illegal",
+      "width": 0.14861995702087485,
+      "x": 0.13163482127724832,
+      "y": 0.15531335148512715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014562606811523438,
+      "text": "a kind of global photocopier for scientific papers",
+      "width": 0.3205944735057167,
+      "x": 0.299363057281112,
+      "y": 0.15258855584045905
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013169845594913743,
+      "text": "插人语",
+      "width": 0.05307855390774141,
+      "x": 0.23991507593006417,
+      "y": 0.1307901908466168
+    },
+    {
+      "confidence": 1,
+      "height": 0.014599570569723608,
+      "text": "同位语",
+      "width": 0.05307855390774141,
+      "x": 0.4225053089537726,
+      "y": 0.12936046537854085
+    },
+    {
+      "confidence": 1,
+      "height": 0.01361132057875969,
+      "text": "后置定语",
+      "width": 0.06815504299533637,
+      "x": 0.5434171712138495,
+      "y": 0.13054899092954586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013278528520132005,
+      "text": "set up in 2012",
+      "width": 0.09772068950759472,
+      "x": 0.6454071701928153,
+      "y": 0.13071538704856978
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011806252433645192,
+      "text": "The most drastic reaction",
+      "width": 0.16804769852880141,
+      "x": 0.11659836057987048,
+      "y": 0.11327310287632675
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01775494020273205,
+      "text": "•has been the emergence of Sci-Hub",
+      "width": 0.24486516418051746,
+      "x": 0.2799449929326709,
+      "y": 0.10727458225103159
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906674585242,
+      "text": "主语",
+      "width": 0.03609341675858416,
+      "x": 0.18259023459664564,
+      "y": 0.09302325603770734
+    },
+    {
+      "confidence": 1,
+      "height": 0.01327941852954162,
+      "text": "系表结构作谓语",
+      "width": 0.11889596764309951,
+      "x": 0.3397027593824649,
+      "y": 0.0899182559778906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014947600195778232,
+      "text": "which now claims to offer access to every",
+      "width": 0.2722507188044696,
+      "x": 0.6409818796539114,
+      "y": 0.09583572161799414
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395550276542,
+      "text": "定语从句",
+      "width": 0.06794055366262808,
+      "x": 0.5498938424892804,
+      "y": 0.07703488368380063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906674585131,
+      "text": "paywalled article published since 2015.",
+      "width": 0.26114649475016605,
+      "x": 0.6390658217066578,
+      "y": 0.07848837224410266
+    },
+    {
+      "confidence": 1,
+      "height": 0.013180406606814521,
+      "text": "20",
+      "width": 0.023354564529966065,
+      "x": 0.07643312089319107,
+      "y": 0.04495912810804881
+    }
+  ],
+  "vision_ocr_text": "gone through an existential crisis\n［B］经历了一场生死存亡的危机\n［C］ reviewed the publishing industry\n［C］对出版行业进行了反思\n［D］ financed researchers generously\n［D］为研究人员提供了慷慨资助\n［精准定位］第二段初步说明，大学图书馆是科学文献的购买主力；第三段为第二段的具体例证，以\n“爱思唯尔盈利之巨”与“英国图书馆购买科学文献花销之大”证明爱思唯尔等科学出版商主要依靠大学\n图书馆赚取巨额利润。因此［A］正确。\n［命题解密］正确选项［A］是对爱思唯尔的例子所论证内容的准确归纳。\n［B］将第二段③句“其他出版业”的经历偷换为“科学出版机构爱思唯尔”的经历；［C］曲解第三段\ndesperate efforts to change them，原文说的是“人们试图改变爱思唯尔获取暴利的模式”，即爱思唯尔等出版\n商为被反思的对象，而非其主动对出版业进行了反思，［D］将第三段“政府资助”偷换为“爱思唯尔资助”。\n［技巧总结］本题实质上为“写作目的十推理引申”题，回答本题应首先准确归纳第二、三段的段落主\n旨，然后在两段话的基础上进行合理引申。第二段①②③句分别通过 needs only find a market、 not very\nprice sensitive 与 profit margins approaching 40%形成“需找销路一大学图书馆慷慨购买（也即销路不愁）\n一科学出版社利润丰厚”的逻辑链，因此第二段主旨为科学出版机构的盈利主要依靠大学图书馆的购\n买；第三段以爱思唯尔与英国大学为例进行具体论证，［A］即为对两段内容准确概括基础上的合理引申。\n其余三项要义“经历危机”、“反思现状”、“慷慨资助科研”均为“行业改革向好”的逻辑，与“科学出版行业\n坐收暴利”的情感色彩不符。\nN OThe most drastic®， and thoroughly®illegal，\n最为猛烈、也是完全违规的抵制是 Sci-\nreaction has been the emergence® of Sci-Hub, a kind of\nHub的出现。Sci-Hub—它有点类似全球\nglobal photocopier® for scientific papers, set up in 2012，\n性的科学论文影印机——创立于2012年，现\nwhich now claims to offer access to every paywalled\n声称可以提供2015年以来发表的所有付费\narticle published since 2015. ② The success of Sci-Hub，\n论文的访问权。Sci-Hub 的成功——有赖于\nwhich relies on researchers passing on copies they have\n研究者交递自身以合法方式获取的文献副\nthemselves legally accessed, shows the legal ecosystem\n本——表明，合法的生态系统在用户中已失\nhas lost legitimacy®\namong its users\nand\nmust\nbe\n去正统性，必须对之进行改革以便它能够服\ntransformed® so that it works for all participants.\n务于所有参与者。\n•词汇注释与难包分析•泌\n①drastic ［'dreestik］a. 急剧的，猛烈的\n⑤legitimacy ［u'dstimasi］ n. 合理性，正统性\n②thoroughly ［'0nrali］ ad. 彻底，完全\n⑥ transform ［treens'form］ w.\n转换，改变\n③emergence ［r'm3:dsons］ n.\n出现，兴起\n• 经典搭配\n④photocopier ［'Fautoukopia］ n. 复印机\n①pass on （［用后］递给，传递）\nThe most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global\nphotocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article\npublished since 2015.\n结构切分：\nand thoroughly illegal\na kind of global photocopier for scientific papers\n插人语\n同位语\n后置定语\nset up in 2012\nThe most drastic reaction\n•has been the emergence of Sci-Hub\n主语\n系表结构作谓语\nwhich now claims to offer access to every\n定语从句\npaywalled article published since 2015.\n20",
+  "pdf_text_layer": "[BJ gone th ough an existential crisis                                                                                                                 [BJ ~Bi7-~~~f¥t::a<Jfe;ffi.\n  [CJ reviewed the publishing industry                                                                                                                  [ CJ ~ ili JI& fi }It ilt fi 7 & Ml-\n  [DJ financed researchers generously                                                                                                                   [DJ 1-ifiJf~A.Vl ~~ 7 ffltffl~ fib\n     [ ffiil:iE{U:] ~ = ~w~~~ ,:k~OO~ffi~#~x~a<J~~ :!:JJ ;~=~1-i•=~a<JA-f*-f9iJYE, ~\n\"~,ffl,llt~jl_~Jz.e\" ~\"~lE oo ~ffiW;J~#~xitt;tr,fflz:k\"YE~~JiPl~~#~ lli X&iffi\" 1:~1&3:k~\n00 ~ tg J!Mflijt e ~ ;f!J ffil fI3 .tit [ AJ i£ f9fl  o                                           o\n\n\n     [ $~~~ J i£~-~[~A~--·~~~~~~~~-~~~~M.\n                          m\n    [BJ~ =m:@1iJ \"Jtfm 11& }It,,~~ ~                                       m\n                                                         ~ ~ 11& ~ ~ ,m, 11t ~\" ~ ~         cJ dB fff ffi -m. ~,.,\"                                 m m                                                               m;c                                            m\ndesperate efforts to change them,ffi::t~a<J~\" .A ffJitf!l~~~,ffl-Pl~~JoclJ;f!J ~#t3:\\\", llP~,ffl-Pi~~ ili JI&\n• ~ ~ &,_m, ~ >t-tal ,rm ~~1t ± ~ ~,t w11& ~ :itt: fr 7 &,m~ ;[DJ )J4J. ffi =m:\"~.lff !8t WJ \"-Mu~~\"~,~ Pi~ Wt WJ\"\n                                           *                                                                                                                    *\n                                                                                                                                                                                                                                                                 o\n\n     [ tt!J .~ ~ J '1I ~ I[;: ..t '1\" 1EjJ f'F § ~+ft jJI! 5I $ \"121 , @l ~ ~ w.!f 5t rt rlffl ~.:J ~ ffi .:: , m~ -~ .±                                                                                                              =\n~ ,~miEw.i&~~¥lillL.t.:itEfritJl.sl $ o M=mCD@®-t:J?tiUii:t:t needs only find a market,not very\nprice sensitive~ profit margins approaching 40 %mJ&\"~ttfflB!-:k~~~ffiffltfflW;j~(-tl!f;!Pffl~~~)\n-#~w•tt~~*~\"a<J~••.~.t1t•=•1:~'1#~w•m~a<Jjl_~1:~1&a:k~oo~ma<J~\n~ ;~ -m ~~,ffl.Pl$~~1E:k~'119iJilrff Jl.-1*~-i.iE ,[A]llP 1-Jm~~~~ilrifDffilffi¥illL.t~ftjj_5I $.\n1t~- J:9!~ JI.. \"~Bi fe;ffl.\" '\" &.ffl,J'lit\" '\"ffltffl~ WJ~if\"~~\"fi~             fP] if\"~~-' !§\"f4.~ 1:tl Jl&fi }It                                                       ~*\n*  i&:• ltJ,, ~·If~ f~Je~ ~ ~ •\n-.................. ·-··· .................................... ,.___ ......................................... .... .................................................................................................................................\n     N O The most drastic<D , and thoroughly(?) illegal,\n                                                                                                                                                                 ~ /.J 3 ~l .. -d!.. Jf.. ~¼it~ a9 .f*. iM Jf.. Sci-\nreaction has been the emergenceCD of Sci- Huh, a kind of\n                                                                                                                                                     H ub a9 th ~ o Sci- H ub-              'E ;If ,Ii, ~ 1~ ¼ ~\nglobal photocopier© for scientific papers, set up in 2012,\nwhich now claims to offer access to every paywalled\n                                                                                                                                                     •t½ ~ #            ~*\n                                                                                                                                                                        j:_ Jj ~p ~ - ~J ..il. -f\" 20 12 1t=-, JR.\n                                                                                                                                                     J; ~ \"1\" y). .tit. -#t- 2015 Jf- y). *- ~-*. ~ .PJr 4f # f\nar ticle published since 2015. & The success of Sci-Hub,\nwhich relies on researchers passing on copies they have\n                                                                                                                                                     *   j: ~ it fol ~ o Sci-Hub ~ A>}] -                 *\" ~ -f\"\n                                                                                                                                                     ~ ~¼~• tt ~¼* ~~ - - ~j:_- ~\n                                                                                                                                                     '*-- *- a}l '¼ * ff9 !£. i& i !t ~ Jfl ;, 'f e. !k.\nthemselves legally accessed , shows the legal ecosystem\nh~s lost legitimacy® among its users and must be\n                                                                                                                                                        -¼ .£ ~ •t± , ix.' jJi ~ .t J!. -fr 1t. ~ y..J. -ft. 'E ~ ~ All\ntransformed® so that it works for all participants.\n                                                                                                                                                                       *\n                                                                                                                                                        4}--f Ji}f ~ ~ ¼                        0\n\n\n ....................... - -- -- -.................... - ........ -... ..... ____ .......... -........... -....... -. ·-· .. --- ...................... . . .. ......................................................... --·................... -- ..... -- .. -- ....... .\n                                                                                                                                                  .__\n\n\n\n\n                                                                                                  i:-~:~~f~iij:~.~}f#t::~i ;/\n(Ddrastic ['driestik] a.                              ~i1Ht9 ,g?.,H:1-<J                                                            ~)       ® legitimacy [11' d31trm ~i] n. 1t11! tt , iE ~ tt\n® thoroughly [ 8arali] ad. ~m; ,%½                                                                                                  ~        @ transform [trams1fo:mJ v. ~~, P.k~\n                                 1\n\n\n@ emer gence [1 1m3:d3ans] n. 1±1 ~ .~~\n                                                                                                                                    ~) e ~Aftic\n@ photocopier [ 1f.:>Utaukopia] n. ~fflm\n................................... ...        .. ........................................... .\n                                                                                                                                    i        <Dpass on ([fflfti]ii!1t,~ii )\n\n           The most drastic, and thoronghly illegal, reaction bas been the emergence of Sci-Hub, a kind of global\nphotocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article\npublished since 2015.\n            ~~ t}J~:\n\n                     and thoroughly illegal                               a kind ofglobal photocopier for scientific papers\n                                                                                                                                                                                set up in2012\n               The most drastic reaction bas been the emergence of Sci-Hub\n                                                                                                                                                                              which now claims to offer access to every\n                                                                                                                                                   ~ffi-lA1iJ                 paywalled article published since 2015.\n\n    20",
+  "quality": {
+    "vision_line_count": 71,
+    "vision_character_count": 2214,
+    "pdf_text_character_count": 8149,
+    "nonempty": true
+  }
+}

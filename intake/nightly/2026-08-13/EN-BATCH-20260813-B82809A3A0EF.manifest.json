@@ -1,0 +1,188 @@
+{
+  "schema_version": "english_nightly_manifest_v2",
+  "batch_id": "EN-BATCH-20260813-B82809A3A0EF",
+  "study_date": "2026-08-13",
+  "frozen_at": "2026-08-12T19:43:37Z",
+  "candidate_documents": [],
+  "runtime_identity_summary": {
+    "confirmed": [],
+    "requested_unverified": [],
+    "mismatch": [],
+    "unavailable": []
+  },
+  "capture_event_ids": [],
+  "source_snapshot": {
+    "article_source_hashes": {},
+    "sentence_hashes": {}
+  },
+  "uncovered_capture_event_ids": [
+    "EVT-20260813-C1028D11623FC189"
+  ],
+  "review_status_proposals": {
+    "schema_version": "english_review_status_proposals_v2",
+    "study_date": "2026-08-13",
+    "policy_version": "english_sentence_nonreport_policy_v2",
+    "capture_event_ids": [
+      "EVT-20260813-C1028D11623FC189"
+    ],
+    "daily_explicit_unknown_terms": [
+      "forcing",
+      "whispered"
+    ],
+    "review_exclusion_proposals": [
+      {
+        "proposal_type": "review_exclusion_proposal",
+        "item": "peer",
+        "normalized": "peer",
+        "bank_id": "20260607-050",
+        "reason": "appeared_in_sentence_but_not_reported_unknown",
+        "source_capture_event_ids": [
+          "EVT-20260813-C1028D11623FC189"
+        ],
+        "sentence_evidence": [
+          {
+            "capture_event_id": "EVT-20260813-C1028D11623FC189",
+            "sentence_hash": "093dd2e17ff2ea3c03698eb0c583eaf8567f8c75646fa5a2a4753da8dc1ab011",
+            "spans": [
+              {
+                "surface_form": "peer",
+                "normalized": "peer",
+                "start": 109,
+                "end": 113
+              }
+            ],
+            "explicit_unknown": false,
+            "user_evidence_verbatim": "用户确认将 whispered 联想成表示‘广泛’的词；将 forcing 与 focusing 混淆；把 is what most of us think of 误解为‘这个信息促使我们思考’；经引导后复述为：‘他这个低声的话语，一半是邀请，一半是强迫。这是当我们听到“同辈压力”这个单词时所产生的内容。’"
+          }
+        ],
+        "day_conflict_check": {
+          "study_date": "2026-08-13",
+          "explicit_unknown_seen_anywhere_in_day": false,
+          "event_count_scanned": 1,
+          "policy_version": "english_sentence_nonreport_policy_v2"
+        }
+      },
+      {
+        "proposal_type": "review_exclusion_proposal",
+        "item": "pressure",
+        "normalized": "pressure",
+        "bank_id": "20260607-049",
+        "reason": "appeared_in_sentence_but_not_reported_unknown",
+        "source_capture_event_ids": [
+          "EVT-20260813-C1028D11623FC189"
+        ],
+        "sentence_evidence": [
+          {
+            "capture_event_id": "EVT-20260813-C1028D11623FC189",
+            "sentence_hash": "093dd2e17ff2ea3c03698eb0c583eaf8567f8c75646fa5a2a4753da8dc1ab011",
+            "spans": [
+              {
+                "surface_form": "pressure",
+                "normalized": "pressure",
+                "start": 114,
+                "end": 122
+              }
+            ],
+            "explicit_unknown": false,
+            "user_evidence_verbatim": "用户确认将 whispered 联想成表示‘广泛’的词；将 forcing 与 focusing 混淆；把 is what most of us think of 误解为‘这个信息促使我们思考’；经引导后复述为：‘他这个低声的话语，一半是邀请，一半是强迫。这是当我们听到“同辈压力”这个单词时所产生的内容。’"
+          }
+        ],
+        "day_conflict_check": {
+          "study_date": "2026-08-13",
+          "explicit_unknown_seen_anywhere_in_day": false,
+          "event_count_scanned": 1,
+          "policy_version": "english_sentence_nonreport_policy_v2"
+        }
+      }
+    ],
+    "reactivation_proposals": [],
+    "needs_user_decision": []
+  },
+  "review_status_proposals_sha256": "4752030be2153120e57e96f61d41f8ab4fb1a9bee8f144f4debfe3ba311353b1",
+  "review_status_source_hashes": {
+    "master_bank": "00ac6738346dabeb7ff74106e08d2cf5d2e7945c289149d400baa2cf4d819886",
+    "mastered_items": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+    "review_exclusion_ledger": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "formal_snapshot": {
+    "master_bank": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/master_bank.csv",
+      "sha256": "00ac6738346dabeb7ff74106e08d2cf5d2e7945c289149d400baa2cf4d819886",
+      "column_count": 13,
+      "header": [
+        "id",
+        "date",
+        "type",
+        "item",
+        "source_article",
+        "source_sentence",
+        "meaning",
+        "usage",
+        "writing_value",
+        "tags",
+        "review_note",
+        "appear_count",
+        "last_seen"
+      ],
+      "row_count": 814
+    },
+    "mastered_items": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/mastered_items.csv",
+      "sha256": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+      "column_count": 7,
+      "header": [
+        "item",
+        "matched_id",
+        "matched_type",
+        "mastered_date",
+        "evidence_sentence",
+        "evidence_context",
+        "proof_note"
+      ],
+      "row_count": 0
+    },
+    "sentence_patterns": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/sentence_patterns.md",
+      "sha256": "84046f457471f7cba219dd071393d811e4a7159d3cd0bc95847bcb1ad90957e3",
+      "field_count": 15,
+      "fields": [
+        "title",
+        "骨架",
+        "难度等级",
+        "基本句型",
+        "从句类型",
+        "场景标签",
+        "可复用程度",
+        "中文解释",
+        "结构拆解",
+        "生成模板",
+        "相关词汇/搭配",
+        "常用变体",
+        "来源与示例",
+        "use_count",
+        "last_used"
+      ],
+      "card_count": 25
+    },
+    "review_exclusion_ledger": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/review_exclusion_ledger.jsonl",
+      "exists": false,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "event_count": 0
+    }
+  },
+  "authorization": {
+    "command": "apply-nightly",
+    "batch_id": "EN-BATCH-20260813-B82809A3A0EF",
+    "study_date": "2026-08-13",
+    "authorized": false,
+    "authorized_at": null,
+    "scope": [
+      "master_bank",
+      "mastered_items",
+      "sentence_patterns",
+      "review_exclusion_ledger"
+    ]
+  },
+  "status": "needs_preprocess"
+}

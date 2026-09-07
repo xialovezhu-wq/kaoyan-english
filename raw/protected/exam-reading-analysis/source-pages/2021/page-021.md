@@ -1,0 +1,135 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2021-P021
+year: 2021
+pdf_page: 21
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2021 解析 PDF p21｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+［精准定位］第四段③句指出一项基于墨西哥某地的研究证实了传统看法（the traditional view），所
+以应追溯上文明确“传统看法”的具体所指，而由上文第三段②句 often viewed as 和第四段①句 That’s
+because 可知传统看法为“扶贫与环保相矛盾，经济增长与环境恶化成正相关”，故［D］符合此意。
+［命题解密］“题干＋正确项［D］”近义对应第四段③句（其中 the traditional view 回指上文的惯常看
+法 poverty alleviation and environmental protection are often viewed as conflicting goals 以及 economic
+growth can be correlated with environmental degradation），选项中的 tends to、cause 分别对应文中的
+often/traditional、be correlated with/causality。
+［A］由第四段④句中 cattle to raise for meat 主观推测出养牛是穷人的主要生计，［B］将第四段③④
+句中的碎片信息 supported、traditional、cattle to raise for meat 杂糅，捏造出“帮助保护传统生活方式”，
+［C］则将第四段④句所述的“当地农民领取扶贫资金后养殖肉牛的行为”曲解为“农民积极参与扶贫计
+划”，而且此三项均囿于研究事例本身，并非作者引用例子的目的。
+［技巧总结］本题就引用研究事例的目的设题，为写作目的题。解答此类题型首先需要明确论据与论
+点之间的论证逻辑：论据（研究事例）本身细节往往并非作者意在关注的焦点，它常常用作正例或反例来说
+明超于其本身的论点，答题的关键在于借助逻辑衔接手段、语义指代关联、上下义等语义关联提炼语义重
+心。如本题，首先根据研究事例所在句中的 supported the traditional view 可知“研究事例证实了传统观
+点”，再据由 That’'s because、However 所体现的段际、句际逻辑以及 often viewed、the traditional view 所形成的
+近义复现可推断出传统观点的具体内容为“扶贫与环保相矛盾，经济增长与环境恶化相关”，就此锁定［D］。
+①
+Such programs do not have
+to
+negatively"
+不过，这类扶贫计划不一定会对环境产
+affect the environment,though®
+. ② Ferraro wanted to
+生负面影响。费拉罗想了解印度尼西亚的扶
+see if Indonesia's poverty-alleviation program was
+贫计划是否会影响森林砍伐。印度尼西亚拆
+affecting deforestation.
+3 Indonesia has the third-
+有世界第三大热带森林面积，也是森林砍伐
+largest area of tropical® forest in the world and one of
+率最高的国家之一。
+the highest deforestation rates.
+•词汇注释与难句分析•
+①negatively ［'negatrvli］ad. 有害地；负面地
+• 经典搭配
+②though ［oau］ad. 不过；可是；然而
+have to 必须；不得不
+③tropical ［'rppikl］a. 热带的
+•语篇分析
+第五至八段进而借最新研究说明实际情形（对开篇主旨展开论述）：印尼的扶贫计划与该国森林砍
+伐速率放缓相关（即扶贫助益环保）。
+第五段引出费拉罗为了解“印尼扶贫计划与森林砍伐之间的关联”而开展的研究。关键词：do not
+have to negatively affect。
+①句转承上文惯常认识，指出扶贫计划并不一定对环境不利。though 体现段群间的语义转折。do
+not have to negatively affect the environment 转承上文的传统观点（扶贫与环保相斥），指出扶贫未必造
+成环境恶化，深层暗示扶贫也有可能对环境有利，为下文埋下伏笔。
+②③句顺而引出费拉罗对印尼扶贫计划的研究。②句 wanted to see if...点明研究目的，即弄清扶
+贫计划对森林砍伐是否有影响；结合上句的 negatively affect the environment 可推测研究意在调查扶贫
+是否会加剧森林砍伐。③句用两个最高级表达 the third-largest area of tropical forest、the highest
+deforestation rates 刻画该国的森林资源概况：总量巨大，但形势严峻。
+【深层解读】把握本段对全篇行文逻辑及写作意图的提示作用：①句以 do not have to...though 转
+承上文的惯常认识，体现了段群之间“先铺垫惯常认识，再引出真实情形”的逻辑。②句以 Ferraro
+wanted to see if A was affecting B 句式引出 Ferraro新近开展的研究，其研究课题（印尼的扶贫计划是否
+会影响森林砍伐）实际呼应开篇引出的利好情形（印尼森林砍伐率放缓，这可能与该国实施的扶贫计划
+有关），表明开篇所述事实信息实际指向该研究的最终结论，由此可把握本文“以最新研究结论突破惯常
+认知”的立意高度。
+21
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+［精准定位］第四段③句指出一项基于墨西哥某地的研究证实了传统看法（the traditional view）,所
+以应追溯上文明确"传统看法"的具体所指，而由上文第三段②句often viewed as和第四段①句That's
+because可知传统看法为“扶贫与环保相矛盾，经济增长与环境恶化成正相关”，故［D］符合此意。
+     ［命题解密］“题干+正确项［D］”近义对应第四段③句（其中the traditional view回指上文的惯常看
+法 poverty alleviation and environmental protection are often viewed as conflicting goals 以及 economic
+growth can be correlated with environmental degradation）,选项中的 tends to、cause 分别对应文中的
+often/traditional,be correlated with/causalityo
+     ［A］由第四段④句中cattle to raise for meat主观推测出养牛是穷人的主要生计，［B］将第四段③④
+句中的碎片信息supported'traditional、cattle to raise for meat杂糅，捏造出"帮助保护传统生活方式",
+［C］则将第四段④句所述的“当地农民领取扶贫资金后养殖肉牛的行为”曲解为“农民积极参与扶贫计
+划”，而且此三项均囿于研究事例本身 ，并非作者引用例子的目的。
+     ［技巧总结］本题就引用研究事例的目的设题，为写作目的题。解答此类题型首先需要明确论据与论
+点之间的论证逻辑:论据（研究事例）本身细节往往并非作者意在关注的焦点，它常常用作正例或反例来说
+明超于其本身的论点，答题的关键在于借助逻辑衔接手段、语义指代关联、上下义等语义关联提炼语义重
+心。如本题，首先根据研究事例所在句中的supported the traditional view可知"研究事例证实了传统观
+点"，再据由That's because、However所体现的段际、句际逻辑以及often viewed,the traditional view所形成的
+近义复现可推断出传统观点的具体内容为“扶贫与环保相矛盾，经济增长与环境恶化相关 ”，就此锁定［D］。
+
+     V O Such programs do not have to negatively®
+                                                               不过，这类扶贫计划不一定会对环境产
+affect the environment, though . 0 Ferraro wanted to
+                                                            生负面影响。费拉罗想了解印度尼西亚的扶
+see if Indonesia's    poverty-alleviation   program   was
+                                                            贫计划是否会影响森林砍伐。印度尼西亚拥
+affecting deforestation.   ❸ Indonesia has the third-       有世界第三大热带森林面积，也是森林砍伐
+largest area of tropical® forest in the world and one of
+                                                            率最高的国家之一。
+the highest deforestation rates.
+
+                                     :•词汇连释与难句分析・」丛
+
+① negatively ［begativl订ad.有害地；负面地                     §   •经典搭配
+② though ［dau］ ad.不过；可是；然而                            I   have to必须；不得不
+③ tropical ［'tropikl］ a.热带的                           §
+                                            ［•语篇分析•、也
+
+     第五至八段进而借最新研究说明实际情形 （对开篇主旨展开论述）：印尼的扶贫计划与该国森林砍
+伐速率放缓相关（即扶贫助益环保）。
+     第五段引出费拉罗为了解“印尼扶贫计划与森林砍伐之间的关联”而开展的研究。关键词：do not
+have to negatively affecto
+     ①
+     句转承上文惯常认识 ，指出扶贫计划并不一定对环境不利。though体现段群间的语义转折。do
+not have to negatively affect the environment转承上文的传统观点（扶贫与环保相斥），指出扶贫未必造
+成环境恶化，深层暗示扶贫也有可能对环境有利，为下文埋下伏笔。
+     ②③句顺而引出费拉罗对印尼扶贫计划的研究。②句wanted to see if...点明研究目的，即弄清扶
+贫计划对森林砍伐是否有影响；结合上句的negatively affect the environment可推测研究意在调査扶贫
+是否会加剧森林砍伐。③句用两个最高级表达the third-largest area of tropical forest、the highest
+deforestation rates刻画该国的森林资源概况：总量巨大，但形势严峻。
+     【深层解读】把握本段对全篇行文逻辑及写作意图的提示作用 ：①句以do not have to. . . though转
+承上文的惯常认识，体现了段群之间“先铺垫惯常认识，再引出真实情形”的逻辑。②句以Ferraro
+wanted to see if A was affecting B句式引出Ferraro新近开展的研究，其研究课题（印尼的扶贫计划是否
+会影响森林砍伐）实际呼应开篇引出的利好情形（印尼森林砍伐率放缓，这可能与该国实施的扶贫计划
+有关），表明开篇所述事实信息实际指向该研究的最终结论，由此可把握本文“以最新研究结论突破惯常
+认知”的立意高度。
+                                                                                                21
+```

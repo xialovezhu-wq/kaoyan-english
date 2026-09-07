@@ -1,0 +1,542 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P017",
+  "year": 2020,
+  "pdf_page": 17,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.016075423322009508,
+      "text": "③perform ［pa'fom］v. 履行，执行",
+      "width": 0.2659574511199992,
+      "x": 0.06382978701446845,
+      "y": 0.9040697671209715
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01554560444965114,
+      "text": "• 经典搭配",
+      "width": 0.10666897635694195,
+      "x": 0.5338995552596778,
+      "y": 0.9006574304144157
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014592916692882651,
+      "text": "④specialised L speJolaizd］a. 专业的，专门的",
+      "width": 0.3425531678624046,
+      "x": 0.06382980140922324,
+      "y": 0.8865698733764272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014645675133014624,
+      "text": "①a licence to print money（不费劲挣大钱，一本万利）",
+      "width": 0.4106382899392015,
+      "x": 0.5319149005167215,
+      "y": 0.8837209307778662
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016022664881877646,
+      "text": "⑤ central ［'sentral］ a.最重要的，核心的",
+      "width": 0.3106382858864023,
+      "x": 0.06382979136530954,
+      "y": 0.8691860465504773
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01330034140017422,
+      "text": "②peer review（同行评议）",
+      "width": 0.19999998784160244,
+      "x": 0.5297872376217521,
+      "y": 0.8675136117720585
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016099164793149545,
+      "text": "⑥acquisition ［leekwi'zfn］ n. 获得，得到",
+      "width": 0.30851062708800214,
+      "x": 0.0638297928177011,
+      "y": 0.8516333936672743
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014592917558285845,
+      "text": "③for free（义务地；无偿地）",
+      "width": 0.2127659608959993,
+      "x": 0.5319148929030642,
+      "y": 0.8488372096036553
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014608744917244731,
+      "text": "⑦status ［'stertas］n. 高级职位，社会地位",
+      "width": 0.31702126228160277,
+      "x": 0.06382979835387936,
+      "y": 0.8343023261370854
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.019407494747487264,
+      "text": "请篇分析",
+      "width": 0.08322559979807337,
+      "x": 0.45094039210783793,
+      "y": 0.8020695089578725
+    },
+    {
+      "confidence": 1,
+      "height": 0.019289404424262302,
+      "text": "第一至三段为第一部分，展现问题：科学出版业垄断科学发表，科学工作者获取文献的代价极高。",
+      "width": 0.8257030471862549,
+      "x": 0.10205014698913346,
+      "y": 0.7772652569017282
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033703,
+      "text": "第一段引出话题“科学出版是门暴利生意”",
+      "width": 0.3659574349088023,
+      "x": 0.10212766962006681,
+      "y": 0.7630813949879773
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "，并从产品（文献）的成本角度分析原因。关键词为：①a",
+      "width": 0.4872340472095991,
+      "x": 0.4659574505707322,
+      "y": 0.7599818509141257
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "licence to print money； ② without monetary reward；③for free。",
+      "width": 0.5234042265184056,
+      "x": 0.05957448120888234,
+      "y": 0.7441016335883737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599628566181166,
+      "text": "①句概括点题：科学出版业一本万利。Scientific publishing 锁定全文焦点“科学出版（业）”；含贬义",
+      "width": 0.8468084854592048,
+      "x": 0.10212766611538235,
+      "y": 0.726744185812832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01676099746067161,
+      "text": "的习语 a license to print money（意力 used to describe a business or an activity which allows people to",
+      "width": 0.8894964575292581,
+      "x": 0.06376093479479272,
+      "y": 0.7086768360467606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "make a lot of money with little effort or responsibility “［某行当/活动］不费劲/不担责挣大钱，摇钱树”）将",
+      "width": 0.8893616614272079,
+      "x": 0.05957448847788543,
+      "y": 0.688747731209616
+    },
+    {
+      "confidence": 1,
+      "height": 0.017520539340869057,
+      "text": "科学出版比作印钞许可证，生动地刻画出该行业坐享其成的形象。",
+      "width": 0.5640056959661355,
+      "x": 0.05949538946950515,
+      "y": 0.6714752919142262
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511917,
+      "text": "②③句从产品（文献）的生产及质检两方面说明科学出版业成本之低。without monetary reward/",
+      "width": 0.8510638435839974,
+      "x": 0.09999999778246932,
+      "y": 0.6510889292430853
+    },
+    {
+      "confidence": 1,
+      "height": 0.018027156753678497,
+      "text": "also for free、so/because 表明两句间并列关系。",
+      "width": 0.4045183199493692,
+      "x": 0.05734163359986672,
+      "y": 0.6351094207046369
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "②句介绍“成本低”的原因之一：科学家无偿供稿。S0..看似解释科研者做法的原因，实则突显科",
+      "width": 0.848936123993609,
+      "x": 0.10000003159894004,
+      "y": 0.6161524501779534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "学出版的垄断性质：科研者别无选择。注：本句既想用紧凑干练的结构“X needs Y to do sth”凸显“目的/",
+      "width": 0.8914893810175963,
+      "x": 0.05957446479262013,
+      "y": 0.5988372095080513
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "条件性”，同时又想确切说明 journals 和 their research 之间的关联：研究（发表）在期刊上，故采取了 in",
+      "width": 0.8893616614272077,
+      "x": 0.05957448201689259,
+      "y": 0.5798548097638663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014540159118153761,
+      "text": "which to do sth 这种不合乎常规语法的形式（有学者称之为“紧缩式定语从句”，正常形式为 in which they",
+      "width": 0.8893616614272079,
+      "x": 0.05957448102398481,
+      "y": 0.5639534887582096
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016035854491910584,
+      "text": "publish their research）。再如：This was thought to be the only area in which to do business. 这是人们认为的",
+      "width": 0.8893616614272077,
+      "x": 0.057446821449516794,
+      "y": 0.5435571688401218
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010975,
+      "text": "唯一能（在其中）经商的区域。",
+      "width": 0.2489361604688019,
+      "x": 0.05744681587198203,
+      "y": 0.5245009070329123
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "③句介绍“成本低”的原因之二：科学家无偿审稿。Other scientists 与上句 Scientists 构成两类科研",
+      "width": 0.8574467591872095,
+      "x": 0.08936171607128918,
+      "y": 0.5058139534397375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "人群，文献作者 VS文献作者外的看/审稿者。the acquisition of status （status 意为 high rank or social",
+      "width": 0.8936170195520003,
+      "x": 0.057446818309106015,
+      "y": 0.48820326664789515
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01604904410194352,
+      "text": "position“高级职位，社会地位”）以及 the production of scientific knowledge 分别指向“私”与“公”，强调科",
+      "width": 0.8893616614272079,
+      "x": 0.05744683521344771,
+      "y": 0.4723230491549919
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010975,
+      "text": "研者于公于私都只能无偿为之。",
+      "width": 0.27446808631359976,
+      "x": 0.05744681065171068,
+      "y": 0.45326678802665477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033814,
+      "text": "【深层解读】段落开场便以 a licence to print money 定下对科学出版业坐享暴利的不满基调，并通过",
+      "width": 0.8510638435839972,
+      "x": 0.0957446800317095,
+      "y": 0.4345930231882472
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "②③句 need...to publish their research、a central element...揭示顽疾为何“顽”，两组对比性内容 supply",
+      "width": 0.8914893810175962,
+      "x": 0.05744679142382611,
+      "y": 0.4156079857504055
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019772796146233618,
+      "text": "VS without monetary reward、specialised work VS for free 饱含科学工作者“将自己辛苦得来的成果以及",
+      "width": 0.8895614644287434,
+      "x": 0.05734695978360919,
+      "y": 0.3956319806947015
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "专业性劳动无偿给予‘商家’”的无奈，强化了当前科学出版业态的不合理，由此初步揭露科学出版链中，",
+      "width": 0.8914892999616119,
+      "x": 0.05744683275855589,
+      "y": 0.37931034470347336
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "科学工作者处于弱势地位，为下文质疑当前的科学出版模式做好铺垫，而结合 has long been（长久以来",
+      "width": 0.8893616614272079,
+      "x": 0.057446823488523896,
+      "y": 0.3602540832262989
+    },
+    {
+      "confidence": 1,
+      "height": 0.017452412205469447,
+      "text": "一直）又推测本文不会止步于“质疑陈年老问题”，而是很可能会基于“新变化/改革举措”展开探讨。",
+      "width": 0.8468084854592048,
+      "x": 0.0574468281569223,
+      "y": 0.3430127040374482
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016085975183116608,
+      "text": "I 0 With the content of papers secured\"for free, the",
+      "width": 0.48510636814720287,
+      "x": 0.1000000095434198,
+      "y": 0.3110465116267854
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600156202506664,
+      "text": "坐拥免费得来的论文，出版商只需",
+      "width": 0.2957446742976013,
+      "x": 0.6468085168724759,
+      "y": 0.30523255808027394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014563900589293799,
+      "text": "publisher needs only find a market for its journal. ② Until this",
+      "width": 0.5276595441152058,
+      "x": 0.057446828963673584,
+      "y": 0.292151163331853
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "要为期刊打开销路即可。本世纪之前，",
+      "width": 0.33829787052960036,
+      "x": 0.6063829825011571,
+      "y": 0.2876588024383705
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013289789971768773,
+      "text": "century, university libraries were not very price sensitive.",
+      "width": 0.5212765879840014,
+      "x": 0.05744680370303502,
+      "y": 0.2745009073198924
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "大学图书馆对价格并不十分敏感。在其",
+      "width": 0.3361702117312002,
+      "x": 0.6063829822195062,
+      "y": 0.2688953486795631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019080002814152675,
+      "text": "③ Scientific publishers routinely® report profit margins",
+      "width": 0.5255319055808019,
+      "x": 0.05744681369896079,
+      "y": 0.25272232267443695
+    },
+    {
+      "confidence": 1,
+      "height": 0.016080698819861516,
+      "text": "他出版业都处于生死存亡之际，科学出版",
+      "width": 0.3361702117312002,
+      "x": 0.6063829810705701,
+      "y": 0.25136116164637634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "approaching® 40% on their operations®， at a time when the",
+      "width": 0.5276595441152058,
+      "x": 0.057446828963673584,
+      "y": 0.23546511616166932
+    },
+    {
+      "confidence": 1,
+      "height": 0.02031192156450723,
+      "text": "机构照旧汇报其业务利润率接近 40%。",
+      "width": 0.32379673201724357,
+      "x": 0.6061695987158818,
+      "y": 0.2299146467352977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "rest of the publishing industry is in an existential® crisis.",
+      "width": 0.4808510505504025,
+      "x": 0.05744681945884116,
+      "y": 0.21642468263575032
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01467996846526154,
+      "text": "荷兰（科学出版）巨头爱思唯",
+      "width": 0.29361701549920116,
+      "x": 0.6468085114297307,
+      "y": 0.21642468213145694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "The Dutch giant® Elsevier, which claims to publish",
+      "width": 0.4595744625664011,
+      "x": 0.12340425515296974,
+      "y": 0.1960072594308614
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014574451584997705,
+      "text": "尔一",
+      "width": 0.03191489210800025,
+      "x": 0.6063829792438722,
+      "y": 0.1991279076051088
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014574451584997705,
+      "text": "一自称出版全球25%的科学论",
+      "width": 0.29361701549920105,
+      "x": 0.6489361694312507,
+      "y": 0.19912790735074826
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014640399635162615,
+      "text": "25% of the scientific papers produced in the world, made",
+      "width": 0.5255319055808019,
+      "x": 0.05744682135853501,
+      "y": 0.18012704198453489
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013279238543363325,
+      "text": "文一",
+      "width": 0.03617021223780015,
+      "x": 0.6063829794396105,
+      "y": 0.1814882031463112
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "一去年盈利超过9亿英镑，而光是",
+      "width": 0.28936169790240074,
+      "x": 0.6510638346658209,
+      "y": 0.18148820326538584
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "profits of more than £900m last year, while UK universities",
+      "width": 0.5276595846431981,
+      "x": 0.055319139451450706,
+      "y": 0.1597096188462641
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "英国的大学2016年就花费了超过2.1",
+      "width": 0.3361702117312002,
+      "x": 0.60638298307057,
+      "y": 0.16279069731355855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01454543461600577,
+      "text": "alone spent more than f210m in 2016 to enable researchers to",
+      "width": 0.5255319055808019,
+      "x": 0.05744681149151403,
+      "y": 0.14244186112981805
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "亿英镑来使研究者能够获取他们自己",
+      "width": 0.3361702117312002,
+      "x": 0.6042553158365276,
+      "y": 0.14519056239344985
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01466941660415455,
+      "text": "access® their own publicly funded® research; both figures seem",
+      "width": 0.5255319055808018,
+      "x": 0.05744681973619466,
+      "y": 0.12341197829800421
+    },
+    {
+      "confidence": 1,
+      "height": 0.02155466131636108,
+      "text": "的、由公费资助的研究；尽管人们越来",
+      "width": 0.33693775111143964,
+      "x": 0.6060160483835101,
+      "y": 0.12457520382154474
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016038492240836533,
+      "text": "to rise unstoppably® despite increasingly desperate® efforts to",
+      "width": 0.5255319055808018,
+      "x": 0.057446817236194755,
+      "y": 0.10465116282954712
+    },
+    {
+      "confidence": 1,
+      "height": 0.014745915650023367,
+      "text": "越不顾一切地努力改变这两个数字，但",
+      "width": 0.33829787052960036,
+      "x": 0.60425531667137,
+      "y": 0.11025408377975165
+    },
+    {
+      "confidence": 1,
+      "height": 0.011796733212341204,
+      "text": "change them.",
+      "width": 0.11276595684320011,
+      "x": 0.057446810222016934,
+      "y": 0.0871143377793775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "它们似乎仍在不可通制地上涨。",
+      "width": 0.27446808631359976,
+      "x": 0.606382981550647,
+      "y": 0.09156976726268673
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394825570136,
+      "text": "17",
+      "width": 0.023404254381400258,
+      "x": 0.9063829789972431,
+      "y": 0.04651162810804832
+    }
+  ],
+  "vision_ocr_text": "③perform ［pa'fom］v. 履行，执行\n• 经典搭配\n④specialised L speJolaizd］a. 专业的，专门的\n①a licence to print money（不费劲挣大钱，一本万利）\n⑤ central ［'sentral］ a.最重要的，核心的\n②peer review（同行评议）\n⑥acquisition ［leekwi'zfn］ n. 获得，得到\n③for free（义务地；无偿地）\n⑦status ［'stertas］n. 高级职位，社会地位\n请篇分析\n第一至三段为第一部分，展现问题：科学出版业垄断科学发表，科学工作者获取文献的代价极高。\n第一段引出话题“科学出版是门暴利生意”\n，并从产品（文献）的成本角度分析原因。关键词为：①a\nlicence to print money； ② without monetary reward；③for free。\n①句概括点题：科学出版业一本万利。Scientific publishing 锁定全文焦点“科学出版（业）”；含贬义\n的习语 a license to print money（意力 used to describe a business or an activity which allows people to\nmake a lot of money with little effort or responsibility “［某行当/活动］不费劲/不担责挣大钱，摇钱树”）将\n科学出版比作印钞许可证，生动地刻画出该行业坐享其成的形象。\n②③句从产品（文献）的生产及质检两方面说明科学出版业成本之低。without monetary reward/\nalso for free、so/because 表明两句间并列关系。\n②句介绍“成本低”的原因之一：科学家无偿供稿。S0..看似解释科研者做法的原因，实则突显科\n学出版的垄断性质：科研者别无选择。注：本句既想用紧凑干练的结构“X needs Y to do sth”凸显“目的/\n条件性”，同时又想确切说明 journals 和 their research 之间的关联：研究（发表）在期刊上，故采取了 in\nwhich to do sth 这种不合乎常规语法的形式（有学者称之为“紧缩式定语从句”，正常形式为 in which they\npublish their research）。再如：This was thought to be the only area in which to do business. 这是人们认为的\n唯一能（在其中）经商的区域。\n③句介绍“成本低”的原因之二：科学家无偿审稿。Other scientists 与上句 Scientists 构成两类科研\n人群，文献作者 VS文献作者外的看/审稿者。the acquisition of status （status 意为 high rank or social\nposition“高级职位，社会地位”）以及 the production of scientific knowledge 分别指向“私”与“公”，强调科\n研者于公于私都只能无偿为之。\n【深层解读】段落开场便以 a licence to print money 定下对科学出版业坐享暴利的不满基调，并通过\n②③句 need...to publish their research、a central element...揭示顽疾为何“顽”，两组对比性内容 supply\nVS without monetary reward、specialised work VS for free 饱含科学工作者“将自己辛苦得来的成果以及\n专业性劳动无偿给予‘商家’”的无奈，强化了当前科学出版业态的不合理，由此初步揭露科学出版链中，\n科学工作者处于弱势地位，为下文质疑当前的科学出版模式做好铺垫，而结合 has long been（长久以来\n一直）又推测本文不会止步于“质疑陈年老问题”，而是很可能会基于“新变化/改革举措”展开探讨。\nI 0 With the content of papers secured\"for free, the\n坐拥免费得来的论文，出版商只需\npublisher needs only find a market for its journal. ② Until this\n要为期刊打开销路即可。本世纪之前，\ncentury, university libraries were not very price sensitive.\n大学图书馆对价格并不十分敏感。在其\n③ Scientific publishers routinely® report profit margins\n他出版业都处于生死存亡之际，科学出版\napproaching® 40% on their operations®， at a time when the\n机构照旧汇报其业务利润率接近 40%。\nrest of the publishing industry is in an existential® crisis.\n荷兰（科学出版）巨头爱思唯\nThe Dutch giant® Elsevier, which claims to publish\n尔一\n一自称出版全球25%的科学论\n25% of the scientific papers produced in the world, made\n文一\n一去年盈利超过9亿英镑，而光是\nprofits of more than £900m last year, while UK universities\n英国的大学2016年就花费了超过2.1\nalone spent more than f210m in 2016 to enable researchers to\n亿英镑来使研究者能够获取他们自己\naccess® their own publicly funded® research; both figures seem\n的、由公费资助的研究；尽管人们越来\nto rise unstoppably® despite increasingly desperate® efforts to\n越不顾一切地努力改变这两个数字，但\nchange them.\n它们似乎仍在不可通制地上涨。\n17",
+  "pdf_text_layer": "@ perform [pa1fo:m] v. .1fl fi, ~fi\n                                                                                                                      }) • ~•m1c\n © specialised [ 1spefalaizd] a. ~ ~ tt<J '~ tt<J\n @central [ 1sentral] a. :fill~ tt<J , fl< ,(., tt<J\n                                                                                   n                                 i         <Da licence to print money(~:ft~~.::k<fll ,-*Jf~j)\n\n @ acquisition [1rekw1 1zifn] n. ~~{l ,f{ljlj\n (L)status [ stertas] n. ~~JIR-& ,tt~i&'Ul\n                     1\n                                                                                                                     i})       @peer review( ~fii,\\fi$0\n                                                                                                                               @for free(Jl~:t& ,xffiim)\n\n\n\n                                                                                                  ::~)~j!/,fi:::~::I\n                                                       *\n            jg - fisl W~1Buf4~Wn&£fla~J~tt\", #JAF~ ( x~ ) 1¥-Jnl* ,.,t~\n            • - ~ - ~ ;9 jg-$ ,t I !ii~ ja] Ii : ff~       ff~ i1= R                                   wn& ~ ~ fJi f4 ~ ~                             1             I\n                                                                                                                                                                        1ft\n                                                                                                                                                                                  ~      ~ )t ll! tfJ ~ fft t& ~ O\n                                                                                                                                                                                            nit~ o ~tliil :tJ : (i) a\nlicence to print money;@without monetary reward;@for frtt 0\n     CD-aJmtffi afffi: ff~ Wn&~                                          - *:n\n                                          '1J o Scientific publishing iUE ~:t~ ~ \"f4~ l:tl JI&(~)\";~ j!tJl\n~ 33 ffi a license to print money(~ '-1 used to describe a business or an activity which allows people to\nmake a lot of money with little effort or responsibility \"[;Jitfi~ / m~J~J!~/ ~ffijtf~::k~dl~~\"))fff\nM•w~~~~~~m~.~~-•~w•fi~**X~~••o\n      ®@-aJ JAF ~ ( 3t li:} 1¥-J ~ F :&                                           Ji*~\n                                                  1f iffi ffl. ~1.1 ff~ Wn& ~ .6l * z ilf without monetary reward/                                                            O\n\nalso for free,so/ because ~IYrWii1PJfe].#ftl~~ o\n      ® ii.J 1ttB\" nl*flf \"1¥-Jmt ~ z- : '4~~ x{i{~m o so... *{W.flif ff~if~-Wi#I:~ffi~, ~Jjltl ~~~\n~ ttl Jl&t'ru~*rttNr :~?vf;g-§Jljx~~ o it: *1D ~~ffl ~~T~~~~\"X needs Y to do sth\"8 ~\" § ~ /\n*-ftJ:tt\", lilJ lt-t XttHOOt11-i$t~ journals ~ their research fa]~~~ diJf ~ <~~) :t£M ftJ J:, i& Jt1t 7 in\nwhich to do sth i!fiti~-*3F-#~1H~~~~(lf$##Z'1\"~!:fi;~~ffi-JA1ij\" ,iE#~.i:f:'1 in which they\n                                                                                                                               z                                                                                      *\npublish their research) o ~ ~ll: This was thought to ·be the only area in which to do business. ~¾.A.1rJik'-1119\nJJi - fm <:(£ Jt lfl ) ~ iffi 119 IR ~ o\n      ® iu 1tffl u .fit*ilf\" 1¥-.1 mi~ z = =ff~~ ,c 11 $ m Other scientists 5i J: 1D Scientists ffJ JN, p,tj~~?vf          O\n\nAfi¥,X~~;ff VSJc~~;ff~~~fj-/ 'iftfr.6:ff o the acquisition of status( status -Ji:k high rank or social\nposition\"iti €/i.JIR fir , tt~:t&m \"> IV..& the production of scienti fic knowledge :frJJU ffi fPJ \"fA\" ~ \"0\", ~i im1 f-4\nM~=f0=f~~.R~x~~Z.o\n      [ ~ ~·~ ] ~~Jf ${1! ~ a licence to print money ~\"f ~~~ mK&~1lf!1JJ~J 119~f.W£il] ,.#lffin\n® @1PJ need... to publish their research,a central element... ffl ~mJ!~:kfiiJ\"ffilf\", ~ fflx,j\" lttt P-J ~ supply\nVS without monetary reward , specialised work VS for free ,t{g**~I~=tf\")fff § B:$-*~*~Jit.*IV..&\n1i-~tt~i#.lx~~7'iffi'~'\"~x* ,il-ft7 ~mr#~ilillti~~~~~1:1, ea .ut~~--~~WJl&fiti:p,\n~$ I fF~ ~ T ~ ~ :tm uL , '11'\" X '9t I!~ utr A9 ~ $ tli fi& #t ~ -t4t P.J-ffi ~ , im ~ ~ has long been(* R IV.*\n-:m:> xttffllJ*x~~11:~r\"Jm:~~~~1'iiJI!\", mi ~riAI~~£-r\"ffi~it/P.t:¥:~ffi\"~3f~it o\n ---·------· ....................................................... ............... ........................................... . ........ - .......................................................... . ............. -· ............. .\n           ll O With the content of papers secur eda> for free, the                                                                                                                    *-\n                                                                                                                                                                  1t-illl.t. f 4' 69 ~ i:., tl! Jta. ~ ~ 1;\npublisher needs only find a market for its journal. 8 Until this\n                                                                                                                                                    ~~~~h~--~~ o *~~~•,\ncentury, university libraries were not very price sensitive.                                                                                         k~m~~~*~*~~¾-~ o ~~\nC,Scientific publishers routinely(}) report profit margins 1t!i di ~jk~;J: f- i.JE.-ff-,:-t f;F ,#~ th ,;&.\napproaching~ 40 % on their oper ations® , at a time when the -l}t.;fl:J JHl IEJ $t:.Jll.Jt.-*-~;f1J P1\nrest of the publishing industry is in an existential~ crisis.                                                                                                    ~it(#~ tl:Jta.) e.1'~,$~\n                                                                                                                                                                                                         •~i.!r.             40% o\n\n          fil The Dutch giant~ Elsevier, which claims to publis h m- ro # di Jta. ¼ ~ 2s% {r(J # ~ i{?;\n25 % of the scientific paper s produced in the world, made :.t.- ¾ 1f- jl ;f1J ~ ii 9 1!. ~                                                                                                                       *'         Iii 7':. .,t_\nprofits of more than £ 900m last year, while UK universities *OO{r(Jk~ 20161rtt-1t.t T~i± 2.1\nalone spent more than £210m in 2016 to enable r esearchers to {i 4k *-1t JJf Jt ;ff t~ ~ ~ Jflt-ftl!. {11 t1 c.i                                       *\n                                                                                                                                                     {r(J , Tb ~ f f- JiJ {r(J JJf ,t ; ~ f- A.111 ~                                 *\naccess<%> their own publicly funded® research; both figures seem\nto rise unstoppablyG> despite increasingly despera te41> efforts to\n                                                                                                                                                    ,t! ~ )ij - #1            J@..               jJ a. ~ i!. sllj +         4t !f- ' ,{!t\n                                                                                                                                                     't:1fJ{,;J.-f-~~~ ~i&-$1JJ!k,J:*o\nchange them.\n. -............... -- .... ----- -.................................. -.............................. --- .................................... ·-· ------ - ---- ... --- ................... ··-· ...... -. -....................... - -.\n\n\n                                                                                                                                                                                                                                  17",
+  "quality": {
+    "vision_line_count": 65,
+    "vision_character_count": 2671,
+    "pdf_text_character_count": 7884,
+    "nonempty": true
+  }
+}

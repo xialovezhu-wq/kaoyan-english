@@ -1,0 +1,111 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2024-T4",
+  "source_id": "RAW-ARTICLE-20260711-060",
+  "ingest_date": "2026-07-11",
+  "year": 2024,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 4,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2024年考研英语一真题.pdf",
+  "truth_pages": [
+    10,
+    11
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+  "analysis_page_range": "25-30",
+  "analysis_anchor_status": "scan_ocr_text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2024/text-4.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2024/text-4.json",
+  "article_path": "articles/2026-07-11-2024-english-i-text-4.md",
+  "passage_paragraphs": [
+    "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water. The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.",
+    "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways. Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water. This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules. And it carries “significant repercussions for water quality and flood control throughout the United States,” as Justice Brett Kavanaugh observed.",
+    "In Maryland, the good news is that there are many state laws in place that provide wetlands protections. But that’s a very shortsighted view, particularly when it comes to the Chesapeake Bay. The reality is that water, and the pollutants that so often come with it, don’t respect state boundaries. The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware. Will those jurisdictions extend the same protections now denied under Sackett v. EPA? Perhaps some, but all? That seems unlikely.",
+    "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors. And it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states. Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their fields, yet the runoff into nearby creeks can have enormous impact downstream.",
+    "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved. We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teaming with aquatic life. It’s worth the scenic drive."
+  ],
+  "questions": [
+    {
+      "number": 36,
+      "prompt": "The Chesapeake Bay is described in Paragraph 1 as",
+      "options": {
+        "A": "a valuable natural environment",
+        "B": "a controversial conservation area",
+        "C": "a place with commercial potential",
+        "D": "a headache for nearby communities"
+      }
+    },
+    {
+      "number": 37,
+      "prompt": "The U.S. Supreme Court’s ruling in the Idaho case",
+      "options": {
+        "A": "reinforces water pollution control",
+        "B": "weakens the EPA’s regulatory power",
+        "C": "will end conflicts among local residents",
+        "D": "may face opposition from mining operators"
+      }
+    },
+    {
+      "number": 38,
+      "prompt": "How does the author feel about the future of the Chesapeake Bay?",
+      "options": {
+        "A": "Worried.",
+        "B": "Puzzled.",
+        "C": "Relieved.",
+        "D": "Encouraged."
+      }
+    },
+    {
+      "number": 39,
+      "prompt": "What can be inferred about the EPA’s involvement in the Chesapeake Bay Program?",
+      "options": {
+        "A": "It has restored the balance among neighboring jurisdictions.",
+        "B": "It has triggered a radical reform in commercial fisheries.",
+        "C": "It has set a fine example of respecting state authorities.",
+        "D": "It has ensured the coordination of protection efforts."
+      }
+    },
+    {
+      "number": 40,
+      "prompt": "The author holds that the state lawmakers should",
+      "options": {
+        "A": "be cautious about the influence of land owners",
+        "B": "attach due importance to wetlands protections",
+        "C": "recognize the need to expand wildlife refuges",
+        "D": "improve the wellbeing of endangered species"
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 426,
+    "paragraphs": 5,
+    "source_token_count": 436,
+    "final_token_count": 436,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "sampled_special_years"
+  }
+}

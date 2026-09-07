@@ -1,0 +1,454 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P021",
+  "year": 2016,
+  "pdf_page": 21,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "与 NHS等并列，视“国之四宝”），二者并无直接关联。",
+      "width": 0.4680850902433378,
+      "x": 0.04468086303435945,
+      "y": 0.9184073108184109
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768853583472829,
+      "text": "［技巧总结］本题直接考点为第一段③句（长难句），实际全面考查对第一段信息的分析能力。正确",
+      "width": 0.8404255095676983,
+      "x": 0.08085108200693093,
+      "y": 0.8968023256975002
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "解答此类试题需要考生：1）会读题，抓住各选项关键信息，锁定答题范围；2）细读文，借助语法知识理清",
+      "width": 0.8787233779352891,
+      "x": 0.042553211972071604,
+      "y": 0.8779069771643039
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860378255347,
+      "text": "句子结构，由逻辑关联词确定各语义成分功能，明确句子语义重点以及各提及对象之间关系。",
+      "width": 0.7851063598866216,
+      "x": 0.042553209577965705,
+      "y": 0.8561046512062211
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768853583472829,
+      "text": "具体来看，首先读题：根据四个选项关键词 politics、royal family、Shakespearean age、NHS 可锁定本",
+      "width": 0.8404255095676983,
+      "x": 0.08085107811508681,
+      "y": 0.8355091383224227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "题答题范围在③句。随后梳理理清句子结构：While 构成句内转折，语义重点在后：转折之前 Britons rate",
+      "width": 0.8808510308055987,
+      "x": 0.04255321534188142,
+      "y": 0.8165796345711088
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015013054830287254,
+      "text": "the countryside alongside. ..as. ..（人们认乡村与⋯⋯一样，都是⋯••••）题干所述内容（即民众对乡村",
+      "width": 0.8787233779352892,
+      "x": 0.040425551351504295,
+      "y": 0.7963446475592083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "的看法），其中“the countryside”与 the royal family、Shakespeare、NHS 为并列平行结构，四者之间并无直",
+      "width": 0.8787233779352892,
+      "x": 0.04255321563341898,
+      "y": 0.7761096606433951
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "接语义逻辑关联；this（指代前半句）has limited political support 为语义重点。最后于语义重点中比对",
+      "width": 0.8787233779352892,
+      "x": 0.04042553628767468,
+      "y": 0.7543604649568599
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371702149395,
+      "text": "选项：唯有［A］体现作者强调内容，故正确；［B］、LC］、［D］均以并列平行结构 the royal family、",
+      "width": 0.8808510308055987,
+      "x": 0.0425532094376262,
+      "y": 0.7340116282138105
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "Shakespeare、NHS 强生关联，故错误。",
+      "width": 0.321276575383903,
+      "x": 0.040425545308048455,
+      "y": 0.7134464752248342
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464114363448732,
+      "text": "① A century ago Octavia Hill launched®the",
+      "width": 0.408510634821642,
+      "x": 0.1148936226423704,
+      "y": 0.6831395354128504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014671503719399515,
+      "text": "一个世纪前，奥克塔维亚•希尔发起了",
+      "width": 0.32978721604064587,
+      "x": 0.5829787313626558,
+      "y": 0.6742819841599013
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01333945600544495,
+      "text": "National Trust not to rescue stylish houses but to save",
+      "width": 0.4808510658162045,
+      "x": 0.0425531864890609,
+      "y": 0.6625326367932751
+    },
+    {
+      "confidence": 1,
+      "height": 0.014557653556604655,
+      "text": "国民托管组织，不是为了拯救时尚华丽的蒙",
+      "width": 0.36808511358374163,
+      "x": 0.5468085059102569,
+      "y": 0.6540469971133938
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014679093896253326,
+      "text": "\"the beauty of natural places for everyone forever.” ②It",
+      "width": 0.48297871868651415,
+      "x": 0.04042552622411907,
+      "y": 0.6422976499423498
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "宅而是“为所有人永久保留自然美的地方。”",
+      "width": 0.3723404193243607,
+      "x": 0.5468085162496736,
+      "y": 0.633720930002541
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "was specifically® to provide city dwellers® with spaces for",
+      "width": 0.4808510366406997,
+      "x": 0.0425532013959623,
+      "y": 0.6206395356568821
+    },
+    {
+      "confidence": 1,
+      "height": 0.013111755057352292,
+      "text": "它专门为城市居民提供可以让他们体验到",
+      "width": 0.36808511358374163,
+      "x": 0.5468085096670957,
+      "y": 0.6148255816562218
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "leisure where they could experience “a refreshing®air.”",
+      "width": 0.48085106581620457,
+      "x": 0.04255319650679116,
+      "y": 0.601744186539304
+    },
+    {
+      "confidence": 1,
+      "height": 0.0176278156649039,
+      "text": "“一丝清新空气”的休闲空间。后来，希尔的",
+      "width": 0.3723404193243607,
+      "x": 0.5425531962686706,
+      "y": 0.5913838119806192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019082870558098763,
+      "text": "③ Hill's pressure® later led to the creation of national",
+      "width": 0.4790750653064503,
+      "x": 0.04449045601338077,
+      "y": 0.5793137376164956
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287254,
+      "text": "呼吁使得国家公园和绿化带得以创建。而",
+      "width": 0.3702127664540511,
+      "x": 0.5446808471134,
+      "y": 0.5724543081227161
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "parks and green belts. ④ They don't make countryside",
+      "width": 0.4808510366406996,
+      "x": 0.04255319735340921,
+      "y": 0.5593994778975071
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "现在，他们不再建设乡村，混凝土每年消耗",
+      "width": 0.3723404193243607,
+      "x": 0.5446808563165432,
+      "y": 0.552219321453477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "any more, and every year concrete® consumes® more of it.",
+      "width": 0.47659573090008067,
+      "x": 0.04255320632300899,
+      "y": 0.5404699737695058
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "更多的乡村。乡村需要持续保护。",
+      "width": 0.28936169480274554,
+      "x": 0.5468085171943718,
+      "y": 0.5305232557126739
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019371343966252397,
+      "text": "⑤ It needs constant guardianship®",
+      "width": 0.2812375128839029,
+      "x": 0.044470041074025565,
+      "y": 0.5186575500649864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.2191489312662449,
+      "x": 0.35319149400517535,
+      "y": 0.47819767437546457
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014675298496575007,
+      "text": "①launch ［lointJ］v. 发起",
+      "width": 0.19148935642570658,
+      "x": 0.0425531957233169,
+      "y": 0.45203488425005967
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014675298496575118,
+      "text": "⑦ consume ［kon'sjuim］w. 消耗",
+      "width": 0.2404255329081023,
+      "x": 0.5042553210565871,
+      "y": 0.4520348841555829
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013335660605766742,
+      "text": "②specifically ［spi'sifikol］ad. 特意，专门地",
+      "width": 0.3340425509567698,
+      "x": 0.04255319499273969,
+      "y": 0.4331395351445939
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464114363448732,
+      "text": "⑧guardianship ［'ga:dion Jip］n. 监护，保护",
+      "width": 0.3276595631703364,
+      "x": 0.504255320702066,
+      "y": 0.43313953515849
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011848017690075818,
+      "text": "③dweller［'dwel］ n. 居民",
+      "width": 0.20638297028113053,
+      "x": 0.042553192270782386,
+      "y": 0.41569767439910876
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013240785573854774,
+      "text": "• 经典搭配",
+      "width": 0.10638297903378191,
+      "x": 0.5063829775043855,
+      "y": 0.40843023267366374
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015013054830287254,
+      "text": "④ refreshing ［ri'fre/in］ a. 清爽的，清新的",
+      "width": 0.31914892251359345,
+      "x": 0.04042553608362882,
+      "y": 0.3936031332411105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "①provide sb with sth（提供某物给某人）",
+      "width": 0.308510628986541,
+      "x": 0.5063829802141764,
+      "y": 0.38642297672497006
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014686684073107026,
+      "text": "⑤ pressure ［'pre/e］ n. 催促，强迫，呼呼",
+      "width": 0.299999988329798,
+      "x": 0.040425533999994656,
+      "y": 0.37500000031110625
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013320480874562168,
+      "text": "②green belt（绿化带）",
+      "width": 0.16595744904323018,
+      "x": 0.50638297594647,
+      "y": 0.36918604662715193
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013199040534913387,
+      "text": "⑥concrete ［'konkrict］ n. 混凝士",
+      "width": 0.24468085323647373,
+      "x": 0.04468085242431626,
+      "y": 0.3575581397957567
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023877106509694213,
+      "text": "•语篇分析，》",
+      "width": 0.1640167528083174,
+      "x": 0.4062894947653969,
+      "y": 0.32817772573630555
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "第二、三段诠释问题。其中第二段以“国民托管组织（the National Trust，民间组织）乡村保护成就的",
+      "width": 0.8382978566973889,
+      "x": 0.0829787372136156,
+      "y": 0.3035248041117393
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "今昔变化”反衬说明问题。关键词：①the National Trust； ②don't make countryside any more。",
+      "width": 0.7765957484053836,
+      "x": 0.042553197393052716,
+      "y": 0.28328981698632827
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "①②句追溯国民托管组织的创建初衷。",
+      "width": 0.3297872160406459,
+      "x": 0.08297873570308124,
+      "y": 0.2630548305623237
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711305742786787,
+      "text": "①句指出该组织旨在“永久保留自然美之地”。作者选用大词 launched（to start something,usually",
+      "width": 0.8404255095676983,
+      "x": 0.08297873370905862,
+      "y": 0.2427325583283142
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837107964657,
+      "text": "something big and important）意在突出该组织重要性非同寻常，其创建可谓英国历史上一大壮举。取舍",
+      "width": 0.8808510308055987,
+      "x": 0.040425558267413196,
+      "y": 0.22238372123706618
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "结构 not to..but to 辅以 for everyone forever 的强调功能，凸显该组织的创建初衷：为所有的人永存自",
+      "width": 0.8787233779352892,
+      "x": 0.04042553628767468,
+      "y": 0.2034883723823272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464114363448743,
+      "text": "然美之地。句中 stylish house 指代城区人为建造的富丽堂皇的房子，与指代自然乡土的 natural places",
+      "width": 0.8829786836759081,
+      "x": 0.04255322239076903,
+      "y": 0.18313953530383875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "形成鲜明对比；近义词 rescue 与 save 前后呼应，传达全篇隐藏问题：“乡村保护 VS城镇住房”孰轻孰重，",
+      "width": 0.8808510308055988,
+      "x": 0.0425532070972006,
+      "y": 0.16253263694824727
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015563583872025721,
+      "text": "何以解决？",
+      "width": 0.09182855230444477,
+      "x": 0.04238359542414112,
+      "y": 0.14338099869758592
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "②句继续指出该组织意在为城市居民提供呼吸新鲜空气的休闲空间。句中 specifically（intended for",
+      "width": 0.8425531624380079,
+      "x": 0.08297874846184676,
+      "y": 0.12336814645680338
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "one particular thing only“特意，专门地”）用以强调该组织目的单纯、专注；provide... with spaces for",
+      "width": 0.8851063365462177,
+      "x": 0.040425563982210054,
+      "y": 0.1031331594284648
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "leisure..refreshing air 明示该组织利民之处，传达“乡村”之于“城市”的重要性，城乡互存的必要性。",
+      "width": 0.8489361793999463,
+      "x": 0.0404255333851332,
+      "y": 0.08284883712463398
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "21",
+      "width": 0.023404254512166878,
+      "x": 0.8829787235683847,
+      "y": 0.06395348890122243
+    }
+  ],
+  "vision_ocr_text": "与 NHS等并列，视“国之四宝”），二者并无直接关联。\n［技巧总结］本题直接考点为第一段③句（长难句），实际全面考查对第一段信息的分析能力。正确\n解答此类试题需要考生：1）会读题，抓住各选项关键信息，锁定答题范围；2）细读文，借助语法知识理清\n句子结构，由逻辑关联词确定各语义成分功能，明确句子语义重点以及各提及对象之间关系。\n具体来看，首先读题：根据四个选项关键词 politics、royal family、Shakespearean age、NHS 可锁定本\n题答题范围在③句。随后梳理理清句子结构：While 构成句内转折，语义重点在后：转折之前 Britons rate\nthe countryside alongside. ..as. ..（人们认乡村与⋯⋯一样，都是⋯••••）题干所述内容（即民众对乡村\n的看法），其中“the countryside”与 the royal family、Shakespeare、NHS 为并列平行结构，四者之间并无直\n接语义逻辑关联；this（指代前半句）has limited political support 为语义重点。最后于语义重点中比对\n选项：唯有［A］体现作者强调内容，故正确；［B］、LC］、［D］均以并列平行结构 the royal family、\nShakespeare、NHS 强生关联，故错误。\n① A century ago Octavia Hill launched®the\n一个世纪前，奥克塔维亚•希尔发起了\nNational Trust not to rescue stylish houses but to save\n国民托管组织，不是为了拯救时尚华丽的蒙\n\"the beauty of natural places for everyone forever.” ②It\n宅而是“为所有人永久保留自然美的地方。”\nwas specifically® to provide city dwellers® with spaces for\n它专门为城市居民提供可以让他们体验到\nleisure where they could experience “a refreshing®air.”\n“一丝清新空气”的休闲空间。后来，希尔的\n③ Hill's pressure® later led to the creation of national\n呼吁使得国家公园和绿化带得以创建。而\nparks and green belts. ④ They don't make countryside\n现在，他们不再建设乡村，混凝土每年消耗\nany more, and every year concrete® consumes® more of it.\n更多的乡村。乡村需要持续保护。\n⑤ It needs constant guardianship®\n•词汇注释与难句分析。\n①launch ［lointJ］v. 发起\n⑦ consume ［kon'sjuim］w. 消耗\n②specifically ［spi'sifikol］ad. 特意，专门地\n⑧guardianship ［'ga:dion Jip］n. 监护，保护\n③dweller［'dwel］ n. 居民\n• 经典搭配\n④ refreshing ［ri'fre/in］ a. 清爽的，清新的\n①provide sb with sth（提供某物给某人）\n⑤ pressure ［'pre/e］ n. 催促，强迫，呼呼\n②green belt（绿化带）\n⑥concrete ［'konkrict］ n. 混凝士\n•语篇分析，》\n第二、三段诠释问题。其中第二段以“国民托管组织（the National Trust，民间组织）乡村保护成就的\n今昔变化”反衬说明问题。关键词：①the National Trust； ②don't make countryside any more。\n①②句追溯国民托管组织的创建初衷。\n①句指出该组织旨在“永久保留自然美之地”。作者选用大词 launched（to start something,usually\nsomething big and important）意在突出该组织重要性非同寻常，其创建可谓英国历史上一大壮举。取舍\n结构 not to..but to 辅以 for everyone forever 的强调功能，凸显该组织的创建初衷：为所有的人永存自\n然美之地。句中 stylish house 指代城区人为建造的富丽堂皇的房子，与指代自然乡土的 natural places\n形成鲜明对比；近义词 rescue 与 save 前后呼应，传达全篇隐藏问题：“乡村保护 VS城镇住房”孰轻孰重，\n何以解决？\n②句继续指出该组织意在为城市居民提供呼吸新鲜空气的休闲空间。句中 specifically（intended for\none particular thing only“特意，专门地”）用以强调该组织目的单纯、专注；provide... with spaces for\nleisure..refreshing air 明示该组织利民之处，传达“乡村”之于“城市”的重要性，城乡互存的必要性。\n21",
+  "pdf_text_layer": "与 N H S 等并 列，视 为 “ 国 之四 宝勺， 二 者并 无 直 接 关 联 。\n     ［技巧总结］ 本题直接考点为第 一 段 ① 句（长难句） ，实际全面考查 对 第 一 段信息 的 分 析能力 。 正 确\n解答 此类 试题 需 要考生 ： 1 ）会读题 ，抓 住各 选项 关键信息， 锁 定答题 范 围； 2 ）细读文， 借助 语法 知 识 理 清\n句 子结构，由逻辑关联 词确 定各语义成 分功能 ， 明确句 子语义 重 点 以 及各提及 对象 之间 关系 。\n     具 体 来看 ， 首先读题 ：根 据 四个选 项关键 词 po liti cs 、 ro ya l fa mil y 、 S h a k e sp ea rea n age 、 N H S 可锁 定本\n题答题范围在 ③ 句 。 随 后 梳 理 理 清句子结 构： Whil e 构成句内 转 折， 语义 重 点在后：转 折之前 Brito n s ra te\nthe co unt rys ide a longs ide .. . as ... （ 人们认为 乡 村 与 …… 一 样， 都 是 …… ）为题干 所述内 容（ 即 民众对乡 村\n的 看法） ， 其 中 “ the co untrys id e，，与 th e roya l famil y 、 Sh a k e s p ea re 、 N H S 为并 列 平行结 构，四 者 之间 并无直\n接 语义逻辑关 联； thi s （ 指代前 半 句 ） has limited po liti cal s uppo rt 为语义 重 点 。 最后于语义重 点中比对\n选项：唯 有［ A ］ 体现作 者 强调内 容， 故正确； ［ B J 、 ［ CJ 、 ［ D J 均以 并 列 平 行 结 构 t h e roy al famil y 、\nSh a k es p ea r e 、 N HS 强 生 关 联 ， 故错 误 。\n\n\n     II O A centur y ago O ct av ia Hill launched(           th e\nNa tiona l Tru st no t to resc ue s tyli sh ho uses but to sa ve\n                                                                    国民托管组织，不是为了拯救时尚华丽的豪\n“ the bea ut y of na tur a l places for everyo ne for ever. ”@ It\n                                                                    宅而是“为所有人永久保留自然美的地方 。”\nwas specifically(2) t o p rovid e city dwellers® with s paces for\n                                                                    它专门为城市居民提供可以让他们体验到\nleis ure w here th ey co uld experi ence “ a refreshing® air. ”\n                                                                    “一丝清新空气”的休 闲空间 。 后来，希尔的\n@Hill ’ s pressure® late r led to t he creati on of na tional\n                                                                    呼吁使得国家公园和绿化带得以创建 。 而\npa rks a nd g reen b e l ts. 。 T h e y don ’ t ma ke co untryside\n                                                                    现在，他们不再建设乡村，混凝土每年消耗\nan y more , a nd eve ry yea r concrete® consumes( more of it.\n0It needs cons t ant guardianship\n\n\n                                         ；；？：词汇注释与堆雪分析：：－：：： ti\n( launch [ l;i:ntf] v. 发 起                                     ( consume [ kan1sju:m] v. 消耗\n( specifically [ sp1 1sif1ka1I] a d. 特意，专 门地                   ® guardians ！即 ［ ＼\n( dweller [ 'dw e l a］ 凡居民\n                                                               ．经典搭配\n( refreshing [ r, 'freJ IJJ］ α 清爽 的， 清新 的\n                                                               ( prov id e sb with st h （提 供某 物 给某 人 ）\n⑤ pr创sure [ ' preJa］ η ．催 促 ，强迫， H于 Pf\n                                                               ( green b e lt （绿 化 带）\n( concrete [ 'k oIJkri:t] n. 混凝土\n\n                                                ：＞ ：雪雳分析＜ 1'\n     第二、三段诠释问题。其中第二段以“国民托管组织（ the National Trust ，民间组织）乡村保护成就的\n今昔变化”反衬说明问题。关键词： ① the National Trust ; ( don ’ t make countryside any more 。\n     ①② 旬追溯国民托管组织的创建初衷 。\n     ① 旬指出该组织旨在“永久保留自然美之地”。 作 者 选用 大同 l a un c h e d ( to s tart som ething, us ua ll y\nsomething bi g a nd i m port a nt ）意在突 出 该组 织 重要 性非同 寻 常 ， 其 创 建 可 谓英国 历史 上 一 大 壮 举 。 取 舍\n结 构 no t to . .. but t o 辅以 for ever yo ne for e ve r 的强调功能， 凸显该组织 的创 建 初 衷 ： 为 所 有 的人 永存自\n然 美 之地 。 句中 s tyli s h h o u se 指代城 区 人为 建 造的 富 丽 堂 皇 的 房子，与指 代 自然乡土 的 natura l places\n形成 鲜 明 对 t~ ；近义 同 resc u e 与 save 前 后 呼应，传达 全篇隐藏 问 题 ：“ 乡 村保护 vs 城 镇住房 ” 孰轻孰重，\n何以 解决？\n     ② 旬继续指出该组织意在为城市居民提供呼吸新鲜空气的休闲空间 。 句中 s p ec ifi ca ll y( in tended for\no n巳 pa rti c ul a r t hing o nl y “特意，专 门地”）用以强调 该组织目 的 单 纯、 专 注 ； pro v id e .. . with spaces for\nleis ure . .. refr es hing a i r 明 示该组织 和l 民之处，传 达“乡 村” 之于“城 市 ” 的 重要 性 ，城 乡五存的 必 要 性 。\n                                                                                                         21",
+  "quality": {
+    "vision_line_count": 54,
+    "vision_character_count": 2192,
+    "pdf_text_character_count": 3607,
+    "nonempty": true
+  }
+}

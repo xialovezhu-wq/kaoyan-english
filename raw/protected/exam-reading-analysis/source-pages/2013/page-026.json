@@ -1,0 +1,430 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P026",
+  "year": 2013,
+  "pdf_page": 26,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "③work out（想出，得出）",
+      "width": 0.18723403609733508,
+      "x": 0.07021277046197072,
+      "y": 0.9156976749477341
+    },
+    {
+      "confidence": 1,
+      "height": 0.013427988978652272,
+      "text": "有利对比）",
+      "width": 0.08309458774544765,
+      "x": 0.5339846216129365,
+      "y": 0.916977866362192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011859402644105121,
+      "text": "④huge selling point（大卖点）",
+      "width": 0.22340425159461635,
+      "x": 0.07234042962822367,
+      "y": 0.8994778067164761
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013312890697708357,
+      "text": "⑥on that count（在那一方面）",
+      "width": 0.2276595719229879,
+      "x": 0.5340425560901777,
+      "y": 0.8994778068611862
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906918836861,
+      "text": "⑤compare...favourably with...（将⋯⋯与•⋯进行",
+      "width": 0.40212764703520854,
+      "x": 0.07234042778026814,
+      "y": 0.8822674418312793
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect",
+      "width": 0.8446808153083174,
+      "x": 0.10851065779796885,
+      "y": 0.8430232561207872
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043444,
+      "text": "method: there is no guarantee that DNT by default will become the norm.",
+      "width": 0.6021276295299056,
+      "x": 0.07021277596199765,
+      "y": 0.8255813956236062
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860378255458,
+      "text": "定语从句",
+      "width": 0.09787233837703901,
+      "x": 0.4617021296625443,
+      "y": 0.8052325582992443
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016615995227823754,
+      "text": "If it is tryng to upset Google，",
+      "width": 0.24515073933063455,
+      "x": 0.1423326166278833,
+      "y": 0.791837219779048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837232465211,
+      "text": "which relies almost wholly on advertising，",
+      "width": 0.34468084448382225,
+      "x": 0.4106382982900037,
+      "y": 0.7877906974738174
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015313106168343582,
+      "text": "条件状语丛句",
+      "width": 0.11934752309299562,
+      "x": 0.2403262393036545,
+      "y": 0.7757736795418207
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.029390237972568234,
+      "text": "句子的主干：Fit has chosen an indirect method：",
+      "width": 0.40789042193848585,
+      "x": 0.1100190867821808,
+      "y": 0.7497660738548285
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017650585572962396,
+      "text": "主语 谓语",
+      "width": 0.10212765870541052,
+      "x": 0.2191489357111246,
+      "y": 0.7369186048690118
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906918836972,
+      "text": "4",
+      "width": 0.021276594347981126,
+      "x": 0.4489361709111158,
+      "y": 0.7398255816181009
+    },
+    {
+      "confidence": 1,
+      "height": 0.01628789329030811,
+      "text": "对主句的解释",
+      "width": 0.11923446801150961,
+      "x": 0.34038276710148213,
+      "y": 0.7164200066861177
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "there is no guarantee that DNT by default will become the norm.",
+      "width": 0.5234042399244145,
+      "x": 0.2212766086760905,
+      "y": 0.6932114882364663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015026432415835234,
+      "text": "there be句型",
+      "width": 0.10652486680798501,
+      "x": 0.2595035247360896,
+      "y": 0.6770798068694117
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "gquarantee的同位语从句",
+      "width": 0.19999999708244948,
+      "x": 0.49148936141622196,
+      "y": 0.6755874676518216
+    },
+    {
+      "confidence": 1,
+      "height": 0.018054004748869756,
+      "text": "功能注释：此句较长，可据衔接词将其分解为三部分：一、I从句表明此句乃为假设，作者假定微软",
+      "width": 0.8405342758499642,
+      "x": 0.11058343371371697,
+      "y": 0.6524200350815559
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "“将 DNT设为浏览器开启默认项”的目的为“打击谷歌”；二、which 从句说明谷歌业务性质“依赖于广",
+      "width": 0.8808510308055987,
+      "x": 0.0680851245972006,
+      "y": 0.6351174935588069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "告”，暗示作者有此假定的原因；三、主句中 indirect method,no guarantee 为作者观点态度词，表明作者",
+      "width": 0.8765957250649796,
+      "x": 0.07234042831857412,
+      "y": 0.6174934728773378
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "对微软此举的怀疑态度。",
+      "width": 0.210638290609502,
+      "x": 0.07021277134418515,
+      "y": 0.598563968434414
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01631853785900783,
+      "text": "；•语篇分析。",
+      "width": 0.1255319132175774,
+      "x": 0.4234042574124879,
+      "y": 0.5724543083837053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "第七段对微软单方行动进行原因分析并做出评价。关键词为：①Also unclear；②why。",
+      "width": 0.7191489458539974,
+      "x": 0.1106382943921502,
+      "y": 0.546344647475513
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "①句（段落主旨句）概括指出微软单方行动的原因不明。go it alone（to start working on your own，",
+      "width": 0.8404255095676985,
+      "x": 0.1106383174501932,
+      "y": 0.5290697673987204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014561448333780036,
+      "text": "especially after working with other people*单独行动，独自干”）呼应第三段②句“微软与苹果等浏览器开发",
+      "width": 0.8787233779352892,
+      "x": 0.07021278644015672,
+      "y": 0.5130548304854432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "商行动一致，均接受 FTC提议在浏览器中添加 DNT选项”，强调微软此次举措的特立独行，暗示该举措",
+      "width": 0.8787233779352892,
+      "x": 0.07021276813341946,
+      "y": 0.4941253261714833
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287254,
+      "text": "有可能无法获得同行认可。",
+      "width": 0.2319148922513593,
+      "x": 0.07021276953921389,
+      "y": 0.4765013056783205
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "②句从自身角度说明①句：此次单方行动无疑会影响其自身广告业务。After all（despite what has",
+      "width": 0.8404255095676985,
+      "x": 0.11063831604948397,
+      "y": 0.4562663182896791
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "been said）暗藏让步之意“即便微软自身也有广告业务，但依然打算将 DNT设为默认值”，反衬其用意不",
+      "width": 0.8808510308055987,
+      "x": 0.07021278305464747,
+      "y": 0.43864229765295126
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "明“在损己的情况下，为何还要将DNT设为默认值？”为下文引出原因假设“意欲打击谷歌”埋伏；though",
+      "width": 0.8808510308055988,
+      "x": 0.07021279321422162,
+      "y": 0.4215116282138104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017471406851985116,
+      "text": "取“可是，不过，然而（used like but to add a fact or opinion that makes what you have just said seem less",
+      "width": 0.880990723123058,
+      "x": 0.0722657723423406,
+      "y": 0.40268351460017937
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "definite, less important, etc）”转折之意，意在借从句“微软尚且不知道如何具体实施 DNT 请求”削弱主",
+      "width": 0.8787233779352892,
+      "x": 0.0702127741972491,
+      "y": 0.3851174932960425
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "句“微软广告业将遵从 DNT 请求”的确定性/重要性，暗示作者对微软之举的不认可态度。",
+      "width": 0.7595744670918977,
+      "x": 0.07021277404979576,
+      "y": 0.36618798941142583
+    },
+    {
+      "confidence": 1,
+      "height": 0.01750095021320075,
+      "text": "③④句从竞争对手角度说明①句：此次单方举动并不能真正打击到竞争对手。",
+      "width": 0.6575907895031667,
+      "x": 0.11056631729473716,
+      "y": 0.34590561597700087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "③句从效果上否定原因假设“（虽不利己，但）意在打击敌人”：将DNT设为默认值未必会成为行规，",
+      "width": 0.8404255095676985,
+      "x": 0.11063831604948397,
+      "y": 0.3283289814121315
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860378255347,
+      "text": "只能间接打击到谷歌广告业。almost wholly 说明谷歌“几乎全靠广告业务经营”的“单一”身份，暗示它",
+      "width": 0.8787233779352892,
+      "x": 0.07021277530895116,
+      "y": 0.31104651149691886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014553858779429163,
+      "text": "与微软对 DNT 的态度有本质差别，也解除第三段②句悬念“谷歌为何后于微软添加 DNT 选项，且截至",
+      "width": 0.8765957250649797,
+      "x": 0.072340442644815,
+      "y": 0.2950391642016159
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "目前为止，尚未添加”；indirect method,no guarantee 均从事实结果上表明微软此举并不能达到“打击敌",
+      "width": 0.8765957250649797,
+      "x": 0.07234043358453149,
+      "y": 0.27610966038903473
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "人”的目的。",
+      "width": 0.10212765870541049,
+      "x": 0.07021276766857132,
+      "y": 0.25848563959613147
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017650586195465112,
+      "text": "④句从产品卖点上否定原因假设“（虽于己不利，但）意在打击敌人”：DNT 并非 Windows 8 大卖点，",
+      "width": 0.8404255095676985,
+      "x": 0.1106383174501932,
+      "y": 0.23691860469459325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "不能直击谷歌产品。does not seem 将“DNT为微软产品（相较谷歌及其他同行产品而言的）明显巨大卖",
+      "width": 0.8787233779352892,
+      "x": 0.07021278644015672,
+      "y": 0.22062663167799013
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013210425488942579,
+      "text": "点”表示了否定；though 取“虽然，尽管（used to introduce a statement that makes the main statement seem",
+      "width": 0.8787233779352892,
+      "x": 0.07234042404654034,
+      "y": 0.206266318436231
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "surprising, unlikely,or unexpected）”让步之意，意在借从句“微软此前将其产品与谷歌产品进行了有利对",
+      "width": 0.8808510308055987,
+      "x": 0.06808512000145595,
+      "y": 0.18603133131826877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "比”凸显主句“DNT 不是微软 Windows 8巨大卖点”的不可置信/令人惊讶，反衬说明“微软想把 DNT 作",
+      "width": 0.8765957250649797,
+      "x": 0.0723404248611275,
+      "y": 0.16840731100615314
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "内与谷歌竞争的拳头优势并不可取”。onthat count“在那个方面”此处指selling point“卖点”这一方面。",
+      "width": 0.8744680721946702,
+      "x": 0.07021276366862259,
+      "y": 0.14947780706339686
+    },
+    {
+      "confidence": 1,
+      "height": 0.01624811411526428,
+      "text": "⑤⑥句从消费者利益角度说明①句：并非真能给消费者更多控制权。",
+      "width": 0.5788944164152127,
+      "x": 0.11055784274123058,
+      "y": 0.1307706588015226
+    },
+    {
+      "confidence": 1,
+      "height": 0.01774166582769887,
+      "text": "⑤句引出微软官方答复：为了让消费者拥有更多控制权。more 一词暗示目前在线行为广告给用户",
+      "width": 0.8361702038270794,
+      "x": 0.11063830335241776,
+      "y": 0.11161879909980088
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "（消费者）带来诸多隐私担忧。",
+      "width": 0.2510638264351548,
+      "x": 0.06808510554838008,
+      "y": 0.09593023239872034
+    },
+    {
+      "confidence": 1,
+      "height": 0.017760640958581875,
+      "text": "⑥句反驳此官方答复：没那么简单。反问句形式结尾文章，意味深长，传达作者对微软此举为了消",
+      "width": 0.8404255095676983,
+      "x": 0.10851063896615111,
+      "y": 0.07558139535593045
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458042346466304,
+      "text": "26",
+      "width": 0.02553191467635263,
+      "x": 0.08297872377884495,
+      "y": 0.058093994610858624
+    }
+  ],
+  "vision_ocr_text": "③work out（想出，得出）\n有利对比）\n④huge selling point（大卖点）\n⑥on that count（在那一方面）\n⑤compare...favourably with...（将⋯⋯与•⋯进行\nIf it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect\nmethod: there is no guarantee that DNT by default will become the norm.\n定语从句\nIf it is tryng to upset Google，\nwhich relies almost wholly on advertising，\n条件状语丛句\n句子的主干：Fit has chosen an indirect method：\n主语 谓语\n4\n对主句的解释\nthere is no guarantee that DNT by default will become the norm.\nthere be句型\ngquarantee的同位语从句\n功能注释：此句较长，可据衔接词将其分解为三部分：一、I从句表明此句乃为假设，作者假定微软\n“将 DNT设为浏览器开启默认项”的目的为“打击谷歌”；二、which 从句说明谷歌业务性质“依赖于广\n告”，暗示作者有此假定的原因；三、主句中 indirect method,no guarantee 为作者观点态度词，表明作者\n对微软此举的怀疑态度。\n；•语篇分析。\n第七段对微软单方行动进行原因分析并做出评价。关键词为：①Also unclear；②why。\n①句（段落主旨句）概括指出微软单方行动的原因不明。go it alone（to start working on your own，\nespecially after working with other people*单独行动，独自干”）呼应第三段②句“微软与苹果等浏览器开发\n商行动一致，均接受 FTC提议在浏览器中添加 DNT选项”，强调微软此次举措的特立独行，暗示该举措\n有可能无法获得同行认可。\n②句从自身角度说明①句：此次单方行动无疑会影响其自身广告业务。After all（despite what has\nbeen said）暗藏让步之意“即便微软自身也有广告业务，但依然打算将 DNT设为默认值”，反衬其用意不\n明“在损己的情况下，为何还要将DNT设为默认值？”为下文引出原因假设“意欲打击谷歌”埋伏；though\n取“可是，不过，然而（used like but to add a fact or opinion that makes what you have just said seem less\ndefinite, less important, etc）”转折之意，意在借从句“微软尚且不知道如何具体实施 DNT 请求”削弱主\n句“微软广告业将遵从 DNT 请求”的确定性/重要性，暗示作者对微软之举的不认可态度。\n③④句从竞争对手角度说明①句：此次单方举动并不能真正打击到竞争对手。\n③句从效果上否定原因假设“（虽不利己，但）意在打击敌人”：将DNT设为默认值未必会成为行规，\n只能间接打击到谷歌广告业。almost wholly 说明谷歌“几乎全靠广告业务经营”的“单一”身份，暗示它\n与微软对 DNT 的态度有本质差别，也解除第三段②句悬念“谷歌为何后于微软添加 DNT 选项，且截至\n目前为止，尚未添加”；indirect method,no guarantee 均从事实结果上表明微软此举并不能达到“打击敌\n人”的目的。\n④句从产品卖点上否定原因假设“（虽于己不利，但）意在打击敌人”：DNT 并非 Windows 8 大卖点，\n不能直击谷歌产品。does not seem 将“DNT为微软产品（相较谷歌及其他同行产品而言的）明显巨大卖\n点”表示了否定；though 取“虽然，尽管（used to introduce a statement that makes the main statement seem\nsurprising, unlikely,or unexpected）”让步之意，意在借从句“微软此前将其产品与谷歌产品进行了有利对\n比”凸显主句“DNT 不是微软 Windows 8巨大卖点”的不可置信/令人惊讶，反衬说明“微软想把 DNT 作\n内与谷歌竞争的拳头优势并不可取”。onthat count“在那个方面”此处指selling point“卖点”这一方面。\n⑤⑥句从消费者利益角度说明①句：并非真能给消费者更多控制权。\n⑤句引出微软官方答复：为了让消费者拥有更多控制权。more 一词暗示目前在线行为广告给用户\n（消费者）带来诸多隐私担忧。\n⑥句反驳此官方答复：没那么简单。反问句形式结尾文章，意味深长，传达作者对微软此举为了消\n26",
+  "pdf_text_layer": "( wo rk out （想 巾， 得 II:\\)                                   自   有利对比）\n( huge selli ng po in t （大卖点）                               j 川t 川\n( compare. . . favou rably with . .. （将 …… 与 ……进行\n\n      If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect\nmethod: there is no guarantee that ONT by default will become the norm.\n                                                       定语从句\n          If it is tryin g to upset Google,      w hich relies almost wholly on advertising,\n                       条件状语从句\n      句子的 主干·｜审it has chosen an indirect method:\n                    主语谓语                         宾语\n                                     对 主句的解释\n                    th 巳I飞~ is no gu ara nt巳巳   that DNT by default will b巳com巳 th巳 norn\n                         the陀 be句型                         guarantee 的 同位语从句\n\n      功能注释：此 句较长，可据衔接同将其分 ffF-fc 为 三 部分 ： 一 、 If 从句表明 此 句乃为假设，作者假定微软\n“ 将 ONT 设为浏览器开启默认项”的目的为“打击谷歌”； 二 、 wh i c h 从句说明谷歌业务性质“依赖于广\n告飞 H音示作者有此假定的原因； 三 、主句中 i ndir ec t method, no g uara nt ee 为 作 者 观点态度词，表明作者\n对微软此 举 的怀疑态度 。\n\n                                                   ： ·语篇分析. :;/\n      第七段对微软单方行动进行原因分析并做出评价。关键词为： ① Also unclear ； ② why 。\n      ① 旬（段落主旨旬）概括指出微软单方行动的原因不明。 go it alone( to s tart wor king on you r own,\nespecially after working with other people“单 独行动，独自 干”） II于应第 三 段 ② 句“微软与苹果等浏览器开发\n商行动 一 致，均接受 FTC 提议在浏览器中添 加1 O N T 选项 ”，强调微软 此 次举措的特立独行，暗示该举措\n有可能无法获得 同行认可 。\n      ② 旬从自身角度说明 ① 旬：此次单方行动无疑会影响其自身广告业务。 A f t e r all ( despite w hat has\nbee n sa id ）暗藏让步之意“ 即使微软自 身也有广告 业 务，但依然 打 算将 D N T 设 为默认值”，反 衬其用 意不\n明 “在损己的情况下，为何还要将 ONT 设为默 认值 ？”为下文 引出原因假设 “意欲 打击谷歌 ” 埋伏； though\n取“可 是，不 过，然而（ u s巳cl li k巳 but to add a fa ct or op inio n t hat makes w hat yo u have jus t said seem less\ndefinite, less important, etc ） 叫丁古 折之 意，意在借 从句 “微软 尚且不知道如何 具 体 实 施 ONT 请求” 削弱 主\n句“微软广 告 业将遵从 D NT 请求” 的确 定性 ／ 重要性， H音示作者 对微软之 举 的不认可态 度。\n      ③④ 旬从竞争对手角度说明 ① 旬：此次单方举动并不能真正打击到竞争对手。\n      ③ 旬从效果上否定原因假设“（虽不利己，但）意在打击敌人”：将 ONT 设为默认值未必会成为行规，\n只能间接打击到谷歌广告业。 a l mo s t who ll y 说明谷歌“几乎全 靠 广告业务 经营 ”的 “ 单 一 ”身份，暗示它\n与微软对 ONT 的态度有本质差 别 ， 也解除 第 三 段 ② 句悬念“谷歌为何后于微软添加l O N T 选项，且截至\n目前为止，尚未添 加”； indi rec t me thod, no g u arantee 均从 事实 结果上表明微软 此 举并不 能达到“打击敌\n人”的目的 。\n      ④ 旬从产品卖点上否定原因假设“（虽于己不利，但）意在打击敌人”： ONT 并非 Windows 8 大卖点，\n不能直击谷歌产品。 d oes not see m 将“ O NT 为微软产品（ 才，Iii 较谷歌及其他同行 产 品 而 言 的 ） 明显 巨大卖\n点”表示了否定； t ho u g h 取“ 虽然，尽管（ used to in trodu ce a statement that makes t he main s tatement seem\nsurprising, unlikely , or unexpected ）”让步之意，意在借从句“微软 此前将 其产品与谷歌产品进行了有 利对\n比 ”凸显主句“ DNT 不是微软 W indows 8 巨大卖 点”的 不可 置 信 ／ 令人惊讶 ，反衬说明“微软想把 DNT 作\n为与谷歌竞争的拳头优势并不可取” 。 o n that cou nt “ 在 那个 方面” 此处指 se lling point“ 卖 点”这 一 方面 。\n      ⑤＠ 旬从消费者利益角度说明 ① 旬：并非真能给消费者更多控制权。\n      ⑤ 旬引出微软官方答复：为了让消费者拥有更多控制权。 mor e 一 同暗 示目 前在线行为广 告给 用户\n（消费 者） 带来诸多隐私捆忧 。\n      ＠ 旬反驳此官方答复：没那么简单。 反问句形式结尾文章，意 味深长 ，传达作者对微软 此 举为 了？肖\n 26",
+  "quality": {
+    "vision_line_count": 51,
+    "vision_character_count": 2098,
+    "pdf_text_character_count": 2850,
+    "nonempty": true
+  }
+}

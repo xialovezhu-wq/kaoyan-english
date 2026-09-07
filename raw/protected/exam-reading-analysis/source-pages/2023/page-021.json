@@ -1,0 +1,630 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2023-P021",
+  "year": 2023,
+  "pdf_page": 21,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+  "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.014534883691160516,
+      "text": "系、选择和不同的声音。可见，出版商的合并不能多样化地传递知识联系、选择和不同的声音，因而是",
+      "width": 0.8436830426206683,
+      "x": 0.10492508000505273,
+      "y": 0.9433139535863134
+    },
+    {
+      "confidence": 1,
+      "height": 0.016134696038777374,
+      "text": "一个令人担忧的趋势，D选项内容是对劳尼观点的概括，故正确。",
+      "width": 0.5331905553836634,
+      "x": 0.10278373063257966,
+      "y": 0.9228187920704215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020221347936847933,
+      "text": "Text 4",
+      "width": 0.08414605017935878,
+      "x": 0.4643509581999092,
+      "y": 0.8888718842443747
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020732315114680655,
+      "text": "◎命题分析",
+      "width": 0.12904194746867265,
+      "x": 0.0532520464528592,
+      "y": 0.8639070983424226
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007431325016405865,
+      "text": "配套外敉音频",
+      "width": 0.07066380717966814,
+      "x": 0.8865096390493522,
+      "y": 0.8590116279689249
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017515997278610307,
+      "text": "Text 4选自2020年12月1日的 The Scientist （《科学家》），原文标题是 “Citations Are the Currency of Science”",
+      "width": 0.8736616380143873,
+      "x": 0.08565312184933727,
+      "y": 0.834228188191591
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837167624656,
+      "text": "（《引用是科学的货币》）。文章主要围绕科学论文引用乱象以及如何遏制该现象所展开。",
+      "width": 0.7280513952274134,
+      "x": 0.055674522586150486,
+      "y": 0.8125000002447256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107382550335614,
+      "text": "题目设置：36题至 40题均为细节理解题。",
+      "width": 0.34261241950611077,
+      "x": 0.08779443607135569,
+      "y": 0.7906040270239062
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020629704878634247,
+      "text": "◎ 英汉对照",
+      "width": 0.12643641103612316,
+      "x": 0.0534841492455776,
+      "y": 0.7600339846019603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "［1］@Scientific papers are the recordkeepers of progress in",
+      "width": 0.46895075127629954,
+      "x": 0.09635974799675379,
+      "y": 0.7295302011321435
+    },
+    {
+      "confidence": 1,
+      "height": 0.016107382550335614,
+      "text": "科学论文是研究进展的记录者。每年，研",
+      "width": 0.3340471022199877,
+      "x": 0.614561034157672,
+      "y": 0.7281879194669372
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014858748288762658,
+      "text": "research. @Each year researchers publish millions of papers in",
+      "width": 0.5010706533299816,
+      "x": 0.06209850004807154,
+      "y": 0.7093023255236058
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837167624667,
+      "text": "究人员在3万多种期刊上发表数百万篇论文。",
+      "width": 0.3597430238629332,
+      "x": 0.5845824531220666,
+      "y": 0.7063953490601325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139570607425,
+      "text": "more than 30,000 jourals. ③The scientific community measures",
+      "width": 0.5010706533299814,
+      "x": 0.06423983894528759,
+      "y": 0.6904069766382419
+    },
+    {
+      "confidence": 1,
+      "height": 0.0161893242957607,
+      "text": "科学界通过多种方式来衡量那些论文的质量，",
+      "width": 0.3597430238629331,
+      "x": 0.5824411254561136,
+      "y": 0.6831395349322256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01479436567165715,
+      "text": "the quality of those papers in a number of ways, including the",
+      "width": 0.5010706533299814,
+      "x": 0.06423983894528759,
+      "y": 0.6697986576274115
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883691160405,
+      "text": "包括期刊的感知质量（由标题的影响因子反映）",
+      "width": 0.3768736584351794,
+      "x": 0.584582446499755,
+      "y": 0.662790697747443
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107382550335614,
+      "text": "perceived quality of the journal （as reflected by the title's impact",
+      "width": 0.5032119902053681,
+      "x": 0.06209850610181252,
+      "y": 0.649664429477013
+    },
+    {
+      "confidence": 1,
+      "height": 0.01616981429541675,
+      "text": "和特定论文的累计被引用次数。（36）科学家",
+      "width": 0.36616700427366966,
+      "x": 0.5824411185537434,
+      "y": 0.6395348838748127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974557,
+      "text": "factor） and the number of citations a specific paper accumulates.",
+      "width": 0.5032119599899443,
+      "x": 0.06209852517990265,
+      "y": 0.6308139539740282
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "@The careers of scientists and the reputation of their institutions",
+      "width": 0.5010706533299816,
+      "x": 0.06423983500524483,
+      "y": 0.6104651161122685
+    },
+    {
+      "confidence": 1,
+      "height": 0.01481777741605006,
+      "text": "的职业生涯和他们所在机构的声誉取决于他们",
+      "width": 0.36616700427366966,
+      "x": 0.5845824538053492,
+      "y": 0.6174496645022046
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "depend on the number and prestige of the papers they produce，",
+      "width": 0.5010706533299814,
+      "x": 0.06423983894528759,
+      "y": 0.5912751676806908
+    },
+    {
+      "confidence": 1,
+      "height": 0.017714999026100076,
+      "text": "所发表的论文的数量和声望，但更多的是取决",
+      "width": 0.36402569761370673,
+      "x": 0.5845824410575292,
+      "y": 0.5930232560704964
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "but even more so on the citations attracted by these papers.",
+      "width": 0.4582440971147896,
+      "x": 0.06423984039335455,
+      "y": 0.571140939403112
+    },
+    {
+      "confidence": 1,
+      "height": 0.014765100671140896,
+      "text": "于这些论文所吸引的引用次数。",
+      "width": 0.2483940048973159,
+      "x": 0.5845824428761099,
+      "y": 0.5724832216644686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "［2］①Citation cartels, where journals, authors, and",
+      "width": 0.47109205793626235,
+      "x": 0.09421842402972752,
+      "y": 0.5508720928564547
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837167624667,
+      "text": "引用卡特尔，即期刊、作者和机构合谋夸",
+      "width": 0.33404710221998757,
+      "x": 0.6167023622947171,
+      "y": 0.5494186049612952
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "institutions conspire to inflate citation numbers, have existed",
+      "width": 0.5032119599899444,
+      "x": 0.06209852382372854,
+      "y": 0.5319767444431794
+    },
+    {
+      "confidence": 1,
+      "height": 0.01611908842253207,
+      "text": "大被引用次数的组织，存在已久。2016年，",
+      "width": 0.3597430238629332,
+      "x": 0.5845824540214242,
+      "y": 0.5261627909242313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "for a long time. @In 2016, researchers developed an algorithm",
+      "width": 0.5010706533299815,
+      "x": 0.06423984000167571,
+      "y": 0.511409396126093
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883691160405,
+      "text": "研究人员开发了一种算法来识别可疑的引用模",
+      "width": 0.36616700427366955,
+      "x": 0.5845824533694362,
+      "y": 0.5058139535863134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "to recognize suspicious citation patterns, including groups of",
+      "width": 0.5032119902053682,
+      "x": 0.06423983434057062,
+      "y": 0.49127516751450706
+    },
+    {
+      "confidence": 1,
+      "height": 0.0176756814022192,
+      "text": "式，包括成群的很大比例上相互引用的作者，",
+      "width": 0.35990960149481754,
+      "x": 0.5844854106328052,
+      "y": 0.48098299103960307
+    },
+    {
+      "confidence": 1,
+      "height": 0.01486460090483599,
+      "text": "authors that disproportionately cite one another and groups of",
+      "width": 0.5032119599899443,
+      "x": 0.06423985251751865,
+      "y": 0.4723837211873655
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395706074361,
+      "text": "以及大量的频繁相互引用以增加其出版物影响",
+      "width": 0.36402569761370673,
+      "x": 0.5845824372388283,
+      "y": 0.4622093020621759
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "journals that cite each other frequently to increase the impact",
+      "width": 0.505353296865331,
+      "x": 0.062098518483822536,
+      "y": 0.45203488380848955
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "factors of their publications. @Recently, another expression",
+      "width": 0.5010706533299815,
+      "x": 0.06423983686106201,
+      "y": 0.4315436243058327
+    },
+    {
+      "confidence": 1,
+      "height": 0.017644763152871334,
+      "text": "因子的期刊。最近，这种掠夺性行为的另一种",
+      "width": 0.36616700427366955,
+      "x": 0.5845824502186255,
+      "y": 0.4360465118553801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "of this predatory behavior has emerged: so-called support",
+      "width": 0.5032119599899443,
+      "x": 0.06423984709282214,
+      "y": 0.4127516779308634
+    },
+    {
+      "confidence": 1,
+      "height": 0.01479631654368152,
+      "text": "表现形式已经出现了：（37）所谓的支持服务",
+      "width": 0.36616700427366955,
+      "x": 0.5845824481384787,
+      "y": 0.4154362415186762
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "service consultancies that provide language and other editorial",
+      "width": 0.5010706533299814,
+      "x": 0.06423982767119785,
+      "y": 0.39244186040732687
+    },
+    {
+      "confidence": 1,
+      "height": 0.01342281879194629,
+      "text": "咨询公司为独立作者和期刊提供语言和其他编",
+      "width": 0.36616700427366966,
+      "x": 0.5845824538053492,
+      "y": 0.39530201360245987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016269314529111734,
+      "text": "support to individual authors and to journals sometimes advise",
+      "width": 0.5032119902053682,
+      "x": 0.06209849665320467,
+      "y": 0.3718120805095929
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017500389662365,
+      "text": "挥支持，有时会建议投稿者在他们的文章中添",
+      "width": 0.36616700427366966,
+      "x": 0.5845824488089183,
+      "y": 0.3691275167671386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "contributors to add a number of citations to their articles.",
+      "width": 0.44325479941793006,
+      "x": 0.06423984351908624,
+      "y": 0.35436241625294773
+    },
+    {
+      "confidence": 1,
+      "height": 0.016107015161706206,
+      "text": "加一些引文。",
+      "width": 0.1032438146005763,
+      "x": 0.5843523976253531,
+      "y": 0.34805114359302425
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01614445103894946,
+      "text": "［3］@The advent of electronic publishing and authors' need to",
+      "width": 0.47323339481164917,
+      "x": 0.09207708682865087,
+      "y": 0.33284883732684767
+    },
+    {
+      "confidence": 1,
+      "height": 0.014765100671141007,
+      "text": "电子出版的问世和作者为他们的论文寻找",
+      "width": 0.3319057653446008,
+      "x": 0.61884369092513,
+      "y": 0.3268456377738961
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "find outlets for their papers resulted in thousands of new journals.",
+      "width": 0.5010706533299814,
+      "x": 0.06638116919510889,
+      "y": 0.313953488629226
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016300530401652247,
+      "text": "出路的需求导致了数以千计的新期刊的出现。",
+      "width": 0.3576017172029703,
+      "x": 0.5867237696461951,
+      "y": 0.3020134229146687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020955620836091482,
+      "text": "@The birth of predatory journals wasn't far behind. @These",
+      "width": 0.5014450828627784,
+      "x": 0.06404046651796577,
+      "y": 0.29110403019586195
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016201030167957264,
+      "text": "journals can act as milk cows. where every single article in",
+      "width": 0.5010706533299815,
+      "x": 0.06423983307805003,
+      "y": 0.2744966443087319
+    },
+    {
+      "confidence": 1,
+      "height": 0.01612103929455644,
+      "text": "掠夺性期刊的诞生紧随其后。（38）这些期刊",
+      "width": 0.36616700427366955,
+      "x": 0.5845824517175549,
+      "y": 0.2805232558624582
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014767051543165377,
+      "text": "an issue may cite a specific paper or a series of papers. @In",
+      "width": 0.5010706533299814,
+      "x": 0.06423982558340352,
+      "y": 0.2543604650342647
+    },
+    {
+      "confidence": 1,
+      "height": 0.016208833656055077,
+      "text": "就像奶牛一样，每期期刊上的每一篇文章都可",
+      "width": 0.36616700427366955,
+      "x": 0.5845824494905743,
+      "y": 0.25704697992916126
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974557,
+      "text": "some instances, there is absolutely no relationship between the",
+      "width": 0.5010706533299814,
+      "x": 0.06638116990888478,
+      "y": 0.23546511681317572
+    },
+    {
+      "confidence": 1,
+      "height": 0.01621273604015383,
+      "text": "能引用一篇特定论文或一系列论文。在某些情",
+      "width": 0.36616700427366966,
+      "x": 0.5845824538053492,
+      "y": 0.23546511659646963
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974668,
+      "text": "content of the article and the citations. SThe peculiar part is",
+      "width": 0.5010706533299814,
+      "x": 0.06638116782109045,
+      "y": 0.21511627962204172
+    },
+    {
+      "confidence": 1,
+      "height": 0.016228343656399136,
+      "text": "况下，文章的内容和引文之间完全没有关系。",
+      "width": 0.3597430238629332,
+      "x": 0.5845824459272058,
+      "y": 0.21342281885323588
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "that the journal that the editor is supposedly working for is not",
+      "width": 0.5010706533299815,
+      "x": 0.0663811665684139,
+      "y": 0.19597315465836374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017646714024895815,
+      "text": "（38）奇怪的是，据称编辑为之工作的期刊根",
+      "width": 0.37044967802444306,
+      "x": 0.5824411162607978,
+      "y": 0.19040697736410106
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "profiting at all—it is just providing citations to other journals.",
+      "width": 0.5010706533299814,
+      "x": 0.06638116919510889,
+      "y": 0.17583892589577388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016136646910801855,
+      "text": "本没有盈利——它只是向其他期刊提供引文。",
+      "width": 0.3576017172029703,
+      "x": 0.5867237625173587,
+      "y": 0.1684563759367692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "©Such practices can lead an article to accrue more than 150",
+      "width": 0.5010706533299814,
+      "x": 0.06638116782109045,
+      "y": 0.1555232559378501
+    },
+    {
+      "confidence": 1,
+      "height": 0.014831434160270884,
+      "text": "这样的做法可能会导致一篇文章在发表的同一",
+      "width": 0.36616700427366966,
+      "x": 0.5845824538053492,
+      "y": 0.1482558140410476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974557,
+      "text": "citations in the same year that it was published",
+      "width": 0.36616700427366955,
+      "x": 0.06423983375716961,
+      "y": 0.13662790734733243
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "年内被引用超过150次。",
+      "width": 0.19700213139600087,
+      "x": 0.5845824485418282,
+      "y": 0.12483221477998552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107382550335614,
+      "text": "［4］@How insidious is this type of citation manipulation？",
+      "width": 0.47323339481164917,
+      "x": 0.09421842431080629,
+      "y": 0.11476510083969194
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014808022415877975,
+      "text": "②In one example, an individual-acting as author, editor，",
+      "width": 0.5032119599899443,
+      "x": 0.06638118042615533,
+      "y": 0.09593023257302435
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883691160405,
+      "text": "这种类型的引用操纵有多狡猾？举一个例",
+      "width": 0.3319057653446009,
+      "x": 0.6188436935742581,
+      "y": 0.10319767451654593
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974557,
+      "text": "and consultant—was able to use at least 15 journals as",
+      "width": 0.5010706533299816,
+      "x": 0.06638116669689359,
+      "y": 0.07848837271797204
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016142500166924978,
+      "text": "子，一个人——作为作者、编辑和顾问—能",
+      "width": 0.36616700427366955,
+      "x": 0.5867237758253352,
+      "y": 0.07848837216817517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014845090904491931,
+      "text": "citation providers to articles published by five scientists at",
+      "width": 0.5010706533299815,
+      "x": 0.06638115529432422,
+      "y": 0.056375839204169775
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883691160516,
+      "text": "够使用至少15种期刊为三所大学的五名科学",
+      "width": 0.36616700427366955,
+      "x": 0.5867237814284757,
+      "y": 0.05813953499550506
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008931637130327741,
+      "text": "⑦1",
+      "width": 0.021413276219131916,
+      "x": 0.9271948608197703,
+      "y": 0.02885906048849385
+    }
+  ],
+  "vision_ocr_text": "系、选择和不同的声音。可见，出版商的合并不能多样化地传递知识联系、选择和不同的声音，因而是\n一个令人担忧的趋势，D选项内容是对劳尼观点的概括，故正确。\nText 4\n◎命题分析\n配套外敉音频\nText 4选自2020年12月1日的 The Scientist （《科学家》），原文标题是 “Citations Are the Currency of Science”\n（《引用是科学的货币》）。文章主要围绕科学论文引用乱象以及如何遏制该现象所展开。\n题目设置：36题至 40题均为细节理解题。\n◎ 英汉对照\n［1］@Scientific papers are the recordkeepers of progress in\n科学论文是研究进展的记录者。每年，研\nresearch. @Each year researchers publish millions of papers in\n究人员在3万多种期刊上发表数百万篇论文。\nmore than 30,000 jourals. ③The scientific community measures\n科学界通过多种方式来衡量那些论文的质量，\nthe quality of those papers in a number of ways, including the\n包括期刊的感知质量（由标题的影响因子反映）\nperceived quality of the journal （as reflected by the title's impact\n和特定论文的累计被引用次数。（36）科学家\nfactor） and the number of citations a specific paper accumulates.\n@The careers of scientists and the reputation of their institutions\n的职业生涯和他们所在机构的声誉取决于他们\ndepend on the number and prestige of the papers they produce，\n所发表的论文的数量和声望，但更多的是取决\nbut even more so on the citations attracted by these papers.\n于这些论文所吸引的引用次数。\n［2］①Citation cartels, where journals, authors, and\n引用卡特尔，即期刊、作者和机构合谋夸\ninstitutions conspire to inflate citation numbers, have existed\n大被引用次数的组织，存在已久。2016年，\nfor a long time. @In 2016, researchers developed an algorithm\n研究人员开发了一种算法来识别可疑的引用模\nto recognize suspicious citation patterns, including groups of\n式，包括成群的很大比例上相互引用的作者，\nauthors that disproportionately cite one another and groups of\n以及大量的频繁相互引用以增加其出版物影响\njournals that cite each other frequently to increase the impact\nfactors of their publications. @Recently, another expression\n因子的期刊。最近，这种掠夺性行为的另一种\nof this predatory behavior has emerged: so-called support\n表现形式已经出现了：（37）所谓的支持服务\nservice consultancies that provide language and other editorial\n咨询公司为独立作者和期刊提供语言和其他编\nsupport to individual authors and to journals sometimes advise\n挥支持，有时会建议投稿者在他们的文章中添\ncontributors to add a number of citations to their articles.\n加一些引文。\n［3］@The advent of electronic publishing and authors' need to\n电子出版的问世和作者为他们的论文寻找\nfind outlets for their papers resulted in thousands of new journals.\n出路的需求导致了数以千计的新期刊的出现。\n@The birth of predatory journals wasn't far behind. @These\njournals can act as milk cows. where every single article in\n掠夺性期刊的诞生紧随其后。（38）这些期刊\nan issue may cite a specific paper or a series of papers. @In\n就像奶牛一样，每期期刊上的每一篇文章都可\nsome instances, there is absolutely no relationship between the\n能引用一篇特定论文或一系列论文。在某些情\ncontent of the article and the citations. SThe peculiar part is\n况下，文章的内容和引文之间完全没有关系。\nthat the journal that the editor is supposedly working for is not\n（38）奇怪的是，据称编辑为之工作的期刊根\nprofiting at all—it is just providing citations to other journals.\n本没有盈利——它只是向其他期刊提供引文。\n©Such practices can lead an article to accrue more than 150\n这样的做法可能会导致一篇文章在发表的同一\ncitations in the same year that it was published\n年内被引用超过150次。\n［4］@How insidious is this type of citation manipulation？\n②In one example, an individual-acting as author, editor，\n这种类型的引用操纵有多狡猾？举一个例\nand consultant—was able to use at least 15 journals as\n子，一个人——作为作者、编辑和顾问—能\ncitation providers to articles published by five scientists at\n够使用至少15种期刊为三所大学的五名科学\n⑦1",
+  "pdf_text_layer": "系、选择和不同的声音。可见，出版商的合并不能多样化地传递知识联系、选择和不同的声音。因而是\n          系、选择和不同的声音。可见，出版商的合并不能多样化地传递知识联系、        ，    I\n         一个令人担忧的趋势，Ｄ选项内容是对劳尼观点的概括，故正确。\n          一个令人担忧的趋势，D 选项内容是对劳尼观点的概括，故正确。\n\n\n                                                              Ｔｅｘｔ\n                                                               Text 4４\n                                                                                                紫\n       命题分折\ng_______________________\n\n®\n       .命题分析\n                                                                                                配雷开教看蜡\n                                                                                                 ■香，卜妆专另\n\n\n       Ｔｅｘｔ４选自２０２０年１２月１日的Ｔｈｅ Ｓｃｉｅｎｔｉｓｔ（《科学家》），原文标题是＂Ｃｉｔａｔｉｏｎｓ Ａｒｅ ｔｈｅ Ｃｕｎｅｎｅｙ ｏＳｃｉｅｎｃｒ＂\n         Text 4 选自 2020 年 12 月 1 日的 The Scientist (《科学家》),原文标题是“Citations Are the Currency of Science\"\n    （《引用是科学的货币》）。文章主要围绕科学论文引用乱象以及如何遏制该现象所展开。\n     (《引用是科学的货币》)。 文章主要围绕科学论文引用乱象以及如何遏制该现象所展开。\n\n       题目设置∶３６\n        题目设置：36题至\n                题至４０ 题均为细节理解题。。\n                   40题均为细节理解题\n\n       英汉对照\n        英汉对照】\n\n         ［１］●Ｓｃｉｅｎｔｉｆｉｃ\n          [1]             ｐａｐｅｒｓ are\n              ®Scientific papers ａｒｅ the\n                                      ｔｈｅ recordkeepers\n                                           ｒｅｃｏｒｄｋｅｅｐｅｒｓ ｏｆ ｐｒｏｇｒｅｓｓ inｉｎ\n                                                         of progress           科学论文是研究进展的记录者。每年，研\n                                                                               科学论文是研究进展的记录者。每年，\n    ｒｅｓｅａｒｃｈ，●Ｅａｃｈ\n     research.     ｙｅａｒ\n               •Each yearｒｅｓｅａｒｃｈｅｒｓ\n                           researchersｐｕｂｌｉｓｈ\n                                       publishｍｉｌｌｉｏｎｓ\n                                               millions ｏｆ ｐａｐｅｒｓ inｉｎ 究人员在3万多种\n                                                        of papers      究人员在３万多种期刊上发表数百万篇论文。\n                                                                                期刊上发表数百万篇论丈。\n    ｍｏｒｅ\n     moreｔｈａｎ\n          than３０，０００ ｊｏｕｒｎａｌｓ．●Ｔｈｅ\n               30,000 journals.     ｓｃｉｅｎｔｉｆｉｅcommunity\n                                •The scientific ｃｏｍｍｕｎｉｔｙmeasures\n                                                          ｍｅａｓｕｒｅｓ 科学界通过多种方\n                                                                   科学界通过多种方式来衡量那些论文的质量、\n                                                                            式来衡量那些论丈的质量，\n    ｔｈｅtheｑｕａｌｉｔｙ\n           quality ｏｆ ｔｈｏｓｅ papers\n                   of those ｐａｐｅｒｓ inｉｎ aａ ｎｕｍｂｅｒ\n                                          number ｏｆ  ｗａｙｓ， including\n                                                  of ways, ｉｎｃｌｕｄｉｎｇ the\n                                                                      ｔｈｅ 包括期刊的感知质量(\n                                                                          包括期刊的感知质量（由标题的影响因子反映）\n                                                                                     由标题的影响因子反映)\n    ｐｅｒｃｅｉｖｅｄ\n     perceivedｑｕａｌｉｔｙ\n                qualityｏｆofｔｈｅ\n                            theｊｏｕｒｎａｌ\n                                journal（ａｓ\n                                        (as ｒｅｆｌｅｃｔｅｄ\n                                            reflected ｂｙ\n                                                      by ｔｈｅ ｔｉｔｌｅ＇ｓimpact\n                                                         the title's ｉｍｐａｃｔ\n                                                                              和特定论文的累计被引用次数。（３６）科学家\n                                                                              和特定论文的累计被引用 次数。(36)\n    ｆａｃｔｏｒ）\n     factor) ａｎｄ\n             and ｔｈｅ\n                  the ｎｕｍｂｅｒ\n                      numberｏｆofｃｉｔａｔｉｏｎｓ\n                                 citations aａ specific\n                                               ｓｐｅｃｉｆｉｃpaper\n                                                        ｐａｐｅｒaccumulates.\n                                                              ａｃｃｕｍｕｌａｔｅｓ．\n    ＯＴｈｅ\n     ❹Theｃａｒｅｅｒｓ ｏｆ ofｓｃｉｅｎｔｉｓｔｓ\n            careers     scientistsａｎｄ\n                                   andｔｈｅ\n                                        theｒｅｐｕｔａｔｉｏｎ\n                                            reputationｏｆofｔｈｅｉｒ\n                                                                              的职业生涯和他们所在机构的声誉取决于他们\n                                                                 ｉｎｓｔｉｔｕｔｉｏｎｓ 的职业生涯和他们所在机\n                                                           their institutions\n                                                                                          构的声誉取决于他们\n\n    ｄｅｐｅｎｄ\n     dependｏｎonｔｈｅ\n                 theｎｕｍｂｅｒ\n                     numberａｎｄandｐｒｅｓｔｉｇｅ\n                                   prestigeｏｆof ｔｈｅ\n                                                the ｐａｐｅｒｓ ｔｈｅｙ produce,\n                                                    papers they          所发表的论文的数量和声望，但更多的是取决\n                                                                ｐｒｏｄｕｃｅ， 所发表的论文的数量和声望，但更多的是取决\n\n    ｂｕｔbutｅｖｅｎ\n           evenｍｏｒｅ\n                moreｓｏsoｏｎonｔｈｅtheｃｉｔａｔｉｏｎｓ\n                                   citations ａｔｔｒａｃｔｅｄ ｂｙ these\n                                             attracted by  ｔｈｅｓｅ papers.\n                                                                 ｐａｐｅｒｓ．      于这些论文所吸引的引用次数。\n                                                                               于这些论文所吸引的引用次数。\n         ［２］●Ｃｉｔａｔｉｏｎ\n          [2]           ｃａｒｔｅｌｓ，where\n              SCitation cartels, ｗｈｅｒｅ journals,\n                                        ｊｏｕｒｎａｌｓ，ａｕｔｈｏｒｓ，  ａｎｄ\n                                                 authors, and                   引用卡特尔，即期刊、作者和机构合谋夸\n                                                                                引用卡特尔，即期刊、作者和机构合谋夸\n    ｉｎｓｔｉｔｕｔｉｏｎｓ\n     institutions ｃｏｎｓｐｉｒｅ\n                  conspire ｔｏ ｉｎｆｌａｔｅcitation\n                           to inflate ｃｉｔａｔｉｏｎnumbers,\n                                               ｎｕｍｂｅｒｓ， have\n                                                         ｈａｖｅ existed\n                                                              ｅｘｉｓｔｅｄ 大被引用次数的组织\n                                                                      大被引用次数的组织，存在已久。２０１６年、\n                                                                                ，存在已久。2016年，\n    ｆｏｒ\n     fbr ａa ｌｏｎｇ ｔｉｍｅ．●Ｉｎ\n            long time.    ２０１６，ｒｅｓｅａｒｃｈｅｒｓ\n                      ❷In 2016, researchers ｄｅｖｅｌｏｐｅｄ\n                                            developed ａｎ ａｌｇｏｒｉｔｈｍ 研究人员开发了一种算法来\n                                                      an algorithm 研究人员开发了一种算法来识别可疑的引用模\n                                                                                识别可疑的引用模\n    ｔｏtoｒｅｃｏｇｎｉｚｅ\n         recognizeｓｕｓｐｉｃｉｏｕｓ\n                   suspiciousｃｉｔａｔｉｏｎ  ｐａｔｔｅｒｎｓ， including\n                              citation patterns,  ｉｎｃｌｕｄｉｎｇ groups\n                                                             ｇｒｏｕｐｓ ofｏｆ 式，包括成群的很大比例上相互\n                                                                         式，包括成群的很大比例上相互引用的作者，\n                                                                                        引用的作者，\n    ａｕｔｈｏｒｓ\n     authorsｔｈａｔ\n             that ｄｉｓｐｒｏｐｏｒｔｉｏｎａｔｅｌｙ ｃｉｔｅone\n                  disproportionately cite ｏｎｅ another\n                                               ａｎｏｔｈｅｒ and\n                                                        ａｎｄ groups\n                                                            ｇｒｏｕｐｓ ofｏｆ 以及大量的频繁相互引用\n                                                                        以及大量的频繁相互引用以增加其出版物影响\n                                                                                    以增加  物影响\n    ｊｏｕｒｎａｌｓ\n     journalsｔｈａｔ\n              that ｃｉｔｅ\n                   cite ｅａｃｈ\n                        each ｏｔｈｅｒ ｆｒｅｑｕｅｎｔｌｙ toｔｏ increase\n                             other frequently       ｉｎｃｒｅａｓｅ the\n                                                              ｔｈｅimpact\n                                                                  ｉｍｐａｃｔ\n    ｆａｃｔｏｒｓ\n      factors ｏｆ  ｔｈｅｉｒ publications.\n               of their  ｐｕｂｌｉｃａｔｉｏｎｓ．●Ｒｅｃｅｎｔｌｙ，                       因子的期刊。最近，这种掠夺性行为的另一种\n                                                            ｅｘｐｒｅｓｓｉｏｎ 因子的期刊。最近，\n                                                   ａｎｏｔｈｅｒ expression\n                                       ©Recently, another\n                                                                                 这种掠夺性行为的另一种\n\n    ｏｆof ｔｈｉｓ  ｐｒｅｄａｔｏｒｙ behavior\n          this predatory   ｂｅｈａｖｉｏｒ has\n                                      ｈａｓ emerged:\n                                           ｅｍｅｒｇｅｄ：ｓｏ－ｃａｌｌｅｄ           表现形式已经出现了∶（３７）所谓的支持服务\n                                                              ｓｕｐｐｏｒｔ 表现形式已经出现了：\n                                                    so-called support             (37)所谓的支持服务\n\n    ｓｅｒｖｉｃｅ\n     serviceｃｏｎｓｕｌｔａｎｃｉｅｓ\n             consultancies ｔｈａｔ\n                            that ｐｒｏｖｉｄｅ\n                                 provide ｌａｎｇｕａｇｅ\n                                         language ａｎｄ\n                                                   andｏｔｈｅｒ\n                                                       other ｅｄｉｔｏｒｉａｌ  咨询公司为独立作者和期刊提供语言和其他编\n                                                              editorial 咨荷公司为独立作 者和期刊提供笛言和其他编\n    ｓｕｐｐｏｒｔ\n     supportｔｏto ｉｎｄｉｖｉｄｕａｌ  ａｕｔｈｏｒｓ and\n                  individual authors ａｎｄ to\n                                         ｔｏ journals\n                                             ｊｏｕｒｎａｌｓsometimes\n                                                      ｓｏｍｅｔｉｍｅｓ advise\n                                                                 ａｄｖｉｓｅ 辑支持，有时\n                                                                        辑支持，有时会建议授稿者在他们的文章中添\n                                                                              会建议投稿者在他\n    ｃｏｎｔｒｉｂｕｔｏｒｓ\n     contributorsｔｏtoａｄｄ\n                      addａ aｎｕｍｂｅｒ\n                             numberｏｆ ofｃｉｔａｔｉｏｎｓ\n                                          citationsｔｏtoｔｈｅｉｒ\n                                                        their ａｒｔｉｃｌｅｓ．\n                                                              articles.       加一些引文。\n                                                                              加一些引丈。\n         ［３］●Ｔｈｅ\n          [3] ®Theａｄｖｅｎｔ\n                   adventｏｆ  ｅｌｅｃｔｒｏｎｉｃ publishing\n                          of electronic  ｐｕｂｌｉｓｈｉｎｇ and\n                                                     ａｎｄ authors\n                                                          ａｕｔｈｏｒｓ＇ｎｅｅｄ ｔｏ\n                                                                5 need to\n                                                                                电子出版的问世和作者为他们的论文寻找\n                                                                                电子出版的问世和作者为他们的论文寻找\n    ｆｉｎｄ\n     findｏｕｔｌｅｔｓ\n          outlets ｆｏｒ  ｔｈｅｉｒpapers\n                  for their  ｐａｐｅｒｓ resulted\n                                     ｒｅｓｕｌｔｅｄ inｉｎthousands\n                                                   ｔｈｏｕｓａｎｄｓ of\n                                                             ｏｆ new\n                                                                 ｎｅｗ journals.\n                                                                     ｊｏｕｒｎａｌｓ． 出路的需求导致了数以千计的新期刊的出现。\n                                                                               出路的需求导致了数以千计的新期刊的出现。\n    Ｔｈｅ\n     •Theｂｉｒｔｈ  ｏｆofｐｒｅｄａｔｏｒｙ\n            birth      predatoryｊｏｕｒｎａｌｓ      ｗａｓｎ＇ｔ far\n                                  journals wasn't       ｆａｒbehind.\n                                                             ｂｅｈｉｎｄ．©These\n                                                                       ＯＴｈｅｓｅ\n                                                                              掠夺性期刊的诞生紧随其后。（３８）这些期刊\n                                                                              掠夺性期刊的诞生紧随其后。(38 )这些期刊\n    ｊｏｕｒｎａｌｓ\n     journals ｃａｎ\n               can ａｃｔ\n                    act ａｓ\n                        as ｍｉｌｋ\n                           milk ｃｏｗｓ\n                                cows ｗｈｅｒｅ\n                                      whereｅｖｅｒｙ\n                                            everyｓｉｎｇｌｅ\n                                                  single ａｒｔｉｃｌｅ  ｉｎ\n                                                          article in\n    ａｎanｉｓｓｕｅ\n         issueｍａｙ\n               mayｃｉｔｅ\n                    citeａ aｓｐｅｃｉｆｉｃ\n                            specific ｐａｐｅｒ\n                                     paper ｏｒ\n                                            or ａa series\n                                                  ｓｅｒｉｅｓ ofｏｆ papers.\n                                                               ｐａｐｅｒｓ．●Ｉｎ 就像奶牛一样，每期期刊上的每一篇文章都可\n                                                                      ®In 就像奶牛一样，每期期刊上的每一篇文章都可\n\n    ｓｏｍｅ\n     someｉｎｓｔａｎｃｅｓ，\n           instances,ｔｈｅｒｅ\n                      thereｉｓ\n                            is ａｂｓｏｌｕｔｅｌｙ ｎｏ relationship\n                               absolutely no ｒｅｌａｔｉｏｎｓｈｉｐbetween\n                                                          ｂｅｔｗｅｅｎ the  能引用一篇特定论文或一系列论文。在某些情\n                                                                   ｔｈｅ 能引用一篇特定 论文或一系列论文 在某些情\n    ｃｏｎｔｅｎｔ\n     contentｏｆofｔｈｅ\n                 theａｒｔｉｃｌｅ\n                     article ａｎｄ\n                             and ｔｈｅ\n                                  the ｃｉｔａｔｉｏｎｓ．  ●Ｔｈｅ ｐｅｃｕｌｉａｒ\n                                       citations. ©The          ｐａｒｔ isｉｓ 况下，文章\n                                                       peculiar part      况下，文章的内容和引文之间完全没有关系。\n                                                                                的内容和引文之间完全没有关系。\n    ｔｈａｔ\n     that ｔｈｅ\n           the ｊｏｕｒｎａｌ\n                journal ｔｈａｔ\n                         that ｔｈｅ ｅｄｉｔｏｒ isｉｓ supposedly\n                              the editor       ｓｕｐｐｏｓｅｄｌｙ ｗｏｒｋｉｎｇ\n                                                          working ｆｏｒ  ｉｓ not\n                                                                   for is ｎｏｔ (38)奇怪的是，\n                                                                              （３８）奇怪的是，据称编辑为之工作的期刊根\n    ｐｒｏｆｉｔｉｎｇ\n     profitingａｔat all\n                  ａｌｌ—ｉｔit ｉｓis just\n                                ｊｕｓｔ ｐｒｏｖｉｄｉｎｇ\n                                     providing ｃｉｔａｔｉｏｎｓ ｔｏ other\n                                               citations to ｏｔｈｅｒ journals.\n                                                                  ｊｏｕｒｎａｌｓ． 本没有盈利— 它只是向\n                                                                            本没有盈利———它只是向其他期刊提供引文。\n                                                                                        其他期刊提供引文。\n    ⑥Ｓｕｃｈ\n    ©Suchｐｒａｃｔｉｃｅｓ\n          practices ｃａｎ\n                     can ｌｅａｄ\n                          lead ａｎ ａｒｔｉｃｌｅ toｔｏaccrue\n                               an article      ａｃｃｒｕｅmore\n                                                      ｍｏｒｅ than\n                                                            ｔｈａｎ 150\n                                                                  １５０\n                                                                              这样的做法可能会导致一篇文章在发表的同一\n                                                                               这样的做法 可能会导致一篇文章在发表的同一\n    ｃｉｔａｔｉｏｎｓ\n     citations ｉｎ ｔｈｅ ｓａｍｅ\n               in the same ｙｅａｒ\n                           year ｔｈａｔ ｉｔwas\n                                that it ｗａｓpublished.\n                                            ｐｕｂｌｉｓｈｅｄ．                        年内被引用超过１５０次。\n                                                                              年内被引用超过150次。\n         ［４］●Ｈｏｗ\n          [4] ®Howｉｎｓｉｄｉｏｕｓ\n                    insidiousｉｓisｔｈｉｓ\n                                  this ｔｙｐｅ\n                                       type ｏｆ ｃｉｔａｔｉｏｎmanipulation?\n                                            of citation ｍａｎｉｐｕｌａｔｉｏｎ？\n                                                                                这种类型的引用操纵有多较猾？举一个例\n                                                                                这种类型的引用操纵有多 狡猾？举一个例\n    ●Ｉｎ\n    ,In ｏｎｅ ｅｘａｍｐｌｅ，ａｎan individual\n        one example,   ｉｎｄｉｖｉｄｕａｌ—ａｃｔｉｎｇ\n                                   —acting ａｓ ａｕｔｈｏｒ，ｅｄｉｔｏｒ，\n                                            as author, editor,\n    ａｎｄ ｃｏｎｓｕｌｔａｎｔ—ｗａｓ\n     and consultant—wasａｂｌｅ\n                        ableｔｏto ｕｓｅ\n                                  use ａｔ\n                                       at ｌｅａｓｔ                  子，一个人—作为作者、编辑和顾问——能\n                                                   ｊｏｕｒｎａｌｓ asａｓ 子，一个人— 作为作者\n                                                １５ journals\n                                          least 15                          、编辑和顾问\n\n    ｃｉｔａｔｉｏｎ\n     citation ｐｒｏｖｉｄｅｒｓ\n               providers ｔｏ\n                          to ａｒｔｉｃｌｅｓ  ｐｕｂｌｉｓｈｅｄ ｂｙby ｆｉｖｅ\n                              articles published       five ｓｃｉｅｎｔｉｓｔｓ ａｔ 够使用至少15种\n                                                            scientists at 够使用至少１５种期刊为三所大学的五名科学\n                                                                                   期刊为三所大学的五名科学\n\n                                                                                                    21J",
+  "quality": {
+    "vision_line_count": 76,
+    "vision_character_count": 3036,
+    "pdf_text_character_count": 17258,
+    "nonempty": true
+  }
+}

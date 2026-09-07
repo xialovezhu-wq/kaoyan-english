@@ -1,0 +1,117 @@
+{
+  "schema_version": "english_capture_event_v2",
+  "event_id": "EVT-20260812-4EF5E2E7B898F951",
+  "event_type": "sentence_captured",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260711-009",
+    "source_article": "articles/2026-07-11-2012-english-i-text-1.md",
+    "source_id": "RAW-ARTICLE-20260711-009",
+    "source_hash": "e5689d55cf9f7c217bf06f335ba6c5a97a78a1c5b4fb712e655c03c546d1a387",
+    "reference_id": "EXAM-READING-2012-T1",
+    "title": "2012 English I Text 1"
+  },
+  "source": {
+    "sentence_id": "Q21-A",
+    "source_sentence": "a supplement to the social cure.",
+    "source_kind": "option",
+    "sentence_hash": "ac694fb8696860515967317626f2cdb2018efc7d161b12081f3c6518902453c0"
+  },
+  "learning": {
+    "first_translation": "它作为一个推动力，对于社会的 cure（我不知道这个词什么意思）来说。",
+    "user_evidence_verbatim": "A 选项：它作为一个推动力，对于社会的 cure（我不知道这个词什么意思）来说。",
+    "user_evidence": [
+      "mistranslated"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "对“社会疗法”的一种补充。",
+    "explanation": "supplement 是“补充物、补充手段”，不是“推动力”；A to B 表示“A 是对 B 的补充”。social cure 是本文作者讨论的一种借助社会群体影响改善行为的“社会疗法”或“社会干预办法”。",
+    "first_breakpoint": "把 supplement 误译为推动力，并且未识别 social cure 的语境义。",
+    "restatement": ""
+  },
+  "candidates": [
+    {
+      "item": "supplement",
+      "candidate_type": "单词",
+      "meaning": "补充物；补充手段",
+      "usage": "a supplement to sth 表示对某事物的补充。",
+      "review_note": "不要与 stimulus 或 driving force 混同。",
+      "decision": "long_term_candidate",
+      "reason": "用户明确误译，且直接影响选项关系。",
+      "source_signal_ids": [
+        "SIG-86693E57BB483939"
+      ]
+    },
+    {
+      "item": "social cure",
+      "candidate_type": "词组",
+      "meaning": "社会疗法；借助群体影响改善行为的社会干预办法",
+      "usage": "本文中的语境术语，不是字面的“社会治愈”。",
+      "review_note": "先按语境识别为方法或机制名称。",
+      "decision": "article_only",
+      "reason": "文章核心术语，适合保留在文章语境中。",
+      "source_signal_ids": [
+        "SIG-421EE93D3913CA77"
+      ]
+    }
+  ],
+  "observed_signals": [
+    {
+      "signal_id": "SIG-86693E57BB483939",
+      "signal_type": "vocabulary",
+      "canonical_term": "supplement",
+      "surface_form": "supplement",
+      "knowledge_state": "mistranslated",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    },
+    {
+      "signal_id": "SIG-421EE93D3913CA77",
+      "signal_type": "phrase",
+      "canonical_term": "social cure",
+      "surface_form": "social cure",
+      "knowledge_state": "mistranslated",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    }
+  ],
+  "source_signal_ids": [
+    "SIG-86693E57BB483939",
+    "SIG-421EE93D3913CA77"
+  ],
+  "capture_coverage": {
+    "schema_version": "english_capture_coverage_v2",
+    "declared_signal_count": 2,
+    "covered_signal_count": 2,
+    "signals": [
+      {
+        "signal_id": "SIG-86693E57BB483939",
+        "terminal_status": "candidate"
+      },
+      {
+        "signal_id": "SIG-421EE93D3913CA77",
+        "terminal_status": "candidate"
+      }
+    ]
+  },
+  "idempotency_key": "2026-08-12-2012-t1-q21-a-option-language-v1",
+  "request_sha256": "fab2cc6eb4c05dfb3a1b90edf1e53cd52c4c977b3648eb1eb075dd9153bcd041",
+  "occurred_at": "2026-08-12T08:59:41Z",
+  "producer": {
+    "role": "foreground_producer",
+    "name": "english_learning_pipeline",
+    "version": "0.1.0"
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none"
+}

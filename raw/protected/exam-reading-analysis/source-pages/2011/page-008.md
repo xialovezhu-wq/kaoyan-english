@@ -1,0 +1,125 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2011-P008
+year: 2011
+pdf_page: 8
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2011 解析 PDF p8｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+①句介绍热议事件开篇。句首 The decision of... to hire.. . as.. . 与句尾 his appointment in 2009同
+指照应，共同说明事件：纽约爱乐乐团宣布任命 Gilbert 为下任音乐总监。现在完成时谓语 has been the
+talk of...（talk 意为“话题，谈论中心”）、强调持续状态的状语 ever since the...announcement、以及转移
+修饰形容词 sudden（表面修饰 announcement，实际指向 the classical world）共同凸显事件反响：令古典
+音乐界颇感意外，自宣布以来一直备受热议，且多日热度不减（暗示任命不循常规）。
+②③句具体说明反响。
+②句概述指出反响“主旋律”：古典音乐界对该任命高度赞赏（the response 回应 the talk of the
+classical-music world）。For the most part 修饰 the response，强调本句所述乃热议的“主旋律”，暗示下文
+将指出“其中夹杂的不同声音”。to say the least（“最起码，至少可以说”）修饰 favorable，凸显古典音乐界
+对任命的高度肯定：最起码是赞许的（即：“赞许”只是保守说法，实际上可能远比这更强烈）。
+③句引用乐评人托马西尼的欢呼例证②句。Hooray！与 sober-sided 形成巨大语义落差“作为一位
+历来严肃持重的音乐评论家，Tommasini 居然发出了如此热烈的欢呼之声”，凸显任命“深得其心”。At
+last！传达“大松一口气”之感，暗示他一直在热切期盼古典音乐界出 Gilbert这样的新帅。
+【深层解读】典型“热议事件”开篇，悬念预示后文走向：本段行文逻辑为“指出热议事件（①句）
+强调热议情形（②③）”，①句凸显任命引发古典音乐界“长期、异乎寻常的热议”，暗示此任命有悖常规，
+且热议中必有两种观点交织；②③句则着笔热议“主旋律（for the most part）”，且着力刻画其“热烈支
+持”。推理可知下文走向：转而指出古典音乐界对任命“尚存疑虑”，且最终引人作者对事件的评论。
+•真题精解
+21. We learn from Para. 1 that Gilbert's appointment
+21. 从第一段可知吉尔伯特的任命已
+。
+has
+［A］ incurred criticism
+［A］招致批判
+［B］
+raised suspicion
+［B］引起怀疑
+［C］ received acclaim
+［C］受到称赞
+［D］ aroused curiosity
+［D］ 引发好奇
+［精准定位］第一段①句指出，纽约爱乐乐团聘请 Gilbert 作为其下任音乐总监的任命决定引发古典
+音乐界热议，②句紧接着指出其反响为古典音乐界在很大程度上是赞同该任命的，③句更是以音乐评论
+家 Tommasini 的欢呼来例证古典音乐界的赞同态度。可见［C］正确。
+［命题解密］正确项［C］ received acclaim 是对②句 favorable, to say the least 以及③句 Hooray! At
+last！的概括。
+［A］利用③句 critic 的同根词 criticism 设置干扰，但文中 critic 是“评论家”之意，且其所言 Hooray！
+At last！ 表明他对任命的态度为“支持”而非“批判”。
+［B］第二段内容“人们认为 Gilbert声名不够显著”确实暗含音乐界对任命的怀疑之音（suspicion），但
+第一段体现的总体态度是“支持赞赏”。
+［D］干扰源自第二段①句 the appointment came as such a surprise，但将其含义“强调人们虽支持任
+命，但还是感到意外”改为“对任命感到好奇/不明其中原因”。
+［技巧总结］本题就“事件反响”命题，也可视为“文中人物（音乐界）观点态度题”。解答此题须注意：
+一、抓取各选项关键差异，简化待处理信息；二、总体把握文中内容、抓住反响/态度主线，切忌舍本逐末
+或对个别词汇断章取义；三、分清观点所属，切勿将作者观点当作文中人物观点。
+具体看本题，先分析选项发现四个动词可忽略，区分点在于四个表示态度的名词 criticism、
+suspicion、acclaim、curiosity。随后阅读原文并进行提炼概括，发现古典音乐界对任命总体为赞赏态度
+（虽然感到吃惊，但并不影响其总体态度）。此外，若把后文的“作者观点当作“古典音乐界观点”，很可能
+会误选 suspicion，故一定避免此类错误。
+8
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+① 旬介绍热议事件开篇。 句首 The decision of. .. to hire... as ...与句尾 hi s appointment in 2009 同
+指照 应，共 同说明 事 件： 纽约爱乐乐团宣布任 命 G il b ert 为下 任 音乐总 监 。 现在完成时谓 语 h as bee n the
+ta lk of. . . ( ta l k 意为“话题，谈论中 心 ”）、强调持续 状 态的 状 语 ever since th e.. . announcem ent 、以及转移
+修饰形容词 sudden （表面修饰 announcement ，实际指向 the classical wo rl d ） 共同凸显 事 件反响： 令古 典
+音 乐界颇感意外，自 宣 布以来 一 直备受热议 ，且多日热度不减（暗 示 任命不循常规） 。
+     ②③ 旬具体说明反晌。
+     ② 旬概述指出反晌“主旋律”：古典音乐界对该任命高度赞赏 （ the response 回应 the talk of the
+classical-music world ） 。 For t he most part 修饰 t h e r es po nse ， 强调j 本句所述乃热议的“主旋律”，暗示下文
+将指 出“ 其 中 央杂的不 同 声音”。 to say th 巳 l east （“最起码，至少可以说”）修饰 favorab l e ，凸显古典音乐界
+对任命的高度肯定： 最 起码是赞许的 （ 即： “赞许”只是保守说法，实际上 可能远比这更强烈 ）。
+     ③ 旬引用乐 评 人托马西尼的欢呼例证 ② 旬。 Hoo r ay ！ 与 sober- s id ed 形成 巨大语义落差“ 作为 一位
+历来严肃持重的音乐评论家， Tommasin i 居然发出了 如此热烈的 欢 呼之 声 ”，凸显任命“ 深得其 心” 。 At
+last ！ 传达“大松 一 口 气”之感， H音示 他 一 直在 热切期盼古典音乐界出 G il b e rt 这样的新 帅 。
+     【深层解读】典型“热议事件 ” 开篇，悬念预示后文走向： 本段行文逻辑 为 “ 指出热议 事 件（ ① 句） 一一
+强调热议情形（ ②③）”，①句 凸 显任命引发古 典 音乐界“长 期 、异乎寻常 的热议”，暗示此任命有悖常规，
+且 热议中必有两种观 点交织；②①句 则 着笔 热议“主旋律（ for th e mos t part ）＂，且着力刻画其“热烈支
+持” 。 推理可知下文走向：转而指出古典音乐界对任命“尚存疑虑”，且最终引人作者对事件的评论 。
+
+                                          :" •： ；莫：题精解：＜ 1'
+ 21. We learn from Para. 1 that Gilbert ’ s appointment   21. 从第一段 可 知 吉尔伯特的任命己              。
+
+
+
+      has
+
+ [A] incurred criti cism                                  [ A ］ 招致批判
+
+ [ BJ raised s usp icion                                  [BJ 引起 怀 疑
+
+ [CJ r ec巳i ved acclaim                                   [CJ 受 到称赞
+
+ [ DJ aro 川巳d curios ity                                  [ DJ 引发好奇
+
+     ［精准定位］ 第一段①句指出，纽约爱乐乐团聘请 G i l b e r t 作为其下任音乐总监 的任命 决定引发古典
+音乐界 热议， ② 句紧接 着指 出其反响为古典音乐界在很大程度上 是赞 同 该任命 的 ，③句更是 以 音乐评 论
+家 Tommas ini 的 欢呼来例证古 典 音乐界 的赞同态度 。 可见 ［ CJ 正 确 。
+     ［ 命题解密 ］ 正确项 ［ CJ received accla im 是 对 ② 句“ vorab l e, to say the l eas t 以及 ③ 句 Hooray! At
+last ！的概括 。
+     [ A］ 利用 ③ 句 critic 的同根词 crit i c i sm 设 置干 扰 ，但文 中 cr iti c 是“评 论 家” 之 意，且其 所 言 Hooray !
+At l ast ！ 表 明他对任命的态度为“支持”而非“批判” 。
+     [ BJ 第 二 段内容“人们认为 Gilb 巳rt 声名 不够显著”确 实 I暗含音乐界对 任命的怀 疑之音（ s u sp i c io时，但
+第一段体 现的总体态度 是“支持赞赏” 。
+     [ DJ 干扰源自第 二 段 ① 句 th e a ppointment came as s uch a s ur p ri se ，但 将其含义“强调人们虽支持任
+命，但还是感 到 意外”改为“对任命感到好奇 ／ 不明其中原因” 。
+     ［技巧总结］ 本题就“事件反 响”命题，也可视为“文中人物（音乐界） 观点态度题” 。解答 此题须 注意 ：
+一 、抓取各选项关键差异，简 化 待处理信息； 二 、总体把握文中内容、抓住反响 ／ 态度主线，切忌舍本逐末
+或对个 别 词汇断章取义 ； 三 、 分清观点所属，切 勿将作 者 观 点当作文中人物 观点 。
+     具 体 看本 题，先分析选项发现四个动词可忽略，区分点在于四个表示态度的名词 cnt 1 c 1 s m 、
+s u s picion 、 acc l a im 、 c uri os it y o 随后阅读原文并进行提炼概括，发现古典音乐界对任命总体为赞赏态度
+（虽然感到吃惊，但并不影 响 其总体态度）。 此外， 若 把 后文的“作者观点当作“古 典 音乐界观点”，很可 能
+会误选 s u sp i c i on ，故 一定 避免此类错误 。
+
+ 8
+```

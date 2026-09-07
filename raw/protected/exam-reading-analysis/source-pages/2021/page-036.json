@@ -1,0 +1,574 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P036",
+  "year": 2021,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.016193524499072853,
+      "text": "【深层解读】首段在精炼阐述网络中立性问题的同时，明确传递了作者的观点态度：1. 从语法上看，",
+      "width": 0.8550420331128071,
+      "x": 0.0945378130804511,
+      "y": 0.9387483357018704
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "时态标记 From the early days... worried...had、there has been... that would prevent...that have been",
+      "width": 0.8907563020268847,
+      "x": 0.058823538566389375,
+      "y": 0.9214380824080073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017612175998611534,
+      "text": "表明“担忧网络运营商不公，要求网络中立性”伴随整个宽带发展历程；2.从衔接上看，That's why 体现",
+      "width": 0.8907563020268846,
+      "x": 0.05672269394454079,
+      "y": 0.9011627906863746
+    },
+    {
+      "confidence": 1,
+      "height": 0.020702861755411694,
+      "text": "因果论证，聚焦对“网络中立法则”的要求，凸显这一需求有理有据。3.从语义上看，本段以“网络中立",
+      "width": 0.8909128295663234,
+      "x": 0.05664442227591126,
+      "y": 0.8813636851091533
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599998385230017,
+      "text": "性”为核心，从网络中立倡导者的担忧切入，首先表明了缺乏网络中立性的后果，随后将网络中立规则的",
+      "width": 0.8907563020268846,
+      "x": 0.05672269568523709,
+      "y": 0.8648255817633425
+    },
+    {
+      "confidence": 1,
+      "height": 0.016253522169415335,
+      "text": "作用提升至维护互联网命脉的高度，展现出了此类规则的必要性。",
+      "width": 0.5672268729678469,
+      "x": 0.05672270364212689,
+      "y": 0.8459302328679936
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016303842140736102,
+      "text": "• 真题精解，",
+      "width": 0.11554621731385106,
+      "x": 0.42436974940504923,
+      "y": 0.8209054596896714
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01331945043429239,
+      "text": "36. There has long been concern that broadband providers",
+      "width": 0.49579833513969174,
+      "x": 0.06722688780830532,
+      "y": 0.7936046510730395
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755798418575849,
+      "text": "36. 长久以来都有人担心，宽带运营商",
+      "width": 0.35714286554296126,
+      "x": 0.5798319315492477,
+      "y": 0.7906976747222274
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418575119137,
+      "text": "would",
+      "width": 0.04831932597077651,
+      "x": 0.0693277324557882,
+      "y": 0.7776162791572079
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "会",
+      "width": 0.018907561697252495,
+      "x": 0.581932773852004,
+      "y": 0.7747093025278103
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395673688379,
+      "text": "。",
+      "width": 0.018907563534775185,
+      "x": 0.6575630251443771,
+      "y": 0.7718023254916442
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "LA］ bring web-based firms under control",
+      "width": 0.3508403388521345,
+      "x": 0.06722688501195806,
+      "y": 0.7543275631354317
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014736165378128718,
+      "text": "［A］ 控制互联网公司",
+      "width": 0.18277309763178895,
+      "x": 0.5798319365570047,
+      "y": 0.752906976946415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "［B］ slow down the traffic on their network",
+      "width": 0.36974788952425036,
+      "x": 0.06722690173647404,
+      "y": 0.7336884154649896
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606772330089834,
+      "text": "［B］降低网络流量的传输速度",
+      "width": 0.260504191551135,
+      "x": 0.579831939255945,
+      "y": 0.7310252998594511
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "LC］ show partiality in treating clients",
+      "width": 0.32142856722851937,
+      "x": 0.06722689607061422,
+      "y": 0.7107558138346675
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014782615412725963,
+      "text": "［C］ 区别对待客户",
+      "width": 0.16176469982933683,
+      "x": 0.5798319371476565,
+      "y": 0.7090545936025838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "LDJ intensify competition with their rivals",
+      "width": 0.3592436979731154,
+      "x": 0.06722689350293812,
+      "y": 0.6889534882702295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "［DJ强化与对手之间的竞争",
+      "width": 0.24369747330917335,
+      "x": 0.5798319376451331,
+      "y": 0.6875000004565894
+    },
+    {
+      "confidence": 1,
+      "height": 0.01618191214915754,
+      "text": "［精准定位］第一段①句指出，自打宽带问世初期，消费者权益倡导者就担心宽带运营商会有如下",
+      "width": 0.8550419743120785,
+      "x": 0.0924369962735826,
+      "y": 0.6642441861419762
+    },
+    {
+      "confidence": 1,
+      "height": 0.016197395705668804,
+      "text": "做法：偏祖自己的关联网站而歧视竟争对手的网站，即区别对待客户。②句进一步说明其影响：宽带运",
+      "width": 0.8907563020268846,
+      "x": 0.05672269568523709,
+      "y": 0.6451398133740119
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669256,
+      "text": "营商可以决定网上的赢家和输家。C是对权益倡导者担忧的正确概括。",
+      "width": 0.6134453628334237,
+      "x": 0.056722704350094647,
+      "y": 0.6264534883607933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016154816242731074,
+      "text": "［命题解密］题干＋正确项C正确改写首段①句：has long been 概括 From the early days of",
+      "width": 0.8571428655429612,
+      "x": 0.09453781806885539,
+      "y": 0.609011628262858
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "broadband;show partiality in treating clients 改写 favor affiliated websites over their rivals’",
+      "width": 0.7773109391934611,
+      "x": 0.05882351714171501,
+      "y": 0.5930232555879378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016092883286558668,
+      "text": "A 利用个别词汇 web-based companies 及宽带运营商可能做法“歧视某些网站”，捏造出运营商意欲",
+      "width": 0.8508403094517702,
+      "x": 0.09663865816802275,
+      "y": 0.5725699070249536
+    },
+    {
+      "confidence": 1,
+      "height": 0.01758120952052533,
+      "text": "控制互联网公司，但文中缺乏信息支持。B将宽带运营商令人担忧的做法“偏祖自身关联网站，限制竞",
+      "width": 0.8907563020268846,
+      "x": 0.05672268674916272,
+      "y": 0.5523255813840491
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01797603195739028,
+      "text": "争对手网络流量的传输速度”泛化为“降低所有网络流量的传输速度”。D源于①句 rivals’一词，但这里",
+      "width": 0.8907563020268846,
+      "x": 0.05672269568523709,
+      "y": 0.5346205058180475
+    },
+    {
+      "confidence": 1,
+      "height": 0.015998048566470358,
+      "text": "指宽带运营商（流量掌控者）对于对手网站（流量使用者）的掣肘，并未涉及宽带运营商之间竞争加剧。",
+      "width": 0.867647027693732,
+      "x": 0.056722713316999455,
+      "y": 0.5159786953387919
+    },
+    {
+      "confidence": 1,
+      "height": 0.016100625064814245,
+      "text": "［技巧总结］事实细节题的基本解答策略是“利用题干关键词返回文章中进行定位一锁定信息并比对",
+      "width": 0.8529411418819244,
+      "x": 0.09453783851281924,
+      "y": 0.4985465119959006
+    },
+    {
+      "confidence": 1,
+      "height": 0.016278682155075774,
+      "text": "选项”；而当单个句子不足以解答试题时，应向其所在句群求助。如本题，根据题干关键词 broadband",
+      "width": 0.8928571344570388,
+      "x": 0.05672269965323323,
+      "y": 0.47936085250600036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016025144472896824,
+      "text": "providers找到的信息 picking winners and losers online 不够具体。因此应将视野提升至段落层面：以因果逻",
+      "width": 0.8907563020268846,
+      "x": 0.05672269568523709,
+      "y": 0.46071904135096997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01619546041983888,
+      "text": "辑表达 That's why 为纽带，确立 worried 与 prevent...from 所涉及内容的语义关联（因为存在担忧，所以需",
+      "width": 0.8907563020268847,
+      "x": 0.05672269705378446,
+      "y": 0.44186046525171463
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016305778061502352,
+      "text": "要制止），从而确定 companies selling broadband connections 与 broadband providers 同指，并随之确定 favor",
+      "width": 0.894957966887193,
+      "x": 0.05672270617825216,
+      "y": 0.42410119843096905
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0160522403793234,
+      "text": "affiliated websites over their rivals’ 与picking..一致，从而确定同样体现“偏祖”之义的C为正确答案。",
+      "width": 0.8508403094517702,
+      "x": 0.05462187058924078,
+      "y": 0.40545938724686903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "① Yet that demand has been almost impossible to",
+      "width": 0.4159663793898273,
+      "x": 0.12815125992693524,
+      "y": 0.3761651128732626
+    },
+    {
+      "confidence": 1,
+      "height": 0.01475745479212942,
+      "text": "然而这一需求一直都几乎不可能被满",
+      "width": 0.33403362061017283,
+      "x": 0.6071428502201237,
+      "y": 0.36750998659721146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014734230092298795,
+      "text": "fill—in part because of pushback® from broadband providers，",
+      "width": 0.48529411418819246,
+      "x": 0.05882353720737418,
+      "y": 0.3561046515467058
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016253522169415446,
+      "text": "足——部分原因就在于宽带运营商、反监管",
+      "width": 0.37605041621507707,
+      "x": 0.5672268952748143,
+      "y": 0.3459302326935749
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01619158921324293,
+      "text": "anti-regulatory conservatives”and the courts. ② A federal",
+      "width": 0.4915966408790191,
+      "x": 0.05462185254368357,
+      "y": 0.33555259661062387
+    },
+    {
+      "confidence": 1,
+      "height": 0.0161257856854109,
+      "text": "的保守派以及各级法院的反对。周二，联邦",
+      "width": 0.37605041621507707,
+      "x": 0.5672268958665511,
+      "y": 0.32689746991801016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014697457121786828,
+      "text": "appeals court weighed in again Tuesday, but instead of",
+      "width": 0.48949577904850067,
+      "x": 0.05672270399815853,
+      "y": 0.3168604657424422
+    },
+    {
+      "confidence": 1,
+      "height": 0.016094819207324806,
+      "text": "上诉法院再次介入，但它并未提供急需的决",
+      "width": 0.37605041621507707,
+      "x": 0.5672268880321675,
+      "y": 0.3081395351245344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "providing a badly needed resolution®",
+      "width": 0.2920167956049043,
+      "x": 0.05672269802212765,
+      "y": 0.29796511684467075
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016228362183755007,
+      "text": "，it only prolonged® the",
+      "width": 0.19957983057393286,
+      "x": 0.34453781700294955,
+      "y": 0.29627163768080944
+    },
+    {
+      "confidence": 1,
+      "height": 0.01616255802098665,
+      "text": "议，而只是延长了这场争论。摆在美国哥伦",
+      "width": 0.3781512486452312,
+      "x": 0.5672269004673004,
+      "y": 0.28761651155288015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660684786211187,
+      "text": "fight. ⑧ At issue before the U. S. Court of Appeals for the",
+      "width": 0.4894957790485007,
+      "x": 0.05672270482974106,
+      "y": 0.27761627949001955
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696439,
+      "text": "比亚特区巡回上诉法院面前的争议焦点是联",
+      "width": 0.37605041621507707,
+      "x": 0.5672268954188721,
+      "y": 0.2716378160371278
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338803292590629,
+      "text": "District of Columbia Circuit was the latest take® of the",
+      "width": 0.4873949466183466,
+      "x": 0.05672270050035034,
+      "y": 0.2616279076672783
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014858096004643495,
+      "text": "邦通信委员会（FCC）就网络中立性（net",
+      "width": 0.38025208107538533,
+      "x": 0.567226905391929,
+      "y": 0.2514534887923452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013348480991612455,
+      "text": "Federal Communications Commission（FCC） on",
+      "width": 0.44747898344359643,
+      "x": 0.05882353079220752,
+      "y": 0.2410119838701792
+    },
+    {
+      "confidence": 1,
+      "height": 0.007267441476550118,
+      "text": "net",
+      "width": 0.027310924493278876,
+      "x": 0.5189075633048311,
+      "y": 0.24273255838599828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014736165378128607,
+      "text": "neutrality）于2017年经由一次政党路线投票通",
+      "width": 0.3781512486452312,
+      "x": 0.5651260525681407,
+      "y": 0.23235685737749123
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014755519506299608,
+      "text": "neutrality, adopted on a party-line® vote in 2017. ④ The",
+      "width": 0.4894957790485007,
+      "x": 0.05672270482974106,
+      "y": 0.22093023297839165
+    },
+    {
+      "confidence": 1,
+      "height": 0.01615288095690115,
+      "text": "过的最新意见。共和党人起草的这一规定不",
+      "width": 0.3781512486452312,
+      "x": 0.5651260561920903,
+      "y": 0.21220930282075534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014838741876472716,
+      "text": "Republican-penned® order not only eliminated® the strict net",
+      "width": 0.4894957790485007,
+      "x": 0.05672270482974106,
+      "y": 0.20173102521781017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "仅废除了 FCC 于2015年（彼时大多数成员是",
+      "width": 0.37605041621507707,
+      "x": 0.5672268954188721,
+      "y": 0.19476744177071403
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "neutrality rules the FCC had adopted when it had",
+      "width": 0.46428570168555816,
+      "x": 0.05672268957213702,
+      "y": 0.18308921413095958
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720930025834628,
+      "text": "a",
+      "width": 0.016806721917007272,
+      "x": 0.5294117648118045,
+      "y": 0.183139534938633
+    },
+    {
+      "confidence": 1,
+      "height": 0.014662620072041,
+      "text": "民主党人）通过的严苛的网络中立性规则，而",
+      "width": 0.37605041621507707,
+      "x": 0.5672268889722935,
+      "y": 0.17441860497693829
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "Democratic majority in 2015, but rejected the commission's",
+      "width": 0.4873949466183466,
+      "x": 0.05672270048284344,
+      "y": 0.16424418668253982
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "且否决了委员会对宽带运营商提出任何行为",
+      "width": 0.37394958378492293,
+      "x": 0.5672268861087391,
+      "y": 0.15552325611481188
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "authority to require broadband providers to do much of",
+      "width": 0.4894957790485007,
+      "x": 0.056722693816085835,
+      "y": 0.14380825566027655
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600966091638556,
+      "text": "要求的权力。（2017年的）规定同时声明，州",
+      "width": 0.37394958378492293,
+      "x": 0.5672268861087391,
+      "y": 0.13515312941329527
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "anything.",
+      "width": 0.0735294070087646,
+      "x": 0.05672269267909104,
+      "y": 0.12500000049673554
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "⑤ The order also declared that state and local",
+      "width": 0.4012604935780197,
+      "x": 0.14495799352086397,
+      "y": 0.12645348837093762
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "政府及地方政府同样不得监管宽带运营商。",
+      "width": 0.3676470570940962,
+      "x": 0.5672268962166074,
+      "y": 0.11627907015135697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013327191577611641,
+      "text": "governments couldn't regulate broadband providers either.",
+      "width": 0.4621848692554039,
+      "x": 0.05672268897173782,
+      "y": 0.10585885467952882
+    },
+    {
+      "confidence": 1,
+      "height": 0.013398800962933222,
+      "text": "36",
+      "width": 0.023109243095265644,
+      "x": 0.06932773115719913,
+      "y": 0.06250000063602801
+    }
+  ],
+  "vision_ocr_text": "【深层解读】首段在精炼阐述网络中立性问题的同时，明确传递了作者的观点态度：1. 从语法上看，\n时态标记 From the early days... worried...had、there has been... that would prevent...that have been\n表明“担忧网络运营商不公，要求网络中立性”伴随整个宽带发展历程；2.从衔接上看，That's why 体现\n因果论证，聚焦对“网络中立法则”的要求，凸显这一需求有理有据。3.从语义上看，本段以“网络中立\n性”为核心，从网络中立倡导者的担忧切入，首先表明了缺乏网络中立性的后果，随后将网络中立规则的\n作用提升至维护互联网命脉的高度，展现出了此类规则的必要性。\n• 真题精解，\n36. There has long been concern that broadband providers\n36. 长久以来都有人担心，宽带运营商\nwould\n会\n。\nLA］ bring web-based firms under control\n［A］ 控制互联网公司\n［B］ slow down the traffic on their network\n［B］降低网络流量的传输速度\nLC］ show partiality in treating clients\n［C］ 区别对待客户\nLDJ intensify competition with their rivals\n［DJ强化与对手之间的竞争\n［精准定位］第一段①句指出，自打宽带问世初期，消费者权益倡导者就担心宽带运营商会有如下\n做法：偏祖自己的关联网站而歧视竟争对手的网站，即区别对待客户。②句进一步说明其影响：宽带运\n营商可以决定网上的赢家和输家。C是对权益倡导者担忧的正确概括。\n［命题解密］题干＋正确项C正确改写首段①句：has long been 概括 From the early days of\nbroadband;show partiality in treating clients 改写 favor affiliated websites over their rivals’\nA 利用个别词汇 web-based companies 及宽带运营商可能做法“歧视某些网站”，捏造出运营商意欲\n控制互联网公司，但文中缺乏信息支持。B将宽带运营商令人担忧的做法“偏祖自身关联网站，限制竞\n争对手网络流量的传输速度”泛化为“降低所有网络流量的传输速度”。D源于①句 rivals’一词，但这里\n指宽带运营商（流量掌控者）对于对手网站（流量使用者）的掣肘，并未涉及宽带运营商之间竞争加剧。\n［技巧总结］事实细节题的基本解答策略是“利用题干关键词返回文章中进行定位一锁定信息并比对\n选项”；而当单个句子不足以解答试题时，应向其所在句群求助。如本题，根据题干关键词 broadband\nproviders找到的信息 picking winners and losers online 不够具体。因此应将视野提升至段落层面：以因果逻\n辑表达 That's why 为纽带，确立 worried 与 prevent...from 所涉及内容的语义关联（因为存在担忧，所以需\n要制止），从而确定 companies selling broadband connections 与 broadband providers 同指，并随之确定 favor\naffiliated websites over their rivals’ 与picking..一致，从而确定同样体现“偏祖”之义的C为正确答案。\n① Yet that demand has been almost impossible to\n然而这一需求一直都几乎不可能被满\nfill—in part because of pushback® from broadband providers，\n足——部分原因就在于宽带运营商、反监管\nanti-regulatory conservatives”and the courts. ② A federal\n的保守派以及各级法院的反对。周二，联邦\nappeals court weighed in again Tuesday, but instead of\n上诉法院再次介入，但它并未提供急需的决\nproviding a badly needed resolution®\n，it only prolonged® the\n议，而只是延长了这场争论。摆在美国哥伦\nfight. ⑧ At issue before the U. S. Court of Appeals for the\n比亚特区巡回上诉法院面前的争议焦点是联\nDistrict of Columbia Circuit was the latest take® of the\n邦通信委员会（FCC）就网络中立性（net\nFederal Communications Commission（FCC） on\nnet\nneutrality）于2017年经由一次政党路线投票通\nneutrality, adopted on a party-line® vote in 2017. ④ The\n过的最新意见。共和党人起草的这一规定不\nRepublican-penned® order not only eliminated® the strict net\n仅废除了 FCC 于2015年（彼时大多数成员是\nneutrality rules the FCC had adopted when it had\na\n民主党人）通过的严苛的网络中立性规则，而\nDemocratic majority in 2015, but rejected the commission's\n且否决了委员会对宽带运营商提出任何行为\nauthority to require broadband providers to do much of\n要求的权力。（2017年的）规定同时声明，州\nanything.\n⑤ The order also declared that state and local\n政府及地方政府同样不得监管宽带运营商。\ngovernments couldn't regulate broadband providers either.\n36",
+  "pdf_text_layer": "【深层解读】首段在精炼阐述网络中立性问题的同时，明确传递了作者的观点态度：1•从语法上看，\n时态标记 From the early days. . . worried. . . had、there has been. . . that would prevent. . . that have been\n表明“担忧网络运营商不公，要求网络中立性”伴随整个宽带发展历程；2.从衔接上看，That's why体现\n因果论证，聚焦对“网络中立法则”的要求，凸显这一需求有理有据。3•从语义上看，本段以“网络中立\n性”为核心，从网络中立倡导者的担忧切入，首先表明了缺乏网络中立性的后果，随后将网络中立规则的\n作用提升至维护互联网命脉的高度，展现出了此类规则的必要性。\n\n                                               •真题精解\n\n 36 ・ There has long been concern that broadband providers        36•长久以来都有人担心 ，宽带运营商\n would         ・                                                   会     O\n [A] bring web-based firms under control                           ［A］控制互联网公司\n [B] slow down the traffic on their network                        ［B］降低网络流量的传输速度\n [C] show partiality in treating clients                           ［C］区别对待客户\n [D] intensify competition with their rivals                       ［D］强化与对手之间的竞争\n  ［精准定位］第一段①句指出，自打宽带问世初期，消费者权益倡导者就担心宽带运营商会有如下\n做法：偏袒自己的关联网站而歧视竞争对手的网站，即区别对待客户。②句进一步说明其影响：宽带运\n营商可以决定网上的赢家和输家。C是对权益倡导者担忧的正确概括。\n    ［命题解密］题干+正确项C正确改写首段①句：has long been概括From the early days of\nbroadband； show partial让y in treating clients 改写 favor affiliated websites over their rivals'0\n    A利用个别词汇web-based companies及宽带运营商可能做法“歧视某些网站”，捏造出运营商意欲\n控制互联网公司，但文中缺乏信息支持。B将宽带运营商令人担忧的做法“偏袒自身关联网站，限制竞\n争对手网络流量的传输速度”泛化为“降低所有网络流量的传输速度”。D源于①句rivals'-词，但这里\n指宽带运营商（流量掌控者）对于对手网站（流量使用者）的掣肘，并未涉及宽带运营商之间竞争加剧。\n  ［技巧总结］事实细节题的基本解答策略是“利用题干关键词返回文章中进行定位亠锁定信息并比对\n选项”;而当单个句子不足以解答试题时，应向其所在句群求助。如本题，根据题干关键词 broadband\nproviders找到的信息picking winners and losers online不够具体。因此应将视野提升至段落层面：以因果逻\n辑表达That's why为纽带，确立worried与prevent. . . from所涉及内容的语义关联（因为存在担忧，所以需\n要制止），从而确定 companies selling broadband connections 与 broadband providers 同指，并随之确定 favor\naffiliated websites over their rivals'与picking... 一致，从而确定同样体现\"偏袒\"之义的C为正确答案。\n\n      II O Yet that demand has been almost impossible to\n                                                                       然而这一需求一直都几乎不可能被满\nfill一in part because of pushback\" from broadband providers,\n                                                                  足— 部分原因就在于宽带运营商、反监管\nanti-regulatory conservatives© and the courts. ❷ A federal        的保守派以及各级法院的反对。周二，联邦\nappeals court weighed in again Tuesday, but instead of\n                                                                  上诉法院再次介入，但它并未提供急需的决\nproviding a badly needed resolution 5 , it only prolonged® the\n                                                                  议，而只是延长了这场争论。摆在美国哥伦\nfight. ❸ At issue before the U. S. Court of Appeals for the\n                                                                  比亚特区巡回上诉法院面前的争议焦点是联\nDistrict of Columbia Circuit was the latest take® of the\n                                                                  邦通信委员会（FCC）就网络中立性（net\nFederal Communications      Commission     ( FCC )    on    net\n                                                                  neutrality）于2017年经由一次政党路线投票通\nneutrality, adopted on a party-line® vote in 2017. O The\n                                                                  过的最新意见。共和党人起草的这一规定不\nRepublican-penned^ order not only eliminated® the strict net\n                                                                  仅废除了 FCC于2015年（彼时大多数成员是\nneutrality rules the FCC had adopted when it had a\n                                                                  民主党人）通过的严苛的网络中立性规则，而\nDemocratic majority in 2015, but rejected the commission's\n                                                                  且否决了委员会对宽带运营商提出任何行为\nauthority to require broadband providers to do much of\n                                                                  要求的权力。（2017年的）规定同时声明，州\nanything. ❺ The order also declared that state and local\n                                                                  政府及地方政府同样不得监管宽带运营商。\ngovernments couldn't regulate broadband providers either.\n\n\n 36",
+  "quality": {
+    "vision_line_count": 69,
+    "vision_character_count": 2658,
+    "pdf_text_character_count": 3792,
+    "nonempty": true
+  }
+}

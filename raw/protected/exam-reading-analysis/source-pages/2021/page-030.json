@@ -1,0 +1,526 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P030",
+  "year": 2021,
+  "pdf_page": 30,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013408478661954937,
+      "text": "二中 producing an image on a silvered copper plate 为 the daguerreotype photographic method 的同位语，",
+      "width": 0.8886554695967305,
+      "x": 0.05672267648314752,
+      "y": 0.9400798935208194
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016149010385241525,
+      "text": "解释其具体的操作方法。随后的 resulting in.•.为现在分词结构作结果状语，as 引导的原因状语从句交",
+      "width": 0.8907563020268847,
+      "x": 0.05462184310420487,
+      "y": 0.9186046512582553
+    },
+    {
+      "confidence": 1,
+      "height": 0.01623029746958482,
+      "text": "代这一结果产生的原因。",
+      "width": 0.21428570168555816,
+      "x": 0.05462185771814519,
+      "y": 0.899467376635532
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01746758640050572,
+      "text": "•语篇分析•",
+      "width": 0.11805018018895269,
+      "x": 0.4220673470325916,
+      "y": 0.8728069046759719
+    },
+    {
+      "confidence": 1,
+      "height": 0.017585080092184957,
+      "text": "第三段针对上文提出的问题，开始分析“维多利亚时期的人们拍照时不笑”的第一个原因（摄影技术",
+      "width": 0.848739477021616,
+      "x": 0.09453782850599864,
+      "y": 0.8459302329392816
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01891083215746525,
+      "text": "原因）：早期摄影“曝光时间长”，很难长时间保持微笑。关键词：①exposure times； ②notoriously long。",
+      "width": 0.8529411418819244,
+      "x": 0.054621862504416044,
+      "y": 0.8255659120994071
+    },
+    {
+      "confidence": 1,
+      "height": 0.01621674919890348,
+      "text": "①句介绍早期摄影技术的局限性：技术落后，曝光时间长。本句由冒号分为前后两个分句，分句一",
+      "width": 0.8487394770216161,
+      "x": 0.09453783300179688,
+      "y": 0.8066860469086913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014831000098217029,
+      "text": "概述早期摄影的技术特点：曝光时间长。During the 1840s and 1850s 与 in the early days of photography",
+      "width": 0.8928571344570387,
+      "x": 0.054621864100261784,
+      "y": 0.7889480693216471
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "共同锁定早期摄影时代，notoriously long（notoriously 意力“［贬义］众所周知”）体现当时人们对于拍照时",
+      "width": 0.8886554695967305,
+      "x": 0.05462183868602856,
+      "y": 0.7703062580679871
+    },
+    {
+      "confidence": 1,
+      "height": 0.01664447403462055,
+      "text": "间过长的普遍厌恶。分句二具体介绍当时最典型的达盖尔式摄影法的成像原理，解释曝光时间长对人",
+      "width": 0.8886554695967305,
+      "x": 0.054621840499253886,
+      "y": 0.7496671106813904
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046595,
+      "text": "们拍照姿势的影响。take several minutes 表明曝光时间长，resulting in...as. .. 构成因果逻辑：一旦在曝",
+      "width": 0.8886554695967305,
+      "x": 0.05462183868602856,
+      "y": 0.7310252996858999
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627481158341615,
+      "text": "光期间改变姿势或调整四肢，就会导致成像模糊（因此人们在拍照期间需要长时间静止不动）。",
+      "width": 0.8067226520163474,
+      "x": 0.054621873991826116,
+      "y": 0.71075581426092
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371502384857,
+      "text": "②句进一步明确“曝光时间长”这一技术局限对人们拍照表情的影响：在镜头前长时间保持露齿笑很难。",
+      "width": 0.8550419743120785,
+      "x": 0.09243698534921306,
+      "y": 0.6904069769849994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016238039247840286,
+      "text": "and so 构成因果逻辑：照相时很难长时间保持不变的露齿笑一不笑便成了常态。前半句中 thought 和",
+      "width": 0.8907563020268846,
+      "x": 0.05252099974286041,
+      "y": 0.6715116281296216
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016141268606985948,
+      "text": "contemplate 都有“想到、考虑”之意，并借助too much to...结构的强烈否定语义（太难而无法⋯⋯），凸",
+      "width": 0.8907563020268847,
+      "x": 0.05252099751596964,
+      "y": 0.6524633821696426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016079335650813542,
+      "text": "显长时间保持微笑之难：想一想都觉得太难。后半句中 non-committal blank stare（non-committal”态度",
+      "width": 0.8865546371665763,
+      "x": 0.05672267508417885,
+      "y": 0.633720930455203
+    },
+    {
+      "confidence": 1,
+      "height": 0.01763152949184621,
+      "text": "不明确的”，blank“木然的，面无表情的”，stare“长时间盯着看”）凸显照片中人物表情的僵化与木然，呼",
+      "width": 0.8886554695967305,
+      "x": 0.05462185354197076,
+      "y": 0.6131824236153839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017496051229586196,
+      "text": "应上段 posing miserably and stiffly. ..staring absently into the middle distance,the norm（意为“常态；惯",
+      "width": 0.8907563020268846,
+      "x": 0.054621860121011195,
+      "y": 0.5930232561296885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01619239812208395,
+      "text": "例”）说明这种木然神情的普遍性，呼应上段末句 this trend。",
+      "width": 0.5106572792479528,
+      "x": 0.054559101824926744,
+      "y": 0.5755442852457471
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013410413312848424,
+      "text": "1 ① But exposure times were much quicker by the",
+      "width": 0.434873930061943,
+      "x": 0.09663867065705362,
+      "y": 0.5432756327807745
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014798098334301013,
+      "text": "但到了19世纪80年代，曝光时间大幅",
+      "width": 0.34453781216130774,
+      "x": 0.5945378194795701,
+      "y": 0.5346205060056213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "1880s, and the introduction® of the Box Brownie and",
+      "width": 0.47478989323669313,
+      "x": 0.054621855640056914,
+      "y": 0.5246338213009566
+    },
+    {
+      "confidence": 1,
+      "height": 0.014647137150466172,
+      "text": "缩短，布朗尼盒式相机及其他便携式相机的",
+      "width": 0.38445377533605796,
+      "x": 0.5525210076470971,
+      "y": 0.5159786953547132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015633021785162127,
+      "text": "other portable®",
+      "width": 0.13321271245879246,
+      "x": 0.05427844444700736,
+      "y": 0.5037990061533817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008833183588264126,
+      "text": "cameras",
+      "width": 0.07352940700876459,
+      "x": 0.19327731452783053,
+      "y": 0.505813953688633
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815838,
+      "text": "meant that, though slow by",
+      "width": 0.26470588581180754,
+      "x": 0.2668067165478779,
+      "y": 0.5043604655161154
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "投入使用更使曝光时间几近一瞬（虽然按照",
+      "width": 0.3865546077662121,
+      "x": 0.5525210122233366,
+      "y": 0.4970930235670544
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "today's digital standards, the exposure was",
+      "width": 0.41386554695967304,
+      "x": 0.05462185526666186,
+      "y": 0.48535286257843957
+    },
+    {
+      "confidence": 1,
+      "height": 0.010652463699625359,
+      "text": "almost",
+      "width": 0.06302520810753853,
+      "x": 0.4684873948958106,
+      "y": 0.4866844206733284
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016054175665153214,
+      "text": "今天的数码标准，这仍然很慢）。19世纪90",
+      "width": 0.3886554695967305,
+      "x": 0.5525210061855284,
+      "y": 0.47529069783650124
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403758,
+      "text": "instantaneous®",
+      "width": 0.11974789687434141,
+      "x": 0.05462185086955197,
+      "y": 0.4680232558564028
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403758,
+      "text": "②",
+      "width": 0.025210082875510853,
+      "x": 0.19537815215468157,
+      "y": 0.4665697674407051
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013645744831679463,
+      "text": "Spontaneous®",
+      "width": 0.1139333059792344,
+      "x": 0.22248702499255352,
+      "y": 0.4664343921949152
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815838,
+      "text": "smiles were relatively",
+      "width": 0.18907562432261565,
+      "x": 0.34033613426726367,
+      "y": 0.46511627946960377
+    },
+    {
+      "confidence": 1,
+      "height": 0.016307713347332164,
+      "text": "年代时，自然的微笑已比较容易捕捉，因此我",
+      "width": 0.3865546077662121,
+      "x": 0.5525210180916839,
+      "y": 0.4563953489726448
+    },
+    {
+      "confidence": 1,
+      "height": 0.010652463382157085,
+      "text": "easy",
+      "width": 0.0378151233945049,
+      "x": 0.05462185048762149,
+      "y": 0.4460719042221388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01613739803532621,
+      "text": "to capture®by the 1890s, so we must look",
+      "width": 0.4285714033711163,
+      "x": 0.10084034159175304,
+      "y": 0.446071903873812
+    },
+    {
+      "confidence": 1,
+      "height": 0.014740036584724558,
+      "text": "们必须转而寻找“维多利亚时代的人为何仍",
+      "width": 0.386554607766212,
+      "x": 0.5525210144782386,
+      "y": 0.43874833526973256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014751648299703657,
+      "text": "elsewhere for an explanation®",
+      "width": 0.26890755067211586,
+      "x": 0.05672269973396995,
+      "y": 0.427325581876163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "of why Victorians still",
+      "width": 0.20588234256457738,
+      "x": 0.32563025385776745,
+      "y": 0.4273255817951851
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01905246549217743,
+      "text": "不愿微笑”的其他原因。",
+      "width": 0.20452110569830795,
+      "x": 0.5522409045557352,
+      "y": 0.4169581774751703
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "hesitated® to smille.",
+      "width": 0.16176469982933678,
+      "x": 0.05462185446208223,
+      "y": 0.409883721330069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016089012714899042,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.22058822837638487,
+      "x": 0.36974789986117745,
+      "y": 0.3661784287594039
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "①introduction ［untra'dAkjn］n. 初次投入使用；采用",
+      "width": 0.3991596611478655,
+      "x": 0.054621854142453685,
+      "y": 0.34154460702349276
+    },
+    {
+      "confidence": 1,
+      "height": 0.014216599546958197,
+      "text": "由自主的",
+      "width": 0.07393604344715277,
+      "x": 0.5250067687191476,
+      "y": 0.3424556537586583
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014753584220469795,
+      "text": "② portable ［'portabl］a. 便携式的",
+      "width": 0.24999999999999997,
+      "x": 0.05462184695378155,
+      "y": 0.3241279072983667
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394403815727,
+      "text": "《",
+      "width": 0.012605041437755427,
+      "x": 0.4936974791410662,
+      "y": 0.3328488378998363
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014753584220469684,
+      "text": "⑤capture ［'keeptja（r）］v.拍摄",
+      "width": 0.23739496131852877,
+      "x": 0.5252100806702674,
+      "y": 0.32412790727760266
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403869,
+      "text": "③instantaneous ［unstan'teinias］ a. 立即的；立刻的",
+      "width": 0.38025208107538533,
+      "x": 0.05672270212687307,
+      "y": 0.3081395348825655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "⑥explanation ［rekspla'nei/n］ n.解释；理由",
+      "width": 0.3277310939193461,
+      "x": 0.5231092402252009,
+      "y": 0.30668604626441553
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013377512183868734,
+      "text": "④spontaneous ［sppn 'teinios］a.（动作等）无意识的，不",
+      "width": 0.4495798158737506,
+      "x": 0.05672269335864297,
+      "y": 0.2889480693133436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01470906947170214,
+      "text": "⑦ hesitate ［'hezitert］v. 有疑虑；不愿意",
+      "width": 0.3067226814167119,
+      "x": 0.5231092500829605,
+      "y": 0.2876165116124062
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01467036121536025,
+      "text": "•语篇分析•",
+      "width": 0.12184873665458662,
+      "x": 0.420168069865984,
+      "y": 0.26162790744786846
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739017,
+      "text": "第四段介绍维多利亚晚期情形“摄影技术显著进步，可轻易捕捉微笑”，进一步引出对“维多利亚人",
+      "width": 0.8508403094517702,
+      "x": 0.09453783454482309,
+      "y": 0.23368841514521355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01605804623681284,
+      "text": "拍照时不笑”的深层原因探讨。关键词：①exposure times... much quicker by the 1880s； ②Spontaneous",
+      "width": 0.8949579668871929,
+      "x": 0.052521025505983206,
+      "y": 0.21504660470333292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013377511548932408,
+      "text": "smiles...easy to capture by the 1890s。",
+      "width": 0.32563023208882763,
+      "x": 0.05252102383653838,
+      "y": 0.19767441905293703
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01621674919890348,
+      "text": "①句指出19世纪80年代摄影技术取得显著进步。and 标示语义递进：两分句中 exposure times、the",
+      "width": 0.8550419743120785,
+      "x": 0.0924369961247731,
+      "y": 0.177097203860913
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600385505889601,
+      "text": "exposure 同指，much quicker、almost instantaneous 呈现摄影技术的突破性成就“曝光时间大幅缩短，几",
+      "width": 0.8928571344570388,
+      "x": 0.0525210077977412,
+      "y": 0.158430232653604
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016135462114560184,
+      "text": "乎接近一瞬”，其中分句二以 meant（产生⋯⋯结果）呈递因果逻辑“便携式相机投入使用一曝光几乎瞬间",
+      "width": 0.8907563020268846,
+      "x": 0.05462184209580141,
+      "y": 0.14098837254822605
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016121914478815058,
+      "text": "完成”，though 则以退为进，指出虽然比不上如今的数码摄影速度，但当时的摄影技术已然突飞猛进。",
+      "width": 0.8613445304032694,
+      "x": 0.054621863212230566,
+      "y": 0.12050599218444136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01797603195739017,
+      "text": "②句指出19世纪90年代拍摄微笑并非难事（但人们依然不笑），进而引出对这一现象的深层思考。",
+      "width": 0.8550419743120785,
+      "x": 0.09243699921475901,
+      "y": 0.09853528628841957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "so提示因果逻辑：Spontaneous smiles were relatively easy to capture 与前文 The thought of holding a fixed",
+      "width": 0.8949579668871929,
+      "x": 0.05462186807951249,
+      "y": 0.0843023261447492
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403758,
+      "text": "30",
+      "width": 0.023109243095265644,
+      "x": 0.06722689122247522,
+      "y": 0.06249999998846256
+    }
+  ],
+  "vision_ocr_text": "二中 producing an image on a silvered copper plate 为 the daguerreotype photographic method 的同位语，\n解释其具体的操作方法。随后的 resulting in.•.为现在分词结构作结果状语，as 引导的原因状语从句交\n代这一结果产生的原因。\n•语篇分析•\n第三段针对上文提出的问题，开始分析“维多利亚时期的人们拍照时不笑”的第一个原因（摄影技术\n原因）：早期摄影“曝光时间长”，很难长时间保持微笑。关键词：①exposure times； ②notoriously long。\n①句介绍早期摄影技术的局限性：技术落后，曝光时间长。本句由冒号分为前后两个分句，分句一\n概述早期摄影的技术特点：曝光时间长。During the 1840s and 1850s 与 in the early days of photography\n共同锁定早期摄影时代，notoriously long（notoriously 意力“［贬义］众所周知”）体现当时人们对于拍照时\n间过长的普遍厌恶。分句二具体介绍当时最典型的达盖尔式摄影法的成像原理，解释曝光时间长对人\n们拍照姿势的影响。take several minutes 表明曝光时间长，resulting in...as. .. 构成因果逻辑：一旦在曝\n光期间改变姿势或调整四肢，就会导致成像模糊（因此人们在拍照期间需要长时间静止不动）。\n②句进一步明确“曝光时间长”这一技术局限对人们拍照表情的影响：在镜头前长时间保持露齿笑很难。\nand so 构成因果逻辑：照相时很难长时间保持不变的露齿笑一不笑便成了常态。前半句中 thought 和\ncontemplate 都有“想到、考虑”之意，并借助too much to...结构的强烈否定语义（太难而无法⋯⋯），凸\n显长时间保持微笑之难：想一想都觉得太难。后半句中 non-committal blank stare（non-committal”态度\n不明确的”，blank“木然的，面无表情的”，stare“长时间盯着看”）凸显照片中人物表情的僵化与木然，呼\n应上段 posing miserably and stiffly. ..staring absently into the middle distance,the norm（意为“常态；惯\n例”）说明这种木然神情的普遍性，呼应上段末句 this trend。\n1 ① But exposure times were much quicker by the\n但到了19世纪80年代，曝光时间大幅\n1880s, and the introduction® of the Box Brownie and\n缩短，布朗尼盒式相机及其他便携式相机的\nother portable®\ncameras\nmeant that, though slow by\n投入使用更使曝光时间几近一瞬（虽然按照\ntoday's digital standards, the exposure was\nalmost\n今天的数码标准，这仍然很慢）。19世纪90\ninstantaneous®\n②\nSpontaneous®\nsmiles were relatively\n年代时，自然的微笑已比较容易捕捉，因此我\neasy\nto capture®by the 1890s, so we must look\n们必须转而寻找“维多利亚时代的人为何仍\nelsewhere for an explanation®\nof why Victorians still\n不愿微笑”的其他原因。\nhesitated® to smille.\n•词汇注释与难句分析。\n①introduction ［untra'dAkjn］n. 初次投入使用；采用\n由自主的\n② portable ［'portabl］a. 便携式的\n《\n⑤capture ［'keeptja（r）］v.拍摄\n③instantaneous ［unstan'teinias］ a. 立即的；立刻的\n⑥explanation ［rekspla'nei/n］ n.解释；理由\n④spontaneous ［sppn 'teinios］a.（动作等）无意识的，不\n⑦ hesitate ［'hezitert］v. 有疑虑；不愿意\n•语篇分析•\n第四段介绍维多利亚晚期情形“摄影技术显著进步，可轻易捕捉微笑”，进一步引出对“维多利亚人\n拍照时不笑”的深层原因探讨。关键词：①exposure times... much quicker by the 1880s； ②Spontaneous\nsmiles...easy to capture by the 1890s。\n①句指出19世纪80年代摄影技术取得显著进步。and 标示语义递进：两分句中 exposure times、the\nexposure 同指，much quicker、almost instantaneous 呈现摄影技术的突破性成就“曝光时间大幅缩短，几\n乎接近一瞬”，其中分句二以 meant（产生⋯⋯结果）呈递因果逻辑“便携式相机投入使用一曝光几乎瞬间\n完成”，though 则以退为进，指出虽然比不上如今的数码摄影速度，但当时的摄影技术已然突飞猛进。\n②句指出19世纪90年代拍摄微笑并非难事（但人们依然不笑），进而引出对这一现象的深层思考。\nso提示因果逻辑：Spontaneous smiles were relatively easy to capture 与前文 The thought of holding a fixed\n30",
+  "pdf_text_layer": "二中 producing an image on a silvered copper plate 为 the daguerreotype photographic method 的同位语，\n解释其具体的操作方法。随后的resulting in...为现在分词结构作结果状语，as引导的原因状语从句交\n代这一结果产生的原因。\n                                          「・语篇分析・' J\n\n      第三段针对上文提出的问题，开始分析“维多利亚时期的人们拍照时不笑”的第一个原因（摄影技术\n原因）：早期摄影\"曝光时间长\"，很难长时间保持微笑。关键词：①exposure times:②notoriously long。\n  ① 句介绍早期摄影技术的局限性：技术落后，曝光时间长。本句由冒号分为前后两个分句，分句一\n概述早期摄影的技术特点：曝光时间长。During the 1840s and 1850s与in the early days of photography\n共同锁定早期摄影时代,notoriously long（notoriously意为\"[贬义]众所周知\"）体现当时人们对于拍照时\n间过长的普遍厌恶。分句二具体介绍当时最典型的达盖尔式摄影法的成像原理，解释曝光时间长对人\n们拍照姿势的影响。take several minutes表明曝光时间长,resulting in. . . as...构成因果逻辑：一旦在曝\n光期间改变姿势或调整四肢，就会导致成像模糊（因此人们在拍照期间需要长时间静止不动）。\n      ② 句进一步明确“曝光时间长”这一技术局限对人们拍照表情的影响：在镜头前长时间保持露齿笑很难。\nand so构成因果逻辑：照相时很难长时间保持不变的露齿笑-不笑便成了常态。前半句中thought和\ncontemplate都有\"想到、考虑\"之意，并借助too much to...结构的强烈否定语义（太难而无法... ），凸\n显长时间保持微笑之难：想一想都觉得太难。后半句中non-committal blank stare （ non-committal44态度\n不明确的”，blank “木然的，面无表情的”，stare “长时间盯着看”）凸显照片中人物表情的僵化与木然，呼\n应上段 posing miserably and stiffly. . . staring absently into the middle distance,the norm（意为\"常态；惯\n例”）说明这种木然神情的普遍性，呼应上段末句this trendo\n\n      IV O But exposure times were much quicker by the\n                                                             但到了 19世纪80年代，曝光时间大幅\n1880s, and the introduction11 of the Box Brownie and\n                                                         缩短，布朗尼盒式相机及其他便携式相机的\nother portable® cameras meant that, though slow by\n                                                         投入使用更使曝光时间几近一瞬（虽然按照\ntoday's digital standards, the exposure was almost\n                                                         今天的数码标准，这仍然很慢）。19世纪90\ninstantaneous®. ❷ Spontaneous1 smiles were relatively\n                                                         年代时，自然的微笑已比较容易捕捉，因此我\neasy to capture\"        by the 1890s, so we must look\n                                                         们必须转而寻找“维多利亚时代的人为何仍\nelsewhere for an explanation® of why Victorians still\n                                                         不愿微笑”的其他原因。\nhesitated   to smile.\n\n                                     「•词汇注释与难句分析・/\n\n（Dintroduction [untra'dAkJn] n.初次投入使用；采用          》由自主的\n② portable ['polabl] a.便携式的                       *   ©capture ^kseptJaCr）] v.拍摄\n③ instantaneous [iinstan'teinias] a.立即的；立刻的       j   ©explanation [leksplo'neijn] n.解释；理由\n④ spontaneous [spon'teinias] a.（动作等）无意识的，不        《   ⑦hesitate ['heziteit] u.有疑虑；不愿意\n                                          :•语篇分析、詔\n\n      第四段介绍维多利亚晚期情形“摄影技术显著进步，可轻易捕捉微笑”，进一步引出对“维多利亚人\n拍照时不笑\"的深层原因探讨o 关键词：①exposure times... much quicker by the 1880s;②Spontaneous\nsmiles... easy to capture by the 1890so\n    ① 句指出19世纪80年代摄影技术取得显著进步。and标示语义递进：两分句中exposure times、the\nexposure同指,much quicker、almost instantaneous呈现摄影技术的突破性成就\"曝光时间大幅缩短 ，几\n乎接近一瞬”，其中分句二以meant（产生……结果）呈递因果逻辑“便携式相机投入使用一曝光几乎瞬间\n完成\", though则以退为进，指出虽然比不上如今的数码摄影速度，但当时的摄影技术已然突飞猛进。\n    ② 句指出19世纪90年代拍摄微笑并非难事（但人们依然不笑），进而引出对这一现象的深层思考。\nso 提75因果逻辑：Spontaneous smiles were relatively easy to capture 与前文 The thought of holding a fixed\n 30",
+  "quality": {
+    "vision_line_count": 63,
+    "vision_character_count": 2368,
+    "pdf_text_character_count": 3008,
+    "nonempty": true
+  }
+}

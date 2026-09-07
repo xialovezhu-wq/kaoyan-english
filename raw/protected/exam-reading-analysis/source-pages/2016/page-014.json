@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P014",
+  "year": 2016,
+  "pdf_page": 14,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.023875808219760875,
+      "text": "•语篇分析•以",
+      "width": 0.15904909623537022,
+      "x": 0.4429593906066259,
+      "y": 0.9088469795331862
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "第三段进而推断禁令若得以实现，或对社会产生的积极意义。关键词为：if fully enforced。",
+      "width": 0.7601712983230065,
+      "x": 0.11777302666290786,
+      "y": 0.8849154744129274
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "①句推断法案可能的积极影响之一：让人们意识到“不应让他人做自己美的仲裁者”。would",
+      "width": 0.8458243768333932,
+      "x": 0.11777302796445989,
+      "y": 0.8660598181320461
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "suggest...they should not let others be arbiters of their beauty（其中 arbiter 意次“仲裁人，裁决人”）批判",
+      "width": 0.8800856199301065,
+      "x": 0.07922913130903682,
+      "y": 0.8444767440049332
+    },
+    {
+      "confidence": 1,
+      "height": 0.020267871018348926,
+      "text": "时尚业“霸据定义美的绝对权”、倡导女性“做自己美的仲裁者”，彰显法令的积极意义。注：本句“虚拟语",
+      "width": 0.880255512807561,
+      "x": 0.07915520533414497,
+      "y": 0.8218266929824808
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017579837645293805,
+      "text": "态”辅以“严格的条件限定”（if fully enforced would..）使得作者对法案积极意义的推断带上了“水中望",
+      "width": 0.8822269366618773,
+      "x": 0.07922915149775497,
+      "y": 0.8036410925021169
+    },
+    {
+      "confidence": 1,
+      "height": 0.016309689173307773,
+      "text": "月”的意味，即事实上法案可能难以彻底实施。",
+      "width": 0.3897216036858686,
+      "x": 0.08137045715064176,
+      "y": 0.7834302326858925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "②句说明可能的积极影响之二：使人们注重“内在品质”胜过“外在形体”。句首评注副词 perhaps",
+      "width": 0.8436830601016224,
+      "x": 0.11991436288280759,
+      "y": 0.7630813951168518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "faintly（a faint hope/possibility 意次 a very small or slight hope/possibility“微弱的，渺茫的”）语用功能类",
+      "width": 0.8822269951246707,
+      "x": 0.07922912220925625,
+      "y": 0.7425227566476531
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "似①句 if fully enforced，强调本句所述积极影响“即便存在，也是非常微弱”。句中look to 意为“关注［尤",
+      "width": 0.8822269366618773,
+      "x": 0.07922913526649186,
+      "y": 0.7223667102864175
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722671,
+      "text": "指努力改进］”；size zero（直译为“零码，纸片人”，指“极瘦之人”）、wasp-waist physiques（wasp waist 直译",
+      "width": 0.8822269366618773,
+      "x": 0.07922913526649186,
+      "y": 0.7020348835761541
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01626999759550063,
+      "text": "为“蜂腰”，喻指“极细的腰”；physique 意为“体型”）为借代用法，指向时尚业定义的美；intangible qualities",
+      "width": 0.8822269951246707,
+      "x": 0.08137044983238252,
+      "y": 0.6814044211418142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "like... Cintangible 意为 abstract or is hard to define or measure”难以捉摸/确定的”）则为法令意在引导人",
+      "width": 0.8843683118564416,
+      "x": 0.07708778531018047,
+      "y": 0.6612483742452913
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "们关注的美：无形的、深刻的内在美。",
+      "width": 0.3104925046021911,
+      "x": 0.08137045315928985,
+      "y": 0.6395348839804962
+    },
+    {
+      "confidence": 1,
+      "height": 0.017642210921943624,
+      "text": "【深层解读】本段一方面延续上段的“肯定态度”、推断法案可能产生的积极影响，另一方面又以虚拟",
+      "width": 0.8458243768333933,
+      "x": 0.11563170860685806,
+      "y": 0.618985695620816
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997386,
+      "text": "语气 if fully enforced、评注副词 perhaps faintly、以及影响引出词 suggest，hint 弱化这一积极影响，使作",
+      "width": 0.8822269366618773,
+      "x": 0.07922914340353666,
+      "y": 0.5988296488211922
+    },
+    {
+      "confidence": 1,
+      "height": 0.016287008094539535,
+      "text": "者的肯定带上深深的疑虑，为下文对法令展开正面批驳做铺垫。",
+      "width": 0.5417558808893079,
+      "x": 0.07922911916455395,
+      "y": 0.5799418603385089
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013153219409044792,
+      "text": "I（",
+      "width": 0.03211991540316879,
+      "x": 0.11991434668813723,
+      "y": 0.5479651162363816
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013153218788970467,
+      "text": "①The French measures, however, rely too much",
+      "width": 0.4197002133190404,
+      "x": 0.14989294102070796,
+      "y": 0.5479651168080062
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "然而，法国的措施过于依赖严厉惩罚",
+      "width": 0.3233404634556094,
+      "x": 0.6316916498300114,
+      "y": 0.5390117037870698
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00872092997299212,
+      "text": "on",
+      "width": 0.023554602802028146,
+      "x": 0.08137045024067044,
+      "y": 0.5290697677169923
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013192910986851936,
+      "text": "severe①",
+      "width": 0.06423982349848839,
+      "x": 0.10706638268330404,
+      "y": 0.5290697678254481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "punishment® to change a",
+      "width": 0.23554602436635688,
+      "x": 0.1820128589802761,
+      "y": 0.5273081923043024
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011892521489891283,
+      "text": "culture that still",
+      "width": 0.152034262587741,
+      "x": 0.41755888393632234,
+      "y": 0.5290697675058929
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "来改变一种依然将美视为外表的、骨感的",
+      "width": 0.36402568597903195,
+      "x": 0.5910064319569507,
+      "y": 0.5188556569874457
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013196691580029674,
+      "text": "regards beauty as",
+      "width": 0.15203426258774094,
+      "x": 0.08137045090634361,
+      "y": 0.5071521457991413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013196690959955237,
+      "text": "skin-deep-and bone-showing.",
+      "width": 0.2462526811037027,
+      "x": 0.23554603221759918,
+      "y": 0.507152145671961
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013606235171790493,
+      "text": "② Under",
+      "width": 0.07727745026920951,
+      "x": 0.49241052604363067,
+      "y": 0.5070050219809448
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "文化。根据该项法律，雇用未达政府规定",
+      "width": 0.36402568597903195,
+      "x": 0.593147759182402,
+      "y": 0.4985465116492439
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011781004842453036,
+      "text": "the law, using",
+      "width": 0.1391862891186243,
+      "x": 0.08137045519086623,
+      "y": 0.48691860492110606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053316018,
+      "text": "a fashion model that does not meet a",
+      "width": 0.3511777271256137,
+      "x": 0.21841542494540137,
+      "y": 0.48829648877364007
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "身体质量指数的时尚模特可导致85000 美",
+      "width": 0.36402568597903195,
+      "x": 0.5910064259255448,
+      "y": 0.47965116291010346
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014735381841969653,
+      "text": "government-defined index®|",
+      "width": 0.22946055912880148,
+      "x": 0.08116666775678351,
+      "y": 0.466492463066311
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01457457548620178,
+      "text": "of body mass® could result in a",
+      "width": 0.26124195668889194,
+      "x": 0.30835118875048606,
+      "y": 0.4665697676581655
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "元罚款及六个月监禁。",
+      "width": 0.19057815376369425,
+      "x": 0.5910064280699728,
+      "y": 0.4577373213096916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "$85,000 fine® and six months in prison.",
+      "width": 0.34475374769890443,
+      "x": 0.08565311048316715,
+      "y": 0.44603380995039
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016287008094539646,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22269806551293853,
+      "x": 0.39186296146194605,
+      "y": 0.4037711316032888
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "①severe ［si/'v］ a. 严厉的，重的",
+      "width": 0.24625268110370271,
+      "x": 0.07922912161088949,
+      "y": 0.3777633291561777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013446986442734565,
+      "text": "• 经典搭配",
+      "width": 0.10502264234754777,
+      "x": 0.5459897503648597,
+      "y": 0.3791776696268436
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "②punishment ［'pAni/mont］n.惩罚，处罚",
+      "width": 0.3126338213339619,
+      "x": 0.0792291310032545,
+      "y": 0.35890767212933383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013185351040645443,
+      "text": "①severe punishment（严厉惩罚）",
+      "width": 0.24839399783547345,
+      "x": 0.5460385460501433,
+      "y": 0.3589076721670137
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01329875705456074,
+      "text": "③index ［'indeks］n. 指数",
+      "width": 0.19486081645863262,
+      "x": 0.0792291226272147,
+      "y": 0.34135240592417404
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0159883722372266,
+      "text": "②regard as（把⋯⋯认作，把⋯⋯当作）",
+      "width": 0.29764454574877275,
+      "x": 0.5438972144114809,
+      "y": 0.3372093020536251
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013259064856679381,
+      "text": "④ mass ［maes］ n. 质量",
+      "width": 0.16916488413609765,
+      "x": 0.07922911940946725,
+      "y": 0.3224967491394972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013132428316828149,
+      "text": "③result in（导致，造成）",
+      "width": 0.18201284298951592,
+      "x": 0.5438972164870408,
+      "y": 0.3197674416905967
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "⑤fine ［fam］n.罚金，罚款",
+      "width": 0.2034261126171127,
+      "x": 0.07922912953191474,
+      "y": 0.3023255814299678
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394339413799,
+      "text": "s",
+      "width": 0.01284796524778642,
+      "x": 0.5139186299385622,
+      "y": 0.3037790700541304
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023543108579241245,
+      "text": "•语篇分析•这",
+      "width": 0.15845824201445013,
+      "x": 0.4453961455268832,
+      "y": 0.2555266584542387
+    },
+    {
+      "confidence": 1,
+      "height": 0.017574167065564583,
+      "text": "第四段转而指出法国措施的局限性：“严惩性”法令难以改变根深蒂固的审美文化。关键词为：rely",
+      "width": 0.8415417433698515,
+      "x": 0.11991435891464594,
+      "y": 0.22951885575626485
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013174010501261435,
+      "text": "too much on severe punishment。",
+      "width": 0.2655246193838302,
+      "x": 0.0792291282631169,
+      "y": 0.2106631987529094
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "①句指出法国举措的问题：过于依赖严厉的惩罚。however 转换情感基调：从前文“肯定”转入本段",
+      "width": 0.8415417433698515,
+      "x": 0.11991435313306141,
+      "y": 0.1889534881401077
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014597256564970018,
+      "text": "的“批驳”；rely too much on...to change a culture... 以 too...to...结构（太⋯⋯而不能⋯•）明确否定",
+      "width": 0.8779443031983358,
+      "x": 0.0835118030760637,
+      "y": 0.17005813984808804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014546224447778644,
+      "text": "法案的效力。that 定语从句和主句 severe punishment 间暗含巨大落差——当今整个社会都将美等同于",
+      "width": 0.8800856199301066,
+      "x": 0.0813704725525362,
+      "y": 0.1482444730933915
+    },
+    {
+      "confidence": 1,
+      "height": 0.01895487665044937,
+      "text": "外形的骨感，指望单纯通过“对时尚业施以严惩”来改变社会共识并不现实。",
+      "width": 0.6405349088354585,
+      "x": 0.07911180267321813,
+      "y": 0.12639375853845802
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01756471651273206,
+      "text": "②句证明①句，举具体条款说明法令的“严惩性”。Under the law 回应①句 The French measures；",
+      "width": 0.8415417433698515,
+      "x": 0.11991435328830764,
+      "y": 0.10598179463758561
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "could result in 表明“因（行）果（惩罚）”关系：using a fashion model that does not meet... 为“极瘦模特",
+      "width": 0.8822269366618775,
+      "x": 0.07922914403522832,
+      "y": 0.08575581368153207
+    },
+    {
+      "confidence": 1,
+      "height": 0.011813136474053798,
+      "text": "14",
+      "width": 0.023554602802028132,
+      "x": 0.09421841614002804,
+      "y": 0.0668604653619973
+    }
+  ],
+  "vision_ocr_text": "•语篇分析•以\n第三段进而推断禁令若得以实现，或对社会产生的积极意义。关键词为：if fully enforced。\n①句推断法案可能的积极影响之一：让人们意识到“不应让他人做自己美的仲裁者”。would\nsuggest...they should not let others be arbiters of their beauty（其中 arbiter 意次“仲裁人，裁决人”）批判\n时尚业“霸据定义美的绝对权”、倡导女性“做自己美的仲裁者”，彰显法令的积极意义。注：本句“虚拟语\n态”辅以“严格的条件限定”（if fully enforced would..）使得作者对法案积极意义的推断带上了“水中望\n月”的意味，即事实上法案可能难以彻底实施。\n②句说明可能的积极影响之二：使人们注重“内在品质”胜过“外在形体”。句首评注副词 perhaps\nfaintly（a faint hope/possibility 意次 a very small or slight hope/possibility“微弱的，渺茫的”）语用功能类\n似①句 if fully enforced，强调本句所述积极影响“即便存在，也是非常微弱”。句中look to 意为“关注［尤\n指努力改进］”；size zero（直译为“零码，纸片人”，指“极瘦之人”）、wasp-waist physiques（wasp waist 直译\n为“蜂腰”，喻指“极细的腰”；physique 意为“体型”）为借代用法，指向时尚业定义的美；intangible qualities\nlike... Cintangible 意为 abstract or is hard to define or measure”难以捉摸/确定的”）则为法令意在引导人\n们关注的美：无形的、深刻的内在美。\n【深层解读】本段一方面延续上段的“肯定态度”、推断法案可能产生的积极影响，另一方面又以虚拟\n语气 if fully enforced、评注副词 perhaps faintly、以及影响引出词 suggest，hint 弱化这一积极影响，使作\n者的肯定带上深深的疑虑，为下文对法令展开正面批驳做铺垫。\nI（\n①The French measures, however, rely too much\n然而，法国的措施过于依赖严厉惩罚\non\nsevere①\npunishment® to change a\nculture that still\n来改变一种依然将美视为外表的、骨感的\nregards beauty as\nskin-deep-and bone-showing.\n② Under\n文化。根据该项法律，雇用未达政府规定\nthe law, using\na fashion model that does not meet a\n身体质量指数的时尚模特可导致85000 美\ngovernment-defined index®|\nof body mass® could result in a\n元罚款及六个月监禁。\n$85,000 fine® and six months in prison.\n•词汇注释与难句分析•\n①severe ［si/'v］ a. 严厉的，重的\n• 经典搭配\n②punishment ［'pAni/mont］n.惩罚，处罚\n①severe punishment（严厉惩罚）\n③index ［'indeks］n. 指数\n②regard as（把⋯⋯认作，把⋯⋯当作）\n④ mass ［maes］ n. 质量\n③result in（导致，造成）\n⑤fine ［fam］n.罚金，罚款\ns\n•语篇分析•这\n第四段转而指出法国措施的局限性：“严惩性”法令难以改变根深蒂固的审美文化。关键词为：rely\ntoo much on severe punishment。\n①句指出法国举措的问题：过于依赖严厉的惩罚。however 转换情感基调：从前文“肯定”转入本段\n的“批驳”；rely too much on...to change a culture... 以 too...to...结构（太⋯⋯而不能⋯•）明确否定\n法案的效力。that 定语从句和主句 severe punishment 间暗含巨大落差——当今整个社会都将美等同于\n外形的骨感，指望单纯通过“对时尚业施以严惩”来改变社会共识并不现实。\n②句证明①句，举具体条款说明法令的“严惩性”。Under the law 回应①句 The French measures；\ncould result in 表明“因（行）果（惩罚）”关系：using a fashion model that does not meet... 为“极瘦模特\n14",
+  "pdf_text_layer": "二：语贯穿析＜ I\n       第三段进而推断禁令若得以实现，或对社会产生的积极意义。关键词为： if fully enforced 。\n       ① 旬推断法案可能的积极影响之一：让人们意识到“不应让他人做自己美的仲裁者”。 wou l d\ns uggest. .. they shou ld not let others be arbiters of th eir b ea uty （其中 arb i ter 意为“仲裁人、裁决人”）批判\n时尚业“霸据定义 美 的绝对权”、倡导女性“做自己 美 的仲裁者”，彰显法令的积极意义 。注 ：本句“虚拟语\n态”辅以“严格的条件限定”（ if fu lly enforced would . . . ）使得作者对法案积极意义的推断带上了“水中望\n月”的意味，即事实上法案可能难以彻底实施 。\n       ② 旬说明可能的积极影晌之二：使人们注重“内在品质”胜过“外在形体”。 句首评注副词 p e rhap s\nfa intly (a faint hop e/ pos s ibi l ity 意为 a very sma ll or s light hope/ possibi l ity“微弱 的，渺茫的勺语用功能类\n似 ① 句 if fu lly enforced ，强调本句所述积极影响“即便存在，也是非常微弱”。句中 l ook to 意为“关 注［ 尤\n指努力改进了’； size zero （直译为 “ 零 码，纸片人”，指“极瘦之人”）、 w as p-wa i s t physiques( wasp waist 直译\n为“蜂腰”，喻指“极细的腰”； physique 意为“体型”）为借代用法，指向时尚业定义的美； intangib l e qua lities\nlike... (intangible 意为 abstract or is hard to defi ne or m eas ure“难以捉摸／确定的”）则为法令 意在 引导人\n们关 注 的 美 ：无形的、深刻的内在 美。\n       E 深层解读】 本段一方面延续」二段的“肯定态度”、推断法案可能产生的积极影响，另一方面又以虚拟\n语气 if fully e nforc ed 、评注副词 p e rhaps faintl y 、以及 影 响引出词 s u ggest, hint 弱化这 一 积极 影 响 ，使 作\n者的肯定带上深深的疑虑，为下文对法令展开正面批驳做铺垫。\n\n\n       N 0The French meas ures, howeve r, rely too much                      然而，法国的措施过于依赖严厉惩罚\non severe(   punishment(   to change a culture that sti ll\n                                                                           来改变 一 种依然将美视为外表的、骨感的\nregards beauty as skin-deep and bone showing. @ Under\n                                                                           文化 。 根据该项法律，雇用未达政府规定\nthe law, us ing a fashion model that does not m eet a\n                                                                           身体质量指数的时尚模特可导致 85000 美\ngovernment-defined index® of body mass® cou ld res ult m a\n                                                                           元罚款及六个月监禁。\n$ 85,000 fine® and six months in prison.\n\n                                         词          …\n                                                    与…\n                                                  注 …\n                                                          难\n                                                                       析     J\n                                                                 旬 …\n                                                                 ·\n                                             「L\n                                         …   …\n                                                          U            分\n                                                                       …\n                                         …        － 释 …\n                                                     …\n                                                             ，         …\n\n\n\n( severe [s1'via］ α．严厉的， 重 的                            \\\\       ·经典搭配\n( punishment [ 1pAn 山n a nt ] n. 惩罚，处罚                  !        ( severe punishment（严厉惩罚）\n( index [ 1md eks］ η ．指数                                引        ( rega rd as （把 …… 认作，把……当作）\n( mass [ mres ］ η ．质 量                                  ！③ res川\n( fine [ fam ］ η ．罚金，罚款\n\n\n\n                                             ；二毒草分析二 J\n       第四段转而指出法国措施的局限性：“严惩性”法令难以改变根深蒂固的审美文化。关键词为： rely\ntoo much on severe punishment 。\n       ① 旬指出法国举措的问题：过于依赖严厉的惩罚。 however 转换情感 基 调：从前文“肯定”转入本段\n的“批驳”； r e l y too much on .. . to change a cu lture .. .以 too .. . to ...结构（太……而不能……）明确否定\n法案的效力 。 that 定语从句和主句 severe p u nishm e nt 间暗含 巨大落差 一一－ 当今整个社会 都将 美等 同于\n外形的骨感，指望单纯通过“对时尚业施以严惩”来改变社会共识并不现 实。\n       ② 旬证明 ① 旬，举具体条款说明法令的“严惩性”。 Under the l aw 回应①句 The French m eas ures ;\ncou ld result in 表明 “ 因（行为）果（惩罚 ） ” 关 系 ： u sing a fash ion model that does not m ee t. ..为“极瘦模特\n  14",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 1982,
+    "pdf_text_character_count": 3592,
+    "nonempty": true
+  }
+}

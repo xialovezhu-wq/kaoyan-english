@@ -1,0 +1,494 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P034",
+  "year": 2017,
+  "pdf_page": 34,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "VS over 40 different sets of criteria（over 意为“超过，超出”，凸显全面性）强调“新研究评估系统客观全",
+      "width": 0.8768577210989783,
+      "x": 0.07006371012460848,
+      "y": 0.914244185799497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "面—涵盖与实际民生息息相关的方方面面”，并暗示此前唯GDP 论的盛行以及作者对其的否定。to",
+      "width": 0.8811040407840882,
+      "x": 0.07006369820314333,
+      "y": 0.8953488371636276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "get a more rounded assessment of how countries are performing（rounded 意“全面的、完善的”）说明新",
+      "width": 0.8811040407840882,
+      "x": 0.06794055742111924,
+      "y": 0.8750000000582179
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "研究采用此方法的目的，且明确作者对其赞同态度：这才是评估一国成就的正确方式。",
+      "width": 0.7261146559997909,
+      "x": 0.07006370018481772,
+      "y": 0.8561046515541755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01775725807239814,
+      "text": "【深层解读】本段在文中起到“引出并概述新研究、以初步支撑文章观点”的作用：段首 A recent",
+      "width": 0.8471337167072479,
+      "x": 0.10403399937461372,
+      "y": 0.8339869280903143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860523099262,
+      "text": "annual study... sheds light on that question 明确与上文“提出问题——阐释原因”的关系；段中以概述研",
+      "width": 0.8789808809415333,
+      "x": 0.06794054907275802,
+      "y": 0.8154069764971713
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014599482841741063,
+      "text": "究的典型表述（A study）of...短语、..is. ..判断句式、Rather than.•.⋯.",
+      "width": 0.6411889625097096,
+      "x": 0.07006370085767154,
+      "y": 0.7965116282983615
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371107313437,
+      "text": "，取舍结构、以及to...目的",
+      "width": 0.2356687877647735,
+      "x": 0.7112526520040252,
+      "y": 0.7965116282726514
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599407196044922,
+      "text": "状语结构分别点明研究对象、结论、方法、目的。段尾传递作者对新研究的明确赞赏（集中体现于 rather",
+      "width": 0.8811040407840882,
+      "x": 0.07006369820314333,
+      "y": 0.7761627906277748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "than just... VS over 40...形成的鲜明对比以及形容词 rounded 所带有的强烈褒义），预示下文将对新研",
+      "width": 0.8811040407840882,
+      "x": 0.06794055595261254,
+      "y": 0.7572674418147903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "究展开论述、以进一步揭示 GDP 的缺陷。",
+      "width": 0.34819532580403023,
+      "x": 0.07006369881065291,
+      "y": 0.7366013070253228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013358793071672093,
+      "text": "W ① While all of these countries face their own",
+      "width": 0.4543524134911269,
+      "x": 0.10828027478309883,
+      "y": 0.7049418605370077
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "尽管所有这些国家都面临着各自的挑",
+      "width": 0.31847132141229983,
+      "x": 0.6242038320145052,
+      "y": 0.6973856209401063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "challenges, there are a number of consistent\" themes®",
+      "width": 0.4522292828240768,
+      "x": 0.0700636985826538,
+      "y": 0.6843137252940144
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014667882482989891,
+      "text": "• ②",
+      "width": 0.042462843098102554,
+      "x": 0.5180467106165538,
+      "y": 0.683006535839288
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "战，但仍存在许多基调一致的问题。的确，",
+      "width": 0.3588110374902904,
+      "x": 0.5859872661593134,
+      "y": 0.6758169936236228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "Yes, there has been a budding®economic recovery since",
+      "width": 0.4925689989020674,
+      "x": 0.07006368972094092,
+      "y": 0.6640522878062853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014648882548014441,
+      "text": "自2008年全球危机以来，经济已开始复",
+      "width": 0.35668787764773546,
+      "x": 0.5859872669086164,
+      "y": 0.6568627448949031
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017722653407676647,
+      "text": "the 2008 global crash®",
+      "width": 0.20035239341837952,
+      "x": 0.06764764026712876,
+      "y": 0.6409079544127876
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014639382580526439,
+      "text": "，but in key indicators® in areas",
+      "width": 0.2951167673727294,
+      "x": 0.26751592769898547,
+      "y": 0.6437908497679143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313215,
+      "text": "苏；但就健康和教育这类领城的关键指标",
+      "width": 0.35668787764773535,
+      "x": 0.5859872675986377,
+      "y": 0.6351744188976516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011791305292665588,
+      "text": "such as health and education, major economies",
+      "width": 0.44161357113781663,
+      "x": 0.07006369539358312,
+      "y": 0.6248366013502852
+    },
+    {
+      "confidence": 1,
+      "height": 0.010709090638004848,
+      "text": "have",
+      "width": 0.051178952248101095,
+      "x": 0.5115655124127124,
+      "y": 0.6247326639017261
+    },
+    {
+      "confidence": 1,
+      "height": 0.017742057875090977,
+      "text": "而言，主要经济体一直持续下滑。然而，并",
+      "width": 0.35668787764773546,
+      "x": 0.5859872738088285,
+      "y": 0.6130718954242493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488293816052,
+      "text": "continued to decline. ⑧ Yet this isn't the case®with all",
+      "width": 0.48619957772541234,
+      "x": 0.07006369699185855,
+      "y": 0.6031976749916755
+    },
+    {
+      "confidence": 1,
+      "height": 0.017654658298866477,
+      "text": "非所有国家都是如此。一些相对贫困的欧",
+      "width": 0.3588110374902904,
+      "x": 0.5838641205595256,
+      "y": 0.5928104577911716
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322959388782774,
+      "text": "countries. ④ Some relatively poor European countries have",
+      "width": 0.4925689989020674,
+      "x": 0.07006368972094092,
+      "y": 0.582848837408374
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "洲国家在从“公民社会”到“收入平等”再到",
+      "width": 0.3588110374902903,
+      "x": 0.5838641167325618,
+      "y": 0.5755813951166315
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906599855242,
+      "text": "seen huge improvements",
+      "width": 0.22080678556890831,
+      "x": 0.07006370127074744,
+      "y": 0.5625000002611189
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013343592874364929,
+      "text": "across measures including civil",
+      "width": 0.27388534400020914,
+      "x": 0.28874734466656227,
+      "y": 0.5607843137397902
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "“环境”等诸多方面都有巨大提升。",
+      "width": 0.29299363670567935,
+      "x": 0.5817409760208333,
+      "y": 0.5535947711524724
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011949004378973171,
+      "text": "society,income equality and the environment.",
+      "width": 0.3842887513724157,
+      "x": 0.07006369705795343,
+      "y": 0.5418300652000241
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883561477141,
+      "text": "•词汇注释与难句分析",
+      "width": 0.2016985074511905,
+      "x": 0.3800424634983964,
+      "y": 0.4999999996953939
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011901504541534269,
+      "text": "①consistent ［kon'sistont］a. 一致的",
+      "width": 0.26539276298099906,
+      "x": 0.07006369901197763,
+      "y": 0.47647058824482746
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371107313437,
+      "text": "⑥ case ［keis］ n. ［尤指影响某个人或群体的了状况，情",
+      "width": 0.41613585725569135,
+      "x": 0.5329087215313899,
+      "y": 0.4738372095953258
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013392992580638197,
+      "text": "②theme ［0im］n. 主题，基调",
+      "width": 0.2186836403141058,
+      "x": 0.07006370330366885,
+      "y": 0.4578488377172403
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906599855131,
+      "text": "形",
+      "width": 0.031847131411842255,
+      "x": 0.5371549901592593,
+      "y": 0.4578488373250724
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015032679738562149,
+      "text": "③budding ［'bAdi］a.开始发展的",
+      "width": 0.25690021113729383,
+      "x": 0.07006369559908132,
+      "y": 0.4372549022068203
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014787054996864502,
+      "text": "•经典搭配",
+      "width": 0.10835226726349634,
+      "x": 0.5307495577426173,
+      "y": 0.43010647288905324
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014582382775599645,
+      "text": "④crash ［krsel］ n.失败，破产",
+      "width": 0.2186836403141058,
+      "x": 0.07006370194485784,
+      "y": 0.42005814007161735
+    },
+    {
+      "confidence": 1,
+      "height": 0.01335309284185282,
+      "text": "①major economies（主要经济体）",
+      "width": 0.2569002111372939,
+      "x": 0.5329087029026908,
+      "y": 0.4127906978916588
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488293816052,
+      "text": "⑤indicator ［'undukeito（r）］n. 指示物，指示者",
+      "width": 0.34394903529442516,
+      "x": 0.07006370235278736,
+      "y": 0.4011627911762685
+    },
+    {
+      "confidence": 1,
+      "height": 0.014601382710575317,
+      "text": "②income equality（收入平等）",
+      "width": 0.22505307607851333,
+      "x": 0.5329087038715714,
+      "y": 0.39389534917045455
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "语篇分析",
+      "width": 0.09341825992153896,
+      "x": 0.4373673019925215,
+      "y": 0.36191860454949687
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "第四段详述研究发现：主要经济体在改善民生方面表现下滑；一些贫穷国家反而大幅改善（即：GDP",
+      "width": 0.8450106152157026,
+      "x": 0.10403395996115107,
+      "y": 0.33575581446451197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "不能全面评估一国发展）。关键词为：① major economies have continued to decline； ② relatively poor",
+      "width": 0.8832271422756334,
+      "x": 0.06581743557131271,
+      "y": 0.31540697668639883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014725111668405955,
+      "text": "European countries have seen huge improvements。",
+      "width": 0.4078442079387249,
+      "x": 0.06784054957429697,
+      "y": 0.296468422444245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599407196044922,
+      "text": "①句总领段落，指出各国面临许多相似的主要挑战。句子以while 形成让步转折，以“不同——各因",
+      "width": 0.8428874553731477,
+      "x": 0.10615711454626421,
+      "y": 0.2761627905066507
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "情形不同、面临挑战相异（face their own challenges）”凸显“相同—各国面临的许多挑战主题一致",
+      "width": 0.8789808809415333,
+      "x": 0.0700637069814625,
+      "y": 0.2572674418147902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014569083070443356,
+      "text": "（there are a number of consistent themes）”。 a number of consistent themes（consistent 意力“一致的，相",
+      "width": 0.8789808809415333,
+      "x": 0.07006368500694092,
+      "y": 0.23837209336619103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "似的”；theme 意为“主题，主旋律”，这里承 challenges 引申指代“主要问题/挑战”）引领下文论述。",
+      "width": 0.8174097706665272,
+      "x": 0.07006368946503794,
+      "y": 0.21802325584337556
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "②③④句具体论证，分析各国在应对挑战上的不同表现（意在凸显现象：GDP 高增长国家在民生领",
+      "width": 0.8386411940390476,
+      "x": 0.10615710299816913,
+      "y": 0.19607843115253398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01630539613611559,
+      "text": "域表现却持续下滑）。Yes... but...major economies... Yet...relatively poor European countries 在三句",
+      "width": 0.8790654899057421,
+      "x": 0.0679039864533134,
+      "y": 0.1770263613671209
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "间形成“先说明情形 A—再转折过度—后说明与之相反的情形 B”的逻辑。",
+      "width": 0.6645434873737751,
+      "x": 0.07006372109549017,
+      "y": 0.15686274505087905
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "②句说明（包括英国在内的）主要经济体的表现：在健康、教育等关键民生领域的表现持续下滑。作者",
+      "width": 0.8428874553731477,
+      "x": 0.1061571285943885,
+      "y": 0.13660130692166494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "以 Yes...but... 欲抑先扬，重心后置：先退而承认主要经济体确实开始从 2008年全球危机中复苏（a",
+      "width": 0.8811040407840882,
+      "x": 0.07006369820314333,
+      "y": 0.11895424861740289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "budding economic recovery;budding 意为“开始发展的”，暗示经济只是初步回暖，尚未走出危机）；后转而强",
+      "width": 0.8789808809415333,
+      "x": 0.07006370844643077,
+      "y": 0.09738372090151504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014591882743087425,
+      "text": "调它们在重要民生领域的表现却持续下滑（in key indicators... have continued to decline； 其中 continued to",
+      "width": 0.8811040407840882,
+      "x": 0.07006369820314333,
+      "y": 0.07843137272793088
+    },
+    {
+      "confidence": 1,
+      "height": 0.01045751602821099,
+      "text": "34",
+      "width": 0.025477706588249133,
+      "x": 0.08280254829823212,
+      "y": 0.05947712423026441
+    }
+  ],
+  "vision_ocr_text": "VS over 40 different sets of criteria（over 意为“超过，超出”，凸显全面性）强调“新研究评估系统客观全\n面—涵盖与实际民生息息相关的方方面面”，并暗示此前唯GDP 论的盛行以及作者对其的否定。to\nget a more rounded assessment of how countries are performing（rounded 意“全面的、完善的”）说明新\n研究采用此方法的目的，且明确作者对其赞同态度：这才是评估一国成就的正确方式。\n【深层解读】本段在文中起到“引出并概述新研究、以初步支撑文章观点”的作用：段首 A recent\nannual study... sheds light on that question 明确与上文“提出问题——阐释原因”的关系；段中以概述研\n究的典型表述（A study）of...短语、..is. ..判断句式、Rather than.•.⋯.\n，取舍结构、以及to...目的\n状语结构分别点明研究对象、结论、方法、目的。段尾传递作者对新研究的明确赞赏（集中体现于 rather\nthan just... VS over 40...形成的鲜明对比以及形容词 rounded 所带有的强烈褒义），预示下文将对新研\n究展开论述、以进一步揭示 GDP 的缺陷。\nW ① While all of these countries face their own\n尽管所有这些国家都面临着各自的挑\nchallenges, there are a number of consistent\" themes®\n• ②\n战，但仍存在许多基调一致的问题。的确，\nYes, there has been a budding®economic recovery since\n自2008年全球危机以来，经济已开始复\nthe 2008 global crash®\n，but in key indicators® in areas\n苏；但就健康和教育这类领城的关键指标\nsuch as health and education, major economies\nhave\n而言，主要经济体一直持续下滑。然而，并\ncontinued to decline. ⑧ Yet this isn't the case®with all\n非所有国家都是如此。一些相对贫困的欧\ncountries. ④ Some relatively poor European countries have\n洲国家在从“公民社会”到“收入平等”再到\nseen huge improvements\nacross measures including civil\n“环境”等诸多方面都有巨大提升。\nsociety,income equality and the environment.\n•词汇注释与难句分析\n①consistent ［kon'sistont］a. 一致的\n⑥ case ［keis］ n. ［尤指影响某个人或群体的了状况，情\n②theme ［0im］n. 主题，基调\n形\n③budding ［'bAdi］a.开始发展的\n•经典搭配\n④crash ［krsel］ n.失败，破产\n①major economies（主要经济体）\n⑤indicator ［'undukeito（r）］n. 指示物，指示者\n②income equality（收入平等）\n语篇分析\n第四段详述研究发现：主要经济体在改善民生方面表现下滑；一些贫穷国家反而大幅改善（即：GDP\n不能全面评估一国发展）。关键词为：① major economies have continued to decline； ② relatively poor\nEuropean countries have seen huge improvements。\n①句总领段落，指出各国面临许多相似的主要挑战。句子以while 形成让步转折，以“不同——各因\n情形不同、面临挑战相异（face their own challenges）”凸显“相同—各国面临的许多挑战主题一致\n（there are a number of consistent themes）”。 a number of consistent themes（consistent 意力“一致的，相\n似的”；theme 意为“主题，主旋律”，这里承 challenges 引申指代“主要问题/挑战”）引领下文论述。\n②③④句具体论证，分析各国在应对挑战上的不同表现（意在凸显现象：GDP 高增长国家在民生领\n域表现却持续下滑）。Yes... but...major economies... Yet...relatively poor European countries 在三句\n间形成“先说明情形 A—再转折过度—后说明与之相反的情形 B”的逻辑。\n②句说明（包括英国在内的）主要经济体的表现：在健康、教育等关键民生领域的表现持续下滑。作者\n以 Yes...but... 欲抑先扬，重心后置：先退而承认主要经济体确实开始从 2008年全球危机中复苏（a\nbudding economic recovery;budding 意为“开始发展的”，暗示经济只是初步回暖，尚未走出危机）；后转而强\n调它们在重要民生领域的表现却持续下滑（in key indicators... have continued to decline； 其中 continued to\n34",
+  "pdf_text_layer": "VS over 40 diffe rent sets of criter i a(over 意为“超过，超出”，凸显全面性）强调“新研究评估系统客观全\n面 一一涵盖与实际民生息息 相 关 的方方面面 ”，并暗示 此前唯 GDP 论的盛行以及作者对其的否定 。 to\nget a mor e rounded assessm ent of how countri es are performing( ro und ed 意为“全 面的、完 善 的” ） 说明新\n研究 采 用此方 法 的目的 ，且 明确作 者 对其赞同态 度 ：这 才是评估一国成就 的正确方式 。\n       E 深层解读】本段在文中起到“召｜出并概述新研究、以初步支撑文章观点”的作用： 段首 A recent\na nnua l st ud y... s heds light on that q uestion 明确 与上文“提 出问题一一 阐释原因”的 关系；段 中以概述研\n究的典型表述 CA st udy ) of. ..短语、. . . is ...判断句式、 R at h er than. . , . . ..取舍结构、以及 to ...目的\n状语结构分别点明研 究对象 、结论、方法、目的 。段尾传递 作 者对新 研 究 的明确赞赏（集中体现于 rath er\nthan j ust . . . VS over 40 . . .形成的鲜明对比以 及形容 词 round ed 所带有的强烈褒义），预 示 下文将对新研\n究展开论述、以进 一 步揭示 GDP 的缺陷。\n\n\n       IVi O Whil e all of these countries face their own                尽管所有这些国家都面临着各自的挑\nchallenges, there ar e a number of consistent( themes<2l . f:)\n                                                                    战，但仍存在许多基调 一 致的问题 。 的确，\nY es, there has been a budding(       economic recovery s ince\n                                                                    自 2008 年全球危机以来，经济已开始复｜\nthe 2008 global crash© , but in key indicators® in areas\n                                                                    苏；但就健康和教育这类领域的关键指标！\nsuch as hea lt h a nd edu ca tion ,    major economi es have\n                                                                    而言，主妥经济体 一 直持续下滑 。 然而，并｜\ncont inued to decline. @ Yet this isn ’ t the case® with a ll\n                                                                    非所有国家都是如此 。 一 些相对贫困的欧\nco untri es . OSom e relatively poor European countries ha ve\n                                                                    洲国家在从“公民社会吁俨收入平等”再到\nseen huge improvements across measures including civil\n                                                                    “环境”等诸多方面都有巨大提升 。\nsociety, income equa lity and the environment.\n\n\n                                        ：·词汇注释与难：旬分析：：＜ 1'\n( consistent [ k :c>n1s时 :c>nt ］ ι 一 致的                  $   ( case [ ke1s］ η． ［ 尤指影响某个人或群体的 ］ ’ 状况，情\n( theme [ 0i:m ］ 凡主题，基调                                  ：形\n( budding [ 'bAcM ］ α ．开始发展 的\n( crash [ krreJ] 凡失败，破产\n                                                         ： ·经典搭配\n                                                         $   ( major economies （主要经济体）\n( indicator [ 11nd1,ke1t:c>( r ) J 11. 指示物，指示者\n                                                         ； ② ir… 仅1ua li 叫人平等）\n\n                                                 ；三 道毒分析i     : : i/\n       第四段详述研究发现：主要经济体在改善民生方面表现下滑；一些贫穷国家反而大幅改善（ RP :GDP\n不能全面评估一国发展）。关键词为： ① major economies have continued to decline ; (                                   relatively poor\nEuropean countries have seen huge improvements 。\n       ① 旬总领段落，指出各国面临许多相似的主要挑战。 句子以 while 形成让步转折，以“不同 一一一各国\n情形不同、面临挑战相异（ fac e their own challenges ）”凸显“相同 一一 各国面临的许多挑战主题 一 致\n( th er e are a number of consistent them es ）”。 a numb 巳r of consistent themes( co nsistent 意为“ 一 致的，相\n似的”； th e m e 意为“主题 ，主旋律”，这里承 chall enges 引申指代 “主要 问题／挑战”）引领下文论述 。\n\n       ②③④ 旬具体论证，分析各国在应对挑战上的不同表现（意在凸显现象： GDP 高增长国家在民生领\n域表现却持续下滑）。               Y es .. . but .. . major economies . . . Yet. .. rela ti vely poor European countries 在 三 句\n间形成“先说明情形 A一一 再转折过度 一一 后说明与之相反的情形 B”的逻辑。\n       ② 旬说明（包括英国在内的）主要经济体的表现：在健康、教育等关键民生领域的表现持续下滑。 作者\n以 Yes... but .. . 欲 抑先扬， 重 心后置：先退而 承 认 主要经济体确实开 始从 2008 年 全球 危机中 复苏 Ca\nbudding economic recovery; budding 意为“开始 发展 的 ”，暗示经济只是初步 回暖、尚未走出危机 ）；后转 而强\n调它们在重要民生领域的表现却持续下滑（ in key indicators ... have continued to decline ； 其 中 continu ed to\n  34",
+  "quality": {
+    "vision_line_count": 59,
+    "vision_character_count": 2309,
+    "pdf_text_character_count": 3517,
+    "nonempty": true
+  }
+}

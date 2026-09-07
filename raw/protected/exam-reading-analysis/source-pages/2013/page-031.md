@@ -1,0 +1,121 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2013-P031
+year: 2013
+pdf_page: 31
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2013 解析 PDF p31｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+①句直接摆明作者观点：不应对未来极度悲观。But 转承上文，开启下文对悲观态度的反驳论证；
+such gloominess 回指上段末句“人类几乎无未来可期待”的悲观态度，misplaced （not appropriate or
+correct）则明确作者对其否定态度。
+第②至④句从三个方面论证①句观点。
+②句援引化石记录证明，人类也能像许多物种一样生存几百万年。endure for millions of years
+（endure意力 continue in existence,especially under suffering or misfortune“在苦难中持续存活”）展现大量
+物种与威胁不断抗争、历经磨难并得以长久存活的历程；so why shouldn't we 则以反问表强调：人类（不
+弱于这些物种，当然也能长久存在。
+③句通过分析人类在宇宙中所处的位置，指出人类至少可以再存活数万年。a broader look 邀读者
+将审视视角由“实物证据（化石）”拓宽至“浩瀚的宇宙”；and it becomes clear that... 引出拓宽视角得出的
+结论；固定搭配 an excellent chance（chance 指“可能性”）起到凸显作者观点的效果；插入语 if not
+hundreds（of thousands of years）使观点更加中肯、委婉，作者的实际观点是：“人类继续存活几万年”只是
+一种最保守的预计，事实上很可能再存活数十万年。
+④句援引《濒危物种红色名录》关于“智人”的条目，证明人类并无危及存亡的重大威胁。注意句中
+有两处 as，前一个为介词，表“作为”，后一个为连词，引出两个并列的原因状语从句。Listed as Least
+Concern 明确《名录》对“智人”的界定；concern（担忧）由最高级least 限定，表明人类是最无需担忧的物种
+之一。as..，and...两个从句分别从内因和外因角度说明“智人”被列为“无危物种”的原因；其中
+currently、no major threats 体现论述严谨，即“人类未来无需过度悲观”的结论基于可预见的未来。
+【深层解读】本段继前两段“迂回树靶”之后，开启“打靶”模式；而纵观全段，针对“极度悲观态度”的
+驳论论据已非常充分，至此“极度乐观”、“极度悲观”均已被证实欠缺理性思考，提示后文很可能将对“如
+何理性地看待人类未来”展开论述。
+真题精解
+32. The IUCN's "Red List" suggests that human beings are
+32. 世界自然保护联盟《濒危物种红色名
+录》表明人类是
+［A］ a sustained species
+［A］一个可延续的物种
+「B the world's dominant power
+［B］世界的主导力量
+［C］ a threat to the environment
+［C］ 环境的一种威胁
+「D］ a misplaced race
+［D］一个错位的种族
+［精准定位］第三段末句指出“Red List”中对智人的界定：被列为“无危物种（Least Concern）”，鉴于
+其分布广泛，适应性强，数量持续增加，并且不存在导致数量整体下降的重大威胁”。这表明，人类暂时
+没有灭绝的危险，是可延续的物种，［A］正确。
+［命题解密］［A］中 sustained 是对 very widely distributed, adaptable, currently increasing, no major
+threats,Least Concern 等一系列特点的高度概括。
+［B］由“分布极广、没有主要威胁”过度推出“人类主宰世界”。［C］从“数量持续增加”以及《名录》的
+环保性质（the Conservation of Nature），加之上段①句出现的“气候变化”中主观推出“人类威胁环境”，偏
+离《名录》对“人”的客观介绍。［D］张冠李戴：原文是“悲观态度有误（gloominess is misplaced）”，而非全
+盘否定人类。
+［技巧总结］若题干对文中某特定信息（如某人、某组织、某研究等）进行考查，表明这部分内容与段
+落或全文主旨直接相关，因此解题时首先考虑它为哪项要义服务。本题考查第三段中④句提及的某名
+录，Homo sapiens、Red List of...IUCN 等信息乍看复杂，但先从题干得出信息：《名录》对“人类”有所说
+31
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+① 旬直接摆明作者观点：不应对未来极度悲观。 But 转承上文，开启下文 x.J- 悲观态度的反驳论证 ；
+s uch g l oo miness 回指上段末句“人类几乎无未来可期待”的悲观态度， mi s placed ( not appropria te or
+correct ） 则 明确作者对其否定态度 。
+     第 ② 至 ④ 旬从三个方面论证 ① 旬观点。
+     ② 旬援引化石记录证明，人类也能像许多物种一样生存几百万年。 e nd ur e for m illi o n 日 o f yea rs
+( e ndur e意为 co ntinu e in e xi st ence, especially under suffering or misfortune“在苦难 中持 续存活”）展 现 大量
+物种 与威 胁 不 断抗 争、历经磨 难并得以长久存活的历 程； so why s ho uldn ’ t w e 则以 反问表强调 ： 人类（不
+弱于这些物种，） 当然 也能长久存在 。
+     ③ 旬通过分析人类在宇宙中所处的位置，指出人类至少可以再存活数万年。 a broad 巳r l oo k 邀 读者
+将审视视角 El3 “ 实 物证据 （ 化 石） ”拓 宽至“浩瀚 的 宇 宙飞 and i l becomes clear t hat ...引 11:i 拓宽视角得 i i:＼的
+结论；固定搭配 an exce llent cha nce ( c h a nce 指“可能性 ”）起 到凸 显作者观点 的 效果；捅入 i}f if not
+hundreds( o f thousa nds o f years ）使观点更 加中 肯、委婉，作者的实际观点是 ： “人类继续存活几万年”只是
+一 种 最保守的预计，事实上很可 能 再存活数 卡 万年 。
+     ④ 旬援引《濒危物种红色名录》关于“智人”的条目，证明人类并无危及存亡的重大威胁。 注意句中
+
+有两处拙，前 一 个为介词 ，表“作为”，后一个为连同，引 出 两个并列的原因状语从句 。 L i sted as Leas t
+Concern 明确 《名录 》对“智人”的界定； concern （担忧）由最高级 l eas t 限定， 表 明人类 是最无需 担忧的物种
+
+之 一。 as .. . , a nd ...两个从句分别从内因和l 外 因角度 ·iR 明“智人”被列为“无危物种”的原因； 其 中
+c urr e ntly 、 n o major t hrea ts 体现论述严谨，即“人类未来无 需 过度悲观”的结论基于可预见的未来 。
+     【深层解读】本段继前 两段 “迁回 树靶 ”之后，开 ff=；“于J ，阳”模式；而纵观 全段， 针对 “极度悲观态度”的
+驳论论据已非常充分， 至 此 “ 极度乐观”、“极度悲观”均已被证 实欠 缺 理性思考， 提 示后文很 可能将对 “ 如
+何 理性 地 看待 人 类未来 ”展开论述 。
+
+                                                ： ·真题精解~ :fl
+32 . The IUCN ’s “ Red List" suggests that human beings are         32. 世界自然保护联盟《濒危物种红色名
+                                                                          录》表明人类是                   。
+
+
+
+
+ [ A] a s usta in ed spec ies                                        [ A ］ 一个 可延 续的 物种
+
+ [ BJ the wor ld ’ s dom in a nt po we r                            ［巳］ 肚界的 主导力量
+
+ [CJ a threat to t he e nvironment                                   [ CJ 环境的 一 种威胁
+
+ [ DJ a m isp laced race                                             [ DJ 一 个销位的种族
+
+     ［精准定位］第 三 段末句 指出 “ R ed Li s t ”中对智人 的 界定：被列为“无危物 种 （ L east Co n ce rn ）”，鉴于
+其分布广泛，适 应 性强 ，数量持续增 加 ，并且不存在导致数虽 整 体下 ｜璋的 重大 威胁” 。这表 明 ，人类暂 时
+没有灭绝的危险，是可延续的物种，［ A］正确 。
+     ［命题解密］ ［ A ］ 中 s u s ta ined 是对 ve r y wid e ly di s tri bu tee! , adap ta bl e, currentl y 1 n creas 1 吨， no maJor
+thr ea ts, L east Co n ce rn 等一系 列特点的 高度概括 。
+     [BJ 由“分布极 广、没有主要威 胁”过度推出 “ 人 类主宰世界” 。 ［ CJ 从“数量持续增加”以及 《名录》 的
+环保性质 （ the Co n s巳 r vat i o n of Na ture ）， 加 之上段 ① 句 ！±＼ JJ\l 的 “气候变 化” 中主观推出“人类威胁环境”，偏
+离《名录归才“人”的 客观介绍 。［ DJ 张冠李戴 ： 原文是“悲观态度有误（ g loominess is mi sp l aced ）”， 而 非全
+
+盘否定人类 。
+     ［技巧总结］ 若题干对文 中 某特定信息（ 如 某人、某组织、某 研 究等）进行考查，表明这部分内容与段
+落或全文主旨 直接相关 ，因 此 解题 时首先 考虑它为明II 项要义服务 。 本题考查第 三 段中 ④ 句提及的某名
+录， H o mo sa pi e n s 、 R ed Li st of . . . IUCN 等信息乍看复杂，但先从题干得 !:l:\ 信息 ： 《 名录 》对“人类”有所说
+                                                                                                                   31
+```

@@ -1,0 +1,454 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P043",
+  "year": 2014,
+  "pdf_page": 43,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.0237467018469657,
+      "text": "•真题精解•送",
+      "width": 0.16455696369039602,
+      "x": 0.4135021075007936,
+      "y": 0.909630607255631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013376694555962021,
+      "text": "39. The author implies in Paragraph 5 that professors",
+      "width": 0.5021096883605722,
+      "x": 0.06118144901591621,
+      "y": 0.8837209306674335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01781002638522422,
+      "text": "39.作者在第五段中暗示教授们_",
+      "width": 0.280590715079472,
+      "x": 0.580168780988745,
+      "y": 0.8806068602319329
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007317297691405655,
+      "text": "are",
+      "width": 0.029535863591336656,
+      "x": 0.10337552861220788,
+      "y": 0.8647757256005087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906859707382,
+      "text": "LA」 supportive of free markets",
+      "width": 0.2658227796298791,
+      "x": 0.061181441619659466,
+      "y": 0.8415697675488285
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01476498706988738,
+      "text": "［A］ 支持自由市场",
+      "width": 0.16244724609842698,
+      "x": 0.5801687840446683,
+      "y": 0.8401162792155898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014772657983221249,
+      "text": "［B］ conservative about public policy",
+      "width": 0.3059071507947198,
+      "x": 0.06118144144511562,
+      "y": 0.816622691023088
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014772657354148455,
+      "text": "［B］在公共政策上立场保守",
+      "width": 0.2405063292989329,
+      "x": 0.5780590692323901,
+      "y": 0.8166226913227035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013192612137203241,
+      "text": "LCJ biased against classical liberal ideas",
+      "width": 0.33755273928587465,
+      "x": 0.06118143450614855,
+      "y": 0.7935356200249319
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014603914874839252,
+      "text": "［C］对古典人文思想持有偏见",
+      "width": 0.2594936560853688,
+      "x": 0.5780590765353748,
+      "y": 0.7935356198485244
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013292323316307364,
+      "text": "［D］ cautious about intellectual investigation",
+      "width": 0.3713080161376018,
+      "x": 0.06118143961052387,
+      "y": 0.7703488376441777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606507288749104,
+      "text": "［D］对学术研究持谨慎态度",
+      "width": 0.2383966117069638,
+      "x": 0.5801687844155055,
+      "y": 0.7688953494320632
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024884,
+      "text": "［精准定位］第五段指出教授们认为古典人文思想属于非常规、非正当合理的学术研究范围，而作",
+      "width": 0.8438818335989883,
+      "x": 0.08860761343960562,
+      "y": 0.7412790702714527
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024884,
+      "text": "者对人文思想是持积极肯定态度。由此可知，作者实质暗示教授们对古典人文思想持有偏见，［C］正确。",
+      "width": 0.8797468280426844,
+      "x": 0.05274263073076725,
+      "y": 0.72093023293497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014592409762983927,
+      "text": "［命题解密］正确项LCJ中 biased 是对段中 portraying conservative or classical liberal ideas一such as",
+      "width": 0.8459915219595606,
+      "x": 0.08860762159757544,
+      "y": 0.6991279071225666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013234797757030403,
+      "text": "free markets and self-reliance—as falling outside the boundaries of routine, and sometimes legitimate，",
+      "width": 0.8818565164032567,
+      "x": 0.05274263202340674,
+      "y": 0.6800791555689953
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024884,
+      "text": "intellectual investigation 所蕴藏作者观点的最合理推断。",
+      "width": 0.4810126585978658,
+      "x": 0.04852321257870406,
+      "y": 0.655523256190784
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024995,
+      "text": "［A］与“教授们对古典人文思想（包括自由市场）的偏见态度”相悖；［B］与“教授们支持进步的公共政",
+      "width": 0.8417721452384159,
+      "x": 0.09071730992298609,
+      "y": 0.6351744190844372
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024884,
+      "text": "策”相悖；［D］将“教授们认为古典人文思想不属于学术研究范畴”曲解为“他们对学术研究持谨慎态度”。",
+      "width": 0.8628692042325191,
+      "x": 0.05063289980357187,
+      "y": 0.6133720933455806
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024884,
+      "text": "［技巧总结］本题形式上考查作者对人物的看法，直接考点实为长难句正确解读。首先读题，发现四",
+      "width": 0.8417721452384159,
+      "x": 0.08860759125210026,
+      "y": 0.5915697677520728
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371303024995,
+      "text": "个干扰项均为“态度词十介词十对象”结构，也即本题考查教授们对不同事物的不同态度；随后借助语法",
+      "width": 0.8818565164032567,
+      "x": 0.05063293205153608,
+      "y": 0.5697674423572084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371303024884,
+      "text": "知识解读全句，发现该句实为（professors）treat A as B while portraying X as Y 结构，也即选项［AJ、［C］",
+      "width": 0.8818565164032567,
+      "x": 0.050632931376430636,
+      "y": 0.5494186052060457
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860289561184,
+      "text": "均对应X，选项［B］对应 A，选项［D］对应 Y；最后再借形容词 progressive、proper、动名词 falling outside",
+      "width": 0.883966204763829,
+      "x": 0.05063293772884484,
+      "y": 0.5261627905674287
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371303024884,
+      "text": "the boundaries...and sometimes legitimate, intellectual investigation 所蕴藏的情感色彩，得知教授们对",
+      "width": 0.8797468280426844,
+      "x": 0.05063290776135835,
+      "y": 0.5058139537985844
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371932097678,
+      "text": "［A］自由市场持反对态度、对［B］公共政策持进步草新态度、对［C］古典人文思想持排斥态度，对［D］学术",
+      "width": 0.883966204763829,
+      "x": 0.04852321568243172,
+      "y": 0.48401162821113286
+    },
+    {
+      "confidence": 1,
+      "height": 0.016022887267663877,
+      "text": "研究则分门别论（对合理的学术研究持支持中性或正面态度，对不合理的学术研究才会持谨慎态度）。",
+      "width": 0.8565400806880088,
+      "x": 0.052742625021677564,
+      "y": 0.462209302732693
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371303024884,
+      "text": "VI ① The AAAS displays\"",
+      "width": 0.24683543822774484,
+      "x": 0.09071730419836382,
+      "y": 0.42732558195023174
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013403237023265513,
+      "text": "great enthusiasm for",
+      "width": 0.18805117259993864,
+      "x": 0.34583416755532514,
+      "y": 0.4286539215041497
+    },
+    {
+      "confidence": 1,
+      "height": 0.014542553858895357,
+      "text": "美国人文与科学院虽对人文教育表现",
+      "width": 0.32911392738079204,
+      "x": 0.597046408545891,
+      "y": 0.4215039576086542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013200281792391633,
+      "text": "liberal education. ② Yet its report may well set back",
+      "width": 0.4810126585978658,
+      "x": 0.05274261985718519,
+      "y": 0.4083113458190024
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014642265037999591,
+      "text": "出了极大的热情，但其报告由于掩盖了国会",
+      "width": 0.36708861018506045,
+      "x": 0.5590717263684403,
+      "y": 0.40105540923478267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329999360056855,
+      "text": "reform by obscuring®the depth and breadth of the",
+      "width": 0.48101265859786574,
+      "x": 0.052742611038619915,
+      "y": 0.387862796614992
+    },
+    {
+      "confidence": 1,
+      "height": 0.014741976846176619,
+      "text": "要求它阐明的挑战的深度和广度，极有可能",
+      "width": 0.37130801613760167,
+      "x": 0.5548523173320431,
+      "y": 0.38060686020276846
+    },
+    {
+      "confidence": 1,
+      "height": 0.011946217051282071,
+      "text": "challenge",
+      "width": 0.09282700403440045,
+      "x": 0.05274261767337638,
+      "y": 0.36741424810337786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418502243987,
+      "text": "that",
+      "width": 0.04219409241073435,
+      "x": 0.1434599151167144,
+      "y": 0.36918604649015707
+    },
+    {
+      "confidence": 1,
+      "height": 0.011946217051282071,
+      "text": "Congress",
+      "width": 0.09493670701067106,
+      "x": 0.18354430314023415,
+      "y": 0.3674142479580289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013399704779672672,
+      "text": "asked it to illuminate®",
+      "width": 0.22573839384933997,
+      "x": 0.2953586537346126,
+      "y": 0.36918604705551505
+    },
+    {
+      "confidence": 1,
+      "height": 0.015312893094991287,
+      "text": "阻碍改革。",
+      "width": 0.0909737042540335,
+      "x": 0.5568338218432753,
+      "y": 0.35862262315701676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016617343419459973,
+      "text": "［429 words］",
+      "width": 0.10778848056135505,
+      "x": 0.050536138171546854,
+      "y": 0.34416225871511485
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02717758420274885,
+      "text": "•词汇注释与难向分析•送",
+      "width": 0.2669326080673043,
+      "x": 0.358311295110505,
+      "y": 0.29582333637873814
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014600080047245001,
+      "text": "①display ［di'splet］ v. 显示，展示",
+      "width": 0.2552742501328275,
+      "x": 0.05063291457493654,
+      "y": 0.27761627908477593
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02638522427440626,
+      "text": "323mny weslk时能，或许，也许）",
+      "width": 0.26160337367733777,
+      "x": 0.4852320660727235,
+      "y": 0.26583113459560803
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01336135398743965,
+      "text": "②obscure ［ob'skjvo］ v. 掩盖",
+      "width": 0.21518986435228837,
+      "x": 0.05485232738785012,
+      "y": 0.2598944593676559
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906859707382,
+      "text": "②set back（阻碍）",
+      "width": 0.13713079576748077,
+      "x": 0.5168776423764565,
+      "y": 0.261627907132162
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906859707382,
+      "text": "③illuminate Lrlju:minert」v. 阐明，说明",
+      "width": 0.30168774484217853,
+      "x": 0.05274262937215955,
+      "y": 0.24127906963216172
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016038948753578364,
+      "text": "③the depth and breadth of...（⋯⋯的深度和广度）",
+      "width": 0.39482987794839564,
+      "x": 0.5188373711151308,
+      "y": 0.24008417277606842
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014742173116880308,
+      "text": "• 经典搭配",
+      "width": 0.10554510240810584,
+      "x": 0.05271268174219669,
+      "y": 0.21355914607410142
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02451161910487354,
+      "text": "•语篇分析•x",
+      "width": 0.16298026600103271,
+      "x": 0.4154724743195249,
+      "y": 0.18560377855956267
+    },
+    {
+      "confidence": 1,
+      "height": 0.019336808639969227,
+      "text": "末段升华观点：AAAS虽对人文教育极为热情，但其报告并未深刻全面阐明问题，很可能阻碍改革。",
+      "width": 0.8440055408697018,
+      "x": 0.09275788394868596,
+      "y": 0.15660785076520756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014753481958031944,
+      "text": "关键词为：may well set back reform。",
+      "width": 0.30801686838668885,
+      "x": 0.050632912937457315,
+      "y": 0.137862796980448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01781002638522422,
+      "text": "①句先扬：AAAS对人文教育极度热情。great enthusiasm 突出强调 AAAS对人文教育的热情之高，",
+      "width": 0.8438818335989883,
+      "x": 0.09071730260978873,
+      "y": 0.11741424794852862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014619254814288829,
+      "text": "为下句批驳其掩盖问题深度、广度做铺垫。",
+      "width": 0.3586497690485812,
+      "x": 0.05274262961073046,
+      "y": 0.09883720937547347
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860289561184,
+      "text": "②句后抑：AAAS 报告模糊问题深度及广度，极有可能阻碍人文教育改革。obscuring”遮蔽，使朦胧，",
+      "width": 0.8438818335989883,
+      "x": 0.09071731948742555,
+      "y": 0.07703488386684731
+    },
+    {
+      "confidence": 1,
+      "height": 0.010193593898360498,
+      "text": "43",
+      "width": 0.02109704620536712,
+      "x": 0.8966244724669367,
+      "y": 0.06104651160643626
+    }
+  ],
+  "vision_ocr_text": "•真题精解•送\n39. The author implies in Paragraph 5 that professors\n39.作者在第五段中暗示教授们_\nare\nLA」 supportive of free markets\n［A］ 支持自由市场\n［B］ conservative about public policy\n［B］在公共政策上立场保守\nLCJ biased against classical liberal ideas\n［C］对古典人文思想持有偏见\n［D］ cautious about intellectual investigation\n［D］对学术研究持谨慎态度\n［精准定位］第五段指出教授们认为古典人文思想属于非常规、非正当合理的学术研究范围，而作\n者对人文思想是持积极肯定态度。由此可知，作者实质暗示教授们对古典人文思想持有偏见，［C］正确。\n［命题解密］正确项LCJ中 biased 是对段中 portraying conservative or classical liberal ideas一such as\nfree markets and self-reliance—as falling outside the boundaries of routine, and sometimes legitimate，\nintellectual investigation 所蕴藏作者观点的最合理推断。\n［A］与“教授们对古典人文思想（包括自由市场）的偏见态度”相悖；［B］与“教授们支持进步的公共政\n策”相悖；［D］将“教授们认为古典人文思想不属于学术研究范畴”曲解为“他们对学术研究持谨慎态度”。\n［技巧总结］本题形式上考查作者对人物的看法，直接考点实为长难句正确解读。首先读题，发现四\n个干扰项均为“态度词十介词十对象”结构，也即本题考查教授们对不同事物的不同态度；随后借助语法\n知识解读全句，发现该句实为（professors）treat A as B while portraying X as Y 结构，也即选项［AJ、［C］\n均对应X，选项［B］对应 A，选项［D］对应 Y；最后再借形容词 progressive、proper、动名词 falling outside\nthe boundaries...and sometimes legitimate, intellectual investigation 所蕴藏的情感色彩，得知教授们对\n［A］自由市场持反对态度、对［B］公共政策持进步草新态度、对［C］古典人文思想持排斥态度，对［D］学术\n研究则分门别论（对合理的学术研究持支持中性或正面态度，对不合理的学术研究才会持谨慎态度）。\nVI ① The AAAS displays\"\ngreat enthusiasm for\n美国人文与科学院虽对人文教育表现\nliberal education. ② Yet its report may well set back\n出了极大的热情，但其报告由于掩盖了国会\nreform by obscuring®the depth and breadth of the\n要求它阐明的挑战的深度和广度，极有可能\nchallenge\nthat\nCongress\nasked it to illuminate®\n阻碍改革。\n［429 words］\n•词汇注释与难向分析•送\n①display ［di'splet］ v. 显示，展示\n323mny weslk时能，或许，也许）\n②obscure ［ob'skjvo］ v. 掩盖\n②set back（阻碍）\n③illuminate Lrlju:minert」v. 阐明，说明\n③the depth and breadth of...（⋯⋯的深度和广度）\n• 经典搭配\n•语篇分析•x\n末段升华观点：AAAS虽对人文教育极为热情，但其报告并未深刻全面阐明问题，很可能阻碍改革。\n关键词为：may well set back reform。\n①句先扬：AAAS对人文教育极度热情。great enthusiasm 突出强调 AAAS对人文教育的热情之高，\n为下句批驳其掩盖问题深度、广度做铺垫。\n②句后抑：AAAS 报告模糊问题深度及广度，极有可能阻碍人文教育改革。obscuring”遮蔽，使朦胧，\n43",
+  "pdf_text_layer": "； ·事题拮解：二 J\n 39.    The author implies in Paragraph 5 that professors                                     39. 作者在第五段中暗示教授 们                 。\n\n\n\n        are\n [ A] s upp or t ive of fr ee m ark e ts                                                      [ A ］ 支持 自 Fi二1 市 场\n\n [ BJ co nserva ti ve a bo ut public poli cy                                                  [ BJ 在公共 政 策 仁 立 场保 守\n\n [CJ biased aga in s t class ical lib er a l id eas                                           [CJ 对古 典人 文 思想持 有 偏见\n\n [ DJ ca uti o us a bo ut int e l l 巳c tu a l in ves ti ga ti o n                             [ DJ ;<,J 学 术 研 究 持谨慎态度\n\n       ［精准定位］ 第五段 指出 教授 们认 为芮 典人 文思 想 属于非常 规 、非正当合 理的 学术 研 究 范围 ， 而作\n\n者 对人 文 思 想是持 积 极肯定态 度 。 E卡I 此可知，作 者实质 暗 示教授 们 对古 典 人文 思想持 有 偏见 ，［ CJ 正确 。\n       ［命题解密］ 正 确 项 ［ CJ 中 bi ased 是 对段 中 po rt ray ing co n se rvat ive o r cla ssica l libe ra l id eas                 s uch as\nfr ee m a rk e ts a nd se lf- reli a nce- as fa lling o ut sid e t he bo un da r ies of rout in e , a nd som e times legitimate ,\nint e 川 巳c tu a l in v es ti ga ti o n 所 蕴藏 作 者 观 点 的 最合 理推断 。\n       [ A ］ 与“教应们对 古 典人 文思 想（ 包括 1!::1 阳 市场 ）的偏见 态度” 才，~， 悖 ； ［ l可 与“教授 们 支 持进步的公 共 政\n策 叫、1=1 悖 ； ［ DJ 将“ 教授 们认为古典人 文思想不属于学 术研 究：范畴勺｜｜｜ 角i(c 为 “他们对 学术 研 究 持谨慎态度 ” 。\n       ［技巧总结］ 本题形式上考查 作 者 对 人 物的 看法，直 接 考 点实为长 刘I！ 句正 确 ifl!r 读 。 首 先读题， 发 现四\n个 干 扰 项 均 为 “ 态度词 ＋ 介 同 ＋ 对 象 ” 主，H句 ，也即 本题考查教授 们 对不 同 事 物的不 同 态度 ；随后借助 语法\n知识 if!!/ i卖 全 句 ， 发 现 该句实为（ p ro f e s s or s) tr ea t A as B whil e por t ra ying X a s Y 结 构，也即选项 ［ A］ 、 ［ CJ\n均对应 X ， 选项 ［ BJ 对应 A ，选项 ［ D J 对应 Y ； 最 后再 借 形容词 pro g r ess i ve 、 pro p e r 、动名词 fa Iii ng out side\n\nth e bo un da ri es .. . a nd som et im es l eg itim川 巴 ， int e ll ect u a l in ve s ti g a t i o n 所蕴藏 的 情感 色 彩， 得知教授们对\n[ A］ 自 由市 场持反对态度、对 ［ BJ 公共政策持进步革新态度 、 对 ［ CJ 古 典 人文 思 想持 排斥 态 度，对 ［ DJ 学 术\n研 究 则 分 门别 论（对合理 的 学 术研 究 持 支持 中性 或正面态度 ， 对不合型 的 学 术 研 究才会持 谨慎态 度） 。\n\n\n       V[ 0 The AAAS displays(                     gr ea t e nthu s iasm for\n                                                                                                美国人文与科学院虽对人文教育表现\nlibe ra l edu ca ti o n. @ Ye t it s re po rt may w 巳 l I set bac k\n                                                                                          出了极大的热情，但其报告由于掩盖了国会\nrefo rm by obscuring<i>           th e depth a nd           breadth of th e\n                                                                                          要求它阐明的挑战的深度和广度，极有可能\ncha ll e nge    th a L Co ngr es s       as k ed     it   to         illuminate®.\n                                                                                          阻碍改革 。\n[ 429 words]\n\n                                                          词\n                                                          －    「\n                                                               … L\n                                                                     注\n                                                                         难\n                                                                         －\n                                                                         与\n                                                                         e\n                                                                         释       旬\n                                                                                    分\n                                                                                          析\n                                                                                          －\n                                                                                                 J\n                                                               e\n                                                                                    … －   －\n\n\n\n\n( display [ d1 ' s pi c ， ］ υ. !1~. 示， 展示                                    ~   ( may W巳 11 C 可 自E ， 或萨｜－，也 凶 ）\n                                                                             ;(\n( obscure [ ab'skj uo] v . j奄 ；话\n( illum inate [ 11lju:m111c1L ] v . 闸明，说明                                    i       set ba c\n                                                                                 G) tl          h a1    adth of.    （ ·叫和！ 度）\n\n．经典搭配\n\n                                                              ＞）•篇分析 · ·＼t\n       末段升华观点： AAAS 虽对人文教育极为热情，但其报告并未深刻全面阐明问题，很可能阻碍改革。\n关键词为： may well set back reform 。\n       ①旬先扬： AAAS 对人文教育极度热情 。 g r ea t e nthu s i a s m 突 出强调 AAASx,J· 人文教育 的热情之 高 ，\n为下句 批 驳其掩盖 问 题深度、广度 做铺 垫 。\n       ②旬后抑： AAAS 报告模糊问题深度及广度，极有可能阻碍人文教育改革。 o b sc uring“遮 蔽 ，使 朦 ！拢，\n                                                                                                                             43",
+  "quality": {
+    "vision_line_count": 54,
+    "vision_character_count": 1812,
+    "pdf_text_character_count": 4742,
+    "nonempty": true
+  }
+}

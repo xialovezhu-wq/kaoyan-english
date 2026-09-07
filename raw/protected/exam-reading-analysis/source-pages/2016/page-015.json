@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P015",
+  "year": 2016,
+  "pdf_page": 15,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "法令”所明令禁止；$85,000 fine and six months in prison（85000 美元罚款＋6个月监禁）凸显法令对该",
+      "width": 0.8805970288599426,
+      "x": 0.036247335125821,
+      "y": 0.915697674392532
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01890779783328378,
+      "text": "行为的严惩，体现①句 severe punishment。注：index of body mass（BMI 身体质量指数）：是目前国际上",
+      "width": 0.8786262235039735,
+      "x": 0.03616881452900288,
+      "y": 0.8935052963546377
+    },
+    {
+      "confidence": 1,
+      "height": 0.01772953011095524,
+      "text": "通用衡量人体胖瘦程度以及是否健康的标准，具体计算方式为“体重公斤数除以身高米数平方”。",
+      "width": 0.8166311347917662,
+      "x": 0.036247339196156504,
+      "y": 0.8735465118156154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "【深层解读】体味副词中蕴含的作者明确态度：首句 too much...to..一步奠定作者对“法国试图借",
+      "width": 0.840085264829559,
+      "x": 0.07462688243063624,
+      "y": 0.8546511627676532
+    },
+    {
+      "confidence": 1,
+      "height": 0.017608405401309257,
+      "text": "严惩性强制法令解决问题”的否定态度，still则强调当今文化特征的根深蒂固，拉大“严惩法令”和“现实",
+      "width": 0.8784648246108687,
+      "x": 0.036247336393925834,
+      "y": 0.8326822919109823
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "文化”之间的错位，进一步具化作者否定态度，突显段落要义。",
+      "width": 0.5202558528396869,
+      "x": 0.036247345307235355,
+      "y": 0.8124999999279002
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715355,
+      "text": "V",
+      "width": 0.019189765302902423,
+      "x": 0.07889125831336755,
+      "y": 0.7819767442624505
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01315709762275219,
+      "text": "① The fashion industry knows it has an",
+      "width": 0.392324093878839,
+      "x": 0.11513859925816379,
+      "y": 0.7819010419507955
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "时尚业知道自身在“专注物质装饰和理",
+      "width": 0.34115136695409587,
+      "x": 0.5692963846110829,
+      "y": 0.7732558140000901
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "inherent® problem in focusing on material adornment®",
+      "width": 0.46695095084137495,
+      "x": 0.03624733364114638,
+      "y": 0.7616279074788962
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "想化体型”上存在固有问题。在丹麦、美国和",
+      "width": 0.38166310180897467,
+      "x": 0.5287846565125093,
+      "y": 0.7513020832679417
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327822233239806,
+      "text": "and idealized® body types. ② In Denmark, the United",
+      "width": 0.46908312591494383,
+      "x": 0.036247341804433134,
+      "y": 0.7412790696318787
+    },
+    {
+      "confidence": 1,
+      "height": 0.014973958333333481,
+      "text": "其他几个国家，时尚行业正尝试就模特和时",
+      "width": 0.38166310180897467,
+      "x": 0.5287846565125093,
+      "y": 0.7324218749675435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01185501428941893,
+      "text": "States,and a few other countries, it is trying to set",
+      "width": 0.4690831550904488,
+      "x": 0.03837953588761137,
+      "y": 0.7207031249715048
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "尚形象制定自愿标准，这些标准的实施更多",
+      "width": 0.3795308975599009,
+      "x": 0.5309168577872136,
+      "y": 0.7122093026726947
+    },
+    {
+      "confidence": 1,
+      "height": 0.01171875,
+      "text": "voluntary standards for models and fashion images that",
+      "width": 0.4712153301640177,
+      "x": 0.03837954959460781,
+      "y": 0.7005208330641226
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629118248820305,
+      "text": "依靠同侪压力的作用。",
+      "width": 0.18976544877995039,
+      "x": 0.5287846543642131,
+      "y": 0.6901041664667871
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126816600561142,
+      "text": "rely more on peer pressure for enforcement®",
+      "width": 0.37100210973911035,
+      "x": 0.03624735035432537,
+      "y": 0.6802325582886133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "• 词汇注释与难句分析•",
+      "width": 0.22814497938575523,
+      "x": 0.3475479822420903,
+      "y": 0.6393229168618342
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715577,
+      "text": "①inherent ［i'hioront］a. 固有的，内在的",
+      "width": 0.3134328284181555,
+      "x": 0.03624734069497342,
+      "y": 0.6119186047093981
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883822003852,
+      "text": "①focus on（集中（注意力、精力于））",
+      "width": 0.268656714240634,
+      "x": 0.5010661004489795,
+      "y": 0.610465116393625
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011855014289418708,
+      "text": "②adornment ［o'do:nmant］n.装饰",
+      "width": 0.2558635470972006,
+      "x": 0.038379530289352676,
+      "y": 0.5957031249860398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "②rely on（依赖，依靠）",
+      "width": 0.170575683477048,
+      "x": 0.5010661040427736,
+      "y": 0.593023256156914
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418489138137,
+      "text": "③idealizeal drlazz］ v. 将•",
+      "width": 0.19616204693941952,
+      "x": 0.03837953417065971,
+      "y": 0.5784883722234542
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013141957422097672,
+      "text": "•••视为理想，将⋯⋯理想化",
+      "width": 0.20042644084981476,
+      "x": 0.23454157451112678,
+      "y": 0.5755208332355102
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01459544586638617,
+      "text": "③peer pressure（同侪压力）",
+      "width": 0.21108741833192673,
+      "x": 0.49893390397369547,
+      "y": 0.5755208331251633
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906312545067,
+      "text": "④enforcement ［en'fossmant］n.执行，实施",
+      "width": 0.31556503266722935,
+      "x": 0.03837953583411791,
+      "y": 0.5595930236848128
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013971813023090363,
+      "text": "• 经典搭配",
+      "width": 0.10683813149796845,
+      "x": 0.03613317216711212,
+      "y": 0.5344385120157538
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014973958333333481,
+      "text": "•语篇分析•",
+      "width": 0.11300639486221697,
+      "x": 0.4008528800475696,
+      "y": 0.5026041669638655
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "第五、六段为第三部分，介绍丹麦等国叫停定义超瘦为美的方式：时尚业制定行业自愿道德标准。",
+      "width": 0.8166311347917662,
+      "x": 0.07675906627504783,
+      "y": 0.4738372092520282
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "第五段概述：丹麦等国的时尚业正在尝试制定行业自愿标准。关键词为：set voluntary standards。",
+      "width": 0.8144989305426924,
+      "x": 0.07675907369453844,
+      "y": 0.4549418603966502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "①句介绍时尚业的“知”：时尚业自知本身存在固有问题。inherent（固有的，内在的）凸显问题的根",
+      "width": 0.8379530605804852,
+      "x": 0.07675907140028453,
+      "y": 0.43604651146859785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "深蒂固；material adornment（物质装饰）和 idealized body types（理想化体型；其中 idealized 意力 imagined，",
+      "width": 0.8805969705089328,
+      "x": 0.03624736576898765,
+      "y": 0.41715116307967137
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "unrealistic“理想化的，不实际的”）分别与“精神养分”与“健康体型、差异体型”相对；know一词言简意赅，",
+      "width": 0.8805970288599427,
+      "x": 0.03624733111018501,
+      "y": 0.39825581400009014
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629118248820305,
+      "text": "指出时尚业对自身问题“了然于心”，为引出其“自愿行动”做好铺垫。",
+      "width": 0.5778251341606417,
+      "x": 0.036247352447042275,
+      "y": 0.3776041664477533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "②句明确时尚业的“行”（第五、六段意群主旨）：丹麦等国的时尚业正尝试制定行业自愿标准以解决",
+      "width": 0.8379530605804852,
+      "x": 0.07675908337104281,
+      "y": 0.35872395851340655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247940689325333,
+      "text": "问题。set voluntary standards（voluntary 意为 done willingly and without being forced）以及 peer pressure",
+      "width": 0.8805969705089328,
+      "x": 0.03837954211760209,
+      "y": 0.3415697673365783
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "与法国所采取的“强制立法（law,made it a crime,ban）”及“实施严惩措施（severe punishment）”突显两",
+      "width": 0.8784648246108687,
+      "x": 0.03837953345149514,
+      "y": 0.3196614583467189
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "者解决该问题的不同。",
+      "width": 0.19189765302902426,
+      "x": 0.0362473374513727,
+      "y": 0.299418604579063
+    },
+    {
+      "confidence": 1,
+      "height": 0.014610586067040798,
+      "text": "【深层解读】段首句的主语往往代表该段落的行为主体，其改变可能意味着作者论述角度的转变",
+      "width": 0.8422174690786328,
+      "x": 0.07462688155876449,
+      "y": 0.2819010416672413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "（段/意群的转变），是划分文章大逻辑的重要线索。本文前四段的段首主语为 France,Such measures，",
+      "width": 0.8805969705089327,
+      "x": 0.03624735672314557,
+      "y": 0.2616279066902548
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "The bans,The French measures，表明其关注点为“法国针对时尚业制定的法令”，本段 The fashion",
+      "width": 0.8827291747580067,
+      "x": 0.03624736174679603,
+      "y": 0.2441406252457522
+    },
+    {
+      "confidence": 1,
+      "height": 0.01900133180121588,
+      "text": "industry 表明文章开始将关注对象扩大至“整个时尚业”，探讨法以国外国家的情况。而本段所述丹麦等",
+      "width": 0.8827291747580067,
+      "x": 0.03411515718389639,
+      "y": 0.22383720995333045
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "国措施与上段法国措施差异迥然，暗示作者站位：更倾向于丹麦等国的方式。",
+      "width": 0.6481876409760396,
+      "x": 0.036247324416031464,
+      "y": 0.2049418603058072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172238444288609,
+      "text": "VI ①In contrast to France's actions, Denmark's fashion",
+      "width": 0.46908312591494383,
+      "x": 0.07889127520883933,
+      "y": 0.17578124972422027
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "与法国的举措形成对比，丹麦时尚",
+      "width": 0.3027718363482912,
+      "x": 0.6076759168791592,
+      "y": 0.16715116290525278
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015065750728050942,
+      "text": "industry agreed last month on rules and sanctions® regarding",
+      "width": 0.5097188858411508,
+      "x": 0.03618501063638088,
+      "y": 0.15530673601190748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "行业上个月就关于模特年龄、健康及其",
+      "width": 0.341151366954096,
+      "x": 0.569296387013357,
+      "y": 0.14825581402673738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314195742209745,
+      "text": "the age, health, and other characteristics® of models. ② The",
+      "width": 0.5095948899453274,
+      "x": 0.038379533678722086,
+      "y": 0.1380208333081846
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "他特征的规定和处罚达成了一致。新修",
+      "width": 0.34328357120316977,
+      "x": 0.5692963841425516,
+      "y": 0.12936046546339242
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "newly revised Danish Fashion Ethical® Charter® clearly",
+      "width": 0.5074626856962535,
+      "x": 0.038379525009016174,
+      "y": 0.11773255829042728
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "订的《丹麦时尚道德宪章》明确声明：“我",
+      "width": 0.34115136695409587,
+      "x": 0.5692963867331258,
+      "y": 0.11191860501488726
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01171875,
+      "text": "states：“We are aware of and take responsibility for the",
+      "width": 0.5095948899453274,
+      "x": 0.038379533678722086,
+      "y": 0.10026041639978267
+    },
+    {
+      "confidence": 1,
+      "height": 0.013096535578370094,
+      "text": "们知晓并为时尚业对身材典范的影响，",
+      "width": 0.3347547833823793,
+      "x": 0.5692963856435651,
+      "y": 0.09302325581404924
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395377715466,
+      "text": "15",
+      "width": 0.02345415738982859,
+      "x": 0.8784648189330175,
+      "y": 0.06249999982204335
+    }
+  ],
+  "vision_ocr_text": "法令”所明令禁止；$85,000 fine and six months in prison（85000 美元罚款＋6个月监禁）凸显法令对该\n行为的严惩，体现①句 severe punishment。注：index of body mass（BMI 身体质量指数）：是目前国际上\n通用衡量人体胖瘦程度以及是否健康的标准，具体计算方式为“体重公斤数除以身高米数平方”。\n【深层解读】体味副词中蕴含的作者明确态度：首句 too much...to..一步奠定作者对“法国试图借\n严惩性强制法令解决问题”的否定态度，still则强调当今文化特征的根深蒂固，拉大“严惩法令”和“现实\n文化”之间的错位，进一步具化作者否定态度，突显段落要义。\nV\n① The fashion industry knows it has an\n时尚业知道自身在“专注物质装饰和理\ninherent® problem in focusing on material adornment®\n想化体型”上存在固有问题。在丹麦、美国和\nand idealized® body types. ② In Denmark, the United\n其他几个国家，时尚行业正尝试就模特和时\nStates,and a few other countries, it is trying to set\n尚形象制定自愿标准，这些标准的实施更多\nvoluntary standards for models and fashion images that\n依靠同侪压力的作用。\nrely more on peer pressure for enforcement®\n• 词汇注释与难句分析•\n①inherent ［i'hioront］a. 固有的，内在的\n①focus on（集中（注意力、精力于））\n②adornment ［o'do:nmant］n.装饰\n②rely on（依赖，依靠）\n③idealizeal drlazz］ v. 将•\n•••视为理想，将⋯⋯理想化\n③peer pressure（同侪压力）\n④enforcement ［en'fossmant］n.执行，实施\n• 经典搭配\n•语篇分析•\n第五、六段为第三部分，介绍丹麦等国叫停定义超瘦为美的方式：时尚业制定行业自愿道德标准。\n第五段概述：丹麦等国的时尚业正在尝试制定行业自愿标准。关键词为：set voluntary standards。\n①句介绍时尚业的“知”：时尚业自知本身存在固有问题。inherent（固有的，内在的）凸显问题的根\n深蒂固；material adornment（物质装饰）和 idealized body types（理想化体型；其中 idealized 意力 imagined，\nunrealistic“理想化的，不实际的”）分别与“精神养分”与“健康体型、差异体型”相对；know一词言简意赅，\n指出时尚业对自身问题“了然于心”，为引出其“自愿行动”做好铺垫。\n②句明确时尚业的“行”（第五、六段意群主旨）：丹麦等国的时尚业正尝试制定行业自愿标准以解决\n问题。set voluntary standards（voluntary 意为 done willingly and without being forced）以及 peer pressure\n与法国所采取的“强制立法（law,made it a crime,ban）”及“实施严惩措施（severe punishment）”突显两\n者解决该问题的不同。\n【深层解读】段首句的主语往往代表该段落的行为主体，其改变可能意味着作者论述角度的转变\n（段/意群的转变），是划分文章大逻辑的重要线索。本文前四段的段首主语为 France,Such measures，\nThe bans,The French measures，表明其关注点为“法国针对时尚业制定的法令”，本段 The fashion\nindustry 表明文章开始将关注对象扩大至“整个时尚业”，探讨法以国外国家的情况。而本段所述丹麦等\n国措施与上段法国措施差异迥然，暗示作者站位：更倾向于丹麦等国的方式。\nVI ①In contrast to France's actions, Denmark's fashion\n与法国的举措形成对比，丹麦时尚\nindustry agreed last month on rules and sanctions® regarding\n行业上个月就关于模特年龄、健康及其\nthe age, health, and other characteristics® of models. ② The\n他特征的规定和处罚达成了一致。新修\nnewly revised Danish Fashion Ethical® Charter® clearly\n订的《丹麦时尚道德宪章》明确声明：“我\nstates：“We are aware of and take responsibility for the\n们知晓并为时尚业对身材典范的影响，\n15",
+  "pdf_text_layer": "法令”所明令禁 止 ；$ 85,000 fin e and six months in prison( 85000 美元罚款＋ 6 个月监禁）凸显法令 对该\n行为的严惩，体现①句 severe pu ni shment 。注： ind ex of body m ass(BMI 身体质量指数） ： 是目前国 际上\n通用衡 量人 体胖瘦程度以及是否健康的标准，具体计算方式为“体重公斤数除以身高米数平方” 。\n     【深层解读】体昧副词中蕴含的作者明确态度： 首句 too much ... to .. . 一步奠定 作者对“法国试图借\n严惩性强 制 法令解决 问 题” 的 否定态度， st ill 则强调 当今文 化 特征的根深蒂固，拉大“严惩法令” 和 “ 现 实\n文 化 ”之间的错位，进一步具化作 者否定态度，突显段落要义 。\n\n\n     V O The fas hi on indu stry knows it has an                        时尚业知道自身在“专注物质装饰和理\ninherent(   pro bl 巳m in focus ing on mate rial adornment<l!l\n                                                                   想化体型”上存在固有问题 。 在丹麦、美国和\nand idealized (   body types. @ In Denmark, the United\n                                                                   其他几个国家，时尚行业正尝试、就模特和时\nStates, a nd a few ot her co un tries, it is tryi 口g to set\n                                                                   尚形象制定自愿标准，这些标准的实施更多\nvo luntar y s ta nd ard s for models and fas hion images that\n                                                                   依靠同侍压力的作用。\nrely mor e on peer pressure for enforcement®.\n\n\n                                        : j：词汇注释与难旬分析. : ;/\n( inherent [ m ' h1 arant ］ α ．固有的．内在的                   Ii     ( foc us on （集中（注意力、精力于））\n( adornment [ a'd:i:nmant] 11 . 装 tin                    !(       rely o n （ 依赖僻）\n( idealize [a, 1cliala1z] v. 将 …… 视为理想，将……理想化                   ( pee r press ur e （ 同饼压力）\n( enforcement [ en'fo:smant] 11. 执行，实施\n\n．经典搭配\n\n\n                                              ；三语篇分析0::            ii\n     第五、六段为第三部分，介绍丹麦等国叫停定义超瘦为美的方式：时尚业制定行业自愿道德标准。\n     第五段概述：丹麦等国的时尚业正在尝试制定行业自愿标准。关键词为： set voluntary standar由 。\n     ① 旬介绍时尚业的“知”：时尚业自知本身存在固有问题。 inh ere nt （固有 的，内在的）凸显问题的根\n深蒂 固； m ateri a l ado rnm e n t （物质装饰）和 id ea li zed body types （理想化体型；其中 idealized 意为 imagined,\nunr ea li s ti c“理想 化的 ，不实际的”）分 别 与“精 神 养分”与“健康体型、差异 体 型” 相对 ； know 一词言简意 贱，\n指出时尚业对自身问题“了然于心”，为引出其“自愿行动叫战好铺垫 。\n     ② 旬明确时尚业的“行”（第五、六段意群主旨）：丹麦等国的时尚业正尝试制定行业自愿标准以解决\n问题。 set vo lu ntary sta nd ards(vo luntary 意为 do ne willi ng ly and without being forced ）以 及 p eer pr巳ss ure\n与法国所采取的“强制 立法（ l aw, made it a crime, b a n ）”及“实施严惩措施（ severe punishment ）”突显两\n者解决该 问 题的不同 。\n     E 深层解读】段首句的主语往往代表该段落的行为主体，其改变可能意味着作者论述角度 的转 变\n（ 段 ／ 意群的转变），是 划 分文章大逻辑的重要线索 。 本文前 四 段的段首主语为 F rance, Such measures,\nTh e bans, T he French measures ，表明其关注点为“法国针对时尚业 制 定的法令” ， 本段 T he fash ion\nindustry 表明文 章开始 将关注对象扩大至“整个时尚业”，探讨法以国外国家的情况 。 而本段所述丹麦等\n国措施与上段法国措施差异迥然，暗示作者站位：更倾向于丹麦等国的方式。\n\n     VI O In contrast to France ’ s ac ti ons, Denmark 's fas hion           与法国的举措形成对比，丹麦时尚\nmdu stry agreed last month on rul es and sanctions( regarding\n                                                                        行业上个月就关于模特年龄、健康及其\nth e age, hea l t h , a nd ot her characteristics® of models. @The\n                                                                        他特征的规定和处罚达成了 一 致 。 新修\nnew ly revised Danish Fashion Ethical® Charter® clea rl y\n                                                                        订的《丹麦时尚道德宪章 》 明确声明：“我\nstates : “ We a re aware of an d take responsibility for the\n                                                                        们知晓并为时尚业对身材典范的影响，\n\n                                                                                                        15",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2112,
+    "pdf_text_character_count": 3274,
+    "nonempty": true
+  }
+}

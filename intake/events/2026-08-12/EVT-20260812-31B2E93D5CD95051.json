@@ -1,0 +1,117 @@
+{
+  "schema_version": "english_capture_event_v2",
+  "event_id": "EVT-20260812-31B2E93D5CD95051",
+  "event_type": "sentence_captured",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260711-009",
+    "source_article": "articles/2026-07-11-2012-english-i-text-1.md",
+    "source_id": "RAW-ARTICLE-20260711-009",
+    "source_hash": "e5689d55cf9f7c217bf06f335ba6c5a97a78a1c5b4fb712e655c03c546d1a387",
+    "reference_id": "EXAM-READING-2012-T1",
+    "title": "2012 English I Text 1"
+  },
+  "source": {
+    "sentence_id": "Q21-STEM",
+    "source_sentence": "According to the first paragraph, peer pressure often emerges as",
+    "source_kind": "question",
+    "sentence_hash": "b9f1ebbcee2b1003418f4b9726665b48057bb95d0d774f210e81b2785ba644b2"
+  },
+  "learning": {
+    "first_translation": "根据第一段，宠物的压力（peer pressure）经常发生，是作为一个什么东西？",
+    "user_evidence_verbatim": "做题的时候，我选的是 B。首先，我觉得 A 肯定排除，因为我没读到社会的 cure 是个什么东西。我之所以选 B，首先是看到题目里说宠物压力（peer pressure）可以作为一个有效的推动力，也就是 \"can also be a positive force\"。然后后面又说了 \"in which\"，接着提到这个力量——也就是团队数字化的力量，去帮助个人提升他们的生活。所以我觉得它应该是一个好的、正面的东西。我觉得 A 和 B 都是正面的，而 C 和 D 是负面的（C 说是个障碍，D 说的不知道是什么负面东西）。既然 A 没读到，所以我就选了 B。",
+    "user_evidence": [
+      "question_logic"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "根据第一段，同伴压力通常表现为……",
+    "explanation": "peer pressure 是同伴压力；emerge as 在题干中表示“表现为、呈现为”。本次判断主要依赖正负色彩和局部词汇复现，没有逐项核对名词关系及原文中的论证角色。",
+    "first_breakpoint": "先把 peer 误认为 pet，随后用正负色彩和局部关键词替代选项关系核对。",
+    "restatement": ""
+  },
+  "candidates": [
+    {
+      "item": "peer pressure",
+      "candidate_type": "词组",
+      "meaning": "同伴压力；同辈压力",
+      "usage": "指同伴群体对个人态度或行为产生的影响。",
+      "review_note": "peer 是同伴，不是 pet 宠物。",
+      "decision": "long_term_candidate",
+      "reason": "用户发生核心题干术语误认，直接影响全文主题与题意。",
+      "source_signal_ids": [
+        "SIG-0047DCFA6C4111CD"
+      ]
+    },
+    {
+      "item": "emerge as",
+      "candidate_type": "词组",
+      "meaning": "表现为；呈现为",
+      "usage": "emerge as + 名词，表示以某种形式出现或被认识。",
+      "review_note": "本题不是“发生，作为”，应整体读成“表现为”。",
+      "decision": "long_term_candidate",
+      "reason": "用户拆译结构，影响题干精确理解。",
+      "source_signal_ids": [
+        "SIG-C5FF8E184C8FD7F1"
+      ]
+    }
+  ],
+  "observed_signals": [
+    {
+      "signal_id": "SIG-0047DCFA6C4111CD",
+      "signal_type": "phrase",
+      "canonical_term": "peer pressure",
+      "surface_form": "peer pressure",
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    },
+    {
+      "signal_id": "SIG-C5FF8E184C8FD7F1",
+      "signal_type": "phrase",
+      "canonical_term": "emerge as",
+      "surface_form": "emerge as",
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    }
+  ],
+  "source_signal_ids": [
+    "SIG-0047DCFA6C4111CD",
+    "SIG-C5FF8E184C8FD7F1"
+  ],
+  "capture_coverage": {
+    "schema_version": "english_capture_coverage_v2",
+    "declared_signal_count": 2,
+    "covered_signal_count": 2,
+    "signals": [
+      {
+        "signal_id": "SIG-0047DCFA6C4111CD",
+        "terminal_status": "candidate"
+      },
+      {
+        "signal_id": "SIG-C5FF8E184C8FD7F1",
+        "terminal_status": "candidate"
+      }
+    ]
+  },
+  "idempotency_key": "2026-08-12-2012-t1-q21-question-logic-v1",
+  "request_sha256": "1198fc0b7db6b8d36407f9adb2e17615f2a9109353e2bf45745fbc73f29f1fcb",
+  "occurred_at": "2026-08-12T08:59:41Z",
+  "producer": {
+    "role": "foreground_producer",
+    "name": "english_learning_pipeline",
+    "version": "0.1.0"
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none"
+}

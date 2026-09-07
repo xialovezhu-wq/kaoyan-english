@@ -1,0 +1,510 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P015",
+  "year": 2019,
+  "pdf_page": 15,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.019412685843074984,
+      "text": "［精准定位］第三段②句指出，短暂投资者会妨碍公司投资长期研究或提升客户忠诚度。第四段②句",
+      "width": 0.8424324723900852,
+      "x": 0.08090907508296886,
+      "y": 0.9123646373553362
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186052309915,
+      "text": "也指出：短期主义思维盛行的代价是长期投资受损。可见短暂型投资的影响是消极的、不利的，［B］正确。",
+      "width": 0.8720682037997841,
+      "x": 0.04264392775895678,
+      "y": 0.8938953487791481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018107569451425665,
+      "text": "［命题解密J［B］adverse 是对第三段②句 can hinder...以及第四段②句 at the expense of...的概括推理。",
+      "width": 0.8359958407059741,
+      "x": 0.08093766755824618,
+      "y": 0.8749722636743992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017751557842578758,
+      "text": "［A］不符合第三段②句 can hinder a firm's efforts 传递的“短暂型投资直接影响上市公司”之意。",
+      "width": 0.8443496909114083,
+      "x": 0.08102345723086289,
+      "y": 0.8561046511337992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［C］、［D］均由 transient（短暂的，转瞬即逝的）捏造而来，但背离②句含义：“投资长期研究项目”和“建立",
+      "width": 0.8805970175481347,
+      "x": 0.04051173127124179,
+      "y": 0.8385620913494221
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "客户忠诚”均于企业长远发展至关重要，故公司在这些方面的努力受阻所造成影响应是“深远的、致命",
+      "width": 0.8805970175481346,
+      "x": 0.04264392992529285,
+      "y": 0.8183006535798057
+    },
+    {
+      "confidence": 1,
+      "height": 0.019188613517611697,
+      "text": "的”，绝非“暂时的、极小的”。",
+      "width": 0.2392791923771893,
+      "x": 0.042419739931355796,
+      "y": 0.7993414639052782
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "［技巧总结］本题要求用一词概括“短暂投资对上市公司的影响”，可采用思路为“先找到文中相关论",
+      "width": 0.8443496909114083,
+      "x": 0.07889124558907212,
+      "y": 0.7816993463156753
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600357130462049,
+      "text": "述信息，再根据上下文对其进行概括推理”：先由 transient investment、public companies 定位至第三段②",
+      "width": 0.8827292063414708,
+      "x": 0.04051171911071473,
+      "y": 0.7630813960415468
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "句（Transient investors... a firm），随后由定位信息 hinder a firm's efforts to invest in long-term research",
+      "width": 0.8827292063414708,
+      "x": 0.04264392902542651,
+      "y": 0.7456395355173537
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "or to build up customer loyalty 得出影响是“负面的”；再结合第二段①句“Short-termism”",
+      "width": 0.823027685828035,
+      "x": 0.040511736581362826,
+      "y": 0.7252906974349453
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013087094998827098,
+      "text": "worsened 和第四段②句 a predominance of short-term thinking at the expense of long-term investing 体现",
+      "width": 0.8805970175481346,
+      "x": 0.04264393073552738,
+      "y": 0.7078431373420722
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "的作者对短期主义/短线思维/短期投机行为的强烈否定态度，可推知“负面影响巨大”，［B］正确。",
+      "width": 0.8208954970346989,
+      "x": 0.04051173154661657,
+      "y": 0.6860465114538408
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313215,
+      "text": "V OIn the US, the Sarbanes-Ozley Act of 2002 has",
+      "width": 0.47121533413995026,
+      "x": 0.08102345710379903,
+      "y": 0.6540697678802097
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488293816052,
+      "text": "在美国，《2002年萨班斯一奥克斯利",
+      "width": 0.30490405179717484,
+      "x": 0.6140724981685767,
+      "y": 0.6482558143812105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "pushed most public companies to defer® performance",
+      "width": 0.5117270676508517,
+      "x": 0.04264393305446033,
+      "y": 0.6366013070791263
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "法案》已迫使多数上市公司将高管绩效",
+      "width": 0.3411513784339012,
+      "x": 0.5756929711242007,
+      "y": 0.6293604653259779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "bonuses® for senior executives by about a year, slightly®",
+      "width": 0.5053305012708433,
+      "x": 0.04264392286137996,
+      "y": 0.6176470590558134
+    },
+    {
+      "confidence": 1,
+      "height": 0.015995971205966963,
+      "text": "奖金推迟了约一年，稍稍削弱了“短期主",
+      "width": 0.3411513784339011,
+      "x": 0.5756929674461625,
+      "y": 0.6104575164734165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "helping reduce “short-termism.",
+      "width": 0.2665245070796095,
+      "x": 0.04264392980241268,
+      "y": 0.6000000002396689
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015024451960146123,
+      "text": "” ② In its latest survey of",
+      "width": 0.24556221110807053,
+      "x": 0.30898611611518945,
+      "y": 0.5999096708455738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017726858301100434,
+      "text": "义”。《华尔街日报》在CEO 薪酬最新调",
+      "width": 0.3411513784339011,
+      "x": 0.575692964940832,
+      "y": 0.5901162791861249
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014683082056980434,
+      "text": "CEO pay, The Wall Street Journal finds that \"a substantial®",
+      "width": 0.5074626900641793,
+      "x": 0.042643927835713996,
+      "y": 0.581395349373943
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "查中发现，如今，高管薪酬中“相当大一",
+      "width": 0.3454157560205734,
+      "x": 0.5756929791858753,
+      "y": 0.5725490198254748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014624182383219386,
+      "text": "part\" of executive pay is now tied to performance.",
+      "width": 0.4221748161682012,
+      "x": 0.04264394223572861,
+      "y": 0.5625000003429352
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "部分”与业绩紧密相关。",
+      "width": 0.2025586382670045,
+      "x": 0.5735607681799306,
+      "y": 0.5535947711548947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565283332774848,
+      "text": "① Much more could be done to encourage “long-",
+      "width": 0.434968007503224,
+      "x": 0.11513860285819603,
+      "y": 0.5436046513724895
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "就鼓励“长期主义”，可做的还有很",
+      "width": 0.30277186300383874,
+      "x": 0.6140724891448468,
+      "y": 0.5363372093051004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013100394703983498,
+      "text": "termism，”",
+      "width": 0.08528784460847529,
+      "x": 0.04051172881516531,
+      "y": 0.526143790889096
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014553882873136192,
+      "text": "such as changes in the tax code® and quicker",
+      "width": 0.420042627374865,
+      "x": 0.13432835948243269,
+      "y": 0.5261437910087348
+    },
+    {
+      "confidence": 1,
+      "height": 0.014584282644433899,
+      "text": "多，比如调整税法以及更迅速地披露股",
+      "width": 0.3411513784339011,
+      "x": 0.575692969936263,
+      "y": 0.5174418609395576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014612782546897352,
+      "text": "disclosure® of stock acquisitions®",
+      "width": 0.26439231828627346,
+      "x": 0.04051172557612428,
+      "y": 0.5071895425462141
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014612782546897352,
+      "text": ". ② In France, shareholders®",
+      "width": 0.2452025459274907,
+      "x": 0.3027718572779037,
+      "y": 0.5071895424493147
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "权收购。在法国，持有公司投资两年以",
+      "width": 0.3432835672272373,
+      "x": 0.573560772489793,
+      "y": 0.4970930230087992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013218194051505705,
+      "text": "who hold onto a company investment for at least two years can",
+      "width": 0.5095948788575155,
+      "x": 0.04264393027273467,
+      "y": 0.48823529407427724
+    },
+    {
+      "confidence": 1,
+      "height": 0.01459378261192179,
+      "text": "上的股东有时可以在公司内赢得更多表",
+      "width": 0.3411513784339011,
+      "x": 0.575692969936263,
+      "y": 0.4810457519427067
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013277093725266864,
+      "text": "sometimes earn more voting rights in a company.",
+      "width": 0.3901918964056502,
+      "x": 0.04264393036860322,
+      "y": 0.46928104549547744
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "决权。",
+      "width": 0.05117270676508523,
+      "x": 0.5756929647411247,
+      "y": 0.46075581436909807
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22388059941912342,
+      "x": 0.3518123646187965,
+      "y": 0.4169934643571287
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013220093920339848,
+      "text": "①defer ［di'fs：］v. 推迟",
+      "width": 0.1727078926540382,
+      "x": 0.040511726548399705,
+      "y": 0.39084967330428033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418430702437,
+      "text": "⑤ tax code 税法",
+      "width": 0.11727078633665355,
+      "x": 0.5074626859006144,
+      "y": 0.39389534880305965
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "② per formance bonus 绩效奖金",
+      "width": 0.23240938387997093,
+      "x": 0.04051172453122995,
+      "y": 0.3718954247009816
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011928104575163356,
+      "text": "⑥disclosure ［dis'klauso］n. 披露",
+      "width": 0.2430703571341546,
+      "x": 0.5074626861983812,
+      "y": 0.37500000011577017
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01462988261303877,
+      "text": "③slightly ［'slartl］ad.略微，稍微",
+      "width": 0.2558635338254258,
+      "x": 0.04051173171658949,
+      "y": 0.3546511632651389
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013176394443885964,
+      "text": "⑦acquisition ［raekwi'zlfon］ n.收购",
+      "width": 0.2622601294929373,
+      "x": 0.5095948845712286,
+      "y": 0.35610465152537985
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013117494770124916,
+      "text": "④substantial ［sab'steenJol］a. 大量的，很大程度的",
+      "width": 0.3923240851989863,
+      "x": 0.040511728585398754,
+      "y": 0.3372093025635857
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882938160631,
+      "text": "$ ⑧shareholder ［'eohaulde］ n. 股东",
+      "width": 0.3155650250513586,
+      "x": 0.4520255920585425,
+      "y": 0.33720930289865225
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.022307835996540515,
+      "text": "•语篇分析。沒",
+      "width": 0.16904430426013678,
+      "x": 0.39870823749961887,
+      "y": 0.3072019914068914
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "第五至七段提出削弱短期主义、鼓励长期主义的方法。其中第五、六段以美、法方式为鉴，指出就鼓",
+      "width": 0.8400852547497301,
+      "x": 0.0831556738689159,
+      "y": 0.28488372090878267
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "励长期思维可做的有很多。",
+      "width": 0.2324093838799709,
+      "x": 0.04264392406925403,
+      "y": 0.2645348836268059
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "第五段例举的《2002 年萨班斯一奥克斯利法案》。关键词：the Sarbanes-Oxley Act of 2002。",
+      "width": 0.7611940350962693,
+      "x": 0.08315565721199307,
+      "y": 0.24705882363455467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "①句介绍法案，并肯定其成效。has pushed most public companies 体现法案强制效力；defer",
+      "width": 0.8443496323364023,
+      "x": 0.0810234709853171,
+      "y": 0.22674418633951188
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "performance bonuses for senior executives by about a year 明确法案内容（将高管绩效奖金推迟一年）；",
+      "width": 0.8827292063414707,
+      "x": 0.04264393918889462,
+      "y": 0.21045751648064714
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "slightly helping 虽肯定其成效，却指出效果有限，暗示下文将提出更具力度的可行性方案。",
+      "width": 0.7633262238896052,
+      "x": 0.04051173450153697,
+      "y": 0.19019607862954613
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "②句以最新调查发现证实法案成效。句中以 A is tied to B 句式辅以“a substantial part”的双重强调",
+      "width": 0.8422174435430663,
+      "x": 0.08102346386279548,
+      "y": 0.17124183010497807
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016011172026590526,
+      "text": "（substantial 意为“相当大一部分”；引号进行另一重强调）指出“高管薪酬与业绩紧密挂钩”，即：法案使",
+      "width": 0.8827292063414708,
+      "x": 0.040511734968923366,
+      "y": 0.15261627902106467
+    },
+    {
+      "confidence": 1,
+      "height": 0.014645082187029201,
+      "text": "得高管薪酬结构有了很大调整，从而促使他们更关注公司发展。",
+      "width": 0.5394456391142335,
+      "x": 0.042643923577211584,
+      "y": 0.13372093062394286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "第六段提出就鼓励长期主义可做的还有很多，并例举法国措施。关键词为：Much more could be done。",
+      "width": 0.8081023056996761,
+      "x": 0.08315567825890384,
+      "y": 0.11307189558440711
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "①句指出就鼓励长期主义，可做的还有很多。Much more could be done...承上表明作者观点、暗含",
+      "width": 0.8422174435430663,
+      "x": 0.08102346386279548,
+      "y": 0.0944767446243957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "作者呼吁。such as...表示列举、提出具体努力方向。",
+      "width": 0.44989338763158293,
+      "x": 0.042643928270207083,
+      "y": 0.07558139523048801
+    },
+    {
+      "confidence": 1,
+      "height": 0.013102294572817752,
+      "text": "15",
+      "width": 0.02345415726733069,
+      "x": 0.8848614075337121,
+      "y": 0.0581395353371531
+    }
+  ],
+  "vision_ocr_text": "［精准定位］第三段②句指出，短暂投资者会妨碍公司投资长期研究或提升客户忠诚度。第四段②句\n也指出：短期主义思维盛行的代价是长期投资受损。可见短暂型投资的影响是消极的、不利的，［B］正确。\n［命题解密J［B］adverse 是对第三段②句 can hinder...以及第四段②句 at the expense of...的概括推理。\n［A］不符合第三段②句 can hinder a firm's efforts 传递的“短暂型投资直接影响上市公司”之意。\n［C］、［D］均由 transient（短暂的，转瞬即逝的）捏造而来，但背离②句含义：“投资长期研究项目”和“建立\n客户忠诚”均于企业长远发展至关重要，故公司在这些方面的努力受阻所造成影响应是“深远的、致命\n的”，绝非“暂时的、极小的”。\n［技巧总结］本题要求用一词概括“短暂投资对上市公司的影响”，可采用思路为“先找到文中相关论\n述信息，再根据上下文对其进行概括推理”：先由 transient investment、public companies 定位至第三段②\n句（Transient investors... a firm），随后由定位信息 hinder a firm's efforts to invest in long-term research\nor to build up customer loyalty 得出影响是“负面的”；再结合第二段①句“Short-termism”\nworsened 和第四段②句 a predominance of short-term thinking at the expense of long-term investing 体现\n的作者对短期主义/短线思维/短期投机行为的强烈否定态度，可推知“负面影响巨大”，［B］正确。\nV OIn the US, the Sarbanes-Ozley Act of 2002 has\n在美国，《2002年萨班斯一奥克斯利\npushed most public companies to defer® performance\n法案》已迫使多数上市公司将高管绩效\nbonuses® for senior executives by about a year, slightly®\n奖金推迟了约一年，稍稍削弱了“短期主\nhelping reduce “short-termism.\n” ② In its latest survey of\n义”。《华尔街日报》在CEO 薪酬最新调\nCEO pay, The Wall Street Journal finds that \"a substantial®\n查中发现，如今，高管薪酬中“相当大一\npart\" of executive pay is now tied to performance.\n部分”与业绩紧密相关。\n① Much more could be done to encourage “long-\n就鼓励“长期主义”，可做的还有很\ntermism，”\nsuch as changes in the tax code® and quicker\n多，比如调整税法以及更迅速地披露股\ndisclosure® of stock acquisitions®\n. ② In France, shareholders®\n权收购。在法国，持有公司投资两年以\nwho hold onto a company investment for at least two years can\n上的股东有时可以在公司内赢得更多表\nsometimes earn more voting rights in a company.\n决权。\n•词汇注释与难句分析•\n①defer ［di'fs：］v. 推迟\n⑤ tax code 税法\n② per formance bonus 绩效奖金\n⑥disclosure ［dis'klauso］n. 披露\n③slightly ［'slartl］ad.略微，稍微\n⑦acquisition ［raekwi'zlfon］ n.收购\n④substantial ［sab'steenJol］a. 大量的，很大程度的\n$ ⑧shareholder ［'eohaulde］ n. 股东\n•语篇分析。沒\n第五至七段提出削弱短期主义、鼓励长期主义的方法。其中第五、六段以美、法方式为鉴，指出就鼓\n励长期思维可做的有很多。\n第五段例举的《2002 年萨班斯一奥克斯利法案》。关键词：the Sarbanes-Oxley Act of 2002。\n①句介绍法案，并肯定其成效。has pushed most public companies 体现法案强制效力；defer\nperformance bonuses for senior executives by about a year 明确法案内容（将高管绩效奖金推迟一年）；\nslightly helping 虽肯定其成效，却指出效果有限，暗示下文将提出更具力度的可行性方案。\n②句以最新调查发现证实法案成效。句中以 A is tied to B 句式辅以“a substantial part”的双重强调\n（substantial 意为“相当大一部分”；引号进行另一重强调）指出“高管薪酬与业绩紧密挂钩”，即：法案使\n得高管薪酬结构有了很大调整，从而促使他们更关注公司发展。\n第六段提出就鼓励长期主义可做的还有很多，并例举法国措施。关键词为：Much more could be done。\n①句指出就鼓励长期主义，可做的还有很多。Much more could be done...承上表明作者观点、暗含\n作者呼吁。such as...表示列举、提出具体努力方向。\n15",
+  "pdf_text_layer": "［ 精准定位］第 三 段 ②句 指出，短暂投资者会妨碍公司投资长期研究或提升客户忠诚度 。 第四段②句\n也指出： 短期主义 思维盛行的代价是长期投资受损 。 可见短暂型投资的影响是消极的、不利的， ［ BJ 正确。\n     ［ 命题解密 ］ ［B]adverse 是对第 三段②句 can hinder. ..以及第四段②句 at the expense of. ..的概括推理 。\n     [ A］不 符合第 三 段 ② 句 ca 口 hinder a firm ’ s efforts 传递的“短暂型投资直接影响上市公司”之意。\n[ CJ 、 ［ DJ 均由 trans i e nt （短暂的，转瞬即逝的）捏造而来，但背离 ② 句含义：“投资长期研究项目”和“建立\n客户忠诚”均子企 业长远发展 至关重要，故公司在这些方面 的 努力受阻所造成影 H向应 是“深远的、致命\n的”，绝非“暂时的、极小的” 。\n     ［技巧总结 ］ 本题要求用一词概括“短暂投资对上市公司的影 响” ，可采用思路为“先找到文中相关论\n述信息，再根据上下文对其进行概括推理飞先由 transient in ves tm ent 、 pub li c compani es 定 位 至第 三 段 ②\n句（ Tran s i ent inves tors ... a firm ），随后由定位信息 hind er a firm ’ s efforts to invest in long-t erm research\nor to build up customer loya lt y 得出影 响 是“负面的”；再结合第二段①句“ Short- t e rmism ” . . . has\nworsened 和 第四段②句 a predominance of short-term thinking at the expense of long-t erm inv es ting 体现\n的作者对短期 主 义 ／短线 思维 ／短 期投机行为的强烈否定态度，可推知“负面影响巨大”， ［ BJ 正确 。\n\n      V Oin th e US, th e Smbαn es-Oxley Act of 2002 has                      在美国， 《 2002 年萨班斯一奥克斯利\npush ed   mos t   public   compa ni es   to   defer(   performance\n                                                                        法案 》 己迫使多数上市公司将高管绩效\nbonuses® for senior exec utives by about a year, slightly®\n                                                                        奖金推迟了约 一 年，稍稍削弱了“短期 主\nhelping reduce “ short-termism. ”@ In its lates t s urvey of\n                                                                        义 ’＼《 华尔街日报 》 在 CEO 薪酬最新调\nCEO pay, Th e Wall Street ] ow nal finds that “ a substantial©\n                                                                        查中发现，如今，高管薪酬中“相当大 一\npart ” of exec utive pay is now tied to performance.\n                                                                        部分”与业绩紧密相关 。\n      V[' 0 Much more could be done to encourage “ long-                      就鼓励“长期主义刀，可傲的还有很\nterm ism ,” such as changes in the tax code( and quicker\n                                                                        多，比如调整税法以及更迅速地披露股\ndisclosure® of stock acquisitions( . @ In France, shareholders®\n                                                                        权收购 。 在法国，持有公司投资两年以\nwho hold onto a company investment for at least two years can\n                                                                        上的股东有时可以在公司内 赢 得更多表\nsometimes earn more voting rights in a company.\n                                                                        决权 。\n\n\n\n\n                                         ＞词汇注释与难句分析＜ ii\n( defer [ d1 1f3： ］ υ．推迟                                  ii   ( tax code 税 法\n( performance bonus 绩效奖 金\n( slightly [ 1sla1t1I] ad . 略微，稍微\n                                                         )(\n                                                         (I\n                                                                   d\n                                                            acquisition [ ,cekw1'z1 n]\n                                                               (                            n. Jj灾购\n( substantial [ sa b1 stcenJal ］ α ． 大量的，很大程度的           $     ( shat holder [' Je吕 hauJda] 11. I段东\n\n                                                ：．语篇分析二：： ；／\n     第五至七段提出削弱短期主义、鼓励长期主义的方法。其中第五、六段以美、法方式为鉴，指出就鼓\n励长期思维可做的有很多 。\n     第五段例举的《 2002 年萨班斯一奥克斯利法案》。关键词： the Sarbanes-Oxley Act of 2002 。\n     ① 旬介绍法案，并肯定其成效。 ha s pushed most public compan i es 体现 法案强 制效力； defer\nperformance bonuses for sen ior exec utives by about a y ea r 明确法案内容（将高 管绩效奖金 推迟 一年 h\ns li ghtl y h e l p in g 虽肯定其成效，去｜］指出效果有限，暗示下文将 提出更具力度的可行性方案 。\n     ② 旬以最新调查发现证实法案成效。 句中以 A is ti ed to B 句式辅以“ a s ubs ta ntial part”的双重强调\n( substant i a l 意为“ 相当大 一 部分’气引号进行另 一重 强调）指出“高 管薪 酬与业绩紧密挂钩”，目｜］：法案使\n得高管薪酬结构有了很大调整 ，从而促使他们更 关注公司发展 。\n     第六段提出就鼓励长期主义可做的还有很多，并例举法国措施。关键词为： Much more co旧d be done。\n     ① 旬指出就鼓励长期主义，可傲的还有很多。 Much more could be done ...承上表明作者观点、暗含\n作者呼吁 。 s uch as ...表示列举、提出具体努力方向 。\n                                                                                                      15",
+  "quality": {
+    "vision_line_count": 61,
+    "vision_character_count": 2410,
+    "pdf_text_character_count": 3975,
+    "nonempty": true
+  }
+}

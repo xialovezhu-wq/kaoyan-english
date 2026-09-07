@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P036",
+  "year": 2015,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.027226880870963033,
+      "text": "•词汇注释与难句分析。以",
+      "width": 0.2670660330100617,
+      "x": 0.3730021943130559,
+      "y": 0.9062165900914234
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014542443854601017,
+      "text": "①primarily ［'praorl］ad. 首先；主要地；根本上",
+      "width": 0.39699570551486024,
+      "x": 0.06223175671145413,
+      "y": 0.8866279070113632
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "⑤approach ［o'prautj］n.（处理问题的）方法，态度",
+      "width": 0.3905579316181321,
+      "x": 0.5171673824205477,
+      "y": 0.8866279067047879
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "②advisory ［od'vaizon］a.劝告的，忠告的；提供咨询的",
+      "width": 0.4163089979175414,
+      "x": 0.06223176461419074,
+      "y": 0.869186046909619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015360785708780855,
+      "text": "• 经典搭配",
+      "width": 0.10753334323641439,
+      "x": 0.5277783938309022,
+      "y": 0.8615056540627467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "③foresight［'fossart］n.先见；预见；深谋远虑",
+      "width": 0.34978539289302424,
+      "x": 0.06223176357494717,
+      "y": 0.850290697832584
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014584026039034304,
+      "text": "①expect...to...（期望某人做某事）",
+      "width": 0.28111586323626436,
+      "x": 0.5278970027971039,
+      "y": 0.8430232558485724
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308139557956256,
+      "text": "④model ［'mpdl］v. 模仿；以⋯⋯为模板",
+      "width": 0.3047210341909339,
+      "x": 0.062231761391657404,
+      "y": 0.8328488371847826
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023579882707335353,
+      "text": "•语篇分析。送",
+      "width": 0.1610455943160688,
+      "x": 0.42698793111418465,
+      "y": 0.7934426173359689
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "第四至六段分别介绍不同领域学者对新举措的看法。",
+      "width": 0.45493561201040666,
+      "x": 0.10085837875874513,
+      "y": 0.7688953489649624
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "第四段介绍生物统计学家帕马强尼对新举措的评价。关键词为：①advisory；②impact。",
+      "width": 0.7317596259821858,
+      "x": 0.1030043144981774,
+      "y": 0.7483745122528784
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017576057672190504,
+      "text": "①句指出 SBORE 成员、生物统计学家帕马强尼对 SBORE 角色的定位：发挥咨询作用。同位语a",
+      "width": 0.8476394975482846,
+      "x": 0.10300429262428391,
+      "y": 0.7281976747266203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "biostatistician...a member of the SBoRE group 明确人物“统计学相关”和“统计评审专家”的身份。副词",
+      "width": 0.8819742330891615,
+      "x": 0.06223176127577489,
+      "y": 0.7093023254366193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "primarily 限定 play an advisory role（其中 advisory 意力 having the role of giving professional advice“提供",
+      "width": 0.8841201870089072,
+      "x": 0.062231758304252774,
+      "y": 0.6889534883726658
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903684,
+      "text": "咨询服务的，顾问的”），强调委员会的主要功能应是“（科研）提供专业建议和意见”。",
+      "width": 0.7274677767177005,
+      "x": 0.06437770689866046,
+      "y": 0.6684005204300332
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "②③句援引帕马强尼原话说明其加入 SBORE的原因，指出成立 SBORE 的积极意义。",
+      "width": 0.7167381828439898,
+      "x": 0.10085838534839107,
+      "y": 0.6453488371553693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016304019213652987,
+      "text": "②句帕马强尼表明自己加入 SBORE 的原因，表达对SBORE 的赞扬态度。foresight（先见之明）表明",
+      "width": 0.8433476482837992,
+      "x": 0.10085835767140522,
+      "y": 0.6261378412387781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016264327015771407,
+      "text": "帕马强尼对“委员会成立”的赞许：具有前瞻性意义；found the foresight... to be.•.继而说明这一“远见”",
+      "width": 0.8841201870089072,
+      "x": 0.0643776692101388,
+      "y": 0.6072821846024785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317658160225676,
+      "text": "的内涵，其中 find 语用功能 to discover that sth is true after you have tested it or experienced it”（检验",
+      "width": 0.8798282791694158,
+      "x": 0.0665236396534893,
+      "y": 0.5884265280924916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "或经历后）发现（某事属实）”；novel（新颖的）、unique（极不寻常的；独特的）均褒义词，强调委员会与众",
+      "width": 0.8819742330891615,
+      "x": 0.06437769767215741,
+      "y": 0.5668604654294833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014606707117802431,
+      "text": "不同，意义非凡；likely to have a lasting impact 凸显帕马强尼对“委员会影响力”的认同和赞扬。",
+      "width": 0.8047210049034309,
+      "x": 0.06437770167918573,
+      "y": 0.5465116281475065
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "③句具体说明SBORE 影响的范围：《科学》自身以及想要效仿《科学》的大批出版物。句首This",
+      "width": 0.8454935436285389,
+      "x": 0.10300429410132426,
+      "y": 0.5247074122063661
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "impact 紧承上句末 a lasting impact。 will not only be through...but through...表明 SBoRE 不仅将影响",
+      "width": 0.8819742330891615,
+      "x": 0.06223176127577489,
+      "y": 0.504360464992267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "“《科学》所发表的文章”，还会影响到欲仿效《科学》此举的大批出版物，暗示：SBoRE 很可能会带动同行",
+      "width": 0.8841201284339011,
+      "x": 0.06223178864427964,
+      "y": 0.485465116592274
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "业共同提升科学出版内容的质量；其中 through 此处指“贯穿，遍布”，强调影响的范围之广。the",
+      "width": 0.8841201870089072,
+      "x": 0.06437768105103372,
+      "y": 0.4635890768822132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "publications in Science 泛指“《科学》中发表的文章”。hopefully（有望，可望）与 that 从句中的may一同表",
+      "width": 0.8841201284339012,
+      "x": 0.06223178131237708,
+      "y": 0.443313953283034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "明“更多出版物受到 SBoRE影响”是帕马强尼的期盼；a larger group of publishing places 与 Science itself",
+      "width": 0.8862660823536469,
+      "x": 0.06437769270193187,
+      "y": 0.4229651160071134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "相对，指代“更多出版物（即发表科研论文的地方）”。model..after 意同首段follow...from，指“仿效、",
+      "width": 0.8841201284339011,
+      "x": 0.0643777113910607,
+      "y": 0.40247074138848693
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630212922710117,
+      "text": "效法”；approach（方法，举措）此处具体指出版物为提升所发表文章的可复制性而推行的评审措施。",
+      "width": 0.8347639497548284,
+      "x": 0.06437769220949542,
+      "y": 0.3822674417701949
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "【深层解读】本段引证人物1对SBORE 的积极评价：全段主体为人物1的直接引语，通过抓取引语中",
+      "width": 0.8454935436285389,
+      "x": 0.1008583844395625,
+      "y": 0.3619186046724997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "an advisory role、a lasting impact、This impact 等关键词可提炼出本段主旨：人物1 对 SBoRE作用/影响",
+      "width": 0.8841201284339011,
+      "x": 0.06223177243541007,
+      "y": 0.3413524057930164
+    },
+    {
+      "confidence": 1,
+      "height": 0.016138135069213355,
+      "text": "的积极评价。",
+      "width": 0.1137795841854044,
+      "x": 0.06220892113097145,
+      "y": 0.32114604894534204
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.019135094433054056,
+      "text": "•真题精解•",
+      "width": 0.13741050617708583,
+      "x": 0.42914882553778533,
+      "y": 0.29203129006784767
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053316018,
+      "text": "33. Giovanni Parmigiani believes that the establishment of",
+      "width": 0.4763948290453305,
+      "x": 0.07510731444729159,
+      "y": 0.26592977905941995
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017691353672657506,
+      "text": "33.乔瓦尼•帕马强尼认为，统计评审编辑",
+      "width": 0.3862660823536468,
+      "x": 0.5493562243811166,
+      "y": 0.2613784134732997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011837708159447957,
+      "text": "the SBoRE may",
+      "width": 0.12875536078454897,
+      "x": 0.0751072997579401,
+      "y": 0.24563953512943937
+    },
+    {
+      "confidence": 1,
+      "height": 0.014591586605315121,
+      "text": "委员会的创立可能会",
+      "width": 0.18025750802711882,
+      "x": 0.566523608003608,
+      "y": 0.2441860468006073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013251504910472778,
+      "text": "［A］ pose a threat to all its peers",
+      "width": 0.2789699386040217,
+      "x": 0.0751073088632251,
+      "y": 0.22366709991055833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "［A］ 对所有同行构成威胁",
+      "width": 0.22746780600520333,
+      "x": 0.564377686875796,
+      "y": 0.22236670982380446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011879290343881133,
+      "text": "［B］ meet with strong opposition",
+      "width": 0.27467808933953636,
+      "x": 0.07510731183953069,
+      "y": 0.20203488389397417
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "［B］遭到强烈反对",
+      "width": 0.16094420098068618,
+      "x": 0.5643776869291848,
+      "y": 0.19895968795770214
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394339413799,
+      "text": "［C］ increase Science's circulation",
+      "width": 0.27896993860402175,
+      "x": 0.0751073065205928,
+      "y": 0.17877907049017694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "［C］增加《科学》的发行量",
+      "width": 0.22103003210847527,
+      "x": 0.5643776859665063,
+      "y": 0.17732558153897937
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01320803211941357,
+      "text": "［D］ set an example for other journals",
+      "width": 0.31974247732912964,
+      "x": 0.07510730610474839,
+      "y": 0.15539661921324566
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "［D］为其他期刊杂志树立榜样",
+      "width": 0.26180257083358327,
+      "x": 0.5643776812677578,
+      "y": 0.15406976758549096
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "【精准定位】第四段②③句指出，Parmigiani认为“SBoRE的创立富有远见，且可能会产生持久影响。",
+      "width": 0.8476394975482845,
+      "x": 0.10085836886840822,
+      "y": 0.12790697670323048
+    },
+    {
+      "confidence": 1,
+      "height": 0.01771781534460337,
+      "text": "这种影响将不光是辐射《科学》中发表的内容，也有望波及更多想效仿《科学》的出版单位”，即会为其他",
+      "width": 0.8819742330891616,
+      "x": 0.06437769669576249,
+      "y": 0.10728218457024918
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "期刊树起榜样，［D］正确。",
+      "width": 0.2145922728554987,
+      "x": 0.06437768510300883,
+      "y": 0.08842652773746662
+    },
+    {
+      "confidence": 1,
+      "height": 0.011703511053316018,
+      "text": "36",
+      "width": 0.023605148989042257,
+      "x": 0.07725321920183083,
+      "y": 0.06827048141775705
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析。以\n①primarily ［'praorl］ad. 首先；主要地；根本上\n⑤approach ［o'prautj］n.（处理问题的）方法，态度\n②advisory ［od'vaizon］a.劝告的，忠告的；提供咨询的\n• 经典搭配\n③foresight［'fossart］n.先见；预见；深谋远虑\n①expect...to...（期望某人做某事）\n④model ［'mpdl］v. 模仿；以⋯⋯为模板\n•语篇分析。送\n第四至六段分别介绍不同领域学者对新举措的看法。\n第四段介绍生物统计学家帕马强尼对新举措的评价。关键词为：①advisory；②impact。\n①句指出 SBORE 成员、生物统计学家帕马强尼对 SBORE 角色的定位：发挥咨询作用。同位语a\nbiostatistician...a member of the SBoRE group 明确人物“统计学相关”和“统计评审专家”的身份。副词\nprimarily 限定 play an advisory role（其中 advisory 意力 having the role of giving professional advice“提供\n咨询服务的，顾问的”），强调委员会的主要功能应是“（科研）提供专业建议和意见”。\n②③句援引帕马强尼原话说明其加入 SBORE的原因，指出成立 SBORE 的积极意义。\n②句帕马强尼表明自己加入 SBORE 的原因，表达对SBORE 的赞扬态度。foresight（先见之明）表明\n帕马强尼对“委员会成立”的赞许：具有前瞻性意义；found the foresight... to be.•.继而说明这一“远见”\n的内涵，其中 find 语用功能 to discover that sth is true after you have tested it or experienced it”（检验\n或经历后）发现（某事属实）”；novel（新颖的）、unique（极不寻常的；独特的）均褒义词，强调委员会与众\n不同，意义非凡；likely to have a lasting impact 凸显帕马强尼对“委员会影响力”的认同和赞扬。\n③句具体说明SBORE 影响的范围：《科学》自身以及想要效仿《科学》的大批出版物。句首This\nimpact 紧承上句末 a lasting impact。 will not only be through...but through...表明 SBoRE 不仅将影响\n“《科学》所发表的文章”，还会影响到欲仿效《科学》此举的大批出版物，暗示：SBoRE 很可能会带动同行\n业共同提升科学出版内容的质量；其中 through 此处指“贯穿，遍布”，强调影响的范围之广。the\npublications in Science 泛指“《科学》中发表的文章”。hopefully（有望，可望）与 that 从句中的may一同表\n明“更多出版物受到 SBoRE影响”是帕马强尼的期盼；a larger group of publishing places 与 Science itself\n相对，指代“更多出版物（即发表科研论文的地方）”。model..after 意同首段follow...from，指“仿效、\n效法”；approach（方法，举措）此处具体指出版物为提升所发表文章的可复制性而推行的评审措施。\n【深层解读】本段引证人物1对SBORE 的积极评价：全段主体为人物1的直接引语，通过抓取引语中\nan advisory role、a lasting impact、This impact 等关键词可提炼出本段主旨：人物1 对 SBoRE作用/影响\n的积极评价。\n•真题精解•\n33. Giovanni Parmigiani believes that the establishment of\n33.乔瓦尼•帕马强尼认为，统计评审编辑\nthe SBoRE may\n委员会的创立可能会\n［A］ pose a threat to all its peers\n［A］ 对所有同行构成威胁\n［B］ meet with strong opposition\n［B］遭到强烈反对\n［C］ increase Science's circulation\n［C］增加《科学》的发行量\n［D］ set an example for other journals\n［D］为其他期刊杂志树立榜样\n【精准定位】第四段②③句指出，Parmigiani认为“SBoRE的创立富有远见，且可能会产生持久影响。\n这种影响将不光是辐射《科学》中发表的内容，也有望波及更多想效仿《科学》的出版单位”，即会为其他\n期刊树起榜样，［D］正确。\n36",
+  "pdf_text_layer": "难             J\n                                                             …\n                                                             与…\n                                               词\n                                               …   注 …\n                                                   …     释    －   旬\n                                                                  …   析\n                                                                      … …\n\n\n                                               …   广」    －        …   分…\n( primarily [ 1pra1mar山］ αd . 首先 ； 主要 地；根 本上                  $   ( approach [a 'prautf]η．（处理问题的）方法，态度\n( advisory [ ad1va 旧r 1 ］ α． 劝告的，忠告 的；提供 咨询 的                 ~\n                                                              « ·经典搭配\n( foresight [ 'f;i:sa1t] n . 先见 ； 预见 ； 深谋远虑                   ~   ① ex阳     to.   （ 期 望某 人做某 事）\n( model [ 'mod l] v . 模仿；以 …… 为模板                             $\n\n                                                   ＞：：语毒分析：＜： 1'\n       第四至六段分别介绍不同领域学者对新举措的看法。\n       第四段介绍生物统计学家帕马强尼对新举措的评价。关键词为： ① advisory ； ② impact 。\n       ① 旬指出 SBoRE 成员、生物统计学家帕马强尼对 SBoRE 角色的定位 ： 发挥咨询作用 。 同位语 a\nbios tatistician .. . a m ember of th e SBoRE gro up 明确人物 “统 计 学相关” 和“统计评审 专家” 的 身份。 副词\npnmanly 限定 play an advisory ro l e （其中 a d v i sory 意为 hav ing the ro le of giving professional advice“提 供\n咨询服务的，顾 问的 勺，强调委员会的主要 功能应 是“（为科研 ）提 供 专 业建议和 意 见” 。\n       ②③ 旬援引帕马强尼原话说明其加入 SBoRE 的原因，指出成立 SBoRE 的积极意义。\n       ② 旬帕马强尼表明自己加入 SBoRE 的原因，表达对 SBoRE 的赞扬态度。 foresight C 先见之明）表明\n帕马强尼对“委员会成立”的赞许 ： 具有前瞻性意义 ； found t he for esight .. . to be ． ．．继而说明这 一 “远见”\n的内涵，其中 find 语用功能为 to di scover that sth is tru e a ft er you have tested it or experi enced it“（检验\n或经历后）发现（某事属实）”； nov巳1 （新颖 的 ） 、 uniqu e （极不寻常 的；独特的 ） 均为 褒义 词，强调 委员会 与众\n不同，意义非凡； li k e l y to have a las ting im pac t 凸 显 帕 马强尼对“委员会影响力”的认同和赞扬。\n       ③ 旬具体说明 SBoRE 影晌的范围：《科学》自身以及想要效仿《科学》的大批出版物 。 句首 This\nimpa ct 紧承上句末 a las ting i mpact 。 w ill not only be throug h .. . but t hroug h ... 表 明 SBoRE 不仅将影响\n“《科学 》所 发表 的 文章” ，还 会影 响到欲仿 效《 科 学》 此 举 的大批出版物，暗 示： SBoRE 很可能会带动同行\n业共同 提升科学 出版内 容 的质 量 ； 其 中 through 此处指“贯 穿， 遍布”，强调影响的范围之广 。 the\npubli ca tions in Scie盯t 泛指“《科学》 r.1习发表 的文 章 ” 。 ho pefu ll y （有 望， 可 望） 与 th a t 从句中的 may 一 同 表\n明“更多出版物受到 SBoRE 影 响” 是 帕 马 强尼的期盼； a larger gro up of publi shing p l aces 与 Science itself\n相 对 ，指代 “更多 出版物（即 发表 科研论文的地方）” 。 mod e l. .. a ft er 意 同 首 段 follow ... from ，指“仿效、\n效法”； a ppro ac h （方法，举措） 此处 具 体指出版物为提升所发 表文章 的可 复 制性而推行的评 审措施。\n       【深层解读】本段引证人物 l 对 SBoRE 的积极评价： 全段主 体为人物 l 的 直接 引语 ，通 过抓取引语中\na n advisory role 、 a las ting imp ac t 、 Thi s i mpa c t 等关键 词可提炼出本段 主旨 ：人物 I 对 SBoRE 作用 ／ 影 响\n的积极评价 。\n\n                                                   ：：：－真题信解：：~： ： i/\n 33 . Giovanni Parmigiani believes that the establishment of           33. 乔瓦尼·帕马强尼认为，统计评审编辑\n\n the SBoRE may 一一一一一·                                                  委员会的创立可能会                  。\n\n\n\n\n [ A] pose a th reat to a ll its peers                                 [A］对所有 同行构成威胁\n\n [ BJ meet wit h stro ng oppos it io n                                 [BJ 遭 到强烈 反对\n\n [ CJ in crease Scieηce ’ s ci rcul at ion                             [CJ 增加 《 科学 》 的 发行量\n\n [ DJ se t an exa mpl e for other jo urna ls                           [ DJ 为其 他期刊 杂 志树 立榜样\n\n       【精准定位】 第四段 ②③ 句指出， Parmig i an i 认为“ SBoRE 的创 立富有远 见 ，且 可能 会产生持久影 响 。\n这种影响将不光是辐射《 科学 》 中 发表的 内 容 ，也有 望波及更多想效仿 《 科学 》 的出版 单位” ，即 会为其 他\n期刊树起榜样， ［ DJ 正确 。\n  36",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 1987,
+    "pdf_text_character_count": 3427,
+    "nonempty": true
+  }
+}

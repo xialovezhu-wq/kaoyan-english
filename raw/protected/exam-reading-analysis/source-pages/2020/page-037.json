@@ -1,0 +1,582 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P037",
+  "year": 2020,
+  "pdf_page": 37,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013268686682256225,
+      "text": "［B］ is apt to arouse criticism at home and abroad",
+      "width": 0.420042644962966,
+      "x": 0.07036247982839593,
+      "y": 0.8982558142877963
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014722175044286523,
+      "text": "［B］容易引发国内外批评",
+      "width": 0.22174840284568498,
+      "x": 0.5223880602890064,
+      "y": 0.8968023261267034
+    },
+    {
+      "confidence": 1,
+      "height": 0.013292427720694722,
+      "text": "［C］",
+      "width": 0.04051172685686663,
+      "x": 0.06823027780290995,
+      "y": 0.8764534886882324
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01060091735230606,
+      "text": "aims to",
+      "width": 0.06623670677052992,
+      "x": 0.10654049412621214,
+      "y": 0.8776937273048033
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418101509763,
+      "text": "ease international trade tensions",
+      "width": 0.2729210986913282,
+      "x": 0.1769722910239164,
+      "y": 0.8779069770199815
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014745915650023367,
+      "text": "［C］ 旨在缓和国际贸易紧张局势",
+      "width": 0.2793177009105047,
+      "x": 0.5223880596060483,
+      "y": 0.8750000005556902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570247,
+      "text": "D］ will prompt the tech giants to quit France",
+      "width": 0.38379532043213216,
+      "x": 0.0810234523638912,
+      "y": 0.8546511630959358
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01473800240324541,
+      "text": "［D］将促使科技巨头退出法国",
+      "width": 0.26226012208331606,
+      "x": 0.5202558638410713,
+      "y": 0.8529945551951342
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "［精准定位］第二段②句指出：美国贸易代表已开始针对“法国数字服务税是否是对美国企业的歧",
+      "width": 0.8486140387036036,
+      "x": 0.09594884504052237,
+      "y": 0.8312159706132001
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599364791288571,
+      "text": "视”展开调查，（如果调查发现属实，）美国将（极）可能对法国实施贸易制裁。可见，数字服务税有可能引",
+      "width": 0.8848613632344375,
+      "x": 0.05970152339344217,
+      "y": 0.8124999999116691
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "发（美国）针对法国的反制措施，故［A］正确。",
+      "width": 0.37526653101853774,
+      "x": 0.059701493925699047,
+      "y": 0.7921511626330514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "［命题解密］正确项是对②句 could lead to trade sanctions against France 的同义转述，其中",
+      "width": 0.8486140387036034,
+      "x": 0.09594885024917295,
+      "y": 0.7745009071118161
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033814,
+      "text": "countermeasures“对抗策略，反制措施”是 trade sanctions“（对某国的）贸易制裁”的上义表达。",
+      "width": 0.7931769684691244,
+      "x": 0.055437092204670385,
+      "y": 0.7558139532365238
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "［B］利用②句 has already sparked significant controversy 设障，但错误有三：一、将既有事实“已经引",
+      "width": 0.8464818718271472,
+      "x": 0.09594883483536026,
+      "y": 0.7382032666279096
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860344362348,
+      "text": "发（has already）”偷换为常规倾向“易于⋯⋯（is apt to）”，二、将“争议（controversy）”偷换为“批评",
+      "width": 0.8848613632344375,
+      "x": 0.05756932470321988,
+      "y": 0.71947674432948
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511917,
+      "text": "（criticism）”，三、将范围由“国外（from America）”偷换为“国内外（at home and abroad）”；［C］利用②句",
+      "width": 0.8869936113827397,
+      "x": 0.055437089617798675,
+      "y": 0.7005444650190258
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "trade sanctions 所传递的贸易紧张局势设障，但该词指向法国数字服务税的“可能性后果：引发美国对法",
+      "width": 0.8869936113827398,
+      "x": 0.055437100193491476,
+      "y": 0.6831395351185165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "国的贸易制裁”而非“目的：缓和国际贸易紧张局势”；［D］由②句 discriminates against American",
+      "width": 0.8891257782591961,
+      "x": 0.05756931592370676,
+      "y": 0.6642441859581808
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01889520807837408,
+      "text": "companies”（法国数字服务税）对美国公司（尤指美国科技巨头）的歧视”捏造而来，但首先“歧视与否尚处",
+      "width": 0.8871810242593209,
+      "x": 0.055344474339895,
+      "y": 0.6451992869834118
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "调查之中，结果尚未可知”，其次“即便歧视属实，其后果指向的是‘美国发起贸易制裁’而非‘科技巨头退",
+      "width": 0.8848613632344374,
+      "x": 0.05756932723139512,
+      "y": 0.6279069768917723
+    },
+    {
+      "confidence": 1,
+      "height": 0.017468239564428334,
+      "text": "出法国””，而且文中自始至终并未提及美国企业的可能行为。",
+      "width": 0.5202558697777963,
+      "x": 0.05756929841600577,
+      "y": 0.6075317602007761
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186034436246,
+      "text": "［技巧总结］本题于长难句兼对比转折处设题，解答关键在借助关键动、名词（谓语部分信息）锁定句",
+      "width": 0.8486140387036035,
+      "x": 0.09381663741792139,
+      "y": 0.5901162790211327
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362237,
+      "text": "意重点，再将选项指向与句意指向比对，合理找出正确选项。四个选项中［A］、［D］指向可能性结果、［B］",
+      "width": 0.8869936113827396,
+      "x": 0.057569299781266806,
+      "y": 0.5712209303898343
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016093888429894343,
+      "text": "指向属性/趋势，［C］指向目的；而据由句内核心谓语信息“has already sparked significant controversy*",
+      "width": 0.8848613632344373,
+      "x": 0.057569325756626225,
+      "y": 0.5537790697154483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "opening an investigation-discriminates against-could lead to trade sanctions against France”可知语义重",
+      "width": 0.8848613632344374,
+      "x": 0.05756932723139512,
+      "y": 0.5376588023802309
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511695,
+      "text": "点指向“后果/可能性结果：已经引发重大争议、日后可能导致对法国的贸易制裁”，由此排除指向不一致",
+      "width": 0.8848613632344373,
+      "x": 0.057569325756626225,
+      "y": 0.517241379588375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016064871460902408,
+      "text": "的［B］、［C］以及指向虽同、但内容相异的［DJ。",
+      "width": 0.3880596948209678,
+      "x": 0.057569302482906246,
+      "y": 0.49709302312595494
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01473536465431946,
+      "text": "I OThe French tax is not just a unilateral® move® by",
+      "width": 0.4562899694938,
+      "x": 0.10021322040590748,
+      "y": 0.46802325620007
+    },
+    {
+      "confidence": 1,
+      "height": 0.014650951496269604,
+      "text": "数字服务税不仅仅是法国一国为增",
+      "width": 0.3155650254413387,
+      "x": 0.6204690837967436,
+      "y": 0.4622093027116979
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011852129401399125,
+      "text": "one country in",
+      "width": 0.13432835199226553,
+      "x": 0.057569301722417254,
+      "y": 0.44912790706544503
+    },
+    {
+      "confidence": 1,
+      "height": 0.011796733212341204,
+      "text": "need",
+      "width": 0.04264392167052006,
+      "x": 0.19402985195791694,
+      "y": 0.45054446450171404
+    },
+    {
+      "confidence": 1,
+      "height": 0.011796733212341204,
+      "text": "of",
+      "width": 0.029850745169364007,
+      "x": 0.23667377403934073,
+      "y": 0.4505444646437178
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418101509763,
+      "text": "revenue.",
+      "width": 0.07889125636033462,
+      "x": 0.2686567185504652,
+      "y": 0.4491279073009893
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011796733212341204,
+      "text": "② Instead, the digital",
+      "width": 0.19616203460490184,
+      "x": 0.3624733520649976,
+      "y": 0.4505444646679426
+    },
+    {
+      "confidence": 1,
+      "height": 0.016017389384025638,
+      "text": "加财政收入而采取的单边行动。相反，它",
+      "width": 0.35607674467896977,
+      "x": 0.5799573655069971,
+      "y": 0.44328493651825873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01713212302289291,
+      "text": "services tax is part of a much larger trend, with countries",
+      "width": 0.5013391974762818,
+      "x": 0.05740757666118761,
+      "y": 0.4292567703260941
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010975,
+      "text": "代表着一个更大的趋势，各国在过去几年",
+      "width": 0.35607674467896977,
+      "x": 0.5799573607247857,
+      "y": 0.42422867524457253
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014706347685327525,
+      "text": "over the past few years proposing®or putting in place an",
+      "width": 0.4989338759258488,
+      "x": 0.05756930438249144,
+      "y": 0.4113372096690623
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033703,
+      "text": "里提出或实施了一系列以首字母组合命",
+      "width": 0.3582089521913491,
+      "x": 0.5799573602938066,
+      "y": 0.4069767441582778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01706831771102879,
+      "text": "alphabet soup of new international tax provisions®",
+      "width": 0.41828810771835473,
+      "x": 0.05741051890111798,
+      "y": 0.39143963314701313
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01454543461600577,
+      "text": "•⑧ They",
+      "width": 0.08528784334104,
+      "x": 0.47334755025556385,
+      "y": 0.39244186102080647
+    },
+    {
+      "confidence": 1,
+      "height": 0.018519385973035485,
+      "text": "名的国际税收新规。它们包括英国的转",
+      "width": 0.3563960617614015,
+      "x": 0.5798210226684218,
+      "y": 0.3856350617748745
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "have included Britain's DPT（diverted",
+      "width": 0.3624733265801847,
+      "x": 0.05756930232824461,
+      "y": 0.37500000020712776
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394825570136,
+      "text": "profits tax），",
+      "width": 0.12366737538425326,
+      "x": 0.43283581984163316,
+      "y": 0.3750000001405095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016022664881877646,
+      "text": "移利润税（DPT）、澳大利亚的跨国公司反",
+      "width": 0.35607674467896966,
+      "x": 0.579957362735142,
+      "y": 0.3691860461907389
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "Australia's MAAL （multinational anti-avoidance law），and",
+      "width": 0.4989338759258489,
+      "x": 0.059701511770550844,
+      "y": 0.35753176023459265
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016099164793149545,
+      "text": "避税法（MAAL）和印度的显著经济存在",
+      "width": 0.35607674467896966,
+      "x": 0.5799573603008847,
+      "y": 0.35163339339837896
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015991010163959762,
+      "text": "India's SEP （significant economic presence）",
+      "width": 0.3837952797962092,
+      "x": 0.05330492353473108,
+      "y": 0.33575317613440014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01181519832022615,
+      "text": "test,to name",
+      "width": 0.12366737538425326,
+      "x": 0.4349680160036801,
+      "y": 0.3384754992654916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "（SEP）测试，等等。与此同时，欧盟、西班",
+      "width": 0.35820895219134896,
+      "x": 0.5778251569533661,
+      "y": 0.3312159712735576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016197508346363798,
+      "text": "but a few.",
+      "width": 0.0985827998378464,
+      "x": 0.055186212281171265,
+      "y": 0.31602915342242377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01471689868103132,
+      "text": "④At the same time, the European Union，",
+      "width": 0.3901919023333472,
+      "x": 0.16631130220219628,
+      "y": 0.3183139540004577
+    },
+    {
+      "confidence": 1,
+      "height": 0.020750665405051882,
+      "text": "牙、英国和其他几个国家也都认真思忖过",
+      "width": 0.35469382294960883,
+      "x": 0.5817208182149335,
+      "y": 0.3106435366866822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017090799155122793,
+      "text": "Spain, Britain and several other countries have all seriously",
+      "width": 0.5013244872721788,
+      "x": 0.05742505422375946,
+      "y": 0.29783558213102324
+    },
+    {
+      "confidence": 1,
+      "height": 0.015648821088233622,
+      "text": "数字服务税。",
+      "width": 0.11330365055251845,
+      "x": 0.5798087300368786,
+      "y": 0.29304768249406576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013297703651248272,
+      "text": "contemplated® digital services taxes.",
+      "width": 0.30277184132094703,
+      "x": 0.057569307004771565,
+      "y": 0.2817604356401705
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.019056261343012637,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.21961619533330562,
+      "x": 0.37100213870506,
+      "y": 0.24410163372012406
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01473536465431946,
+      "text": "① unilateral ［jumni'leetral］ a.单方的，单边的",
+      "width": 0.33688697865736306,
+      "x": 0.055437104317373954,
+      "y": 0.21802325620976004
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860344362348,
+      "text": "• 经典搭配",
+      "width": 0.11087420142284243,
+      "x": 0.5223880585636321,
+      "y": 0.21947674435543507
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014574451584997705,
+      "text": "②move ［murv］n.举措，行动",
+      "width": 0.22174840284568495,
+      "x": 0.05543709644496145,
+      "y": 0.19912790738708552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016025302630803484,
+      "text": "①an alphabet soup of 字母汤，［喻］大杂烩",
+      "width": 0.3262260020493508,
+      "x": 0.5223880623548556,
+      "y": 0.2005444648872754
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014732726039990318,
+      "text": "③propose ［pre'pauz］v. 提议：建议",
+      "width": 0.27078891149691037,
+      "x": 0.05543709736988176,
+      "y": 0.18148820363687768
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013229118284858954,
+      "text": "②put in place 实施",
+      "width": 0.1471215361126571,
+      "x": 0.5245202539266139,
+      "y": 0.18459302344477302
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016078061070935457,
+      "text": "④provision ［pra'visn］n.（法律文件的）规定，条款",
+      "width": 0.3901919023333473,
+      "x": 0.05543709299643953,
+      "y": 0.16560798551085476
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01599101016395965,
+      "text": "⑤ contemplate ［'kontemplert］v. 考虑，思量；思付",
+      "width": 0.3773986978949942,
+      "x": 0.057569310464625954,
+      "y": 0.1482558138859218
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.019056261343012748,
+      "text": "•语篇分析。",
+      "width": 0.11940298067745603,
+      "x": 0.4221748412888484,
+      "y": 0.12205081689798614
+    },
+    {
+      "confidence": 1,
+      "height": 0.022697227187251867,
+      "text": "第三至五段为第二部分，由法国单边意欲收取的数字服务税延及其他国家类似单边举措，指出国际",
+      "width": 0.8468826232991428,
+      "x": 0.09575533622277373,
+      "y": 0.09502035503240824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02114419539048329,
+      "text": "组织 OECD的应对之策。",
+      "width": 0.21400187526657166,
+      "x": 0.057177035943470074,
+      "y": 0.07376362429319272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744713670761744,
+      "text": "第三段由法国延展至其他国家，明确国际税收大势。关键词为：a much larger trend。",
+      "width": 0.7164179043826981,
+      "x": 0.09594882316046349,
+      "y": 0.0610465115720048
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394825570136,
+      "text": "37",
+      "width": 0.025586353002312046,
+      "x": 0.9019189770169677,
+      "y": 0.04651162833212774
+    }
+  ],
+  "vision_ocr_text": "［B］ is apt to arouse criticism at home and abroad\n［B］容易引发国内外批评\n［C］\naims to\nease international trade tensions\n［C］ 旨在缓和国际贸易紧张局势\nD］ will prompt the tech giants to quit France\n［D］将促使科技巨头退出法国\n［精准定位］第二段②句指出：美国贸易代表已开始针对“法国数字服务税是否是对美国企业的歧\n视”展开调查，（如果调查发现属实，）美国将（极）可能对法国实施贸易制裁。可见，数字服务税有可能引\n发（美国）针对法国的反制措施，故［A］正确。\n［命题解密］正确项是对②句 could lead to trade sanctions against France 的同义转述，其中\ncountermeasures“对抗策略，反制措施”是 trade sanctions“（对某国的）贸易制裁”的上义表达。\n［B］利用②句 has already sparked significant controversy 设障，但错误有三：一、将既有事实“已经引\n发（has already）”偷换为常规倾向“易于⋯⋯（is apt to）”，二、将“争议（controversy）”偷换为“批评\n（criticism）”，三、将范围由“国外（from America）”偷换为“国内外（at home and abroad）”；［C］利用②句\ntrade sanctions 所传递的贸易紧张局势设障，但该词指向法国数字服务税的“可能性后果：引发美国对法\n国的贸易制裁”而非“目的：缓和国际贸易紧张局势”；［D］由②句 discriminates against American\ncompanies”（法国数字服务税）对美国公司（尤指美国科技巨头）的歧视”捏造而来，但首先“歧视与否尚处\n调查之中，结果尚未可知”，其次“即便歧视属实，其后果指向的是‘美国发起贸易制裁’而非‘科技巨头退\n出法国””，而且文中自始至终并未提及美国企业的可能行为。\n［技巧总结］本题于长难句兼对比转折处设题，解答关键在借助关键动、名词（谓语部分信息）锁定句\n意重点，再将选项指向与句意指向比对，合理找出正确选项。四个选项中［A］、［D］指向可能性结果、［B］\n指向属性/趋势，［C］指向目的；而据由句内核心谓语信息“has already sparked significant controversy*\nopening an investigation-discriminates against-could lead to trade sanctions against France”可知语义重\n点指向“后果/可能性结果：已经引发重大争议、日后可能导致对法国的贸易制裁”，由此排除指向不一致\n的［B］、［C］以及指向虽同、但内容相异的［DJ。\nI OThe French tax is not just a unilateral® move® by\n数字服务税不仅仅是法国一国为增\none country in\nneed\nof\nrevenue.\n② Instead, the digital\n加财政收入而采取的单边行动。相反，它\nservices tax is part of a much larger trend, with countries\n代表着一个更大的趋势，各国在过去几年\nover the past few years proposing®or putting in place an\n里提出或实施了一系列以首字母组合命\nalphabet soup of new international tax provisions®\n•⑧ They\n名的国际税收新规。它们包括英国的转\nhave included Britain's DPT（diverted\nprofits tax），\n移利润税（DPT）、澳大利亚的跨国公司反\nAustralia's MAAL （multinational anti-avoidance law），and\n避税法（MAAL）和印度的显著经济存在\nIndia's SEP （significant economic presence）\ntest,to name\n（SEP）测试，等等。与此同时，欧盟、西班\nbut a few.\n④At the same time, the European Union，\n牙、英国和其他几个国家也都认真思忖过\nSpain, Britain and several other countries have all seriously\n数字服务税。\ncontemplated® digital services taxes.\n•词汇注释与难句分析。\n① unilateral ［jumni'leetral］ a.单方的，单边的\n• 经典搭配\n②move ［murv］n.举措，行动\n①an alphabet soup of 字母汤，［喻］大杂烩\n③propose ［pre'pauz］v. 提议：建议\n②put in place 实施\n④provision ［pra'visn］n.（法律文件的）规定，条款\n⑤ contemplate ［'kontemplert］v. 考虑，思量；思付\n•语篇分析。\n第三至五段为第二部分，由法国单边意欲收取的数字服务税延及其他国家类似单边举措，指出国际\n组织 OECD的应对之策。\n第三段由法国延展至其他国家，明确国际税收大势。关键词为：a much larger trend。\n37",
+  "pdf_text_layer": "[BJ is apt to arouse criticism at home and abroaq                                                            [BJ ~irsl£OOJt-J?'~ffl:W\n   [CJ aims to ease international trade tensions                                                                [ CJ ~ tE ~ *1 00 ~ fi ~ ~ f.u ~                    *\n   [DJ will prompt the tech giants to quit France                                                               [D] ~ {fE 151! ~ tt e ~ iEl lli t! 00\n        [ *-illEfn: ] ffi.=ti@1iJffi ili :~ 00 'ii. ~ft~ B 7f ~ttx.t\"i! IE~* JJll*~-¾ ~¾x-t~ 001e)lr (f(J ~\n            *                       *\n~,, !fk ii1 ~ , <~o ~ 1t :b.~~~ , ) ~ oo ~ <t&) m·rm ~ ~ oo ~ nm: fi ~ 1b!J ~ mfil , 1t                                                  ;tf m;m i3 I   0                     ~JM* m\n£ C~ l~D #Xift!-IE B9 & iMffi»m, $[A].iE fl.ffl o\n        [ fr,-,S M \\f J .iE rot!~~ X;f ® 1i] could lead to trade sanctions against France 09 ~>I..~~, :Jt 'P\ncountermeasures\"~mffi I&, ffe. 1fi!Jffili&\"¾ trade sanctions\" (~.f ¥ 00 09) M~ ftlJ •\"09 ..t.5l~i:5 o\n        [B]~JJfl@1i) has already sparked significant controversy~-=, ffi ffi~;;fi - : - ,~ R1t;tf $~\" B ~ 51\n~ (has already)\" {tu~ '1 # ~ i~ IO] \"~ T ··· ··· ( is apt to)\",.=, #f \"~ 1)l (controversy)\" -f1fu ~ 1-J \"ffl; Vl2\n(criticism)\", = .. ~°f[ Ill EB \"00?'~ ( from America)\"~~ 1-;\" ~ Jf-1 ?'~ ( at home and abroad)\"; [ C] *'J Jfl ® 1iJ\ntrade sanctions Nrft:il 09 M£ ~                                  *fiij~~-, w:~m\n                                                                     {B            IPJ i!        Hll*ffl. 09\"iij\" fmttFo\n00 09 J.i. ~ ffilJ ~\" ffij ~~\" El 09: ~ *1 00 ~ 1:1. £ ~ 5* !ffl ~\" ; [DJ EB @ 1iJ discriminates against American\n                                                                                                                        ml~*        51 :b.~ 00 x.t ~                            *:\ncompanies\" <i! ffil~¥Hll*& )x-J~ 000 lsJ <:Jtffi~ OO~tt e ~) 09Jtt~\"ti~ W* ,ill 1t 16\" ~~ ~ ~ ~ ~\nilll~zi:fl ,~•                 ~*\n                              i:iJiil\" ,:Jttc\" ttPff~~~?k ,:JtFo*ffi 10J 09¾ '~oo iJ\".~jt£tJ~ 'w~~ 'f4tt e: ~:ifi!\n.t t!- ~ ' \" , ffif Jl x i:fl @:Mt~ ~ #                         *•\n                                                       .& ~ 00 ie ~ 09 i:iJ &~ fr '1 o\n         c~ x, ,~ ~ J ll1i r      * *   xt 1iJ ~ ~ tt ~ tJr tlt ~ ll1I , ff.f ~ ~ 1£ -m                           *                  m*m ,\n                                                                                                          ~ i; ~ <i~ iH ~ 1t-fiu~1-) fJ1! ~ 1iJ\n• 11 ~ , -11} )ftf ~ ]Ji ffi jPJ !:j 1iJ ~ ffi IPJ l:t x,t , ~ J.11! ?JG ili .iE ~ ~ tJL llY -1' ~ J:u! cp [ A] , [ D] ffi IPl i:iJ ~ tt ~ :W: , [ B]\nffi IP] .M£tt/ ~~ , [ C]ffi fP1 § (f(J; mi ffl EB 1iJ ~ ~ ,t:.,ifflffi{~ ,ti°!, \"has already sparked significant controversy\nopening an investigation-discriminates against-could lead to trade sanctions against France\"\"fiJ ~:llijf 5l1i\nh-ffilPJ\".T€i*li:iJ~tt~*: B~i31 ~'.l::kitiJl, 13 FoAJi~~~~.fr! IE (1(J J.i.~$tl~\", EB Jftf-fF~ffi l\"l~-fl:\n(J(J [ B] ,[C]v..{,& t1ii JPJ Ji~ , @. P3 ~ffl# ®[DJ o\n                               ······------··-··-- ..................... ----·-····· ·¥·······----· ......... -··· .. . ............ . .\n          ffi O The French tax is not just a unilateral(]) move(,!) by                             • ~ JIil ~ ;!it. ~ -1.st -1.st J!. 5!- 00 - 00 ;/.J Jt\none country in need of revenue. 8 Instead, the digital                                                                       ~M~~Am~~~~~~~ o ~li..,~\nservices tax is part of a much larger trend, with countries                                                                  ~*-- ~ -+ ~ :k. ~ ~ ~, .3- 00 ,/£ i:t¾ Jt.4\nover the past few years proposin gCD or putting in place an                                                                   I •t4~~1-J~~••~u¼•\nalphabet soup of new international tax provisions®. @ They                                                                    ~~oo~«~•• o ~~~-~oo~#\nhave included Britain 's DPT ( diverted profits tax),                                                                        ;f;$ '1:1J iM ;f;l ( DPT) , ~ :k. ~,J JE. ~ Jt 00 /~ ~ Ji..\nAustralia's MAAL (multinational anti-avoidance law), and\nIndia's SEP ( significant economic presence) test, to name\n                                                                                                                             il!.;Ji* ( MAAL) ;fp ~17 Ji..~\n                                                                                                                              ( SEP) ~l -a_ , ~ -f o ~ ~ ~ i;J- , it .I. , ~ JJl\n                                                                                                                                                                                    If.*       f§. ~,If,(£\n\n\nbut a few. O At the same time, the European Union,\nSpain, Britain and several other countries have all ser iously ~•a~4to\n                                                                                                                                     *\n                                                                                                                              .t , 00 :fi7 Jt. -kl!- JL t- 00 ~ ~ ~ ~ A- .$ •M- ii\ncontemplated~ digital services taxes.\n... .. .. ... ... . .··-· ... . . . ..... .. .. ............. . . ... .. .. . .. ... ..... ... ... . .. .. .. .. ... ... . ... .. . ... --... ---- ................................... -................ -- ....... .\n                                                                         :· --~~}~)ti·~~~:~:ir-:::~i: J\n(D unilateral [iju:n1 1lretral] a. lf!1fat] ,lp.,tiat)                                                  ~) e ~Amie\n@move [mu:v] n. ~ffi,fii;j\n® propose [pr3 pauz] v. t!\\Sl ;@\\SL\n                           1\n                                                                                                        i\n                                                                                                        }~\n                                                                                                                <Dan a lphabet soup of ~-BJ:~ 1 [Pfu Jjc~~\n                                                                                                                @put in place~~\n                         (~~Jt#e<.J)!W.~ .~~\n@ provision [ pra 1vl3D] n.\n@ contemplate ['kontamplett] v. ~.Lt ;,Flit ,,mtt                                                       I\n                                                                                     :1::~jiiJft: :~i:1\n         m=~~-~~=$~.~-~-~--~~~~•g•~m~-~~-~--~$ffl,ffiW~~\n          =m:\nffli.R OECD ~Bi.~ZMo\n       ffl                      ~-i l~\n            ~ -~~-~X~~~ , a~ifn OO~r-,Jt~*.~ o                                                                                           : a much larger trendo\n                                                                                                                                                                                                           37",
+  "quality": {
+    "vision_line_count": 70,
+    "vision_character_count": 2364,
+    "pdf_text_character_count": 7117,
+    "nonempty": true
+  }
+}

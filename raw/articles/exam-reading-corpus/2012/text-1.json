@@ -1,0 +1,112 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2012-T1",
+  "source_id": "RAW-ARTICLE-20260711-009",
+  "ingest_date": "2026-07-11",
+  "year": 2012,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 1,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2012年考研英语一真题.pdf",
+  "truth_pages": [
+    4,
+    5
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "analysis_page_range": "9-16",
+  "analysis_anchor_status": "approximate_text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2012/text-1.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2012/text-1.json",
+  "article_path": "articles/2026-07-11-2012-english-i-text-1.md",
+  "passage_paragraphs": [
+    "Come on - Everybody’s doing it. That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure. It usually leads to no good — drinking, drugs and casual sex. But in her new book Join the Club, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world.",
+    "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool. In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers.",
+    "The idea seems promising, and Rosenberg is a perceptive observer. Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology. “Dare to be different, please don’t smoke!” pleads one billboard campaign aimed at reducing smoking among teenagers — teenagers, who desire nothing more than fitting in. Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+    "But on the general effectiveness of the social cure, Rosenberg is less persuasive. Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful. The most glaring flaw of the social cure as it’s presented here is that it doesn’t work very well for very long. Rage Against the Haze failed once state funding was cut. Evidence that the loveLife program produces lasting changes is limited and mixed.",
+    "There’s no doubt that our peer groups exert enormous influence on our behavior. An emerging body of research shows that positive health habits - as well as negative ones — spread through networks of friends via social communication. This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+    "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions. It’s like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates. The tactic never really works. And that’s the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends."
+  ],
+  "questions": [
+    {
+      "number": 21,
+      "prompt": "According to the first paragraph, peer pressure often emerges as",
+      "options": {
+        "A": "a supplement to the social cure.",
+        "B": "a stimulus to group dynamics.",
+        "C": "an obstacle to social progress.",
+        "D": "a cause of undesirable behaviors."
+      }
+    },
+    {
+      "number": 22,
+      "prompt": "Rosenberg holds that public-health advocates should",
+      "options": {
+        "A": "recruit professional advertisers.",
+        "B": "learn from advertisers’ experience.",
+        "C": "stay away from commercial advertisers.",
+        "D": "recognize the limitations of advertisements."
+      }
+    },
+    {
+      "number": 23,
+      "prompt": "In the author’s view, Rosenberg’s book fails to",
+      "options": {
+        "A": "adequately probe social and biological factors.",
+        "B": "effectively evade the flaws of the social cure.",
+        "C": "illustrate the functions of state funding.",
+        "D": "produce a long-lasting social effect."
+      }
+    },
+    {
+      "number": 24,
+      "prompt": "Paragraph 5 shows that our imitation of behaviors",
+      "options": {
+        "A": "is harmful to our networks of friends.",
+        "B": "will mislead behavioral studies.",
+        "C": "occurs without our realizing it.",
+        "D": "can produce negative health habits."
+      }
+    },
+    {
+      "number": 25,
+      "prompt": "The author suggests in the last paragraph that the effect of peer pressure is",
+      "options": {
+        "A": "harmful.",
+        "B": "desirable.",
+        "C": "profound.",
+        "D": "questionable."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 437,
+    "paragraphs": 6,
+    "source_token_count": 445,
+    "final_token_count": 445,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

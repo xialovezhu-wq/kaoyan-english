@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P042",
+  "year": 2017,
+  "pdf_page": 42,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at",
+      "width": 0.8468084681786269,
+      "x": 0.10000001064472938,
+      "y": 0.8953488376614849
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837232465211,
+      "text": "his “official acts， ” or the former governor’'s decisions on “specific” and “ unsettled” issues related to his duties.",
+      "width": 0.8510638322702557,
+      "x": 0.06382979450316988,
+      "y": 0.8764534882708135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "The high court's decision said the judge in Mir. McDonnell's trial failed to tell a jury",
+      "width": 0.6659574490432302,
+      "x": 0.14468085736668254,
+      "y": 0.8485639686221562
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "主语",
+      "width": 0.04042553217871467,
+      "x": 0.22340425489848462,
+      "y": 0.8296344646503302
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287254,
+      "text": "谓语",
+      "width": 0.03617021185034319,
+      "x": 0.3510638298992965,
+      "y": 0.8296344647454457
+    },
+    {
+      "confidence": 1,
+      "height": 0.014557653556604544,
+      "text": "省略that的宾语从句，做said的宾语",
+      "width": 0.2851063890621266,
+      "x": 0.4574468030930502,
+      "y": 0.8313953491119783
+    },
+    {
+      "confidence": 1,
+      "height": 0.011939097944812405,
+      "text": "that",
+      "width": 0.03404255168615744,
+      "x": 0.5361702131781979,
+      "y": 0.7994186046219769
+    },
+    {
+      "confidence": 1,
+      "height": 0.013244580351030266,
+      "text": "it",
+      "width": 0.021276594347981237,
+      "x": 0.6106382984111158,
+      "y": 0.7994186050028788
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013244580351030266,
+      "text": "must look only at",
+      "width": 0.1382978742026918,
+      "x": 0.6553191471894344,
+      "y": 0.7994186050573845
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "宾语从句，做tell的宾语",
+      "width": 0.20212764995275911,
+      "x": 0.3106383043675921,
+      "y": 0.7891644907390014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014947245077427063,
+      "text": "先行词 主语",
+      "width": 0.11712976167580369,
+      "x": 0.5276053330978135,
+      "y": 0.7788635868258764
+    },
+    {
+      "confidence": 1,
+      "height": 0.014663913542545925,
+      "text": "谓语",
+      "width": 0.038297872014528944,
+      "x": 0.6999999998437993,
+      "y": 0.7790697677166294
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837232465211,
+      "text": "his \"official acts，” or the forer governor's decisions on “'specific” and \"unsettled” issues related to his duties.",
+      "width": 0.795744682589179,
+      "x": 0.14468085815221882,
+      "y": 0.7470930231836042
+    },
+    {
+      "confidence": 1,
+      "height": 0.01332427565173755,
+      "text": "宾语",
+      "width": 0.038297872014528944,
+      "x": 0.5255319146735866,
+      "y": 0.7265013054827383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652333,
+      "text": "功能注释：本句主干为 The high court’s decision said...。said 的宾语为省略 that 的宾语从句 the",
+      "width": 0.8425531624380079,
+      "x": 0.10425534069588951,
+      "y": 0.6976744185493986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837232465211,
+      "text": "judge in Mr. McDonnell's trial failed to tell a jury...，其中又嵌套一 that 引导的宾语从句做 tell 的宾语，",
+      "width": 0.8851063948972275,
+      "x": 0.061702129076208805,
+      "y": 0.6773255813158716
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01952441678657235,
+      "text": "or 后的内容对“officially acts”进行解释说明。",
+      "width": 0.38340409171284956,
+      "x": 0.06365763115103186,
+      "y": 0.6568761321842503
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018094965434261034,
+      "text": "•语篇分析，",
+      "width": 0.10873208128015588,
+      "x": 0.43180417321019304,
+      "y": 0.6319408894405678
+    },
+    {
+      "confidence": 1,
+      "height": 0.017596436542879568,
+      "text": "第二至四段阐述裁决的细节内容。",
+      "width": 0.2918187099478669,
+      "x": 0.10620966705369746,
+      "y": 0.6045798802024471
+    },
+    {
+      "confidence": 1,
+      "height": 0.01762402088772852,
+      "text": "第二段指出裁决（书面文件）对下级法院审判法官的看法：未能准确告知陪审团关注要点。关键词",
+      "width": 0.8382978566973889,
+      "x": 0.10638299352364582,
+      "y": 0.5842036556413197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016600855336799336,
+      "text": "为：failed to tell。",
+      "width": 0.14147212537251286,
+      "x": 0.06547981081730762,
+      "y": 0.5659584797685779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "独句成段。said（义同 suggested）一词辖域全句，明示全段语义重心“最高法院裁决内容”。must",
+      "width": 0.8425531624380079,
+      "x": 0.10425534069588951,
+      "y": 0.5450391643487483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017718896542143314,
+      "text": "look only at his “official acts”以表“强制性、命令性、必要性”的 must 以及表“唯一性”的only突出强调最",
+      "width": 0.8787233779352892,
+      "x": 0.06382980036746172,
+      "y": 0.5247093021509885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652333,
+      "text": "高法院判定麦克唐纳先生贪腐罪名是否成立的唯一要件：公务行；而 failed to tell... 直接指出下级法",
+      "width": 0.8765957250649796,
+      "x": 0.0659574620951696,
+      "y": 0.5058139534543162
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "院审判官在审判时出现的问题：未能掌握贪腐罪名成立必须满足“公务行”这一要件，进而未能如实提",
+      "width": 0.8787233779352892,
+      "x": 0.06382979160682367,
+      "y": 0.4869186049404667
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01845915821762678,
+      "text": "醒陪审团正确做法，导致案件错判，侧面解释最高法院推翻其判决的原因。连词 or（used to give more",
+      "width": 0.8831058305262608,
+      "x": 0.06376537864207421,
+      "y": 0.4644566935754132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "specific information“即，那就是，或者说”）解释抽象概念“麦克唐纳的公务行为”具体所指：就与其州长职",
+      "width": 0.8787233779352892,
+      "x": 0.06382980834618496,
+      "y": 0.4462209305393918
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01825027739721552,
+      "text": "责相关的“特定”、“待定”事宜所做出的公务性决定。",
+      "width": 0.4428483952071881,
+      "x": 0.0636936699156144,
+      "y": 0.4257847506972069
+    },
+    {
+      "confidence": 1,
+      "height": 0.017760641581084702,
+      "text": "【深层解读】本段形似指出审判法官的问题，实则指出贪腐罪名必须满足“公务行为”这一要件：麦克",
+      "width": 0.8404255095676985,
+      "x": 0.10212766221083197,
+      "y": 0.40665796324467096
+    },
+    {
+      "confidence": 1,
+      "height": 0.019044231185713856,
+      "text": "唐纳是否犯贪腐罪，重在看他的行为是否涉及公务行为，即是否为送礼者做出与其职责相关的政务性行",
+      "width": 0.8789077087752449,
+      "x": 0.06373285301945504,
+      "y": 0.38518943932926253
+    },
+    {
+      "confidence": 1,
+      "height": 0.01762402088772841,
+      "text": "为。预设下文将以此为起点，开始剖析麦克唐纳先生收取某公司礼物这一行为是否属公务行。",
+      "width": 0.8170212696432839,
+      "x": 0.06382980092303864,
+      "y": 0.3661879895197986
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01631853785900783,
+      "text": "ml Merely helping a gift-giver gain access to other",
+      "width": 0.41914892834869444,
+      "x": 0.10425532655260304,
+      "y": 0.3342036550703278
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014546268602575463,
+      "text": "大法官们裁决，仅仅帮助送礼者获取接近",
+      "width": 0.3531914851405652,
+      "x": 0.5851063880325542,
+      "y": 0.32702349856451596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014667708319721307,
+      "text": "officials, unless done with clear intent\"to pressure®",
+      "width": 0.4553191438459757,
+      "x": 0.06382979301318224,
+      "y": 0.31527415165260264
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "其他政府官员的机会并不属于腐败，除非带有",
+      "width": 0.39361700637846553,
+      "x": 0.5446808617930367,
+      "y": 0.3066860469317457
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014553858779429163,
+      "text": "those officials, is not corruption, the justices®found®",
+      "width": 0.4489361560595424,
+      "x": 0.06382980179292365,
+      "y": 0.2950391642742902
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008720930189127674,
+      "text": "•",
+      "width": 0.012765957338176315,
+      "x": 0.5063829788486423,
+      "y": 0.292151162667064
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "明确意图要对那些官员进行施压。",
+      "width": 0.28936169480274565,
+      "x": 0.5446808571376341,
+      "y": 0.28459530033111624
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01916479441889274,
+      "text": "词汇注释与难句分析",
+      "width": 0.19787234421214,
+      "x": 0.3829787198620151,
+      "y": 0.23955613552620336
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011749347258485643,
+      "text": "①intent［in'tent］n. 意图，目的",
+      "width": 0.23829786545004034,
+      "x": 0.0659574482678877,
+      "y": 0.21801566559337893
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013343250782620442,
+      "text": "③justice ［'dsAstis］ n. 法官",
+      "width": 0.2063829702811305,
+      "x": 0.5276595804090801,
+      "y": 0.2151162793427528
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011749347258485643,
+      "text": "②pressure ［'preja］v. 对…⋯施加压力，强迫",
+      "width": 0.34255319161351283,
+      "x": 0.06382978289005223,
+      "y": 0.19908616193041917
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013309095920532865,
+      "text": "④find ［faind］ v. 裁决，判决",
+      "width": 0.22127658413655438,
+      "x": 0.5255319184849143,
+      "y": 0.19622093037715205
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018895348431858694,
+      "text": "•语篇分析。",
+      "width": 0.11702127256083444,
+      "x": 0.4297872375227742,
+      "y": 0.17005813979206497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "第三段指出裁决（大法官们）对“政府官员单纯帮助送礼者获取接近其他政府官员的机会”与“腐败”",
+      "width": 0.8404255095676983,
+      "x": 0.10425533732607982,
+      "y": 0.14534883720249925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01820864814379819,
+      "text": "的区辨：前者后者。关键词为：Merely helping. ..is not corruption。",
+      "width": 0.5747322388862333,
+      "x": 0.06370135303973866,
+      "y": 0.12429557516300194
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772841,
+      "text": "独句成段。尾词 found（取其僻义“裁决”）一词辖域全句，明示本段语义重心同上段。merely、unless",
+      "width": 0.8425531624380078,
+      "x": 0.10212768252567679,
+      "y": 0.10313315957317482
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "以或显或隐的“单一性”韵味，明确最高法院对“帮助送礼者获取会见其他政府官员的机会”这一行为的",
+      "width": 0.8765957250649797,
+      "x": 0.06382980252070163,
+      "y": 0.08550913844479113
+    },
+    {
+      "confidence": 1,
+      "height": 0.01327494043594235,
+      "text": "42",
+      "width": 0.02553191467635263,
+      "x": 0.07446808500224922,
+      "y": 0.05939947789572342
+    }
+  ],
+  "vision_ocr_text": "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at\nhis “official acts， ” or the former governor’'s decisions on “specific” and “ unsettled” issues related to his duties.\nThe high court's decision said the judge in Mir. McDonnell's trial failed to tell a jury\n主语\n谓语\n省略that的宾语从句，做said的宾语\nthat\nit\nmust look only at\n宾语从句，做tell的宾语\n先行词 主语\n谓语\nhis \"official acts，” or the forer governor's decisions on “'specific” and \"unsettled” issues related to his duties.\n宾语\n功能注释：本句主干为 The high court’s decision said...。said 的宾语为省略 that 的宾语从句 the\njudge in Mr. McDonnell's trial failed to tell a jury...，其中又嵌套一 that 引导的宾语从句做 tell 的宾语，\nor 后的内容对“officially acts”进行解释说明。\n•语篇分析，\n第二至四段阐述裁决的细节内容。\n第二段指出裁决（书面文件）对下级法院审判法官的看法：未能准确告知陪审团关注要点。关键词\n为：failed to tell。\n独句成段。said（义同 suggested）一词辖域全句，明示全段语义重心“最高法院裁决内容”。must\nlook only at his “official acts”以表“强制性、命令性、必要性”的 must 以及表“唯一性”的only突出强调最\n高法院判定麦克唐纳先生贪腐罪名是否成立的唯一要件：公务行；而 failed to tell... 直接指出下级法\n院审判官在审判时出现的问题：未能掌握贪腐罪名成立必须满足“公务行”这一要件，进而未能如实提\n醒陪审团正确做法，导致案件错判，侧面解释最高法院推翻其判决的原因。连词 or（used to give more\nspecific information“即，那就是，或者说”）解释抽象概念“麦克唐纳的公务行为”具体所指：就与其州长职\n责相关的“特定”、“待定”事宜所做出的公务性决定。\n【深层解读】本段形似指出审判法官的问题，实则指出贪腐罪名必须满足“公务行为”这一要件：麦克\n唐纳是否犯贪腐罪，重在看他的行为是否涉及公务行为，即是否为送礼者做出与其职责相关的政务性行\n为。预设下文将以此为起点，开始剖析麦克唐纳先生收取某公司礼物这一行为是否属公务行。\nml Merely helping a gift-giver gain access to other\n大法官们裁决，仅仅帮助送礼者获取接近\nofficials, unless done with clear intent\"to pressure®\n其他政府官员的机会并不属于腐败，除非带有\nthose officials, is not corruption, the justices®found®\n•\n明确意图要对那些官员进行施压。\n词汇注释与难句分析\n①intent［in'tent］n. 意图，目的\n③justice ［'dsAstis］ n. 法官\n②pressure ［'preja］v. 对…⋯施加压力，强迫\n④find ［faind］ v. 裁决，判决\n•语篇分析。\n第三段指出裁决（大法官们）对“政府官员单纯帮助送礼者获取接近其他政府官员的机会”与“腐败”\n的区辨：前者后者。关键词为：Merely helping. ..is not corruption。\n独句成段。尾词 found（取其僻义“裁决”）一词辖域全句，明示本段语义重心同上段。merely、unless\n以或显或隐的“单一性”韵味，明确最高法院对“帮助送礼者获取会见其他政府官员的机会”这一行为的\n42",
+  "pdf_text_layer": "The high court’s decision said the judge in Mr. McDonnell ’s trial failed to tell a jury that it must look only at\nhis “ official acts ，”。r the former governor’s decisions on “ specific” and “ unsettled” issues related to his duti岱．\n\n           Th 巳 high court ’ s d巳cision   said   the judge in Mr. McDonnell ’ s trial fai led to tell a jury\n                      主语                  谓语             省 Ill各that 的 宾语从句，做said 的 宾语\n\n\n                                   宾语从句，做tell 的 脚 ｜旦巳~ must look only a!,\n                                                                    先行词        主语            i自语\n\n           his “ official acts,” or the former governor ’ s decisions on \"specific” and \"unsettled\" issues related to his duties.\n                                                                    宾语\n\n      功能注释： 本句主干为 The high court’s decision said .. . 。 said 的 宾语为省略 that 的宾语从句 the\njudge in Mr. McDonnell ’s trial failed to tell a jury ... ，其中又嵌 套－ that 引导的宾语从句做 tell 的 宾语，\nor 后的 内 容对“ o fficially acts”进行解释说明 。\n\n                                                    i：~：：黄篇分析：η J\n      第二至四段阐述裁决的细节内容 。\n      第二段指出裁决 （ 书面文件 ） 对下级法院审判法官的看法 ： 未能准确告知陪审团关注要点。关键词\n为： failed to tell 。\n\n      独句成段 。 sa id （义同 s u ggested ） 一 词辖域全句，明示全段语义 重 心“最高法院裁决内容” 。 must\nlook on ly at hi s “ officia l acts”以表“强制性、命令性、必要性”的 must 以及表“唯 一 性”的 o nl y 突出强调最\n高法院 判 定麦克唐纳先生贪腐罪名是否成立的唯 一 要件：公务行为；而 fa il ed to tell. . . 直接指出下级法\n院审判官在审判时出现的问题：未能掌握贪腐罪名成立必须满足“公务行为”这 一 要件，进 而 未能 如 实提\n醒陪审团正确做法，导致案件错判， 侧 面解释最高法院推翻其判决的原因 。 连词 or( used to give more\nspecifi c information吨n ，那就是，或者说 ” ）解释抽象概念“ 麦 克唐纳 的 公务行为”具体所指 ：就 与其 州 长职\n责 相 关 的 “特定”、“待定”事宜所做出的公务性决定 。\n      E 深层解读】本段形似指出审判法官的问题，实则指出贪腐罪名必须满足“公务行为”这一要件： 麦克\n唐纳是否犯贪腐罪，重在 看 他的 行为是否涉及公务行为， 即 是否为送 礼 者做出与其职 责 相关的政务性行\n为 。 预设下文将以此为起点，开始剖析麦克唐纳先生收取某公司礼物这 一 行为是否属公务行为 。\n\n         M erely helping a gift- give r ga in access to other\n                                                                            大法官们裁决，仅仅帮助送礼者获取接近\noffici als, unl ess done wit h clear intent(       to pressure®\n                                                                      其他政府官员的机会并不属于腐败，除非带有\nthose officials, is not cor ru pti on, the justices<3J found®.\n\n\n\n                                            ：－：通ft.萍在当难司分玩：~ ：：： i/\n( intent ［ 旷 tent ］ η ． 意图，目的                                  \\\\   ( justice [ 1d3ASt 1 s］ η． 法官\n( pressure [ 1pref aJ v . 对……施加 压力，强迫                          ))   @ find [ fa ind] V. 裁决，判决\n\n                                                   ： ： •）雪篇分析，＜ :I\n      第三段指出裁决 （ 大法官们）对“政府官员单纯帮助送礼者在取接近其他政府官员的机会”与 “ 腐败”\n的区辨：前者 手 后者 。 关键词为： Merely helping . .. is not corruption 。\n      独句成段 。 尾同 found （取其僻义“裁决”） 一 词辖域全句，明示本段语义重 心同 上段 。 m ere l y 、 unl ess\n以或显 或隐的“单 一 性”韵味，明确最高法院对“ ＇／W 助送礼者获取 会 见其他政府官员的机会”这 一 行为 的\n\n 42",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 1848,
+    "pdf_text_character_count": 2747,
+    "nonempty": true
+  }
+}

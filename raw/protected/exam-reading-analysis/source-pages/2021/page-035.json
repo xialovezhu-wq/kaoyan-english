@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P035",
+  "year": 2021,
+  "pdf_page": 35,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01473638062153304,
+      "text": "Text 4",
+      "width": 0.08200730340329204,
+      "x": 0.2919795407560435,
+      "y": 0.8865271587877877
+    },
+    {
+      "confidence": 1,
+      "height": 0.018953410985466657,
+      "text": "国会需赋权 FCC，确保实施网络中立",
+      "width": 0.37815124864523125,
+      "x": 0.40756302735805666,
+      "y": 0.8851744186791741
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907124403758,
+      "text": "回外",
+      "width": 0.035714283614259656,
+      "x": 0.8172268914911897,
+      "y": 0.8779069767866353
+    },
+    {
+      "confidence": 1,
+      "height": 0.010370980248787687,
+      "text": "知识补充",
+      "width": 0.06309118987507903,
+      "x": 0.10080734545147929,
+      "y": 0.864727300516317
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "原文外教朗读",
+      "width": 0.09873949172179819,
+      "x": 0.8172268915603195,
+      "y": 0.8648255812488446
+    },
+    {
+      "confidence": 1,
+      "height": 0.021970705725699036,
+      "text": "一、文章总体分析",
+      "width": 0.1953781510134423,
+      "x": 0.09033613294916121,
+      "y": 0.8268974694182782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01605030509349359,
+      "text": "来源：Los Angeles Times《洛杉矶时报》2019年10月2日文章 Is net neutrality alive or dead? It's",
+      "width": 0.8529411418819244,
+      "x": 0.09453783443718893,
+      "y": 0.8022636482594431
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016170299799242338,
+      "text": "hard to tell（网络中立是生是死？难下定论！）。主题：作者指出，网络中立可确保宽带运营商不会区别对",
+      "width": 0.8907563020268847,
+      "x": 0.05252099751596964,
+      "y": 0.7834302327989529
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016209008055584118,
+      "text": "待与其竞争的网络公司，然而联邦通信委员会（FCC）的当前政策和上诉法院的最新判决均与这一目标",
+      "width": 0.8907563020268846,
+      "x": 0.05462185789412054,
+      "y": 0.7643142475647944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016011596837151698,
+      "text": "相悖；鉴于此，国会应当介人以确保 FCC实施网络中立。脉络：介绍对网络中立的需求（第一段）—一指",
+      "width": 0.8886554695967306,
+      "x": 0.054621837628105505,
+      "y": 0.7456395351184781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017596693077036596,
+      "text": "出网络中立.无法实施并聚焦 FCC的不合理政策（第二、三段）—-分析上诉法院有关网络中立的最新判",
+      "width": 0.888655410796002,
+      "x": 0.0546218750904444,
+      "y": 0.7267441860352118
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016114173335495696,
+      "text": "决的不足（第四、五段）——对国会提出建议（第六段）。",
+      "width": 0.4642857016855581,
+      "x": 0.0546218589086214,
+      "y": 0.707723035683623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.026808973634925626,
+      "text": "、语篇分析及试题精解",
+      "width": 0.23616152783579453,
+      "x": 0.12130470486216167,
+      "y": 0.6718717325002734
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013059793871030068,
+      "text": "① From",
+      "width": 0.09488538326785284,
+      "x": 0.13007831834622202,
+      "y": 0.653353824019244
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017749260014763846,
+      "text": "the early days of broadband®，",
+      "width": 0.30492099769312975,
+      "x": 0.22468612325476708,
+      "y": 0.6525670118086733
+    },
+    {
+      "confidence": 1,
+      "height": 0.014743906521447858,
+      "text": "自打宽带问世初期，消费者及互联网公",
+      "width": 0.34453781216130774,
+      "x": 0.5966386569865729,
+      "y": 0.6451398138795208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "advocates®for consumers and web-based companies",
+      "width": 0.47478989323669313,
+      "x": 0.0567226951183483,
+      "y": 0.6351531291818772
+    },
+    {
+      "confidence": 1,
+      "height": 0.01602320918706701,
+      "text": "司的权益倡导者们就在担心，销售宽带连接",
+      "width": 0.3865546077662121,
+      "x": 0.554621858469835,
+      "y": 0.6264534888272959
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020650119502122033,
+      "text": "worried that the cable®and phone companies selling",
+      "width": 0.47519532426014566,
+      "x": 0.05655304128907133,
+      "y": 0.6124591734280886
+    },
+    {
+      "confidence": 1,
+      "height": 0.014823258319961452,
+      "text": "的有线电视和电话公司不仅有能力而且有动",
+      "width": 0.38445377533605796,
+      "x": 0.5546218550315508,
+      "y": 0.609011628363566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014714875964127905,
+      "text": "broadband connections had the power and incentive® to",
+      "width": 0.4747898932366932,
+      "x": 0.0567227063753508,
+      "y": 0.5972037283394571
+    },
+    {
+      "confidence": 1,
+      "height": 0.01610256035064417,
+      "text": "机去偏袒自己的关联网站、歧视竞争对手的",
+      "width": 0.3865546077662121,
+      "x": 0.5525210106126924,
+      "y": 0.5885486020902286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014720682456553669,
+      "text": "favor affiliated® websites over their rivals'. ② That's",
+      "width": 0.47478989323669313,
+      "x": 0.056722705132353515,
+      "y": 0.5784883722346902
+    },
+    {
+      "confidence": 1,
+      "height": 0.01611804390715532,
+      "text": "网站。正是基于这一原因，人们一直以来都",
+      "width": 0.3865546077662121,
+      "x": 0.5546218596463056,
+      "y": 0.5697674422575285
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "why there has been such a strong demand for rules that",
+      "width": 0.47478989323669324,
+      "x": 0.05672269450560313,
+      "y": 0.5595930236374818
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "在强烈要求出台相关规则，避免由宽带运营",
+      "width": 0.38445377533605796,
+      "x": 0.5546218494249332,
+      "y": 0.5523255817065893
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "would",
+      "width": 0.05252100553126694,
+      "x": 0.05672269103688751,
+      "y": 0.5419440746281485
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "prevent broadband providers",
+      "width": 0.26890755067211586,
+      "x": 0.12394958152668734,
+      "y": 0.5406125164790521
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "from picking",
+      "width": 0.13655462246639427,
+      "x": 0.3949579806085396,
+      "y": 0.5406125165759512
+    },
+    {
+      "confidence": 1,
+      "height": 0.014676167707786125,
+      "text": "商来决定网上谁是赢家谁是输家，从而维护",
+      "width": 0.38445377533605796,
+      "x": 0.5546218545738677,
+      "y": 0.5332889482704252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "winners and losers online,preserving the freedom and",
+      "width": 0.47478989323669324,
+      "x": 0.05672269450560313,
+      "y": 0.5218023259630631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016212878627243743,
+      "text": "自由与创新——互联网的命脉所在。",
+      "width": 0.3109243756773844,
+      "x": 0.556722688331776,
+      "y": 0.5130813956753026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815838,
+      "text": "innovation that have been the lifeblood® of the Internet.",
+      "width": 0.472689060806539,
+      "x": 0.05462186402950334,
+      "y": 0.5043604655161154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "• 词汇注释与难句分析",
+      "width": 0.20588234256457733,
+      "x": 0.37184874725762723,
+      "y": 0.4651162795263568
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013408478661954937,
+      "text": "①broadband ［'bro:dbeend］n. 宽带连接",
+      "width": 0.29831932229573094,
+      "x": 0.0546218489711822,
+      "y": 0.44007989353293187
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014861966576303232,
+      "text": "④incentive ［in'sentv］n. 刺激；动机",
+      "width": 0.2773109097930967,
+      "x": 0.5252100878555525,
+      "y": 0.44007989343222365
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "②advocate ［'edvakat］n. 支持者；倡导者",
+      "width": 0.31512604053769266,
+      "x": 0.05462185683199394,
+      "y": 0.4227696402857859
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014730358885702843,
+      "text": "⑤affiliated ［o'Hlieitid］ a. 隶属的",
+      "width": 0.25210083243015413,
+      "x": 0.5273109262218977,
+      "y": 0.4227696406577077
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "③ cable ［'keibl］n. 有线电视",
+      "width": 0.21638654881589447,
+      "x": 0.0567226935242256,
+      "y": 0.40545938748220023
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "⑥lifeblood ［'laifblad］n.（事物的）命脉；生命线",
+      "width": 0.36554622466394204,
+      "x": 0.5252100846008021,
+      "y": 0.40545938740813925
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016304841530465852,
+      "text": "•语篇分析。",
+      "width": 0.11353809158237,
+      "x": 0.42642423131082224,
+      "y": 0.3792022301971185
+    },
+    {
+      "confidence": 1,
+      "height": 0.017641207190867925,
+      "text": "第一段说明背景：对“出台规则，防止宽带运营商区别对待客户，保证数据传输中立性”的要求非常",
+      "width": 0.8508403094517702,
+      "x": 0.094537819958989,
+      "y": 0.3531976745381188
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017523147136012662,
+      "text": "强烈。关键词：①favor affiliated websites over their rivals'； ②a strong demand。",
+      "width": 0.6680672412203456,
+      "x": 0.054621848255373286,
+      "y": 0.33422103873284537
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "①句指出对“宽带运营商不中立、不公平”的担忧由来已久。From the early days of broadband，",
+      "width": 0.8550419743120785,
+      "x": 0.09453783309080951,
+      "y": 0.31686046510497934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016160622735156838,
+      "text": "advocates... worried...确立视角“消费者及互联网公司权益倡导者的担忧”，并强调这一担忧伴随整个",
+      "width": 0.8928571344570387,
+      "x": 0.05462184549907177,
+      "y": 0.2994186048374704
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "宽带发展历程。consumers and web-based companies、cable and phone companies selling broadband",
+      "width": 0.8907563020268846,
+      "x": 0.05882352209580165,
+      "y": 0.28197674438827547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01608707742906923,
+      "text": "connections 明确利益冲突双方“消费者及互联网公司vs有线电视及电话公司/宽带运营商”；had the",
+      "width": 0.8970587993173471,
+      "x": 0.054621870325570004,
+      "y": 0.2629826895176174
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017465084751499993,
+      "text": "power and incentive to favor affiliated websites over their rivals’体现冲突根源“宽带运营商可能偏祖自家",
+      "width": 0.8928571344570388,
+      "x": 0.05462185832295101,
+      "y": 0.2441860469363747
+    },
+    {
+      "confidence": 1,
+      "height": 0.019220448683168523,
+      "text": "关联网站、歧视对手的网站（缺乏公平性和中立性）”，且强调这一可能性之大“运营商有能力（本身是宽",
+      "width": 0.8930194832686055,
+      "x": 0.056632446408766295,
+      "y": 0.2249931510677846
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01611417270055937,
+      "text": "带提供者）、有动机（偏祖己方、打压敌方）”",
+      "width": 0.36554622466394204,
+      "x": 0.05462184199576012,
+      "y": 0.20772303623377264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01610643155724012,
+      "text": "②句明确结果：“出台规则以限制运营商”的要求非常强烈。That’s why 建立①②句间因果逻辑：由",
+      "width": 0.8529411418819244,
+      "x": 0.09453783851281924,
+      "y": 0.18895348876085072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016238039247840397,
+      "text": "于担心宽带运营商不公行，所以要求出台规则。such a strong demand for rules 体现对网络中立性规则的",
+      "width": 0.8907563020268846,
+      "x": 0.05672268296014722,
+      "y": 0.17151162812962162
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016141268606985948,
+      "text": "要求之强烈，侧面反映运营商潜在破坏力之大。prevent broadband providers from picking winners and losers",
+      "width": 0.897058799317347,
+      "x": 0.05462185187494002,
+      "y": 0.15246338218781108
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016009661551321885,
+      "text": "online展现运营商的潜在巨大破坏力“成为网络世界的主宰”（pick 意为“挑选”，此处以较为不正式的用词",
+      "width": 0.8949579668871929,
+      "x": 0.05462186198707571,
+      "y": 0.13515312905088794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01621094334141393,
+      "text": "凸显运营商的任意操纵）。preserving the freedom...、the lifeblood of the Internet 明确要求制定网络中立规",
+      "width": 0.8928571344570388,
+      "x": 0.05672269965323323,
+      "y": 0.11627907013543548
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014836805955706467,
+      "text": "则的最终目的“维护自由与创新、保护互联网的命脉”（lifeblood 意力 the thing that keeps sth strong and",
+      "width": 0.897058799317347,
+      "x": 0.05462185187494002,
+      "y": 0.09853528659642508
+    },
+    {
+      "confidence": 1,
+      "height": 0.016036756822812137,
+      "text": "healthy and is necessary for successful development，强调自由与创新是互联网健康发展的根本保障）。",
+      "width": 0.8403360885002711,
+      "x": 0.05462187234650321,
+      "y": 0.07989347563986271
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403758,
+      "text": "35",
+      "width": 0.025210082875510853,
+      "x": 0.9096638663353538,
+      "y": 0.0624999999988447
+    }
+  ],
+  "vision_ocr_text": "Text 4\n国会需赋权 FCC，确保实施网络中立\n回外\n知识补充\n原文外教朗读\n一、文章总体分析\n来源：Los Angeles Times《洛杉矶时报》2019年10月2日文章 Is net neutrality alive or dead? It's\nhard to tell（网络中立是生是死？难下定论！）。主题：作者指出，网络中立可确保宽带运营商不会区别对\n待与其竞争的网络公司，然而联邦通信委员会（FCC）的当前政策和上诉法院的最新判决均与这一目标\n相悖；鉴于此，国会应当介人以确保 FCC实施网络中立。脉络：介绍对网络中立的需求（第一段）—一指\n出网络中立.无法实施并聚焦 FCC的不合理政策（第二、三段）—-分析上诉法院有关网络中立的最新判\n决的不足（第四、五段）——对国会提出建议（第六段）。\n、语篇分析及试题精解\n① From\nthe early days of broadband®，\n自打宽带问世初期，消费者及互联网公\nadvocates®for consumers and web-based companies\n司的权益倡导者们就在担心，销售宽带连接\nworried that the cable®and phone companies selling\n的有线电视和电话公司不仅有能力而且有动\nbroadband connections had the power and incentive® to\n机去偏袒自己的关联网站、歧视竞争对手的\nfavor affiliated® websites over their rivals'. ② That's\n网站。正是基于这一原因，人们一直以来都\nwhy there has been such a strong demand for rules that\n在强烈要求出台相关规则，避免由宽带运营\nwould\nprevent broadband providers\nfrom picking\n商来决定网上谁是赢家谁是输家，从而维护\nwinners and losers online,preserving the freedom and\n自由与创新——互联网的命脉所在。\ninnovation that have been the lifeblood® of the Internet.\n• 词汇注释与难句分析\n①broadband ［'bro:dbeend］n. 宽带连接\n④incentive ［in'sentv］n. 刺激；动机\n②advocate ［'edvakat］n. 支持者；倡导者\n⑤affiliated ［o'Hlieitid］ a. 隶属的\n③ cable ［'keibl］n. 有线电视\n⑥lifeblood ［'laifblad］n.（事物的）命脉；生命线\n•语篇分析。\n第一段说明背景：对“出台规则，防止宽带运营商区别对待客户，保证数据传输中立性”的要求非常\n强烈。关键词：①favor affiliated websites over their rivals'； ②a strong demand。\n①句指出对“宽带运营商不中立、不公平”的担忧由来已久。From the early days of broadband，\nadvocates... worried...确立视角“消费者及互联网公司权益倡导者的担忧”，并强调这一担忧伴随整个\n宽带发展历程。consumers and web-based companies、cable and phone companies selling broadband\nconnections 明确利益冲突双方“消费者及互联网公司vs有线电视及电话公司/宽带运营商”；had the\npower and incentive to favor affiliated websites over their rivals’体现冲突根源“宽带运营商可能偏祖自家\n关联网站、歧视对手的网站（缺乏公平性和中立性）”，且强调这一可能性之大“运营商有能力（本身是宽\n带提供者）、有动机（偏祖己方、打压敌方）”\n②句明确结果：“出台规则以限制运营商”的要求非常强烈。That’s why 建立①②句间因果逻辑：由\n于担心宽带运营商不公行，所以要求出台规则。such a strong demand for rules 体现对网络中立性规则的\n要求之强烈，侧面反映运营商潜在破坏力之大。prevent broadband providers from picking winners and losers\nonline展现运营商的潜在巨大破坏力“成为网络世界的主宰”（pick 意为“挑选”，此处以较为不正式的用词\n凸显运营商的任意操纵）。preserving the freedom...、the lifeblood of the Internet 明确要求制定网络中立规\n则的最终目的“维护自由与创新、保护互联网的命脉”（lifeblood 意力 the thing that keeps sth strong and\nhealthy and is necessary for successful development，强调自由与创新是互联网健康发展的根本保障）。\n35",
+  "pdf_text_layer": "回碗&回\n\n                    / Text 4             国会需赋权FCC,确保实施网络中立\n                                                                                    回\n     知识补充                                                                           原文外教朗读\n\n埜一、文章总体分析\n    来源:Los Angeles Times洛杉矶时报））2019 年 10 月 2 日文章 Is net neutrality alive or dead? It's\nhard to tell（网络中立是生是死？难下定论！）。主题：作者指出，网络中立可确保宽带运营商不会区别对\n待与其竞争的网络公司，然而联邦通信委员会（FCC）的当前政策和上诉法院的最新判决均与这一目标\n相悖；鉴于此，国会应当介入以确保FCC实施网络中立。脉络：介绍对网络中立的需求（第一段）— 指\n出网络中立无法实施并聚焦FCC的不合理政策（第二、三段）— 分析上诉法院有关网络中立的最新判\n决的不足（第四、五段）一一对国会提出建议（第六段）。\n\n裁二、语篇分析及试题精解\n     I ❶ From the early days of broadband®，\n                                                              自打宽带问世初期，消费者及互联网公\nadvocates② for consumers and web-based companies\n                                                            司的权益倡导者们就在担心，销售宽带连接\nworried that the cable3 and phone companies selling\n                                                            的有线电视和电话公司不仅有能力而且有动\nbroadband connections had the power and incentive^ to\n                                                            机去偏袒自己的关联网站、歧视竞争对手的\nfavor affiliated ? websites over their rivals,・ ❷ That's\n                                                            网站。正是基于这一原因，人们一直以来都\nwhy there has been such a strong demand for rules that\n                                                            在强烈要求出台相关规则9避免由宽带运营\nwould   prevent   broadband    providers from picking\n                                                            商来决定网上谁是赢家谁是输家，从而维护\nwinners and losers online, preserving the freedom and\n                                                            自由与创新— 互联网的命脉所在。\ninnovation that have been the lifeblood' of the Internet.\n\n                                    [•词汇注释与难句分析・[也\n\n（Dbroadband ['broidbaend] n.宽带连接                    §   ④incentive [in1 sentiv] n.刺激；动机\n② advocate ['aedvakst] n.支持者；倡导者                    §   ⑤affiliated [a'filieitid] a.隶属的\n③ cable ['keibl] n.有线电视                             I   ©lifeblood ['laifbUd] n.（事物的）命脉；生命线\n\n                                           ;・语篇分析\n\n    第一段说明背景：对“出台规则，防止宽带运营商区别对待客户，保证数据传输中立性”的要求非常\n强烈o 关键词:®favor affiliated websites over their rivals';②a strong demand0\n    ① 句指出对\"宽带运营商不中立、不公平\"的担忧由来已久。From the early days of broadband,\nadvocates. . . worried...确立视角“消费者及互联网公司权益倡导者的担忧”，并强调这一担忧伴随整个\n宽带发展历程。consumers and web-based companies、cable and phone companies selling broadband\nconnections明确利益冲突双方“消费者及互联网公司vs有线电视及电话公司/宽带运营商”；had the\npower and incentive to favor affiliated websites over their rivals'体现冲突根源\"宽带运营商可能偏袒自家\n关联网站、歧视对手的网站（缺乏公平性和中立性）”，且强调这一可能性之大“运营商有能力（本身是宽\n带提供者）、有动机（偏袒己方、打压敌方）”。\n     ② 句明确结果：“出台规则以限制运营商”的要求非常强烈。That's why建立①②句间因果逻辑：由\n于担心宽带运营商不公行为，所以要求出台规则。such a strong demand for rules体现对网络中立性规则的\n要求之强烈，侧面反映运营商潜在破坏力之大。prevent broadband providers from picking winners and losers\nonline展现运营商的潜在巨大破坏力“成为网络世界的主宰\"（pick意为“挑选”，此处以较为不正式的用词\n凸显运营商的任意操纵）。preserving the freedom. . . ,the lifeblood of the Internet明确要求制定网络中立规\n则的最终目的\"维护自由与创新、保护互联网的命脉w（lifeblood意为the thing that keeps sth strong and\nhealthy and is necessary for successful development,强调自由与创新是互联网健康发展的根本保障）。\n                                                                                              35",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2201,
+    "pdf_text_character_count": 3191,
+    "nonempty": true
+  }
+}

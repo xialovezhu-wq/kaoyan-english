@@ -1,0 +1,96 @@
+{
+  "schema_version": "english_legacy_event_retirement_v1",
+  "disposition": "user_removed",
+  "authority": "explicit_user_request",
+  "events": [
+    {
+      "event_id": "EVT-20260806-4DF6447806282008",
+      "study_date": "2026-08-06",
+      "event_path": "events/2026-08-06/EVT-20260806-4DF6447806282008.json",
+      "event_object_sha256": "1d376b9aa172ab2daba801d224a4c1e0437d1a9feb1cd0382c78d4d697214043",
+      "event_file_sha256": "62605e5e3ee2bc67a95218fd2412dacd5a6482ad228c89a0e360441e74bc321b",
+      "capture_receipt_path": "receipts/capture/2026-08-06/CAPTURE-20260806-4DF6447806282008.json",
+      "capture_receipt_sha256": "057b36ba657a27e150eb5945f73dcde49b9323ee1cf542b995ffd1bbe24bb0b1"
+    },
+    {
+      "event_id": "EVT-20260806-507660196D4F941D",
+      "study_date": "2026-08-06",
+      "event_path": "events/2026-08-06/EVT-20260806-507660196D4F941D.json",
+      "event_object_sha256": "a1e77c8dbb1fc22bdd63308f0c107cf4bc62c36d8e78e9fb7c4859026c364638",
+      "event_file_sha256": "70e5b36bdc856a9dfd8c22115af15ecfb032fffda6cfb9715b59741df8be81b5",
+      "capture_receipt_path": "receipts/capture/2026-08-06/CAPTURE-20260806-507660196D4F941D.json",
+      "capture_receipt_sha256": "20bb1ee16a13c80a61e281aa45d6973809c8dc20d54439f189d7df0fd02e91dc"
+    },
+    {
+      "event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+      "study_date": "2026-08-06",
+      "event_path": "events/2026-08-06/EVT-20260806-8F4D09BF50F3F1B3.json",
+      "event_object_sha256": "9c295e02a942eb35a59dbb11b3eb30e24f889b1aef44c77f334a1471c96d01cc",
+      "event_file_sha256": "dd18405f4ef7338405205dbe21e5a540faec4bfdd8330698a372526b776a1967",
+      "capture_receipt_path": "receipts/capture/2026-08-06/CAPTURE-20260806-8F4D09BF50F3F1B3.json",
+      "capture_receipt_sha256": "e0575f53b67f66c5c9c6b328ffda3515699909de3c12909a3e6a547ebb8f5b78"
+    },
+    {
+      "event_id": "EVT-20260812-1CDE1C1D42AA4477",
+      "study_date": "2026-08-12",
+      "event_path": "events/2026-08-12/EVT-20260812-1CDE1C1D42AA4477.json",
+      "event_object_sha256": "1871a4a03cdddf8a212482d500e90440977b6a6d2bc2fbcb62d8790082b28d15",
+      "event_file_sha256": "57ff06654a02d8ce1f0815effa9c44be9f08f525ae3cbf8b635a9d6080d0b165",
+      "capture_receipt_path": "receipts/capture/2026-08-12/CAPTURE-20260812-1CDE1C1D42AA4477.json",
+      "capture_receipt_sha256": "b7e804e1d64377c175bb729b9de6f186f4425fd259e6069ad8f4d1735efbf87e"
+    },
+    {
+      "event_id": "EVT-20260812-2FDA148D08DEC81D",
+      "study_date": "2026-08-12",
+      "event_path": "events/2026-08-12/EVT-20260812-2FDA148D08DEC81D.json",
+      "event_object_sha256": "9c6f20d7ec930590065136b764ef2bc0cb60fdb428172b5845d03041e14e2bcf",
+      "event_file_sha256": "7b91ece6409ecd6ed699a7013d54781650cdc3c3d3429c2805ef946f341dde84",
+      "capture_receipt_path": "receipts/capture/2026-08-12/CAPTURE-20260812-2FDA148D08DEC81D.json",
+      "capture_receipt_sha256": "2c5780e7fb1a6aa9dfac313229e19ed05ec1856ab4c55c45a32abcca2d51ae8b"
+    },
+    {
+      "event_id": "EVT-20260812-31B2E93D5CD95051",
+      "study_date": "2026-08-12",
+      "event_path": "events/2026-08-12/EVT-20260812-31B2E93D5CD95051.json",
+      "event_object_sha256": "5b319793ecc4ddad184441591e470b9bb6e9cdaf795b7712bf27a58186c33ef1",
+      "event_file_sha256": "a6ecbab331c38db533d40755524daf353fc318ca315d428273f958489d6c8812",
+      "capture_receipt_path": "receipts/capture/2026-08-12/CAPTURE-20260812-31B2E93D5CD95051.json",
+      "capture_receipt_sha256": "070517efe2e0b4b4154ecca2ab29cbaf13c53779719a0596f80f518b1c74fd85"
+    },
+    {
+      "event_id": "EVT-20260812-4EF5E2E7B898F951",
+      "study_date": "2026-08-12",
+      "event_path": "events/2026-08-12/EVT-20260812-4EF5E2E7B898F951.json",
+      "event_object_sha256": "8ce1d248ac7c70f5eb19d1368c0e9965e610f4f3306599d7b6d4b7fe7a3b3b6e",
+      "event_file_sha256": "0bf7726d361f8c6e73f8079fb9fc99c53b23b1dad719ed9afcce6953abf7711d",
+      "capture_receipt_path": "receipts/capture/2026-08-12/CAPTURE-20260812-4EF5E2E7B898F951.json",
+      "capture_receipt_sha256": "73cb4819b9fd7e46e21e77990c28ca12be7a9169b4281041aeb1b4a793d7661b"
+    },
+    {
+      "event_id": "EVT-20260812-C26F967459FD7A02",
+      "study_date": "2026-08-12",
+      "event_path": "events/2026-08-12/EVT-20260812-C26F967459FD7A02.json",
+      "event_object_sha256": "ab644f57ddb38f8ac270f7277544fce626bf4b91413822ea6d87dbad942c1eec",
+      "event_file_sha256": "7a888e673b153626c21665dc81a90d282c822d2ae170c27ca462d3614e64994d",
+      "capture_receipt_path": "receipts/capture/2026-08-12/CAPTURE-20260812-C26F967459FD7A02.json",
+      "capture_receipt_sha256": "4cb8c2ee17a7e600004402f00c1e0a2997f492f8d07890dd2947a313200321a2"
+    },
+    {
+      "event_id": "EVT-20260813-C1028D11623FC189",
+      "study_date": "2026-08-13",
+      "event_path": "events/2026-08-13/EVT-20260813-C1028D11623FC189.json",
+      "event_object_sha256": "78a4acbb6fd035d9555a263277acf2e4168ba55e1538a23c0f9b42e4a6a7988d",
+      "event_file_sha256": "73ba731080d94052c0989038fdbdab5fbd5a9fa86e717719cbba531064c6b646",
+      "capture_receipt_path": "receipts/capture/2026-08-13/CAPTURE-20260813-C1028D11623FC189.json",
+      "capture_receipt_sha256": "37c556b57e26d80b6cd0c9dfc7f8111cf0d0ac2ebc7b201e3ecc9519f4da8158"
+    }
+  ],
+  "event_count": 9,
+  "package_write_count": 0,
+  "formal_write_count": 0,
+  "migration_performed": false,
+  "background_processing": "none",
+  "retirement_id": "EN-LEGACY-RETIRE-1add180488d6db8aabf538369f8a06f24da56eda3d3a963e6c9a191712768bde",
+  "retirement_sha256": "1add180488d6db8aabf538369f8a06f24da56eda3d3a963e6c9a191712768bde",
+  "created_at": "2026-08-27T09:58:12Z"
+}

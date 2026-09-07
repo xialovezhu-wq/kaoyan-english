@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P029",
+  "year": 2020,
+  "pdf_page": 29,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "classifications 复现第四段②句 expressly classifies people on the basis of sex，指向“加州法规（以及其他类",
+      "width": 0.8851063505132147,
+      "x": 0.051063853395874804,
+      "y": 0.9083484572578423
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021374475717977237,
+      "text": "似政策）”；frowns on（对⋯⋯•皱眉，不赞成）明确最高法院对其态度；unless..补充特例，说明最高法院并",
+      "width": 0.8853612047560672,
+      "x": 0.05092794184892077,
+      "y": 0.8859536264879425
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362237,
+      "text": "非一刀切，若是为了解决重大政策利益问题，也允许按性别分类。",
+      "width": 0.5531914893617021,
+      "x": 0.04893617574468076,
+      "y": 0.8691860465720049
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020891994400162872,
+      "text": "②句基于①句，指出法庭很可能裁定加州法规违反了“平等保护”这一宪法保障。because从句以",
+      "width": 0.8448669758248837,
+      "x": 0.0892672182031656,
+      "y": 0.8469015949080546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "applies to all boards, even where...强调加州立法面向所有董事会，且不管有没有性别歧视的历史",
+      "width": 0.8851063505132147,
+      "x": 0.04893619529658389,
+      "y": 0.8312159705426021
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021231587266316132,
+      "text": "（discrimination 这里专指“性别歧视”），即：纯粹一刀切按性别分类，且并非是为了解决重大政策利益问",
+      "width": 0.8853406703218502,
+      "x": 0.04879697945597777,
+      "y": 0.8096761024662974
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016035854491910584,
+      "text": "题。courts are likely to rule that...（rule 意为“裁决，判决”）基于上述“最高法院站位”以及“加州法规性",
+      "width": 0.8829787234042552,
+      "x": 0.04893617651975676,
+      "y": 0.793557168997583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "质”，推测法庭可能做出的判决。violates the constitutional guarantee of “equal protection”.最终明确加州",
+      "width": 0.8829787234042553,
+      "x": 0.04893617904255303,
+      "y": 0.7745009072978993
+    },
+    {
+      "confidence": 1,
+      "height": 0.019080001948749592,
+      "text": "法规可能违反的宪法条目：“平等保护”这一宪法保障。",
+      "width": 0.4638297710012882,
+      "x": 0.048936175016073266,
+      "y": 0.7527223233197404
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606487146090252,
+      "text": "【深层解读】第四、五段由前文的“麻州法案”转入与之性质相似的“加州法规”，虽只直接表明加州法",
+      "width": 0.8468084944055435,
+      "x": 0.08510639956318543,
+      "y": 0.7368421055169632
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "规可能违宪，实则论证此类基于性别分类的法规/法案都违反了平等保护这一宪法保障。再联系首段可",
+      "width": 0.8851063505132148,
+      "x": 0.04680853463700945,
+      "y": 0.7150635204719892
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362237,
+      "text": "知此类政策不可行：原本被用作通向平等、公平之路，但实际上自身都极可能违反了“平等保护”原则，被",
+      "width": 0.8851063505132147,
+      "x": 0.04680853133913722,
+      "y": 0.697674418810377
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600156202506675,
+      "text": "判违宪。",
+      "width": 0.07446808510638298,
+      "x": 0.046808511382978715,
+      "y": 0.6787658800109385
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017804767172479363,
+      "text": "• 真题精解，",
+      "width": 0.11713653929690099,
+      "x": 0.41270832463372115,
+      "y": 0.6524348256752105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01466941660415455,
+      "text": "32. Which of the following is true of the California measure？",
+      "width": 0.48297869905512386,
+      "x": 0.05531916513555863,
+      "y": 0.6234119783343413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "32. 以下哪项关于加州措施的说法正确？",
+      "width": 0.35106382978723394,
+      "x": 0.5638297843617022,
+      "y": 0.6234119783231654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013192187203685979,
+      "text": "［A］ It has irritated private business owners.",
+      "width": 0.3744680526408743,
+      "x": 0.05957449055899529,
+      "y": 0.6016333939058045
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033814,
+      "text": "［A］它激怒了私营企业所有者。",
+      "width": 0.27446807699000575,
+      "x": 0.5659574536113801,
+      "y": 0.5988372091558551
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013163170234693933,
+      "text": "［B］ It is welcomed by the Supreme Court.",
+      "width": 0.35531912458703874,
+      "x": 0.05957448381286357,
+      "y": 0.5784883723982615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014616658164022689,
+      "text": "［B］ 它得到了最高法院的支持。",
+      "width": 0.2723404092991606,
+      "x": 0.5659574583291431,
+      "y": 0.5770348842039459
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015524152835354355,
+      "text": "［C］ It may go against the Constitution.",
+      "width": 0.33426132607967296,
+      "x": 0.05733273449164946,
+      "y": 0.5542843747760782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016093888429894454,
+      "text": "［C］ 它可能违反了宪法。",
+      "width": 0.21276595744680848,
+      "x": 0.5638297898404255,
+      "y": 0.553779069406582
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329770365124816,
+      "text": "D］ It will settle the prior controversies.",
+      "width": 0.3340425491333008,
+      "x": 0.06808511258760486,
+      "y": 0.5317604356401706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "［D］它会解决先前争议。",
+      "width": 0.21489360484671083,
+      "x": 0.5638297960074956,
+      "y": 0.5303992736466309
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "［精准定位］由题干关键词 the California measure 定位至第四、五段。第四段②句指出，州长承认加",
+      "width": 0.8468084944055436,
+      "x": 0.0829787399887174,
+      "y": 0.5058139534291111
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511917,
+      "text": "州措施很可能违宪。第五段指出最高法院可能裁定它违反“平等保护”这一宪法保障。因此［C］正确。",
+      "width": 0.863829754768534,
+      "x": 0.04468087593488191,
+      "y": 0.48684210569474073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017457687703321234,
+      "text": "［命题解密］［CJ It may go against the Constitution 概括第四段②句 the law...is probably",
+      "width": 0.851063829787234,
+      "x": 0.08085105319148964,
+      "y": 0.4680232558379933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016025303496206678,
+      "text": "unconstitutional 及第五段②句 likely to rule that the law violates the constitutional guarantee of..。",
+      "width": 0.851063829787234,
+      "x": 0.044680860478723196,
+      "y": 0.4505444643065136
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "［A］对第四段①句过度推导：文中只指出加州措施对私企提出了董事会男女平等的要求，并未指出这",
+      "width": 0.8446808672965841,
+      "x": 0.08297872056713343,
+      "y": 0.43012704141049096
+    },
+    {
+      "confidence": 1,
+      "height": 0.021383625625915004,
+      "text": "激怒了私企所有者。［B］违背第五段①句“最高法院不赞成（加州法规这种）基于性别的分类”以及②句“法",
+      "width": 0.8832510278580038,
+      "x": 0.04454031067422941,
+      "y": 0.4090578306775361
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "庭很可能会判定加州法规违宪”。［D］将第五段②句 California law applies to all boards... prior discrimination",
+      "width": 0.8872340587859459,
+      "x": 0.0446808387187294,
+      "y": 0.39098837193537705
+    },
+    {
+      "confidence": 1,
+      "height": 0.01610707803992739,
+      "text": "（加州法规适用于包括没有歧视历史在内的所有董事会）曲解为“加州法规将会解决先前所有争议”。",
+      "width": 0.8085106382978724,
+      "x": 0.044680859148935964,
+      "y": 0.3749999998535297
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348273690993,
+      "text": "［技巧总结］：本题就第四、五段讨论的“加州法规”命制事实细节题。解题思路为：先利用题干关键词",
+      "width": 0.8468084944055435,
+      "x": 0.08085106786105811,
+      "y": 0.3546511628835034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020950826239888753,
+      "text": "确定大范围，再利用各项关键词分别定位、比对：首先根据题干关键词 the California law 定位至第四、五",
+      "width": 0.8853164835179106,
+      "x": 0.044576220727171045,
+      "y": 0.33394913559825123
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01950110800685989,
+      "text": "段；随后将四个选项分别定位比对：［AJprivate business owners 与第四段①句 private companies 对应，但",
+      "width": 0.8831769253345246,
+      "x": 0.04459122353192254,
+      "y": 0.3152955735898001
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016009475271844598,
+      "text": "irritated 无从得知；［B］the Supreme Court 第五段①②句均提及，但is welcomed 与原文 frowns on、rule",
+      "width": 0.8893616858949052,
+      "x": 0.04255320701708621,
+      "y": 0.2979651162028514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019548029302469017,
+      "text": "that the law violates...体现的反对态度相悖；［C］the Constitution 对应第四段②句 unconstitutional 及第",
+      "width": 0.8832329283369348,
+      "x": 0.04456080784770797,
+      "y": 0.27807991284911304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017078395331187157,
+      "text": "五段②句 constitutional，且 may go against 与 unconstitutional、violates the constitutional guarantee... 信",
+      "width": 0.8810230011635639,
+      "x": 0.046736281216666876,
+      "y": 0.2605867978710854
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "息一致；［D］prior 出现于第五段②句，但原文为 prior discrimination，并未提及 prior controversies。",
+      "width": 0.8340425694242436,
+      "x": 0.04468084989780704,
+      "y": 0.23982558150417532
+    },
+    {
+      "confidence": 1,
+      "height": 0.014619295912948638,
+      "text": "故确",
+      "width": 0.04042553140762006,
+      "x": 0.8872340424699489,
+      "y": 0.24410163376391936
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016580251081020125,
+      "text": "定［C］正确。",
+      "width": 0.1044472430614715,
+      "x": 0.044584890410929764,
+      "y": 0.22063429305337856
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "另提示：对于事实细节题也应谨记“主旨为王”、将主旨作为判断选项正误的标尺，正确项大多情形",
+      "width": 0.8446808672965841,
+      "x": 0.08297872232688519,
+      "y": 0.2032667874940679
+    },
+    {
+      "confidence": 1,
+      "height": 0.017462964066576436,
+      "text": "下会与段落主旨关系密切、甚至直接设为段落主旨，如本题正确项［C］实为第四、五段主旨。",
+      "width": 0.7744680364081201,
+      "x": 0.04468088256189729,
+      "y": 0.1860254081404885
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394825570247,
+      "text": "VI",
+      "width": 0.021276595744680854,
+      "x": 0.08085106404255318,
+      "y": 0.15406976777616832
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033703,
+      "text": "①",
+      "width": 0.029787233535279622,
+      "x": 0.1170212770976084,
+      "y": 0.15261627899354913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570247,
+      "text": "But are such",
+      "width": 0.13617020464958032,
+      "x": 0.15319149568939414,
+      "y": 0.15406976777616843
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570247,
+      "text": "government mandates",
+      "width": 0.21276595744680848,
+      "x": 0.28723404414893605,
+      "y": 0.15406976786701132
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007943334250614553,
+      "text": "even",
+      "width": 0.03856202642968365,
+      "x": 0.5168891994455345,
+      "y": 0.1566387980130366
+    },
+    {
+      "confidence": 1,
+      "height": 0.016083336568787354,
+      "text": "但这样的政府指令是否真有必要？女",
+      "width": 0.306382970607027,
+      "x": 0.6148936226220183,
+      "y": 0.14680232562024476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014645675133014513,
+      "text": "necessary？ ② Female participation on corporate boards may",
+      "width": 0.5106382978723404,
+      "x": 0.044680856170212654,
+      "y": 0.13372093077371328
+    },
+    {
+      "confidence": 1,
+      "height": 0.014561261974964657,
+      "text": "性在公司董事会中的参与率当前可能未反",
+      "width": 0.34468082671469835,
+      "x": 0.5765957593174229,
+      "y": 0.12790697731025835
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014569176087145808,
+      "text": "not currently mirror® the percentage of women in the general",
+      "width": 0.5127659249812999,
+      "x": 0.044680873706158454,
+      "y": 0.11479128865512922
+    },
+    {
+      "confidence": 1,
+      "height": 0.014653589245195664,
+      "text": "映女性在总人口中的占比，但那又怎样？",
+      "width": 0.3361701965332031,
+      "x": 0.5765957561589303,
+      "y": 0.10889292198690492
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570247,
+      "text": "population, but so what？",
+      "width": 0.2127659574468085,
+      "x": 0.044680850992907827,
+      "y": 0.09738372140988927
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605431959979553,
+      "text": "没有政府干预，公司董事会中的女",
+      "width": 0.30425530291618186,
+      "x": 0.6148936289408452,
+      "y": 0.09011627899960517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488275489867,
+      "text": "VE 1D The number of women on corporate boards has been",
+      "width": 0.46808510638297873,
+      "x": 0.08297872531914888,
+      "y": 0.07848837233379102
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906896241602,
+      "text": "29",
+      "width": 0.02553191337179639,
+      "x": 0.8872340435694209,
+      "y": 0.053779069865832696
+    }
+  ],
+  "vision_ocr_text": "classifications 复现第四段②句 expressly classifies people on the basis of sex，指向“加州法规（以及其他类\n似政策）”；frowns on（对⋯⋯•皱眉，不赞成）明确最高法院对其态度；unless..补充特例，说明最高法院并\n非一刀切，若是为了解决重大政策利益问题，也允许按性别分类。\n②句基于①句，指出法庭很可能裁定加州法规违反了“平等保护”这一宪法保障。because从句以\napplies to all boards, even where...强调加州立法面向所有董事会，且不管有没有性别歧视的历史\n（discrimination 这里专指“性别歧视”），即：纯粹一刀切按性别分类，且并非是为了解决重大政策利益问\n题。courts are likely to rule that...（rule 意为“裁决，判决”）基于上述“最高法院站位”以及“加州法规性\n质”，推测法庭可能做出的判决。violates the constitutional guarantee of “equal protection”.最终明确加州\n法规可能违反的宪法条目：“平等保护”这一宪法保障。\n【深层解读】第四、五段由前文的“麻州法案”转入与之性质相似的“加州法规”，虽只直接表明加州法\n规可能违宪，实则论证此类基于性别分类的法规/法案都违反了平等保护这一宪法保障。再联系首段可\n知此类政策不可行：原本被用作通向平等、公平之路，但实际上自身都极可能违反了“平等保护”原则，被\n判违宪。\n• 真题精解，\n32. Which of the following is true of the California measure？\n32. 以下哪项关于加州措施的说法正确？\n［A］ It has irritated private business owners.\n［A］它激怒了私营企业所有者。\n［B］ It is welcomed by the Supreme Court.\n［B］ 它得到了最高法院的支持。\n［C］ It may go against the Constitution.\n［C］ 它可能违反了宪法。\nD］ It will settle the prior controversies.\n［D］它会解决先前争议。\n［精准定位］由题干关键词 the California measure 定位至第四、五段。第四段②句指出，州长承认加\n州措施很可能违宪。第五段指出最高法院可能裁定它违反“平等保护”这一宪法保障。因此［C］正确。\n［命题解密］［CJ It may go against the Constitution 概括第四段②句 the law...is probably\nunconstitutional 及第五段②句 likely to rule that the law violates the constitutional guarantee of..。\n［A］对第四段①句过度推导：文中只指出加州措施对私企提出了董事会男女平等的要求，并未指出这\n激怒了私企所有者。［B］违背第五段①句“最高法院不赞成（加州法规这种）基于性别的分类”以及②句“法\n庭很可能会判定加州法规违宪”。［D］将第五段②句 California law applies to all boards... prior discrimination\n（加州法规适用于包括没有歧视历史在内的所有董事会）曲解为“加州法规将会解决先前所有争议”。\n［技巧总结］：本题就第四、五段讨论的“加州法规”命制事实细节题。解题思路为：先利用题干关键词\n确定大范围，再利用各项关键词分别定位、比对：首先根据题干关键词 the California law 定位至第四、五\n段；随后将四个选项分别定位比对：［AJprivate business owners 与第四段①句 private companies 对应，但\nirritated 无从得知；［B］the Supreme Court 第五段①②句均提及，但is welcomed 与原文 frowns on、rule\nthat the law violates...体现的反对态度相悖；［C］the Constitution 对应第四段②句 unconstitutional 及第\n五段②句 constitutional，且 may go against 与 unconstitutional、violates the constitutional guarantee... 信\n息一致；［D］prior 出现于第五段②句，但原文为 prior discrimination，并未提及 prior controversies。\n故确\n定［C］正确。\n另提示：对于事实细节题也应谨记“主旨为王”、将主旨作为判断选项正误的标尺，正确项大多情形\n下会与段落主旨关系密切、甚至直接设为段落主旨，如本题正确项［C］实为第四、五段主旨。\nVI\n①\nBut are such\ngovernment mandates\neven\n但这样的政府指令是否真有必要？女\nnecessary？ ② Female participation on corporate boards may\n性在公司董事会中的参与率当前可能未反\nnot currently mirror® the percentage of women in the general\n映女性在总人口中的占比，但那又怎样？\npopulation, but so what？\n没有政府干预，公司董事会中的女\nVE 1D The number of women on corporate boards has been\n29",
+  "pdf_text_layer": "classifications ::l~ffi mi                        E2:®1iJ expressly classifies people on the basis of sex, m(tiJ \":iJU #I fkJJe. ( ~ .&Jtft!!~\n                                                                  m,\n f~ ~ ffi)\" ; frowns on ( X;j · · · .. · ~ ~ ,r $;) l!ij ~ it iWi t¼ ~ ;<;j Jt ~ Jt ; unless . .. f~ 1t: ~ i9tJ , i,3i 1!ij :ii: jWj t¼ ~ jf\n ~~ -JJ w,*¾= ,i T ffif:                        ~m\n                                     -J::. ~~ *'1# foJ ~ . t11.Jt ilf ~tt j1J ?t~                                                      0\n\n\n\n      ® 'Al~ T <D 'Al , ffi ~ ~Ji! ~&RT ft~ ft~ bn ~ 51 ~ it & 7 ° 3¥- $1 ~ jp\" i! - 3't ~ ~ Ill because JA ii] VJ                                                                      O\n\n applies to all boards, even where . .. S.i iffil bu 1H iL M- 1ii 1iiJ Yf ;f4' 'Ji.•½ , B.~ 1f 'l{:f rJt. 'l{:f t!: §jlj JI;!~ 89 JJj 5E\n (discrimination i!~~m\"ttiUJ;ttl4!\"), f!P :~t$-JJW~tt'11J ,t~ ,Jljt:~~¾1-.J 7~tk:1t*i!tm~J~ liiJ\n/JJL courts are likely to rule that... (rule ~~\"1&tk:,#tltk:\")~T ..t.i£\"iliWi#d~Y&\"ul\"l;,{lk,\":/mfH~~tt\n~ ,, , ffei9!~ ~ ~ iiJ ~11 ili 1¥.J ltl tk: o violates the constitutional guarantee of \"equal protection\". :A'tt/f ~ ?gu 11111-H\n~~iij\"~if!Ji89~~~ §                                     =-•~*tF\"~-~~~-0\n   [ ~ ~ M ii] ~ Im 'Ji~ fB mr )( ~ .. f#                                            :m ~~\"*A ~ z '~ ~ ~§ {i;J. ~ •• ;IJIJ :HI ~ ~,, ' £ ,R 1I ~ ~ ~ :tm 1-H t!\n-iiJ~~~,~-~~.ltt:~£~tt~:fr~89t¼M/ ~~-mJi7··~~~ - %t¼~- o N•~--iiJ\n~ .1tt:~~-~iiJff :Jn.:*fltfflft=jj(tiJlfZ-~,0JJZ-z~ ,{a~~..t. EJ ~t~t& iiJfmii& 7\":ifl-~-f*~\"mt9ltl ,tit\n~JiJ?~ o\n                                                                                         .-·········.···············, ./\n                                                                                         :.. ~--~ -~ -~ ~--~..:fl!,;\n                                                                                                 -\n  32. Which of the following is true_of the California measure?                                                                  32. i:1 \"\"F lfflB !ffi ~ .:i: 1111 ffl           m1'i tf9 i~ jt lE • 1\n  [A] It has irritated private business owners.                                                                                  [A] £Ilg 7 ~ tf it~elr1f :f o\n  [BJ It is welcomed by the Supreme Court.                                                                                       [BJ B~¥1J7fi:iWi~~li9~~0\n  [ CJ It may go against the Constitution.                                                                                       [CJ 'EiiJ~ii& 7 ~t! o\n  [DJ It will settle the prior controversies.                                                                                    [DJ 'E ~fflHR: 1c. lru it~ o\n        [*111 ii ~fl'r ]            m\n                         ffi =f ~-~ the California measure~ {ft~ffi ll9, 1iffl: o ffi ll9.fi®1iJ ffi ili ,#1 i:k1m                                                                                     **\n                                                                m\nttl tlf.v&1M iiJ~:i!.~ ffinStffi !l:i'iTi~~JJJtmtt~'E:i:l!Ji \"~~-f*tF\"i!-*i*-f*llt o f;§ .1tt:[cJ.IEfle o\n                                        0\n\n\n\n       [ 1ftill M. W] [ CJ It may go against the Constitution ffl ffi ffi ll9 Fil® ii] the law.. . is probably\nunconstitutional.&~ 1i•@1ij likely to rule that the law violates the constitutional guarantee of... o\n         [~~-lm~<D1iJM•M~:~~RmW1mfflffi·~~~-w7••~~~··~-*'**•w~\n7JtM 7 ~itl!1r1f :f o [B]ii \"Wffi 1ifi<D1:il\":ll ~ !!Wl~,t $; ( :/Jn ffl '1k -~ ftf1) £ Ttt JJ1J89 :fr~\"~.& ® 1iJ\" f!:\nfll~i iiJtm~,U~:bOfH~~~*\" o [D]#fffili.~®1:iJ C-alifornia law applies to all boards. . . prior discrimination\n<1Jotl'.ij~,~-~ ,JD:F§t.sii:~4ttW.JJj~;(£~(t,JFJr~:i1$~)1iB!ff:1-J\"1JajM~~~~fHk:5tlltrFJr~i*-iSl\" o\n      [ tt l5 .~ ta J :~ Im gtffi fill , .li • i-t ~ 89\" ;Im fH t! ~\"fir *1J lJ ~ ffiI \"iJ »J1 o • Nli Ji~l- B! ~ :1c ~J Jfl RE -=f *if~\nrefu5E:kffi: ml ,N~Jffl*~~-~:frjJIJjE'Ul, ttM-: -1c.~fflllll =f ~it~ the California law 5E-©:~ffi mi, Ji\nSt; ~Fo~ mi-t-~l:Jii:frJJU5E'Ul ttm- :[A]private business owners ~- izg~(1)1:i] private companies m-EY:, {a\nirritated:;JG~~J~;[B]the Supreme Courtffi1i.f3t<D®1iJ~~,&,{a is welcomed !ey@:::t frowns on,rule\nthat the law violates... ,f*~~&,x,f~lJ:ffli¥ ; [C] the Constitution X>tmffitmfi®iiJ unconstitutional .&ffi\nJi•@1ij constitutional,.§. may go against ~ unconstitutional, violates the constitutional guarantee ... {1{\n,m_-~; [DJ prior ili ~ rffi1iEi ® 1iJ, {B ffiX~ prior discrimination,                                                                          **j!lil               prior controversieso 1& ~\n\n         ~-71'\n~[CJiErdu o\n         =~-T•~~~ mx-mw.ili-c\" ± ~ 1-l ~ ,, -~ ± ~fl: 1-;~J ltfi\"~:i:Ji.iE~~tjR., iEfBJYY*$·11i~\nr ~ ey&1t± li*~~tll --~~1i~\\i1-1&1i±ti ,1m*!HiiEfdD~[cJ ~1-Jffi [I] .. n&± ~ o\n····-·· .......................... ..... _...................... .................... ·····-·············· ············· .... -......................... ................................................................ .\n    VI 0 1 But are such government mandates even                                                                                            -~#~4Mff+~~~~~~?*\nnecessary? 8 Female participation on corporate boards may\n                                                                                                                                   ~~~aJ~•½t~~~·t-~A*L\nnot currently mlrrorID the percentage of women in the general                                                                      Ilic :k- •t1-. ~ ,tt..A. o tr7 el.J Ji J:t. , 1 11~ 5t. :t # ?\n                                                                                                                                                                                             8\n\npopulation, but so what?\n     W •DThe number of women on corporate boards has been\n                                                                                                                                            5.t ~ a JA- -r -ffi • /~ aJ ~ • ~ t 6lJ                                 *\n                                                                                                                                                                                                                  29",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2421,
+    "pdf_text_character_count": 6370,
+    "nonempty": true
+  }
+}

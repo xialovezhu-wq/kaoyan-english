@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P016",
+  "year": 2015,
+  "pdf_page": 16,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "生的勇气进行大胆改革，否则很可能退出历史舞台！",
+      "width": 0.4496787937208153,
+      "x": 0.06638115951004196,
+      "y": 0.9186046511974096
+    },
+    {
+      "confidence": 1,
+      "height": 0.017715925358051776,
+      "text": "【深层解读】本段透露出“君主王室固有的财权/王权与现代社会所倡导的民主平等格格不入”，矛头",
+      "width": 0.8415417433698515,
+      "x": 0.10492506619872854,
+      "y": 0.8997093024397985
+    },
+    {
+      "confidence": 1,
+      "height": 0.017738606436820015,
+      "text": "实质指向第二三段所述“君主能够代表国家统一精神、成为广受民众爱戴的国家元首”：1.形似呼应第二",
+      "width": 0.8822269366618775,
+      "x": 0.06638118391745522,
+      "y": 0.8790637190594279
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "三段“君主的存在价值：代表国家统一、象征民族团结”的 Symbolic of national unity、symbolic heart 实质",
+      "width": 0.8800856199301065,
+      "x": 0.06852249172659561,
+      "y": 0.8589076723011178
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "借symbolic 暗藏之意“象征性而并无实质性意义的”暗示“当今民主社会中君主虚位元首的身份地位”；",
+      "width": 0.8822269951246707,
+      "x": 0.06852248409362452,
+      "y": 0.8400520157708016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "2. 形似强调君主自身理念“声称象征国家统一”的claim 实质借其“嘴上这么说，实际行动未必如此”暗",
+      "width": 0.8822269366618773,
+      "x": 0.06638116780396514,
+      "y": 0.8197674415885088
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "示“君主并未真正做到象征国家统一”；3.形似说明王室阶级特征的 aristocratic 实质借其“身处社会高级",
+      "width": 0.8800856199301066,
+      "x": 0.068522507861499,
+      "y": 0.800872093035941
+    },
+    {
+      "confidence": 1,
+      "height": 0.017731045870539197,
+      "text": "阶层、有钱有地有权”暗示“他们与民主平等背道而驰，不可能象征国家统一、民族团结”。",
+      "width": 0.7473233394695881,
+      "x": 0.06852249066848917,
+      "y": 0.7802340701489646
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017576057672190615,
+      "text": "• 真題精解•",
+      "width": 0.11777301949102759,
+      "x": 0.4325481812341436,
+      "y": 0.7542262677223132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868595,
+      "text": "23. Which of the following is shown to be odd, according to",
+      "width": 0.4796573741225904,
+      "x": 0.07922913677881875,
+      "y": 0.7249674900890232
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "23. 根据第四段，下面哪项是奇怪的？",
+      "width": 0.31905780076067103,
+      "x": 0.573875808261451,
+      "y": 0.7236670998266392
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011911421975481895,
+      "text": "Paragraph 4？",
+      "width": 0.11134903275646926,
+      "x": 0.10920770874667621,
+      "y": 0.706111833616978
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172120514709729,
+      "text": "［A］ Aristocrats'",
+      "width": 0.14346895181356262,
+      "x": 0.07922912274418228,
+      "y": 0.6859557867082111
+    },
+    {
+      "confidence": 1,
+      "height": 0.011718631565803328,
+      "text": "excessive reliance on inherited wealth.",
+      "width": 0.3233404634556094,
+      "x": 0.22055674361123903,
+      "y": 0.6859557868173543
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "［A］贵族对继承的财产过度依赖。",
+      "width": 0.2933618830538345,
+      "x": 0.5738758072685859,
+      "y": 0.6831395346117646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325906485667927,
+      "text": "［B］ The role of the nobility in modern democracies.",
+      "width": 0.43683083486739704,
+      "x": 0.07922912654917082,
+      "y": 0.6642441859747537
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "［B］贵族在现代民主政治中的角色。",
+      "width": 0.3040685251754819,
+      "x": 0.573875805399411,
+      "y": 0.661248374701848
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013130538330276553,
+      "text": "LCJ The simple lifestyle of the aristocratic families.",
+      "width": 0.4389721515991679,
+      "x": 0.07708780549056583,
+      "y": 0.6423927176172082
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "［C］贵族世家简单的生活方式。",
+      "width": 0.2655246193838302,
+      "x": 0.5738758085950227,
+      "y": 0.6409883720354566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314754882931557,
+      "text": "［D］ The nobility's adherence to their privileges.",
+      "width": 0.40256959177068363,
+      "x": 0.07922912777632826,
+      "y": 0.6220930231586199
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "［D］贵族对他们的特权的执意不放。",
+      "width": 0.30620984190725276,
+      "x": 0.5738758109253886,
+      "y": 0.6189856954817357
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "［精准定位］第四段末句指出：在经济学家就“日益加深的不平等和世袭财富权力”发出警告的今日，",
+      "width": 0.8458243768333932,
+      "x": 0.10492507773248246,
+      "y": 0.5973837208944681
+    },
+    {
+      "confidence": 1,
+      "height": 0.016300239240549574,
+      "text": "“贵族世家竞然还是现代民主国家的核心象征”非常奇怪，可见［B］正确。",
+      "width": 0.6145610005462764,
+      "x": 0.06423984746062335,
+      "y": 0.576723016657618
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016260547042668216,
+      "text": "［命题解密］题干和正确项［B］所做问答共同构成对③句的同义改写：题干 odd对应 bizarre，选项 the",
+      "width": 0.847965693565164,
+      "x": 0.10492508460928078,
+      "y": 0.5578673600497823
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013313877567048271,
+      "text": "role、the nobility、modern democracies 分别对应 still be the symbolic heart、that wealthy aristocratic",
+      "width": 0.8843682533936482,
+      "x": 0.06852252615827892,
+      "y": 0.5390117033962634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013274185989241016,
+      "text": "families、modern democratic states。",
+      "width": 0.29550319978560524,
+      "x": 0.0685224937367476,
+      "y": 0.5201560466660927
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "［AJ、LD］契合第四段②句 increasing power of inherited wealth、embodies outdated and indefensible",
+      "width": 0.8458243768333933,
+      "x": 0.10706640676531613,
+      "y": 0.4985465119314213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016292678674268868,
+      "text": "privilege 暗含信息，［C］契合第五段①②句所述王室改变“开始较简朴的生活方式”，但三者均未体现",
+      "width": 0.8843683118564416,
+      "x": 0.0663811619786312,
+      "y": 0.4778933677096061
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "“柽异之处的根本：与现代民主社会格格不入”，文不对题。",
+      "width": 0.4925053622074055,
+      "x": 0.06638114699051581,
+      "y": 0.4590377114300167
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "［技巧总结］Which 型事实细节题的典型解答思路为“题干若有锁定信息，由锁定信息定位文中，再",
+      "width": 0.8436830601016223,
+      "x": 0.10492507037745423,
+      "y": 0.43888166458415356
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "于文中定位处找寻与之匹配的正确项；题干若无锁定信息，则借由选项关键词一一回文定位并逐一比",
+      "width": 0.8779443031983357,
+      "x": 0.07066383073487902,
+      "y": 0.42002600803103596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01771592473797734,
+      "text": "对”。如本题，解题关键在抓取题干核心信息 to be odd 明确题目所问（第四段奇特怪异现象），并通过it",
+      "width": 0.8843683118564415,
+      "x": 0.06852247166813927,
+      "y": 0.39970930280317074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01628511810798794,
+      "text": "is bizarre...将解题线索锁定至末句 that 从句，最后对比选项（正确项必须匹配 that 从句）。",
+      "width": 0.7751605739081957,
+      "x": 0.0663811787846599,
+      "y": 0.3790637189735614
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "V",
+      "width": 0.014989292941330959,
+      "x": 0.11563169196616536,
+      "y": 0.3517441862818481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139433941391,
+      "text": "① The most successful monarchies strive① to",
+      "width": 0.394004266380807,
+      "x": 0.1456102918631295,
+      "y": 0.35174418676924657
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "最受欢迎的王室家族都在努力摆脱或隐",
+      "width": 0.34475374769890443,
+      "x": 0.599571729978171,
+      "y": 0.3413524054540813
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208032119413682,
+      "text": "abandon or hide their old aristocratic ways. ② Princes",
+      "width": 0.47109207796411046,
+      "x": 0.06852248821280552,
+      "y": 0.3313953487945209
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "藏旧有贵族习气。王子公主从事日常有薪工",
+      "width": 0.3832976242591595,
+      "x": 0.5610278435663518,
+      "y": 0.32119635902246235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013094626105498275,
+      "text": "and princesses have day-jobs and ride bicycles, not",
+      "width": 0.47109207796411046,
+      "x": 0.06852247879096408,
+      "y": 0.313953488154986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "horses （or helicopters\"）. ⑧ Even so, these are wealthy",
+      "width": 0.47109207796411035,
+      "x": 0.0685224893905357,
+      "y": 0.2950581397875258
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "作，而且骑自行车而不是骑马（或者坐飞机）。",
+      "width": 0.385438970222327,
+      "x": 0.5610278420836974,
+      "y": 0.3008720932686306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "families who party with the international 1%， and media",
+      "width": 0.4732333946958812,
+      "x": 0.06638116526804791,
+      "y": 0.2761627909624291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627755754170712,
+      "text": "即便如此，这些也是和全球1%顶级富豪进行",
+      "width": 0.3811563075273887,
+      "x": 0.5631691670071837,
+      "y": 0.2802340702375168
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01172430214553255,
+      "text": "intrusiveness makes it increasingly difficult to maintain",
+      "width": 0.47109207796411035,
+      "x": 0.0685224893905357,
+      "y": 0.26007802329915597
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "社交活动的富有世家，媒体的侵扰使他们越",
+      "width": 0.3832976242591595,
+      "x": 0.5610278474260948,
+      "y": 0.26007802343789277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "the right image.",
+      "width": 0.1391862891186243,
+      "x": 0.066381161249039,
+      "y": 0.2398255816116538
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "来越难保持正面的形象。",
+      "width": 0.20985010665952009,
+      "x": 0.5631691677087838,
+      "y": 0.2398255813050787
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "词汇注释与难句分析",
+      "width": 0.1905781537636943,
+      "x": 0.3961456128576247,
+      "y": 0.1889534887770079
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014623718236915773,
+      "text": "①strive ［strav］w.努力，奋斗",
+      "width": 0.22912204493964772,
+      "x": 0.06638115939313122,
+      "y": 0.16124837451189555
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011869839791048609,
+      "text": "②party with（与",
+      "width": 0.12847964699697678,
+      "x": 0.535331912582882,
+      "y": 0.16254876479608182
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013170229908083697,
+      "text": "•⋯••聚会，与⋯⋯社交）",
+      "width": 0.16702355278862846,
+      "x": 0.6766595277277415,
+      "y": 0.16124837480393595
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014584026039034192,
+      "text": "②helicopter ［'helikppt］n.直升机",
+      "width": 0.26552461938383026,
+      "x": 0.06852248527596501,
+      "y": 0.1423927177490213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01183014759316714,
+      "text": "③the international 1%（全球1%的顶级富豪）",
+      "width": 0.3511777271256137,
+      "x": 0.5331905840817327,
+      "y": 0.1436931081204168
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013281745935447398,
+      "text": "• 经典搭配",
+      "width": 0.10492505332976008,
+      "x": 0.06852248299250756,
+      "y": 0.11898569596770592
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014544333841152723,
+      "text": "④maintain the right image（保持正面形象）",
+      "width": 0.3361884223090277,
+      "x": 0.5331905882209322,
+      "y": 0.12353706136405396
+    },
+    {
+      "confidence": 1,
+      "height": 0.013088955525769053,
+      "text": "①day-jobs（日常的有薪工作，白天的正职工作）",
+      "width": 0.36830834867397033,
+      "x": 0.066381153885713,
+      "y": 0.09882964916808201
+    },
+    {
+      "confidence": 1,
+      "height": 0.013113527211163212,
+      "text": "16",
+      "width": 0.023554602802028146,
+      "x": 0.0813704499105491,
+      "y": 0.06686046494641062
+    }
+  ],
+  "vision_ocr_text": "生的勇气进行大胆改革，否则很可能退出历史舞台！\n【深层解读】本段透露出“君主王室固有的财权/王权与现代社会所倡导的民主平等格格不入”，矛头\n实质指向第二三段所述“君主能够代表国家统一精神、成为广受民众爱戴的国家元首”：1.形似呼应第二\n三段“君主的存在价值：代表国家统一、象征民族团结”的 Symbolic of national unity、symbolic heart 实质\n借symbolic 暗藏之意“象征性而并无实质性意义的”暗示“当今民主社会中君主虚位元首的身份地位”；\n2. 形似强调君主自身理念“声称象征国家统一”的claim 实质借其“嘴上这么说，实际行动未必如此”暗\n示“君主并未真正做到象征国家统一”；3.形似说明王室阶级特征的 aristocratic 实质借其“身处社会高级\n阶层、有钱有地有权”暗示“他们与民主平等背道而驰，不可能象征国家统一、民族团结”。\n• 真題精解•\n23. Which of the following is shown to be odd, according to\n23. 根据第四段，下面哪项是奇怪的？\nParagraph 4？\n［A］ Aristocrats'\nexcessive reliance on inherited wealth.\n［A］贵族对继承的财产过度依赖。\n［B］ The role of the nobility in modern democracies.\n［B］贵族在现代民主政治中的角色。\nLCJ The simple lifestyle of the aristocratic families.\n［C］贵族世家简单的生活方式。\n［D］ The nobility's adherence to their privileges.\n［D］贵族对他们的特权的执意不放。\n［精准定位］第四段末句指出：在经济学家就“日益加深的不平等和世袭财富权力”发出警告的今日，\n“贵族世家竞然还是现代民主国家的核心象征”非常奇怪，可见［B］正确。\n［命题解密］题干和正确项［B］所做问答共同构成对③句的同义改写：题干 odd对应 bizarre，选项 the\nrole、the nobility、modern democracies 分别对应 still be the symbolic heart、that wealthy aristocratic\nfamilies、modern democratic states。\n［AJ、LD］契合第四段②句 increasing power of inherited wealth、embodies outdated and indefensible\nprivilege 暗含信息，［C］契合第五段①②句所述王室改变“开始较简朴的生活方式”，但三者均未体现\n“柽异之处的根本：与现代民主社会格格不入”，文不对题。\n［技巧总结］Which 型事实细节题的典型解答思路为“题干若有锁定信息，由锁定信息定位文中，再\n于文中定位处找寻与之匹配的正确项；题干若无锁定信息，则借由选项关键词一一回文定位并逐一比\n对”。如本题，解题关键在抓取题干核心信息 to be odd 明确题目所问（第四段奇特怪异现象），并通过it\nis bizarre...将解题线索锁定至末句 that 从句，最后对比选项（正确项必须匹配 that 从句）。\nV\n① The most successful monarchies strive① to\n最受欢迎的王室家族都在努力摆脱或隐\nabandon or hide their old aristocratic ways. ② Princes\n藏旧有贵族习气。王子公主从事日常有薪工\nand princesses have day-jobs and ride bicycles, not\nhorses （or helicopters\"）. ⑧ Even so, these are wealthy\n作，而且骑自行车而不是骑马（或者坐飞机）。\nfamilies who party with the international 1%， and media\n即便如此，这些也是和全球1%顶级富豪进行\nintrusiveness makes it increasingly difficult to maintain\n社交活动的富有世家，媒体的侵扰使他们越\nthe right image.\n来越难保持正面的形象。\n词汇注释与难句分析\n①strive ［strav］w.努力，奋斗\n②party with（与\n•⋯••聚会，与⋯⋯社交）\n②helicopter ［'helikppt］n.直升机\n③the international 1%（全球1%的顶级富豪）\n• 经典搭配\n④maintain the right image（保持正面形象）\n①day-jobs（日常的有薪工作，白天的正职工作）\n16",
+  "pdf_text_layer": "生的勇气进行大胆改革，否 则很可能退出 历史舞台 ！\n       【深层解读】本段透露出“君主王室固有的财权／王权与现代社会所倡导的民主平等格格不入”，矛头\n实质指向第二三段所述“君主能够代表国家统一精楠、成为广受民众爱 戴 的国家元首” ： 1. 形似呼应第二\n三 段“君主的存在价值 ：代 表国家统一、象征民族团结”的 Symbo li c of na tiona l unit y 、 sy mbo li c h eart 实 质\n借 symbolic 暗 藏 之 意“象 征性而并无 实质 性 意义 的”暗 示“当今民主社会中君主虚位元首 的 身 份地位”；\n2. 形 似 强调君主自身理念“声称象征国家统 一 ”的 claim 实质借其“ ｜嘴 上这么说，实际行动未 必如此”暗\n示“君主并未真正 做到象征国 家统一” ； 3 . 形 似说明 王室 阶级特征的 a ri stoc ra t i c 实质借其“身 处社 会高级\n阶层、有钱有地有权”暗示“他们与民 主平等背道 而驰，不可能 象征国家统 一 、民族团结” 。\n\n                                                  ； ．·：真革措辞＜ ii\n 23. Which of the following is shown to be odd, according to             23. 根据第四段，下面即项是奇怪的？\n       Paragraph 4?\n [A] Aristocrats ’ excess ive reliance on inherit:“          wea lth.    [ A〕 贵族对继承 的财 产过度依赖 。\n [ BJ Th e ro le of th e nobilit y in modern democraci es.               [ BJ 贵族在现 代 民主政治中 的角色 。\n [ CJ The s imp le li festy le of t he aristocratic famili 巳s .          [ CJ 贵族世家简单 的 生活方式 。\n [ DJ T he nobility ’ s ad her ence to t heir privi leges.               [ DJ 贵族对 他们 的特权 的执 意不放 。\n\n       ［精准定位］ 第 四段末句指出：在 经济学家就 “日 益 加 深 的 不平 等 和世 袭财 富 权力”发出 警 告 的 今 日，\n“贵族世家竟然还是现代民主国家的核心象征”非常奇怪，可见 ［ BJ 正确 。\n       ［命题解密］ 题干 和l 正确项 ［ BJ 所 做问 答共 同构成对 CID 句的同义改写：题干 odd X才应 bi za rr e ，选项 th巳\nrole 、 the nobilit y 、 mod ern d emo craci es 分 别对应 s till be t he sym bolic h ea r t 、 th a t wea lt hy a ri stocratic\nfam ili es 、 mod e rn democratic states 。\n\n       [ A ］、［ DJ 契合第 四段 ② 句 in creas ing power of inherit ed wea l t h 、 e mbod i es o utdated and indefe ns ibl e\npnvd ege 暗含信息，［ CJ 契合第五段① ② 句所述王室改变“开始较为简朴的生活方式”，但 三 者均未 体现\n“怪异之处的根本 ： 与现代民主社会格格不入”，文不对题 。\n       ［ 技巧总结］ Wh i c h 型事实细节题的典型解答思路为“题干若有 tfll 定信息，住1 tJJl 定信息定位文 中 ，再\n于 文 中 定位 处找 寻与之 匹配的正确项；题干 若无 锁 定信息， 贝lj 借向选项关键词 一一 回文定位并逐 一 比\n对” 。 如 本题，解题关键在 抓取题干核心信息 to be odd 明确题目所问（第四段奇特怪异现象），并通过 it\nis bizarre . . .将 fWf 题线索锁定至末句 that 从句，最后对比选项（正确项必须匹配 t h at 从句 ） 。\n\n       V’ 0 The mos t s uccess fu l monarchi es strive( to                      最受欢迎的王室家族都在努力摆脱或隐\nabandon or hid e th eir old aristocrati c ways. @ Princes\n                                                                        藏 l日有贵族习气 。 王子公主从事日常有薪工\na nd prin c 巴sses have day-jobs and ride bicycles, not\n                                                                        作，而且骑自行车而不是骑马（或者坐飞机）。\nhorses Cor helicopters'2l ). 8 E ve n so, th ese ar e wea lthy\nfam ili es w ho part y with the int巳rna tion a l 1 % , and medi a       即使如此，这些也是和全球 1 % 顶级富豪进行\n\nintru s iveness makes it increasingly diffi cult to maintain            社交活动的富有世家，媒体的侵扰使他们越\nth e ri g ht image.                                                     来越难保持正面的形象 。\n\n\n\n\n                                            ：？：词汇注释：当难：句分：f斤：：~ ：： ；／\n( strive [ stra1v] v. 努力 ，奋斗\n( helicopter [ 1he! 1kopt;, Jη ． 直 升机                          :\n                                                               \\\\\n                                                                            …\n                                                                    ( pa1ty with （与……聚 会 ，与 …… 社交）\n                                                                    ( the int    ional 1% （ 全球 ］ % 的顶级富豪）\n\n．经典搭配\n( day jobs （日常的有薪工 作， 白天 的正职工 作 〉\n\n  16\n                                                               :\n                                                               $    ( maintain the right image （保捋正面形象）",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2063,
+    "pdf_text_character_count": 3329,
+    "nonempty": true
+  }
+}

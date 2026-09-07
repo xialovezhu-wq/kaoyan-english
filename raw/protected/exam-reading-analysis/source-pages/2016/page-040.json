@@ -1,0 +1,398 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P040",
+  "year": 2016,
+  "pdf_page": 40,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "①②句指出研究局限性（未能解答两个问题）。Their study does not answer...Nor does it reveal...街",
+      "width": 0.8436830373910758,
+      "x": 0.10278375740724575,
+      "y": 0.9126466750555388
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "接两句。",
+      "width": 0.0749464621910682,
+      "x": 0.062098504129305274,
+      "y": 0.8909883720063526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019639216625706113,
+      "text": "①句指出研究未能解答的问题之一：企业应该在 CSR上投入多少。Researchers admit 充当了研究",
+      "width": 0.8438805800217849,
+      "x": 0.10269260199774488,
+      "y": 0.8700189548842643
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "介绍类文章末尾部分“说明研究发现—指出遗留问题或不足”的桥梁。does not answer the question at",
+      "width": 0.8865096459021935,
+      "x": 0.06209850349429921,
+      "y": 0.8517441860300929
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "how much...为研究遗留问题的明确标识。",
+      "width": 0.36830834608811597,
+      "x": 0.062098508219325166,
+      "y": 0.8311603647839694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "②句指出研究未能解答的问题之二：企业的行善政策多大程度上是在指望“光环效应”。how much",
+      "width": 0.8458243736853965,
+      "x": 0.10278375078042785,
+      "y": 0.8109517599606465
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "companies are banking on... rather than... 可从两个角度理解：一，表层看，以取舍区分结构说明研究遗",
+      "width": 0.8843683096078726,
+      "x": 0.06209849307258056,
+      "y": 0.7906976742083874
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "留问题：只将“光环效应（the halo effect）”与其他效应（the other possible benefits，指第二段所述CSR 前",
+      "width": 0.8822269733135517,
+      "x": 0.06423983870266126,
+      "y": 0.7703488372015354
+    },
+    {
+      "confidence": 1,
+      "height": 0.017618097879740557,
+      "text": "两种效应）区分开来，但并未能够确定“比例、程度”。二，深层看，句子整体表明企业的行善政策在很大",
+      "width": 0.8843683096078726,
+      "x": 0.06209848938771282,
+      "y": 0.7483702740249448
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "程度上源自对“利益”的期冀（无论是“光环效应”还是“另两种效应”对企业而言都可划归利益范畴），进",
+      "width": 0.8843683096078726,
+      "x": 0.06209850781205218,
+      "y": 0.7294654499325934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017705269556157477,
+      "text": "一步明确作者对 Friedman 观点的看法：并非完全否定，只是认为过于绝对。句中 do-gooding policies 意",
+      "width": 0.8843683096078726,
+      "x": 0.06209848938771282,
+      "y": 0.7078488372522913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "为“慈善政策”，与 CSR policies 同指；banking on 意次 relying on sth happening“指望、期冀⋯⋯的发生”。",
+      "width": 0.8800856370192308,
+      "x": 0.06423984407068428,
+      "y": 0.6875000001398883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "③句转而（But）重申研究结论：当企业陷入法律纠纷时，良好声誉确实为其减轻处罚。But at least they",
+      "width": 0.8458243736853966,
+      "x": 0.10278373617657381,
+      "y": 0.6668839634648324
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "have demonstrated（其中 at least 意“至少［尽管没有更好的情况］”）转承①②句，强调新研究的意义所在。",
+      "width": 0.8886509235088642,
+      "x": 0.06209853222308368,
+      "y": 0.647979139251357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01761430805012343,
+      "text": "When companies get into trouble with the law 与开篇末句 are prosecuted 同义，形成“情形呼应”；evidence of",
+      "width": 0.8886509235088642,
+      "x": 0.06209851000681014,
+      "y": 0.6264534884150821
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "good character 与 CSR policies 同指，并暗示其中的 the halo effect（即：CSR 政策借助光环效应成为企业品质",
+      "width": 0.8865096459021935,
+      "x": 0.062098504971815335,
+      "y": 0.6061046511633293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "优良的证据），形成“主题呼应”；win them a less costly punishment 则回应 create monetary value for companies",
+      "width": 0.8865096459021935,
+      "x": 0.06423983111742561,
+      "y": 0.5857558139128449
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "（以及第二段末句的 earn it greater consideration），形成“结果呼应”概述研究结论；三组词汇的一一对应使",
+      "width": 0.8865096459021935,
+      "x": 0.06209850349429921,
+      "y": 0.5651890484692619
+    },
+    {
+      "confidence": 1,
+      "height": 0.017673054139337396,
+      "text": "得文章首尾圆合，凸显全文主旨“光环效应：行善政策能在企业被诉时有所助益”。",
+      "width": 0.6788008469801683,
+      "x": 0.06209849905809582,
+      "y": 0.5436046512203146
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "【深层解读】研究介绍类文章典型的“结尾方式”是先让步承认研究不足/遗留问题，后转而重申研究发",
+      "width": 0.8458243736853966,
+      "x": 0.10064240996315481,
+      "y": 0.5247093025807484
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "现/研究意义（Researchers admit that... But at least they have demonstrated that），借以更加突显全文主旨（作",
+      "width": 0.8843683096078726,
+      "x": 0.06423983514966818,
+      "y": 0.50436046514831
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "者观点）；阅读时应牢牢把握开篇作者观点与文末重申的结论，切忌将中途的“让步内容”误读为“作者的犹",
+      "width": 0.8843683096078726,
+      "x": 0.06423981893803399,
+      "y": 0.4823989572632327
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771945,
+      "text": "疑、不确定态度”。",
+      "width": 0.14775160275972807,
+      "x": 0.06423983136103528,
+      "y": 0.4621903522241949
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017669263688029013,
+      "text": "•真题精解•",
+      "width": 0.11991434097290032,
+      "x": 0.4368308392780037,
+      "y": 0.43604651180171006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013289848859804443,
+      "text": "35. Which of the following is true of CSR, according to the last",
+      "width": 0.5160599341759314,
+      "x": 0.07494648475892918,
+      "y": 0.40261627921102094
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "35.根据末段内容，以下关于 CSR 的叙",
+      "width": 0.334047112098107,
+      "x": 0.6038543916168994,
+      "y": 0.4009126464011964
+    },
+    {
+      "confidence": 1,
+      "height": 0.014644795632890784,
+      "text": "paragraph？",
+      "width": 0.08993575756366436,
+      "x": 0.10920771067212924,
+      "y": 0.3807040414544809
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016472704562867313,
+      "text": "述哪一项正确？",
+      "width": 0.13074838198148286,
+      "x": 0.6423345893877209,
+      "y": 0.3805717874567771
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325384299167598,
+      "text": "［A］ Its negative effects on businesses are often overlooked.",
+      "width": 0.473233384352464,
+      "x": 0.07494648172098418,
+      "y": 0.35593220344773924
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014557623956473975,
+      "text": "［A］它（CSR）对企业的负面影响常被",
+      "width": 0.331905775803786,
+      "x": 0.6059957226059075,
+      "y": 0.3546284223345938
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "忽视。",
+      "width": 0.05139186198894796,
+      "x": 0.6466809430954618,
+      "y": 0.3328488371202093
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013242472881133116,
+      "text": "［B］ The necessary amount of companies’spending on it is",
+      "width": 0.5160599341759314,
+      "x": 0.0749464869091789,
+      "y": 0.3081395349946934
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095175953,
+      "text": "［B］企业对其（CSR）投入的必要数额",
+      "width": 0.331905775803786,
+      "x": 0.6059957235542097,
+      "y": 0.3063885266267661
+    },
+    {
+      "confidence": 1,
+      "height": 0.01222573234329316,
+      "text": "unknown.",
+      "width": 0.08155219004704403,
+      "x": 0.11768214844856031,
+      "y": 0.28894527387259483
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "未知。",
+      "width": 0.05139186198894796,
+      "x": 0.646680943034281,
+      "y": 0.2848761405792476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014604999935145191,
+      "text": "［C］ Companies' financial capacity for it has been overestimated.",
+      "width": 0.507494647686298,
+      "x": 0.07494646191702242,
+      "y": 0.26010430232906767
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "［C］企业就其（CSR）财政能力被高估了。",
+      "width": 0.331905775803786,
+      "x": 0.6059957232597772,
+      "y": 0.257267442194152
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014870819554335113,
+      "text": "［D］ It has brought much benefit to the banking industry.",
+      "width": 0.48626418480506306,
+      "x": 0.07485939477995886,
+      "y": 0.23225138254497946
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "［D］它（CSR）已为银行业带来大量收益。",
+      "width": 0.334047112098107,
+      "x": 0.6038543910601541,
+      "y": 0.2311046510736976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "［精准定位］末段首句指出，研究未能回答“企业应该在CSR 上投入多少”这一问题，也即企业在",
+      "width": 0.8479657099797175,
+      "x": 0.10064242115575132,
+      "y": 0.20469361167606837
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "CSR上具体的必要花费数额尚不得而知，［B］正确。",
+      "width": 0.436830814068134,
+      "x": 0.06209850722717505,
+      "y": 0.18313953473891065
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175341903,
+      "text": "［命题解密］正确项［B］是对末段首句 their study does not answer the question at how much",
+      "width": 0.8479657099797175,
+      "x": 0.10278372616645857,
+      "y": 0.16424418610903435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01618773871947765,
+      "text": "businesses ought to spend on CSR 的同义改写。",
+      "width": 0.4049609844501202,
+      "x": 0.06413163413785872,
+      "y": 0.14238647137093752
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014574679433133841,
+      "text": "LAJ误认为末段③句 get into trouble with the law ...costly punishment 是在介绍“CSR 被人们所忽",
+      "width": 0.8436830960787259,
+      "x": 0.10278372565289763,
+      "y": 0.1205997389509571
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "视的负面影响”，而实际上该句是在说明CSR最起码的积极作用。［C］将末段①句信息“研究未能解答",
+      "width": 0.8822269733135517,
+      "x": 0.06423982609941878,
+      "y": 0.09883720914920957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771945,
+      "text": "企业应该在CSR上投人多少”曲解为“研究高估了企业的CSR 支出能力/CSR 财政能力”。［D］根据末",
+      "width": 0.8822269733135517,
+      "x": 0.06423983921046178,
+      "y": 0.07692307684986388
+    },
+    {
+      "confidence": 1,
+      "height": 0.011749189245032543,
+      "text": "40",
+      "width": 0.025695930994473967,
+      "x": 0.07708779499526835,
+      "y": 0.058018252818228366
+    }
+  ],
+  "vision_ocr_text": "①②句指出研究局限性（未能解答两个问题）。Their study does not answer...Nor does it reveal...街\n接两句。\n①句指出研究未能解答的问题之一：企业应该在 CSR上投入多少。Researchers admit 充当了研究\n介绍类文章末尾部分“说明研究发现—指出遗留问题或不足”的桥梁。does not answer the question at\nhow much...为研究遗留问题的明确标识。\n②句指出研究未能解答的问题之二：企业的行善政策多大程度上是在指望“光环效应”。how much\ncompanies are banking on... rather than... 可从两个角度理解：一，表层看，以取舍区分结构说明研究遗\n留问题：只将“光环效应（the halo effect）”与其他效应（the other possible benefits，指第二段所述CSR 前\n两种效应）区分开来，但并未能够确定“比例、程度”。二，深层看，句子整体表明企业的行善政策在很大\n程度上源自对“利益”的期冀（无论是“光环效应”还是“另两种效应”对企业而言都可划归利益范畴），进\n一步明确作者对 Friedman 观点的看法：并非完全否定，只是认为过于绝对。句中 do-gooding policies 意\n为“慈善政策”，与 CSR policies 同指；banking on 意次 relying on sth happening“指望、期冀⋯⋯的发生”。\n③句转而（But）重申研究结论：当企业陷入法律纠纷时，良好声誉确实为其减轻处罚。But at least they\nhave demonstrated（其中 at least 意“至少［尽管没有更好的情况］”）转承①②句，强调新研究的意义所在。\nWhen companies get into trouble with the law 与开篇末句 are prosecuted 同义，形成“情形呼应”；evidence of\ngood character 与 CSR policies 同指，并暗示其中的 the halo effect（即：CSR 政策借助光环效应成为企业品质\n优良的证据），形成“主题呼应”；win them a less costly punishment 则回应 create monetary value for companies\n（以及第二段末句的 earn it greater consideration），形成“结果呼应”概述研究结论；三组词汇的一一对应使\n得文章首尾圆合，凸显全文主旨“光环效应：行善政策能在企业被诉时有所助益”。\n【深层解读】研究介绍类文章典型的“结尾方式”是先让步承认研究不足/遗留问题，后转而重申研究发\n现/研究意义（Researchers admit that... But at least they have demonstrated that），借以更加突显全文主旨（作\n者观点）；阅读时应牢牢把握开篇作者观点与文末重申的结论，切忌将中途的“让步内容”误读为“作者的犹\n疑、不确定态度”。\n•真题精解•\n35. Which of the following is true of CSR, according to the last\n35.根据末段内容，以下关于 CSR 的叙\nparagraph？\n述哪一项正确？\n［A］ Its negative effects on businesses are often overlooked.\n［A］它（CSR）对企业的负面影响常被\n忽视。\n［B］ The necessary amount of companies’spending on it is\n［B］企业对其（CSR）投入的必要数额\nunknown.\n未知。\n［C］ Companies' financial capacity for it has been overestimated.\n［C］企业就其（CSR）财政能力被高估了。\n［D］ It has brought much benefit to the banking industry.\n［D］它（CSR）已为银行业带来大量收益。\n［精准定位］末段首句指出，研究未能回答“企业应该在CSR 上投入多少”这一问题，也即企业在\nCSR上具体的必要花费数额尚不得而知，［B］正确。\n［命题解密］正确项［B］是对末段首句 their study does not answer the question at how much\nbusinesses ought to spend on CSR 的同义改写。\nLAJ误认为末段③句 get into trouble with the law ...costly punishment 是在介绍“CSR 被人们所忽\n视的负面影响”，而实际上该句是在说明CSR最起码的积极作用。［C］将末段①句信息“研究未能解答\n企业应该在CSR上投人多少”曲解为“研究高估了企业的CSR 支出能力/CSR 财政能力”。［D］根据末\n40",
+  "pdf_text_layer": "①②旬指出研究局限性（未能解答两个问题）。 Their study does not answer ..• Nor does it reveal. ..衔\n接两句。\n      ①旬指出研究未能解答的问题之一：企业应该在 CSR 上投入多少。 Researchers admit 充当了研究\n介绍类文 章末尾部分“说 明研究发现 一一指出遗留问题或不足”的桥梁。 does not answer the question at\n\nhow much . . .为研究遗留问题的明确标识 。\n      ②旬指出研究未能解答的问题之二：企业的行善政策多大程度上是在指望“光环效应”。 how much\ncompanies are banking on ... rather than .. .可从两个角度理解： 一，表层看， 以取舍区分结构说明研究遗\n留问题：只将“光环效应（ the halo effect ）”与其他效应（ the other possible benefits ，指第二段所述 CSR 前\n两种效应）区分开来，但并未能够确定“比例、程度”。二，深层看，句子整体表明企业的行善政策在很大\n程度上源自对“利益”的期冀（无论是“光环效应”还是“另两种效应”对企业而言都可划归利益范畴），进\n一步明确作者对 Fri e dm a n 观点的 看法 ：并非完全否定，只是认为过于绝对 。句中 do-good ing policies 意\n为“慈善政策”，与 CSR policies 同指； bank i ng on 意为 relying on sth happening“指望、期冀……的发生” 。\n      ③旬转而（ But ）重申研究结论：当企业陷入法律纠纷时，良好声誉确实为其减轻处罚。 But at least they\nhave demonstrated （其中 at least 意为“至少［尽管没有更好的情况］”）转承① ②句，强调新研究的意义所在。\nWhen companies get into trouble with the law 与开篇末句 are prosecuted 同义，形成“情形 呼应”； evidence of\ngood character 与 CSR policies 同指，并暗示其中的 the halo effect(             en :CSR 政策借助光环效应成为企业品质\n优良的证据），形成“主题呼应”； win them a less costly punishment 则回应 create monetary value for companies\n\n（以及第二段末句的 earn it greater consideration），形成“结果呼应”概述研究结论； 三 组词汇的一一对应使\n得文章首尾圆合，凸显全文主旨“光环效应 ： 行善政策能在企业被诉时有所助益”。\n      【深层解读】研究介绍类文章典型的“结尾方式”是先让步承认研究不足／遗留问题，后转而重申研究发\n现／ 研究意义（ Researchers admit that... But at least they have demonstrated that），借以更加突显全文主旨（作\n者观点）；阅读时应牢牢把握开篇作者观点与文末重申的结论，切忌将中途的“让步内容”误读为“作者的犹\n疑、不确定态度”。\n\n                                             ＞：事题蝉· hi\n 35. Which of the following is true of CSR, according to the last    35. 根据末段内容，以 下 关于 CSR 的叙\n      paragraph?                                                       述哪 一 项 正 确？\n\n [A] Its negative effects on businesses are often overlooked.        [A］它（ CSR ）对企业的负面影响常被\n                                                                       忽视。\n\n [BJ The necessary amount of compani es' spending on it is           [BJ 企业对其（ CSR ）投入的必要数额\n       unknown.                                                        未知。\n\n [CJ Companies ' financial capacity for it has been overestimated.   [CJ 企业就其（ CSR）财政能力被高估了。\n\n [DJ It has brought much benefit to the banking industry.            [DJ 它（ CSR）已为银行业带来大量 收益。\n\n      ［精准定位］ 末段首句指出，研究未能回答“企业应该在 CSR 上投入多少”这一问题，也即企业在\nCSR 上具体的必要花费数额尚不得而知，［ BJ 正确。\n      ［命题解密］ 正确项［ BJ 是对末段首句 their study does not answer the question at how much\nbusinesses ought to spend on CSR 的同义改写。\n      [ A ］误认为末段③句 ge t into trouble with the law . . . costly punishment 是在介绍“ CSR 被人们所忽\n\n视的负面影响”，而实际上该句是在说明 CSR 最起码的积极作用 。［ CJ 将末段①句信息“研究未能解答\n企业应该在 CSR 上投入多少”曲解为“研究高估了企业的 CSR 支出能力 I CSR 财政能力”。［ DJ 根据末\n 40",
+  "quality": {
+    "vision_line_count": 47,
+    "vision_character_count": 2150,
+    "pdf_text_character_count": 2595,
+    "nonempty": true
+  }
+}

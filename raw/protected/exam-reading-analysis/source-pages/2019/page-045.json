@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P045",
+  "year": 2019,
+  "pdf_page": 45,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.020812752975184923,
+      "text": "•语篇分析•泌",
+      "width": 0.1564465596125676,
+      "x": 0.40036344239911126,
+      "y": 0.9096517630228629
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "第六段介绍新裁定对第二类商家（未在多州设有实体存在）的影响。关键词为：out-of-state sellers。",
+      "width": 0.8308350783128006,
+      "x": 0.07494649692496995,
+      "y": 0.8864229764252296
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772841,
+      "text": "①②句说明第二类商家的具体情况。两句中 many sellers that have a physical presence in only a",
+      "width": 0.8479657099797175,
+      "x": 0.07494648168037678,
+      "y": 0.8661879893381126
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "single state or a few states 与 Sellers that use eBay and Etsy 要么并未在各州设有实体存在，要么依靠电",
+      "width": 0.8843683096078726,
+      "x": 0.034261248215335514,
+      "y": 0.8472584855377102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "商平台开展线上交易（即第三方商家），两者借 also体现并列关系，正是第五段②句中 rivals 的具体所指；",
+      "width": 0.8843683096078726,
+      "x": 0.03640257449210219,
+      "y": 0.8283289814212157
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "avoid charging sales taxes 和 haven't been collecting sales tax nationwide 两者的近义复现也呼应了第五",
+      "width": 0.8843683096078726,
+      "x": 0.03426124127743413,
+      "y": 0.8093994779944063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "段②句中 hadn't （been charging sales tax before），再次明确这类商家特点：未在全国范围内代收销售税。",
+      "width": 0.8865096459021935,
+      "x": 0.03640257349429921,
+      "y": 0.7891644906445248
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "③句介绍这类商家受到的具体影响：将被迫开始代收销售税。Under the ruling Thursday 与段首",
+      "width": 0.843683096078726,
+      "x": 0.07494645349525524,
+      "y": 0.7702349868701309
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "Until now 体现新裁定出台前后的情形对比，表明新裁定带来巨大变化。collect the state's sales tax from",
+      "width": 0.8865096459021935,
+      "x": 0.03640257349429921,
+      "y": 0.7513054832750006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "customers 则直接呼应上段②句 will be charging sales tax，明确了新裁定对这类商家的具体影响：裁定出",
+      "width": 0.8843683096078726,
+      "x": 0.03426123249799105,
+      "y": 0.7323759792856448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "现之前，这类商家无需代收销售税；裁定之后，他们将开始代收销售税。states can pass laws requiring 与",
+      "width": 0.8822269733135517,
+      "x": 0.036402577208320415,
+      "y": 0.7121409922857369
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "第一段 States will be able to force 遥相呼应，明确了各州行使新权力的具体办法：立法强制商家执行。",
+      "width": 0.8672376779409555,
+      "x": 0.03426125535500388,
+      "y": 0.6932114881783268
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "【深层解读】第六段是对第五段②句的具体阐述，明确了新裁定对第二类商家（大型连锁店竞争对",
+      "width": 0.8458243736853966,
+      "x": 0.07280516255772981,
+      "y": 0.6742819846243787
+    },
+    {
+      "confidence": 1,
+      "height": 0.01762402088772841,
+      "text": "手）带来的影响：前两句说明这些竞争者此前并未代收销售税，③句转而指出新裁定允许各州立法强制",
+      "width": 0.8822269733135517,
+      "x": 0.03640257404986225,
+      "y": 0.6540469971727529
+    },
+    {
+      "confidence": 1,
+      "height": 0.017715101142464995,
+      "text": "他们对消费者代收销售税。至此，本段联合上段③④句完成了对上段①②句的具体阐述，即：新裁定要",
+      "width": 0.8822269733135516,
+      "x": 0.036402569060569004,
+      "y": 0.63372093010157
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "求未在多州设有实体存在的商家开始代收销售税，这无疑维护了公平的市场竞争环境，对一直代收销售",
+      "width": 0.8843683096078726,
+      "x": 0.034261233971938164,
+      "y": 0.6161879893121041
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964668,
+      "text": "税的大型连锁店而言是一个胜利（a victory）。",
+      "width": 0.3854389484112079,
+      "x": 0.03426124902780085,
+      "y": 0.595930233010322
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327494043594235,
+      "text": "① Retail trade groups praised the ruling,saying it",
+      "width": 0.43254817082331726,
+      "x": 0.10492505084815601,
+      "y": 0.5593994779562855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464114363448743,
+      "text": "零售贸易团体赞扬了这项裁定，称其",
+      "width": 0.314775144136869,
+      "x": 0.59957174495512,
+      "y": 0.5522193212174047
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013309095920532865,
+      "text": "levels the playing field for local and online businesses.",
+      "width": 0.47109204805814303,
+      "x": 0.03426124863331277,
+      "y": 0.5404699735860361
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394972440208,
+      "text": "②",
+      "width": 0.017130620662982654,
+      "x": 0.5160599572273952,
+      "y": 0.5406976747158148
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014675298496575007,
+      "text": "汐地方商家和线上商家创造了公平的竞",
+      "width": 0.35546038700984073,
+      "x": 0.5610278409169211,
+      "y": 0.5332898175077256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013343250782620553,
+      "text": "The losers, said retail analyst Neil Saunders, are online-",
+      "width": 0.5010706388033354,
+      "x": 0.036402590448439076,
+      "y": 0.5215404699836383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "争环搅。零售分析师尼尔•桑德斯表示，",
+      "width": 0.3576016939603366,
+      "x": 0.5610278440530224,
+      "y": 0.5116279072835779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013229400619825582,
+      "text": "only retailers, especially smaller ones.",
+      "width": 0.33618841904860275,
+      "x": 0.03640258408740433,
+      "y": 0.5013054828886814
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011923917591105004,
+      "text": "3 Those retailers",
+      "width": 0.1520342606764573,
+      "x": 0.3854389739658398,
+      "y": 0.5026109661590112
+    },
+    {
+      "confidence": 1,
+      "height": 0.014595603195867723,
+      "text": "输家是纯线上零售商，尤其是小型纯线上",
+      "width": 0.35546038700984073,
+      "x": 0.5588865091360503,
+      "y": 0.494125326568123
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "may face headaches”",
+      "width": 0.1734475355881911,
+      "x": 0.036402573426461075,
+      "y": 0.48237597889570016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013263555481913158,
+      "text": "complying with various state sales tax",
+      "width": 0.3297644395094651,
+      "x": 0.20770878117317623,
+      "y": 0.48237597918938446
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "零售商。这些零售商可能要面临遵守不",
+      "width": 0.35331905071551983,
+      "x": 0.5610278430175077,
+      "y": 0.4738372092682698
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "laws. ④ The Small Business &. Entrepreneurship®Council",
+      "width": 0.5010706388033354,
+      "x": 0.036402587736090855,
+      "y": 0.4634464752933024
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860378255347,
+      "text": "尽相同的各州销售税法的麻烦事。小企",
+      "width": 0.3576016939603366,
+      "x": 0.5588865217296818,
+      "y": 0.4534883723544769
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014637348234809111,
+      "text": "advocacy group said in a statement， “Small businesses and",
+      "width": 0.5010706388033355,
+      "x": 0.03640257708655509,
+      "y": 0.44321148851077075
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "业与创业委员会这一倡议团体在其声明",
+      "width": 0.35331905071551983,
+      "x": 0.5610278430175077,
+      "y": 0.43733681441902494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011764527612193154,
+      "text": "internet entrepreneurs are not",
+      "width": 0.2698072580190805,
+      "x": 0.03426124879203018,
+      "y": 0.4242819841805586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013218015043293563,
+      "text": "well served at all by this",
+      "width": 0.2355460240290715,
+      "x": 0.30192720454506444,
+      "y": 0.4242819845504847
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017722690696815868,
+      "text": "中表示：“小型企业和互联网企业家完金",
+      "width": 0.35546038700984073,
+      "x": 0.5610278342895122,
+      "y": 0.4156976746364537
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013252170527883966,
+      "text": "decision.” ［444 words］",
+      "width": 0.19914346841665415,
+      "x": 0.0364025673709021,
+      "y": 0.40535248035586513
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768853583472829,
+      "text": "没有得到本次裁定的丝毫考虑。”",
+      "width": 0.2826552464411809,
+      "x": 0.5588865060085317,
+      "y": 0.39680232555215145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "• 词汇注释与难句分析",
+      "width": 0.20556744795579168,
+      "x": 0.3490364019321684,
+      "y": 0.35174418646235694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043444,
+      "text": "①headache ［'hedeik］n. 使人头痛的事，棘手的事",
+      "width": 0.3811563051663912,
+      "x": 0.03640257525406352,
+      "y": 0.32558139551459453
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02779476076131071,
+      "text": "3。经典搭配",
+      "width": 0.13926291832557086,
+      "x": 0.47105376490134615,
+      "y": 0.3138642478725199
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013126935411059804,
+      "text": "②entrepreneurship ［ipntropra'ns:fup］n. 企业家；企业",
+      "width": 0.4175588754507211,
+      "x": 0.03640257214004171,
+      "y": 0.30809399456062536
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043444,
+      "text": "①level the playing field（打造公平的竞争环境）",
+      "width": 0.36402570284329927,
+      "x": 0.5032119916190355,
+      "y": 0.30668604694628054
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0147985889145974,
+      "text": "家精神",
+      "width": 0.05368740375225361,
+      "x": 0.03632546350014878,
+      "y": 0.28911233330676267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013161090273147491,
+      "text": "② comply with（遵从，遵循）",
+      "width": 0.21199142749492939,
+      "x": 0.5032119935177541,
+      "y": 0.28916449086132845
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015013054830287254,
+      "text": "③factual ［'feekt/ual］a.（基于）事实的；与事实相关的",
+      "width": 0.41541753915640023,
+      "x": 0.036402583612377984,
+      "y": 0.2715404702058676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906918836972,
+      "text": "③advocacy group（倡议团休）",
+      "width": 0.22483940124511714,
+      "x": 0.505353320897784,
+      "y": 0.27325581406965127
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01727114645059047,
+      "text": "• 语篇分析•",
+      "width": 0.1352207330557016,
+      "x": 0.40026972081251,
+      "y": 0.24499814774338347
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "第七段介绍各类商家对裁定的反响。",
+      "width": 0.3126338371863732,
+      "x": 0.077087795411096,
+      "y": 0.21801566598390443
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "①句指出零售业界反应：欢迎本次裁定。主句部分借 praised the ruling 体现出零售贸易团体对新裁",
+      "width": 0.8436830373910758,
+      "x": 0.07708781586548996,
+      "y": 0.1990861616621047
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013305300520854546,
+      "text": "定的公开欢迎（praise 意力 to say that you admire and approve of someone or something, especially",
+      "width": 0.8843683096078726,
+      "x": 0.038543887744243714,
+      "y": 0.1814621410787377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "publicly\"［尤指公开地］称赞，赞扬”），伴随状语 saying.•对这种欢迎态度做进一步说明：新裁定创造了",
+      "width": 0.8843683096078726,
+      "x": 0.0364025615950645,
+      "y": 0.15988372070540657
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0176278156649039,
+      "text": "公平的竞争环境。level the playing field 字面意思为“使运动场平整”，进而衍生出“创造公平竞争的局",
+      "width": 0.8843683096078725,
+      "x": 0.03640257528171675,
+      "y": 0.14098837221951033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "面”的含义（to make a situation in which people are competing fair, with no one having special",
+      "width": 0.8843682509202223,
+      "x": 0.04068526800883905,
+      "y": 0.12336814648530081
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017707510965611184,
+      "text": "advantages）。Retail trade groups 代表的是（尤指在多处开设门店的）零售商家，此前由于实体存在规则",
+      "width": 0.8865095872145432,
+      "x": 0.03426125526853159,
+      "y": 0.10174418598093049
+    },
+    {
+      "confidence": 1,
+      "height": 0.014633553457633619,
+      "text": "利益受损，自然因为本次裁定推翻该规则而喜出望外。",
+      "width": 0.4625267615685096,
+      "x": 0.03640257596092717,
+      "y": 0.08420365552147335
+    },
+    {
+      "confidence": 1,
+      "height": 0.011760732212514946,
+      "text": "45",
+      "width": 0.023554603870098445,
+      "x": 0.8843683085396118,
+      "y": 0.06527415155213612
+    }
+  ],
+  "vision_ocr_text": "•语篇分析•泌\n第六段介绍新裁定对第二类商家（未在多州设有实体存在）的影响。关键词为：out-of-state sellers。\n①②句说明第二类商家的具体情况。两句中 many sellers that have a physical presence in only a\nsingle state or a few states 与 Sellers that use eBay and Etsy 要么并未在各州设有实体存在，要么依靠电\n商平台开展线上交易（即第三方商家），两者借 also体现并列关系，正是第五段②句中 rivals 的具体所指；\navoid charging sales taxes 和 haven't been collecting sales tax nationwide 两者的近义复现也呼应了第五\n段②句中 hadn't （been charging sales tax before），再次明确这类商家特点：未在全国范围内代收销售税。\n③句介绍这类商家受到的具体影响：将被迫开始代收销售税。Under the ruling Thursday 与段首\nUntil now 体现新裁定出台前后的情形对比，表明新裁定带来巨大变化。collect the state's sales tax from\ncustomers 则直接呼应上段②句 will be charging sales tax，明确了新裁定对这类商家的具体影响：裁定出\n现之前，这类商家无需代收销售税；裁定之后，他们将开始代收销售税。states can pass laws requiring 与\n第一段 States will be able to force 遥相呼应，明确了各州行使新权力的具体办法：立法强制商家执行。\n【深层解读】第六段是对第五段②句的具体阐述，明确了新裁定对第二类商家（大型连锁店竞争对\n手）带来的影响：前两句说明这些竞争者此前并未代收销售税，③句转而指出新裁定允许各州立法强制\n他们对消费者代收销售税。至此，本段联合上段③④句完成了对上段①②句的具体阐述，即：新裁定要\n求未在多州设有实体存在的商家开始代收销售税，这无疑维护了公平的市场竞争环境，对一直代收销售\n税的大型连锁店而言是一个胜利（a victory）。\n① Retail trade groups praised the ruling,saying it\n零售贸易团体赞扬了这项裁定，称其\nlevels the playing field for local and online businesses.\n②\n汐地方商家和线上商家创造了公平的竞\nThe losers, said retail analyst Neil Saunders, are online-\n争环搅。零售分析师尼尔•桑德斯表示，\nonly retailers, especially smaller ones.\n3 Those retailers\n输家是纯线上零售商，尤其是小型纯线上\nmay face headaches”\ncomplying with various state sales tax\n零售商。这些零售商可能要面临遵守不\nlaws. ④ The Small Business &. Entrepreneurship®Council\n尽相同的各州销售税法的麻烦事。小企\nadvocacy group said in a statement， “Small businesses and\n业与创业委员会这一倡议团体在其声明\ninternet entrepreneurs are not\nwell served at all by this\n中表示：“小型企业和互联网企业家完金\ndecision.” ［444 words］\n没有得到本次裁定的丝毫考虑。”\n• 词汇注释与难句分析\n①headache ［'hedeik］n. 使人头痛的事，棘手的事\n3。经典搭配\n②entrepreneurship ［ipntropra'ns:fup］n. 企业家；企业\n①level the playing field（打造公平的竞争环境）\n家精神\n② comply with（遵从，遵循）\n③factual ［'feekt/ual］a.（基于）事实的；与事实相关的\n③advocacy group（倡议团休）\n• 语篇分析•\n第七段介绍各类商家对裁定的反响。\n①句指出零售业界反应：欢迎本次裁定。主句部分借 praised the ruling 体现出零售贸易团体对新裁\n定的公开欢迎（praise 意力 to say that you admire and approve of someone or something, especially\npublicly\"［尤指公开地］称赞，赞扬”），伴随状语 saying.•对这种欢迎态度做进一步说明：新裁定创造了\n公平的竞争环境。level the playing field 字面意思为“使运动场平整”，进而衍生出“创造公平竞争的局\n面”的含义（to make a situation in which people are competing fair, with no one having special\nadvantages）。Retail trade groups 代表的是（尤指在多处开设门店的）零售商家，此前由于实体存在规则\n利益受损，自然因为本次裁定推翻该规则而喜出望外。\n45",
+  "pdf_text_layer": ": · ：军衰草：：· ： ；／\n       第六段介绍新裁定对第二类商家（未在多州设有实体存在）的影响。关键词为： out- of-state sellers 。\n       ①② 旬说明第 二 类商家的具体情况。 两句中 many se ll ers that have a physical presence in onl y a\nsingle state or a few sta t es 与 Se ll ers that use eBay and Et sy 要么并未在各 州 设有实体存在 ， 要么依靠电\n商平台开展线上交易（即第 三 方商家），两者借 a l so 体 现 并 列 关系，正是第五段②句中 ri va l s 的具体所指；\navoid charging sa les t axes 和 haven ’ t been collecting sales tax na tionwid e 两者的近义复现也呼应了第五\n段 ② 句中 hadn ’ t ( been charging sa les tax b efor e ），再次 明确这 类商家特点：未在全国施围内代 收销 售税。\n       ③ 旬介绍这类商家受到的具体影晌：将被迫开始代收销售税。 Under the ruling Thur s d ay 与段首\nUntil now 体现新裁 定出台前后 的情形对比，表明新裁定带 来巨大变 化 。 co ll ec t the s tate ’ s sa les tax fr om\ncustomers 则直接呼应上段②句 will be charging sa les tax ， 明确 了新裁定对这类商家 的 具 体 影 响： 裁定 出\n现之前 ，这类商家无需 代收销 售 税；裁定之后，他们将开始代收销 售税。 states ca n pass laws requ iring 与\n第一段 States w ill be ab le to force 遥相呼应，明确了各州行使新权力的 具 体办法： 立法 强制商 家 执行 。\n       【深层解读 】 第六段是对第五段②句的具体阐述，明确了新裁定对第 二 类商家（大型连 锁店 竞争对\n手）带来 的 影 响：前两句说明这些 竞争者 此前并 未 代收销 售税 ， ③ 句转而指出新裁定允许各州立法强制\n他们对消费 者 代 lj:5[ 销 售税。至 此， 本段联合上 段 ③④句完成了对上段① ② 句的具体阐述，即：新裁定要\n求未在多州设有实体存在的商家开始代收销售税，这无疑维护了公平的市场竞争环境，对 一直 代收销 售\n税的大型连锁店而 言是一 个胜利（ a victory ） 。\n\n\n       咂， 0 R etail trade groups praised the ruling, saymg It\n                                                                        零售贸易团体赞扬了这项裁定，称其\nlevels the playing fi eld for loca l and online busi nesses. @\n                                                                  为地方商家和线上商家创造了公平的竞\nThe losers, said r eta il analys t Neil Saunders, are on lin巳\n                                                                  争环境 。 零售分析师尼尔 · 桑德斯表示，\nonly retailers, especia ll y sma ll er ones. @ Those retailers\n                                                                  输家是纯线上零售商，尤其是小型纯线上\nmay face headaches( complying w ith various state sa les tax\n                                                                  零售商 。 这些零售商可能妥面临遵守不\nlaws. 。 Th e Sma ll Business &. Entrepreneurship(     Council\n                                                                  尽相同的各州销售税法的麻烦事 。 小企\nadvocac y group said in a statem ent ,“ Small businesses and\n                                                                  业与创业委员会这一倡议团体在其声明\ninternet entrepreneurs are not w ell served at all by this\n                                                                  中表示 ： “小型企业和互联网企业家完全\ndecision. ” [ 444 words]\n                                                                  没有得到本次裁定的丝毫考虑 。 ”\n\n\n\n                                      ： · 词汇注释与难旬分析 . ·:;/\n( headache [ 1hede1k] n. 使人头痛的事，棘手的事                  $   · 经典搭配\n( er     ren\n家精神\n③ factual 问ctJual］ α （基于〕事实的 ；与 事实相 关的                ;\n                                                      $   ( comply w ith （遵从，道：循）\n                                                          ( adv      y gro t\n\n                                              ．语篇分析 －：：：        1'\n       第七段介绍各类商家对裁定的反晌。\n       ① 旬指出零售业界反应：欢迎本次裁定。 主 句部分借 prai sed the ruling 体现 出 零售贸易团体对新裁\n定的公开欢迎（ prai se 意为 to say that you admire and approve of someone or something, especia ll y\npublicly“ ［ 尤指公开地 ］ 称赞，赞扬勺，伴随状语 say ing. ..对这种欢迎态度做进 一 步 说明： 新裁定 创 造了\n公平的竞争环境 。 l eve l the playing fi e ld 字面意思为“ 使运动场 平整 ”，进而衍 生 出“创造公平竞 争 的 局\n面”的 含义 （ to        make a situation in which peop le are competing fair, wit h no one having special\na d va ntages ）。 R eta il trad e groups 代表的是（尤指在多处开设门店的） 零售 商家，此前由于实体存在规则\n利益 受损 ， 自然因为本次裁定推翻该 规则而 喜 出 望 外 。\n                                                                                               45",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2301,
+    "pdf_text_character_count": 3500,
+    "nonempty": true
+  }
+}

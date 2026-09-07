@@ -1,0 +1,518 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P026",
+  "year": 2015,
+  "pdf_page": 26,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017638430948840322,
+      "text": "［技巧总结］本题考查“本文作者”对“文中人物观点”的态度。可从两层面解题：一、作者所用评价性",
+      "width": 0.8458243768333933,
+      "x": 0.10706640676531613,
+      "y": 0.912790698021194
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "词汇褒贬；二、作者进行评价的逻辑结构。解题时需全面把握作者观点态度，切忌对个别词段断章取义。",
+      "width": 0.8758029864665648,
+      "x": 0.07280515218070735,
+      "y": 0.8938953488014448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "具体来看，解题时可借两条线索判断：一、综合评价性（贬义）词汇 recklessly modest（谦虚到不计后",
+      "width": 0.8394004266380807,
+      "x": 0.1113490354496963,
+      "y": 0.8749999997280437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "果）、should discard（摒弃）、lame argument 蹩脚的观点。二、理解第三段中作者对第二段加州观点的批驳",
+      "width": 0.8800856199301066,
+      "x": 0.07280516677477514,
+      "y": 0.856104651181532
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013145658842763863,
+      "text": "（集中体现于...to refrain from....upset the old assumption VS can and should provided updated guide-",
+      "width": 0.8822269366618773,
+      "x": 0.07280517224721945,
+      "y": 0.8400520157457092
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "lines）以及第四段③④⑤句作者对①②句加州逻辑的反击（集中体现于 But.•",
+      "width": 0.6659528944227431,
+      "x": 0.0706638180723542,
+      "y": 0.8197674421131074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013105966024807958,
+      "text": "is more like...）。三个干",
+      "width": 0.21841541743369852,
+      "x": 0.734475378435185,
+      "y": 0.8211963591729997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "扰项［B］、LC］、LD］本质上都是对个别词汇（recklessly modest,discard）的断章取义。",
+      "width": 0.710920779641104,
+      "x": 0.07066381429079698,
+      "y": 0.799418604593596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "28. The author believes that exploring onc's phone 28.作者认为查看一个人手机内容犹",
+      "width": 0.8608137108813757,
+      "x": 0.08137044798543627,
+      "y": 0.7730819243775185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01191331196203349,
+      "text": "contents is comparable to",
+      "width": 0.207708775312051,
+      "x": 0.08351178196388877,
+      "y": 0.7572674421061835
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "如",
+      "width": 0.021413275108483565,
+      "x": 0.5460385443301266,
+      "y": 0.7558139535761541
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308139557956256,
+      "text": "-。",
+      "width": 0.019271947414938873,
+      "x": 0.6188436838139438,
+      "y": 0.7529069764653059
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868595,
+      "text": "［A］ going through one's wallet",
+      "width": 0.2655246193838302,
+      "x": 0.0835117835629028,
+      "y": 0.7308192457705567
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "［A］翻查一个人的钱包",
+      "width": 0.20128479588534176,
+      "x": 0.5438972148624683,
+      "y": 0.7295188557420735
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "［B］ handling one's historical records",
+      "width": 0.3083511586390236,
+      "x": 0.08351178649062382,
+      "y": 0.7078488376678553
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013217482672246206,
+      "text": "［B］处理一个人的历史记录",
+      "width": 0.23768735571382604,
+      "x": 0.5438972191238151,
+      "y": 0.7078488370212652
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "［C］ scanning one's correspondences",
+      "width": 0.3019271792123144,
+      "x": 0.08351178494773284,
+      "y": 0.684593023714367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "［C］浏览一个人的通信往来",
+      "width": 0.23982868706129523,
+      "x": 0.5438972226363759,
+      "y": 0.6831395352090375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014623718236915773,
+      "text": "［D］ getting into one's residence",
+      "width": 0.26980728207876853,
+      "x": 0.08351177773292116,
+      "y": 0.661248374812283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014623718236915773,
+      "text": "［D］进入一个人的住处",
+      "width": 0.20128479588534187,
+      "x": 0.5438972186312048,
+      "y": 0.6612483746572444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014621828250364066,
+      "text": "［精准定位］第四段（句明确指出：查看一个人的手机就犹如进入他或她的家（entering his or her",
+      "width": 0.8458243768333932,
+      "x": 0.10920773297873508,
+      "y": 0.6365409623036797
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014582136052482486,
+      "text": "home），可见［DJ正确。",
+      "width": 0.19057815376369433,
+      "x": 0.07066381549859532,
+      "y": 0.6176853056159024
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "［命题解密］正确项［D］是对第四段③句 entering his or her home（进入他或她家中）的同义改写。",
+      "width": 0.8158458256630148,
+      "x": 0.10920771770917757,
+      "y": 0.5988296488637976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016287008094539646,
+      "text": "［A］错将第四段①句加州观点（作者反驳的观点）“查看手机内容犹如查看钱包（similar to going",
+      "width": 0.8436830601016224,
+      "x": 0.11134905513833926,
+      "y": 0.5799418604293518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "through a suspect's purse）”当做作者观点。［B］源自第四段④句 medical bistory、［C］源自该句",
+      "width": 0.8822269951246707,
+      "x": 0.07066381066648074,
+      "y": 0.5610465116284797
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "comprehensive records of recent correspondence，但两选项严重以偏概全：只是搜查手机危及的（诸多方",
+      "width": 0.8822269951246707,
+      "x": 0.07066381171675089,
+      "y": 0.542151163103902
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "面）中的一方面，并非“搜查手机内容”的整体类比对象。",
+      "width": 0.4689507320009429,
+      "x": 0.07280515372650914,
+      "y": 0.521802325622938
+    },
+    {
+      "confidence": 1,
+      "height": 0.017748056369578102,
+      "text": "［技巧总结］本题就“文中类比信息”考查“作者观点”。解题时需：准确辨别信息，勿将他人观点当做",
+      "width": 0.8458243768333933,
+      "x": 0.10706639908330344,
+      "y": 0.502600780362135
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "作者看法；整体理解作者观点，切记以偏概全。具体来看：首先根据题干可找到文中两处对应信息（第四",
+      "width": 0.8779443031983357,
+      "x": 0.07280515659905777,
+      "y": 0.4854651162796426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "段①句和②③句），随后发现①句为加州观点（California’s lame argument），②③句才是作者观点，故舍弃",
+      "width": 0.8800856199301066,
+      "x": 0.0728051645745611,
+      "y": 0.4665697674424333
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "与①句对应的［A］。随后对比发现，［B］［C］均以偏概全，可排除；［D］契合作者整体类比，故正确。",
+      "width": 0.8201284591265565,
+      "x": 0.07280515970331673,
+      "y": 0.44767441851438095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013124867750547331,
+      "text": "① Americans should take steps to protect their",
+      "width": 0.406852254465622,
+      "x": 0.14775160702843093,
+      "y": 0.4186046510910326
+    },
+    {
+      "confidence": 1,
+      "height": 0.014540553868049533,
+      "text": "美国人应当采取措施保护他们的数字",
+      "width": 0.3276231261505478,
+      "x": 0.618843685517568,
+      "y": 0.4113372095809229
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01815590901864672,
+      "text": "digital",
+      "width": 0.06902973131201733,
+      "x": 0.06947229457728056,
+      "y": 0.3967722786082507
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011864169831393712,
+      "text": "privacy.'",
+      "width": 0.08137044504684507,
+      "x": 0.13918629646301575,
+      "y": 0.3997093024017262
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "② But keeping sensitive® information on",
+      "width": 0.3361884223090278,
+      "x": 0.21841542361529345,
+      "y": 0.3997093023602003
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "隐私。但是把敏感信息保存在这些设备上",
+      "width": 0.3683083486739702,
+      "x": 0.5781584632433145,
+      "y": 0.3907672301526004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013305370147268514,
+      "text": "these devices®",
+      "width": 0.12210733406388438,
+      "x": 0.07277931144838326,
+      "y": 0.3821554546270888
+    },
+    {
+      "confidence": 1,
+      "height": 0.013204251526236055,
+      "text": "is increasingly",
+      "width": 0.13490364103938426,
+      "x": 0.19486081556167825,
+      "y": 0.38081395401730855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013204251526236055,
+      "text": "a requirement of normal",
+      "width": 0.22269806551293858,
+      "x": 0.33190578151904837,
+      "y": 0.3808139538719597
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "正日渐成为正常生活的一种需要。不过（美",
+      "width": 0.3704496654057411,
+      "x": 0.57815846834638,
+      "y": 0.3719115734733016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01324394434419196,
+      "text": "life. ③ Citizens still have a right to expect private",
+      "width": 0.48179872008575786,
+      "x": 0.0728051415631167,
+      "y": 0.3619186045794047
+    },
+    {
+      "confidence": 1,
+      "height": 0.013654096228868706,
+      "text": "国）公民有权要求私人文件保持不公开以及",
+      "width": 0.36830834867397033,
+      "x": 0.5781584621267652,
+      "y": 0.3543563068637997
+    },
+    {
+      "confidence": 1,
+      "height": 0.012473369915866783,
+      "text": "documents",
+      "width": 0.09016467419620675,
+      "x": 0.07269068360521908,
+      "y": 0.3440540128461804
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00729390331610591,
+      "text": "10",
+      "width": 0.021413275108483565,
+      "x": 0.17344753839151125,
+      "y": 0.34590377106702064
+    },
+    {
+      "confidence": 1,
+      "height": 0.010998178985555995,
+      "text": "remain",
+      "width": 0.06238021704428953,
+      "x": 0.20756792177268563,
+      "y": 0.3455183525414992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013283635921999104,
+      "text": "private and protected by the",
+      "width": 0.2783725782372486,
+      "x": 0.2762312651283423,
+      "y": 0.34302325619754115
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "宪法禁止无理搜查的保护。",
+      "width": 0.22912204493964772,
+      "x": 0.578158465520897,
+      "y": 0.33420026004687486
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014623718236915773,
+      "text": "Constitution's prohibition® on unreasonable searches.",
+      "width": 0.44539613102587705,
+      "x": 0.07280515204594783,
+      "y": 0.3241279071567119
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.028508926709079674,
+      "text": "：词汇注释与难句分析•以",
+      "width": 0.2668328705418612,
+      "x": 0.3806890076753169,
+      "y": 0.27268966934682926
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013654096228868706,
+      "text": "①digital ［'ddsito］a. 数字的；数据的",
+      "width": 0.29550319978560524,
+      "x": 0.07066382135987395,
+      "y": 0.25552665814592357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065627,
+      "text": "②sensitive ［'sensitrv］a. 敏感的；感觉的",
+      "width": 0.30620984190725276,
+      "x": 0.07280514022410386,
+      "y": 0.23837209313816032
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011875510370777831,
+      "text": "①take steps to do sth（采取措施做某事）",
+      "width": 0.310492504602191,
+      "x": 0.5396145665782762,
+      "y": 0.23667100118098439
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013293085854757192,
+      "text": "③device ［dr'vars］n.装置，设备",
+      "width": 0.237687355713826,
+      "x": 0.0728051446627158,
+      "y": 0.21947674490878144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01183581817289625,
+      "text": "②a requirement of normal life（正常生活的需要）",
+      "width": 0.3725910113689087,
+      "x": 0.5396145622812843,
+      "y": 0.21781534450289697
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013654096228868595,
+      "text": "④prohibition ［iprauhi'bion］n.禁令，禁律",
+      "width": 0.31905780076067114,
+      "x": 0.07280514274064956,
+      "y": 0.20026007824288772
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011796125975014782,
+      "text": "③unreasonable search（无理搜查）",
+      "width": 0.25910063995712107,
+      "x": 0.5374732303069499,
+      "y": 0.19895968775698003
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016343816204095862,
+      "text": "•语篇分析•",
+      "width": 0.11573722079339155,
+      "x": 0.4367780719905058,
+      "y": 0.15679902218946062
+    },
+    {
+      "confidence": 1,
+      "height": 0.017583617618397107,
+      "text": "第五、六段说明令人担忧的现状：公民个人数字隐私未能得到有效保护。",
+      "width": 0.6081370503509639,
+      "x": 0.11134903028490363,
+      "y": 0.1293604655502636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0176233104363529,
+      "text": "第五段先退步，指出宪法赋予了公民“免受无理搜查”的权利。关键词：the Constitution's prohibition",
+      "width": 0.8415417433698515,
+      "x": 0.11134904473905706,
+      "y": 0.11046511636421719
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015047713280964214,
+      "text": "on unreasonable searches。",
+      "width": 0.21468759587898112,
+      "x": 0.07043464471748802,
+      "y": 0.09428995566558385
+    },
+    {
+      "confidence": 1,
+      "height": 0.013162669961877205,
+      "text": "26",
+      "width": 0.023554602802028146,
+      "x": 0.08565310521033498,
+      "y": 0.06241872566584006
+    }
+  ],
+  "vision_ocr_text": "［技巧总结］本题考查“本文作者”对“文中人物观点”的态度。可从两层面解题：一、作者所用评价性\n词汇褒贬；二、作者进行评价的逻辑结构。解题时需全面把握作者观点态度，切忌对个别词段断章取义。\n具体来看，解题时可借两条线索判断：一、综合评价性（贬义）词汇 recklessly modest（谦虚到不计后\n果）、should discard（摒弃）、lame argument 蹩脚的观点。二、理解第三段中作者对第二段加州观点的批驳\n（集中体现于...to refrain from....upset the old assumption VS can and should provided updated guide-\nlines）以及第四段③④⑤句作者对①②句加州逻辑的反击（集中体现于 But.•\nis more like...）。三个干\n扰项［B］、LC］、LD］本质上都是对个别词汇（recklessly modest,discard）的断章取义。\n28. The author believes that exploring onc's phone 28.作者认为查看一个人手机内容犹\ncontents is comparable to\n如\n-。\n［A］ going through one's wallet\n［A］翻查一个人的钱包\n［B］ handling one's historical records\n［B］处理一个人的历史记录\n［C］ scanning one's correspondences\n［C］浏览一个人的通信往来\n［D］ getting into one's residence\n［D］进入一个人的住处\n［精准定位］第四段（句明确指出：查看一个人的手机就犹如进入他或她的家（entering his or her\nhome），可见［DJ正确。\n［命题解密］正确项［D］是对第四段③句 entering his or her home（进入他或她家中）的同义改写。\n［A］错将第四段①句加州观点（作者反驳的观点）“查看手机内容犹如查看钱包（similar to going\nthrough a suspect's purse）”当做作者观点。［B］源自第四段④句 medical bistory、［C］源自该句\ncomprehensive records of recent correspondence，但两选项严重以偏概全：只是搜查手机危及的（诸多方\n面）中的一方面，并非“搜查手机内容”的整体类比对象。\n［技巧总结］本题就“文中类比信息”考查“作者观点”。解题时需：准确辨别信息，勿将他人观点当做\n作者看法；整体理解作者观点，切记以偏概全。具体来看：首先根据题干可找到文中两处对应信息（第四\n段①句和②③句），随后发现①句为加州观点（California’s lame argument），②③句才是作者观点，故舍弃\n与①句对应的［A］。随后对比发现，［B］［C］均以偏概全，可排除；［D］契合作者整体类比，故正确。\n① Americans should take steps to protect their\n美国人应当采取措施保护他们的数字\ndigital\nprivacy.'\n② But keeping sensitive® information on\n隐私。但是把敏感信息保存在这些设备上\nthese devices®\nis increasingly\na requirement of normal\n正日渐成为正常生活的一种需要。不过（美\nlife. ③ Citizens still have a right to expect private\n国）公民有权要求私人文件保持不公开以及\ndocuments\n10\nremain\nprivate and protected by the\n宪法禁止无理搜查的保护。\nConstitution's prohibition® on unreasonable searches.\n：词汇注释与难句分析•以\n①digital ［'ddsito］a. 数字的；数据的\n②sensitive ［'sensitrv］a. 敏感的；感觉的\n①take steps to do sth（采取措施做某事）\n③device ［dr'vars］n.装置，设备\n②a requirement of normal life（正常生活的需要）\n④prohibition ［iprauhi'bion］n.禁令，禁律\n③unreasonable search（无理搜查）\n•语篇分析•\n第五、六段说明令人担忧的现状：公民个人数字隐私未能得到有效保护。\n第五段先退步，指出宪法赋予了公民“免受无理搜查”的权利。关键词：the Constitution's prohibition\non unreasonable searches。\n26",
+  "pdf_text_layer": "［技巧总结］ 本题考查“本文 作 者 ，， 对“文 中人物观点\n词汇褒－贬 ； 二 、作者进行评价的逻辑结构 。 fflir- 题 时 需全面 把握作 者观点态度，切忌对 个别词段断 章 取义 。\n        具体来看，解题 时可借两 条线索 判断： 一 、 综合 评价性（贬义）词汇 r ec kl ess l y mode st （谦虚到不计后\n果）、 s h o uld di sca rd （摒弃）、 l am e a rg um e n t 鳖脚的观点 。二 、理解 第三段 中作者对第 二 段加州观点的批驳\n（ 集 中体现于. .. to refra in from .. .. upset th e old assu mption VS can a nd sho uld provid ed updated g uide-\nli n es ） 以及 第 四段 ③④⑤ 句作 者 对 ①② 句加州｜ 逻辑的反击（ 集 中体现 于 But. .. is more like . .. ） 。三 个 干\n扰项 ［町 、 ［ CJ 、 ［ DJ 本质上都是对个别同 y[ ( r ecklessly modes t, d i sca rd ）的断 章 取 义。\n\n 28. The author believes that explor ing one ’ s phone                 28.   作者认为查看一个人 手机内 容犹\n contents is comparable to 一一－－－·                                      如        。\n\n\n\n\n [A] go ing through one ’ s walle t                                    [ A］翻查 一 个人的钱包\n\n [ BJ handling one ’ s hi stori ca l r eco rds                         [ BJ 处理 一 个人的历史记录\n\n [ CJ sca nnin g one ’ s corr es pondences                             [ CJ 浏览 一 个人的通信往来\n\n [ DJ ge t ti 吨 into o ne ’ s residence                                [ DJ 进入 一 个人的住处\n\n        ［ 精准定位 ］ 第 四段 ③ 句明确指出： 查看一 个人的 手 机就犹如l 进入他或她的家（ entering h is or her\nh o rr时，可 见 ［ DJ 正确 。\n        ［ 命题解密 ］ 正确项 ［ DJ 是 对 第 四段 ③ 句 e nt er ing hi s or her h ome （进入 他 或 她 家 中）的同义改 写。\n        [ A ］锚将第四段①句 加州观 点（ 作 者反驳 的观 点）“查看手 机内 容 犹如l 查看钱 包 （ simil ar to going\nthro 鸣h a s uspect ’ s pu r se ）”当做 作 者 观 点 。［ B J 源自第四段 ④ 句 m edi ca l hi sto r y 、 ［ C J 源自该句\ncomprehensi ve record s of rece nt co rr es p o nd e nce ， 但两选项严 重 以偏概 全 ： 只是搜查手 机危 及的（诸多方\n面）中的 一方 面，并非“搜查手 机内 容 ”的 整 体 类 比对 象 。\n        ［ 技巧总结 ］ 本题就“文中类 比 信息”考查 “作 者观点” 。 解题时需 ： 准确辨 别 信息，勿将 他人观 点当 做\n作者 看法 ； 整 体理解作者观点，切记以偏概 全。具体来 看 ： 首先根据题干可找到文中 两处对应信 息（第 四\n段①句和l ②③ 句），随后发现 ① 句为加州观点（ Ca lifornia ’ s lam e a r g um e nt ）， ②③ 句才是作者观点，故舍弃\n与①句对应 的 ［ A］。 随后对比发现， ［ BJ 〔 C］均 以偏概 全 ，可排除； ［ DJ 契 合 作 者整 体 类 比，故正确 。\n\n        V O Americans shou ld take steps to prot巳c t their                     美国人应当采取措施保护他们的数字\ndigital ( pri vacy.    8 But keeping sensitive@ info rmation on              隐私 。 但是把敏感信息保存在这些设备 上\nth ese devicesCD is increasing ly a r equirem ent of norma l\n                                                                             正日渐成为正常生活的 一 种需妥 。 不过 （ 美\nlife.   @ Citizens s till have a ri g ht to expect pri va te\n                                                                             国 ） 公民有权妥求私人文件保持不公开以及\ndocumen ts to         rema in   pri va te and    protected   by     th e\n                                                                             宪法禁止无理搜查的保护 。\nCo nst itu t ion ’ s prohibition(l) on unreasonab le sea r ches.\n\n\n                                            ；：·中E；注每当在句我茹二： J\n( digital [ 1 d1d31t a l 〕 α ．数字 的； 数据 的                       \\\\    ·经典搭配\n( sensitive [ 1sens 1 t1v ］ α ．敏感的 i 感觉的\n( device [ d11va1 s ］凡装置 ，设 备\n                                                              !      ( take ste阳 to do 州采 取措施做某 事）\n                                                               \\\\    ( a requirement of normal life （ 正常 生活 的 需要）\n( prohibition [, prauh1 1b巾n ] ,1 . 禁令，禁律                     ；＠ …叫J le sea r叫\n\n                                                    r：~：：资票价＜ ti\n        第五、六段说明令人担忧的现状：公民个人数字隐私未能得到有效保护。\n        第五段先退步，指出宪法赋予了公民“免受无理搜查”的权利。关键词： the Constitution ’s prohibition\non unreasonable searches 。\n\n  26",
+  "quality": {
+    "vision_line_count": 62,
+    "vision_character_count": 2045,
+    "pdf_text_character_count": 3310,
+    "nonempty": true
+  }
+}

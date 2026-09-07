@@ -1,0 +1,398 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P033",
+  "year": 2016,
+  "pdf_page": 33,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "结构切分：",
+      "width": 0.09188033706167152,
+      "x": 0.0876068411112582,
+      "y": 0.9139504563440627
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "Second, customers may be willing to buy a company's products as an indirect way to donate to the good causes",
+      "width": 0.873931591890595,
+      "x": 0.055555580315386106,
+      "y": 0.8909883724547795
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "序数词",
+      "width": 0.06410256091097724,
+      "x": 0.05128205234365669,
+      "y": 0.8720930234867562
+    },
+    {
+      "confidence": 1,
+      "height": 0.013094660200693387,
+      "text": "主语",
+      "width": 0.04700854735273777,
+      "x": 0.14316239240269096,
+      "y": 0.8735332466347974
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "谓语",
+      "width": 0.040598289065077287,
+      "x": 0.2884615396287861,
+      "y": 0.8720930233777445
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "宾语",
+      "width": 0.04059828906507734,
+      "x": 0.47435897499203405,
+      "y": 0.8720930233777445
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "目的状语",
+      "width": 0.0790598278082264,
+      "x": 0.6688034186386219,
+      "y": 0.872093023501291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015120585863095948,
+      "text": "定语从句",
+      "width": 0.07928950040674487,
+      "x": 0.7883467022247328,
+      "y": 0.8514513348881875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "it helps.",
+      "width": 0.07692307748629812,
+      "x": 0.8205128211927485,
+      "y": 0.8284883724329771
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629915697478246,
+      "text": "功能注释：本句中 as 引出目的状语，说明消费者购买企业产品的目的：间接为慈善事业做贡献。",
+      "width": 0.8076922806576896,
+      "x": 0.08760685920106963,
+      "y": 0.8037790696517014
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020860494815075348,
+      "text": "•语篇分析•泌",
+      "width": 0.15811965561645275,
+      "x": 0.41239316232710127,
+      "y": 0.7744458934799404
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008737985593554543,
+      "text": "vx： KZRZ2019",
+      "width": 0.07478631984249406,
+      "x": 0.4508547045730549,
+      "y": 0.7659713167226447
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "第二段进行第一轮论证：企业的CSR投入能以三种方式为企业创造价值。关键词：add value to their",
+      "width": 0.8440171020273513,
+      "x": 0.08974359417863192,
+      "y": 0.7483702739534246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01505961411934953,
+      "text": "businesses in three wayso",
+      "width": 0.2057473151560251,
+      "x": 0.048863593525704435,
+      "y": 0.729524147180135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "①句介绍事实、间接论证作者观点：英美两国最大企业 CSR投入巨大。The largest firms in America",
+      "width": 0.8440171020273513,
+      "x": 0.08760682305149556,
+      "y": 0.7078488370535909
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "and Britain、spend more than $15 billion a year on CSR 清晰表明CSR投人已得到各大公司的认可和实",
+      "width": 0.882478622465811,
+      "x": 0.047008543190171594,
+      "y": 0.6874999997970503
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "践，实际上已给Friedman 理论投了反对票。",
+      "width": 0.3696581058904901,
+      "x": 0.047008549271635405,
+      "y": 0.6668839632116261
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762378324585756,
+      "text": "②③④⑤句指出结果，直接论证作者观点：CSR投入能够以三种方式为企业增值。in three ways..",
+      "width": 0.8397435867397433,
+      "x": 0.0876068333662396,
+      "y": 0.6453488371069426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "First...Second...And third 体现总分结构。",
+      "width": 0.37820510717820294,
+      "x": 0.04700856130406082,
+      "y": 0.6249999999133293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "②句总述，集中体现本段和首段末句的“论点一论据”关系。句中 this 回指①句 spend...on CSR；",
+      "width": 0.8397435867397433,
+      "x": 0.08974358464294896,
+      "y": 0.6046511627319425
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013181831877110417,
+      "text": "could add value to their business 与首段末句 may create monetary value for companies 同义；in three ways",
+      "width": 0.8824786224658109,
+      "x": 0.04914531297649603,
+      "y": 0.5872093024850034
+    },
+    {
+      "confidence": 1,
+      "height": 0.01623472987128971,
+      "text": "引领下文。",
+      "width": 0.09837706670193662,
+      "x": 0.04910206592245049,
+      "y": 0.5638303094999593
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "③句介绍第一种方式：消费者可能将“企业 CSR投入”与“其产品质量”挂钩。signal 加引号，凸显",
+      "width": 0.8418803443835473,
+      "x": 0.08760682583173096,
+      "y": 0.5449804430608529
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "“公司 CSR投人”在消费者眼中的“标识”作用：代表着“产品高质量”。本句所述CSR为企业增值的方式",
+      "width": 0.8846153801096149,
+      "x": 0.044871786066987704,
+      "y": 0.5232558140691518
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01629726205997395,
+      "text": "可表示为：企业 CSR 投人高（CSR spending）一（消费者认）其产品质量高、增加购买（company's",
+      "width": 0.882478622465811,
+      "x": 0.04914531045512861,
+      "y": 0.5026075621468495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "products are of high quality）一~企业盈利增加（add value to the company）。",
+      "width": 0.6260683495343989,
+      "x": 0.047008568101390064,
+      "y": 0.4823989570475179
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "④句介绍第二种方式：客户出于“间接捐助慈善事业”的考虑，愿意购买投入慈善事业的企业的产",
+      "width": 0.8418803443835473,
+      "x": 0.08974359550765647,
+      "y": 0.4621903521466755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "品。句中（helping）good causes（慈善事业）为CSR 下义词，是企业CSR投入方向之一；be willing to 则体",
+      "width": 0.8803418648220069,
+      "x": 0.04914529810181716,
+      "y": 0.44186046494239906
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "现消费者对捐助慈善事业的公司产品会优先选择以及更愿意再次购买。本句所述CSR 为企业增值的",
+      "width": 0.8803418648220069,
+      "x": 0.049145317054808235,
+      "y": 0.42296511637771883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017901876292918728,
+      "text": "方式可表示为：企业投人某慈善事业（CSR）一客户认为购买该企业产品便是间接捐助该慈善事业",
+      "width": 0.8804757087107126,
+      "x": 0.049078862377295904,
+      "y": 0.4008439017389742
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "（indirect way to donate），从而更愿意购买（willing to buy）一-企业盈利增加（add value to the company）。",
+      "width": 0.8760683495343989,
+      "x": 0.04700857122639002,
+      "y": 0.38070404150783255
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "⑤句介绍第三种方式：借助“光环效应”，为企业赢得多方关照。本句主干特，为单独的介词短语",
+      "width": 0.8397435867397434,
+      "x": 0.08974358524734452,
+      "y": 0.3604651161051897
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "through a more diffuse “halo effect”，实际上完整形式为（This could add value to their businesses） through a",
+      "width": 0.886752137753419,
+      "x": 0.04700855759230736,
+      "y": 0.3401162794460585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017633258441591804,
+      "text": "more diffuse “halo effect”。其中比较级 more diffuse（diffuse 意为“扩散开来的”）针对前两种效应而言，体现",
+      "width": 0.8846153801096149,
+      "x": 0.04700853820373984,
+      "y": 0.31812255528722144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "光环效应的“范围广、实效长”特征，即：企业善行能更加美名远播（the halo effect 详见补充注释）。",
+      "width": 0.8012820077262776,
+      "x": 0.049145328936006295,
+      "y": 0.2992177311609554
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "whereby（由此，借以）表明前后内容为“条件一结果”关系，实际重申了 through的内涵，即在光环效",
+      "width": 0.8418803443835473,
+      "x": 0.08760682583173096,
+      "y": 0.27900912620945195
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768063442026313,
+      "text": "应的作用下，企业不仅仅只是产品受到消费者的青睐，更赢得了隐性却影响力巨大的“声誉、威望”。句",
+      "width": 0.8803418648220069,
+      "x": 0.049145299569053655,
+      "y": 0.25872093025132226
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860233789352,
+      "text": "中 consideration 意为 bigh regard; esteem”很高的威望、尊敬”；carn sb sth 表示“为某人赢得⋯⋯”",
+      "width": 0.8290597985207234,
+      "x": 0.0491453075060202,
+      "y": 0.23837209306624496
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017593054292721066,
+      "text": "注：一、本段③④⑤句中 good deeds 与 good causes 及 CSR 近义，均指向企业的CSR投人；二、三句",
+      "width": 0.8398603267266974,
+      "x": 0.08968849407098288,
+      "y": 0.21790145659606852
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "中均出现 consumers/customers，三种效应共同涉及对象，而“新人物 others”轻描淡写之中暗设玄机：",
+      "width": 0.8846153801096149,
+      "x": 0.04914529255203025,
+      "y": 0.1988265972901806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "是区分“光环效应”和前两种效应的关键。三，联系第一段末句（全文主旨句）中 at least when they are",
+      "width": 0.8846153801096149,
+      "x": 0.04914530876997873,
+      "y": 0.1773142112683872
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017729904692051823,
+      "text": "prosecuted for corruption 可知，本文重在研究CSR的光环效应：在企业因行贿被诉时可以得到些许谅解",
+      "width": 0.882478622465811,
+      "x": 0.049145311505698376,
+      "y": 0.1569767443986091
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01526295066346084,
+      "text": "（减轻惩罚）。",
+      "width": 0.1134460654231271,
+      "x": 0.0490461994732021,
+      "y": 0.1362638735145878
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768442424988037,
+      "text": "【深层解读】一、本段表面上为“①句为因（行动）一②③④⑤句为果（行动的收益）”的关系，实际上还",
+      "width": 0.8440171020273513,
+      "x": 0.08760684415192244,
+      "y": 0.11603650601236304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "暗含“①句为果（行动）—②③④⑤句为因（收益刺激行动）”的逻辑，这一因果循环恰恰说明首段最末两",
+      "width": 0.882478622465811,
+      "x": 0.049145314327991685,
+      "y": 0.09883720940097473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "句论点：“追求盈利”与“CSR 投入”并非泾渭分明，CSR投入能为企业带来实实在在的经济价值。二、在",
+      "width": 0.882478622465811,
+      "x": 0.04914529488354774,
+      "y": 0.07692307680625932
+    },
+    {
+      "confidence": 1,
+      "height": 0.011898896218589528,
+      "text": "33",
+      "width": 0.02350427367636898,
+      "x": 0.8931623932442331,
+      "y": 0.05932203420638249
+    }
+  ],
+  "vision_ocr_text": "结构切分：\nSecond, customers may be willing to buy a company's products as an indirect way to donate to the good causes\n序数词\n主语\n谓语\n宾语\n目的状语\n定语从句\nit helps.\n功能注释：本句中 as 引出目的状语，说明消费者购买企业产品的目的：间接为慈善事业做贡献。\n•语篇分析•泌\nvx： KZRZ2019\n第二段进行第一轮论证：企业的CSR投入能以三种方式为企业创造价值。关键词：add value to their\nbusinesses in three wayso\n①句介绍事实、间接论证作者观点：英美两国最大企业 CSR投入巨大。The largest firms in America\nand Britain、spend more than $15 billion a year on CSR 清晰表明CSR投人已得到各大公司的认可和实\n践，实际上已给Friedman 理论投了反对票。\n②③④⑤句指出结果，直接论证作者观点：CSR投入能够以三种方式为企业增值。in three ways..\nFirst...Second...And third 体现总分结构。\n②句总述，集中体现本段和首段末句的“论点一论据”关系。句中 this 回指①句 spend...on CSR；\ncould add value to their business 与首段末句 may create monetary value for companies 同义；in three ways\n引领下文。\n③句介绍第一种方式：消费者可能将“企业 CSR投入”与“其产品质量”挂钩。signal 加引号，凸显\n“公司 CSR投人”在消费者眼中的“标识”作用：代表着“产品高质量”。本句所述CSR为企业增值的方式\n可表示为：企业 CSR 投人高（CSR spending）一（消费者认）其产品质量高、增加购买（company's\nproducts are of high quality）一~企业盈利增加（add value to the company）。\n④句介绍第二种方式：客户出于“间接捐助慈善事业”的考虑，愿意购买投入慈善事业的企业的产\n品。句中（helping）good causes（慈善事业）为CSR 下义词，是企业CSR投入方向之一；be willing to 则体\n现消费者对捐助慈善事业的公司产品会优先选择以及更愿意再次购买。本句所述CSR 为企业增值的\n方式可表示为：企业投人某慈善事业（CSR）一客户认为购买该企业产品便是间接捐助该慈善事业\n（indirect way to donate），从而更愿意购买（willing to buy）一-企业盈利增加（add value to the company）。\n⑤句介绍第三种方式：借助“光环效应”，为企业赢得多方关照。本句主干特，为单独的介词短语\nthrough a more diffuse “halo effect”，实际上完整形式为（This could add value to their businesses） through a\nmore diffuse “halo effect”。其中比较级 more diffuse（diffuse 意为“扩散开来的”）针对前两种效应而言，体现\n光环效应的“范围广、实效长”特征，即：企业善行能更加美名远播（the halo effect 详见补充注释）。\nwhereby（由此，借以）表明前后内容为“条件一结果”关系，实际重申了 through的内涵，即在光环效\n应的作用下，企业不仅仅只是产品受到消费者的青睐，更赢得了隐性却影响力巨大的“声誉、威望”。句\n中 consideration 意为 bigh regard; esteem”很高的威望、尊敬”；carn sb sth 表示“为某人赢得⋯⋯”\n注：一、本段③④⑤句中 good deeds 与 good causes 及 CSR 近义，均指向企业的CSR投人；二、三句\n中均出现 consumers/customers，三种效应共同涉及对象，而“新人物 others”轻描淡写之中暗设玄机：\n是区分“光环效应”和前两种效应的关键。三，联系第一段末句（全文主旨句）中 at least when they are\nprosecuted for corruption 可知，本文重在研究CSR的光环效应：在企业因行贿被诉时可以得到些许谅解\n（减轻惩罚）。\n【深层解读】一、本段表面上为“①句为因（行动）一②③④⑤句为果（行动的收益）”的关系，实际上还\n暗含“①句为果（行动）—②③④⑤句为因（收益刺激行动）”的逻辑，这一因果循环恰恰说明首段最末两\n句论点：“追求盈利”与“CSR 投入”并非泾渭分明，CSR投入能为企业带来实实在在的经济价值。二、在\n33",
+  "pdf_text_layer": "结构切分：\n\nSecond, customers may be willing to buy a company ’ s products as an indirect way to donate to the good causes\n序数词主语                        谓语                     宾语                       目的状语\n\n\n\n\n     功能注释： 本句中 as 引出目的状语，说明消费者购买企 业 产品的目的 ：间 接为慈善事业做贡献。\n\n                                           ： ·语篇分析 －~ －： JI\n                                                 vx：KZRZ2019\n     第二段进行第一轮论证：企业的 CSR 投入能以三种方式为企业创造价值。关键词： add value to their\nbusinesses in three ways 。\n     ①句介绍事实、间接论证作者观点：英美两国最大企业 CSR 投入巨大。 Th e l arg巳st firms in Amenca\nand Britain 、 spend more t han $ 15 billion a year on CSR 清晰表明 CSR 投入己得到各大公司的认可和实\n践，实际上已给 Fri ed ma n 理论投了反对票。\n     ②③④⑤旬指出结果，直接论证作者观点： CSR 投入能够以三种方式为企业增值。 in three ways . . .\nFi rst . . . Second . .. And third 体现总分结构 。\n     ②旬总述，集中体现本段和首段末旬的“论点一论据”关系。 句中 t hi s 回指①句 spe nd ... on CSR;\ncould add value to their bu s in ess 与首段末句 may creat e monetary va lue for compa ni es 同义； in three ways\n引领下文 。\n     ③旬介绍第一种方式：消费者可能将“企业 CSR 投入”与“其产品质量”挂钩。 signa l 加引 号，凸显\n“公司 CSR 投 入”在消费者眼中的“标识”作用：代表着“产品高质量”。本句所述 CSR 为企业 增值的方式\n可表示为：企业 CSR 投入高（ CSR spe nding ）→（消费者认为）其产品质量高、增 加购 买（ company ’ s\nproducts are of hi gh quality）→企业盈利增加l (add value to the company ）。\n     ④旬介绍第二种方式：客户出于“间接捐助慈善事业”的考虑，愿意购买投入慈善事业的企业的产\n品。 句中（ helping) good ca u ses （慈善事 业）为 CSR 下义词，是企业 CSR 投入方向之 一 ； be willing to 则体\n现消费者对捐助慈善 事 业的 公司产品会优先选择以及更愿意再次购买 。 本句所述 CSR 为企 业 增值的\n方式可表示为 ：企业投 入某慈善事业（ CSR ）→客户认为购买该企业产品便是间接捐 助 该慈善事 业\n( indirect way to do nate ），从而更愿意购买（ willing to buy ）→企业盈利增加（ a dd va lue to the company ）。\n     ⑤旬介绍第三种方式：借助“光环效应”，为企业赢得多方关照。 本句主干特殊，为单独的介词短语\nthrough a more diffus e 气1a lo effect，，，实际上完整形式为（ This could add value to their bu s iness巳s) through a\nmore diffuse “ halo effect”。其中比较级 more diffuse( diffuse 意为“扩散开来 的”）针对前两种效应而 言 ，体现\n光环效应的“范围广、实效长”特征， f:! 口 ：企业 善行 能更加l 美名远播（ the halo effect 详见补充注释） 。\n     w h ereby （由 此 ，借以）表明前后内容为“条件 一 结果”关系，实际重申了 t hrou gh 的内 涵， 即 在光环效\n应的作用下，企 业 不仅仅只是产品受到消费者的青睐，更赢得了隐性却影 响力 巨大 的“ 声誉 、威望” 。 句\n中 consideration 意为 high regard; esteem“很高的威望、尊敬”； ea rn sb s th 表示“为某人赢得·\n     注： 一、本段③④⑤ 句中 good de ed s 与 good causes 及 CSR 近义，均指向企业的 CSR 投入； 二 、 三 句\n中均出现 consumers / cus t omers ，为 三 种效应共同涉及对象，而“新人物 ot h ers，，轻描淡写之中暗设玄 机：\n是区分“光环效应”和前两种效应的关键。 三 、联系第 一 段末句（ 全文主 旨句）中 at least when they are\nprosecuted for cor rupti on 可知，本文重在研究 CSR 的光环效应 ： 在企 业因 行贿被诉时可以得到些许谅解\n（减轻惩罚） 。\n     【深层解读】 一、本段表面上为“①句为因（行动） 一②③④⑤句为果（行动 的收益）”的关系，实际上还\n暗含“①句为果（行动） 一②③④⑤句为因（ 收益剌激行动）”的逻辑，这 一因果循环 恰恰说明 首段最末两\n句论点 ： “追求盈 利 ”与“ CSR 投入”并非泾渭分明， CSR 投入能为企业带来实实在在 的 经济价值。二、在\n                                                                                                         33",
+  "quality": {
+    "vision_line_count": 47,
+    "vision_character_count": 2072,
+    "pdf_text_character_count": 2601,
+    "nonempty": true
+  }
+}

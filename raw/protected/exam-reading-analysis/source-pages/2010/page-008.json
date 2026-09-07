@@ -1,0 +1,574 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2010-P008",
+  "year": 2010,
+  "pdf_page": 8,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+  "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.0177123649717158,
+      "text": "【深层解读】本段运用最高级表述 Of all the changes...the most far-reaching，着笔英文报纸过去",
+      "width": 0.8389830142544514,
+      "x": 0.10805087299989274,
+      "y": 0.9331395355086852
+    },
+    {
+      "confidence": 1,
+      "height": 0.017746654750478985,
+      "text": "25年间发生的“诸多变化”，引出其中“意义最深远的变化”，这种烘托渲染的方式起到强烈的的凸",
+      "width": 0.8792372752785911,
+      "x": 0.06779660560752669,
+      "y": 0.9127906980159526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019149762774826273,
+      "text": "显功用。被凸显对象 the inexorable decline in the scope and seriousness of their arts coverage 以“高度",
+      "width": 0.8751242292998626,
+      "x": 0.07197190012908496,
+      "y": 0.8922909315943013
+    },
+    {
+      "confidence": 1,
+      "height": 0.016009326374858968,
+      "text": "概括性”与“话题严肃性”暗示其“全文主旨”的地位，表明下文将绕其论述。",
+      "width": 0.6610169273945387,
+      "x": 0.0699152717264594,
+      "y": 0.873525556866457
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907209283861,
+      "text": "①",
+      "width": 0.01694915217149784,
+      "x": 0.1377118646981494,
+      "y": 0.8415697672286914
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013235697115076994,
+      "text": "a It is difficult to the point of impossibility for",
+      "width": 0.40254234766185165,
+      "x": 0.15466102284986533,
+      "y": 0.8414154652056987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01463013207771835,
+      "text": "对于40岁以下的普通读者而言，他们",
+      "width": 0.3220338839645823,
+      "x": 0.6207627213349002,
+      "y": 0.834207077453001
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011890792596699451,
+      "text": "the average reader under the age of forty to imagine a time",
+      "width": 0.4851694781739214,
+      "x": 0.07203390983253069,
+      "y": 0.8224115331591052
+    },
+    {
+      "confidence": 1,
+      "height": 0.01604933007516529,
+      "text": "难以，甚至根本无法想象一个能在大多数大",
+      "width": 0.36228811581321707,
+      "x": 0.5805084818179678,
+      "y": 0.8138925297649879
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013309991219096928,
+      "text": "when high-quality arts criticism could be found in most",
+      "width": 0.47881353608052996,
+      "x": 0.07203391591100598,
+      "y": 0.8020969857103986
+    },
+    {
+      "confidence": 1,
+      "height": 0.014704425556787859,
+      "text": "都市报纸上读到高质量艺术评论的时代。",
+      "width": 0.36652542026731305,
+      "x": 0.5805084793614,
+      "y": 0.7948885978685882
+    },
+    {
+      "confidence": 1,
+      "height": 0.013275701440333743,
+      "text": "big-city newspapers.",
+      "width": 0.1716101593542737,
+      "x": 0.0720339017847276,
+      "y": 0.7817824378184264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283861,
+      "text": "② Yet a considerable number of the",
+      "width": 0.30084744922061724,
+      "x": 0.25635593891370256,
+      "y": 0.7834302324903193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "然而20世纪出版的相当多的最具重要影响",
+      "width": 0.36228811581321707,
+      "x": 0.5805084882003829,
+      "y": 0.7758846659310075
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011930796297005886,
+      "text": "most significant collections of criticism published in the",
+      "width": 0.48728811581321696,
+      "x": 0.06991525600582114,
+      "y": 0.7627785060479462
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "的评论文集大部分由报纸评论组成。若今",
+      "width": 0.3644067826280174,
+      "x": 0.5805084694487033,
+      "y": 0.7542595022711265
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013349995544353677,
+      "text": "20th century consisted in large part of newspaper reviews.",
+      "width": 0.4809322028953305,
+      "x": 0.0720339002207669,
+      "y": 0.7424639582383394
+    },
+    {
+      "confidence": 1,
+      "height": 0.014744429882044496,
+      "text": "日再来阅读这些文集，会惊叹于这样一个事",
+      "width": 0.36228814498872197,
+      "x": 0.5826271165340894,
+      "y": 0.7352555703463493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01507208387942327,
+      "text": "③ To read such books today is to marvel\" at the fact that",
+      "width": 0.47881353608053007,
+      "x": 0.07415255378176884,
+      "y": 0.7221494104480631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016020756092796407,
+      "text": "实；里面这些广博精深的内容曾被认为适合",
+      "width": 0.36228811581321696,
+      "x": 0.5826271246940272,
+      "y": 0.7136304060329672
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013275702065284056,
+      "text": "their learned® contents were once deemed® suitable for",
+      "width": 0.48728811581321707,
+      "x": 0.07203391306796761,
+      "y": 0.7049418603488475
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "刊登在面向大众发行的日报上。",
+      "width": 0.26483049265057357,
+      "x": 0.5805084802901793,
+      "y": 0.6946264743376345
+    },
+    {
+      "confidence": 1,
+      "height": 0.01507208387942327,
+      "text": "publication in general-circulation®",
+      "width": 0.2860169273945387,
+      "x": 0.07203391395103559,
+      "y": 0.6828309306245665
+    },
+    {
+      "confidence": 1,
+      "height": 0.013389999869610425,
+      "text": "dailies.",
+      "width": 0.059322032600242325,
+      "x": 0.35593220478038734,
+      "y": 0.6828309304755827
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20550846369726938,
+      "x": 0.3834745842795432,
+      "y": 0.6408912191090506
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014681565495962223,
+      "text": "①marvel ［'ma:val］v.感到惊奇，大赞赏",
+      "width": 0.3199152463252868,
+      "x": 0.06991525419434824,
+      "y": 0.6146788990680292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014779309613988989,
+      "text": "• 经典搭配",
+      "width": 0.10812038764443033,
+      "x": 0.5338635340912747,
+      "y": 0.6132498800020149
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014647276967099887,
+      "text": "②learned ［'and］ a. 博学的，学问精深的",
+      "width": 0.3008474492206172,
+      "x": 0.07203390000127334,
+      "y": 0.5943643510125397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013193788565939335,
+      "text": "①to the point of（达到⋯⋯的程度）",
+      "width": 0.26906779710466966,
+      "x": 0.5381355956637668,
+      "y": 0.5943643511724224
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014612987188336701,
+      "text": "③dcem ［di:m］v.（尤用于被动语态）认；视为",
+      "width": 0.362288115813217,
+      "x": 0.07203391101288298,
+      "y": 0.5740498035093262
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "②in large part（（在很大程度上）",
+      "width": 0.2372881304009694,
+      "x": 0.5360169534435832,
+      "y": 0.5726744185423703
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016032185810733957,
+      "text": "④circulation ［issikjo'letJon］n. （报刊等的）发行",
+      "width": 0.358050840534626,
+      "x": 0.06991525825493279,
+      "y": 0.5537352557845063
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907209283972,
+      "text": "S",
+      "width": 0.010593220107186108,
+      "x": 0.5063559324517035,
+      "y": 0.5494186046439045
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013342375524078354,
+      "text": "It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time",
+      "width": 0.841101681069252,
+      "x": 0.11228815092723833,
+      "y": 0.5157273921212601
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013165213958620137,
+      "text": "when high-quality arts criticism could be found in most big-city newspapers.",
+      "width": 0.6186440579066086,
+      "x": 0.07203391098313632,
+      "y": 0.49410222805081705
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013199503112433009,
+      "text": "句子主干：",
+      "width": 0.07838982605797382,
+      "x": 0.11016949473054696,
+      "y": 0.4723837208175976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011888887122917913,
+      "text": "It",
+      "width": 0.014830508150060595,
+      "x": 0.2415254237851392,
+      "y": 0.4723837209302417
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013342375524078354,
+      "text": "is difficult for the average reader to imagine a time",
+      "width": 0.4766948984412344,
+      "x": 0.30084746007493374,
+      "y": 0.47093023237283016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "形式主语 系动词 表语",
+      "width": 0.1779661014476652,
+      "x": 0.2055084750176928,
+      "y": 0.45203488438586426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018070443429609506,
+      "text": "不定式逻辑主语个",
+      "width": 0.14422721206344102,
+      "x": 0.4257677508525052,
+      "y": 0.45317408076028465
+    },
+    {
+      "confidence": 1,
+      "height": 0.02058505262022403,
+      "text": "不定式做真正主语个",
+      "width": 0.16525423184863475,
+      "x": 0.6101694921794962,
+      "y": 0.4505813956249666
+    },
+    {
+      "confidence": 1,
+      "height": 0.014578697409573516,
+      "text": "介词短语做状语",
+      "width": 0.125,
+      "x": 0.262711865651483,
+      "y": 0.431686047172927
+    },
+    {
+      "confidence": 1,
+      "height": 0.015440715874788236,
+      "text": "后置定语",
+      "width": 0.07241247261003603,
+      "x": 0.5654886780470006,
+      "y": 0.4312331303733904
+    },
+    {
+      "confidence": 1,
+      "height": 0.010484928228595813,
+      "text": "to",
+      "width": 0.02118644021437227,
+      "x": 0.19491525425722064,
+      "y": 0.4154652685127833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "the point of impossibility",
+      "width": 0.22033898552334785,
+      "x": 0.2245762717863486,
+      "y": 0.41279069757753084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013170928505113921,
+      "text": "under the age of forty",
+      "width": 0.20762711592431737,
+      "x": 0.5148305119530955,
+      "y": 0.41415465261411133
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604854,
+      "text": "定语从句",
+      "width": 0.07203389855233477,
+      "x": 0.7711864409780699,
+      "y": 0.405523255813965
+    },
+    {
+      "confidence": 1,
+      "height": 0.012418968180685108,
+      "text": "when",
+      "width": 0.04911918348381669,
+      "x": 0.1459912563259155,
+      "y": 0.3891393531453574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322045707452657,
+      "text": "high-quality arts criticism",
+      "width": 0.22457626080193893,
+      "x": 0.20550848351145978,
+      "y": 0.3879423332016755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418183172995,
+      "text": "could be found",
+      "width": 0.13559321737198254,
+      "x": 0.4406779687151387,
+      "y": 0.3909883723643244
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322045707452657,
+      "text": "in most big-city newspapers.",
+      "width": 0.2733050723832606,
+      "x": 0.5783898412448101,
+      "y": 0.3879423331532258
+    },
+    {
+      "confidence": 1,
+      "height": 0.014681566120912648,
+      "text": "关系副词",
+      "width": 0.07415254348550654,
+      "x": 0.13135593137165352,
+      "y": 0.37063953488373247
+    },
+    {
+      "confidence": 1,
+      "height": 0.013228077719752096,
+      "text": "主语",
+      "width": 0.03813559420933915,
+      "x": 0.29025423717499144,
+      "y": 0.3720930231976849
+    },
+    {
+      "confidence": 1,
+      "height": 0.01507208387942327,
+      "text": "谓语",
+      "width": 0.04025423549557278,
+      "x": 0.4788135605625949,
+      "y": 0.3689384008377393
+    },
+    {
+      "confidence": 1,
+      "height": 0.013228077719752207,
+      "text": "地点状语",
+      "width": 0.07627118112480202,
+      "x": 0.6716101711960736,
+      "y": 0.37209302303416736
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018110449004766993,
+      "text": "功能注释：本句是主从复合句，主句主语it 为形式主语，真正的主语为不定式。关系副词 when（=",
+      "width": 0.8390844283094826,
+      "x": 0.11222702087796554,
+      "y": 0.34407745965382885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017704745576391123,
+      "text": "in which）引导的定语从句对time做进一步说明。",
+      "width": 0.41737286948793023,
+      "x": 0.069915263152524,
+      "y": 0.32241153368854525
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023174450875578456,
+      "text": "•语篇分析•次",
+      "width": 0.15928759310487123,
+      "x": 0.43624603236584697,
+      "y": 0.2929185884567692
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765406,
+      "text": "第二、三段以时间为轴追溯报纸艺术评论曾经的辉煌，反向说明如今的衰落趋势，并暗示其中原因。",
+      "width": 0.8368644057906609,
+      "x": 0.11228814306159035,
+      "y": 0.26598837196948943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "第二段回顾25年前（二战后至80年代）报纸艺术评论盛况。关键词：difficult...to imagine a time。",
+      "width": 0.8305084636972693,
+      "x": 0.11228814933780591,
+      "y": 0.24563953476745348
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "①句明确指出，如今的读者根本无法想象一个“能在大多数都市报纸上读到高质量艺术评论的”时",
+      "width": 0.8411016810692519,
+      "x": 0.11016948793465406,
+      "y": 0.2238372096801967
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014729189841494184,
+      "text": "代。句中 a time when...描绘一个艺术评论的辉煌时代：高质量艺术评论在报纸上随处可见。average",
+      "width": 0.8813558837423817,
+      "x": 0.07203391151864001,
+      "y": 0.20348837253629914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017129526225798664,
+      "text": "reader under the age of forty 是见证今昔变化的人群（契合开篇 the past quarter-century）：他们是现在（近",
+      "width": 0.8814520462065308,
+      "x": 0.0698721652852945,
+      "y": 0.18135344043092316
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864445,
+      "text": "25年）报纸的读者群，25年前却很少阅读报纸（无法体会当时报纸的情形）。句子整体以 It is difficult to",
+      "width": 0.8834745505571822,
+      "x": 0.06991527592903589,
+      "y": 0.15988372146798635
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864445,
+      "text": "the point of possibility for...to imagine a time when...结构极言“四十岁以下普通读者几乎完全无法想",
+      "width": 0.8792372752785911,
+      "x": 0.06991526289036541,
+      "y": 0.13953488434589334
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765295,
+      "text": "象这样一个艺术鼎盛时代”，强调“如今绝非这样一个时代”，暗示“25 年前曾是这样一个时代”。",
+      "width": 0.8008474200451122,
+      "x": 0.07203392376981661,
+      "y": 0.11773255799177618
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01769712555611591,
+      "text": "②句转而指出 20世纪便是这样一个“报纸评论质量高、数量大、影响力强的”时代。句子语义重心",
+      "width": 0.8389830142544514,
+      "x": 0.11228816227955381,
+      "y": 0.09567496710380363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "落于句末的“报纸评论”，整体以多重强调“相当多的（a considerable number of）、最具影响力的（the most",
+      "width": 0.8813559420933915,
+      "x": 0.0720339007047166,
+      "y": 0.07536041966115081
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907209283861,
+      "text": "8",
+      "width": 0.012711864128623365,
+      "x": 0.0868644070095382,
+      "y": 0.05668604645765041
+    }
+  ],
+  "vision_ocr_text": "【深层解读】本段运用最高级表述 Of all the changes...the most far-reaching，着笔英文报纸过去\n25年间发生的“诸多变化”，引出其中“意义最深远的变化”，这种烘托渲染的方式起到强烈的的凸\n显功用。被凸显对象 the inexorable decline in the scope and seriousness of their arts coverage 以“高度\n概括性”与“话题严肃性”暗示其“全文主旨”的地位，表明下文将绕其论述。\n①\na It is difficult to the point of impossibility for\n对于40岁以下的普通读者而言，他们\nthe average reader under the age of forty to imagine a time\n难以，甚至根本无法想象一个能在大多数大\nwhen high-quality arts criticism could be found in most\n都市报纸上读到高质量艺术评论的时代。\nbig-city newspapers.\n② Yet a considerable number of the\n然而20世纪出版的相当多的最具重要影响\nmost significant collections of criticism published in the\n的评论文集大部分由报纸评论组成。若今\n20th century consisted in large part of newspaper reviews.\n日再来阅读这些文集，会惊叹于这样一个事\n③ To read such books today is to marvel\" at the fact that\n实；里面这些广博精深的内容曾被认为适合\ntheir learned® contents were once deemed® suitable for\n刊登在面向大众发行的日报上。\npublication in general-circulation®\ndailies.\n•词汇注释与难句分析\n①marvel ［'ma:val］v.感到惊奇，大赞赏\n• 经典搭配\n②learned ［'and］ a. 博学的，学问精深的\n①to the point of（达到⋯⋯的程度）\n③dcem ［di:m］v.（尤用于被动语态）认；视为\n②in large part（（在很大程度上）\n④circulation ［issikjo'letJon］n. （报刊等的）发行\nS\nIt is difficult to the point of impossibility for the average reader under the age of forty to imagine a time\nwhen high-quality arts criticism could be found in most big-city newspapers.\n句子主干：\nIt\nis difficult for the average reader to imagine a time\n形式主语 系动词 表语\n不定式逻辑主语个\n不定式做真正主语个\n介词短语做状语\n后置定语\nto\nthe point of impossibility\nunder the age of forty\n定语从句\nwhen\nhigh-quality arts criticism\ncould be found\nin most big-city newspapers.\n关系副词\n主语\n谓语\n地点状语\n功能注释：本句是主从复合句，主句主语it 为形式主语，真正的主语为不定式。关系副词 when（=\nin which）引导的定语从句对time做进一步说明。\n•语篇分析•次\n第二、三段以时间为轴追溯报纸艺术评论曾经的辉煌，反向说明如今的衰落趋势，并暗示其中原因。\n第二段回顾25年前（二战后至80年代）报纸艺术评论盛况。关键词：difficult...to imagine a time。\n①句明确指出，如今的读者根本无法想象一个“能在大多数都市报纸上读到高质量艺术评论的”时\n代。句中 a time when...描绘一个艺术评论的辉煌时代：高质量艺术评论在报纸上随处可见。average\nreader under the age of forty 是见证今昔变化的人群（契合开篇 the past quarter-century）：他们是现在（近\n25年）报纸的读者群，25年前却很少阅读报纸（无法体会当时报纸的情形）。句子整体以 It is difficult to\nthe point of possibility for...to imagine a time when...结构极言“四十岁以下普通读者几乎完全无法想\n象这样一个艺术鼎盛时代”，强调“如今绝非这样一个时代”，暗示“25 年前曾是这样一个时代”。\n②句转而指出 20世纪便是这样一个“报纸评论质量高、数量大、影响力强的”时代。句子语义重心\n落于句末的“报纸评论”，整体以多重强调“相当多的（a considerable number of）、最具影响力的（the most\n8",
+  "pdf_text_layer": "【深层解读】 本段运用最高级表述 Of all the changes .. . the mo st far r eaching ， 着笔英文 报纸过 去\n25 年 间 发生 的“诸 多变 化 ”，引出其中“意义最深远的变化”，这种烘托渲染的方式起到强烈的的凸\n显功用 。 被凸显对象 the in exorab le declin e in th e scope and seriousness of th eir arts coverage 以“ 高度\n概括性”与“话题严肃性”暗示其“全文主旨”的地位，表明下文将绕其论述 。\n\n\n      II O 团圆 It is diffi cult to t he point of impossibi li ty for                                                 对于 40 岁以下的普通读者而言，他们\nthe a、巴 rage reader under the age of forty to imagine a time                                             难以，甚至根本无法想象 一 个能在大多数大\nw hen high qu a lity a rts criticism cou ld be found in most\n                                                                                                         都市报纸 上 读到高质量艺术评论的时代 。\nbig-city newspa pers. f} Yet a considerab le number of t he\n                                                                                                         然而 20 世纪出版的相当多的最具重要影响\nmos t signifi ca nt co ll ections of criticism publis hed in the\n                                                                                                         的许论文集大部分由报纸坪论组成 。 若今\n20 th century consisted in large part of newspaper review s.\n                                                                                                         日再来阅读这些文集，会惊叹于这样一个事\n@To rea 才 s u c h books today is to marvel( at th e fact that\n                                                                                                         实 ： 里面这些广博精深的内容曾被认为适合\nth eir learned (   contents were once deemed® s uitab le for\n                                                                                                         刊登在面向大众发行的日报上 。\npub lication in genera l-circulation® dai li es.\n\n\n                                               词 …\n                                                                                                         析           J\n                                                                                难 …\n                                                             释…\n                                                                                              … …\n                                                                   与\n                                                                                              分\n                                                                                                     o\n                                                      r」 …\n                                                             …\n\n                                               －      …      注 e   …            …\n\n\n                                                                                                  ． ①②             配 川 剧\n                                                                                                         u… 山\n                                                                                                             a 、\n\n\n\n\n                                                                       “队纱命叭创 J\n                                                                              白份 ，啊，？ ”叭？”叭\n                                                                                                    ＆氢\n\n\n\n\n                                                                                          ”\n( marvel [ ' m口：va l ］队 感 到惊 奇 ， 大为赞赏\n\n                                                                                              旬                                      达很         的上\n                                                                                                                                                     度\n\n                                                                                                                                      到 大\n                                                                                                                                ［在\n                                                                                                                                                     程\n                                                                                                             Eg\n                                                                                                                   搭 阳叫\n( learned [ 1 13:rud ］ α ．博 学 的 ，学 问精深的                                                                                    or\n                                                                                                                                            度\n                                                                                                         a                                  程\n( deem [ cli:m] v. （尤用于被动语态）认为；视为                                                                  n                   、\n\n\n\n\n( circulation ［，曰：kju 1 l e 1Jan ] n. （报 刊 等 的） 发 行\n\n\n      It is diffic ult to the point of impossibility for the average reader under the age of forty to imagine a time\nwhen high-quality arts criticism could be fo und in most big-city newspapers.\n      句子主干： ｜           It       is difficult for the average reader to imagine a time\n                   形式主语系动词表语 T                     不定式逻辑主语 ↑                                                       不定式做真正主语 ’\n                             介i司短i自故状i吾 ｜                                                          ｜后置定语\n                   to the point of impossibility                                   under the age of fo rty\n                                                                                                                                                     定语从句\n           when high-quality       a 『ts   criticism could be found in most biQ- city ne ws papers .\n        关系副词                   主i吾                             谓语                                                                地点状i吾\n\n      功 能 注 释：本句 是主 从 复合 句，主句主语 i t 为形式 主语 ， 真 正的主语为不定式 。关 系副词 wh e n( =\n\nin which ）引导的定语从句对 t i m e 做进一步说明 。\n\n                                                      ：： ~J吾篇分析：· ＼I\n      第二、三段以时间为轴追溯报纸艺术评论曾经的辉煌，反向说明如今的衰落趋势，并暗示其中原因。\n      第二段回顾 25 年前（ 二战 后至 80 年代）报纸艺术评论盛况 。关键词： difficult ... to imagine a time 。\n\n      ①旬明确指出，如今的读者根本无法想象 一个“能在大多 数都市报纸上读到高质量艺术评论的”时\n代。 句中 a tim e when ...描 绘一 个艺术评论的辉煌时代 ： 高质量艺术评论在报纸上随处可见 。 a verage\n\nre,de r und er the age of forty 是见证今昔变化的人群（契合开篇 th e past quart e r- century ） ：他们 是 现在（近\n25 年）报纸的读者群， 25 年前却很少阅读报纸（无法体会 当 时报纸的情形） 。 句子整体以 It is diffi cult to\nthe point of possibil ity for. .. to imagi ne a t ime when . . .结构极 言“ 四十 岁 以下 普通读者 几乎 完全无法想\n象这样一个艺术鼎盛 时代”，强调“如今绝非这样 一 个时代”，暗 示“ 25 年前曾是这样一 个时代” 。\n      ② 旬转而指出 20 世纪便是这样一个“报纸评论质量高、数量大、影晌力强的”时代。 句子语义 重 心\n落于句末 的“报纸评论”， 整 体以多 重 强调 “ 相当多的（ a considerab le numb er of) 、最具影响力的（ the most\n  也",
+  "quality": {
+    "vision_line_count": 69,
+    "vision_character_count": 2209,
+    "pdf_text_character_count": 6782,
+    "nonempty": true
+  }
+}

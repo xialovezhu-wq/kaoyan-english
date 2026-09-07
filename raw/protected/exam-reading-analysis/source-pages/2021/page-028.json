@@ -1,0 +1,518 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P028",
+  "year": 2021,
+  "pdf_page": 28,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016261263947671023,
+      "text": "Of course, I need to concee that my collection of 'Smiling Victorians' makes up only a tiny percentage of the",
+      "width": 0.8550419743120785,
+      "x": 0.09033616638912854,
+      "y": 0.933139535233546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664555357870812,
+      "text": "vast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing",
+      "width": 0.8928571344570387,
+      "x": 0.0504201783334552,
+      "y": 0.9141145142073421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "miserably and stiffly in front of painted backdrops, or staring absently into the middle distance.",
+      "width": 0.7563024972904624,
+      "x": 0.05042018937997862,
+      "y": 0.8953488376999816
+    },
+    {
+      "confidence": 1,
+      "height": 0.014700940382306071,
+      "text": "结构切分：",
+      "width": 0.09039190509186085,
+      "x": 0.09030824977983815,
+      "y": 0.8749169717120266
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013402671534592847,
+      "text": "Of course, I",
+      "width": 0.10714285084277908,
+      "x": 0.10924370241474485,
+      "y": 0.8561046517564255
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010652463382157085,
+      "text": "need to concede",
+      "width": 0.11764705709409623,
+      "x": 0.21428571318964662,
+      "y": 0.858854860124358
+    },
+    {
+      "confidence": 1,
+      "height": 0.014800033620130826,
+      "text": "主句：",
+      "width": 0.044117646410286086,
+      "x": 0.05672268937363847,
+      "y": 0.8473837214958335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "评注状语主语谓语",
+      "width": 0.14495798158737508,
+      "x": 0.10714285673782512,
+      "y": 0.8386627904746868
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815838,
+      "text": "宾语",
+      "width": 0.03571428361425971,
+      "x": 0.27521008553005505,
+      "y": 0.8386627912246909
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "created between 1840 and 1900，",
+      "width": 0.22689075506721157,
+      "x": 0.653361347116254,
+      "y": 0.8415446068768615
+    },
+    {
+      "confidence": 1,
+      "height": 0.014290603277051561,
+      "text": "宾语从句",
+      "width": 0.06978602032670622,
+      "x": 0.3233002666498744,
+      "y": 0.817709349777749
+    },
+    {
+      "confidence": 1,
+      "height": 0.013396866312039735,
+      "text": "过去分词作后置定语",
+      "width": 0.15756302026884628,
+      "x": 0.6659663906008709,
+      "y": 0.8209054595044556
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01603869210864195,
+      "text": "that my collection of ‘Smiling Victorians’",
+      "width": 0.3025210165564035,
+      "x": 0.20378150550331087,
+      "y": 0.8008720932459006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01661670509572033,
+      "text": "makes up only a tiny percentage of...photographic portraiture",
+      "width": 0.41830188552768255,
+      "x": 0.5082890116571266,
+      "y": 0.8003722262987845
+    },
+    {
+      "confidence": 1,
+      "height": 0.014838741876472605,
+      "text": "引导词",
+      "width": 0.05252100553126693,
+      "x": 0.19327731225537495,
+      "y": 0.7834302330874033
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "主语",
+      "width": 0.03571428361425971,
+      "x": 0.3592436989754332,
+      "y": 0.7848837209290771
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.012132813546374965,
+      "text": "谓语 状语",
+      "width": 0.08417718258896312,
+      "x": 0.5272391399028108,
+      "y": 0.7846312676302512
+    },
+    {
+      "confidence": 1,
+      "height": 0.014838741876472605,
+      "text": "宾语",
+      "width": 0.035714283614259656,
+      "x": 0.7605042025993828,
+      "y": 0.7834302327603685
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019286817304303927,
+      "text": "非限制性定语从句个",
+      "width": 0.15346155185001198,
+      "x": 0.6911263682126328,
+      "y": 0.7628856613075143
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017274668626239276,
+      "text": "the majority of which show sitters posing.. 0r",
+      "width": 0.3343767228613469,
+      "x": 0.5103373511919769,
+      "y": 0.7438004379579204
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01625545745524526,
+      "text": "staring..",
+      "width": 0.06302520810753853,
+      "x": 0.8634453789294241,
+      "y": 0.7427325586347087
+    },
+    {
+      "confidence": 1,
+      "height": 0.013358158055697844,
+      "text": "主语",
+      "width": 0.03571428361425977,
+      "x": 0.5630252114911893,
+      "y": 0.7296511627009465
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014811645970046139,
+      "text": "谓语 宾语",
+      "width": 0.0798319336995913,
+      "x": 0.6596638654331175,
+      "y": 0.7281976746813956
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014811645970046139,
+      "text": "宾补1连接词 宾补2",
+      "width": 0.18487394476212515,
+      "x": 0.7373949580811223,
+      "y": 0.7281976747661824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599224270898092,
+      "text": "功能注释：本句主干为Ineed to concede that.•。that 从句作 concede 的宾语，介绍作者观点。",
+      "width": 0.8529411418819244,
+      "x": 0.09033616027752513,
+      "y": 0.7063914779404674
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014774873634470498,
+      "text": "created between 1840 and 1900为过去分词作后置定语，修饰 photographic portraiture，交代肖像照被拍",
+      "width": 0.8928571344570388,
+      "x": 0.04831934309185842,
+      "y": 0.6889534888286825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016150945671071337,
+      "text": "摄的时间；the majority...middle distance 为非限制性定语从句，补充说明这些肖像照的整体特征。",
+      "width": 0.8424369797311536,
+      "x": 0.05042017402097764,
+      "y": 0.6684420773039583
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.019307919412097307,
+      "text": "• 语篇分析•",
+      "width": 0.12827758201055212,
+      "x": 0.41800406595217016,
+      "y": 0.6422355752595432
+    },
+    {
+      "confidence": 1,
+      "height": 0.017542501264183663,
+      "text": "第二段提出本文论述的问题：为什么大部分维多利亚时代的人照相时不愿微笑呢？关键词：①",
+      "width": 0.8508403094517702,
+      "x": 0.09033615596739206,
+      "y": 0.6162790701485839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016168364513412525,
+      "text": "posing miserably and stiffly； ②staring absently。",
+      "width": 0.3991596611478655,
+      "x": 0.04831933308152935,
+      "y": 0.597203728229059
+    },
+    {
+      "confidence": 1,
+      "height": 0.016052239744386965,
+      "text": "①句介绍维多利亚时期肖像照的总体特点：姿势僵硬、面无表情。本句可分为两层来理解：第一层",
+      "width": 0.8508403094517702,
+      "x": 0.09033615488545929,
+      "y": 0.5784883724731293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01630577806150224,
+      "text": "为 Of course...and 1900，将论述对象从上段“微笑的维多利亚人照片”过渡到“该时代的所有肖像照”",
+      "width": 0.8928571344570388,
+      "x": 0.050420164826802824,
+      "y": 0.5595930234663463
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016015467408811324,
+      "text": "上，开始关注当时肖像照的整体特点（between 1840 and 1900即前文所提到的维多利亚时期）。only a",
+      "width": 0.8907563020268846,
+      "x": 0.0525210160733923,
+      "y": 0.5392441864023929
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016269005090990385,
+      "text": "tiny percentage of 与 the vast catalogue of 形成数量上的鲜明对比，说明即便作者收集到的微笑照片已经",
+      "width": 0.8907563020268846,
+      "x": 0.05042017573725777,
+      "y": 0.5203488375894083
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669478,
+      "text": "不少，但也只占了该时期肖像照的极小一部分，暗示当时大部分照片中的人物其实都是不笑的。第二层为",
+      "width": 0.8907563020268846,
+      "x": 0.05042017719033897,
+      "y": 0.49999999998870015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014778744206130123,
+      "text": "the majority of which... middle distance（ which 指代 photographic portraiture created between 1840 and 1900），",
+      "width": 0.8928571344570387,
+      "x": 0.05042018119585024,
+      "y": 0.48255813994786845
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016147075099411712,
+      "text": "通过非限制性定语从句补充说明当时大部分人照相时的神态（posing miserably and stiffly“痛苦和僵硬的姿",
+      "width": 0.8907563020268846,
+      "x": 0.05042017573725777,
+      "y": 0.46205059910866053
+    },
+    {
+      "confidence": 1,
+      "height": 0.017527018342608613,
+      "text": "、staring absently“心不在焉地凝视”），具体生动地展示了维多利亚时期肖像照的整体特点。",
+      "width": 0.7605041621507707,
+      "x": 0.07773111976495067,
+      "y": 0.4418604651485839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016305778061502352,
+      "text": "②句顺势抛出全文论述的问题：怎样解释这一现象呢？this trend 回指上句“维多利亚人照相时姿势",
+      "width": 0.8508403094517702,
+      "x": 0.09033615317852656,
+      "y": 0.4241011985872192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016036756822812137,
+      "text": "僵硬、面无表情的整体特点”；trend 意为“趋势，倾向”，体现出这一特点的普遍性与广泛性，可根据语境",
+      "width": 0.8907563020268847,
+      "x": 0.05042015717983522,
+      "y": 0.4040697676826739
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739006,
+      "text": "翻译为人们互相效仿、表现出某种共同行为的“现象”。",
+      "width": 0.4642857016855582,
+      "x": 0.050420180118355196,
+      "y": 0.38348868195308017
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046595,
+      "text": "【深层解读】前两段为全文第一部分，首段作者从个人工作出发，引出微笑的维多利亚人照片，以此",
+      "width": 0.8529411418819244,
+      "x": 0.08823531750441586,
+      "y": 0.3661784290218991
+    },
+    {
+      "confidence": 1,
+      "height": 0.016253522169415446,
+      "text": "唤起人们对19世纪拘谨严肃的刻板印象的重新审视。第二段作者转而指出，该时期绝大多数照片中的",
+      "width": 0.8907563020268847,
+      "x": 0.05042017722185158,
+      "y": 0.34593023295520287
+    },
+    {
+      "confidence": 1,
+      "height": 0.01745734360818052,
+      "text": "人物其实都是不笑的。两段内容形成反差，从而引出文章论述的问题：既然他们是玩得很愉快且会放声",
+      "width": 0.8928571344570387,
+      "x": 0.048319326868119426,
+      "y": 0.3255659118246308
+    },
+    {
+      "confidence": 1,
+      "height": 0.016094819207324806,
+      "text": "大笑的人，为什么绝大多数人在镜头前甚至连一个微笑都不愿展露呢？两段中作者使用了两个问句，第",
+      "width": 0.8907563020268847,
+      "x": 0.050420161951743855,
+      "y": 0.3081395351063657
+    },
+    {
+      "confidence": 1,
+      "height": 0.016284488647501538,
+      "text": "一个为反问句，加强语气，激发阅读兴趣；第二个为特殊疑问句，引发思考，提出全文讨论的核心问题。",
+      "width": 0.8718486925540403,
+      "x": 0.04831936210008044,
+      "y": 0.28894806917854554
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01797603195739006,
+      "text": "•真题精解•",
+      "width": 0.11764705709409623,
+      "x": 0.42226890725127125,
+      "y": 0.26431424795125125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013404608090295311,
+      "text": "32. What does the author say about the Victorian portraits",
+      "width": 0.49579833513969174,
+      "x": 0.06092436597357142,
+      "y": 0.2336884154127309
+    },
+    {
+      "confidence": 1,
+      "height": 0.016189653927413117,
+      "text": "32. 关于他收集的维多利亚时期的肖像",
+      "width": 0.3592436979731153,
+      "x": 0.5735294145113414,
+      "y": 0.2323568574899615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "he has collected？",
+      "width": 0.13865545489654835,
+      "x": 0.06092437563295822,
+      "y": 0.21504660470264747
+    },
+    {
+      "confidence": 1,
+      "height": 0.01748443951460721,
+      "text": "照，作者说了什么？",
+      "width": 0.16386554695967315,
+      "x": 0.5756302507218441,
+      "y": 0.21220930235788638
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "［A］ They are in popular use among historians.",
+      "width": 0.40126049357801963,
+      "x": 0.06092438007548588,
+      "y": 0.19174434080159564
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01610643155724012,
+      "text": "［A］它们在历史学家中得到广泛应用。",
+      "width": 0.3382352854704811,
+      "x": 0.5735294185042552,
+      "y": 0.18895348869855821
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "［B］ They are rare among photographs of that age.",
+      "width": 0.43067226520163476,
+      "x": 0.06092437698426651,
+      "y": 0.1671105191042691
+    },
+    {
+      "confidence": 1,
+      "height": 0.016059981522642652,
+      "text": "［B］它们在那个时代的照片中很稀有。",
+      "width": 0.33613445304032696,
+      "x": 0.5735294154966432,
+      "y": 0.16569767472845875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "LC］ They mirror 19th-century social conventions.",
+      "width": 0.4222689060806539,
+      "x": 0.060924375767446054,
+      "y": 0.14380825575111966
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601353212298151,
+      "text": "［C］它们反映了19世纪的社会习俗。",
+      "width": 0.3256302320888277,
+      "x": 0.5735294244842977,
+      "y": 0.14244186077254783
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "［D］ They show effects of different exposure times.",
+      "width": 0.4369747624920971,
+      "x": 0.06092439074274667,
+      "y": 0.12050599172064047
+    },
+    {
+      "confidence": 1,
+      "height": 0.015999984487236385,
+      "text": "［D］它们展现了不同曝光时长的效果。",
+      "width": 0.33613445304032685,
+      "x": 0.5756302566731137,
+      "y": 0.119174433803927
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "［精准定位］根据题干关键词 Victorian portraits he has collected 定位至第二段①句。该句指出，我",
+      "width": 0.8529411418819244,
+      "x": 0.08823531652402374,
+      "y": 0.09447674424742103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629610099741685,
+      "text": "收集的“微笑的维多利亚人”只占了1840 至1900年间大量的肖像照的极小一部分，故［B］正确。",
+      "width": 0.8193277053980009,
+      "x": 0.050420188529990924,
+      "y": 0.07558139544430176
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "28",
+      "width": 0.023109243095265644,
+      "x": 0.06512605088634077,
+      "y": 0.05659121178000226
+    }
+  ],
+  "vision_ocr_text": "Of course, I need to concee that my collection of 'Smiling Victorians' makes up only a tiny percentage of the\nvast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing\nmiserably and stiffly in front of painted backdrops, or staring absently into the middle distance.\n结构切分：\nOf course, I\nneed to concede\n主句：\n评注状语主语谓语\n宾语\ncreated between 1840 and 1900，\n宾语从句\n过去分词作后置定语\nthat my collection of ‘Smiling Victorians’\nmakes up only a tiny percentage of...photographic portraiture\n引导词\n主语\n谓语 状语\n宾语\n非限制性定语从句个\nthe majority of which show sitters posing.. 0r\nstaring..\n主语\n谓语 宾语\n宾补1连接词 宾补2\n功能注释：本句主干为Ineed to concede that.•。that 从句作 concede 的宾语，介绍作者观点。\ncreated between 1840 and 1900为过去分词作后置定语，修饰 photographic portraiture，交代肖像照被拍\n摄的时间；the majority...middle distance 为非限制性定语从句，补充说明这些肖像照的整体特征。\n• 语篇分析•\n第二段提出本文论述的问题：为什么大部分维多利亚时代的人照相时不愿微笑呢？关键词：①\nposing miserably and stiffly； ②staring absently。\n①句介绍维多利亚时期肖像照的总体特点：姿势僵硬、面无表情。本句可分为两层来理解：第一层\n为 Of course...and 1900，将论述对象从上段“微笑的维多利亚人照片”过渡到“该时代的所有肖像照”\n上，开始关注当时肖像照的整体特点（between 1840 and 1900即前文所提到的维多利亚时期）。only a\ntiny percentage of 与 the vast catalogue of 形成数量上的鲜明对比，说明即便作者收集到的微笑照片已经\n不少，但也只占了该时期肖像照的极小一部分，暗示当时大部分照片中的人物其实都是不笑的。第二层为\nthe majority of which... middle distance（ which 指代 photographic portraiture created between 1840 and 1900），\n通过非限制性定语从句补充说明当时大部分人照相时的神态（posing miserably and stiffly“痛苦和僵硬的姿\n、staring absently“心不在焉地凝视”），具体生动地展示了维多利亚时期肖像照的整体特点。\n②句顺势抛出全文论述的问题：怎样解释这一现象呢？this trend 回指上句“维多利亚人照相时姿势\n僵硬、面无表情的整体特点”；trend 意为“趋势，倾向”，体现出这一特点的普遍性与广泛性，可根据语境\n翻译为人们互相效仿、表现出某种共同行为的“现象”。\n【深层解读】前两段为全文第一部分，首段作者从个人工作出发，引出微笑的维多利亚人照片，以此\n唤起人们对19世纪拘谨严肃的刻板印象的重新审视。第二段作者转而指出，该时期绝大多数照片中的\n人物其实都是不笑的。两段内容形成反差，从而引出文章论述的问题：既然他们是玩得很愉快且会放声\n大笑的人，为什么绝大多数人在镜头前甚至连一个微笑都不愿展露呢？两段中作者使用了两个问句，第\n一个为反问句，加强语气，激发阅读兴趣；第二个为特殊疑问句，引发思考，提出全文讨论的核心问题。\n•真题精解•\n32. What does the author say about the Victorian portraits\n32. 关于他收集的维多利亚时期的肖像\nhe has collected？\n照，作者说了什么？\n［A］ They are in popular use among historians.\n［A］它们在历史学家中得到广泛应用。\n［B］ They are rare among photographs of that age.\n［B］它们在那个时代的照片中很稀有。\nLC］ They mirror 19th-century social conventions.\n［C］它们反映了19世纪的社会习俗。\n［D］ They show effects of different exposure times.\n［D］它们展现了不同曝光时长的效果。\n［精准定位］根据题干关键词 Victorian portraits he has collected 定位至第二段①句。该句指出，我\n收集的“微笑的维多利亚人”只占了1840 至1900年间大量的肖像照的极小一部分，故［B］正确。\n28",
+  "pdf_text_layer": "Of course, I need to concede that my collection of 4 Smiling Victorians * makes up only a tiny percentage of the\nvast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing\nmiserably and stiffly in front of painted backdrops, or staring absently into the middle distance.\n       结构切分:\n\n\n\n\n       功能注释：本句主干为I need to concede that. . . o that从句作concede的宾语，介绍作者观点。\ncreated between 1840 and 1900为过去分词作后置定语9修饰photographic portraiture,交代肖像照被拍\n摄的时间;the majority. . . middle distance为非限制性定语从句，补充说明这些肖像照的整体特征。\n                                                 ［•语篇分析1必\n\n       第二段提出本文论述的问题：为什么大部分维多利亚时代的人照相时不愿微笑呢？关键词：①\nposing miserably and stiffly ；（2）staring absentlyo\n       ① 句介绍维多利亚时期肖像照的总体特点：姿势僵硬、面无表情。本句可分为两层来理解：第一层\n为Of course. . . and 1900,将论述对象从上段“微笑的维多利亚人照片”过渡到“该时代的所有肖像照”\n上，开始关注当时肖像照的整体特点（between 1840 and 1900即前文所提到的维多利亚时期）。only a\ntiny percentage of与the vast catalogue of形成数量上的鲜明对比，说明即便作者收集到的微笑照片已经\n不少，但也只占了该时期肖像照的极小一部分，暗示当时大部分照片中的人物其实都是不笑的。第二层为\nthe majority of which. . . middle distance （which 指代 photographic portraiture created between 1840 and 1900）,\n通过非限制性定语从句补充说明当时大部分人照相时的神态 （posing miserably and stiffly*痛苦和僵硬的姿\n势”、staring absently4心不在焉地凝视”），具体生动地展示了维多利亚时期肖像照的整体特点。\n       ② 句顺势抛出全文论述的问题：怎样解释这一现象呢？ this trend回指上句“维多利亚人照相时姿势\n僵硬、面无表情的整体特点”;trend意为“趋势，倾向”，体现岀这一特点的普遍性与广泛性，可根据语境\n翻译为人们互相效仿、表现出某种共同行为的“现象”。\n       【深层解读】前两段为全文第一部分，首段作者从个人工作出发，引出微笑的维多利亚人照片，以此\n唤起人们对19世纪拘谨严肃的刻板印象的重新审视。第二段作者转而指出，该时期绝大多数照片中的\n人物其实都是不笑的。两段内容形成反差，从而引出文章论述的问题：既然他们是玩得很愉快且会放声\n大笑的人，为什么绝大多数人在镜头前甚至连一个微笑都不愿展露呢 ？两段中作者使用了两个问句，第\n一个为反问句，加强语气，激发阅读兴趣；第二个为特殊疑问句，引发思考，提出全文讨论的核心问题。\n                                                 卜真题精惮•［/\n\n\n 32. What does the author say about the Victorian portraits           32.关于他收集的维多利亚时期的肖像\n he has collected?                                                     照，作者说了什么？\n [A] They are in popular use among historians・                         EA］它们在历史学家中得到广泛应用。\n [E] They are rare among photographs of that age・                      ［B］它们在那个时代的照片中很稀有。\n [C] They mirror 19th-century social conventions・                      EC］它们反映了 19世纪的社会习俗。\n [D] They show effects of different exposure times・                    ［D］它们展现了不同曝光时长的效果。\n       ［精准定位］根据题干关键词Victorian portraits he has collected定位至第二段①句。该句指出，我\n收集的“微笑的维多利亚人”只占了 1840至1900年间大量的肖像照的极小一部分，故［B］正确。\n  28",
+  "quality": {
+    "vision_line_count": 62,
+    "vision_character_count": 2296,
+    "pdf_text_character_count": 2322,
+    "nonempty": true
+  }
+}

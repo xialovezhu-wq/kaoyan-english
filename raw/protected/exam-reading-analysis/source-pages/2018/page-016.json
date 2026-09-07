@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P016",
+  "year": 2018,
+  "pdf_page": 16,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "• 经典搭配",
+      "width": 0.10278372198229094,
+      "x": 0.06638115754663368,
+      "y": 0.9258720931565043
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016260547042668105,
+      "text": "②dream up（构想，想出不同寻常的计划、主意）",
+      "width": 0.3597430232840937,
+      "x": 0.531049262233756,
+      "y": 0.925872093035941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01318913163382307,
+      "text": "①cope with（应对）",
+      "width": 0.14561028316103178,
+      "x": 0.0663811549627695,
+      "y": 0.9083224964611908
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "The challenge of coping with automation underlines the need for the U. S. to revive its fading business",
+      "width": 0.8458243768333932,
+      "x": 0.10492507773248246,
+      "y": 0.8706111832379086
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013223153251975317,
+      "text": "dynamism: Starting new companies must be made easier.",
+      "width": 0.46466806930600446,
+      "x": 0.06638116296477092,
+      "y": 0.8530559165763234
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868706,
+      "text": "of coping with automation",
+      "width": 0.1927194851111635,
+      "x": 0.18415417848296212,
+      "y": 0.8296488945066013
+    },
+    {
+      "confidence": 1,
+      "height": 0.011881180330432839,
+      "text": "定语",
+      "width": 0.03640257079025794,
+      "x": 0.24839400360997732,
+      "y": 0.8107932381458971
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0159883722372266,
+      "text": "分句】",
+      "width": 0.049250533297600874,
+      "x": 0.10706638182167982,
+      "y": 0.7892441859017355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013209278468812924,
+      "text": "The challenge",
+      "width": 0.10495949522288825,
+      "x": 0.17128899031667508,
+      "y": 0.7935407096589073
+    },
+    {
+      "confidence": 1,
+      "height": 0.01040312093628093,
+      "text": "underlines",
+      "width": 0.08351177639431423,
+      "x": 0.2783725900683676,
+      "y": 0.7964889465484608
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "the need for the U.S. to revive its fading business dynamism",
+      "width": 0.43897215159916786,
+      "x": 0.3661670236383177,
+      "y": 0.7906371913517353
+    },
+    {
+      "confidence": 1,
+      "height": 0.013174010501261435,
+      "text": "主语",
+      "width": 0.036402570790257965,
+      "x": 0.20128479571530236,
+      "y": 0.7761627905096373
+    },
+    {
+      "confidence": 1,
+      "height": 0.013174010501261324,
+      "text": "谓语",
+      "width": 0.03854389482987797,
+      "x": 0.304068523355939,
+      "y": 0.7761627905217497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "宾语（the need for sb to do sth结构）",
+      "width": 0.2805139242004161,
+      "x": 0.45824411137409604,
+      "y": 0.7761627910956654
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "分旬2",
+      "width": 0.05139186099114547,
+      "x": 0.10706638245945939,
+      "y": 0.7366710015226039
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013138098276483046,
+      "text": "Starting new companies",
+      "width": 0.1755888635628068,
+      "x": 0.17344753609868233,
+      "y": 0.7456395349318756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011837708159447957,
+      "text": "must be made easier",
+      "width": 0.1498929312402718,
+      "x": 0.3790149886089862,
+      "y": 0.7456395349840905
+    },
+    {
+      "confidence": 1,
+      "height": 0.011760213750236503,
+      "text": "主语",
+      "width": 0.034261243096713356,
+      "x": 0.2441113483659902,
+      "y": 0.7295188558804986
+    },
+    {
+      "confidence": 1,
+      "height": 0.01308139557956256,
+      "text": "谓语",
+      "width": 0.036402567136333386,
+      "x": 0.4411134915656662,
+      "y": 0.7281976741397245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0177253759108843,
+      "text": "功能注释：本句由两个分句构成。分句1中，of coping with automation 是 challenge的定语，说明“挑",
+      "width": 0.8415417433698515,
+      "x": 0.10706639518873583,
+      "y": 0.7061118333062939
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017535571779169312,
+      "text": "战”的具体内容，分句2说明 to revive its fading business dynamism 的具体途径。",
+      "width": 0.6810666372949593,
+      "x": 0.06632593523103579,
+      "y": 0.6874718837001216
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02034883660364828,
+      "text": "•语篇分析•泌",
+      "width": 0.1584582420144502,
+      "x": 0.4282655243532318,
+      "y": 0.6598837211846099
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "第五至七段针对问题提出应对措施。",
+      "width": 0.3126338213339619,
+      "x": 0.1049250632623551,
+      "y": 0.6365409625808416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "第五段以史为鉴提出建议二：加速恢复日益衰退的企业活力。关键词：revive its fading business dynamism。",
+      "width": 0.8415417433698515,
+      "x": 0.10492506820800772,
+      "y": 0.6189856957810433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "①句提出建议：加速恢复企业活力、让创建新公司更容易。underlines the need（underline 意为“使突",
+      "width": 0.8415417433698515,
+      "x": 0.10492506095247606,
+      "y": 0.6001300393110771
+    },
+    {
+      "confidence": 1,
+      "height": 0.01626243702921981,
+      "text": "出，凸显”）表明美国企业活力一直不足、迟迟未能解决，而当前的自动化挑战让恢复活力成为当务之急。",
+      "width": 0.8822269366618773,
+      "x": 0.06638116908876175,
+      "y": 0.5825747725450621
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "Starting new companies must be made easier 明确基本途径“使创建公司更容易”。",
+      "width": 0.689507495397809,
+      "x": 0.06638116456019598,
+      "y": 0.563719115687711
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017636540962288616,
+      "text": "②句说明理由（历史情形）：先前技术变革时代，实现平稳过渡靠的是企业家发明出将“劳动者”和",
+      "width": 0.8394004266380807,
+      "x": 0.10492506414348625,
+      "y": 0.5448634589961686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017596848764407147,
+      "text": "“机器”相结合的方式。In previous eras 明确作者在“以史为鉴”。entrepreneurs smoothed the transition",
+      "width": 0.8865096285882124,
+      "x": 0.06209849368233943,
+      "y": 0.5260078021751547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01625676644949048,
+      "text": "（smooth 意次 make it easier for something to happen“某事铺平道路”）强调企业家在实现平稳过渡中",
+      "width": 0.8800856199301066,
+      "x": 0.06638118023837274,
+      "y": 0.5084525360329794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "起到的巨大作用。（entrepreneurs）dreaming up ways to combine labor and machines 明确企业家铺平过",
+      "width": 0.8800856199301065,
+      "x": 0.06638116710132788,
+      "y": 0.4895968791489811
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "渡道路的途径“发明将劳动者和机器相结合的方式”，凸显其中“创新性”（dream up 意为 to think of a",
+      "width": 0.8822269951246707,
+      "x": 0.06638115647049815,
+      "y": 0.47074122211002467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017591178184678036,
+      "text": "plan or idea, especially an unusual one“想出［不同寻常的计划、主意］”），关联上句即：这必须通过“大量",
+      "width": 0.8800856199301066,
+      "x": 0.06638118067734494,
+      "y": 0.4518855659162211
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "涌现的、勇于创新的新企业家”，归根结底靠的是“提供创业条件、释放企业活力的政策”。",
+      "width": 0.7494646562013589,
+      "x": 0.06638116975799277,
+      "y": 0.43302990910247485
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "③④句回归当前情形：呼唤新公司发明“劳动者”和“机器人”结合技术的最佳应用。",
+      "width": 0.6980727623248921,
+      "x": 0.1049250819210655,
+      "y": 0.41547464230631037
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "③句首先指出人机合作技术的最佳应用尚未发明（暗示需求）。3D printers、virtual reality 以点带",
+      "width": 0.8415417433698515,
+      "x": 0.10492506221229043,
+      "y": 0.3966189854925639
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01628511810798794,
+      "text": "面，指代将“人类劳动者”和“机器人”结合的技术（combine labor and machines）； The best uses. .. haven't",
+      "width": 0.8822269951246707,
+      "x": 0.06638114176671549,
+      "y": 0.37906371911285397
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "been invented yet 说明这些技术的最佳应用尚未发明（而它们恰是实现平稳过渡的重要途径）。",
+      "width": 0.8008564916150324,
+      "x": 0.06423983840019286,
+      "y": 0.36020806251591964
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "④句进而指出美国亟待发明它们的新公司出现（呼唤解决）。them 回指 The best uses of 3D",
+      "width": 0.8436830601016224,
+      "x": 0.1049250678506877,
+      "y": 0.3400520158917135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017619529843175386,
+      "text": "printers and virtual reality;needs 一词承载强烈“呼唤”，浅层是对“创新型”公司的呼唤，深层是对“使创",
+      "width": 0.8822269366618773,
+      "x": 0.06423985954914685,
+      "y": 0.3224967490542354
+    },
+    {
+      "confidence": 1,
+      "height": 0.016279448148333042,
+      "text": "建公司更容易的政策”的呼唤。",
+      "width": 0.26124195668889183,
+      "x": 0.06638116559559681,
+      "y": 0.3049414821708617
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "【深层解读】本段向政策制定者们（本文直接面向对象）强调：帮助中产阶级应对自动化挑战，必须进",
+      "width": 0.8415417433698515,
+      "x": 0.1027837411898063,
+      "y": 0.2847854354703473
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "行制度建设（加速恢复商业活力，使创办公司更容易），论述跨越“制度建设”",
+      "width": 0.6488222436429897,
+      "x": 0.06423984988621376,
+      "y": 0.2659297792307289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017653551461327632,
+      "text": "、“思想建设”、“企业建设”三",
+      "width": 0.23982868706129523,
+      "x": 0.7044967893744203,
+      "y": 0.26723016908821473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "个层面：制定政策，加速恢复商业活力、使创建公司更易（revive its fading business dynamism）——使人们",
+      "width": 0.8800856199301065,
+      "x": 0.06423983794715245,
+      "y": 0.24999999986733623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627377756860382,
+      "text": "更能解放思想、敢于走出来创业—企业家大量涌现、企业创新精神更强（entrepreneurs,new",
+      "width": 0.8822269366618773,
+      "x": 0.06638118717227301,
+      "y": 0.2308192458319862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598424,
+      "text": "companies） ~发明出将“劳动者”和“机器人”更好结合的各种新技术 （dreaming up ways to combine labor",
+      "width": 0.8843683118564416,
+      "x": 0.0642398207580749,
+      "y": 0.21366279117526377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "and machines）-为中产阶级创造工作机会、为平稳过渡铺平道路（smoothed the transition）。",
+      "width": 0.7773018906399665,
+      "x": 0.06423983919821827,
+      "y": 0.19476744171568905
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053316018,
+      "text": "VI ①Finally, because automation threatens to widen",
+      "width": 0.4389721515991679,
+      "x": 0.10920771983746089,
+      "y": 0.16710013022647607
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "最后，因自动化很可能导致资本收入",
+      "width": 0.32976444288231854,
+      "x": 0.6102783804860356,
+      "y": 0.15669700911368556
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329875705456085,
+      "text": "the gap between capital income and labor income, taxes",
+      "width": 0.4817986908543612,
+      "x": 0.06638117317560299,
+      "y": 0.1453488369304221
+    },
+    {
+      "confidence": 1,
+      "height": 0.014621828250364177,
+      "text": "和劳动收入之间差距进一步加大，所以必须",
+      "width": 0.3704496654057412,
+      "x": 0.5695931565690779,
+      "y": 0.13654096208565636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "and the safety net will have to be rethought. ②Taxes on",
+      "width": 0.4817986908543612,
+      "x": 0.06638117416596692,
+      "y": 0.12483745107384925
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "重新考虑税收和安全网。削减对低薪劳动",
+      "width": 0.3576017065523228,
+      "x": 0.5695931465364726,
+      "y": 0.11627906964083456
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "low-wage labor need to be cut, and wage subsidies®",
+      "width": 0.4368308348673971,
+      "x": 0.06423983574260388,
+      "y": 0.10598179443452149
+    },
+    {
+      "confidence": 1,
+      "height": 0.01175076319740409,
+      "text": "such",
+      "width": 0.04282655021696713,
+      "x": 0.5010706642205672,
+      "y": 0.1059817946721876
+    },
+    {
+      "confidence": 1,
+      "height": 0.011703511053316018,
+      "text": "16",
+      "width": 0.023554602802028146,
+      "x": 0.07922912241360815,
+      "y": 0.0741222365077665
+    }
+  ],
+  "vision_ocr_text": "• 经典搭配\n②dream up（构想，想出不同寻常的计划、主意）\n①cope with（应对）\nThe challenge of coping with automation underlines the need for the U. S. to revive its fading business\ndynamism: Starting new companies must be made easier.\nof coping with automation\n定语\n分句】\nThe challenge\nunderlines\nthe need for the U.S. to revive its fading business dynamism\n主语\n谓语\n宾语（the need for sb to do sth结构）\n分旬2\nStarting new companies\nmust be made easier\n主语\n谓语\n功能注释：本句由两个分句构成。分句1中，of coping with automation 是 challenge的定语，说明“挑\n战”的具体内容，分句2说明 to revive its fading business dynamism 的具体途径。\n•语篇分析•泌\n第五至七段针对问题提出应对措施。\n第五段以史为鉴提出建议二：加速恢复日益衰退的企业活力。关键词：revive its fading business dynamism。\n①句提出建议：加速恢复企业活力、让创建新公司更容易。underlines the need（underline 意为“使突\n出，凸显”）表明美国企业活力一直不足、迟迟未能解决，而当前的自动化挑战让恢复活力成为当务之急。\nStarting new companies must be made easier 明确基本途径“使创建公司更容易”。\n②句说明理由（历史情形）：先前技术变革时代，实现平稳过渡靠的是企业家发明出将“劳动者”和\n“机器”相结合的方式。In previous eras 明确作者在“以史为鉴”。entrepreneurs smoothed the transition\n（smooth 意次 make it easier for something to happen“某事铺平道路”）强调企业家在实现平稳过渡中\n起到的巨大作用。（entrepreneurs）dreaming up ways to combine labor and machines 明确企业家铺平过\n渡道路的途径“发明将劳动者和机器相结合的方式”，凸显其中“创新性”（dream up 意为 to think of a\nplan or idea, especially an unusual one“想出［不同寻常的计划、主意］”），关联上句即：这必须通过“大量\n涌现的、勇于创新的新企业家”，归根结底靠的是“提供创业条件、释放企业活力的政策”。\n③④句回归当前情形：呼唤新公司发明“劳动者”和“机器人”结合技术的最佳应用。\n③句首先指出人机合作技术的最佳应用尚未发明（暗示需求）。3D printers、virtual reality 以点带\n面，指代将“人类劳动者”和“机器人”结合的技术（combine labor and machines）； The best uses. .. haven't\nbeen invented yet 说明这些技术的最佳应用尚未发明（而它们恰是实现平稳过渡的重要途径）。\n④句进而指出美国亟待发明它们的新公司出现（呼唤解决）。them 回指 The best uses of 3D\nprinters and virtual reality;needs 一词承载强烈“呼唤”，浅层是对“创新型”公司的呼唤，深层是对“使创\n建公司更容易的政策”的呼唤。\n【深层解读】本段向政策制定者们（本文直接面向对象）强调：帮助中产阶级应对自动化挑战，必须进\n行制度建设（加速恢复商业活力，使创办公司更容易），论述跨越“制度建设”\n、“思想建设”、“企业建设”三\n个层面：制定政策，加速恢复商业活力、使创建公司更易（revive its fading business dynamism）——使人们\n更能解放思想、敢于走出来创业—企业家大量涌现、企业创新精神更强（entrepreneurs,new\ncompanies） ~发明出将“劳动者”和“机器人”更好结合的各种新技术 （dreaming up ways to combine labor\nand machines）-为中产阶级创造工作机会、为平稳过渡铺平道路（smoothed the transition）。\nVI ①Finally, because automation threatens to widen\n最后，因自动化很可能导致资本收入\nthe gap between capital income and labor income, taxes\n和劳动收入之间差距进一步加大，所以必须\nand the safety net will have to be rethought. ②Taxes on\n重新考虑税收和安全网。削减对低薪劳动\nlow-wage labor need to be cut, and wage subsidies®\nsuch\n16",
+  "pdf_text_layer": "．经典搭配                                                      ；     ② drea川\n( cope with （应对）\n\n      The challenge of coping with automation underlines the need for the U. S. to revive its fading business\ndynamism: Starting new companies must be made easier.\n               of coping with automation\n                        定语\n              The challenge underlines the need for 出巳 U.S . to revive its fading business dynamism\n                  主语           谓语                    宾语（ the need for sb to do s由结构）\n\n              Starting new companies       must be made easier\n                       主语                          谓语\n      功能注释： 本句由两个分句构成 。 分句 1 i:j::i ,of cop ing wit h a utom at i o n 是 cha ll e nge 的定语，说明“挑\n战”的具体内容，分句 2 说明 to revive its fadin g bu s iness d y n am i sm 的具体途径 。\n\n                                                ：＂： ~J否需分析：＜： ；／\n      第五至七段针对问题提出应对措施。\n      第五段以史为鉴提出建议 二： 加速恢复日益衰退的企业活力。关键词：阿vive its fading business dynamism。\n      ① 旬提出建议 ： 加速恢复企业活力、让创建新公司更容易。 unde rlines th e need ( und erline 意 为“使突\n出，凸显”）表明美国企业活力一直不足、迟迟未能解决，而当前的自动 化挑战 让恢复活力成为当务之急。\nStarting new compa ni es must be made eas i e r 明确 基本途径“使 创 建公司更容易 ” 。\n      ② 旬说明理由 （ 历史情形 ） ：先前技术变革时代，实现平稳过渡靠的是企业家发明出将“劳动者”和\n“机器”相结合的方式。 In previous eras 明确作 者在“ 以史为 鉴” 。 e ntr e pr e ne ur s smoothed the transition\n(smoo th 意为 ma k e it easier for something to h a pp e n“为某事铺平道路”）强调企 业 家在实 现平稳过渡中\n起到的 巨大作用 。 （ e ntr epre n e ur s) dream ing up ways to combine labor a nd ma c hines 明确企业家铺平过\n疲道路的途径“发 明将 劳动者 和机器相结 合 的 方式”， 凸 显其 中“创新性” （ dr ea m up 意 为 to think of a\npl an or id ea, especia ll y a口 unu s u a l one“想出［不同寻常的计 划 、主意］勺，关联上句 即：这必 须通 过 “大量\n涌现的 、 勇于 创 新的新企业家”，归根结底靠的是“提供 创业 条 件、 释放企 业 活力 的政策” 。\n      ③④ 旬回归当前情形：呼唤新公司发明“劳动者”和“机器人”结合技术的最佳应用。\n      ① 旬首先指出人机合作技术的最佳应用尚未发明（暗示需求）。 3 D print e陀 、 v irtu a l r ea lity 以 点带\n回，指代将“人类劳动者”和“ 机 器人”结合的技术（ combin e la bor and mac hines) ; Th e best uses .. . have n ’ t\nbeen in ve nted yet i.l'l. 明这些技术的最佳应用尚未发明（而它 们 恰是实 现 平稳过渡 的 重要 途径） 。\n      ④ 旬进而指出美国亟待发明它们的新公司出现（呼唤解决）。 t h e m 回指 Th e best uses of 3D\nprinter s and virtu al rea lit y; n eed s 一 词承载强烈“ H乎唤”，浅层是对“ 创 新型”公司的呼唤 ， 深层是 对 “使 创\n建公司更容易 的政 策” 的 H乎 l唤 。\n      【深层解读】本段向政策制定者们 （ 本文直接面向对象）强调：帮助中产阶级应对自动化挑战，必须进\n行制度建设 （ 加速恢复商业活力，使创办公司更容易），论述跨越“制度建设”、“思想建设”、“企业建设”三\n个层面 ：制定政 策， 加速 恢复商业活力、使 创 建公司更易（ revive its fading bu siness dynami sm)                               使人们\n更 能解 放思想、敢于走 出来创业 一一 企业家大量涌现、企业 创 新精神更强（ entrepreneurs, new\nco mp a ni es）→发 明出将 “劳动者” 和 “ 机 器人”更好结合 的各种 新技术（ dreaming up ways to combine labor\na nd mac hin es ）→为 中 产 阶 级 创 造工作机会、为平稳过搜铺平道路（ s moothed t he tran s iti on ）。\n\n      V[ OFina ll y, beca use a utomation threat ens to wid en\n                                                                         最后，因为自动化很可能导致资本 收 入\nthe gap betwee n cap ital incom e and la bor income, taxes\n                                                                   和劳动收入之间差距进 一 步加大，所以必须\nand t he sa fet y net will have to be retho ug ht. @ Taxes on\n                                                                   重 新考虑税收和安全网 。 削减对低薪劳动\nlow- wage labor need to be cut , and wage subsidies( s uch\n\n 16",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2252,
+    "pdf_text_character_count": 3105,
+    "nonempty": true
+  }
+}

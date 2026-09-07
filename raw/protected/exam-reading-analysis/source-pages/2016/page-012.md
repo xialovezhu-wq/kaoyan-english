@@ -1,0 +1,122 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2016-P012
+year: 2016
+pdf_page: 12
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2016 解析 PDF p12｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+responsibility for the signal...about...；其中嵌套两个省略 that 的定语从句：it sends women... 修饰 the
+signal，说明时尚业所发射信号的“接收者/受影响者”；they must use... 修饰 the social tape-measure，进
+一步强调其巨大影响。
+•语篇分析•》
+第二至四段为第二部分，全面评述法国的立法事件。其中第二段肯定立法的积极动机。关键词为：
+a couple of uplifting motiveso
+①句总起段落：上述法令出于几种积极考虑。a couple of uplifting motives 说明本段关注点“立法动
+机”，并明确作者肯定态度：uplifting 意为“（在道德、文化等方面）进行提升的”，带明显褒义色彩。
+②至⑤句具体介绍立法的三重积极动机。They suggest...And...g0 beyond..• It tells...衔接各句。
+②③句从“社会”层面说明立法动机一：纠正人们对“美”的错误认识。②句 that定语从句中，end up
+doing sth（或～in a particular state）含“到头来⋯⋯，尽管初衷并非如此”之意，looks被这一指向性明显
+的定语从句修饰，加之 should not 传达的“纠正”之意，表明此处looks 具体指“极度瘦削的外形”，同时也
+可判断 impinge on health 大致表“对健康不利”之意。③句a start 暗示下文将继续介绍其他动机。
+④⑤句进而聚焦“极瘦模特禁令”，说明立法的另外两重动机。the ban on ultra-thin models... It.•
+回指衔接，均第一段②句所述法令（本文重点）。
+④句从“模特”层面说明立法动机二：防止模特因过度节食而死。seems to go beyond...（beyond 意
+力“超过”）巧妙衔接两重动机，且清晰说明二者关系：本句为浅层动机，下句将介绍更深层动机；一a.s
+some have done 补充指出模特节食致死并非危言耸听，而是已有悲剧。
+⑤句从“时尚业”层面说明立法动机三：责令时尚业对其发送的“社会尺度”信号负责。tell（意力 to
+say that sb must do sth“命令，责令”）引出发令内容；take responsibility 反向强调“宣扬超瘦为美”的做法
+极不负责。signal意为“（输送的）信号、暗号”，表明时尚业无需多言，仅仅某个行为或动作就足以引导大
+众；tape-measure 本意“卷尺”，这里既用其本意形象说明“时尚业以一卷皮尺界定女性美”，又借其喻意
+指“（社会）尺度/标准”，突显时尚业的巨大影响力。especially teenage girls 指向最易受影响的群体：追随
+潮流且辨识力不足的年轻女孩，明确法令重点保护对象。定语从句（that）they must use to determine
+their individual worth 进一步强调社会标尺（时尚业所发送信号）的巨大社会影响，也即：时尚业不仅决定
+着人们的审美观，还决定着人们的个人价值观。
+【深层解读】本段以 have a couple of uplifting motives... That's a start...And...go beyond...1t
+tells...形成“总（①句）一分（②至⑤句）”结构，指出当前法令的多重良好动机；褒义词 uplifting奠定全段
+“支持法令”的情感基调。②句和⑤句两条法令均为“动词十 情态动词”结构，但面向的对象不同，语气也
+完全不同：②句 suggest...should not... 面向“大众”发出呼吁，语气较为缓和；⑤句 tell... it must...面
+向“时尚业”，语气十分严厉，契合首句作者情感态度。
+•真題精解。
+22. The phrase “impinging on” （Line 2, Para. 2） is closest
+22. 短语 impinging on（第二段第二行）含义
+in meaning to
+最接近于
+o
+［A］ indicating the state of
+［A］表明⋯•⋯的状态
+［B］ heightening the value of
+［B］提高⋯⋯的价值
+［C］ losing faith in
+［C］对⋯⋯失去信心
+［D］ doing harm to
+［D］对⋯⋯造成伤害
+［精准定位］考查短语所在句（第二段②句）指出，法国新出台的法令意在表明“美不应由最终⋯⋯健
+康的外表来界定”，且根据上文（第一段及第二段①句）可知：法令意在叫停时尚业定义的“极瘦为美”，第
+12
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+res ponsibilit y for th e signal. .. about ...； 其 中嵌 套 两个 省 略 th a t 的 定语从句： it sends wo men .. . 修 饰 t h e
+s i gna l ，说明时尚业所发 射信 号 的“接收 者 ／受影 响者”； th ey mu st use . . . 修饰 th e socia l t a p e- m eas ure ，进
+一 步强调 其巨大影 响 。
+
+                                               ；三 语革方苛＜ 1'
+       第二至四段为第二部分，全面评述法国的立法事件。其中第二段肯定立法的积极动机。关键词为：
+a couple of uplifting motives 。
+       ① 旬总起段落：上述法令出于几种积极考虑。 a coupl e of uplifting moti ve s 说明 本 段 关注 点 “ 立 法 动
+机”，并明确作 者 肯定态度： uplifting 意为 “ （在道德、文 化 等 方面）进行提升的”，带明显 褒 义色 彩 。
+       ② 至 ⑤ 旬具体介绍立法的三重积极动机。 They suggest. .. And . .• go beyond. . • It tells . ..衔接各句。
+       ②③ 旬从“社会”层面说明立法动机一：纠正人们对“美”的错误认识。 ② 句 that 定 语从句 E尸 ， e nd up
+doing s t h （或 ～ i n a particu lar state ）含 “ 到头来 …… ，尽 管 初衷并非如此”之 意， loo k s 被 这 一 指向性明 显
+的 定 语从句修饰，加之 s hould not 传达的“纠正”之 意 ， 表 明此处 l ook s 具 体指“极 度瘦 削的外形”，同时也
+可判断 imping e on h ea lth 大致表“对健康不幸lj ”之 意 。③ 句 a s ta rt 暗 示 下 文 将继 续 介 绍其 他 动 机 。
+       ④⑤ 旬进而聚焦“极瘦模特禁令”，说明立法的另外商重动机。 th e ba n on ult ra- thin mode ls . . . It ...
+回指衔接，均为 第 一 段 ② 句所述法令（本文 重 点 ） 。
+       ④ 旬从“模特”层面说明立法动机二：防止模特因过度节食而死。 see m s to go beyond. .                                          ( b e yond 意
+为 “ 超过” ） 巧妙衔接两 重 动机 ， 且清晰说明 二 者关系 ： 本 句 为浅层 动机 ， 下句将介 绍更深层动 机； － as
+some have done 补充指出模特节食致死 并 非危 言耸 听，而 是 已有悲剧 。
+       ⑤ 旬从“时尚业”层面说明立法动机三：责令时尚业对其发迭的“社会尺度”信号负责 。                                                      t e ll （ 意 为 t o
+say that s b m ust do s th“命令，责令勺引出 发令 内 容 ： t a k e r es pon s ibility 反向强调“ 宣 扬 超瘦为 美 ” 的做 法
+极不负责 。 s i gna l 意 为“（输送的）信号、暗 号 ”， 表 明时尚业无 需多 言 ，仅仅某个 行 为或 动 作就足以引 导大
+众； tap e m eas ur e 本 意 为“卷尺”，这里既用 其本意 形象说明“ 11•］ 尚业以 一 卷皮尺界 定 女性 美 ”． 又 借 其 II命 意
+指“（社 会〉 尺 度 ／标准”， 突 显时尚业的 巨 大 影 响力 。 e sp ec i a ll y t eenage g irl s 指向 最易受影 响的 群 体： 迫 随
+潮流且 辨 识力 不 足的 年 轻女孩，明确 法令重 点保护对 象 。 定 i吾 从句 （ t ha t ) t hey mu st use to de te rm ine
+th eir individua l wo rth 进 一 步强调社 会 标尺 （ 时尚业所 发送信号 ）的 巨大 社 会影 响 ， 也即 ： 时 尚业不仅决定
+着 人们的审 美 观， 还 决定 着 人们的个人价值观 。
+       【深层解读】 本 段以 h a ve a coup le of up lifting mo t ives ... That ’ s a s tart . .. A nd . . . go beyo nd ... It
+tells. .形成 “ 总 （ ① 句 ）        分 （ ② 至⑤ 句）”结 构 ， 指出 当 前 法令 的 多 重 良好 动机； 褒义词 u p liftin g 奠 定 全 段
+“ 支 持 法令” 的情 感基 调 。 ② 句和I ＠ 句两 条法令 均 为 “ 动 词 ＋ 情 态动 同” 结 构 ， 但 面 向的 对象不同，语 气 也
+完全 不同 ： ② 句 s u gges t. .. s ho uld not ...面向 “ 大众 ”发 出 I呼吁 ，语气较为缓 和； ⑤ 句 te ll ... it m ust . .                   面
+
+向“时尚业”， 语气 十分严厉 ，契 合 首 句作 者 情感态 度 。
+
+                                               ：： ：~·真：题拮解：i::i ;J
+ 22. The phrase “ impinging on”( Line 2 , Para. 2) is closest      22. 短语 impinging on （ 第二 段 第 二行） 含义
+
+        in meaning to 一一一一·                                            最接近于              。
+
+
+
+ [ A] ind ica ting th e sta te of                                  [ A ］表 明……的状 态
+
+ [ BJ heig htening the va lue of                                   [ BJ 提 高 ……的价 值
+
+ [ CJ los ing fa ith in                                            [ CJ 对…… 失去信 心
+
+ [ DJ do i 吨 h a rm to                                             [ DJ 对……造成伤 害
+
+       ［精准定位］ 考查短 语所 在 句（ 第 二 段 ② 句 ） 指出 ，法国 新出台的 法令意在表 明 “美 不应由 最 终 …… 健
+康 的外 表来界定” ，且根据上文（ 第 一 段 及第 二 段 ① 句 ）可 知： 法令意在 叫 停 时尚业 定义的 “ 极瘦为 美 ”， 第
+  12
+```

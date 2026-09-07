@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P012",
+  "year": 2012,
+  "pdf_page": 12,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "末句罗森伯格观点“利用同侪压力积极作用展开社会治疗”不难推知［B］正确。",
+      "width": 0.6567796314035663,
+      "x": 0.0699152772537251,
+      "y": 0.9200581400095701
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013372092776828381,
+      "text": "1 But on the general effectiveness of the social",
+      "width": 0.4067796605233928,
+      "x": 0.14194914939932063,
+      "y": 0.886627907181872
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "但就社会治疗的总体效力而言，罗森伯",
+      "width": 0.32838981570178305,
+      "x": 0.6101695016653513,
+      "y": 0.8790849671465084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0117647058823529,
+      "text": "cure,Rosenberg is less persuasive.",
+      "width": 0.2966101551783904,
+      "x": 0.06991526510148273,
+      "y": 0.864705882367437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "②@Join the Club is",
+      "width": 0.17161016973830362,
+      "x": 0.3771186456605092,
+      "y": 0.8633720929363988
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "格就没那么有说服力了。《加入俱乐部》一",
+      "width": 0.36864407371928676,
+      "x": 0.5699152549623905,
+      "y": 0.8561046511340733
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012636806762296393,
+      "text": "filled with.",
+      "width": 0.09555189118130517,
+      "x": 0.06978904293727475,
+      "y": 0.8439612722187487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013185894411373744,
+      "text": "too much irrelevant detail and not enough",
+      "width": 0.38135592628071324,
+      "x": 0.16737289024947374,
+      "y": 0.8430232558858449
+    },
+    {
+      "confidence": 1,
+      "height": 0.01457098293927761,
+      "text": "书充斥着太多无关细节，却未能充分探究那",
+      "width": 0.36864407371928676,
+      "x": 0.5720338990301871,
+      "y": 0.8357558144320825
+    },
+    {
+      "confidence": 1,
+      "height": 0.013387292350818814,
+      "text": "exploration of the social and biological factors that make",
+      "width": 0.47881354994446274,
+      "x": 0.06991525368242983,
+      "y": 0.8209150327771444
+    },
+    {
+      "confidence": 1,
+      "height": 0.013351192973018455,
+      "text": "些促就同侪压力如此强大的社会和生物因",
+      "width": 0.3665254316257156,
+      "x": 0.5720338942653368,
+      "y": 0.8154069770384038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021794607125076637,
+      "text": "peer pressure so powerful. ⑧ The most glaring\" flaw of the",
+      "width": 0.4813550701578156,
+      "x": 0.06967902283669486,
+      "y": 0.7951095414771553
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "素。正如书中所揭示的那样，社会治疗最明",
+      "width": 0.3665254316257157,
+      "x": 0.5720338969746724,
+      "y": 0.7921511627329105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013087094998827098,
+      "text": "social cure as it's presented here is that it doesn't work very",
+      "width": 0.4788135499444627,
+      "x": 0.0699152529409044,
+      "y": 0.7790697676409322
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "显的缺陷是它不能长期运转良好。政府资",
+      "width": 0.36652540250588916,
+      "x": 0.572033911183496,
+      "y": 0.7703488369189571
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01332079320172086,
+      "text": "well for very long. ④ Rage Against the Haze failed once state",
+      "width": 0.4788135499444628,
+      "x": 0.07203389967466148,
+      "y": 0.7572674419323565
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601307189542478,
+      "text": "助一削减，“怒对烟雾”运动就失效。证实",
+      "width": 0.3665254316257156,
+      "x": 0.572033891738595,
+      "y": 0.749999999796864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014705882352941235,
+      "text": "funding",
+      "width": 0.06355932104678555,
+      "x": 0.0677966099215225,
+      "y": 0.73529411743736
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014705881729624615,
+      "text": "was cut. 5 Evidence that the loveLife program",
+      "width": 0.41313558680410606,
+      "x": 0.1377118745004891,
+      "y": 0.7352941179274401
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "“珍爱生命”活动产生持久变化的证据有限",
+      "width": 0.3707627158128578,
+      "x": 0.5699152568975964,
+      "y": 0.7294117649053455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013164994607563818,
+      "text": "produces lasting changes is limited and mixed.",
+      "width": 0.3622881183187471,
+      "x": 0.0699152674031264,
+      "y": 0.7150326795392947
+    },
+    {
+      "confidence": 1,
+      "height": 0.016625543980816726,
+      "text": "而且有好有坏。",
+      "width": 0.12940258288201478,
+      "x": 0.5719512520089506,
+      "y": 0.7060767629001115
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02046283647125835,
+      "text": "•词汇注释与难句分析•淡",
+      "width": 0.2605932104678554,
+      "x": 0.3771186511749705,
+      "y": 0.656862744822816
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015032679738562038,
+      "text": "①glaring ［'gleor］a. 明显的",
+      "width": 0.22245762366374938,
+      "x": 0.06991525842765915,
+      "y": 0.6320261435086723
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "①general effectiveness（整体效果）",
+      "width": 0.26906777884213984,
+      "x": 0.5317796721431955,
+      "y": 0.6320261440229773
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014688782286799817,
+      "text": "② probe ［prub］v. 探索，探究（第23题）",
+      "width": 0.3072033947660723,
+      "x": 0.06991524869747238,
+      "y": 0.6117647056357689
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014688782286799817,
+      "text": "②a glaring flaw（明显的缺陷）",
+      "width": 0.2351694907850892,
+      "x": 0.5317796597073343,
+      "y": 0.611764705631616
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013525297750834442,
+      "text": "• 经典搭配",
+      "width": 0.10604749199088294,
+      "x": 0.0677389667509619,
+      "y": 0.5869873515247275
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014601382710575206,
+      "text": "③lasting changes（持久的变化）",
+      "width": 0.24788135790642885,
+      "x": 0.5317796631283533,
+      "y": 0.5915032681335051
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01878870359433238,
+      "text": "•语篇分析。",
+      "width": 0.11905186048900807,
+      "x": 0.42776220572469603,
+      "y": 0.540024252951878
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352935,
+      "text": "第四至六段从“社会治疗效力”角度，转而批驳罗森伯格观点。",
+      "width": 0.5169491367485687,
+      "x": 0.10805085966243877,
+      "y": 0.5130718953765827
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "第四段指出“社会治疗总体效果良好”证据不足。关键词为：less persuasive。",
+      "width": 0.6313559262807131,
+      "x": 0.10805085024947388,
+      "y": 0.49127906991286907
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015997871698117727,
+      "text": "①句（段落主旨句）总括：罗森伯格在“社会治疗总体效力”问题上说服力不够。But 转承上段",
+      "width": 0.8389830261696386,
+      "x": 0.10593220524145212,
+      "y": 0.47093023299648873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "promising、a perceptive observer、argues convincingly 开启下文批驳（less persuasive） ； effectiveness“有效",
+      "width": 0.8728813579064288,
+      "x": 0.07203390604678535,
+      "y": 0.4503267971974112
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "性”预示作者欲从实效性角度指出罗森伯格观点的漏洞，就此可知作者完整观点：罗森伯格见解深邃、对",
+      "width": 0.875,
+      "x": 0.06991524548728825,
+      "y": 0.42732558119221287
+    },
+    {
+      "confidence": 1,
+      "height": 0.017736358268588215,
+      "text": "某些公共健康运动的评价十分准确、对公共健康运动倡导人的建议极具说服力，但其观点“利用同侪压",
+      "width": 0.875,
+      "x": 0.06991526074152529,
+      "y": 0.4052287582138916
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "力发挥社会治疗的强大作用“在实际中却难以达到预期效果，“社会治疗总体效果良好”证据不足。",
+      "width": 0.824152531514641,
+      "x": 0.06991526996831482,
+      "y": 0.3836601306246341
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "②③④⑤句从理论基础和现实收效分述。贬义词汇 too much irrelevant,not enough exploration，",
+      "width": 0.8411016682632096,
+      "x": 0.10593222512686959,
+      "y": 0.3633720929073291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01463938258052655,
+      "text": "the most glaring flaw, doesn't work very well for very long, limited and mixed 展示①句 less persuasive。",
+      "width": 0.877118642093571,
+      "x": 0.06991526399558723,
+      "y": 0.34156976786231497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "②句指出理论基础不牢：对同侪压力的作用机制探究不足。强对比（too much irrelevant detail",
+      "width": 0.8432203103567807,
+      "x": 0.1059322261351688,
+      "y": 0.31960784284753596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "VS not cnough exploration）以“书中无关细节过多”彰显“关键信息探索不够：未能深入研究同侪压",
+      "width": 0.8707627158128578,
+      "x": 0.07203389626729995,
+      "y": 0.29934640530166756
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "力发挥效力的社会、生物因素”的严重性，意在说明“社会治疗连同侪压力发挥作用的机制都尚未搞",
+      "width": 0.872881357906429,
+      "x": 0.07203390822898868,
+      "y": 0.27761627965346547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "清楚，何谈借助同侪压力发挥巨大治疗效果”，为下文介绍“同侪压力作用机制”埋伏笔；s0 powerful",
+      "width": 0.8792372841871422,
+      "x": 0.06991526353849097,
+      "y": 0.2555555556983252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "虽似照应首段末句 to help individuals...world，但却用以说明“同侪压力”而非“社会治疗”，再度明",
+      "width": 0.8728813579064288,
+      "x": 0.06991525256161608,
+      "y": 0.23398692811848365
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "示罗森伯格观点核心“社会治疗通过调动同侪压力的积极作用以发挥巨大治疗效果”。",
+      "width": 0.7605932104678554,
+      "x": 0.06991526631268229,
+      "y": 0.21220930247100855
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "③④⑤句指出现实情况不佳：治疗效果无法持久。",
+      "width": 0.4194915130848193,
+      "x": 0.10593220536437016,
+      "y": 0.19186046494221276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "③句直指缺陷：收效不好。glaring （［of sth bad］ very easily seen” ［负面的事物］显眼的”）以“显性”",
+      "width": 0.8411016682632096,
+      "x": 0.10805086919466621,
+      "y": 0.17124183032663498
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "反衬②句“隐性”，一反②句“深层问题”引出可见性缺陷，暗藏作者讽刺“新作旨在宣扬社会治疗的强大",
+      "width": 0.875,
+      "x": 0.06991524548728825,
+      "y": 0.14967320274464502
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "效力，结果却透露出极易发现的缺陷”之意；very 复现，强调“社会治疗效果不仅不好，而且持续性弱”。",
+      "width": 0.8538135208246362,
+      "x": 0.06991528060109985,
+      "y": 0.12790697662583672
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "④⑤句以“第二段所举社会治疗运动实例的效果”例证③句。failed、Evidence that... lasting changes",
+      "width": 0.8411016682632096,
+      "x": 0.10593220830483596,
+      "y": 0.10755813936081748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014669782351824145,
+      "text": "is limited and mixed 实则回应③句 doesn't work very well for very long，体现④⑤句与③句间例证关联。",
+      "width": 0.8792372841871421,
+      "x": 0.06779662313418294,
+      "y": 0.0856209149312096
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "④句说明“怒对烟雾”运动的效果：政府资助一撤就失效。once 虽表时间，实藏条件，暗示“政府资助",
+      "width": 0.8368643840760676,
+      "x": 0.10805086717806782,
+      "y": 0.06535947684895982
+    },
+    {
+      "confidence": 1,
+      "height": 0.011804604997821988,
+      "text": "12",
+      "width": 0.02330508486915181,
+      "x": 0.0847457628443789,
+      "y": 0.045058139796002594
+    }
+  ],
+  "vision_ocr_text": "末句罗森伯格观点“利用同侪压力积极作用展开社会治疗”不难推知［B］正确。\n1 But on the general effectiveness of the social\n但就社会治疗的总体效力而言，罗森伯\ncure,Rosenberg is less persuasive.\n②@Join the Club is\n格就没那么有说服力了。《加入俱乐部》一\nfilled with.\ntoo much irrelevant detail and not enough\n书充斥着太多无关细节，却未能充分探究那\nexploration of the social and biological factors that make\n些促就同侪压力如此强大的社会和生物因\npeer pressure so powerful. ⑧ The most glaring\" flaw of the\n素。正如书中所揭示的那样，社会治疗最明\nsocial cure as it's presented here is that it doesn't work very\n显的缺陷是它不能长期运转良好。政府资\nwell for very long. ④ Rage Against the Haze failed once state\n助一削减，“怒对烟雾”运动就失效。证实\nfunding\nwas cut. 5 Evidence that the loveLife program\n“珍爱生命”活动产生持久变化的证据有限\nproduces lasting changes is limited and mixed.\n而且有好有坏。\n•词汇注释与难句分析•淡\n①glaring ［'gleor］a. 明显的\n①general effectiveness（整体效果）\n② probe ［prub］v. 探索，探究（第23题）\n②a glaring flaw（明显的缺陷）\n• 经典搭配\n③lasting changes（持久的变化）\n•语篇分析。\n第四至六段从“社会治疗效力”角度，转而批驳罗森伯格观点。\n第四段指出“社会治疗总体效果良好”证据不足。关键词为：less persuasive。\n①句（段落主旨句）总括：罗森伯格在“社会治疗总体效力”问题上说服力不够。But 转承上段\npromising、a perceptive observer、argues convincingly 开启下文批驳（less persuasive） ； effectiveness“有效\n性”预示作者欲从实效性角度指出罗森伯格观点的漏洞，就此可知作者完整观点：罗森伯格见解深邃、对\n某些公共健康运动的评价十分准确、对公共健康运动倡导人的建议极具说服力，但其观点“利用同侪压\n力发挥社会治疗的强大作用“在实际中却难以达到预期效果，“社会治疗总体效果良好”证据不足。\n②③④⑤句从理论基础和现实收效分述。贬义词汇 too much irrelevant,not enough exploration，\nthe most glaring flaw, doesn't work very well for very long, limited and mixed 展示①句 less persuasive。\n②句指出理论基础不牢：对同侪压力的作用机制探究不足。强对比（too much irrelevant detail\nVS not cnough exploration）以“书中无关细节过多”彰显“关键信息探索不够：未能深入研究同侪压\n力发挥效力的社会、生物因素”的严重性，意在说明“社会治疗连同侪压力发挥作用的机制都尚未搞\n清楚，何谈借助同侪压力发挥巨大治疗效果”，为下文介绍“同侪压力作用机制”埋伏笔；s0 powerful\n虽似照应首段末句 to help individuals...world，但却用以说明“同侪压力”而非“社会治疗”，再度明\n示罗森伯格观点核心“社会治疗通过调动同侪压力的积极作用以发挥巨大治疗效果”。\n③④⑤句指出现实情况不佳：治疗效果无法持久。\n③句直指缺陷：收效不好。glaring （［of sth bad］ very easily seen” ［负面的事物］显眼的”）以“显性”\n反衬②句“隐性”，一反②句“深层问题”引出可见性缺陷，暗藏作者讽刺“新作旨在宣扬社会治疗的强大\n效力，结果却透露出极易发现的缺陷”之意；very 复现，强调“社会治疗效果不仅不好，而且持续性弱”。\n④⑤句以“第二段所举社会治疗运动实例的效果”例证③句。failed、Evidence that... lasting changes\nis limited and mixed 实则回应③句 doesn't work very well for very long，体现④⑤句与③句间例证关联。\n④句说明“怒对烟雾”运动的效果：政府资助一撤就失效。once 虽表时间，实藏条件，暗示“政府资助\n12",
+  "pdf_text_layer": "末句罗森伯格观点“利用同俯压力积极作用展开社会治疗”不难推知［ BJ 正确。\n\n\n       N fli But on the ge nera l eff ect iveness of the socia l        但就社会治疗的总体效力而言，罗森伯\ncure, Rosenberg is less persuasive. ＠ 臼 ］ oin th e Club is          格就没那么有说服力了 。《 加入俱乐部 》 －\nfill ed with too much irrelevant detail and not enough              书充斥着太多元关细节，却未能充分探究那\nexploratio 1 of the social a nd biological factors that make        些促就同济压力如此强大的社会和生物因\npeer press ure so powerful. @The most glaring<D flaw of the         素 。 正如书中所揭示的那样，社会治疗最明\n白ci a l cure as it ’ s presented here is that it doesn't work v凹Y   显的缺陷是它不能长期运转良好 。 政府资\nwell for ve ry long. 0 Rage Against the Haze fail ed once state     助一削减， “ 怒对烟雾”运动就失 效。 证实\nfunding was cut.     0 Evidence that the loveLife program           “ 珍 爱生命”活动产生持久变化的证据有限\nproduces l asti1「 g changes is limited and mixed.                   而且有好有坏 。\n\n\n\n\n                                        ：：：~：珩同时难句：分析：＜ 1'\n( glaring [ 1 gl ea rr1J］ α．明显的                           Ii ( general eff ectiveness （整体效果）\n( probe [ praub] v. 探索，探究（第 23 题）                         ！②a 川g fl川明显的缺陷 ）\n                                                           ~   CT) las时hanges （持久的变化）\n．经典搭配\n\n\n\n                                               ＞：：：棋协飞 4\n       第四至六段从“社会治疗效力”角度 ， 转而批驳罗森伯格观点。\n\n       第四段指出“社会治疗总体效果良好”证据不足。关键词为： less persuasive 。\n       ① 旬（段落主旨旬）总括：罗森伯格在“社会治疗总体效力”问题上说服力不够 。                                                        But 转承上段\nprom1 s mg 、 a percept ive observer, arg ues co nvin c ingly 开启下文批驳（ less pers uasive ) ; effectiveness “有效\n\n性”预示作者欲从实效性角度指出罗森伯格观点的漏洞，就此可知作者完整观点 ： 罗森伯格见解深邃、对\n某些公共健康运动 的评价十分准确、对公共健康运动倡导人的建议极具说服力，但其观点 “ 利用同侨 压\n力发挥社会治疗的强大作用”在实际中却难以达到预期效果，“社会治疗总体效果良好”证据不足 。\n       ②③④⑤ 旬从理论基础和现实收效分述。 贬义词汇 too much irrelevant , not 巳nou g h exp loration,\nthe most gla rin g fl aw, does n ' t work ve ry well for very long, limited and mixed 展示① 句 l ess p e r s u as i ve 。\n       ② 旬指出理论基础不牢：对同侨压力的作用机制探究不足。 强对比（ too much irrelevant detail\nVS not enough exp l oration ）以“书中无关细节过多”彰显“关键信息探索不够：未能深入研究同侨压\n力发挥效力的社会、生物因素”的严重性，意在说明“社会治疗连同侨压力发挥作用的机制都尚未搞\n清楚， 何谈借助同侨 压力发挥巨大治疗效果 ”，为下文介绍“同侨压力作用机制”埋伏笔； so powerfu l\n虽似照应首段末句 to help indi vidu als ... world ，但却用以说明“同侨压力 ” 而非“社 会治疗”，再度 明\n\n示罗森 伯格观点 核 心咋士 会治疗通 过调动同伤压力的积极作用以发挥 巨大治疗效果”。\n       ③④⑤ 旬指出现实情况不佳：治疗效果无法持久。\n       ③ 旬直指缺陆：收效不好。 glaring ( [ of sth bad] ver y eas il y seen“［负面的事物］显眼的”）以“血性”\n反衬②句“隐性”，一反 ② 句“深层问题”引出可见性缺陷，暗藏作者讽刺“新作旨在宣扬社会治疗的强大\n效力，结果却透露出极易发现的缺陷”之意 ； ve ry 复现，强调“社会治疗效果不仅不好，而且持续性弱”。\n       ④⑤ 旬以“第二段所举社会治疗运动实例的效果咱lj 证 ① 旬。 fail ed 、 Evidence that .. . lasting changes\nis limited and mixe d 实 则 回应③句 doesn ' t wo rk very well for very long ，体现④⑤句与③句间例证关联。\n       ④ 旬说明“怒对烟雾”运动的效果：政府资助一撤就失效。 once 虽表时间，实藏条件，暗示“政府资助\n\n  12",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 2083,
+    "pdf_text_character_count": 2676,
+    "nonempty": true
+  }
+}

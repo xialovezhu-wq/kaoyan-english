@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P020",
+  "year": 2019,
+  "pdf_page": 20,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016273440172274944,
+      "text": "．语篇分析",
+      "width": 0.10501874751641971,
+      "x": 0.43892531706030147,
+      "y": 0.9082876986129209
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "第二段介绍大学“成绩宽恕”政策的具体内容。关键词为：①allows； ②retake； ③the highest grade。",
+      "width": 0.8158458043426103,
+      "x": 0.11349036590150015,
+      "y": 0.880813953329063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "本段力and 连接的一个复合句，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句二中 the",
+      "width": 0.8436830487681442,
+      "x": 0.11563171745746954,
+      "y": 0.8632812499427225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013308502733707428,
+      "text": "most recent grade or the highest grade is the only one that counts 进一步明确分句一中 retake a course 的",
+      "width": 0.8800856577457713,
+      "x": 0.07494645348792825,
+      "y": 0.8457031250605282
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017668967445691464,
+      "text": "内涵：机会远远不止一次。可见该政策本质上是学校为学生开辟的“高分”绿色通道。注：旬中 count 不",
+      "width": 0.8800856577457713,
+      "x": 0.07494646708000503,
+      "y": 0.8241279073388712
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017684108267227883,
+      "text": "同于 calculate（计算、核算），作不及物动词用，意为 to be allowed or accepted”算数、有效、被接受”。",
+      "width": 0.8308350898025132,
+      "x": 0.07494648867476046,
+      "y": 0.8052325585016619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "【深层解读】“只计入最高分”的原则明确传达一种信号：受众范围不会只限于低分者（received a low",
+      "width": 0.845824375262416,
+      "x": 0.1113490613873501,
+      "y": 0.786337209276253
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "grade），而是会扩大至所有不满于自己成绩的学生，怂恿他们追逐这一政策福利，最终导致“分数膨胀”现",
+      "width": 0.8822269842400432,
+      "x": 0.07280514294421815,
+      "y": 0.7674418604602403
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969939,
+      "text": "象。故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细化解释。",
+      "width": 0.7987151923884357,
+      "x": 0.07494647783147806,
+      "y": 0.7470930236179409
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "_① The use of this little- known practice® has",
+      "width": 0.44111346283251857,
+      "x": 0.1177730386051537,
+      "y": 0.7180232563161055
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333326,
+      "text": "近些年来，随着大学不断竭尽所能让学",
+      "width": 0.3319057823371522,
+      "x": 0.6188436799413454,
+      "y": 0.7089843747251781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01326308151086164,
+      "text": "accelerated\" in recent years, as colleges continue to do their",
+      "width": 0.4839400220054582,
+      "x": 0.07494648326921934,
+      "y": 0.6976744186447179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "生留在学校（并支付学费）、提高毕业率，这",
+      "width": 0.37044965923404516,
+      "x": 0.5802997969086733,
+      "y": 0.6888020835955302
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458030504484964,
+      "text": "utmost to keep students in school （and paying tuition®） and",
+      "width": 0.4817986955111865,
+      "x": 0.0749464812326294,
+      "y": 0.6787790702090319
+    },
+    {
+      "confidence": 1,
+      "height": 0.017593265821536308,
+      "text": "种鲜为人知的做法开始加快推行。数十年",
+      "width": 0.37044965923404516,
+      "x": 0.5802997984611359,
+      "y": 0.6686046511324759
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329336191217112,
+      "text": "improve their graduation rates. ② When this practice first",
+      "width": 0.4860813484997301,
+      "x": 0.07280515112486725,
+      "y": 0.6598837211338167
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333326,
+      "text": "前该做法刚实行时，通常仅适用于大一新",
+      "width": 0.37044965923404505,
+      "x": 0.5802997955257326,
+      "y": 0.6510416667476902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "started decades ago, it was usually limited to freshmen®，to",
+      "width": 0.4839400220054582,
+      "x": 0.07494648326921934,
+      "y": 0.6393229168618342
+    },
+    {
+      "confidence": 1,
+      "height": 0.014640867089231957,
+      "text": "生，为的是在其向大学水平课程艰难过渡的",
+      "width": 0.36830833273977326,
+      "x": 0.5802997924554423,
+      "y": 0.632161458149203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327822171151638,
+      "text": "give them a second chance to take a class in their first year if",
+      "width": 0.48394002200545827,
+      "x": 0.07494648120283832,
+      "y": 0.6204427084046669
+    },
+    {
+      "confidence": 1,
+      "height": 0.014625726267695427,
+      "text": "过程中给予他们一次在第一学年重修课程",
+      "width": 0.37259098572831695,
+      "x": 0.5781584648660344,
+      "y": 0.6132812501293774
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "they struggled® in their transition® to college- level courses.",
+      "width": 0.4775160425226427,
+      "x": 0.07494647630291848,
+      "y": 0.6015624997340736
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "的机会。但现在，除许多知名院校外，多数",
+      "width": 0.37044965923404516,
+      "x": 0.5802997986270888,
+      "y": 0.5930232558872026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247940689325333,
+      "text": "⑧ But now most colleges, save for many selective®",
+      "width": 0.4775160425226427,
+      "x": 0.07708779917051309,
+      "y": 0.5826822918226913
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "大学允许所有本科生，甚至研究生得到低分",
+      "width": 0.37044965923404516,
+      "x": 0.5802997957398653,
+      "y": 0.5741279071155241
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "campuses, allow all undergraduates®，and even graduate",
+      "width": 0.4839400220054583,
+      "x": 0.07494647964680684,
+      "y": 0.5625000000176559
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01913759671151638,
+      "text": "“宽恕”。",
+      "width": 0.07708779040316471,
+      "x": 0.5760171316720794,
+      "y": 0.5520833330771588
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715577,
+      "text": "students, to get their low grades forgiven.",
+      "width": 0.33618843532569576,
+      "x": 0.07494646567048552,
+      "y": 0.5436046509303283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.2226980725542826,
+      "x": 0.38543897196697,
+      "y": 0.5084635415678858
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "①practice ［'prsektis］n. 通常的做法，惯例，常规",
+      "width": 0.3704496592340451,
+      "x": 0.07280515205678183,
+      "y": 0.48546511661164826
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013232800488670704,
+      "text": "⑦selective ［si'lektiv］a. 严格筛选的",
+      "width": 0.28051391718712504,
+      "x": 0.539614564554189,
+      "y": 0.48546511633730505
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01171875,
+      "text": "②accelerate ［ok'selareit］v.（使）加速，加快",
+      "width": 0.3340471088314239,
+      "x": 0.07494647117315302,
+      "y": 0.46940104172490205
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014550024022658703,
+      "text": "⑧ undergraduate ［Anda'grsedjoat］n. 大学本科生",
+      "width": 0.36830833273977337,
+      "x": 0.5396145703324687,
+      "y": 0.46656976755641566
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0118398734678824,
+      "text": "③tuition ［tju：'ijon］ n. 学费",
+      "width": 0.21199142543917193,
+      "x": 0.0749464749677801,
+      "y": 0.45182291694614196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013263852645953422,
+      "text": "• 经典搭配",
+      "width": 0.10497420122435819,
+      "x": 0.5417313156795238,
+      "y": 0.44903667839026873
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01458030504484975,
+      "text": "④freshnun［'frefmon］n.（美国中学或大学的）一年级学生",
+      "width": 0.41327621840698475,
+      "x": 0.0728051421705262,
+      "y": 0.43164062487935484
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126817221442821,
+      "text": "①do their utmost（尽全力，竭力）",
+      "width": 0.25267664347408825,
+      "x": 0.5396145669496083,
+      "y": 0.43023255806453375
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01326308151086164,
+      "text": "⑤struggle ［'strAgol］ v. 艰难地行进，吃力地进行",
+      "width": 0.37259098572831695,
+      "x": 0.0728051458082185,
+      "y": 0.4140624998553216
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011809593066573143,
+      "text": "②save （for）（除⋯ 之外）",
+      "width": 0.20985009894490003,
+      "x": 0.5417558953348304,
+      "y": 0.4140624996972575
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011900435512264607,
+      "text": "⑥transition ［treen'zijon］ n. 过渡",
+      "width": 0.25053531697981646,
+      "x": 0.07494647176705113,
+      "y": 0.3982558142274484
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01458030504484964,
+      "text": "•语篇分析。",
+      "width": 0.12205566874850049,
+      "x": 0.43468951160005376,
+      "y": 0.369140624985944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186008969939,
+      "text": "第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为：①improve their graduation",
+      "width": 0.8436830487681442,
+      "x": 0.11349038315340108,
+      "y": 0.34156976745515033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314195742209745,
+      "text": "rates； ② usually limited to freshmen。",
+      "width": 0.2997858556355716,
+      "x": 0.07494647560833832,
+      "y": 0.32552083330455106
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969939,
+      "text": "①句概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。this little-known practice 暗合",
+      "width": 0.8415417222738724,
+      "x": 0.11349039103115778,
+      "y": 0.3037790701731735
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "首段②句 a policy often buried deep in course catalogs，重申“成绩宽恕”这一政策的“潜规则”性质，而这",
+      "width": 0.8800856577457713,
+      "x": 0.07494647182304566,
+      "y": 0.2863372093004778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "与其“愈演愈烈的现状（has accelerated in recent years）”反差鲜明，凸显写作意图：引起大众对这一政策",
+      "width": 0.8800856577457713,
+      "x": 0.07494647077532478,
+      "y": 0.26744186045115603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "的关注与思考。as 引出现状背景/原因，continue to do their utmost 展现大学的“不渝”与“尽瘁”，而对象",
+      "width": 0.8800856577457713,
+      "x": 0.07494647182304566,
+      "y": 0.24854651160183439
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "keep students in school 以及 improve their graduation rates 却尽显讽刺：完全无关教育、科研本身，括号内",
+      "width": 0.8822269842400432,
+      "x": 0.07280514478219108,
+      "y": 0.22965116312327594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "and paying tuition 更是曝光其意图：追逐高额学费。注：新生保留率（keep students in school）是指大一新",
+      "width": 0.8822269842400431,
+      "x": 0.07280513007840823,
+      "y": 0.21075581414071787
+    },
+    {
+      "confidence": 1,
+      "height": 0.017692169174551964,
+      "text": "生次年返校上大二的比例，也是判断新生对学校满意程度的重要参考。",
+      "width": 0.6018824952577675,
+      "x": 0.07272545462525766,
+      "y": 0.1903703618651602
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017729529490073448,
+      "text": "②③句昔今对比讲述政策“变形记”。两句以时间状语 decades ago VS now 以及转折词 But 体现政策",
+      "width": 0.8415417222738724,
+      "x": 0.11349037862751782,
+      "y": 0.17122395851989258
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "前后变化，同时回应①句具化强调政策现状。",
+      "width": 0.3832976474871791,
+      "x": 0.07280513387953681,
+      "y": 0.15406976731162114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164223313332,
+      "text": "②句回顾政策初衷：为大一新生量身定制。usually limited to freshmen 与“政策加速滥用”的语境对",
+      "width": 0.8415417222738724,
+      "x": 0.11349038924850267,
+      "y": 0.1351744189517644
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "比鲜明，to give them a second chance. ..具体解释政策目的：为新生提供缓冲，助其适应大学生活和学",
+      "width": 0.8800856577457713,
+      "x": 0.07494647077532478,
+      "y": 0.11627906975348168
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "习；if they struggled... 借“假设”外壳补充新生需要帮扶/出台政策的深层原因，struggle（意力“艰难、吃",
+      "width": 0.8822269842400432,
+      "x": 0.07280512860802991,
+      "y": 0.09738372079999325
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "力地前行”）形象展现“新生过渡期之苦”，侧面突显政策的必要性。",
+      "width": 0.5610278343742502,
+      "x": 0.0728051476415685,
+      "y": 0.07848837195188274
+    },
+    {
+      "confidence": 1,
+      "height": 0.01171875,
+      "text": "20",
+      "width": 0.023554604250272726,
+      "x": 0.0877944325857844,
+      "y": 0.06249999976935727
+    }
+  ],
+  "vision_ocr_text": "．语篇分析\n第二段介绍大学“成绩宽恕”政策的具体内容。关键词为：①allows； ②retake； ③the highest grade。\n本段力and 连接的一个复合句，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句二中 the\nmost recent grade or the highest grade is the only one that counts 进一步明确分句一中 retake a course 的\n内涵：机会远远不止一次。可见该政策本质上是学校为学生开辟的“高分”绿色通道。注：旬中 count 不\n同于 calculate（计算、核算），作不及物动词用，意为 to be allowed or accepted”算数、有效、被接受”。\n【深层解读】“只计入最高分”的原则明确传达一种信号：受众范围不会只限于低分者（received a low\ngrade），而是会扩大至所有不满于自己成绩的学生，怂恿他们追逐这一政策福利，最终导致“分数膨胀”现\n象。故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细化解释。\n_① The use of this little- known practice® has\n近些年来，随着大学不断竭尽所能让学\naccelerated\" in recent years, as colleges continue to do their\n生留在学校（并支付学费）、提高毕业率，这\nutmost to keep students in school （and paying tuition®） and\n种鲜为人知的做法开始加快推行。数十年\nimprove their graduation rates. ② When this practice first\n前该做法刚实行时，通常仅适用于大一新\nstarted decades ago, it was usually limited to freshmen®，to\n生，为的是在其向大学水平课程艰难过渡的\ngive them a second chance to take a class in their first year if\n过程中给予他们一次在第一学年重修课程\nthey struggled® in their transition® to college- level courses.\n的机会。但现在，除许多知名院校外，多数\n⑧ But now most colleges, save for many selective®\n大学允许所有本科生，甚至研究生得到低分\ncampuses, allow all undergraduates®，and even graduate\n“宽恕”。\nstudents, to get their low grades forgiven.\n•词汇注释与难句分析•\n①practice ［'prsektis］n. 通常的做法，惯例，常规\n⑦selective ［si'lektiv］a. 严格筛选的\n②accelerate ［ok'selareit］v.（使）加速，加快\n⑧ undergraduate ［Anda'grsedjoat］n. 大学本科生\n③tuition ［tju：'ijon］ n. 学费\n• 经典搭配\n④freshnun［'frefmon］n.（美国中学或大学的）一年级学生\n①do their utmost（尽全力，竭力）\n⑤struggle ［'strAgol］ v. 艰难地行进，吃力地进行\n②save （for）（除⋯ 之外）\n⑥transition ［treen'zijon］ n. 过渡\n•语篇分析。\n第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为：①improve their graduation\nrates； ② usually limited to freshmen。\n①句概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。this little-known practice 暗合\n首段②句 a policy often buried deep in course catalogs，重申“成绩宽恕”这一政策的“潜规则”性质，而这\n与其“愈演愈烈的现状（has accelerated in recent years）”反差鲜明，凸显写作意图：引起大众对这一政策\n的关注与思考。as 引出现状背景/原因，continue to do their utmost 展现大学的“不渝”与“尽瘁”，而对象\nkeep students in school 以及 improve their graduation rates 却尽显讽刺：完全无关教育、科研本身，括号内\nand paying tuition 更是曝光其意图：追逐高额学费。注：新生保留率（keep students in school）是指大一新\n生次年返校上大二的比例，也是判断新生对学校满意程度的重要参考。\n②③句昔今对比讲述政策“变形记”。两句以时间状语 decades ago VS now 以及转折词 But 体现政策\n前后变化，同时回应①句具化强调政策现状。\n②句回顾政策初衷：为大一新生量身定制。usually limited to freshmen 与“政策加速滥用”的语境对\n比鲜明，to give them a second chance. ..具体解释政策目的：为新生提供缓冲，助其适应大学生活和学\n习；if they struggled... 借“假设”外壳补充新生需要帮扶/出台政策的深层原因，struggle（意力“艰难、吃\n力地前行”）形象展现“新生过渡期之苦”，侧面突显政策的必要性。\n20",
+  "pdf_text_layer": "：＞：：语：毒分析：：＜ ；／\n       第二段介绍大学“成绩宽恕”政策的具体内容。关键词为： ① allows ； ② retake ； ③ the highest grade。\n       本段为 a nd 连接的 一 个 复合句 ，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句 二 中 the\nmost recent gr ade or the highest grade is th e only on巳 that counts 进 一 步明确分句 一 中 retake a course 的\n内 涵 ：机 会远远不 止 一次。 可见 i京 政策本质上 是学 校为学生开辟的“高分”绿色通道 。 注：句中 co unt 不\n同 于 ca lcul ate （ 计 算 、核算），作不及物动词用，意为 to be a llowed or accepte d“ 算数 、有效、被接 受”。\n       【深层解读】 “只 计入 最高 分”的原则明确传达 一 种信号： 受众 范围不 会只 限 于 低分者（ received a low\ngrade ）， 而 是会扩大至 所有不满于自己成绩的 学生 ，怂恿他们追逐这 一 政策福利，最终导致“分数膨胀”现\n象 。 故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细 化解释 。\n\n       皿   0 T he     use of this li tt le- known practice(         has\n                                                                              近些年来，随着大学不断竭尽所能让学\naccelerakd( in recent yea rs, as colleges continue to do their\n                                                                          生留在学校（并支付学费〉、提高毕业率，这\nutmost to keep students in school ( and paying tuition® ) and\n                                                                          种鲜为人知的做法开始加快推行 。 数十年\nimprove their g rad uation rates. @ When th is practice first\n                                                                          前该做法刚实行时，通常仅适用于大一新\nstar ted decades ago, it was usually limit:“         to freshmen® , to\n                                                                          生，为的是在其向大学水平课程艰难过渡的\ngive them a second chance to take a class in t heir first year if\n                                                                          过程中给予他们一次在第一学年重修课程\nthey struggledφ i n their transition® to college- level courses.\n                                                                          的机会 。 但现在，除许多知名院校外，多数\n@ But      now    most       coll eges,   save for   many selective①\n                                                                          大学允许所有本科生，甚至研究生得到低分\ncampuses, allow all undergraduates® , and even grad uate\n                                                                          “宽恕” 。\nst udents, to get their low grades forg iven.\n\n\n                                              ： ·附注释当时穿插＜ 1'\n( prat:“ ce [ 1prrekt1s] n . 通常的做法，惯例，常规                        $    ( selective [s 11lekt1v ］ α ．严格筛选的\n( accelerate [ a k 1se!are1t ］队（ 使 ） 加 速，加快                     >    ® undergraduate [ Anda' grredjuat] n. 大学本科生\n( tuition [ tj u:11fan］ η． 学费                                   < ·经典搭配\n( freshman [ 'frefman] 11. C美国 中学或大学 的 ）一年级学生                   ? ( do their u tmost （尽全力，竭力）\n( struggle [ 'strAgal] v. 艰难 地行进，吃力 地 进行                        ; ( save (fo r)   C l徐……之外）\n® transition [ trren'z1fan ］ π 过渡                               $\n                                                      ； ·．语篇分析···. ：：： i/\n       第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为 ： ① improve their graduation\nrates ; ( usually limited to f，咽hmen 。\n       ① 旬概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。 this little kno w n practice 暗合\n首段 ② 句 a po li cy o ft en buri ed deep in co urse c a talogs ，重申“成绩宽恕”这 一 政策的“潜规则”性质，而这\n与其“愈演 愈烈的现状（ has acce lerat ed in recent years）”反差鲜明，凸显写作意图：引起大众对这 一 政策\n的 关注与思考 。 as 引出现状背景／原因， cont inu e to do their utmo s t 展现大 学的“不渝”与“尽瘁”， 而对 象\nkeep s tudents in sc hool 以及 impro ve t heir grad uation rates 却尽显讽刺 ： 完全无关教育、科研本身，括号内\nand paying tuition 更是曝光其 意图 ：追逐 高额学费。 注：新生保留率（ keep students in school) 是指大 一新\n生次年返校上大二 的比例，也 是 判断新 生对学校满意 程度的重要 参考。\n       ②③ 旬昔今对比讲述政策“变形记”。两旬以时间状语 decades ago VS now 以及转折词 But 体现政策\n前后变化，同时回应 ① 旬具化强调政策现状。\n       ② 旬回顾政策初衷：为大一新生 量 身定制。 usually limited to fr es hm e n 与“政策 加速滥用”的 语境对\n比鲜明， to g ive them a second chance .. .具 体解释政策目的：为新生提供缓冲，助其适应大学生活和学\n习； i f t hey s tru ggled .      借“假设”外壳补充新生需要帮扶 ／ 出台政策的深层原因， struggle （ 意为“ 艰难、吃\n力 地前 行”）形象展 现“新生过班期之 苦”， 侧面突显政策的必要性 。\n  20",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2408,
+    "pdf_text_character_count": 3711,
+    "nonempty": true
+  }
+}

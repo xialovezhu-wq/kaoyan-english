@@ -1,0 +1,494 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P016",
+  "year": 2019,
+  "pdf_page": 16,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01976991663389438,
+      "text": "②句介绍法国举措：增加长期投资者的表决权。hold onto... investment for at least two years 指向",
+      "width": 0.8421170172563458,
+      "x": 0.11100881313111076,
+      "y": 0.913524474095717
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "“长期投资”；can earn more voting rights 指向“更大权益”，即：以增加投票权为诱，鼓励长期投资行为。",
+      "width": 0.867521322549988,
+      "x": 0.07051283215449342,
+      "y": 0.8968023256607216
+    },
+    {
+      "confidence": 1,
+      "height": 0.017604832854389074,
+      "text": "【深层解读】第五、六两段分别举例，看似松散，对此结构需：",
+      "width": 0.5,
+      "x": 0.11111111527777771,
+      "y": 0.8748370275435133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019517879908834024,
+      "text": "1. 抓取句群核心信息：Much more could be done to encourage “long-termism”在第五、六段处于核心",
+      "width": 0.8442292779798252,
+      "x": 0.11100482385732144,
+      "y": 0.855812261559074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "地位：承上启下兼段群主旨。即：两段以 In the US...helping reduce “short-termism.”.•. Much more",
+      "width": 0.8846153756211087,
+      "x": 0.07264956608901861,
+      "y": 0.8386627905056259
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "could be done to encourage “long-termism，”...In France. ..衔接，明线在于“美法两国”，暗线在于“如何",
+      "width": 0.8846153756211088,
+      "x": 0.07051281395226643,
+      "y": 0.8197674418307798
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "削弱短期主义、鼓励长期主义”。",
+      "width": 0.26923075124221746,
+      "x": 0.0747863360241904,
+      "y": 0.7992177311585329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01765220883306029,
+      "text": "2.明晰两段方向差异：两段虽同关注“如何削弱短期主义”，但美国法案核心在于“优化高管新资结",
+      "width": 0.8440170580399904,
+      "x": 0.11111113512835637,
+      "y": 0.7803129074341666
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "构”，而法国举措核心在于“鼓励长期投资行为”。",
+      "width": 0.4102563967649964,
+      "x": 0.07478633563459575,
+      "y": 0.7614080836876898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "3.推理 slightly 与 substantial 的一致：substantial 强调法案已使得美国高管大部分薪酬与业绩挂钩",
+      "width": 0.8440170580399905,
+      "x": 0.11111111854944947,
+      "y": 0.7411994783786024
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "（即，使高管更关注较长期的绩效、避免不负责任的有害冒险），slightly 指出法案对于遏制短期主义效果",
+      "width": 0.8824786189872186,
+      "x": 0.0726495756292541,
+      "y": 0.7222946542366473
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "有限（原因有多方面，有法案自身的不足，如奖金推迟期限仅为一年，也有其他因素，如短期主义问题本",
+      "width": 0.8803418623533286,
+      "x": 0.0747863425840194,
+      "y": 0.7033898303066022
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "身复杂）；作者实则在借这组看似矛盾、实则统一的词汇实现其“肯定法案、建议借鉴；同时引出更多的建",
+      "width": 0.8803418623533285,
+      "x": 0.07478632644441847,
+      "y": 0.6844850067088187
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "议、更有效的方法”的写作意图。",
+      "width": 0.2713675078761075,
+      "x": 0.07478633424570688,
+      "y": 0.664244185959841
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015616818543674138,
+      "text": "•真题精解",
+      "width": 0.10288362028041564,
+      "x": 0.4357376780634691,
+      "y": 0.6389939163785276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011923531354483874,
+      "text": "24.",
+      "width": 0.04059828834972162,
+      "x": 0.0854700872710081,
+      "y": 0.610169491555109
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013689700130378069,
+      "text": "The US and France examples are",
+      "width": 0.36111111111111105,
+      "x": 0.13034188636039867,
+      "y": 0.6101694916993037
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011923531976175128,
+      "text": "used",
+      "width": 0.03846153902368066,
+      "x": 0.508547008372775,
+      "y": 0.6101694915066594
+    },
+    {
+      "confidence": 1,
+      "height": 0.011923531976175017,
+      "text": "to",
+      "width": 0.021367520664843598,
+      "x": 0.5662393168043303,
+      "y": 0.6101694914678999
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "24. 美国和法国的例子被用来说",
+      "width": 0.341880330637497,
+      "x": 0.6025641053650123,
+      "y": 0.6088657105019477
+    },
+    {
+      "confidence": 1,
+      "height": 0.012593388712856868,
+      "text": "illustrate",
+      "width": 0.0772259810875202,
+      "x": 0.08318188201863068,
+      "y": 0.5910870266416084
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395175342014,
+      "text": "明",
+      "width": 0.01923076951184033,
+      "x": 0.6047008547205756,
+      "y": 0.5915697675891701
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008720930116894676,
+      "text": "。",
+      "width": 0.012820512398906136,
+      "x": 0.6837606841317435,
+      "y": 0.5901162792002735
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014625844619731043,
+      "text": "［A］ the obstacles to preventing “short-termism”",
+      "width": 0.4123931533988865,
+      "x": 0.08547009684044259,
+      "y": 0.5668604656136942
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014625845241422297,
+      "text": "［A］制止“短期主义”的障碍",
+      "width": 0.24145298808013793,
+      "x": 0.602564102238421,
+      "y": 0.5668604653229965
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013212152379121767,
+      "text": "LB」 the significance of long-term thinking",
+      "width": 0.3525640845755508,
+      "x": 0.08547009799000234,
+      "y": 0.5391134289730841
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014665640317476747,
+      "text": "［B］长线思维的重要性",
+      "width": 0.20085469973041636,
+      "x": 0.6025641056369285,
+      "y": 0.5391134292190229
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013124980702704847,
+      "text": "［C］ the approaches to promoting",
+      "width": 0.28205126181416124,
+      "x": 0.08333334815274827,
+      "y": 0.5130378099324467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015754562934965022,
+      "text": "“long-termism”",
+      "width": 0.13488832378752846,
+      "x": 0.36524814721757737,
+      "y": 0.5124715559106502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "［C］增进“长期主义”的方法",
+      "width": 0.23931623144624792,
+      "x": 0.6025641055375598,
+      "y": 0.5116279070753933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013231102770590253,
+      "text": "［D］ the prevalence of short-term thinking",
+      "width": 0.3525640845755508,
+      "x": 0.08547009740239553,
+      "y": 0.4854651164021546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "［D］短线思维的盛行",
+      "width": 0.18162393387250064,
+      "x": 0.6025640994366129,
+      "y": 0.4837027376426766
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "［精准定位］第五段指出，美国施行《萨班斯一奥克斯利法案》使得短期主义稍有削弱。第六段则先",
+      "width": 0.8440170580399904,
+      "x": 0.1111111206594922,
+      "y": 0.4576271189472997
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "指出鼓励长期主义的方法还有很多，随后例举法国举措。综合可知，文中举美国和法国事例是为了说明",
+      "width": 0.8803418623533286,
+      "x": 0.07478633442162634,
+      "y": 0.4374185134552582
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "“削弱短期主义，增进长期主义的方法”，［C］正确。",
+      "width": 0.4273504206047204,
+      "x": 0.07051281865063133,
+      "y": 0.41851368999044325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "［命题解密］［C］中 promoting “long-termism”同义 helping reduce “short-termism. ”、encourage “long",
+      "width": 0.8482905713077706,
+      "x": 0.11111113520615715,
+      "y": 0.3996088655771133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019035239263183845,
+      "text": "termism，”体现两国举措的共同目的。",
+      "width": 0.3274229787775383,
+      "x": 0.0724435055213124,
+      "y": 0.3792598251918806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "［AJobstacles 一词无中生有，文中并未提及美国和法国在遏制短期主义过程中遇到了阻碍。［B］、",
+      "width": 0.8461538146738805,
+      "x": 0.11324788744938435,
+      "y": 0.36046511619239907
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "［D］两项中“长线思维重要、而短线思维盛行”为第二至四段所述事实，但第五、六段已经进入新的意群，",
+      "width": 0.8846153756211087,
+      "x": 0.07264958451850537,
+      "y": 0.3415697673769921
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016308632170516812,
+      "text": "重在针对该事实说明“增进长期主义的方法（集中体现于..helping reduce “short-termism.”",
+      "width": 0.8055555555555556,
+      "x": 0.07478633284188022,
+      "y": 0.3226744186342595
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "..Much",
+      "width": 0.08333333333333337,
+      "x": 0.8739316230982905,
+      "y": 0.32267441879198866
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017673526624657265,
+      "text": "more could be done to encourage “long-termism，”...）。",
+      "width": 0.4703794749760536,
+      "x": 0.07467969441651287,
+      "y": 0.30350307897257744
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "［技巧总结］本题就美国、法国实例（跨越两段）设置写作目的题，正确项既要体现事例主要内容、又",
+      "width": 0.8440170580399904,
+      "x": 0.11111113753983376,
+      "y": 0.2834302325296084
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860233789352,
+      "text": "要契合事例所在意群的主旨。选项中唯有［C］体现美国做法“推迟高管绩效奖金/避免追求短期业绩的",
+      "width": 0.8803418623533286,
+      "x": 0.07478634111678295,
+      "y": 0.2630813955614
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "行为”及法国做法“给予长期投资者奖励/鼓励长期投资行为”；且契合 Much more could be done to",
+      "width": 0.8846153756211087,
+      "x": 0.07478633222149692,
+      "y": 0.2441860464092681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01879936277944072,
+      "text": "encourage “long-termism，”所体现的意群主旨。",
+      "width": 0.4019870392664182,
+      "x": 0.07255309080063556,
+      "y": 0.22521931621317348
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "MI O Within companies, the right compensation” design",
+      "width": 0.4423076878105544,
+      "x": 0.11538462316203038,
+      "y": 0.19476744220041897
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458604892198545,
+      "text": "在企业内部，合理的薪酬设计可以对高",
+      "width": 0.33119657669944325,
+      "x": 0.6196581260466457,
+      "y": 0.187500000376291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013092765285884878,
+      "text": "can provide incentives”for executives to think beyond their",
+      "width": 0.4829059761602759,
+      "x": 0.07478632011074544,
+      "y": 0.17731421125042945
+    },
+    {
+      "confidence": 1,
+      "height": 0.014576574347942461,
+      "text": "管形成激励，使其会考虑自己任期之后的情",
+      "width": 0.3696581084152748,
+      "x": 0.5790598300605251,
+      "y": 0.16860465139373293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181297,
+      "text": "own time at the company and on behalf of all stakeholders.",
+      "width": 0.47863246289249584,
+      "x": 0.07478634063352393,
+      "y": 0.15840938707329133
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "形，并努力代表所有股东的利益。英国的新",
+      "width": 0.3717948650491648,
+      "x": 0.5790598361506312,
+      "y": 0.14797913960630749
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111715677353364,
+      "text": "② Britain's new rule is a reminder®to bankers that society",
+      "width": 0.48076921952638596,
+      "x": 0.07692308855411459,
+      "y": 0.1395045633238351
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "规是对银行家的一项警示：他们的表现与社",
+      "width": 0.3717948650491649,
+      "x": 0.5790598333301182,
+      "y": 0.12907431531173597
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013147721545481827,
+      "text": "has an interest in their performance, not just for the short",
+      "width": 0.48290597616027603,
+      "x": 0.07478633164920663,
+      "y": 0.11918604638035224
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "会利害相关，不仅从短期来看是如此，从长",
+      "width": 0.3696581084152748,
+      "x": 0.5790598332068925,
+      "y": 0.11016949127879239
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181297,
+      "text": "term but for the long term. ［437 words］",
+      "width": 0.3290598200655531,
+      "x": 0.07478632599286449,
+      "y": 0.10169491555739218
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "期来看也是如此。",
+      "width": 0.15170939946083273,
+      "x": 0.5790598314483585,
+      "y": 0.09126466783477949
+    },
+    {
+      "confidence": 1,
+      "height": 0.011815514993481102,
+      "text": "16",
+      "width": 0.02350427364480906,
+      "x": 0.08760683777695444,
+      "y": 0.06249999972452969
+    }
+  ],
+  "vision_ocr_text": "②句介绍法国举措：增加长期投资者的表决权。hold onto... investment for at least two years 指向\n“长期投资”；can earn more voting rights 指向“更大权益”，即：以增加投票权为诱，鼓励长期投资行为。\n【深层解读】第五、六两段分别举例，看似松散，对此结构需：\n1. 抓取句群核心信息：Much more could be done to encourage “long-termism”在第五、六段处于核心\n地位：承上启下兼段群主旨。即：两段以 In the US...helping reduce “short-termism.”.•. Much more\ncould be done to encourage “long-termism，”...In France. ..衔接，明线在于“美法两国”，暗线在于“如何\n削弱短期主义、鼓励长期主义”。\n2.明晰两段方向差异：两段虽同关注“如何削弱短期主义”，但美国法案核心在于“优化高管新资结\n构”，而法国举措核心在于“鼓励长期投资行为”。\n3.推理 slightly 与 substantial 的一致：substantial 强调法案已使得美国高管大部分薪酬与业绩挂钩\n（即，使高管更关注较长期的绩效、避免不负责任的有害冒险），slightly 指出法案对于遏制短期主义效果\n有限（原因有多方面，有法案自身的不足，如奖金推迟期限仅为一年，也有其他因素，如短期主义问题本\n身复杂）；作者实则在借这组看似矛盾、实则统一的词汇实现其“肯定法案、建议借鉴；同时引出更多的建\n议、更有效的方法”的写作意图。\n•真题精解\n24.\nThe US and France examples are\nused\nto\n24. 美国和法国的例子被用来说\nillustrate\n明\n。\n［A］ the obstacles to preventing “short-termism”\n［A］制止“短期主义”的障碍\nLB」 the significance of long-term thinking\n［B］长线思维的重要性\n［C］ the approaches to promoting\n“long-termism”\n［C］增进“长期主义”的方法\n［D］ the prevalence of short-term thinking\n［D］短线思维的盛行\n［精准定位］第五段指出，美国施行《萨班斯一奥克斯利法案》使得短期主义稍有削弱。第六段则先\n指出鼓励长期主义的方法还有很多，随后例举法国举措。综合可知，文中举美国和法国事例是为了说明\n“削弱短期主义，增进长期主义的方法”，［C］正确。\n［命题解密］［C］中 promoting “long-termism”同义 helping reduce “short-termism. ”、encourage “long\ntermism，”体现两国举措的共同目的。\n［AJobstacles 一词无中生有，文中并未提及美国和法国在遏制短期主义过程中遇到了阻碍。［B］、\n［D］两项中“长线思维重要、而短线思维盛行”为第二至四段所述事实，但第五、六段已经进入新的意群，\n重在针对该事实说明“增进长期主义的方法（集中体现于..helping reduce “short-termism.”\n..Much\nmore could be done to encourage “long-termism，”...）。\n［技巧总结］本题就美国、法国实例（跨越两段）设置写作目的题，正确项既要体现事例主要内容、又\n要契合事例所在意群的主旨。选项中唯有［C］体现美国做法“推迟高管绩效奖金/避免追求短期业绩的\n行为”及法国做法“给予长期投资者奖励/鼓励长期投资行为”；且契合 Much more could be done to\nencourage “long-termism，”所体现的意群主旨。\nMI O Within companies, the right compensation” design\n在企业内部，合理的薪酬设计可以对高\ncan provide incentives”for executives to think beyond their\n管形成激励，使其会考虑自己任期之后的情\nown time at the company and on behalf of all stakeholders.\n形，并努力代表所有股东的利益。英国的新\n② Britain's new rule is a reminder®to bankers that society\n规是对银行家的一项警示：他们的表现与社\nhas an interest in their performance, not just for the short\n会利害相关，不仅从短期来看是如此，从长\nterm but for the long term. ［437 words］\n期来看也是如此。\n16",
+  "pdf_text_layer": "② 旬介绍法国举措：增加长期投资者的表决权。 ho l d onto . . . inves tment for a t least t wo yea rs 指 向\n“ 七己其lj 投资” ； ca n ea rn mo re vo ting ri gh t s 指向 “更大权益 ” ， 即 ： 以 增 加｜ 投票权为诱，鼓 励伏期 投资 行 为 。\n        【深层解读】第五、六两段分别举例，看似松散，对此结构需：\n        1. 抓取旬群核心信息 ： Mu c h more co uld be done to enco urage “ l o n g- te rmi s m”在第五 、 六段 处 于核 心\n地位 ： 承上启 F 兼段群主旨 。 即 ： 两 段 以 In th e US ... helping reduce “ s hort-term ism. ” ... Mu ch more\nco uld be clone to encourage “ lo ng- te rm ism , ” .. . In Fra nce . . .衔 接， 明 线在于“美法 两 国” ，暗 线在于“ 如何\n削弱短 期 主义 、 鼓 励 长期主义”。\n        2 . 明晰两段方向差异 ：两 段虽 同 关注“ 如何削 弱短 期 主 义”， 但美国法案核 心在 于 “优化 高管 薪 资结\n构”， 而 法国举措核 心 在于“鼓 励 长 期 投资行为 ” 。\n        3 . 推理 slightly 与 substantial 的一致： s ub s t a nti a l 强调法案已使得美国 高营 大部分薪 酬 与业绩挂钩\n（ 即 ，使高管更关注较长期 的 绩效 、 避 免不负责 任的 有害冒 险 ） , s l i ghtl y 指出 法 案 对于遏制短期主义效果\n有限 （原因有多方面，有法案自身 的 不足， 如 奖金 推迟期限仅为 一年 ，也 有其 他 因素 ，如 短 期 主 义问 题本\n身复杂） ；作者实 则 在借这组看 似 矛盾、实 则 统一 的词 汇实 现 其“ 肯定 法案 、 建 议借 鉴 ；同时引出更 多 的 建\n议、更有效的 方 法 ” 的 写作意 ｜型 。\n\n                                                      ： ：~：：：事理需露：：：~：：： ；／\n 24 .      The     us     and    F rance     examples      a re   used     to   24. 美 国和法国的例子被用来说\n illustrate                                                                      日月         。\n\n\n\n\n [ A] t he obs tac les to prevent ing “ short- term is m ”                       [A］ 制止 “短 期 主义” 的 障碍\n\n [ BJ t he s ig nifi cance of long- te rm t hinking                              [BJ 长线思维 的 重要 性\n\n [ CJ t he app roaches to promoting “ long- termi sm ”                           [CJ 增进“长期主义 ”的 方法\n\n [ DJ t he preva lence of s hort- term t hinkin                                  [ DJ 短线思维 的 盛行\n\n        ［精准定位］ 第五段指 出 ，美国 施行《萨 班 斯一奥克斯 利 法案》使 得短 期 主义稍有 削 弱。第六段 则 先\n指 出 鼓 励 长 期 主义 的 方法 还 有 很 多， 随 后 例 举法国举 措 。综合 可知｜ ，文 中 举美国 和｜ 法国事 例 是为了 说明\n“ 削 弱短 JVJ 主义、增 进 长 期 主 义的 方法” ， ［ CJ 正确 。\n        ［命题解密］ ［ CJ 中 p ro mo t i n g “ l o ng- t e rm i s m ”同义 h el ping r edu ce “ s ho rt- t e rm i sm . ”、巳nco u rage “ l o n g\nt e r mism ，”体现两国举措的共 同 目 的 。\n        [ A] o b stac l es 一 词无 中 生有，文 中 并未提及美国 和 法国在遏 制 短 期 主义 过 程 中遇到了阻 碍 。［ 町 、\n[ DJ 两项中“长线思维重要 、而 短线思维盛行 ” 为第二至 四段所述 事实 ，但 第五 、 六段已经 进 入新 的 意群，\n重在针 对该 事实 说明“增 进 长 期 主义 的 方法（集 中体现 于 . . . helping reduce “ s hort- termi sm. ” . .. Much\nmore cou ld be clone to e n co urage “ l o n g- te rmi s m ， ”． ． ． ）。\n        ［技巧总结］ 本题就美国、法国实 例 （跨越 两 段〉设置写 作 目 的 题，正确项 既 要 体现 事 例 主要 内 容 、 又\n要契合事 例所在意群 的 主旨 。 选项 中 ｜惟 有［ CJ 体现 美国 做 法“推 迟 高管绩效奖金／避免追求 短 期业 绩 的\n行为”及法国 做 法“给予长 期投 资者奖 励 ／鼓 励长期投 资 行为” ； 且契合 Mu c h more co ul d be clon e to\ne n courage “ l o n g- te rmi s m ， ”所体现的 意 tll 主 旨 。\n\n\n        咀J 0Wi thin compani es, the ri ght compensation(!) design\n                                                                                   在企业内部，合理的薪酬设计可以对高\ncan provide incentives( for executives to think beyond their\n                                                                             管形成激励，使其会考虑自己任期之后的情\nown time a t the company and on behalf of all stakeholders.\n                                                                             形 ， 并努力代表所有股东的利益 。 英国的新\n@ B,i tain ’ s new rule is a reminder(        to bankers that society\n                                                                             规是对银行家的一项 警 示：他们的表现与社\nhas an in terest in their perform a nc巴， not just for the short\n                                                                             会利害相关，不仅从短期来看是如此，从长\nterm but for t h巳 long term. [ 437 words]\n                                                                             期来看也是如此 。\n\n  16",
+  "quality": {
+    "vision_line_count": 59,
+    "vision_character_count": 2101,
+    "pdf_text_character_count": 3511,
+    "nonempty": true
+  }
+}

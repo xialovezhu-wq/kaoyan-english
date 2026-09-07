@@ -1,0 +1,118 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2019-P017
+year: 2019
+pdf_page: 17
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2019 解析 PDF p17｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+.词汇注释与难句分析•以
+①compensation ［kpmpen'seifon］n. 工资，报酬
+；③reminder ［ri'mainda］v.起提醒作用的东西
+②incentive LIn sentiv」1. 动力，鼓励
+•语篇分析•以
+第七段收束全篇，回应开篇事件、肯定英国新规。关键词：Britain's new rule is a reminder。
+①句作者先明确观点：“合理设计高管薪酬”有利于公司长远发展以及所有股东利益。本句以 A can
+provide incentives for sb to do sth 句式肯定 A的激励、促进作用。think beyond their own time at the
+company and on behalf of all stakeholders（遏制高管只关注自己任期的短视行为，激励其关注企业长远发
+展、关注所有股东利益）指向本文主旨：倡导长期思维；the right compensation design（合理薪酬设计）则
+为本段作者语义重点，是促进长期思维的有效方式，也是开篇的英国新规以及第五段的美国法案旨在实
+现的效果。
+②句聚焦英国新规，明确进行肯定：这是对银行家（乃至所有企业高管）的提醒：具备长期思维、关注
+社会发展。a reminder 概述新规警示作用；that 从句明确这一作用，强调银行家（以及所有企业的高管）
+应意识到：不应仅仅考虑个人及企业的短期利益，更应考虑其行为长远的社会效应（not just for the short
+term but for the long term 语义重点在于 for the long term，收束全篇，重申主旨）。
+【深层解读】1，本段采用先提出观点（理论铺陈）
+-后聚焦英国新规（语义重点）的论证方式，意在
+肯定英国新规是鼓励长期思维的一项有效方案。2. society has an interest in their performance not just
+for the short term but for the long term 回应开篇 to build a stronger economy for future generations，彰显
+全文主旨，耐心/长期思维是一种企业美德：关乎未来社会，关乎子孙后代。
+• 真題精解•
+25. Which of the following would be the best title for the text？
+25. 下列哪项是本文的最佳标题？
+［A］ Failure of Quarterly Capitalism
+［A］季度资本主义的失败
+［B］ Patience as a Corporate Virtue
+［B］ 耐心，企业的美德
+［C］ Decisiveness Required of Top Executives
+［C］高管必备的果决
+［D］ Frustration of Risk-taking Bankers
+［D］冒险型银行家的挫败
+［精准定位］文首段引入“英国银行业监管新规”并说明其长远目的“让银行及其他所有企业能够做
+出更长远的决策，为后代建立更强健的经济”。第二至四段剖析现状“上市公司中短期主义盛行”并明确
+其消极影响。第五至七段则说明削弱短期主义、鼓励长期主义的方法，可见，文章旨在倡导企业奉行长
+期主义、多些耐心，以为后代建立更强健的经济，［B］正确。
+［命题解密］［B］ 中 patience 指向 long-termism，与 short-termism/financial impatience 相对，a
+Corporate Virtue 暗合 to build a stronger economy for future generations，体现作者对长期主义的倡导。
+［A］与第三段信息“投资者平均持股时间锐减/季度资本主义加剧”相悖。［C］由首段④句
+decisionmaking 臆断出“高管行事需果决”，但文意并非在于“高管必须果断”，而是在于“高管的决策应考
+虑长远（more long-term decisionmaking）”。［D］源自第一段③句“英国新规将惩罚银行家的有害冒险行
+为”，但文章随后范围已经扩大，批驳的并非仅仅是“银行家的冒险行”，而是“所有公司的短期主义”。
+［技巧总结］本题以文章标题形式考查考生对全篇的把握，除“锁定答案”中所用梳理文章脉络这一
+基本解题思路外，还可以借助如下技巧：一、寻找文章主旨句或与主旨密切相关的句子；借助关键词复现
+抓取文章重心；借词汇褒贬明确作者态度：1. 通过多条线索可判断第一段末句与文章主旨紧密相关（见
+第一段深层解读）；2. 文中 corporations/companies/publicly traded companies 多次同义复现，Short-
+termism/financial impatience/quarterly capitalism/short-term thinking/long-term decisionmaking/long-
+17
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+：·词同时难；句分析＜ fl
+( compensation [ kompen'se1fan ］ η ．工资，报酬               ；① re川
+( incentive [ 1n'sent1v］ 凡动力，鼓励
+
+                                              ；吁：第分析：~ ： ： rt
+     第七段收束全篇，回应开篇事件、肯定英国新规。关键词： Britain’s new rule is a reminder 。
+     ① 旬作者先明确观点：“合理设计高管薪酬”有利子公司长远发展以及所有股东利益 。 本句以 A can
+provide incentives for s b to do st h 句式 肯定 A 的激励、促进作用。 t hink beyond their own time at t he
+compa ny and on beha lf of a ll sta k e h o ld e rs （遏制高 管只关注自己 任期的短视行为，激励其 关注企 业 l夭远发
+展、关注所有股东利益）指向本文主旨 ： 倡导长期思维 川1 e ri g ht com pensation d es i g n （合理薪酬设计）则
+为本段作者语义重点，是促进长期思维的有效方式，也是开篇的英国新规以及第五段的 美国法案 旨在 实
+现的效果 。
+     ② 旬聚焦英国新规，明确进行肯定：这是对银行家（乃至所有企业高管 ） 的提醒 ： 具备长期思维、关注
+社会发展。 a rem ind e r 概述新规警示作用； t hat 从句明确这 － 作用，强调银行家（以及所有企业的 高管）
+应意识到 ： 不应仅仅考虑个人及企业的短期利益，更应考虑其行为长远的社会效应（ not ju st for th e s hort
+t巳rm but for th e lo ng te rm 语义重点在于 for the long term ， 收束 全篇，重申主旨）。
+     E 深层解读】 1. 本段采用先提出观点（理论铺陈） 一一后聚焦英国新 规（语义 重点）的论证方式，意在
+肯定英国新 规是鼓励长 期思维的 一 项有效方案 。 2 . soc iety has an interest in their performance not jus t
+for t he s hort term but fo r th e long term 回应开篇 to build a stro鸣er eco nomy for futur e generat i ons ，彰显
+全文主旨，耐心／长期J 思维是 一 种企业 美德 ： 关乎未来社会 ， 关乎子 孙后代 。
+
+                                              ＞：：真：题需解.~ ：： ；／
+ 25. Which of the following would be the best title for the text?     25. 下列哪项是本文的最佳标题？
+
+ [A ] Failure of Quarterly Capita lism                                [A］季度资本主义 的 失败
+
+ [BJ Pati ence as a Corporate Virtu e                                 [ BJ 耐心，企业的 美德
+
+ [CJ Decis iveness R eq uired of Top Executives                       [CJ 高管必备的果决
+
+ [ DJ Frustration of Ri s k-ta king Bankers                           〔 DJ 冒险型银行家的挫败
+
+     ［精准定位］文首段引人“英国银行业监管新规”并说明其长远目的“让银行及其他所有企业能够做
+出更长远的决策，为后代建立更强健的经济”。第 二至 四段剖析现状“上市公司中短期主义盛行”并明确
+其消极影 响 。第 五至七段则说明削弱短期主义、鼓励长期主义的方法，可见，文 章 旨在倡导企业 奉行长
+期主义、 多些 耐心，以为后代建 立更强健 的经济，［ BJ 正确 。
+     ［命题解密 ］ [ BJ 中 pat i ence 指 向 long termism ，与 short termism/ fin ancial im pati e n ce 相对， a
+Corpo rate Virtu e 暗合 to bui ld a stronger economy for fu ture generat i o n s ，体现作者对长期 主义的倡导 。
+     [A］与第 三 段信息“投资者平均持股时 间 锐减 ／季 度资本主义加剧”相悖 。［ CJ 由首段 ④句
+d ec i s i o nm a king 臆断出“高管行事需果决”，但文意并非在于“高管必须果断”，而是在于“高管的决策应 考
+虑民远（ more long term dec i s i o nmaking ）” 。［ DJ 源自第一段③句“英国新规将惩罚银行家的有害冒险行
+为”，但文章随后范围已经扩大， tlt 驳的并非仅仅是“银行家的冒险行为”，而是“所有公司的短期主义” 。
+     ［技巧总结］本题以文章标题形式考查考生对全篇的把握，除“锁定答案”中所用梳理文章脉络这一
+基本解题思路外，还可以借助如下技巧：一、寻找文章主旨旬或与主旨密切相关的旬子；借助关键词复现
+抓取文章重心；借词汇褒贬明确作者态度： 1. 通过多条线索可判断第 一 段末句与文 掌主旨紧密 相 关（见
+第一段深层 f侨民） ; 2 . 文 中 corporations/ compa nies/ p ubli cly traded compa ni es 多次同义复现， S h ort­
+termism/ fin ancia l impatience/ quarterl y capitali sm/ sho rt term thinking/ long-t erm dec isionmaki ng/ long-
+                                                                                                            17
+```

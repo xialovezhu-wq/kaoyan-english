@@ -1,0 +1,131 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2011-P033
+year: 2011
+pdf_page: 33
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2011 解析 PDF p33｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+公司就此已经在短时间内取得巨大进步。③句列举丰田汽车公司的例子对前两句观点予以佐证。由此
+可见，丰田汽车公司在文中是“有效回应劫持媒介以降低损失”的事例，［A］正确。
+［命题解密］正确项［A］是第四段②句（例证观点句）的同义改写。［B］将①句中劫持媒介的发起者
+“消费者”篡改“丰田汽车公司”。［C］将③句 engage with consumers directly 所表明信息“丰田公司在
+社交媒体上与声讨自己的消费者直接进行交流”曲解为“与支持自己的消费者进行合作”。［D］对③句a
+relatively quick and well-orchestrated social-media response campaign 断章取义，理解“丰田公司借助劫
+持媒介有效发起⋯⋯活动”，而实际上丰田公司是“被迫努力应对劫持媒介所造成危机的‘受害者’”。
+［技巧总结］本题直接考查理解例证、区分论点论据的能力，但由于例证观点句中有正话反说、固定
+短语等，故实际也间接考查结合上下文理解特表达具体含义的能力。解答此题需注意：一、举例一定
+是为说明论点（意群、段落、甚或是文章主旨）。二、遇到难以理解的论点句需根据前后句逻辑及文章主
+旨进行推理；三、若短时间内无法得知论点句确切含义，可转而采用“确定正确项”和“排除干扰项”相结
+合的方式解题。
+具体看本题，首先根据逻辑提示词 for example 将第四段一分为二：①②句为论点，③句事例为论
+据；再根据 In such a case,the company's response may...进一步将②句确定为主要观点句，正确项应该
+是对②句的改写。但随即发现，②句中 may not be sufficiently quick or thoughtful 及 the learning curve
+has been steep 不易理解，这时可借助上下文进行推理知其含义，确定［A］正确。假若短时间内无法推知
+②句含义，可转而概括事例主要信息 alleviated some of the damage 、quick and well-orchestrated.
+campaign、efforts 推知丰田公司基本上做到了成功应对危机，判断［A］正确、［D］错误，借助具体信息对
+比排除偷梁换柱的［B］、添加无关信息 supportive 的［C］。
+•全局真題精解•
+35. Which of the following is the text mainly about？
+35.以下哪一项是本文主旨？
+［A］ Alternatives to conventional paid media.
+［A］传统付费媒介的替代选择。
+［B］ Conflict between hijacked and earned media.
+［B］ 劫持媒介和赢得（口碑）媒介的冲突。
+［C］ Dominance of hijacked media.
+［C］ 劫持媒介的支配地位。
+［D］ Popularity of owned media.
+［D］ 自有媒介的流行。
+［精准定位］通览全文，第一段指出，现代市场营销已经超越传统的单一的付费媒介，成为各种媒介合
+力作用的结果。第二段重点展现“出售媒介”给营销商带来的机遇。第三、四段则说明劫持媒介带给营销
+商的风险并说明公司应如何应对。可见，本文主要围绕“营销新媒介”展开论述，［A］体现全文论述对象。
+［命题解密］［A］是对文章主旨句（第一段⑤句）的概括和改写，对应原文中 alternative forms of
+media、a broad range of factors beyond conventional media，且体现了充斥全篇的各种 media 字样。
+［B］根据第三段②句 the opposite of 设置干扰，文中该词强调的是劫持媒介和贏得（口碑）媒介的“对
+立衍生关系”而非“相互冲突关系”，且该选项以偏概全：文中并非仅限于讨论这两种媒介的关系。［C］将
+占据本文较大篇幅（第三、四段）的媒介之一“劫持媒介”当做本文唯一关注对象，依然犯了以偏概全的错
+误；且 dominance 无从推知。［D］将第一、二段提及较多的“自有媒介”当做文章关注对象，但第三、四段
+基本未再提及该内容，故同样以偏概全；且文中并未指出自有媒介非常流行，popularity 无从推知。
+［技巧总结］本题是典型的文章主旨题考查方式，解答此类题应：1）通览全文，通过归纳各段主旨大
+意来理清文章论证结构、并抓取各段反复出现的关键词，得出全文核心论述对象；2）正确项必须恰当地
+33
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+公司就此已经在短时间内取得巨大进步 。③ 句列举 丰 田汽车公司的例子对前两句观点 予 以 佐证。由 此
+可见，丰田汽车公司在文中 是“有效 回应劫持媒介以降低损失”的 事 例， ［ A ］正 确 。
+
+    〔 命题解密］ 正确项［ A］是第 四 段②句（例证观点句）的同义改写。［ BJ 将①句中劫持媒介的发起者
+
+“消费者”篡改为“丰田汽车公司”。［ CJ 将③句 engage with cons umers dir ec t l y 所表 明 信息“丰田公司在
+社交媒体上与 声讨自己 的消费者 直接进行交流” 曲 解为“与 支持 自 己的消费者 进行合作”。〔 DJ 对③句 a
+relatively qui ck and well orchest rated soc ial- media response campa ign lilfr 章取义， 理 if（（， 为“ 丰田公司借 助劫
+持媒介有效发起 … … 活动”，而实际上丰田公司是“被迫努力应对劫持媒介所造成危 机 的‘受害者’”。
+
+    ［技巧总结 ］ 本题直接考查理解例证、区分论点论据的能力，但由于例证观点句中有正话反说、固定
+短语等，故实际也间接考查结合上下文理解特殊表达具体含义的能力 。 fu!f. 答 此 题需注意：一、举例一定
+
+是为说明论点（意群、段落、甚或是文章主旨） 。二 、遇到难以理解的论点句需根据前后句逻辑及文章主
+
+旨进行推理 ； 三 、若短时 间内 无法得知论点句 确切 含义， 可转而采用“确 定正 确项”和“排除干扰项”相结
+
+合的方式解题。
+
+    具体看本题，首先根据逻辑提示同 for exa mp l e 将第四段 一 分为 二 ：①②句为论点，③句事例为论
+
+据；再根据 In s uch a case, the company ’ s respo nse may ...进 一步将 ② 句确定为主要观点句，正确项应该
+
+是对②句的改写。但随 即 发现，②句中 may not be s uffi c i 巳 ntly quic k or thou g htful 及 th e learning cur ve
+
+has been steep 不易理解，这时可借助上下文进行推理知其含义，确定 ［ A ］正确 。 假若 短 时间内无法推知
+②句含义，可转而概括事例主要信息 a ll ev iat ed some of th e damage 、 q ui ck and we ll - orchestra t e d 、
+
+ca mpai gn 、 effo rt s 推知丰田公司基本上做到了成功应对危机，判断 ［ A ］正确、［ DJ 错误，借助具体信息对
+
+比排除偷 梁换柱的［ BJ ，添加无关信息 supportive 的［ CJ 。
+
+                                          ； ； 全局主题措辞.       : i/
+ 35. Which of the following is the text mainly about?   35. 以 下 哪 一 项是本文主 旨 ？
+
+ [A] Alternatives to conventiona l paid medi a.         [A ］传统 忖费媒介的 替 代选择 。
+
+ [BJ Conflict bet ween hij acked and ea rned m edi a.   [ BJ 劫持媒 介和 赢得（口碑）媒 介 的冲突 。
+
+ [CJ Domin ance of hij ac ked media.                    [CJ 劫持媒介的支配地位 。
+
+ [ DJ Popula rit y of ow n巳d media.                     [ DJ 自有媒 介的流行 。
+
+    ［ 精准定位 ］ 通览 全文，第 一 段指出，现代市场营销已经超越传统的单 一 的付费媒介，成为各种媒介合
+
+力作用的结果 。第二段重点展 现“出售媒介”给 营销商带来 的机遇 。第 三 、四段 则说明劫 持媒介带给营销
+
+商的风险并说明公司应如何应对 。 可见，本文主要围绕“ 营 销新媒介”展开论述， ［ A］ 体现 全文 论述对象 。
+    ［ 命题解密 ］ [A ］是对文章主旨句（第一段⑤句）的概括 和 改写，对应原文 中 a l t e rnative forms of
+
+m edi a ,a broad range of factors beyond conventio na l medi a, 且体现了充斥全篇 的 各 种 m ed i a 字样。
+    [BJ 根据第 三段② 句 th e opposit e of 设置干扰，文中该词强调的是劫持媒 介和 赢得（仁｜碑 ）媒介 的 “对
+
+立衍生关系” 而非 “相互冲突关系”，且该选项 以偏概 全 ： 文中并非仅限于同论这两种媒介的关系。［ CJ 将
+
+占据本文较大篇幅（第 三 、四段）的媒介之 一 “劫持媒介” 当 做本文唯 一关注 对象，依然犯 了 以偏概 全的错
+
+误；且 d omina nce 无从推知 。 ［ DJ 将第 一 、二段提及较多的“ ，二， 有媒介”当做文章关注对象，但第 三 、四段
+
+基本未再提及该 内 容，故 同 样 以偏概 全；且文中并未指出自有媒介非常流行， popu l ar i ty 无从推知 。
+
+    ［ 技巧总结 ］ 本题是典型的文章主旨题考查方式，解答 此 类题应 ： 1 ）通览全文，通过归纳各段主旨大
+
+意来理清文章论证结构 、 并抓取各段反复出现的关键词，得 tU 全文核 心 论述对象； 2 ）正确项必须恰当 地
+
+                                                                                                    33
+```

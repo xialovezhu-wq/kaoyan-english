@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P042",
+  "year": 2021,
+  "pdf_page": 42,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014751648299703657,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.22268907550672118,
+      "x": 0.373949582120589,
+      "y": 0.9273255818664731
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395673688379,
+      "text": "①block ［blok］v.妨碍；阻碍",
+      "width": 0.21848739594623076,
+      "x": 0.05882353073836919,
+      "y": 0.9011627906200357
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394403815727,
+      "text": "⑥enact Li nekt］v. 颁布；通过（法律）",
+      "width": 0.2899159631747501,
+      "x": 0.5273109223517007,
+      "y": 0.9011627911156793
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01476713185621481,
+      "text": "②preserve ［pri'z3wv］v.保留；维护",
+      "width": 0.26050419155113497,
+      "x": 0.058823536787457664,
+      "y": 0.8834886818587074
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "⑦abdication Lreebdi'kel/n」n.退位；放弃",
+      "width": 0.30462184898655775,
+      "x": 0.529411762406481,
+      "y": 0.8821571239262522
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "③ preempt Lpri empt］ v.先占，先取",
+      "width": 0.2689075506721158,
+      "x": 0.05882353366754353,
+      "y": 0.866178428954764
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013209392481574045,
+      "text": "经典搭配",
+      "width": 0.0841298480024687,
+      "x": 0.5524455430816089,
+      "y": 0.8676845111515443
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016131591542900448,
+      "text": "④undermine ［iands'main］v.逐渐削弱（信心、权威等）",
+      "width": 0.4159663793898272,
+      "x": 0.058823535893321635,
+      "y": 0.8473837210656681
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013346545705782642,
+      "text": "①throw out 否决",
+      "width": 0.13655462246639427,
+      "x": 0.5273109251323491,
+      "y": 0.8488372092707139
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394403815727,
+      "text": "⑤ battle L'beetl」n. 较量；爭论",
+      "width": 0.22689075506721157,
+      "x": 0.05882353286555381,
+      "y": 0.831395349400563
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100237,
+      "text": "②in the wake of 随着⋯⋯而来；作⋯⋯的结果",
+      "width": 0.38025208107538533,
+      "x": 0.5273109374209908,
+      "y": 0.8299418609217057
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01629416571158704,
+      "text": "• 语篇分析，",
+      "width": 0.1197478968743414,
+      "x": 0.4264705878811066,
+      "y": 0.8049267641711461
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609675449315462,
+      "text": "第五段进一步介绍裁决内容及其潜在影响。关键词：①threw out； ②preserving；②more battles。",
+      "width": 0.8067226520163475,
+      "x": 0.09873952105064966,
+      "y": 0.7789613847585223
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01612384976464487,
+      "text": "①句介绍裁决内容。句首以 In the meantime 体现段际的顺承关联，提示将进一步介绍裁定内容。",
+      "width": 0.8508403094517702,
+      "x": 0.09873951622999708,
+      "y": 0.7601744189120828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01625545745524526,
+      "text": "句内以对比逻辑词 while 和对比组 threw out vs preserving 明确法院所采取的“折中”办法：一方面驳回",
+      "width": 0.8886554695967306,
+      "x": 0.058823532053375364,
+      "y": 0.7410119841825751
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016001919773066198,
+      "text": "FCC 禁止各州设立网络中立法规的诉求（回应第二段⑤句），另一方面维护 FCC对“联邦法优先原则”的",
+      "width": 0.8907563020268847,
+      "x": 0.056722690751263495,
+      "y": 0.7223701727949866
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016218684484733292,
+      "text": "使用（可否决个别州的部分网络中立法），肯定 FCC的主导地位。编者注：preempt 一般义为“抢先占",
+      "width": 0.8886554695967305,
+      "x": 0.058823531259932914,
+      "y": 0.7034883724701011
+    },
+    {
+      "confidence": 1,
+      "height": 0.017614111284441236,
+      "text": "有”，此处为法律术语，指“联邦法在全国性问题上优于州法”",
+      "width": 0.5168067182419617,
+      "x": 0.0567226956059098,
+      "y": 0.6844207723508895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "②句揭示该裁决的消极影响：法律之争无休无止。That means 引出上述规定的影响。the one now",
+      "width": 0.8508403094517702,
+      "x": 0.09873951622999708,
+      "y": 0.6656976746737777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01619158921324304,
+      "text": "going on between A and B 指司法部与加州政府目前就“后者发布的法律是否有悖于FCC的去监管化指",
+      "width": 0.8928571344570387,
+      "x": 0.05672269375887562,
+      "y": 0.6482558144086913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016187718641583415,
+      "text": "导方向”这一问题发生的诉讼，which 从句借行力对比（enacted a tough net neutrality law vs the FCC's",
+      "width": 0.8928571344570388,
+      "x": 0.05882352585971601,
+      "y": 0.6291611184322834
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01748637480043702,
+      "text": "abdication）体现了联邦政府和地方政府在监管方面“此消彼长”的角力。more （battles）强调未来类似法",
+      "width": 0.8907563020268846,
+      "x": 0.05672269347185173,
+      "y": 0.609011627895677
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739028,
+      "text": "律之争的数量之多，暴露了上诉法院“折中”办法的缺陷：看似维护了 FCC作为联邦部门的主导地位，实",
+      "width": 0.8907563020268846,
+      "x": 0.056722697852103834,
+      "y": 0.589880159627298
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "际进一步加剧了法律之争（地方政府自行立法-FCC认为违背了自己的指导原则而发起诉讼）。",
+      "width": 0.8193277053980009,
+      "x": 0.058823550452259815,
+      "y": 0.5712209304392816
+    },
+    {
+      "confidence": 1,
+      "height": 0.016127720971240822,
+      "text": "【深层解读】如果说上段是作者对上诉法院有限司法权的整体理解和接受，那么本段就是作者对上",
+      "width": 0.8508403094517702,
+      "x": 0.09663867323629965,
+      "y": 0.5537790699028773
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016251586883585634,
+      "text": "诉法院“和稀泥”式判决的无情揭露和批判：threw out...while preserving... That means more battles 的",
+      "width": 0.8907563020268846,
+      "x": 0.058823537081795566,
+      "y": 0.5346205059049131
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015998049201406572,
+      "text": "语义逻辑是对第二段②句 instead of providing a badly needed resolution...only prolonged the fight 内涵",
+      "width": 0.8886554695967306,
+      "x": 0.058823532053375364,
+      "y": 0.5159786947619952
+    },
+    {
+      "confidence": 1,
+      "height": 0.014769067142044623,
+      "text": "的具体阐述，精辟地指出此次判决不仅不能解决问题，反而加剧了 FCC（对宽带运营商放任自流）和地方",
+      "width": 0.8907563020268847,
+      "x": 0.05882354079328003,
+      "y": 0.4985465120844963
+    },
+    {
+      "confidence": 1,
+      "height": 0.016156752163497212,
+      "text": "政府（要求运营商保持网络中立）之间的对抗。至此，作者已经对争议焦点、判决内容以及判决影响做出",
+      "width": 0.8907563020268846,
+      "x": 0.056722681899723064,
+      "y": 0.47802929399224947
+    },
+    {
+      "confidence": 1,
+      "height": 0.016063852729238604,
+      "text": "全面阐述，关于如何推行网络中立的具体建议呼之欲出。",
+      "width": 0.48529411418819246,
+      "x": 0.056722685952122376,
+      "y": 0.4593023258331099
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016083206222473168,
+      "text": "M ① The endless legal battles and back-and-forth",
+      "width": 0.43697479189246147,
+      "x": 0.09663864990460969,
+      "y": 0.4273255818905227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016027079758726637,
+      "text": "法律之争没完没了，FCC反复无常，这一",
+      "width": 0.346638644591462,
+      "x": 0.5966386652305294,
+      "y": 0.4200581399210459
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "at the FCC cry out for Congress to act.",
+      "width": 0.3487394770216161,
+      "x": 0.056722692651657164,
+      "y": 0.4098837212816193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403869,
+      "text": "② It needs to",
+      "width": 0.11554621731385101,
+      "x": 0.4180672261382426,
+      "y": 0.41133720937384455
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "切亟须国会采取行动。国会需要一劳永逸，",
+      "width": 0.3886554401963662,
+      "x": 0.5567227039564386,
+      "y": 0.4011627911106592
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0160425633152379,
+      "text": "give the commission explicit® authority once and for all",
+      "width": 0.47478989323669324,
+      "x": 0.0588235408291324,
+      "y": 0.3894806924032511
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "直截了当授权 FCC 禁止宽带运营商干预网",
+      "width": 0.38445377533605796,
+      "x": 0.5588235363445759,
+      "y": 0.3821571240549898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014846483019791967,
+      "text": "to bar® broadband providers from meddling®in the",
+      "width": 0.47478992263705744,
+      "x": 0.058823530033011856,
+      "y": 0.3706395353160855
+    },
+    {
+      "confidence": 1,
+      "height": 0.014790356556045436,
+      "text": "络流量，并制定明确法规来保护网络的开放",
+      "width": 0.3865546077662121,
+      "x": 0.5567226985328603,
+      "y": 0.3633720934798452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "traffic@ on their network and to create",
+      "width": 0.3781512486452312,
+      "x": 0.05672270130763627,
+      "y": 0.3531976748668907
+    },
+    {
+      "confidence": 1,
+      "height": 0.013558458869212808,
+      "text": "clear rules",
+      "width": 0.0988698014863883,
+      "x": 0.43480879508895603,
+      "y": 0.35150565417315915
+    },
+    {
+      "confidence": 1,
+      "height": 0.015299529114988553,
+      "text": "性和创新性。",
+      "width": 0.11574294985144584,
+      "x": 0.5545234845017318,
+      "y": 0.3426409331073579
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013356222769868031,
+      "text": "protecting openness and innovation online. ［427 words］",
+      "width": 0.4747899226370575,
+      "x": 0.05882352946778576,
+      "y": 0.33284883711955127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016104496271410196,
+      "text": "• 词汇注释与难句分析•",
+      "width": 0.22478990793687537,
+      "x": 0.37605042643072195,
+      "y": 0.2921511631586914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013394930391273485,
+      "text": "①explicit ［uk'splisit］a. 直截了当的；不含糊的",
+      "width": 0.35504200371244277,
+      "x": 0.05672269118474508,
+      "y": 0.2688953492552143
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014726488314043107,
+      "text": "；•经典搭配",
+      "width": 0.1302520957755675,
+      "x": 0.5042016819021322,
+      "y": 0.268895349133915
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01340460682042277,
+      "text": "②bar［ba：（r）］ .禁止",
+      "width": 0.1701680589503176,
+      "x": 0.060924372660695586,
+      "y": 0.25290697743472
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01486777243379267,
+      "text": "① back-and-forth 反复；来回",
+      "width": 0.21848739594623068,
+      "x": 0.5273109253462123,
+      "y": 0.24966711075787373
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014858096004643495,
+      "text": "③meddle ［'medl］v. 干涉；管闲事",
+      "width": 0.2563025266908267,
+      "x": 0.058823524739820734,
+      "y": 0.23368841517705619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014736165378128607,
+      "text": "②cry out for 迫切需要",
+      "width": 0.18067226520163482,
+      "x": 0.5273109284811154,
+      "y": 0.23235685756644486
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013394931026209922,
+      "text": "④traffic ［'treefik］ n. 流量",
+      "width": 0.19747898344359643,
+      "x": 0.058823532077721605,
+      "y": 0.21770972022633184
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "③once and for all 彻底地；一劳永逸地",
+      "width": 0.298319322295731,
+      "x": 0.5273109246014342,
+      "y": 0.21637816249286645
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016104496271410307,
+      "text": "• 语篇分析•",
+      "width": 0.11344537753360573,
+      "x": 0.4285714284075669,
+      "y": 0.19174434084242753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016059981522642652,
+      "text": "第六段最终提出建议：国会需要采取行动以确保网络中立性。关键词：cry out for Congress to act。",
+      "width": 0.8361344236399626,
+      "x": 0.09873952132077474,
+      "y": 0.16569767469575525
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016644474034620438,
+      "text": "①句概述建议：FCC 内外部均问题不断，亟须国会介入。The endless legal battles 和 back-and-forth",
+      "width": 0.8550420331128071,
+      "x": 0.09663865341658563,
+      "y": 0.1464713717545263
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014734230092298795,
+      "text": "at the FCC 分别呼应前文的法律纷争和 FCC的立场反复，表明网络中立问题现状之繁杂；暗含因果关联",
+      "width": 0.8928571344570388,
+      "x": 0.05672270071615829,
+      "y": 0.12916111843366995
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0160328862511524,
+      "text": "的 cry out for（意为“迫切需要”）引出作者建议“国会介入”，呼应第四段末米利特法官的建议。",
+      "width": 0.8004201547258852,
+      "x": 0.05882354408663707,
+      "y": 0.11046511655985414
+    },
+    {
+      "confidence": 1,
+      "height": 0.01628642393333135,
+      "text": "②句细述建议：国会为 FCC赋权以确保网络中立，并制定相关法规确保网络的开放性和创新性。本",
+      "width": 0.8550419743120785,
+      "x": 0.09663868525992694,
+      "y": 0.09156976780985415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01772756106685225,
+      "text": "句以 It needs to give...and to create..呼应首句 cry out for Congress to act，详细描述国会应采取的行动。",
+      "width": 0.884572523407394,
+      "x": 0.05876467973321107,
+      "y": 0.07264958477870831
+    },
+    {
+      "confidence": 1,
+      "height": 0.013342675134122906,
+      "text": "42",
+      "width": 0.023109243095265658,
+      "x": 0.07142857187411086,
+      "y": 0.055232558040699486
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析。\n①block ［blok］v.妨碍；阻碍\n⑥enact Li nekt］v. 颁布；通过（法律）\n②preserve ［pri'z3wv］v.保留；维护\n⑦abdication Lreebdi'kel/n」n.退位；放弃\n③ preempt Lpri empt］ v.先占，先取\n经典搭配\n④undermine ［iands'main］v.逐渐削弱（信心、权威等）\n①throw out 否决\n⑤ battle L'beetl」n. 较量；爭论\n②in the wake of 随着⋯⋯而来；作⋯⋯的结果\n• 语篇分析，\n第五段进一步介绍裁决内容及其潜在影响。关键词：①threw out； ②preserving；②more battles。\n①句介绍裁决内容。句首以 In the meantime 体现段际的顺承关联，提示将进一步介绍裁定内容。\n句内以对比逻辑词 while 和对比组 threw out vs preserving 明确法院所采取的“折中”办法：一方面驳回\nFCC 禁止各州设立网络中立法规的诉求（回应第二段⑤句），另一方面维护 FCC对“联邦法优先原则”的\n使用（可否决个别州的部分网络中立法），肯定 FCC的主导地位。编者注：preempt 一般义为“抢先占\n有”，此处为法律术语，指“联邦法在全国性问题上优于州法”\n②句揭示该裁决的消极影响：法律之争无休无止。That means 引出上述规定的影响。the one now\ngoing on between A and B 指司法部与加州政府目前就“后者发布的法律是否有悖于FCC的去监管化指\n导方向”这一问题发生的诉讼，which 从句借行力对比（enacted a tough net neutrality law vs the FCC's\nabdication）体现了联邦政府和地方政府在监管方面“此消彼长”的角力。more （battles）强调未来类似法\n律之争的数量之多，暴露了上诉法院“折中”办法的缺陷：看似维护了 FCC作为联邦部门的主导地位，实\n际进一步加剧了法律之争（地方政府自行立法-FCC认为违背了自己的指导原则而发起诉讼）。\n【深层解读】如果说上段是作者对上诉法院有限司法权的整体理解和接受，那么本段就是作者对上\n诉法院“和稀泥”式判决的无情揭露和批判：threw out...while preserving... That means more battles 的\n语义逻辑是对第二段②句 instead of providing a badly needed resolution...only prolonged the fight 内涵\n的具体阐述，精辟地指出此次判决不仅不能解决问题，反而加剧了 FCC（对宽带运营商放任自流）和地方\n政府（要求运营商保持网络中立）之间的对抗。至此，作者已经对争议焦点、判决内容以及判决影响做出\n全面阐述，关于如何推行网络中立的具体建议呼之欲出。\nM ① The endless legal battles and back-and-forth\n法律之争没完没了，FCC反复无常，这一\nat the FCC cry out for Congress to act.\n② It needs to\n切亟须国会采取行动。国会需要一劳永逸，\ngive the commission explicit® authority once and for all\n直截了当授权 FCC 禁止宽带运营商干预网\nto bar® broadband providers from meddling®in the\n络流量，并制定明确法规来保护网络的开放\ntraffic@ on their network and to create\nclear rules\n性和创新性。\nprotecting openness and innovation online. ［427 words］\n• 词汇注释与难句分析•\n①explicit ［uk'splisit］a. 直截了当的；不含糊的\n；•经典搭配\n②bar［ba：（r）］ .禁止\n① back-and-forth 反复；来回\n③meddle ［'medl］v. 干涉；管闲事\n②cry out for 迫切需要\n④traffic ［'treefik］ n. 流量\n③once and for all 彻底地；一劳永逸地\n• 语篇分析•\n第六段最终提出建议：国会需要采取行动以确保网络中立性。关键词：cry out for Congress to act。\n①句概述建议：FCC 内外部均问题不断，亟须国会介入。The endless legal battles 和 back-and-forth\nat the FCC 分别呼应前文的法律纷争和 FCC的立场反复，表明网络中立问题现状之繁杂；暗含因果关联\n的 cry out for（意为“迫切需要”）引出作者建议“国会介入”，呼应第四段末米利特法官的建议。\n②句细述建议：国会为 FCC赋权以确保网络中立，并制定相关法规确保网络的开放性和创新性。本\n句以 It needs to give...and to create..呼应首句 cry out for Congress to act，详细描述国会应采取的行动。\n42",
+  "pdf_text_layer": "「•词汇连释与难句分析*丛\n\n① block [blok] p・妨碍；阻碍                   $ ⑥enact [Jnsekt] s颁布；通过（法律）\n② preserve [pri'z3：v] v.保留；维护           $ ⑦abdication Liaebdi'keijn] n.退位；放弃\n③ preempt [preempt] u・先占，先取             ” •经典搭配\n④ undermine [iAnda1 main] p・逐渐削弱（信心、权威等）? ①throw out否决\n⑤ battle ['bsetl] n.较量；争论             ・  j ②in the wake of随着... 而来；作为....的结果\n                                          [•语篇分析V 拐\n\n      第五段进一步介绍裁决内容及其潜在影响。关键词：（Dthrew out;②preserving;②more battleso\n      ① 句介绍裁决内容。句首以In the meantime体现段际的顺承关联，提示将进一步介绍裁定内容。\n句内以对比逻辑词while和对比组threw out vs preserving明确法院所采取的\"折中\"办法：一方面驳回\nFCC禁止各州设立网络中立法规的诉求（回应第二段⑤句），另一方面维护FCC对“联邦法优先原则”的\n使用（可否决个别州的部分网络中立法），肯定FCC的主导地位。编者注:preempt-般义为“抢先占\n有”，此处为法律术语，指“联邦法在全国性问题上优于州法”。\n   ② 句揭示该裁决的消极影响：法律之争无休无止。 That means引出上述规定的影响。the one now\ngoing on between A and B指司法部与加州政府目前就“后者发布的法律是否有悖于FCC的去监管化指\n导方向\"这一问题发生的诉讼» which从句借行为对比（enacted a tough net neutrality law vs the FCC's\nabdication）体现了联邦政府和地方政府在监管方面 “此消彼长”的角力。more （battles）强调未来类似法\n律之争的数量之多，暴露了上诉法院“折中”办法的缺陷：看似维护了 FCC作为联邦部门的主导地位，实\n际进一步加剧了法律之争（地方政府自行立法-*FCC认为违背了自己的指导原则而发起诉讼）。\n  【深层解读】如果说上段是作者对上诉法院有限司法权的整体理解和接受，那么本段就是作者对上\n诉法院\"和稀泥\"式判决的无情揭露和批判:threw out. . . while preserving. . . That means more battles的\n语义逻辑是对第二段②句 instead of providing a badly needed resolution. . . only prolonged the fight 内涵\n的具体阐述，精辟地指出此次判决不仅不能解决问题，反而加剧了 FCC（对宽带运营商放任自流）和地方\n政府（要求运营商保持网络中立）之间的对抗。至此，作者已经对争议焦点、判决内容以及判决影响做出\n全面阐述，关于如何推行网络中立的具体建议呼之欲出。\n\n      VI O The endless legal battles and back-and-forth\n                                                             法律之争没完没了 ,FCC反复无常.这一\nat the FCC cry out for Congress to act. ❷ It needs to\n                                                           切亟须国会采取行动。国会需要一劳永逸，\ngive the commission explicit® authority once and for all\n                                                           直截了当授权FCC禁止宽带运营商干预网\nto bar\" broadband providers from meddling\" in the\n                                                           络流量.并制定明确法规来保护网络的开放\ntraffic'。on their network and to create clear rules\n                                                           性和创新性。\nprotecting openness and innovation online. [427 words]\n\n                                    「•词汇注释与难旬分;析・]/\n\n① explicit Lik'splisit] a.直截了当的；不含糊的                》 •经典搭配\n② bar [ba：（r）J p.禁止                                 》（Dback-and-forth 反复；来回\n③ meddle「medl] u.干涉；管闲事                             ? ②cry out for迫切需要\n©traffic『trsefik] n.流量                              ? ③once and for all 彻底地；一劳永逸地\n                                          [•语篇分析•[諂\n\n      第六段最终提出建议：国会需要采取行动以确保网络中立性。关键词:cry out for Congress to acto\n      ① 句概述建议：FCC内外部均问题不断，亟须国会介入o The endless legal battles和back-and-forth\nat the FCC分别呼应前文的法律纷争和FCC的立场反复，表明网络中立问题现状之繁杂；暗含因果关联\n的cry out for（意为“迫切需要”）引出作者建议“国会介入”，呼应第四段末米利特法官的建议。\n     ② 句细述建议：国会为FCC赋权以确保网络中立，并制定相关法规确保网络的开放性和创新性。本\n句以It needs to give. . . and to create...呼应首句cry out for Congress to act,详细描述国会应采取的行动。\n 42",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2236,
+    "pdf_text_character_count": 2892,
+    "nonempty": true
+  }
+}

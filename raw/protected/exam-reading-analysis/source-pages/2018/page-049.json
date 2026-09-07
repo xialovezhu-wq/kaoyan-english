@@ -1,0 +1,422 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P049",
+  "year": 2018,
+  "pdf_page": 49,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "但文章并未展开论述邮政如何“保护奶酪（对抗竞争对手）”，而是如何“进行自身改革”。［C］利用文中",
+      "width": 0.8822269842400432,
+      "x": 0.04925053987753113,
+      "y": 0.9244186046372025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "continues to、the 10th straight year 暗含信息“USPS 财政问题存在已久”设置干扰 Chronic Illness（慢性",
+      "width": 0.884368310734315,
+      "x": 0.04710919546260722,
+      "y": 0.9055232556364758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "病），但将作者观点立法改革“需全面彻底（comprehensive reform）”篡改“需立竿见影（a Quick Cure）”。",
+      "width": 0.8822269842400432,
+      "x": 0.049250544603746914,
+      "y": 0.8866279068719409
+    },
+    {
+      "confidence": 1,
+      "height": 0.017684108267227883,
+      "text": "［技巧总结］本题以“标题题”形式考查文章主旨，解题需注意：一，正确项既要体现文章主要论述对",
+      "width": 0.8436830487681443,
+      "x": 0.08565311724333695,
+      "y": 0.8677325585016619
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "象，又要准确传达作者观点态度；二，错误项常对文章细节信息加以发挥捏造，或将文章关注对象由施动",
+      "width": 0.8822269842400432,
+      "x": 0.04925053794421815,
+      "y": 0.8488372090558072
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "者改被动者（或反之），或对作者观点态度进行歪曲。",
+      "width": 0.4668094100512836,
+      "x": 0.0492505470621525,
+      "y": 0.829941860360313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "本题选项全都包含全文核心论述对象 The USPS/The Postal Service，但仔细斟酌可发现，［A］、［B］",
+      "width": 0.8436830487681443,
+      "x": 0.08779443937395816,
+      "y": 0.8110465114867665
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "中USPS为施动者（行主体），［C］、［D］USPS 为被动者（被改变的对象），而全文讨论重心“改革法案",
+      "width": 0.8822269842400432,
+      "x": 0.049250544603746914,
+      "y": 0.7921511627585688
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "（legislation、measure、bill）”显然是对USPS进行调整、改变，因此排除［A］、［B］。而［C］中 a Quick Cure",
+      "width": 0.884368310734315,
+      "x": 0.04925053037516944,
+      "y": 0.7732558140000901
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017744670311609867,
+      "text": "曲解作者观点，［D］中 More than a Band-Aid 契合作者观点（尤其末段），故舍［C］选［D］。",
+      "width": 0.745181971456634,
+      "x": 0.049250557312368305,
+      "y": 0.7526041669280072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020348836978276497,
+      "text": "Part B 艾森豪威尔行政办公楼",
+      "width": 0.385438973981451,
+      "x": 0.2976445379343281,
+      "y": 0.718023255725978
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007267441600561142,
+      "text": "知",
+      "width": 0.012847965372272285,
+      "x": 0.08993576056868184,
+      "y": 0.6758720932258822
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02720290670792269,
+      "text": "学、文章总体分析",
+      "width": 0.2250976123187455,
+      "x": 0.04912142796612293,
+      "y": 0.6361078491650769
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "本文节选自美国白宫官方网站关于艾森豪威尔行政办公楼（EEOB）的介绍文章，节选部分主要介绍",
+      "width": 0.8436830487681442,
+      "x": 0.08779445835682716,
+      "y": 0.6087239584926425
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016306322688857566,
+      "text": "了 EEOB 的独特历史意义及建筑价值。",
+      "width": 0.3297644558428803,
+      "x": 0.051391865493977354,
+      "y": 0.5872093024388014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "首段（全文总括段）概述 EEOB 在美国历史及建筑遗产中占据独特地位。",
+      "width": 0.6124196702367742,
+      "x": 0.08779443988161303,
+      "y": 0.5651041663811351
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "第二段介绍 EEOB 的历史意义。",
+      "width": 0.2740899377043096,
+      "x": 0.08779443431701005,
+      "y": 0.5436046510906909
+    },
+    {
+      "confidence": 1,
+      "height": 0.016306322688857566,
+      "text": "第三至六段介绍 EEOB 的创建历程及建筑特色。",
+      "width": 0.4132762184069848,
+      "x": 0.08779443553241063,
+      "y": 0.5214843750116336
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "末段列举出入 EEOB的国内外名人回应其历史意义。",
+      "width": 0.45396145108565267,
+      "x": 0.0877944395963599,
+      "y": 0.49999999992790023
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02628391484419501,
+      "text": "学二、语篇分析",
+      "width": 0.18415416636988663,
+      "x": 0.04925053874836962,
+      "y": 0.4635416667669091
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011779312044382095,
+      "text": "［A］ ① In December of 1869， Congress appointed a",
+      "width": 0.4432548186142935,
+      "x": 0.08993576429028363,
+      "y": 0.43880208303049517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "1869年12月，美国国会指定一委员会",
+      "width": 0.3319057823371522,
+      "x": 0.5931477536119378,
+      "y": 0.43023255825275486
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "commission® to select a site®and prepare plans and cost",
+      "width": 0.4839400220054582,
+      "x": 0.049250551791703276,
+      "y": 0.4171511630869388
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "新国务院大楼选址、筹划设计方案并估算成",
+      "width": 0.37259098572831695,
+      "x": 0.5546038610116446,
+      "y": 0.4082031250428385
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247940689325333,
+      "text": "estimates for a new State Department Building. ② The",
+      "width": 0.4839400220054583,
+      "x": 0.04925053767678574,
+      "y": 0.39518229176212927
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "本。该委员会还要考虑战争部和海军部的可",
+      "width": 0.37044965923404505,
+      "x": 0.5567451891731274,
+      "y": 0.3866279067568731
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172238444288609,
+      "text": "commission was also to consider possible arrangements for the",
+      "width": 0.4839400220054582,
+      "x": 0.04925053969320243,
+      "y": 0.3735465114862877
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "行性安置方法。有些人预料，一座与财政部大",
+      "width": 0.37259098572831695,
+      "x": 0.5546038637382684,
+      "y": 0.364583333618831
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011809592445691464,
+      "text": "War and Navy Departments.",
+      "width": 0.2269807255428263,
+      "x": 0.05139186704657392,
+      "y": 0.351562500281802
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906312545067,
+      "text": "③ To the horror of some who",
+      "width": 0.2483939904855446,
+      "x": 0.2869379125373846,
+      "y": 0.3531976747507043
+    },
+    {
+      "confidence": 1,
+      "height": 0.014610586067040798,
+      "text": "楼极度相仿的希腊复兴式建筑将矗立于白宫",
+      "width": 0.37259098572831684,
+      "x": 0.5546038678424796,
+      "y": 0.3444010416769312
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0174418600896995,
+      "text": "expected a Greek Revival® twin® of the Tireasury® Building to",
+      "width": 0.48608134849973006,
+      "x": 0.04710921260773679,
+      "y": 0.32848837213538273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164223313332,
+      "text": "另一侧，而令他们惊骇的是，艾尔弗雷德•马",
+      "width": 0.37259098572831695,
+      "x": 0.5546038684634645,
+      "y": 0.3226744189517645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013323643555243736,
+      "text": "be erected® on the other side of the White House, the",
+      "width": 0.4817986955111865,
+      "x": 0.05139187681614123,
+      "y": 0.3095930232777121
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "利特精心构思的、具有法兰西第二帝国风格的",
+      "width": 0.37044965923404505,
+      "x": 0.5546038633380096,
+      "y": 0.2994186044046444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111676399906513,
+      "text": "elaborate® French Second Empire style design by Alfred",
+      "width": 0.48179869551118637,
+      "x": 0.05139186843819707,
+      "y": 0.28776041680130593
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "设计图被选中了。1871年6月，这一用以容纳",
+      "width": 0.37259098572831695,
+      "x": 0.5546038693949421,
+      "y": 0.27734374991059363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610586067040798,
+      "text": "Mullett was selected, and construction of a building to house®",
+      "width": 0.4796573690169146,
+      "x": 0.05139188023101425,
+      "y": 0.2659883725467257
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "所有三大部门的建筑开始动工。",
+      "width": 0.2591006229569037,
+      "x": 0.5546038643513126,
+      "y": 0.25716145808557567
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126817221442932,
+      "text": "all three departments began in June of 1871.",
+      "width": 0.346895067797055,
+      "x": 0.0492505428323789,
+      "y": 0.2441406248714847
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01627604166666663,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.21413275193344378,
+      "x": 0.3683083590439847,
+      "y": 0.1946614585611085
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013187378644943237,
+      "text": "①commission［ka'mijon］n. 委员会",
+      "width": 0.25481796996836015,
+      "x": 0.04925054574387132,
+      "y": 0.16715116284893305
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883201122284,
+      "text": "⑤ treasury［'tregar］n. 财政部",
+      "width": 0.22055674606001086,
+      "x": 0.5139186272733494,
+      "y": 0.1671511629779272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "②site［ sart］n.（建筑物、城镇等的）地点，位置",
+      "width": 0.33618843532569576,
+      "x": 0.04925053848582143,
+      "y": 0.14518229161977114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "⑥erect［i'rekt］v.竖立；建造",
+      "width": 0.20770877245062835,
+      "x": 0.5160599596793969,
+      "y": 0.14648437497953848
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883201122284,
+      "text": "③ revival［ri'varv］ ］n. 复兴，再流行",
+      "width": 0.25481796996836015,
+      "x": 0.049250545444085435,
+      "y": 0.12500000011455514
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01497395833333326,
+      "text": "⑦claborate［ leebarat］a.复杂的，精心制作的",
+      "width": 0.33832976181996754,
+      "x": 0.5139186274840206,
+      "y": 0.12630208343383253
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883201122284,
+      "text": "④twin［twn］n.一对相像的事物之一",
+      "width": 0.28479657017566884,
+      "x": 0.049250540741929985,
+      "y": 0.10465116312327594
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883201122284,
+      "text": "⑧house［ haus］v.给⋯⋯提供住处；容纳，安置",
+      "width": 0.34047108831423945,
+      "x": 0.5160599598846362,
+      "y": 0.10610465160438076
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906312545067,
+      "text": "49",
+      "width": 0.02355460425027278,
+      "x": 0.8929336188139887,
+      "y": 0.07267441899904303
+    }
+  ],
+  "vision_ocr_text": "但文章并未展开论述邮政如何“保护奶酪（对抗竞争对手）”，而是如何“进行自身改革”。［C］利用文中\ncontinues to、the 10th straight year 暗含信息“USPS 财政问题存在已久”设置干扰 Chronic Illness（慢性\n病），但将作者观点立法改革“需全面彻底（comprehensive reform）”篡改“需立竿见影（a Quick Cure）”。\n［技巧总结］本题以“标题题”形式考查文章主旨，解题需注意：一，正确项既要体现文章主要论述对\n象，又要准确传达作者观点态度；二，错误项常对文章细节信息加以发挥捏造，或将文章关注对象由施动\n者改被动者（或反之），或对作者观点态度进行歪曲。\n本题选项全都包含全文核心论述对象 The USPS/The Postal Service，但仔细斟酌可发现，［A］、［B］\n中USPS为施动者（行主体），［C］、［D］USPS 为被动者（被改变的对象），而全文讨论重心“改革法案\n（legislation、measure、bill）”显然是对USPS进行调整、改变，因此排除［A］、［B］。而［C］中 a Quick Cure\n曲解作者观点，［D］中 More than a Band-Aid 契合作者观点（尤其末段），故舍［C］选［D］。\nPart B 艾森豪威尔行政办公楼\n知\n学、文章总体分析\n本文节选自美国白宫官方网站关于艾森豪威尔行政办公楼（EEOB）的介绍文章，节选部分主要介绍\n了 EEOB 的独特历史意义及建筑价值。\n首段（全文总括段）概述 EEOB 在美国历史及建筑遗产中占据独特地位。\n第二段介绍 EEOB 的历史意义。\n第三至六段介绍 EEOB 的创建历程及建筑特色。\n末段列举出入 EEOB的国内外名人回应其历史意义。\n学二、语篇分析\n［A］ ① In December of 1869， Congress appointed a\n1869年12月，美国国会指定一委员会\ncommission® to select a site®and prepare plans and cost\n新国务院大楼选址、筹划设计方案并估算成\nestimates for a new State Department Building. ② The\n本。该委员会还要考虑战争部和海军部的可\ncommission was also to consider possible arrangements for the\n行性安置方法。有些人预料，一座与财政部大\nWar and Navy Departments.\n③ To the horror of some who\n楼极度相仿的希腊复兴式建筑将矗立于白宫\nexpected a Greek Revival® twin® of the Tireasury® Building to\n另一侧，而令他们惊骇的是，艾尔弗雷德•马\nbe erected® on the other side of the White House, the\n利特精心构思的、具有法兰西第二帝国风格的\nelaborate® French Second Empire style design by Alfred\n设计图被选中了。1871年6月，这一用以容纳\nMullett was selected, and construction of a building to house®\n所有三大部门的建筑开始动工。\nall three departments began in June of 1871.\n•词汇注释与难句分析•\n①commission［ka'mijon］n. 委员会\n⑤ treasury［'tregar］n. 财政部\n②site［ sart］n.（建筑物、城镇等的）地点，位置\n⑥erect［i'rekt］v.竖立；建造\n③ revival［ri'varv］ ］n. 复兴，再流行\n⑦claborate［ leebarat］a.复杂的，精心制作的\n④twin［twn］n.一对相像的事物之一\n⑧house［ haus］v.给⋯⋯提供住处；容纳，安置\n49",
+  "pdf_text_layer": "但文章并未展开论述邮政如何“保护奶酶（对抗竞争对手）”，而是如何“进行自身改革” 。 ［ CJ 利 用文 中\nconti n ues to 、 t h e 10th straig ht year H音含信息“ USP S 财政问题存在已久”设置干扰 C h ro nic Illn ess （慢性\n病），但将作者观点立法改革“需全面彻底（ comprehens ive reform ）”篡改为“需立竿见影（ a Qui ck C ure ）”。\n     ［ 技 巧 总结 ］ 本题 以 “标题题”形式考查文章主旨，解题需注意 ： 一 ，正确项既要体现文章主要论述对\n象，又要准确传达 作 者观点态度 ； 二 ，错误项常对文章细节信息 加 以发挥捏造，或将文章关注对象 由施 动\n者改为被动者（或反之），或对作者观点态度进行歪曲。\n     本题选项全都 包 含全文核心论述对象 T h e USP S/ T he Postal Service ，但仔细l 斟酌可发 现 ，［ A ］ 、 ［ BJ\n中 USPS 为施动者（行为主体） , [ CJ 、 ［ D]USPS 为被动者（被改变的对象）， 而 全文讨论重 心 “改革法案\n( legis lation 、 measu r e 、 bil l) ＂显然是对 USPS 进行调整 、 改变，因 此 排除［ A ］、 ［ BJ 。 而 ［ CJ 中 a Quick C ure\n曲 解作者观点，［ DJ 中 M ore t han a Band A i d 契合作者观点（尤其末段），故舍［ CJ 选［ DJ 。\n\n   理摇摇撞国                                                                                       回回·田\n                                 Part B        艾森豪威尔行政办公楼                                      …\n                                                                                               一\n                                                                                               回\n                                                                                               一\n                                                                                               一 唱出画部；\n                                                                                               原文外教朗读\n\n\n\n\n     本文节选自美国白宫官方网站关于艾森豪威尔行政办公楼 C E EOB ）的介绍文章，节选部分主要 介 绍\n\n了 EEOB 的独特历史意义及建筑价值 。\n\n     首段（全文总括段）概述 EEOB 在 美 国历史及建筑遗产中占据独特 地 位 。\n\n     第 二 段 介 绍 EEOB 的历史意义 。\n     第 三 至六段介绍 EEOB 的 创 建历程及建筑特色 。\n     末段列举出人 E EOB 的国内外名人回应其历史意义 。\n\n\n\n\n     [A] 0 In December of 1869, Congress appointed a\n                                                                     1869 年 lZ 月，美国国会指定一委员会为\ncommission(    to select a siteφ and prepare plans and cost\n                                                                新国务院大楼选址、筹划设计方案并估算成\nestimates for a new State Department Buildi ng.       @ T he\n                                                                本 。 该委员会还妥考虑战争部和海军部的可\ncommission was also to consider possible arrangements for the\n                                                                行性安直方法 。 有些人预料，一座与财政部大\nWar and Navy Departments. @ To the horror of some who\n                                                                楼极度相仿的希腊复兴式建筑将矗立于白宫\nexpected a Greek Revival® twin® of the Treasury ( Building to\n                                                                另一例，而令他们惊骇的是，艾尔弗雷德·马\nbe erected® on the other side of the Whi te House, the\n                                                                利特精心构思的、具有法兰西第二帝国风格的\nelaborate(    French Second Empire style design by Alfred\n                                                                设计图被选中了 。 1871 年 6 月，这一用以容纳\nMull ett was selected, and construction of a building to ho山俨\n                                                                所有三大部门的建筑开始动工 。\n                                                                                                   vx：KZRZ2019\nall three d巳partments began in June of 1871.\n\n\n\n                                       ；三词汇注释要难句分析·； 孟(\n① commiss ion [ ka1m1 Jan] 11. 委员会            1 ( treasu [ 'tre3ar\n( site[sa1t]11. （建筑物、城镇等的） 地 点，位置                      ；   ＠叫\n③ reviva l [ri'va 1 v l ］凡复兴 ， 再流行                     ;   ( elal>orate[ 1' Jrebarat ］α．复杂的，精心 制 作 的\n④ twin [tw 1 n]n . 一对 相 像的事物之 一                        i   ③ h刷1se[ h aus］ υ 给   提供住处；容纳，安置\n\n\n                                                                                                           49",
+  "quality": {
+    "vision_line_count": 50,
+    "vision_character_count": 1735,
+    "pdf_text_character_count": 3563,
+    "nonempty": true
+  }
+}

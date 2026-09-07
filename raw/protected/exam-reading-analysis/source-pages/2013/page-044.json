@@ -1,0 +1,534 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P044",
+  "year": 2013,
+  "pdf_page": 44,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "移民法而已，其他方面的州法律，但凡不我认可，就算合法也不能生效。",
+      "width": 0.6165254316257156,
+      "x": 0.06144068018290477,
+      "y": 0.9084302324422128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014673582089492765,
+      "text": "【深层解读】argue（to state, giving reasons, that sth is true）及 claim（to state that sth is true, even",
+      "width": 0.8411016682632096,
+      "x": 0.09957629502623389,
+      "y": 0.8908496733694131
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946567,
+      "text": "though it has not been proved）两词突显奥马政府言论带有强烈主观色彩：自认有理有据，但却未经事",
+      "width": 0.877118642093571,
+      "x": 0.061440687724400776,
+      "y": 0.8691860464829104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768315820132993,
+      "text": "实论证，再加上 a shocking assertion 也已对此做了铺垫，尽现奥巴马政府“自视最高唯一决策者”的咄咄",
+      "width": 0.877118642093571,
+      "x": 0.06144068628372288,
+      "y": 0.8502906978198457
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "逼人之势，又一次暗示作者站位（支持8:0裁决），同时为下文批驳竖起鲜明的靶子。",
+      "width": 0.7055084577953542,
+      "x": 0.06144069223579732,
+      "y": 0.8299418603467671
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02278948765175015,
+      "text": "•真題精解•必",
+      "width": 0.15706682569198027,
+      "x": 0.42570387627582906,
+      "y": 0.801832000548081
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011827405293782567,
+      "text": "39. The White House claims that its power of enforcement",
+      "width": 0.4788135499444627,
+      "x": 0.07203390698398329,
+      "y": 0.7745098038927729
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "39.白宫宣称其执法权",
+      "width": 0.18855932104678552,
+      "x": 0.6440677960267486,
+      "y": 0.7718023253176973
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011857805065080163,
+      "text": "-。",
+      "width": 0.016949151308481958,
+      "x": 0.8792372886466064,
+      "y": 0.7718023259151887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325239356047192,
+      "text": "［A］ is dependent on the states'",
+      "width": 0.26483049465499764,
+      "x": 0.07415255238118755,
+      "y": 0.7514534888255251
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00932325787014432,
+      "text": "Support",
+      "width": 0.06584329823501239,
+      "x": 0.34101902802840345,
+      "y": 0.7511523245094271
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014705881729624726,
+      "text": "［A］ 倚赖各州支持",
+      "width": 0.16101694471053496,
+      "x": 0.6440677999812943,
+      "y": 0.7500000004744413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013174493951735089,
+      "text": "［B］ is established by federal statutes",
+      "width": 0.3093220368596434,
+      "x": 0.07415254136890713,
+      "y": 0.7281045753622746
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488293816052,
+      "text": "［B］基于联邦法规规定",
+      "width": 0.19703388942106992,
+      "x": 0.6440677988540837,
+      "y": 0.7267441862562105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013358793071671982,
+      "text": "［C］ outweighs that held by the states",
+      "width": 0.31991524732749876,
+      "x": 0.07203390575892002,
+      "y": 0.7049418608095368
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "［C］ 大于各州执法权",
+      "width": 0.1779660960190168,
+      "x": 0.6440677974883731,
+      "y": 0.7032679738049847
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013085195129992844,
+      "text": "［D］ rarely goes against state laws",
+      "width": 0.288135586804106,
+      "x": 0.07203390439455708,
+      "y": 0.6816860468451473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453868329914565,
+      "text": "［D］鲜少与州法律抵触",
+      "width": 0.19915254607455424,
+      "x": 0.6440677961818511,
+      "y": 0.6802325586139761
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "［精准定位］第六段②③句指出，白宫认定亚利桑那州法律与其执法优先权相抵触；它更有权宣布任",
+      "width": 0.8411016682632096,
+      "x": 0.09745764855907299,
+      "y": 0.6555232558433757
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313437,
+      "text": "何它不认可的州法律无效，故［C］正确。",
+      "width": 0.3305084577953542,
+      "x": 0.06144068730994999,
+      "y": 0.6351744192973607
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "［命题解密］LC］是对②③句白宫说辞的总结：outweighs..",
+      "width": 0.5614406789532145,
+      "x": 0.097457633643096,
+      "y": 0.6148255819063724
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0117647058823529,
+      "text": "the states 是对",
+      "width": 0.1377118525614266,
+      "x": 0.6652542455060098,
+      "y": 0.6176470587174884
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013132694967431968,
+      "text": "priorities、could",
+      "width": 0.13347456837428429,
+      "x": 0.8072033915543834,
+      "y": 0.6162790699362325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "invalidate any...state law 的概括。",
+      "width": 0.2944915130848193,
+      "x": 0.06144068897312691,
+      "y": 0.5959302327072763
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313437,
+      "text": "［A］与原文相悖：奥巴马政府极力凸显自身行政权，全然漠视各州应有的行政权。［B］与“最高法院一",
+      "width": 0.8432203103567807,
+      "x": 0.09957629603982972,
+      "y": 0.5755813959325351
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016009271534439762,
+      "text": "致裁决反对奥巴马总统”的大背景相盾。［DJ对②句提到的.•state laws complied with federal statute .••",
+      "width": 0.875,
+      "x": 0.061440688903601444,
+      "y": 0.5552325586505584
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "断章取义，但该内容意在凸显白宫的专断：就算州法律与联邦条文法完全吻合，也仍然冒犯其特权。",
+      "width": 0.8177966052339277,
+      "x": 0.061440688611849564,
+      "y": 0.5363372091863989
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "［技巧总结］当所有选项方向性非常明确时，除了细节定位以外，还应借助段落、段群或全文主旨解",
+      "width": 0.8411016682632096,
+      "x": 0.09745764563534422,
+      "y": 0.515686274581852
+    },
+    {
+      "confidence": 1,
+      "height": 0.01765655879101735,
+      "text": "题。本题四个选项“黑白分明”：［A］、［B］和［D］中的“遵循联邦法规、依赖各州、尊重各州法规”均体现",
+      "width": 0.8771186420935712,
+      "x": 0.06144067164389257,
+      "y": 0.4954248365383618
+    },
+    {
+      "confidence": 1,
+      "height": 0.0177154584647784,
+      "text": "“奥巴马政府循规蹈矩的乖形象”，而这完全背离开篇就指出的“8:0全票反对奥巴马政府”以及本段对该",
+      "width": 0.8792372841871421,
+      "x": 0.059322027122530714,
+      "y": 0.47647058825025956
+    },
+    {
+      "confidence": 1,
+      "height": 0.01897493374893089,
+      "text": "内容的细述，所以本题利用主旨便可迎刃而解。",
+      "width": 0.3987256989224266,
+      "x": 0.06125313039860816,
+      "y": 0.4563152333764666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014650782416848585,
+      "text": "① Some powers do belong exclusively®to the",
+      "width": 0.40254237633625056,
+      "x": 0.13347457704373908,
+      "y": 0.42587209355998945
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "联邦政府确实在一些问题上拥有专属",
+      "width": 0.3368644131958939,
+      "x": 0.5974576272791716,
+      "y": 0.41830065389933824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01313839457393473,
+      "text": "federal government,and control of citizenship and the",
+      "width": 0.4745762657573205,
+      "x": 0.061440685426424425,
+      "y": 0.4084302328916588
+    },
+    {
+      "confidence": 1,
+      "height": 0.014669782351824145,
+      "text": "权，其中包括对公民身份和边界的控制权。",
+      "width": 0.37711864209357104,
+      "x": 0.5572033861036383,
+      "y": 0.39970930264429183
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015086514342064983,
+      "text": "borders is among",
+      "width": 0.15748837885965827,
+      "x": 0.06105024420855754,
+      "y": 0.38918156515064695
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394769007826,
+      "text": "them. ② But if Congress wanted to",
+      "width": 0.3199152473274988,
+      "x": 0.21610169303822818,
+      "y": 0.3895348839381706
+    },
+    {
+      "confidence": 1,
+      "height": 0.013157394508910292,
+      "text": "但是如果国会想阻止各州自行其是对移民",
+      "width": 0.37711864209357115,
+      "x": 0.5572033955316041,
+      "y": 0.3822674422048856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011825505424948313,
+      "text": "prevent states from using their own resources to check",
+      "width": 0.4724576236637494,
+      "x": 0.06355932769849253,
+      "y": 0.3718954246918398
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "身份进行核查，它有权如此。（可）国会从未",
+      "width": 0.375,
+      "x": 0.5593220347987288,
+      "y": 0.3619186043874648
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014911589279673398,
+      "text": "immigration status, it could. ③It never did so.",
+      "width": 0.39427732511331104,
+      "x": 0.061337274861936734,
+      "y": 0.35025486624546975
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0177667574165693,
+      "text": "④西The",
+      "width": 0.08050847235526748,
+      "x": 0.45550847605753575,
+      "y": 0.3470588237897476
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946567,
+      "text": "这么做过。实质上奥巴马政府宣称的是：因",
+      "width": 0.375,
+      "x": 0.5572033879025424,
+      "y": 0.34302325552360813
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017035792232338975,
+      "text": "Administration® was in essence asserting that because it",
+      "width": 0.4727324857056596,
+      "x": 0.06343667663395959,
+      "y": 0.3311999741279954
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "为它自己不想执行国会在移民事务上的意",
+      "width": 0.37288135790642885,
+      "x": 0.5593220355746307,
+      "y": 0.3267973856107287
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013163094115413165,
+      "text": "didn't want to carry out Congress's immigration wishes，",
+      "width": 0.47033898157017834,
+      "x": 0.06355932747762265,
+      "y": 0.31241830095804424
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352935,
+      "text": "愿，所以任何州也不允许执行。每位大法官",
+      "width": 0.375,
+      "x": 0.5593220357256357,
+      "y": 0.3052287581548516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014013351490295034,
+      "text": "no state should be allowed to do so either.",
+      "width": 0.3879564882234762,
+      "x": 0.061354177912350295,
+      "y": 0.2950170068088479
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01753591151019329,
+      "text": "⑤ Every",
+      "width": 0.07477282021791881,
+      "x": 0.4605759537722605,
+      "y": 0.29137311743909367
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "理当抵制这一惊人言论。",
+      "width": 0.21186439863598072,
+      "x": 0.5572033965506537,
+      "y": 0.28758169948768975
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013233393625496248,
+      "text": "Justice rightly\" rejected this remarkable®claim.",
+      "width": 0.3983050630292819,
+      "x": 0.06144069546275992,
+      "y": 0.2776162793354574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "• 词汇注释与难句分析，",
+      "width": 0.21398304072955177,
+      "x": 0.37288136313098674,
+      "y": 0.248366012811168
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013271393495447592,
+      "text": "①exclusively ［uk'sklussivl］ad. 唯一地；专有地",
+      "width": 0.3580508341316048,
+      "x": 0.06144068205142931,
+      "y": 0.22529069818235647
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014696382385453344,
+      "text": "• 经典搭配",
+      "width": 0.10593219931799036,
+      "x": 0.5233050876644513,
+      "y": 0.22222222194699903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01176470588235301,
+      "text": "②administration ［od minis'trerjan］ n. 管理；行政",
+      "width": 0.38135592628071324,
+      "x": 0.06355933135116856,
+      "y": 0.20784313726482673
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "①in essence（实际上，其实）",
+      "width": 0.20974575654240968,
+      "x": 0.5233050894459562,
+      "y": 0.20326797354504023
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488293816052,
+      "text": "③rightly ［'rartl］ad. 合适地；恰当地",
+      "width": 0.2860169447105349,
+      "x": 0.06144067780363086,
+      "y": 0.18750000034293512
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "② carry out（执行、贯彻、完成、实现）",
+      "width": 0.2754237342426795,
+      "x": 0.5233050797360049,
+      "y": 0.18431372542725077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014658382515502222,
+      "text": "④remarkable ［ri'ma:kabl］a. 值得注意的；惊人的",
+      "width": 0.37923728418714214,
+      "x": 0.061440683100637924,
+      "y": 0.16993464042160145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018115959915460333,
+      "text": "• 语篇分析，",
+      "width": 0.11885206207974269,
+      "x": 0.4172688844818217,
+      "y": 0.14065132258436108
+    },
+    {
+      "confidence": 1,
+      "height": 0.017742058498407487,
+      "text": "第七段详细阐述裁定二中大法官所执观点。关键词为：rightly rejected。",
+      "width": 0.599576236637494,
+      "x": 0.09957628254989714,
+      "y": 0.11307189519337468
+    },
+    {
+      "confidence": 1,
+      "height": 0.017654658922182986,
+      "text": "①句让步认可联邦政府在某些问题上的专权。注意此处 federal government 并非宏观意义上的=",
+      "width": 0.8368643840760674,
+      "x": 0.09957627563498891,
+      "y": 0.09281045753122708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "权合一的联邦当局，而是专指行政分支，即 Obama Administration。强调词 do（的确）与表“部分”的 some",
+      "width": 0.8792372841871422,
+      "x": 0.061440682879945786,
+      "y": 0.07254901945147574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013265693888944718,
+      "text": "44",
+      "width": 0.023305084869151796,
+      "x": 0.07415254207283936,
+      "y": 0.05359477110093713
+    }
+  ],
+  "vision_ocr_text": "移民法而已，其他方面的州法律，但凡不我认可，就算合法也不能生效。\n【深层解读】argue（to state, giving reasons, that sth is true）及 claim（to state that sth is true, even\nthough it has not been proved）两词突显奥马政府言论带有强烈主观色彩：自认有理有据，但却未经事\n实论证，再加上 a shocking assertion 也已对此做了铺垫，尽现奥巴马政府“自视最高唯一决策者”的咄咄\n逼人之势，又一次暗示作者站位（支持8:0裁决），同时为下文批驳竖起鲜明的靶子。\n•真題精解•必\n39. The White House claims that its power of enforcement\n39.白宫宣称其执法权\n-。\n［A］ is dependent on the states'\nSupport\n［A］ 倚赖各州支持\n［B］ is established by federal statutes\n［B］基于联邦法规规定\n［C］ outweighs that held by the states\n［C］ 大于各州执法权\n［D］ rarely goes against state laws\n［D］鲜少与州法律抵触\n［精准定位］第六段②③句指出，白宫认定亚利桑那州法律与其执法优先权相抵触；它更有权宣布任\n何它不认可的州法律无效，故［C］正确。\n［命题解密］LC］是对②③句白宫说辞的总结：outweighs..\nthe states 是对\npriorities、could\ninvalidate any...state law 的概括。\n［A］与原文相悖：奥巴马政府极力凸显自身行政权，全然漠视各州应有的行政权。［B］与“最高法院一\n致裁决反对奥巴马总统”的大背景相盾。［DJ对②句提到的.•state laws complied with federal statute .••\n断章取义，但该内容意在凸显白宫的专断：就算州法律与联邦条文法完全吻合，也仍然冒犯其特权。\n［技巧总结］当所有选项方向性非常明确时，除了细节定位以外，还应借助段落、段群或全文主旨解\n题。本题四个选项“黑白分明”：［A］、［B］和［D］中的“遵循联邦法规、依赖各州、尊重各州法规”均体现\n“奥巴马政府循规蹈矩的乖形象”，而这完全背离开篇就指出的“8:0全票反对奥巴马政府”以及本段对该\n内容的细述，所以本题利用主旨便可迎刃而解。\n① Some powers do belong exclusively®to the\n联邦政府确实在一些问题上拥有专属\nfederal government,and control of citizenship and the\n权，其中包括对公民身份和边界的控制权。\nborders is among\nthem. ② But if Congress wanted to\n但是如果国会想阻止各州自行其是对移民\nprevent states from using their own resources to check\n身份进行核查，它有权如此。（可）国会从未\nimmigration status, it could. ③It never did so.\n④西The\n这么做过。实质上奥巴马政府宣称的是：因\nAdministration® was in essence asserting that because it\n为它自己不想执行国会在移民事务上的意\ndidn't want to carry out Congress's immigration wishes，\n愿，所以任何州也不允许执行。每位大法官\nno state should be allowed to do so either.\n⑤ Every\n理当抵制这一惊人言论。\nJustice rightly\" rejected this remarkable®claim.\n• 词汇注释与难句分析，\n①exclusively ［uk'sklussivl］ad. 唯一地；专有地\n• 经典搭配\n②administration ［od minis'trerjan］ n. 管理；行政\n①in essence（实际上，其实）\n③rightly ［'rartl］ad. 合适地；恰当地\n② carry out（执行、贯彻、完成、实现）\n④remarkable ［ri'ma:kabl］a. 值得注意的；惊人的\n• 语篇分析，\n第七段详细阐述裁定二中大法官所执观点。关键词为：rightly rejected。\n①句让步认可联邦政府在某些问题上的专权。注意此处 federal government 并非宏观意义上的=\n权合一的联邦当局，而是专指行政分支，即 Obama Administration。强调词 do（的确）与表“部分”的 some\n44",
+  "pdf_text_layer": "移民法而已，其 他 方面的 州 法律，但 凡 不为我认可，就算合法也不能生效。\n       【深层解读】 argue(to s tat e, giving reasons, that s th is true ）及 claim( to state tha t st h 1s true, eve n\n\nthough it has no t been prov ed ）阴词突显奥巴马政府 言 论带有强烈主观色彩：自认有理有据，但却未经事\n实论证，再 加上 a s hockin g a sse rt i o n 也 已对 此做了铺 垫 ， 尽 现奥巴 马政 府“自视 最高 ｜唯 一 决策者”的咄咄\n逼人之势，又 一 次暗示作者主I~ 位（支持 8 : 0 裁决）， 同时 为下文 批驳 竖起鲜 明的靶 子。\n\n                                                         ： ： ~：：真理结解：：＜： 1'\n 39. The White House claims that its power of enforcement 一一一一·                                 39. 白宫 宣称其执法权      。\n\n\n\n\n [ A] is dependent on the s ta les ’ s upport                                                   [A ］ 倚赖各州｜ 支抖\n\n [ 13] i s 巳s t a bli s h e d by federa l sta tu tes                                            [ BJ 基于联邦法规规定\n\n [CJ o ut we ig hs tha t held by th e s lates                                                   [ CJ 大于各州｜ 执法权\n\n [DJ rarely goes aga ins t sta te laws                                                          [ DJ 鲜少与 州 法律 抵触\n\n       ［ 精准定位 ］ 第六段 ② ③句指 出 ，白宫认定亚利桑 那州 法律与其执法 优先权相抵触；它 更有权宣布 任\n何 它不认可的 州 法律无效，故［ CJ 正确 。\n       ［ 命题解密 J [CJ 是对 ②① 句白宫说辞的总结： o u twe i g h s . . . th e sta t es 是 对 pr i o ri ties 、 cou Id\ninvalidat e any .. . state law Ml 概括 。\n       [A ］ 与原文 相悖：奥巴马政府极力凸显自身行政权， 全然漠 视各州应有的行政权 。［ BJ 与“最高法院 一\n致裁决反对奥 巴 马总统”的大背景相矛盾 。 ［ DJ 对②句提 到的 . . . state laws comp lied with federa l stat ute . .\n断 章 取义，但该内容意在凸显白宫的专院fr ：就算 州 法律与 联邦 条文法完全 吻 合， 也仍然 冒 犯 其特权。\n       ［ 技巧总结］ 当所有应项方 向性非 常明确 时 ，除了 细节 定位 以外，还 应借 助 段落、段群或全文主旨僻\n题 。 本题匹｜ 个选项“黑白分明” ： ［ A ］、 ［ B J 和［ DJ 中的“遵循联邦法规、依赖各州、 尊重各 州 法规” 均体现\n“奥巴马政府循规蹈矩的乖形象”，而这完全背离开篇就指出的“ 8:0 全票反对奥巴马政府” 以 及本段对该\n内 容的细述，所以本题 利用 主 旨便可迎刃而解 。\n\n\n       咽［ O So m 巳 pow e rs do belong exclusively(                        to the\n                                                                                            联邦政府确实在一些问题上拥有专属\nfed era l gov巳 rnment, and contro l of citize ns hip a nd the\n                                                                                       权，其中包括对公民身份和边界的控制权。\nborders is among them.              8 But if Co n gr巳ss wanted to                      但是如采国会想阻止各州自行其是对移民\nprevent sta tes from us ing th eir own r eso ur ces to check\n                                                                                       身份进行核查，它有权如此 。 （可）国会从未\nimmigrat ion sta tus, it co uld. @It never did so . 。 因 The                            这么做过 。 实质上奥巴马政府宣称的是：因\nAdministration② was 川 巳ssen ce asserting that because it                               为它自己不想执行国会在移民事务上的意\ndidn ' t want to carry o ut Co ngress ’ S immigration w ishes,                         愿，所以任何州也不允许执行 。 每位大法官\nno s tate shou ld be a llowed to do so eit her. 0 Ever y                               理当抵制这一惊人言论 。\nJ ust ice rightly( rejected t hi s remarkable® cla im.\n                                                                                            J\n                                                       词…\n                                                       …                    难\n                                                            注 ’                       析\n                                                                          与 …\n                                                                                  旬\n                                                                    释 …\n                                                                                  …\n                                                                            … …\n                                                            …                         … …\n\n\n                                                             「L …         …       ·\n                                                                                      分 ·\n( exclusively [ 1k1sklu:s1vl1] ad. II住 一 地； 专 有地                            $     ．经典搭配\n② ad 盯1inistration [ acl ,mrn1s't                                           ；①Ill 臼se n\n( rightly [ ' ra1t l1] ad . 合适地；恰当 地                                              ( ca rry ou t （执行、贯彻、完成、实现）\n( remarkable [ ri 'ma :k ab l ］ α ． 值得注意的；惊人的\n\n\n                                                        i: -J始分析j : i/\n       第七段详细阐述裁定二中大法官所执观点 。 关键词为 ： rightly rejected0\n       ①旬让步认可联邦政府在某些问题上的专权 。 注意 此处 fed era l gove rnm e nt 并非宏 观 意义 上的 三\n权合 一 的 联邦当局， 而 是专指行政分支， 目II Obama Admin i s tra t i o n 0 强调同 do （的确）与 表 “部分”的 some\n  44",
+  "quality": {
+    "vision_line_count": 64,
+    "vision_character_count": 2069,
+    "pdf_text_character_count": 4377,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P011",
+  "year": 2011,
+  "pdf_page": 11,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015435878041518913,
+      "text": "is to go to my CD shelf, or boot up my computer and",
+      "width": 0.4406508086516342,
+      "x": 0.03817203920759338,
+      "y": 0.9168024705655481
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837107964668,
+      "text": "的仅仅是走到我的唱片架旁，或者打开电脑从",
+      "width": 0.4106382876919515,
+      "x": 0.49999999995721595,
+      "y": 0.908430233010322
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013164885050322983,
+      "text": "download still more recorded music from iTunes.",
+      "width": 0.41063828769195143,
+      "x": 0.03829788256359859,
+      "y": 0.8981723240456355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "TTunes 上下载更多的音乐录音。",
+      "width": 0.27659574840538365,
+      "x": 0.49787234202071246,
+      "y": 0.8864229764615669
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014618373726429046,
+      "text": "•词汇注与难句分析。",
+      "width": 0.2234042515946164,
+      "x": 0.3489361748675853,
+      "y": 0.837209302709362
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013218015043293563,
+      "text": "①composition ［/kompa'zJon］n. 音乐作品",
+      "width": 0.31489361677297445,
+      "x": 0.038297872961030495,
+      "y": 0.8125000004062217
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.027939739177494705,
+      "text": "3CBa variesy oK 希种条样的）",
+      "width": 0.24295116884074747,
+      "x": 0.47001377511577674,
+      "y": 0.7970766417616343
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014716073676126817,
+      "text": "• 经典搭配",
+      "width": 0.10430924249652693,
+      "x": 0.04039857060225776,
+      "y": 0.7862466144707044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011878377774988014,
+      "text": "③orchestral music（交响乐）",
+      "width": 0.21276595806756393,
+      "x": 0.5021276571364308,
+      "y": 0.7936046511336048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "①for one's part（就某人来说）",
+      "width": 0.22978722479329738,
+      "x": 0.03617021701824496,
+      "y": 0.765665796278776
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014603193372721424,
+      "text": "④boot up（装入操作系统，启动计算机）",
+      "width": 0.3021276412001076,
+      "x": 0.5000000061659037,
+      "y": 0.7732558142427923
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.033183732792229303,
+      "text": "语篇分析•以",
+      "width": 0.1537232553981686,
+      "x": 0.4082447550189288,
+      "y": 0.7435825525262674
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "第三至五段为第二部分，引入作者本人评论，对古典音乐界观点进行层层反驳。",
+      "width": 0.6680851019135396,
+      "x": 0.07872341205741452,
+      "y": 0.7193211489048329
+    },
+    {
+      "confidence": 1,
+      "height": 0.01762402088772852,
+      "text": "第三段为作者首轮反驳：我不会因为“指挥能演奏种类甚多的有趣作品”而去音乐厅，因为我有“同",
+      "width": 0.8382978566973889,
+      "x": 0.07872342255556068,
+      "y": 0.6990861620902449
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772841,
+      "text": "样有趣且更丰富更便捷的”录音音乐。关键词为：not necessary for me to visit。",
+      "width": 0.6574467792109823,
+      "x": 0.038297892468976795,
+      "y": 0.6801566576836583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "①句作者直接回应第二段所述古典音乐界疑虑：（你们担心 Gilbert 不够伟大，但）我并不知道、也不",
+      "width": 0.8404255095676983,
+      "x": 0.07659574885090271,
+      "y": 0.6612271537645544
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "关心它是否伟大。句首 For my part 将论述角度由上文的“古典音乐界”转至“作者本人（代表普通的古",
+      "width": 0.8765957250649797,
+      "x": 0.038297874276020986,
+      "y": 0.6422976503014493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "典音乐听众）”，转入文章核心论证部分。I have no idea whether Gilbert is...or even... 照应第二段",
+      "width": 0.8787233779352891,
+      "x": 0.03617021494193013,
+      "y": 0.6220626630005816
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964668,
+      "text": "comparatively little known，明确作者观点：指挥是否伟大并非问题关键。",
+      "width": 0.6106382993621534,
+      "x": 0.03617021965402946,
+      "y": 0.6017441865350313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "②句作者暗中回应首段古典音乐界欢呼：（你们对 Gilbert演奏有趣多样的作品的能力寄予厚望，",
+      "width": 0.8404255095676983,
+      "x": 0.07872342383317196,
+      "y": 0.5813953487359297
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01598837232465211,
+      "text": "但）我不必去音乐厅便可听到有趣的交响乐。句子借 To be sure...but...（诚然⋯⋯但是⋯⋯）构成“让",
+      "width": 0.8765957250649796,
+      "x": 0.03829788945332561,
+      "y": 0.5624999999689724
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043444,
+      "text": "步承认他人论据属实——转折提出自己不同看法（对方论点错误）”的逻辑。",
+      "width": 0.6382978450271869,
+      "x": 0.03617021844385351,
+      "y": 0.5436046514375596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "前半句借 To be sure（固然，不能否认）暗中表明乐团及整个古典音乐界看重 Glibert 的原因：他指挥",
+      "width": 0.8382978566973888,
+      "x": 0.07659576143853937,
+      "y": 0.5232558142603221
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014569038510633736,
+      "text": "了种类甚多的有趣作品。an impressive variety、interesting 凸显吉尔伯特出类拔萃之处：作品非常有趣，",
+      "width": 0.8765957250649796,
+      "x": 0.03829788945332561,
+      "y": 0.5043604654879473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837232465211,
+      "text": "且种类十分丰富。后半句借but转折提出作者反驳：但仅凭这点难以将我拉人音乐厅。it is not",
+      "width": 0.8787233779352891,
+      "x": 0.03829789282313542,
+      "y": 0.48401162785172436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "necessary for me to...， or anywhere else, to...体现“完全不必要关系”，interesting 复现形成“针锋相对",
+      "width": 0.8765957250649796,
+      "x": 0.03617022576538237,
+      "y": 0.4651162791138367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "之势”；Gilbert作品有趣又如何，我欣赏有趣的音乐完全不需要去任何一家音乐厅。注：Avery Fisher",
+      "width": 0.8808510308055987,
+      "x": 0.03617023808656224,
+      "y": 0.444516971554607
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "Hall 是纽约爱乐乐团的主场地。",
+      "width": 0.27021276061895017,
+      "x": 0.038297878334141895,
+      "y": 0.42428198426464026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "③句作者进而明确原因：我另有他选—录音音乐不仅同样有趣，而且更丰富、更便捷。All I have",
+      "width": 0.8404255095676985,
+      "x": 0.07659574534912987,
+      "y": 0.4053524805696159
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013354635736649745,
+      "text": "to do is to go to...or boot up...and download...（all 意为“唯一”）与②句 visit Avery Fisher Hall...形",
+      "width": 0.8765957250649797,
+      "x": 0.038297893105807744,
+      "y": 0.38808139559154153
+    },
+    {
+      "confidence": 1,
+      "height": 0.014625963280779919,
+      "text": "成对比，凸显录音音乐的“便捷”优势：我举手之间便可欣赏到有趣音乐（，何须正式着装、车马劳顿地去",
+      "width": 0.8765957250649796,
+      "x": 0.0361702116164466,
+      "y": 0.36618798978747436
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "音乐厅）。",
+      "width": 0.07872340419324361,
+      "x": 0.03829787302749167,
+      "y": 0.34593023245443744
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014546268602575352,
+      "text": "【深层解读】本段传达两重语义/观点：一、回应上两段，说明古典音乐界对“纽约爱乐乐团任命 Gilbert",
+      "width": 0.8425531624380079,
+      "x": 0.07446810805759162,
+      "y": 0.32702349854998125
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "为音乐总监”有此反应的原因：希望借 Gilbert“演奏有趣多样作品的能力”来振兴乐团，但又对其影响力存",
+      "width": 0.8787233779352892,
+      "x": 0.0361702171387385,
+      "y": 0.306686046323139
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837107964657,
+      "text": "有疑虑。二、表明作者对该观点的反驳：你的厚望和疑虑均不得要领，普通音乐听众并不关心指挥是否伟",
+      "width": 0.8787233779352893,
+      "x": 0.03617021664405778,
+      "y": 0.2863372096091592
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "大，也不会因其有趣多样的作品而走进音乐厅，因为我有“同样有趣、且更多样、更便捷”的录音音乐。",
+      "width": 0.8276595339948315,
+      "x": 0.03617024127917982,
+      "y": 0.26744186036383677
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906918836972,
+      "text": "I",
+      "width": 0.017021275843078734,
+      "x": 0.07659574516356701,
+      "y": 0.23691860458321723
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906918836972,
+      "text": "①",
+      "width": 0.01702127584307872,
+      "x": 0.10425531961037554,
+      "y": 0.2369186045638373
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394972440097,
+      "text": "Devoted\"concertgoers®who reply that recordings are",
+      "width": 0.417021275478385,
+      "x": 0.12978724155158744,
+      "y": 0.23691860486358607
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "那些回应称“音乐录音无法替代现",
+      "width": 0.299999988329798,
+      "x": 0.6085106434186877,
+      "y": 0.22965116324196166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016632163493502494,
+      "text": "no substitute® for live performance are missing the point.",
+      "width": 0.44929886593645435,
+      "x": 0.03815672987519171,
+      "y": 0.21541488077732407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011749347258485643,
+      "text": "② For",
+      "width": 0.0510638293527052,
+      "x": 0.4957446815789665,
+      "y": 0.21801566569512298
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "场演奏”的音乐会忠实听众没有真正抓",
+      "width": 0.34255319161351283,
+      "x": 0.5659574433209033,
+      "y": 0.2107558142137227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013161090273147491,
+      "text": "the time, attention, and money of the art-loving public, classical",
+      "width": 0.5106382643515476,
+      "x": 0.03617022101571584,
+      "y": 0.19767441872017522
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "住核心问题。为了赢得艺术爱好者的时",
+      "width": 0.34042553874320336,
+      "x": 0.5680851063730792,
+      "y": 0.18864229795455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "instrumentalists® must compete not only with opera houses, dance",
+      "width": 0.5106382643515476,
+      "x": 0.036170226068907095,
+      "y": 0.17877907029657125
+    },
+    {
+      "confidence": 1,
+      "height": 0.014667708319721307,
+      "text": "间、关注和金钱，古典音乐演奏家们不仅",
+      "width": 0.34042553874320325,
+      "x": 0.5680851054004349,
+      "y": 0.17005813996538366
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014546268602575352,
+      "text": "troupes®",
+      "width": 0.06595744320812919,
+      "x": 0.03617021346685743,
+      "y": 0.15843023280868374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01178729752025165,
+      "text": "，theater companies，",
+      "width": 0.17021275478384917,
+      "x": 0.10212766799814625,
+      "y": 0.15988372095918624
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013092779926469289,
+      "text": "and museums, but also with the",
+      "width": 0.2723404134892597,
+      "x": 0.27446809375182396,
+      "y": 0.15988372133645445
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "必须与歌剧院、舞蹈团、剧团和博物馆展",
+      "width": 0.34255319161351283,
+      "x": 0.568085110602818,
+      "y": 0.14947780657534182
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017889148572717506,
+      "text": "recorded performances of the great classical musicians of the 20th",
+      "width": 0.5109040532011832,
+      "x": 0.036031482148020016,
+      "y": 0.1375323034652448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014599398595545932,
+      "text": "开竞争，而且还必须与20世纪伟大古典",
+      "width": 0.34042553874320336,
+      "x": 0.568085100537213,
+      "y": 0.13226744212485209
+    },
+    {
+      "confidence": 1,
+      "height": 0.01238030117423361,
+      "text": "century.",
+      "width": 0.06528379538774945,
+      "x": 0.037470743550966364,
+      "y": 0.11864740042947308
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015007742391242695,
+      "text": "3@m These recordings are cheap, available everywhere，",
+      "width": 0.43848554855550903,
+      "x": 0.10630761853358327,
+      "y": 0.11890224001573091
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "音乐家的演奏录音展开竞争。这些音乐",
+      "width": 0.34042553874320325,
+      "x": 0.5680851045858452,
+      "y": 0.11031331620131357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906918836972,
+      "text": "and very often much higher in artistic quality than today's live",
+      "width": 0.5085106114812381,
+      "x": 0.03829789210512549,
+      "y": 0.10029069777604671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772852,
+      "text": "录音价格低廉、随处可得、艺术品质大多",
+      "width": 0.3382978566973889,
+      "x": 0.5680851154544969,
+      "y": 0.09007832925591153
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01594990102802807,
+      "text": "performances; moreover, they can be \"consumed” at a time and",
+      "width": 0.49391416473096916,
+      "x": 0.03813153750976098,
+      "y": 0.07989086524504341
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287142,
+      "text": "比当今的现场演奏高很多；而且听众可",
+      "width": 0.3255319103000269,
+      "x": 0.568085109796795,
+      "y": 0.07245430805973174
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011878377774988125,
+      "text": "11",
+      "width": 0.02127659617145028,
+      "x": 0.8765957443154907,
+      "y": 0.04360465112945189
+    }
+  ],
+  "vision_ocr_text": "is to go to my CD shelf, or boot up my computer and\n的仅仅是走到我的唱片架旁，或者打开电脑从\ndownload still more recorded music from iTunes.\nTTunes 上下载更多的音乐录音。\n•词汇注与难句分析。\n①composition ［/kompa'zJon］n. 音乐作品\n3CBa variesy oK 希种条样的）\n• 经典搭配\n③orchestral music（交响乐）\n①for one's part（就某人来说）\n④boot up（装入操作系统，启动计算机）\n语篇分析•以\n第三至五段为第二部分，引入作者本人评论，对古典音乐界观点进行层层反驳。\n第三段为作者首轮反驳：我不会因为“指挥能演奏种类甚多的有趣作品”而去音乐厅，因为我有“同\n样有趣且更丰富更便捷的”录音音乐。关键词为：not necessary for me to visit。\n①句作者直接回应第二段所述古典音乐界疑虑：（你们担心 Gilbert 不够伟大，但）我并不知道、也不\n关心它是否伟大。句首 For my part 将论述角度由上文的“古典音乐界”转至“作者本人（代表普通的古\n典音乐听众）”，转入文章核心论证部分。I have no idea whether Gilbert is...or even... 照应第二段\ncomparatively little known，明确作者观点：指挥是否伟大并非问题关键。\n②句作者暗中回应首段古典音乐界欢呼：（你们对 Gilbert演奏有趣多样的作品的能力寄予厚望，\n但）我不必去音乐厅便可听到有趣的交响乐。句子借 To be sure...but...（诚然⋯⋯但是⋯⋯）构成“让\n步承认他人论据属实——转折提出自己不同看法（对方论点错误）”的逻辑。\n前半句借 To be sure（固然，不能否认）暗中表明乐团及整个古典音乐界看重 Glibert 的原因：他指挥\n了种类甚多的有趣作品。an impressive variety、interesting 凸显吉尔伯特出类拔萃之处：作品非常有趣，\n且种类十分丰富。后半句借but转折提出作者反驳：但仅凭这点难以将我拉人音乐厅。it is not\nnecessary for me to...， or anywhere else, to...体现“完全不必要关系”，interesting 复现形成“针锋相对\n之势”；Gilbert作品有趣又如何，我欣赏有趣的音乐完全不需要去任何一家音乐厅。注：Avery Fisher\nHall 是纽约爱乐乐团的主场地。\n③句作者进而明确原因：我另有他选—录音音乐不仅同样有趣，而且更丰富、更便捷。All I have\nto do is to go to...or boot up...and download...（all 意为“唯一”）与②句 visit Avery Fisher Hall...形\n成对比，凸显录音音乐的“便捷”优势：我举手之间便可欣赏到有趣音乐（，何须正式着装、车马劳顿地去\n音乐厅）。\n【深层解读】本段传达两重语义/观点：一、回应上两段，说明古典音乐界对“纽约爱乐乐团任命 Gilbert\n为音乐总监”有此反应的原因：希望借 Gilbert“演奏有趣多样作品的能力”来振兴乐团，但又对其影响力存\n有疑虑。二、表明作者对该观点的反驳：你的厚望和疑虑均不得要领，普通音乐听众并不关心指挥是否伟\n大，也不会因其有趣多样的作品而走进音乐厅，因为我有“同样有趣、且更多样、更便捷”的录音音乐。\nI\n①\nDevoted\"concertgoers®who reply that recordings are\n那些回应称“音乐录音无法替代现\nno substitute® for live performance are missing the point.\n② For\n场演奏”的音乐会忠实听众没有真正抓\nthe time, attention, and money of the art-loving public, classical\n住核心问题。为了赢得艺术爱好者的时\ninstrumentalists® must compete not only with opera houses, dance\n间、关注和金钱，古典音乐演奏家们不仅\ntroupes®\n，theater companies，\nand museums, but also with the\n必须与歌剧院、舞蹈团、剧团和博物馆展\nrecorded performances of the great classical musicians of the 20th\n开竞争，而且还必须与20世纪伟大古典\ncentury.\n3@m These recordings are cheap, available everywhere，\n音乐家的演奏录音展开竞争。这些音乐\nand very often much higher in artistic quality than today's live\n录音价格低廉、随处可得、艺术品质大多\nperformances; moreover, they can be \"consumed” at a time and\n比当今的现场演奏高很多；而且听众可\n11",
+  "pdf_text_layer": "1s to go to my CD sh elf, or boot up my comput er and\n                                                                               的仅仅是走到我的唱片架旁，或者打开电脑从\ndownload still more recorded mus ic from iTunes .\n                                                                               iTunes 上下载更多的音乐录音 。\n\n\n                                                                                            J\n                                                                         难 …\n                                                              与 …          …\n                                                                           分…\n                                              词－\n                                                        注 …\n                                                   「L                               E川\n                                                                －                      －\n                                                                                   AA1\n                                                   －\n                                                   －          释 …\n                                                              …            旬 …     …   －\n\n\n\n\n( composition [ ,k ompa 'z巾n] 11. 音乐作品                              \\\\         ( a va ri ety o f （各 种 各样的）\n\n．经典搭配\n                                                                ! ＠叫…l musi c （交 响乐）\n( fo r one 's part （就某人来说）\n                                                                    i\\         ( boot up （ 装入操作系统，启动计算一 机 ）\n\n                                                 : ·J瑞拉＜ 1'\n     第三至五段为第二部分，引入作者本人评论，对古典音乐界观点进行层层反驳。\n     第三段为作者首轮反驳：我不会因为“指挥能演奏种类甚多的有趣伟品”而去音乐厅，因为我有“同\n样有趣且更丰富更便捷的”录音音乐 。 关键词为： not necessary for me to visit 。\n     ① 旬作者直接回应第二段所述古典音乐界疑虑：（你们担心 Gilbert 不够伟大，但）我并不知道、也不\n关心它是否伟大。 句 首 For m y part 将论述角度由上文的“古典音乐界”转至“作者本人（代表普通的古\n典音乐昕众）”，转入文 章核 心论证部分 。 I have no idea w h e th 巳r G ilbert is ... or eve n ...照 应第二段\ncompa ra ti ve ly littl e kn own ，明确作者 观 点 ：指 挥是否伟大并非问题关键 。\n     ② 旬作者暗中回应首段古典音乐界欢呼：（你们对 Gilbert 演奏有趣多样的作品的能力寄予厚望，\n但）我不必去音乐厅便可昕到有趣的交晌乐。 句子借 To be s ur e ... but.                                                     . （诚然… …但 是 …… ）构成“ 让\n步承 认他人论据 属实                   转折提 出 自己不 同 看法（对方 论点错误）”的逻辑 。\n     前半句借 To be s ur e （固然，不能否认）暗中表明乐团及 整 个古典音乐界 看重 G lib e rt 的原因：他指挥\n了种类甚多的有趣作品 。 a n impress ive var i ety 、 int eres ting 凸显吉尔伯特出类拔萃之处 ：作品非常 有趣，\n且种类十分丰 富。 后半句借 but 转折提出作者反驳：但仅凭这点邓以将我拉入 音乐厅。 i t is not\nnecessary for me to . .. , or a nyw h er e else, to ...体现“完 全不必要关系”， int e res ting 复 现形成“针锋相对\n之势” ： Gi lb ert 作 品有趣 又 如何 ，我欣赏有趣的音乐完全不需要去任何 一 家音乐厅 。 注 ： A very Fisher\nH a ll 是 纽约 爱乐乐 团的 主场 地 。\n     ③ 旬作者进而明确原因：我另有他选一一录音音乐不仅同样有趣，而且更丰富、更便捷 。 A l 门 h ave\nto do is to go to ... or boot up. . . and down load ... ( a ll 意为“唯 一 ”）与②句 vi s it Ave r y Fi s h er H a ll. .. 形\n成对比，凸显录音 音 乐的“便捷”优势：我举手之间便可欣赏到有趣 音乐（， 何 须正式着装、车马劳顿 地 去\n音 乐厅） 。\n     【深层解读】本段传达两重语义／观点： 一、 回应上两段，说明古典音乐界对“纽约爱乐 乐团任命 Gi lber t\n为音乐总监”有此反应的原因：希望借 Gilbert“演 奏有趣多样 作品的能力”来振 兴乐 团，但又对 其影 响力 存\n有疑虑 。二、表 明作 者对该观点的反驳 ：你的 厚望和疑虑均不得要领，普通音乐 听 众并不关心指挥是否伟\n大， 也不 会因其有趣多样的作 品而走进音乐厅，因为我有“同样有趣 、 且更多样、更使捷”的录音音乐 。\n\n\n     IV o困 Devoted』 concertgoers0 who rei均 that recordings are                               那些回应称“音乐录音无法替代现\nno substitute® for li ve performance are missing the point. @ For\n                                                                                           场演奏”的音乐会忠实听众没有真正抓\nthe time, attention, and money of the a rt- l ov i 且也 public, classical\n                                                                                           住核心问题 。 为了 赢 得艺术爱好者的时\ninstrmnentalists'll must compete not only with opera houses, dance\n                                                                                           间 、 关注和金钱 ， 古典音乐演奏家们不仅\ntroupes<; : , theater companies, and museums, but also with the\n                                                                                           必须与歌剧院、舞蹈团、剧团和博物馆展\nrecorded performances of the great classical musicians of the 20th\n                                                                                           开竞争，而且还必须与 20 世纪伟大古典\ncentury. ＠圆圆 These recordings 盯E cheap, available everywhere ,\n                                                                                           音乐家的演奏录音展开竞争 。 这些音乐\nand very often much higher in artistic quality than today ’ s live\n                                                                                           录音价格低廉、随处可得、艺术品质大多\nperformances; moreover , they ca口 be “ consumed ” at a time and\n                                                                                           比当今的现场演奏高很多；而且听众可\n\n\n                                                                                                                     11",
+  "quality": {
+    "vision_line_count": 61,
+    "vision_character_count": 2246,
+    "pdf_text_character_count": 4767,
+    "nonempty": true
+  }
+}

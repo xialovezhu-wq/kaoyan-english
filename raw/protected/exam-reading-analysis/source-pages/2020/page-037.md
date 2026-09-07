@@ -1,0 +1,159 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2020-P037
+year: 2020
+pdf_page: 37
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2020 解析 PDF p37｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+［B］ is apt to arouse criticism at home and abroad
+［B］容易引发国内外批评
+［C］
+aims to
+ease international trade tensions
+［C］ 旨在缓和国际贸易紧张局势
+D］ will prompt the tech giants to quit France
+［D］将促使科技巨头退出法国
+［精准定位］第二段②句指出：美国贸易代表已开始针对“法国数字服务税是否是对美国企业的歧
+视”展开调查，（如果调查发现属实，）美国将（极）可能对法国实施贸易制裁。可见，数字服务税有可能引
+发（美国）针对法国的反制措施，故［A］正确。
+［命题解密］正确项是对②句 could lead to trade sanctions against France 的同义转述，其中
+countermeasures“对抗策略，反制措施”是 trade sanctions“（对某国的）贸易制裁”的上义表达。
+［B］利用②句 has already sparked significant controversy 设障，但错误有三：一、将既有事实“已经引
+发（has already）”偷换为常规倾向“易于⋯⋯（is apt to）”，二、将“争议（controversy）”偷换为“批评
+（criticism）”，三、将范围由“国外（from America）”偷换为“国内外（at home and abroad）”；［C］利用②句
+trade sanctions 所传递的贸易紧张局势设障，但该词指向法国数字服务税的“可能性后果：引发美国对法
+国的贸易制裁”而非“目的：缓和国际贸易紧张局势”；［D］由②句 discriminates against American
+companies”（法国数字服务税）对美国公司（尤指美国科技巨头）的歧视”捏造而来，但首先“歧视与否尚处
+调查之中，结果尚未可知”，其次“即便歧视属实，其后果指向的是‘美国发起贸易制裁’而非‘科技巨头退
+出法国””，而且文中自始至终并未提及美国企业的可能行为。
+［技巧总结］本题于长难句兼对比转折处设题，解答关键在借助关键动、名词（谓语部分信息）锁定句
+意重点，再将选项指向与句意指向比对，合理找出正确选项。四个选项中［A］、［D］指向可能性结果、［B］
+指向属性/趋势，［C］指向目的；而据由句内核心谓语信息“has already sparked significant controversy*
+opening an investigation-discriminates against-could lead to trade sanctions against France”可知语义重
+点指向“后果/可能性结果：已经引发重大争议、日后可能导致对法国的贸易制裁”，由此排除指向不一致
+的［B］、［C］以及指向虽同、但内容相异的［DJ。
+I OThe French tax is not just a unilateral® move® by
+数字服务税不仅仅是法国一国为增
+one country in
+need
+of
+revenue.
+② Instead, the digital
+加财政收入而采取的单边行动。相反，它
+services tax is part of a much larger trend, with countries
+代表着一个更大的趋势，各国在过去几年
+over the past few years proposing®or putting in place an
+里提出或实施了一系列以首字母组合命
+alphabet soup of new international tax provisions®
+•⑧ They
+名的国际税收新规。它们包括英国的转
+have included Britain's DPT（diverted
+profits tax），
+移利润税（DPT）、澳大利亚的跨国公司反
+Australia's MAAL （multinational anti-avoidance law），and
+避税法（MAAL）和印度的显著经济存在
+India's SEP （significant economic presence）
+test,to name
+（SEP）测试，等等。与此同时，欧盟、西班
+but a few.
+④At the same time, the European Union，
+牙、英国和其他几个国家也都认真思忖过
+Spain, Britain and several other countries have all seriously
+数字服务税。
+contemplated® digital services taxes.
+•词汇注释与难句分析。
+① unilateral ［jumni'leetral］ a.单方的，单边的
+• 经典搭配
+②move ［murv］n.举措，行动
+①an alphabet soup of 字母汤，［喻］大杂烩
+③propose ［pre'pauz］v. 提议：建议
+②put in place 实施
+④provision ［pra'visn］n.（法律文件的）规定，条款
+⑤ contemplate ［'kontemplert］v. 考虑，思量；思付
+•语篇分析。
+第三至五段为第二部分，由法国单边意欲收取的数字服务税延及其他国家类似单边举措，指出国际
+组织 OECD的应对之策。
+第三段由法国延展至其他国家，明确国际税收大势。关键词为：a much larger trend。
+37
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+[BJ is apt to arouse criticism at home and abroaq                                                            [BJ ~irsl£OOJt-J?'~ffl:W
+   [CJ aims to ease international trade tensions                                                                [ CJ ~ tE ~ *1 00 ~ fi ~ ~ f.u ~                    *
+   [DJ will prompt the tech giants to quit France                                                               [D] ~ {fE 151! ~ tt e ~ iEl lli t! 00
+        [ *-illEfn: ] ffi.=ti@1iJffi ili :~ 00 'ii. ~ft~ B 7f ~ttx.t"i! IE~* JJll*~-¾ ~¾x-t~ 001e)lr (f(J ~
+            *                       *
+~,, !fk ii1 ~ , <~o ~ 1t :b.~~~ , ) ~ oo ~ <t&) m·rm ~ ~ oo ~ nm: fi ~ 1b!J ~ mfil , 1t                                                  ;tf m;m i3 I   0                     ~JM* m
+£ C~ l~D #Xift!-IE B9 & iMffi»m, $[A].iE fl.ffl o
+        [ fr,-,S M \f J .iE rot!~~ X;f ® 1i] could lead to trade sanctions against France 09 ~>I..~~, :Jt 'P
+countermeasures"~mffi I&, ffe. 1fi!Jffili&"¾ trade sanctions" (~.f ¥ 00 09) M~ ftlJ •"09 ..t.5l~i:5 o
+        [B]~JJfl@1i) has already sparked significant controversy~-=, ffi ffi~;;fi - : - ,~ R1t;tf $~" B ~ 51
+~ (has already)" {tu~ '1 # ~ i~ IO] "~ T ··· ··· ( is apt to)",.=, #f "~ 1)l (controversy)" -f1fu ~ 1-J "ffl; Vl2
+(criticism)", = .. ~°f[ Ill EB "00?'~ ( from America)"~~ 1-;" ~ Jf-1 ?'~ ( at home and abroad)"; [ C] *'J Jfl ® 1iJ
+trade sanctions Nrft:il 09 M£ ~                                  *fiij~~-, w:~m
+                                                                     {B            IPJ i!        Hll*ffl. 09"iij" fmttFo
+00 09 J.i. ~ ffilJ ~" ffij ~~" El 09: ~ *1 00 ~ 1:1. £ ~ 5* !ffl ~" ; [DJ EB @ 1iJ discriminates against American
+                                                                                                                        ml~*        51 :b.~ 00 x.t ~                            *:
+companies" <i! ffil~¥Hll*& )x-J~ 000 lsJ <:Jtffi~ OO~tt e ~) 09Jtt~"ti~ W* ,ill 1t 16" ~~ ~ ~ ~ ~
+illl~zi:fl ,~•                 ~*
+                              i:iJiil" ,:Jttc" ttPff~~~?k ,:JtFo*ffi 10J 09¾ '~oo iJ".~jt£tJ~ 'w~~ 'f4tt e: ~:ifi!
+.t t!- ~ ' " , ffif Jl x i:fl @:Mt~ ~ #                         *•
+                                                       .& ~ 00 ie ~ 09 i:iJ &~ fr '1 o
+         c~ x, ,~ ~ J ll1i r      * *   xt 1iJ ~ ~ tt ~ tJr tlt ~ ll1I , ff.f ~ ~ 1£ -m                           *                  m*m ,
+                                                                                                          ~ i; ~ <i~ iH ~ 1t-fiu~1-) fJ1! ~ 1iJ
+• 11 ~ , -11} )ftf ~ ]Ji ffi jPJ !:j 1iJ ~ ffi IPJ l:t x,t , ~ J.11! ?JG ili .iE ~ ~ tJL llY -1' ~ J:u! cp [ A] , [ D] ffi IPl i:iJ ~ tt ~ :W: , [ B]
+ffi IP] .M£tt/ ~~ , [ C]ffi fP1 § (f(J; mi ffl EB 1iJ ~ ~ ,t:.,ifflffi{~ ,ti°!, "has already sparked significant controversy
+opening an investigation-discriminates against-could lead to trade sanctions against France""fiJ ~:llijf 5l1i
+h-ffilPJ".T€i*li:iJ~tt~*: B~i31 ~'.l::kitiJl, 13 FoAJi~~~~.fr! IE (1(J J.i.~$tl~", EB Jftf-fF~ffi l"l~-fl:
+(J(J [ B] ,[C]v..{,& t1ii JPJ Ji~ , @. P3 ~ffl# ®[DJ o
+                               ······------··-··-- ..................... ----·-····· ·¥·······----· ......... -··· .. . ............ . .
+          ffi O The French tax is not just a unilateral(]) move(,!) by                             • ~ JIil ~ ;!it. ~ -1.st -1.st J!. 5!- 00 - 00 ;/.J Jt
+one country in need of revenue. 8 Instead, the digital                                                                       ~M~~Am~~~~~~~ o ~li..,~
+services tax is part of a much larger trend, with countries                                                                  ~*-- ~ -+ ~ :k. ~ ~ ~, .3- 00 ,/£ i:t¾ Jt.4
+over the past few years proposin gCD or putting in place an                                                                   I •t4~~1-J~~••~u¼•
+alphabet soup of new international tax provisions®. @ They                                                                    ~~oo~«~•• o ~~~-~oo~#
+have included Britain 's DPT ( diverted profits tax),                                                                        ;f;$ '1:1J iM ;f;l ( DPT) , ~ :k. ~,J JE. ~ Jt 00 /~ ~ Ji..
+Australia's MAAL (multinational anti-avoidance law), and
+India's SEP ( significant economic presence) test, to name
+                                                                                                                             il!.;Ji* ( MAAL) ;fp ~17 Ji..~
+                                                                                                                              ( SEP) ~l -a_ , ~ -f o ~ ~ ~ i;J- , it .I. , ~ JJl
+                                                                                                                                                                                    If.*       f§. ~,If,(£
+
+
+but a few. O At the same time, the European Union,
+Spain, Britain and several other countries have all ser iously ~•a~4to
+                                                                                                                                     *
+                                                                                                                              .t , 00 :fi7 Jt. -kl!- JL t- 00 ~ ~ ~ ~ A- .$ •M- ii
+contemplated~ digital services taxes.
+... .. .. ... ... . .··-· ... . . . ..... .. .. ............. . . ... .. .. . .. ... ..... ... ... . .. .. .. .. ... ... . ... .. . ... --... ---- ................................... -................ -- ....... .
+                                                                         :· --~~}~)ti·~~~:~:ir-:::~i: J
+(D unilateral [iju:n1 1lretral] a. lf!1fat] ,lp.,tiat)                                                  ~) e ~Amie
+@move [mu:v] n. ~ffi,fii;j
+® propose [pr3 pauz] v. t!\Sl ;@\SL
+                           1
+                                                                                                        i
+                                                                                                        }~
+                                                                                                                <Dan a lphabet soup of ~-BJ:~ 1 [Pfu Jjc~~
+                                                                                                                @put in place~~
+                         (~~Jt#e<.J)!W.~ .~~
+@ provision [ pra 1vl3D] n.
+@ contemplate ['kontamplett] v. ~.Lt ;,Flit ,,mtt                                                       I
+                                                                                     :1::~jiiJft: :~i:1
+         m=~~-~~=$~.~-~-~--~~~~•g•~m~-~~-~--~$ffl,ffiW~~
+          =m:
+ffli.R OECD ~Bi.~ZMo
+       ffl                      ~-i l~
+            ~ -~~-~X~~~ , a~ifn OO~r-,Jt~*.~ o                                                                                           : a much larger trendo
+                                                                                                                                                                                                           37
+```

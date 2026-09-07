@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P018",
+  "year": 2014,
+  "pdf_page": 18,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014624417531224676,
+      "text": "点，却也见作者严谨，并明确文章重在分析“行业行为而非个人行为”；more than 与 any other 相连，实表",
+      "width": 0.8829786772920165,
+      "x": 0.07021279784335331,
+      "y": 0.9141546524687638
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441859564024997,
+      "text": "最高级之意“比⋯⋯其他任何一个都更⋯⋯”。注：profession 此处为统称“同行，同业”。",
+      "width": 0.7382978853017035,
+      "x": 0.07021276643425459,
+      "y": 0.8924418610900805
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859564024997,
+      "text": "②句（国别比较）指出律师行业饱受诟病最多的国家：美国。句间两组相对词（clients VS lawyers，",
+      "width": 0.8446808154203155,
+      "x": 0.10851065788558689,
+      "y": 0.8706395351598479
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "complaint VS hostility）明确敌意源自“律师的委托人”；ground （a good or true reason for saying, doing or",
+      "width": 0.8872340343277652,
+      "x": 0.06808509940526673,
+      "y": 0.851744186420748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864445,
+      "text": "believing sth”（常复数）充分的理由；根据”）暗示作者对委托人的站位：抱怨有理有据，为下文阐述律师行",
+      "width": 0.8829786772920165,
+      "x": 0.07021279281675764,
+      "y": 0.8313953491024341
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864445,
+      "text": "业备受诟病的原因埋伏笔；more than 与few 相连，也表最高级之意“很少/几乎没有⋯⋯比⋯⋯多”。",
+      "width": 0.8489361724560641,
+      "x": 0.07021275634643623,
+      "y": 0.811046512020312
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372412765295,
+      "text": "【深层解读】多重比较开篇：文首段借助两个比较之形（more...than...）以及一个对比词（But）完成",
+      "width": 0.8468084939381898,
+      "x": 0.10638299413019572,
+      "y": 0.7906976743435205
+    },
+    {
+      "confidence": 1,
+      "height": 0.016020756717746942,
+      "text": "多重比较（一、不同行业招恨多少的比较，二、不同国家律师行业诟病多少的比较，三、两重比较中是否存",
+      "width": 0.8808510573491483,
+      "x": 0.07234043611265974,
+      "y": 0.7703488371342181
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605504524660928,
+      "text": "在特情况的对比），并将视角不断缩窄，最终聚焦在“美国律师行业”。",
+      "width": 0.6021276316578694,
+      "x": 0.07021278744234168,
+      "y": 0.7500000004469107
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013300465725039956,
+      "text": "1 ① During the decade before the economic",
+      "width": 0.41489359147260374,
+      "x": 0.11276597713603832,
+      "y": 0.7180232563323252
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938255,
+      "text": "在经济危机之前的十年里，美国法律服务",
+      "width": 0.3595744478954235,
+      "x": 0.5893617167171817,
+      "y": 0.7090432504475646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790720928375,
+      "text": "crisis, spending on legal services in America grew",
+      "width": 0.4531914826318078,
+      "x": 0.07234043342877687,
+      "y": 0.6976744185465209
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "支出的增长速度是通货膨胀率的两倍。最杰出",
+      "width": 0.3978723390546275,
+      "x": 0.5489361735152395,
+      "y": 0.6887287027662985
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011915556881405887,
+      "text": "twice as fast as inflation\"",
+      "width": 0.2319148936793351,
+      "x": 0.07234042545364554,
+      "y": 0.6787790696594777
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017693315858453462,
+      "text": ".②國 The best lawyers",
+      "width": 0.22340425282659548,
+      "x": 0.3021276570973407,
+      "y": 0.6743119265473582
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "的律师能賺到摩天大楼般高的钱，诱使越来越",
+      "width": 0.39999998828499883,
+      "x": 0.5489361810702664,
+      "y": 0.6684141549615357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0173244576310424,
+      "text": "made skyscrapers®-full of money, tempting ever more",
+      "width": 0.45350922275184447,
+      "x": 0.07220295364676879,
+      "y": 0.6539538833005668
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453462,
+      "text": "多的学生涌向法学院。然而，大多数法学院毕",
+      "width": 0.39999998828499883,
+      "x": 0.5489361758575005,
+      "y": 0.6467889906221986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01340523866026,
+      "text": "students to pile®into law schools. ③ But most law",
+      "width": 0.45531913186217915,
+      "x": 0.07234044165756263,
+      "y": 0.6363040631953994
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "业生从未进入大律师事务所工作，相反，他们中",
+      "width": 0.3978723390546275,
+      "x": 0.5489361680562729,
+      "y": 0.627785058687039
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013370949506447127,
+      "text": "graduates never get a big-firm job. ④ Many of them",
+      "width": 0.45531913186217915,
+      "x": 0.07234044165756263,
+      "y": 0.6159895150914603
+    },
+    {
+      "confidence": 1,
+      "height": 0.013311896067928042,
+      "text": "许多人最后成为那种妨害案件的诉讼律师，致",
+      "width": 0.3978723390546275,
+      "x": 0.5489361680562729,
+      "y": 0.6087811272460151
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013363330111122451,
+      "text": "instead become the kind of nuisance®-lawsuit filer®",
+      "width": 0.45319148263180775,
+      "x": 0.07021276365750048,
+      "y": 0.5973837207085859
+    },
+    {
+      "confidence": 1,
+      "height": 0.016041711304790818,
+      "text": "使民事侵权法律系统变成了价格高昂的噩梦。",
+      "width": 0.3893616835581364,
+      "x": 0.5489361827422083,
+      "y": 0.5871559632857973
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013397618639984676,
+      "text": "that makes the tort®",
+      "width": 0.17446808622803203,
+      "x": 0.07234042752428174,
+      "y": 0.5770348844331004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "system a costly® nightmare.",
+      "width": 0.24042551988832325,
+      "x": 0.2446808575381079,
+      "y": 0.5740498032816637
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01454440888071118,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.2212765889524727,
+      "x": 0.38297872901312524,
+      "y": 0.5334207076018354
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013140449048963498,
+      "text": "①inflation ［in'flejon］ n. 通货膨胀（率）",
+      "width": 0.31063828129686,
+      "x": 0.07021277165653458,
+      "y": 0.5072083882305805
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013140449673913812,
+      "text": "• 经典搭配",
+      "width": 0.10638297404986652,
+      "x": 0.5361702161665561,
+      "y": 0.5072083877388665
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014702520707956634,
+      "text": "②skyscraper ［'skaiskrerp］ n. 摩天大楼",
+      "width": 0.3063829828361174,
+      "x": 0.07234042566400814,
+      "y": 0.48820445626462317
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011938416317281098,
+      "text": "①the economic crisis（经济危机）",
+      "width": 0.24893616074106284,
+      "x": 0.5404255387252132,
+      "y": 0.48951507224375623
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013342375524078354,
+      "text": "③pile ［pail］v. 蜂拥，拥挤",
+      "width": 0.20638297112111623,
+      "x": 0.07234042785889475,
+      "y": 0.4709302323546616
+    },
+    {
+      "confidence": 1,
+      "height": 0.01334237614902889,
+      "text": "②legal services（法律服务）",
+      "width": 0.20638297112111625,
+      "x": 0.5404255340936972,
+      "y": 0.47093023226381847
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550123427204853,
+      "text": "④nuisance ［'njussons］n.（法律）妨害公共利益的行为",
+      "width": 0.4106382930118612,
+      "x": 0.07234043229726078,
+      "y": 0.4534731320888217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013106159895150626,
+      "text": "make skyscrapers-full of money（嫌得盆满钵满）",
+      "width": 0.3680851033919146,
+      "x": 0.5553191565664538,
+      "y": 0.4534731326192941
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013348090695522452,
+      "text": "⑤filer ［'faila」n. 诉讼律师",
+      "width": 0.2106382988693618,
+      "x": 0.07234042292702125,
+      "y": 0.4357798163393509
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013205218283876996,
+      "text": "④pile into（涌入）",
+      "width": 0.13404254583845665,
+      "x": 0.5382978753963745,
+      "y": 0.4344692003425662
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01324331776030252,
+      "text": "⑥tort ［toi］n. 民事侵权行为",
+      "width": 0.22978722980521232,
+      "x": 0.07021276577824498,
+      "y": 0.41860465095931265
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014696805536512536,
+      "text": "Dthe tort system（民事侵权法律系统）",
+      "width": 0.2829787241520214,
+      "x": 0.551063825876117,
+      "y": 0.41715116319763645
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882761704004,
+      "text": "⑦ costly ［'kpst］a. 昂贵的，代价高的",
+      "width": 0.29361699959138077,
+      "x": 0.07234043823622441,
+      "y": 0.39970930262350846
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015027008706589129,
+      "text": "•语篇分析。",
+      "width": 0.11715034880244568,
+      "x": 0.4339780185515323,
+      "y": 0.3718469608295025
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "第二段分析现状原因：法律服务费用高昂，从而引出全文论述主题。关键词为：costly nightmare。",
+      "width": 0.8127659305272313,
+      "x": 0.11063830455907944,
+      "y": 0.34272608105229196
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765184,
+      "text": "①②句追溯过去（经济危机前的10年间）：法律服务费疯涨，顶尖律师赚得盆满钵满，诱使众多学生",
+      "width": 0.840425516959573,
+      "x": 0.11063829934696126,
+      "y": 0.32412790676496295
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765295,
+      "text": "攻读法学院。①句形似将美国法律服务支出增速与通货膨胀速度相比，实际既借通货膨胀（物价上涨）凸",
+      "width": 0.8829787358670225,
+      "x": 0.0702127542473398,
+      "y": 0.30523255784642733
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "显法律服务费涨速（高于通货膨胀），又借通货膨胀负面影响（经济危机）反衬法律服务费高涨不良影响。",
+      "width": 0.8829786772920166,
+      "x": 0.07446811605611928,
+      "y": 0.2863372099272887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "②句顺而指出法律服务费用高涨的影响：律师赚得盆满钵满，诱使众多学生涌人法学院；其中 made",
+      "width": 0.8851063558098908,
+      "x": 0.0723404372014376,
+      "y": 0.2659883723582479
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016030281586853268,
+      "text": "skyscrapers-full of money 为比喻修辞，形象传达顶级律师经济回报之高；隐性因果关联词 tempting 体现这",
+      "width": 0.8808510573491483,
+      "x": 0.07234042248044113,
+      "y": 0.24705111384918055
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "种高经济回报与大量学生涌人法学院之间的因果关联，但注意 tempting（to try to persuade sb to do sth by",
+      "width": 0.8829787358670226,
+      "x": 0.07234041194237543,
+      "y": 0.22804718239120136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01507208387942327,
+      "text": "making it seem attractive*利诱，怂恿”）实质暗示高额收人只是看似诱人、丰满，现实可能骨感而残酷。",
+      "width": 0.8319148614630819,
+      "x": 0.07021279243335243,
+      "y": 0.20904325037125526
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601504092135242,
+      "text": "③④句描述现在：多数毕业生无缘大型律所而成为妨害案件的诉讼律师，使本已疯涨的服务费变成",
+      "width": 0.8425531954774472,
+      "x": 0.11063830430382947,
+      "y": 0.19040697731100953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014595842923905589,
+      "text": "噩梦。两句先借助比率词 most、频度词 never 以及替代性副词 instead 针对②句“超多学生冲着律师的高",
+      "width": 0.8829786772920165,
+      "x": 0.07021278018377913,
+      "y": 0.1715116277034998
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "收入而挤人法学院”做出回应：多数毕业生与大型律所根本无缘，相反，大多只能做做妨害案件的诉讼律",
+      "width": 0.8829786772920165,
+      "x": 0.07234045925292765,
+      "y": 0.1526162797347015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014572982863079953,
+      "text": "师，高收人无从谈起；再借强烈色彩表达词 costly（very expensive, especially wasting a lot of money）",
+      "width": 0.8829787358670226,
+      "x": 0.07234041194237543,
+      "y": 0.13368283118729618
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014681565495962334,
+      "text": "nightmare（a very difficult, unpleasant, or frightening experience or situation）针对①句“法律服务费用增",
+      "width": 0.8829786772920165,
+      "x": 0.07021277797633238,
+      "y": 0.11467889903169204
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "速惊人”做出回应：费用虚高程度严重到令诉讼委托人感觉吃力、怨愤、恐惧，至此明确首段美国律师最",
+      "width": 0.8808510573491484,
+      "x": 0.07234042143180901,
+      "y": 0.09436435101011853
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "受委托人诟病的原因；最后借因果表达词 makes 预示悬念：未能进入大型律所而成为妨害案件的诉讼律",
+      "width": 0.8808510573491483,
+      "x": 0.07234042248044113,
+      "y": 0.0753604195279145
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907209283972,
+      "text": "18",
+      "width": 0.023404255023158224,
+      "x": 0.08723404294054854,
+      "y": 0.05668604625000917
+    }
+  ],
+  "vision_ocr_text": "点，却也见作者严谨，并明确文章重在分析“行业行为而非个人行为”；more than 与 any other 相连，实表\n最高级之意“比⋯⋯其他任何一个都更⋯⋯”。注：profession 此处为统称“同行，同业”。\n②句（国别比较）指出律师行业饱受诟病最多的国家：美国。句间两组相对词（clients VS lawyers，\ncomplaint VS hostility）明确敌意源自“律师的委托人”；ground （a good or true reason for saying, doing or\nbelieving sth”（常复数）充分的理由；根据”）暗示作者对委托人的站位：抱怨有理有据，为下文阐述律师行\n业备受诟病的原因埋伏笔；more than 与few 相连，也表最高级之意“很少/几乎没有⋯⋯比⋯⋯多”。\n【深层解读】多重比较开篇：文首段借助两个比较之形（more...than...）以及一个对比词（But）完成\n多重比较（一、不同行业招恨多少的比较，二、不同国家律师行业诟病多少的比较，三、两重比较中是否存\n在特情况的对比），并将视角不断缩窄，最终聚焦在“美国律师行业”。\n1 ① During the decade before the economic\n在经济危机之前的十年里，美国法律服务\ncrisis, spending on legal services in America grew\n支出的增长速度是通货膨胀率的两倍。最杰出\ntwice as fast as inflation\"\n.②國 The best lawyers\n的律师能賺到摩天大楼般高的钱，诱使越来越\nmade skyscrapers®-full of money, tempting ever more\n多的学生涌向法学院。然而，大多数法学院毕\nstudents to pile®into law schools. ③ But most law\n业生从未进入大律师事务所工作，相反，他们中\ngraduates never get a big-firm job. ④ Many of them\n许多人最后成为那种妨害案件的诉讼律师，致\ninstead become the kind of nuisance®-lawsuit filer®\n使民事侵权法律系统变成了价格高昂的噩梦。\nthat makes the tort®\nsystem a costly® nightmare.\n•词汇注释与难句分析•\n①inflation ［in'flejon］ n. 通货膨胀（率）\n• 经典搭配\n②skyscraper ［'skaiskrerp］ n. 摩天大楼\n①the economic crisis（经济危机）\n③pile ［pail］v. 蜂拥，拥挤\n②legal services（法律服务）\n④nuisance ［'njussons］n.（法律）妨害公共利益的行为\nmake skyscrapers-full of money（嫌得盆满钵满）\n⑤filer ［'faila」n. 诉讼律师\n④pile into（涌入）\n⑥tort ［toi］n. 民事侵权行为\nDthe tort system（民事侵权法律系统）\n⑦ costly ［'kpst］a. 昂贵的，代价高的\n•语篇分析。\n第二段分析现状原因：法律服务费用高昂，从而引出全文论述主题。关键词为：costly nightmare。\n①②句追溯过去（经济危机前的10年间）：法律服务费疯涨，顶尖律师赚得盆满钵满，诱使众多学生\n攻读法学院。①句形似将美国法律服务支出增速与通货膨胀速度相比，实际既借通货膨胀（物价上涨）凸\n显法律服务费涨速（高于通货膨胀），又借通货膨胀负面影响（经济危机）反衬法律服务费高涨不良影响。\n②句顺而指出法律服务费用高涨的影响：律师赚得盆满钵满，诱使众多学生涌人法学院；其中 made\nskyscrapers-full of money 为比喻修辞，形象传达顶级律师经济回报之高；隐性因果关联词 tempting 体现这\n种高经济回报与大量学生涌人法学院之间的因果关联，但注意 tempting（to try to persuade sb to do sth by\nmaking it seem attractive*利诱，怂恿”）实质暗示高额收人只是看似诱人、丰满，现实可能骨感而残酷。\n③④句描述现在：多数毕业生无缘大型律所而成为妨害案件的诉讼律师，使本已疯涨的服务费变成\n噩梦。两句先借助比率词 most、频度词 never 以及替代性副词 instead 针对②句“超多学生冲着律师的高\n收入而挤人法学院”做出回应：多数毕业生与大型律所根本无缘，相反，大多只能做做妨害案件的诉讼律\n师，高收人无从谈起；再借强烈色彩表达词 costly（very expensive, especially wasting a lot of money）\nnightmare（a very difficult, unpleasant, or frightening experience or situation）针对①句“法律服务费用增\n速惊人”做出回应：费用虚高程度严重到令诉讼委托人感觉吃力、怨愤、恐惧，至此明确首段美国律师最\n受委托人诟病的原因；最后借因果表达词 makes 预示悬念：未能进入大型律所而成为妨害案件的诉讼律\n18",
+  "pdf_text_layer": "点，去11 也见作者 严谨，并 明确 文章重 在分析“行业行为而 ＝II三 个人行为”； mor e than 与 a n y o th e r 相连， 实表\n最高级之主♂ 比…… 其 他任何 一个 都更 … …” 。 注 ： p rofess i o n 此处为统称 “ 同行，同业” 。\n     ②旬（国别比较）指出律师行业饱受话病最多的国家：美国。 句间两组相对同（ cli e nts VS law ye rs,\ncomp laint VS ho st i l i ty ） 明确敌 意 源自“律师的 委 托人”； g round ( a good or t ru e r巳ason fo r saying , d o ing o r\nbe li eving st h “ （常复数）充分 的理由；根据” ） II音示 作者对 委托 人的站位：抱怨 有现有 据，为下 文 阐述律师行\n业备 受 垢病的原因埋伏 笔； mor e th a n 与 few 相连，也表 最高 级之 1言：“很少 ／几 乎没有 ……比…… 多 ” 。\n     【深层解读】多重比较开篇： 文首段 借助两个比较之形 （ m o re. .                                                 than . .. ）以及－个对比词（ But ）完成\n多重 比较（ 一 、 不同行业捎恨 多 少的比较， 二 、不 同国家 律 师 行业诵病多少的 比 较， 三 、两重比较中是否存\n在特殊情况的对比），另将视角不断缩窄，最终聚焦在“美国律师行业” 。\n\n\n       II O During th e deca de be fore the eco nomi c                                 在经济危机之前的十年里，美国法律服务\ncn s is , spending o n lega l se rv ices in Ame n ca g rew\n                                                                             支出的增长速度是通货膨胀率的两倍 。 最杰出\ntw ice as fast as inflation① ．     ＠ 囚 Th e bes t lawye r s\n                                                                             的律师能赚到摩天大楼般高的钱，诱使越来越\nm ade skyscrapers。 － fu ll o f money, tempting eve r more\n                                                                              多的学生涌向法学院 。 然而，大多数法学院毕\ns tud e nt s Lo pileCTJ in to law sc hoo ls. @ B ut mos l law\n                                                                             业生从未进入大律师事务所工作，相反，他们中\ngrad ua t es never ge t a bi g- firm j o b. 。 M a n y o f th em\n                                                                             许多人最后成为那种妨害案件的诉讼律师，致\n111s tea d b eco m巳 th e kind o f nuisance® laws uit filer⑤\n                                                                             使民事侵权法律系统变成了价格高昂的噩梦 。\n                                             “\n\n\n\nth a t m a kes th e tort® system a costly( ni g htm are.\n\n\n                                                             释…\n                                                                            析             J\n                                                                      难 …\n                                                 词－\n                                                             注    与\n                                                      广」 …\n                                                                                   －\n\n\n                                                                      …\n                                                                            分 …\n                                                      －      －    ，         旬      ，\n\n\n\n\n( inflation [ 1n1fle1Jan] n. 通货膨胀（ 率）                                       ．经典搭配\n( skyscraper [ 'ska时王re1pa] n. 摩天大楼                                         ( th e eco nom ic c r is i s （经济危 机 ）\n( pile [ pail] v . 蜂拥，拥挤                                                    ( lega l sc r 、， i ces （法律 服 务）\n( nuisance [ 1nj u:sans］ η ．（法律）妨害公共利益的行为                                   ( ma\n( filer ['fa ,I a］ 凡诉讼律师                                                    ( pil e int o （涌入）\n@ tort [ L击。”－民事侵权行为                                                        ( th e tort system （民事侵权法律系统）\n( costly [ 1kosll1Jυ ．昂贵 的，代价 高 的\n\n\n                                                      二遗毒分析：： J\n       第二段分析现状原因：法律服务费用高昂，从而引出全文论述主题。关键词为： costly nightmare 。\n       ①②旬追溯过去（经济危机前的 10 年间） ：法律服务费疯涨，顶尖律师赚得盆满钵满，诱使众多学生\n攻读法学院。 ①句形 似将 美国法律服务支 :-1：＼ 增速与 通货膨胀速 度 相比， 实际既借通 货膨胀（物价上涨）凸\n显法律服务费’涨速（高于通货膨胀），又借通货膨胀负面影 响（ 经济 危机） 反 衬法 律 服务费 高 涨不良影 H向 。\n① 句 JIID！ 而指出 法律 服 务 !/JJ 用高涨 的 影 H向： 律 师赚得盆 拟i 钵满 ，请使众多学生涌入法学院 ； 其 中 made\ns kysc叫Jers- f ull of money 为 比 JI俞修辞，形 象传 达顶级律师 经济 回报之高； ｜（急性因果关联词 tempt ing 体现这\n种 高经济凹报与大量学生 涌 入法学院之 间的因果 关 联，但 注意 l巳mpting( to try to pers uade s b to do sth b y\nmaking it seem attractive' ,1J 诱，怂思、 ” ）实质 fl音示高额 ti立入只是看似诱人、丰满，现实可自旨霄感而残酣。\n       ③④旬描述现在：多数毕业生无缘大型律所而成为妨害案件的诉讼律师，使本已疯涨的服务费变成\n噩梦。 两句先借助比率同 most 、频度词 n eve r 以及 替 代忆l: IM 词 in stea d 针对 ②句“超多学生冲着律 师的 高\n收 入 而 挤入法学 院 ”做／：H 回 应 ： 多 数毕业 生与大型律 所根 本 无 缘， 相反 ，大多 只能做做妨 害案 件的诉讼律\n师， 高收入无 从谈起； 再借强烈色彩表达词 cos tl y ( very expensive, esp巳c i a ll y wasting a lot of money )\nni g htmare( a very difficult , unpleasant , or frightening ex p巳 ri e n ce o r situa ti o n ）针对①句“法律服务费用增\n速惊人”做出回应 ： 费用虚高程度严重到令诉讼委托人感觉吃力、怨愤、恐惧，至 此明确 首段美国律 师 最\n受委 托人垢病的 原因 ； 最后 借因果 表达同 m a k es 预示 悬念 ： 未 能进入 大型律 所而成为妨 害案 件的诉讼律\n  18",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2257,
+    "pdf_text_character_count": 4359,
+    "nonempty": true
+  }
+}

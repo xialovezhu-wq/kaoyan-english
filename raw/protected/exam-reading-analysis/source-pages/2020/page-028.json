@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P028",
+  "year": 2020,
+  "pdf_page": 28,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014629847774055627,
+      "text": "the most privileged and does little to help average people）。",
+      "width": 0.49471458092843007,
+      "x": 0.0634249546732056,
+      "y": 0.8982558144849537
+    },
+    {
+      "confidence": 1,
+      "height": 0.02041742286751358,
+      "text": "［B］从第二段“法案旨在确保性别平等”和第三段①句“州政府委员会中女性成员明显少于男性”主",
+      "width": 0.8393234212669031,
+      "x": 0.10147994395730653,
+      "y": 0.8793103450735633
+    },
+    {
+      "confidence": 1,
+      "height": 0.019056261343012748,
+      "text": "观推出“法案对州政府构成威胁”，但文中并未提及此因果关联。［C］基于惯性思维，由第三段③句所述",
+      "width": 0.8773784385822064,
+      "x": 0.06342493830227246,
+      "y": 0.8588929215894274
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186034436246,
+      "text": "法案内容“要求州内各类委员会留出50%的席位给女性”过度推断出女性在政界的地位将会提高。［DJ",
+      "width": 0.8794926062108344,
+      "x": 0.06342493692277178,
+      "y": 0.8415697673811133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "将第三段②句 ensure that elite women have more such opportunities（确保精英女性有更多机会进入政府",
+      "width": 0.8794926062108344,
+      "x": 0.06342495158098158,
+      "y": 0.8225952811017294
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01806610422428645,
+      "text": "委员会）曲解“大大拓宽了人们的职业选择”",
+      "width": 0.39142667020531,
+      "x": 0.06328289907601177,
+      "y": 0.8017693789099753
+    },
+    {
+      "confidence": 1,
+      "height": 0.021147318630599266,
+      "text": "［技巧总结］本题明为考查作者观点，暗中考查例证关系。解题关键在于意识到第二、三段事例是对",
+      "width": 0.8396218332577505,
+      "x": 0.10133851035243041,
+      "y": 0.7808785388051065
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019056261343012748,
+      "text": "第一段观点的例证，并厘清第一段中的作者观点：先由第二段 A pair of bills.•• provide a case in point 可",
+      "width": 0.8794926062108344,
+      "x": 0.06342495207428661,
+      "y": 0.7645190559672808
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606487146090252,
+      "text": "知例证关系，判断正确项应体现第一段作者主要观点。再根据第一段 Progressives often support...But",
+      "width": 0.8816067738394624,
+      "x": 0.06553911514157945,
+      "y": 0.7470930231795956
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018895348273690993,
+      "text": "all too often such policies...将信息分类“①句介绍他人观点，②句作者予以反驳”，进一步确定正确项应",
+      "width": 0.8816067738394624,
+      "x": 0.06342495354009944,
+      "y": 0.7267441865644626
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "与②句相符。最后将选项与②句相较：［AJhelp little to reduce gender bias 与 does little to help average",
+      "width": 0.8816067738394624,
+      "x": 0.06765328004644199,
+      "y": 0.7063953489944855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "people 近义，为正确项，［B］、［C］、［D］均体现法案的强大作用，与作者观点矛盾，可排除。",
+      "width": 0.7420718713926452,
+      "x": 0.06553911097386782,
+      "y": 0.6873865698122112
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011796733212341204,
+      "text": "① The bills are similar to a measure recently",
+      "width": 0.42494712970502146,
+      "x": 0.1395348875576373,
+      "y": 0.658348457563829
+    },
+    {
+      "confidence": 1,
+      "height": 0.014701071322072545,
+      "text": "上述法案和加州最近通过的一项措",
+      "width": 0.31289640643036776,
+      "x": 0.627906979321814,
+      "y": 0.6524500911309583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "adopted in California, which last year became the first state",
+      "width": 0.4989429161856859,
+      "x": 0.06765327139975756,
+      "y": 0.6395348838917208
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "施相似。去年，加州成为了美国首个要求",
+      "width": 0.353065551113642,
+      "x": 0.5877378354156949,
+      "y": 0.6306715062782968
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014569176087145808,
+      "text": "to require gender quotas for private companies. ②In signing",
+      "width": 0.49894291618568604,
+      "x": 0.06765328503612085,
+      "y": 0.6206395356089848
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "私企实行性别配额制的州。签署该措施",
+      "width": 0.3530655511136419,
+      "x": 0.5877378387983586,
+      "y": 0.6119186045371211
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01455334872818681,
+      "text": "the measure, California Governor Jerry Brown admitted",
+      "width": 0.49682874855705805,
+      "x": 0.06976743976304967,
+      "y": 0.6002722321114718
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599892341073761,
+      "text": "时，加州州长杰里•布朗承认，这项法规",
+      "width": 0.3509513834850141,
+      "x": 0.5898520013109512,
+      "y": 0.59301270458457
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "that the law, which expressly® classifies people on the basis",
+      "width": 0.5010570838143139,
+      "x": 0.06765328462561226,
+      "y": 0.5812159713886254
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "明确根据性别将人们分类，很可能违宪。",
+      "width": 0.3382663777132463,
+      "x": 0.5898520144414741,
+      "y": 0.573956442910597
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014632485522981575,
+      "text": "of sex, is probably unconstitutional®",
+      "width": 0.30232556828722784,
+      "x": 0.06976745122636484,
+      "y": 0.5625000006283646
+    },
+    {
+      "confidence": 1,
+      "height": 0.01454807236493183,
+      "text": "美国最高法院不赞成基于性别的分",
+      "width": 0.31289640643036776,
+      "x": 0.6300211440011656,
+      "y": 0.5566860470673181
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013221204172677914,
+      "text": "① The US Supreme Court frowns on sex-based",
+      "width": 0.4249471297050214,
+      "x": 0.14376321630499472,
+      "y": 0.5449183303949037
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "类，除非是为了解决“重大”政策利益问",
+      "width": 0.350951383485014,
+      "x": 0.5898520009001992,
+      "y": 0.536297640358185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016104440291001443,
+      "text": "classifications unless they are designed to address an \"important”",
+      "width": 0.498942916185686,
+      "x": 0.06976744292195615,
+      "y": 0.5231397457566317
+    },
+    {
+      "confidence": 1,
+      "height": 0.017765474405998405,
+      "text": "题。因为加州的这项法规适用于所有的",
+      "width": 0.3532793352031456,
+      "x": 0.5897378422989351,
+      "y": 0.5158412616897781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01324230746219024,
+      "text": "policy interest. ② Because the California law applies to all",
+      "width": 0.4968287485570581,
+      "x": 0.07188161294839128,
+      "y": 0.5058139538347924
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606487146090252,
+      "text": "董事会，甚至包括那些根本没有歧视历史",
+      "width": 0.3530655108529849,
+      "x": 0.5898520199170595,
+      "y": 0.49709302289495405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01461138266617068,
+      "text": "boards, even where there is no history of prior®",
+      "width": 0.49260041329980214,
+      "x": 0.07188161565453859,
+      "y": 0.48684210507755776
+    },
+    {
+      "confidence": 1,
+      "height": 0.01460346855398964,
+      "text": "的董事会，所以法庭很可能会裁定该法规",
+      "width": 0.350951383485014,
+      "x": 0.591966166988994,
+      "y": 0.4795825773292737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013281876292289274,
+      "text": "discrimination, courts are likely to rule that the law",
+      "width": 0.49682874855705816,
+      "x": 0.07188161501851101,
+      "y": 0.4694767445021858
+    },
+    {
+      "confidence": 1,
+      "height": 0.018810871075805036,
+      "text": "违反了“平等保护”这一宪法保障。",
+      "width": 0.2921865458224254,
+      "x": 0.5896699054090626,
+      "y": 0.4606390717515799
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01602530349620679,
+      "text": "violates® the constitutional guarantee of “equal protection”",
+      "width": 0.4862579104139182,
+      "x": 0.07188160955695932,
+      "y": 0.4505444643731318
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017695099818511806,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22198731918133657,
+      "x": 0.3826638438448497,
+      "y": 0.4083484571367182
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014553348728186921,
+      "text": "①expressly ［ik'spresli］ ad.明确地，故意地",
+      "width": 0.325581392071807,
+      "x": 0.06976744675479413,
+      "y": 0.38517441917487627
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013157894736842146,
+      "text": "④violate ［'varoilert］v.违反",
+      "width": 0.21141648103819677,
+      "x": 0.5348837235400983,
+      "y": 0.38656987279501787
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013300341832875762,
+      "text": "② unconstitutional ［iAnkansti'tju:fonal］ a. 违背宪法的",
+      "width": 0.38900632027900317,
+      "x": 0.0697674490782575,
+      "y": 0.3691860467296567
+    },
+    {
+      "confidence": 1,
+      "height": 0.013696462835460776,
+      "text": "经典搭配",
+      "width": 0.07843688924583092,
+      "x": 0.5622614713679848,
+      "y": 0.36742502447329217
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014645675133014513,
+      "text": "③prior ［'praz］ a. 先前的，较早的",
+      "width": 0.2600422761056542,
+      "x": 0.07188160850410433,
+      "y": 0.3516333940891192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01455334872818681,
+      "text": "①frown on（不赞成）",
+      "width": 0.16067652840727553,
+      "x": 0.5348837251198294,
+      "y": 0.3502722322568207
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020427973863217486,
+      "text": "•语篇分析•泌",
+      "width": 0.15644820321518393,
+      "x": 0.43551797147204163,
+      "y": 0.32259528127802095
+    },
+    {
+      "confidence": 1,
+      "height": 0.016101802542075494,
+      "text": "第四、五段以加州法规为例，质疑此类政策的合宪性。",
+      "width": 0.44820293335927197,
+      "x": 0.11205075692853875,
+      "y": 0.2965116277580838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "第四段引出加州法规并指出该法规可能违宪。关键词：①a measure； ②probably unconstitutional。",
+      "width": 0.8118393226160537,
+      "x": 0.11205074714863263,
+      "y": 0.27761627894509944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "①句引出加州法规。The bills are similar to..引出与麻州法案类似的措施/另一项多样性指令：加",
+      "width": 0.8393234212669032,
+      "x": 0.11205077133272172,
+      "y": 0.25998185159448395
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "州最近通过的一项措施（a measure recently adopted in California）。require gender quotas 说明加州措施",
+      "width": 0.8794926062108344,
+      "x": 0.07188159507640114,
+      "y": 0.24127906976967928
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01604904410194352,
+      "text": "与麻州法案本质相同：要求实施性别配额。for private companies 和前文 state-government boards 对比、",
+      "width": 0.8794926062108345,
+      "x": 0.07399577757111545,
+      "y": 0.22232304906778255
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "体现二者针对对象不同：麻州法案针对政府委员会；加州措施针对私企董事会。adopted、which last year",
+      "width": 0.8816067738394624,
+      "x": 0.0739957564999308,
+      "y": 0.2032667876151918
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555986477112759,
+      "text": "became the first state.•.点明二者另一细微差异：前者尚未立法，后者已经成为正式法规。",
+      "width": 0.7589852124216687,
+      "x": 0.07188160856717814,
+      "y": 0.18602540838870874
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "②句借州长之口，指出法规可能违宪。句子整体 In signing the measure..•.admitted that...以伴随",
+      "width": 0.8414375888955311,
+      "x": 0.11205076999198074,
+      "y": 0.16560798591028925
+    },
+    {
+      "confidence": 1,
+      "height": 0.019132784620170873,
+      "text": "动作指出：措施虽得以签署，但其实很可能违宪（unconstitutional 意为“违反宪法的，违反宪章的”）。",
+      "width": 0.8817306961421916,
+      "x": 0.07393715556812286,
+      "y": 0.14677367698816912
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "which 从句点明原因：它明确地将人们根据性别分类（expressly classifies people on the basis of sex）。",
+      "width": 0.8498942594100427,
+      "x": 0.0739957949249996,
+      "y": 0.1279069768045631
+    },
+    {
+      "confidence": 1,
+      "height": 0.017468239564428334,
+      "text": "第五段进一步明确加州法规具体违宪之处：违反“平等保护”这一宪法保障。关键词：violates the",
+      "width": 0.8414375888955311,
+      "x": 0.1141649305346164,
+      "y": 0.1075317602298459
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014600830805063691,
+      "text": "constitutional guarantee of \"equal protection”。",
+      "width": 0.3826638576537764,
+      "x": 0.0739957715166635,
+      "y": 0.09156976792487626
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01785101431900271,
+      "text": "①句首先明确美国最高法院（宪法的解释者）站位：不赞成基于性别的分类。sex-based",
+      "width": 0.8415520096831712,
+      "x": 0.1119900366465483,
+      "y": 0.07099519362002837
+    },
+    {
+      "confidence": 1,
+      "height": 0.011796733212341204,
+      "text": "28",
+      "width": 0.023255813719414792,
+      "x": 0.08879492592746668,
+      "y": 0.04355716862078918
+    }
+  ],
+  "vision_ocr_text": "the most privileged and does little to help average people）。\n［B］从第二段“法案旨在确保性别平等”和第三段①句“州政府委员会中女性成员明显少于男性”主\n观推出“法案对州政府构成威胁”，但文中并未提及此因果关联。［C］基于惯性思维，由第三段③句所述\n法案内容“要求州内各类委员会留出50%的席位给女性”过度推断出女性在政界的地位将会提高。［DJ\n将第三段②句 ensure that elite women have more such opportunities（确保精英女性有更多机会进入政府\n委员会）曲解“大大拓宽了人们的职业选择”\n［技巧总结］本题明为考查作者观点，暗中考查例证关系。解题关键在于意识到第二、三段事例是对\n第一段观点的例证，并厘清第一段中的作者观点：先由第二段 A pair of bills.•• provide a case in point 可\n知例证关系，判断正确项应体现第一段作者主要观点。再根据第一段 Progressives often support...But\nall too often such policies...将信息分类“①句介绍他人观点，②句作者予以反驳”，进一步确定正确项应\n与②句相符。最后将选项与②句相较：［AJhelp little to reduce gender bias 与 does little to help average\npeople 近义，为正确项，［B］、［C］、［D］均体现法案的强大作用，与作者观点矛盾，可排除。\n① The bills are similar to a measure recently\n上述法案和加州最近通过的一项措\nadopted in California, which last year became the first state\n施相似。去年，加州成为了美国首个要求\nto require gender quotas for private companies. ②In signing\n私企实行性别配额制的州。签署该措施\nthe measure, California Governor Jerry Brown admitted\n时，加州州长杰里•布朗承认，这项法规\nthat the law, which expressly® classifies people on the basis\n明确根据性别将人们分类，很可能违宪。\nof sex, is probably unconstitutional®\n美国最高法院不赞成基于性别的分\n① The US Supreme Court frowns on sex-based\n类，除非是为了解决“重大”政策利益问\nclassifications unless they are designed to address an \"important”\n题。因为加州的这项法规适用于所有的\npolicy interest. ② Because the California law applies to all\n董事会，甚至包括那些根本没有歧视历史\nboards, even where there is no history of prior®\n的董事会，所以法庭很可能会裁定该法规\ndiscrimination, courts are likely to rule that the law\n违反了“平等保护”这一宪法保障。\nviolates® the constitutional guarantee of “equal protection”\n•词汇注释与难句分析•\n①expressly ［ik'spresli］ ad.明确地，故意地\n④violate ［'varoilert］v.违反\n② unconstitutional ［iAnkansti'tju:fonal］ a. 违背宪法的\n经典搭配\n③prior ［'praz］ a. 先前的，较早的\n①frown on（不赞成）\n•语篇分析•泌\n第四、五段以加州法规为例，质疑此类政策的合宪性。\n第四段引出加州法规并指出该法规可能违宪。关键词：①a measure； ②probably unconstitutional。\n①句引出加州法规。The bills are similar to..引出与麻州法案类似的措施/另一项多样性指令：加\n州最近通过的一项措施（a measure recently adopted in California）。require gender quotas 说明加州措施\n与麻州法案本质相同：要求实施性别配额。for private companies 和前文 state-government boards 对比、\n体现二者针对对象不同：麻州法案针对政府委员会；加州措施针对私企董事会。adopted、which last year\nbecame the first state.•.点明二者另一细微差异：前者尚未立法，后者已经成为正式法规。\n②句借州长之口，指出法规可能违宪。句子整体 In signing the measure..•.admitted that...以伴随\n动作指出：措施虽得以签署，但其实很可能违宪（unconstitutional 意为“违反宪法的，违反宪章的”）。\nwhich 从句点明原因：它明确地将人们根据性别分类（expressly classifies people on the basis of sex）。\n第五段进一步明确加州法规具体违宪之处：违反“平等保护”这一宪法保障。关键词：violates the\nconstitutional guarantee of \"equal protection”。\n①句首先明确美国最高法院（宪法的解释者）站位：不赞成基于性别的分类。sex-based\n28",
+  "pdf_text_layer": "the most pri,·ileged and does little to help average people) o\n      [BJ J>\\ffi-=~\"tt~ ~tEliffl-f*tt§J1JJfZ-~\"®ffi = m<D1iJ\" rH ;tJ&~ .m. ~ lf:1 ::9:tt~JA ~ §p_ 1,-,=- ~ tt\" £\n~ t,l lli \"ti~X-tfN ®:Jt-f~ mtwtMJ-\" ,©.X lf:1 #*il.&Jlt ~ *~l{x o [C]~-=f 'tltt}ltt , Ea ffi _ffl:@1iJ J,r,t\nt1~1*1$\"~*7H 1*1*~~.m.~ffi lli so %a<J~&~-J;,.:tt\"ii.1JtttWTl:tl::9:tttE®:~a<J~&~~tf!j@j [ DJ                                                                                                                                                                      O\n\n\n\nll4f-ffi=ffl:®1iJ ensure that elite women have more such oppor tunities(~-f*ffl~j(ft;fj]!~tJL~:iltAiitJ&\n~ .9l ~ ) Hh fr# 1J \" ::k ::k 10 ~ 7 A 1n (fJ llR }lk. ~ ff:\" o\n        [ ~~~~ J *~~::J-J~~fF~~R,~~~~~YE~~o~~~-tE r~~~ffi-=, = R$~~~\n                            '*\nffi-~xte.h.. a<J{9}Jici£ JJimffi-~ i:p a<Jf'F~xte.R :;tc ea ffi=ffl: A pair of bills.. . provide a case in point -ey\n~19iJYE~~ ,~jlfr:i£rJ)lJ~m_i*Jll'.ffi-3:fF~ ~~~~ -M-~fflffi-ffl: Progressives often support . .. But                          0\n\n\n\nall too often sue!) policies. .. ~1t ,~, Jt~\"(D'ii]:fttB fm,A.~R,\\ , ®'iiJ fF ~'T ~ &~'' , ilt- ~refQ ~:iE ~ J.'j!J5}l\n  ~@/4:i]ffl~ ilFo~~JJi ~ ®'ii] ffl~: [A]h~lp little to reduce gender bias ~ does little to help average\n                0\n\n\n\n people i!r Sl, 11 iE liiftlJi ; [BJ, [CJ, [D]ft9-f*~ti~ (fJ si ::kfF ffl , ~ f'I:~ %i1R,\\~ m, iiJ 1-IF~ o\n                        •   ·-· -- ---······ -   ········   ...................... ¥   ••   · ·-   ····   -   ..................................... . . .................... .   .. .   ....   •••••••••••   ........ .   . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .\n\n\n\n\n       N O The bills are similar ·to a measure recently\n                                                                                                                                                             J:.~** ~. ?'Ii •ut.i! i:t. s(J -\"Ji ---\nadopted in California, which last year became the first state\n                                                                                                                                                  ~ ~~ o ¾~,-/JP ffl A~                                            r • m• +~~\nto require gender quotas for private companies. @ In signing\n                                                                                                                                                  ~¼iff~m~- - ~ ~ o • ¾Ma~\nthe measure, Califor nia Governor Jerry Brown admitted\nthat the law, which expressty<D classifies people on the basis\n                                                                                                                                                  acj- , mi rij 11i         *\n                                                                                                                                                                    :!-. 1'- • ;ip IJt ,J(.. iA , i!. Jji ~\n                                                                                                                                                  II}! ~ ,lJ_ ,ii ,~J1J~ A..1fl ~~ , ~ll PJ\"~ il ~ o\n                                                                                                                                                                                                                                                                          *\nof sex, is probably uncons titutional® .\n       ·V O The US Supreme Court frowns on sex- based\n                                                                                                                                                              ~ l!l ~ ii;                  *     ~ ~ f- ~ ~ i\" ·~ Ji) s(J 51--\n                                                                                                                                                  ~ , fit.-~~ Jl ~ 1 WI- tJt \" 't: :k.\" It ¥. ~·l Ji liiJ\n classifications unless they are designed to address an \"important''\n                                                                                                                                                  ~      o     ~ ~ mi ffl ~i!.~*~~m T ~~ ~\n policy interest. 8 Because the Ca lifornia law applies to all\n                                                                                                                                                  t•+ ,~L~#•&•~a#~~~ ~\n boards, even where there is no history of priora>\n                                                                                                                                                   a(J ~ :f:        *, *        JtAll of tt. ½ ~ ~ it\n                                                                                                                                                                             JiJr 1t;l.                                                                                    *~\n di scrimi nation, courts are likely to rule that the law\n violates® the constitutional guarantee of \"equal protection\".\n                                                                                                                                                  il .&. r          \"-t ~ ~ ;!P,, l!. - 3t 1* ff o                   *\n                                                                        : ·:··$:{t)iij:~..~:~:~:::~l J\n (Dexpressly [1k 1spresli] ad. IYHifut&, $1.!iit!!.                                                                      ~)       © violate [ 1va1a1lert] v. '1.&\n (Z) unconstitutionaJ [ 1Ankan.st1 1tju:J3nal] a. ,1 =w ~ i! 1¥1\n                                                                                                             i~ • ~•mAl\n @ prior [ 'prara] a. ~fr.ii¥] ,~1,!1¥]\n                                                                                              ........... . ......... 1'\n                                                                                              :' :-ffi-~'1[ • : :::' -\n                                                                                                                                  <Dfrown on(~,t .@t)\n\n                                                                                               - -. - . -. .. --.. -. -..... -..\n\n         • Im .. .D. Ji ~;.t 1111 ffl ~ ~ '1 iJIJ ' Jl ~ Jlt ~ l.i • ~ ~ ~ '~ 0\n         IHl!I ii SI tl:i 1JQ ffl ~~*ffi tl:i ~~M1 iiTft~it 3¥: o *lliffl : <Da measure; @ probably unconstitutional o\n         (D iiJ sI W1Jn ffl ~ ~ o The bills are similar to... s11:tl ~ ~ 1N t1 ~ ~ {~ ~ ffi nf¥,/ ~ -JJ! ~ Wtt ffi 1r- : ha\n f H:il:i!riitta{J-J'.9!ffini(a measure recently adopted in California) o require gender quotas iM.~1.mfHffiMB\n 5j   •1tt t!~*~ffl ~31<:~mstt§JIJffc~L\n                              fiij:                                                                 for private companies ~ttrx state-government boards~ tt '\n -f*~=~ttx-tx-t•~ lii1 =•7H ~*fl-X;j®:.Rl~ .9l ~ dJO fHffl'Ms#x;ffb1Ef!•~ o adopted , which last year\n became the first state... h.. P)J = ~~ - ffiUl&: ~#: lru~ ~ *11:~ ,Fo ~ B~J&'1 .iE~~~                                                                                                                                     o\n\n\n       ® -aJ ffi ffl ~ Z t:J , mW 51' Me Rf~ i!!i 3¥: o ljjJ =f ~ i* In signing the measure, .. . admitted that... ~ f:¥ ~\n f;Jfl: ffi ili: ffinfslil~f ~ ~~, f.B ;)t~~E! iiJ ~Ji% ( unconstitutional ~ '1\"ii&%~ (fJ, ii&%• tJ(J \" ) o\n                                                                                  *\n which l>\\ 1iJ g ~ J»: f5I : B ~ f!fD id?.~ .A.-fn fflfijlj ,t~ ( expressly classifies people on the basis of sex) o\n        • .n $ii!-~ P_ij ii 1JP !Ni ~ ~ ft f* it i: Z. ~ : ~ & lp. ~ -fi iP\" jg - ~ ~ -1* IIt o ~ ii ii] : violates the           11\n\n\n\n constitutional guarantee of \"equal protection\" 0\n         <D~ 1t ~ M rl ~ ~ II a ~ ~ (~ ~ 1¥J Iii ff • ) 'g/; iR: ~ tit /jJ. ~ T '1i §Jlj l¥J ~ ~ o sex-based\n    28",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2479,
+    "pdf_text_character_count": 8004,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P010",
+  "year": 2014,
+  "pdf_page": 10,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.019001887106770643,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22174839598203572,
+      "x": 0.38805970577586196,
+      "y": 0.9142441860490148
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013218372904193365,
+      "text": "①allowance ［o'lawans］n. 津贴，补贴",
+      "width": 0.2771854803337932,
+      "x": 0.0724946824876876,
+      "y": 0.8893979056101595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013376445670402415,
+      "text": "• 经典搭配",
+      "width": 0.10668686850286035,
+      "x": 0.5351427072354418,
+      "y": 0.8879338702586201
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015052356020942348,
+      "text": "②claim ［klem］v. 声称，断言",
+      "width": 0.2324093838799709,
+      "x": 0.07036247388091005,
+      "y": 0.870418848196367
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013157493781044916,
+      "text": "①sign on（注册，登记）",
+      "width": 0.17910447367779814,
+      "x": 0.5351812371483078,
+      "y": 0.8691099476269611
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790628003818,
+      "text": "知识补充",
+      "width": 0.06609807957156832,
+      "x": 0.8550106608805271,
+      "y": 0.8662790700431204
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01460337264375533,
+      "text": "③benefit［'benufit］n.津贴，救济金",
+      "width": 0.2707889139537848,
+      "x": 0.07036247040406002,
+      "y": 0.8531976741814639
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790628003818,
+      "text": "②stay off...（远离⋯⋯）",
+      "width": 0.19829424603658086,
+      "x": 0.5373134333356541,
+      "y": 0.853197674854167
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014557712989327731,
+      "text": "④complete with 装备有某事物，具有某特点",
+      "width": 0.3326225939730536,
+      "x": 0.06823027751240716,
+      "y": 0.8357329841915101
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013210762857766678,
+      "text": "③those on benefits（那些依靠救济生活的人）",
+      "width": 0.34754797410141247,
+      "x": 0.5351812403053705,
+      "y": 0.8343023260459669
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015052356020942348,
+      "text": "⑤indulgent ［in'dAldsont］a. 放纵的，纵容的",
+      "width": 0.33688700084722895,
+      "x": 0.07036247253303085,
+      "y": 0.8180628274574671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011879032819058888,
+      "text": "④get into work（找到工作）",
+      "width": 0.21108740808410065,
+      "x": 0.5373134414536852,
+      "y": 0.8180628273703788
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013264032558620964,
+      "text": "⑥subsidise ［'sAbsidarz」v. 给⋯•⋯津贴或补助",
+      "width": 0.3475479741014126,
+      "x": 0.07036247060743164,
+      "y": 0.8008720933545909
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394565043092,
+      "text": "⑤on first hearing（乍听之下）",
+      "width": 0.22388058477537187,
+      "x": 0.5373134395152991,
+      "y": 0.7994186048795424
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013134664265897267,
+      "text": "⑦zeal ［zi:l］n. 热心，热情",
+      "width": 0.20255862362325305,
+      "x": 0.06823028053911984,
+      "y": 0.7833769631946765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013180323296192453,
+      "text": "⑥demand sth from sb（要求某人做某事）",
+      "width": 0.31556502505135864,
+      "x": 0.5351812427692744,
+      "y": 0.7819767446385056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013362960665638024,
+      "text": "⑧claimant ［'kleimont］n. 申请人，要求者",
+      "width": 0.3198294319255338,
+      "x": 0.07036247182279506,
+      "y": 0.7657068064569998
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011856203303911239,
+      "text": "1.On first hearing,this was the socially concerned chancellor, trying to change lives for the better，",
+      "width": 0.8422174435430663,
+      "x": 0.11087422908134514,
+      "y": 0.7323298428884334
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "complete with “reforms” to an obviously indulgent system that demands too little effort from the newly",
+      "width": 0.8827292063414708,
+      "x": 0.07036246689323067,
+      "y": 0.7133507853837373
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013347741196916951,
+      "text": "unemployed to find work, and subsidises laziness.",
+      "width": 0.4051172472465061,
+      "x": 0.07036249018271698,
+      "y": 0.6947674422705308
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01956564219210155,
+      "text": "On first hearing",
+      "width": 0.13665688014991453,
+      "x": 0.1832707084113017,
+      "y": 0.6668160161054248
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "介词短语作状语",
+      "width": 0.14712152462774414,
+      "x": 0.20682303115627726,
+      "y": 0.6524869112378605
+    },
+    {
+      "confidence": 1,
+      "height": 0.013510207855264578,
+      "text": "后置定语",
+      "width": 0.08117013151494645,
+      "x": 0.7568562982685205,
+      "y": 0.6451344311985483
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02136694323954158,
+      "text": "句子主干：this",
+      "width": 0.14316173707226187,
+      "x": 0.10858970749701553,
+      "y": 0.6317583890125013
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011780104712041828,
+      "text": "was",
+      "width": 0.036247333958602024,
+      "x": 0.28571428647485675,
+      "y": 0.6321989531264522
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014603372019622918,
+      "text": "the socially concered chancellor",
+      "width": 0.2878464828754798,
+      "x": 0.32409381325309167,
+      "y": 0.6321989530681916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308900523560208,
+      "text": "trying to change lives for the better，",
+      "width": 0.28784648287547987,
+      "x": 0.6375266548309168,
+      "y": 0.6249999997822995
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "主语",
+      "width": 0.044776118419449534,
+      "x": 0.2068230277625567,
+      "y": 0.6145287955791416
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942348,
+      "text": "系动词",
+      "width": 0.07462686403241586,
+      "x": 0.2537313431703592,
+      "y": 0.6145287955283303
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942348,
+      "text": "表语",
+      "width": 0.042643922304237636,
+      "x": 0.4285714293063033,
+      "y": 0.6145287957100163
+    },
+    {
+      "confidence": 1,
+      "height": 0.014818650889771079,
+      "text": "解释说明",
+      "width": 0.08113199918604164,
+      "x": 0.592696259521583,
+      "y": 0.5928813721604091
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601881194489163,
+      "text": "complete with “reforms” to an obviously indulgent system",
+      "width": 0.4733475522207894,
+      "x": 0.460554367983422,
+      "y": 0.5726439790578135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "from the newly unemployed",
+      "width": 0.23454157267330708,
+      "x": 0.16631130556100102,
+      "y": 0.5508720933023865
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014878859694715585,
+      "text": "定语从句",
+      "width": 0.08115477754149925,
+      "x": 0.6971624822853717,
+      "y": 0.5507001049593869
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279252027341815,
+      "text": "to find work，",
+      "width": 0.10874200187580596,
+      "x": 0.16844349908341893,
+      "y": 0.5346858638743658
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013180323296192453,
+      "text": "that demands too little effort",
+      "width": 0.25799572261876197,
+      "x": 0.4605543800765464,
+      "y": 0.531976744650618
+    },
+    {
+      "confidence": 1,
+      "height": 0.013180323296192453,
+      "text": "and subsidises",
+      "width": 0.13432834793647286,
+      "x": 0.7292110942353883,
+      "y": 0.5319767446324495
+    },
+    {
+      "confidence": 1,
+      "height": 0.0113258187059333,
+      "text": "laziness.",
+      "width": 0.0770695223231691,
+      "x": 0.8655164102649471,
+      "y": 0.5343080208261659
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348953326896,
+      "text": "主语",
+      "width": 0.042643922304237636,
+      "x": 0.45842217518050377,
+      "y": 0.5101744183576389
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882850047781,
+      "text": "谓语1",
+      "width": 0.0533049028802971,
+      "x": 0.5223880597538813,
+      "y": 0.5130813957261389
+    },
+    {
+      "confidence": 1,
+      "height": 0.01767776711448943,
+      "text": "宾语24",
+      "width": 0.07036247180199207,
+      "x": 0.6289978692802406,
+      "y": 0.5130813953635134
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882850047781,
+      "text": "连词",
+      "width": 0.040511726189025765,
+      "x": 0.73134328389376,
+      "y": 0.5130813956025924
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882850047781,
+      "text": "谓语2",
+      "width": 0.05117270676508512,
+      "x": 0.8038379533338754,
+      "y": 0.5130813956025924
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884098312606,
+      "text": "宾语2",
+      "width": 0.05117270676508523,
+      "x": 0.8827292112230011,
+      "y": 0.5130813950874715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317517,
+      "text": "介词短语作effort的后置定语",
+      "width": 0.24520256057124223,
+      "x": 0.3816631095864472,
+      "y": 0.49273255792171333
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "功能注释：On first hearing（乍听之下）奠定本句论述基调：以下所述纯属表象。句子主干为 this was",
+      "width": 0.8464818797047444,
+      "x": 0.108742008521828,
+      "y": 0.46924083739487743
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "the socially concerned chancellor；现在分词短语 trying to change lives for the better 作后置定语，修饰说明",
+      "width": 0.8848613951348069,
+      "x": 0.06823028348270314,
+      "y": 0.4502617799193721
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047892,
+      "text": "the socially concerned chancellor；形容词短语 complete with引出财相基本做法—改革现有纵容性体系，其",
+      "width": 0.8848613951348069,
+      "x": 0.06823027439421718,
+      "y": 0.43313953526102267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "中嵌含 that 定语从句修饰 an obviously indulgent system，说明现有体系的“纵容性”。",
+      "width": 0.6929637594094891,
+      "x": 0.0703624785841678,
+      "y": 0.4127906979535493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "2. What motivated him, we were to understand, was his zeal for \"fundamental fairness”— protecting the",
+      "width": 0.8464818211297385,
+      "x": 0.10874201775780354,
+      "y": 0.39659685841121195
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011917082427059689,
+      "text": "taxpayer,controlling spending and ensuring that only the most deserving claimants received their benefits.",
+      "width": 0.8166311194480267,
+      "x": 0.07036248682182883,
+      "y": 0.3776178009745873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01330969158891615,
+      "text": "we were to understand",
+      "width": 0.18763325813864562,
+      "x": 0.30277185915029337,
+      "y": 0.35732984306642523
+    },
+    {
+      "confidence": 1,
+      "height": 0.013393400227212138,
+      "text": "插入语",
+      "width": 0.06823027568678025,
+      "x": 0.40511727096968736,
+      "y": 0.3383507853668404
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014796295715252206,
+      "text": "句子主干：",
+      "width": 0.08964276451066908,
+      "x": 0.10869674205195681,
+      "y": 0.3181832475308708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013347741196917062,
+      "text": "What motivated him",
+      "width": 0.17270787801028673,
+      "x": 0.20255863879336414,
+      "y": 0.3197674421615192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013332521104063688,
+      "text": "was his zeal for“fundamental fairness”",
+      "width": 0.33688697155972586,
+      "x": 0.407249473761715,
+      "y": 0.3180628272504057
+    },
+    {
+      "confidence": 1,
+      "height": 0.014717520219493352,
+      "text": "主语",
+      "width": 0.040511726189025765,
+      "x": 0.26865671654301376,
+      "y": 0.29941860523195274
+    },
+    {
+      "confidence": 1,
+      "height": 0.016026421991318318,
+      "text": "系动词",
+      "width": 0.06183368734114458,
+      "x": 0.4029850747906928,
+      "y": 0.2994186044212288
+    },
+    {
+      "confidence": 1,
+      "height": 0.01308139456504298,
+      "text": "表语",
+      "width": 0.05756929511072084,
+      "x": 0.5437100226738507,
+      "y": 0.2994186050975657
+    },
+    {
+      "confidence": 1,
+      "height": 0.023017440166772984,
+      "text": "解释说明，三个分词短语并列",
+      "width": 0.25891942117584876,
+      "x": 0.3897123545473964,
+      "y": 0.2731069356367384
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014603372019623029,
+      "text": "— protecting the taxpayer, controlling spending and ensuring",
+      "width": 0.4904050918549814,
+      "x": 0.25586354398011435,
+      "y": 0.2571989531263311
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02354100861474484,
+      "text": "宾语从向个",
+      "width": 0.100354873745089,
+      "x": 0.6182660605166977,
+      "y": 0.2324155423963825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "that only the most deserving claimants received their benefits.",
+      "width": 0.5074626900641794,
+      "x": 0.24307036701481838,
+      "y": 0.21335078531463592
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "功能注释：本句主干为 What motivated him... was his zeal for“fundamental fairness”，强调他（奥斯",
+      "width": 0.8422174435430662,
+      "x": 0.10874201747864475,
+      "y": 0.1930628273677748
+    },
+    {
+      "confidence": 1,
+      "height": 0.016026421991318207,
+      "text": "本）推行新政的真正动因：对“基本公平”狂热；插入语起到“提醒人们注意事实真相”的功能；破折号后进",
+      "width": 0.8827292063414708,
+      "x": 0.0682302722023991,
+      "y": 0.17441860444545387
+    },
+    {
+      "confidence": 1,
+      "height": 0.02001165282663875,
+      "text": "一步解释说明“fundamental fairness”具体含义。",
+      "width": 0.40554548911535804,
+      "x": 0.06806091776814568,
+      "y": 0.15396915340025896
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016212183767588373,
+      "text": "•语篇分析•",
+      "width": 0.11946704154280002,
+      "x": 0.4349359903160877,
+      "y": 0.13070204766645965
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860668322096,
+      "text": "泌",
+      "width": 0.02771854949775443,
+      "x": 0.5607675906455791,
+      "y": 0.12790697655537375
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "第二段继续假借奥斯本口吻介绍新政规定及目的，并最终揭示背后真正动因。关键词：①What",
+      "width": 0.8464818797047444,
+      "x": 0.1087420096323469,
+      "y": 0.1031976743340195
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859420057382,
+      "text": "motivated him， ②zeal for \"fundamental fairness”。",
+      "width": 0.4157782497881928,
+      "x": 0.06823028487846908,
+      "y": 0.08430232581322727
+    },
+    {
+      "confidence": 1,
+      "height": 0.011818153695910438,
+      "text": "10",
+      "width": 0.023454157267330702,
+      "x": 0.0831556506733709,
+      "y": 0.06540697703439946
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析•\n①allowance ［o'lawans］n. 津贴，补贴\n• 经典搭配\n②claim ［klem］v. 声称，断言\n①sign on（注册，登记）\n知识补充\n③benefit［'benufit］n.津贴，救济金\n②stay off...（远离⋯⋯）\n④complete with 装备有某事物，具有某特点\n③those on benefits（那些依靠救济生活的人）\n⑤indulgent ［in'dAldsont］a. 放纵的，纵容的\n④get into work（找到工作）\n⑥subsidise ［'sAbsidarz」v. 给⋯•⋯津贴或补助\n⑤on first hearing（乍听之下）\n⑦zeal ［zi:l］n. 热心，热情\n⑥demand sth from sb（要求某人做某事）\n⑧claimant ［'kleimont］n. 申请人，要求者\n1.On first hearing,this was the socially concerned chancellor, trying to change lives for the better，\ncomplete with “reforms” to an obviously indulgent system that demands too little effort from the newly\nunemployed to find work, and subsidises laziness.\nOn first hearing\n介词短语作状语\n后置定语\n句子主干：this\nwas\nthe socially concered chancellor\ntrying to change lives for the better，\n主语\n系动词\n表语\n解释说明\ncomplete with “reforms” to an obviously indulgent system\nfrom the newly unemployed\n定语从句\nto find work，\nthat demands too little effort\nand subsidises\nlaziness.\n主语\n谓语1\n宾语24\n连词\n谓语2\n宾语2\n介词短语作effort的后置定语\n功能注释：On first hearing（乍听之下）奠定本句论述基调：以下所述纯属表象。句子主干为 this was\nthe socially concerned chancellor；现在分词短语 trying to change lives for the better 作后置定语，修饰说明\nthe socially concerned chancellor；形容词短语 complete with引出财相基本做法—改革现有纵容性体系，其\n中嵌含 that 定语从句修饰 an obviously indulgent system，说明现有体系的“纵容性”。\n2. What motivated him, we were to understand, was his zeal for \"fundamental fairness”— protecting the\ntaxpayer,controlling spending and ensuring that only the most deserving claimants received their benefits.\nwe were to understand\n插入语\n句子主干：\nWhat motivated him\nwas his zeal for“fundamental fairness”\n主语\n系动词\n表语\n解释说明，三个分词短语并列\n— protecting the taxpayer, controlling spending and ensuring\n宾语从向个\nthat only the most deserving claimants received their benefits.\n功能注释：本句主干为 What motivated him... was his zeal for“fundamental fairness”，强调他（奥斯\n本）推行新政的真正动因：对“基本公平”狂热；插入语起到“提醒人们注意事实真相”的功能；破折号后进\n一步解释说明“fundamental fairness”具体含义。\n•语篇分析•\n泌\n第二段继续假借奥斯本口吻介绍新政规定及目的，并最终揭示背后真正动因。关键词：①What\nmotivated him， ②zeal for \"fundamental fairness”。\n10",
+  "pdf_text_layer": "：＞：词汇萍在当难句分析＜ 1'\n( allowance [a' Jauans] n. 津贴，补贴                                   ．经典搭配\n( claim [ k! e1m] v . 声 称，断 言                                      ( sign on （注册， 登记）                      哥罚r:'\n( benefit [ 1ben 山 t] 11. 津贴，救济 金                                  ( stay off ... （远离 …… ）\n( complete with 装备有某事物，具有某特点                                            ,se on benef i ts （那些 11\n( indulgent [ rn I dA!d3ant ］ ι 放纵的，纵容的                            ( get into work （找到 工 作）\n@subsidise [ 1 sAbs1da1z］队给 ……津贴或补助                                ( on first h ear in g （乍 昕之下 ）\n( zeal [zi:1 ］ η ．热心，热情                                            ( demand sth from s b （要求某人 做 某事）\n( claimant ［ 飞de1mant ] 11. 申请人，要求者\n\n\n    1. On first hearing , this was the socially concerned chancellor , trying to change lives for the better,\ncomplete with “ reforms\" to an obviously indulgent system that demands too little effort from the newly\nunemployed to find work, and subsidises laziness.\n                  On first hearing\n                     介词短语作状语\n                                                                                               后置定语\n       句子主干 ： IT this                was   由巳 socially concerned chancellor\n                                                                               trying to change lives for the better,\n                                                     表语\n                                                                          解释说明\n                                                         comp l et巳 with “ reforms\" to an obviously indulgent system\n             it\n              uo\n              -\n               mh  ew\n                    no\n                 HUAu wl vd une nyovded    η\n\n                           ρuvr ι\n                                                                                       定语从句\n                              - vh\n                                                         that   demands too little effort    and subsidises laziness.\n                                                        主语       谓语 l         宾语2            连词      谓语2       宾语2\n                                               介词 短语，作 effort 的后 置定语\n     功能注释： On fir st hear ing （乍 听之下） 奠定 本句论述基调：以下所述纯属表象 。 句子 主干 为 this was\nthe sociall y concerned chancel lor ；现在分词 短语 trying to change lives for the better 作后 置 定语，修饰说明\nthe socially concerned chancell or ；形容词 短语 complete with 引出财相 基本 做 法一一改 革 现有 纵容性体系，其\n中嵌 含 tha t 定语从句修饰 an obviously indulgent system ，说明现有体系的“纵容性” 。\n     2. What motivated him , we were to under百tand, was his zeal for “ fundamental fairness ” - protecting the\ntaxpayer , controlling spending allld ensuring that only the most deserving claimants received their benefits.\n                                      we were to understand\n                                                   插入语\n       句子主干： I What motivated him . ! was                his zeal for 币ndamental fairness \"\n                                    主语            系动词                表语\n                                                解释说明 ， 三个分词短语并列\n                          -- protecting the taxpayer, controlling spending and ensuring\n                                                                                       且\n\n                                                                              宾语从句\n                          that only th 巳 most deserving claimants received their benefits.\n       功能注释：本句 主干为 飞,Vh at mctivated him . ..                   was hi s zea l for “ fundamental fairn ess”，强调他 （奥斯\n本）推行新政的真正动因：对“基本公平’）狂热；捕入语起到“提醒人们注意事实真相”的功能；破折号后进\n一步解释说明“ fundam e nta l fair机 ess’ ！具 体含义 。\n\n                                                    ＞音；第分析..~::      ii/\n       第二段继续假借奥斯本口吻介绍所政规定及目的，并最终揭示背后真正动因。关键词：① What\nmotivated him , ( zeal for “ fundamental fairness＇’。\n  10",
+  "quality": {
+    "vision_line_count": 71,
+    "vision_character_count": 1983,
+    "pdf_text_character_count": 3827,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P040",
+  "year": 2020,
+  "pdf_page": 40,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.02121305162532028,
+      "text": "散，对于此类题可巧将选项关键信息（名词十动词）与定位处比对即可快速作答：［B］中 the current",
+      "width": 0.8896585964807341,
+      "x": 0.07005216998086664,
+      "y": 0.9009924855967164
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02383633941872143,
+      "text": "international tax system 直接复现于定位句中，而 needs upgrading“需要升级（使其更有力、有效等）”则是",
+      "width": 0.8876526447809171,
+      "x": 0.0678994931312984,
+      "y": 0.8797129681221468
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019073569482288888,
+      "text": "对 has failed to keep up with“未能跟上步伐”所暗藏语义“需要加快步伐，需要改善”的同义转述，故正确。",
+      "width": 0.8872340135028296,
+      "x": 0.07021278682001385,
+      "y": 0.8633060857511433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014562606811523438,
+      "text": "① In response to these many unilateral measures, the",
+      "width": 0.4702127306820073,
+      "x": 0.14255321632566278,
+      "y": 0.8328488375321261
+    },
+    {
+      "confidence": 1,
+      "height": 0.014685381335848402,
+      "text": "为回应这些单边措施，经济合作",
+      "width": 0.27446808795954347,
+      "x": 0.6765957452147571,
+      "y": 0.8283378744805858
+    },
+    {
+      "confidence": 1,
+      "height": 0.01456076702564868,
+      "text": "Organization",
+      "width": 0.12160168887772034,
+      "x": 0.07217788098951906,
+      "y": 0.8117603142580079
+    },
+    {
+      "confidence": 1,
+      "height": 0.013229252315455464,
+      "text": "for Economic Cooperation and Development",
+      "width": 0.4212765953988432,
+      "x": 0.19361702671547185,
+      "y": 0.8138056311639429
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014657658084103575,
+      "text": "与发展组织（OECD）目前正与131个",
+      "width": 0.31489361840462715,
+      "x": 0.6361702098250421,
+      "y": 0.8095930232533333
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329789997554709,
+      "text": "（OECD）is currently working with 131 countries to reach a",
+      "width": 0.5404255101271221,
+      "x": 0.0723404310215453,
+      "y": 0.7950581397945843
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185957878308,
+      "text": "国家合作，以期在2020年底前达成",
+      "width": 0.3170212746936376,
+      "x": 0.6361702124191387,
+      "y": 0.7877906979431666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145850497738651,
+      "text": "consensus®by the end of 2020 on an international solution.",
+      "width": 0.5361701975491012,
+      "x": 0.0723404420765129,
+      "y": 0.7761126245641639
+    },
+    {
+      "confidence": 1,
+      "height": 0.016348773841961872,
+      "text": "一个国际解决方案。法国和美国都",
+      "width": 0.3170212746936376,
+      "x": 0.6361702097542451,
+      "y": 0.7702089010492563
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906674585242,
+      "text": "② Both France and the United States",
+      "width": 0.35319147224273884,
+      "x": 0.07446809955238923,
+      "y": 0.7587209304320872
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014666899456748261,
+      "text": "are involved® in the",
+      "width": 0.18936169417339382,
+      "x": 0.42553191571472165,
+      "y": 0.7587209301677851
+    },
+    {
+      "confidence": 1,
+      "height": 0.017484104492575536,
+      "text": "已参与其中，但法国的数字服务税以",
+      "width": 0.31276594179765527,
+      "x": 0.6382978821862786,
+      "y": 0.7500000006175852
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014670859673800551,
+      "text": "organization's work, but France's digital",
+      "width": 0.36170209739878084,
+      "x": 0.07234044669068035,
+      "y": 0.7369186048286378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "services tax and the",
+      "width": 0.1829787253063624,
+      "x": 0.4319148896163224,
+      "y": 0.7397820164633859
+    },
+    {
+      "confidence": 1,
+      "height": 0.014577128473571177,
+      "text": "及美国的反应却为国际税收体制的",
+      "width": 0.31489361840462715,
+      "x": 0.636170208925346,
+      "y": 0.7325158946144577
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01457448832886965,
+      "text": "American response raise questions about what the future holds",
+      "width": 0.5382978538381117,
+      "x": 0.07659574893200811,
+      "y": 0.7179836508831903
+    },
+    {
+      "confidence": 1,
+      "height": 0.016117747321548914,
+      "text": "未来走向打上了问号。",
+      "width": 0.19361702706937622,
+      "x": 0.6361702112099926,
+      "y": 0.7120799269950683
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906674585131,
+      "text": "for the international tax system.",
+      "width": 0.2744680879595435,
+      "x": 0.07234042753618564,
+      "y": 0.7005813954999167
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020348837330165903,
+      "text": "•词汇注释与难句分析•泌",
+      "width": 0.2617021299075192,
+      "x": 0.38510638447177237,
+      "y": 0.6569767441837543
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014598250497372733,
+      "text": "①consensus ［kon'sensas］n.一致的意见，共识",
+      "width": 0.34680850337570734,
+      "x": 0.07446809121488182,
+      "y": 0.6366279071403764
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014901217496146035,
+      "text": "• 经典搭配",
+      "width": 0.10648958533803887,
+      "x": 0.5403722277205263,
+      "y": 0.6364447400195171
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014738187694636196,
+      "text": "②involve ［mn'volv］ .（使）参加，加入",
+      "width": 0.28723404601156793,
+      "x": 0.07446808577081176,
+      "y": 0.6189827425300206
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394684087422,
+      "text": "①be involved in. ..参与…⋯",
+      "width": 0.2212765994624355,
+      "x": 0.5446808519709099,
+      "y": 0.6206395353069388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014604851725315893,
+      "text": "②raise questions 提出疑问",
+      "width": 0.20425530851442864,
+      "x": 0.5425531961683177,
+      "y": 0.6002906976096456
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014897598557641167,
+      "text": "语篇分析•",
+      "width": 0.09798709752556484,
+      "x": 0.4616447503323668,
+      "y": 0.5739465496355987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016067581107462647,
+      "text": "第五段引出国际组织 OECD的应对之策并说明其前景。关键词为：①working.•.on an international",
+      "width": 0.848936119028795,
+      "x": 0.1148936496877301,
+      "y": 0.5479651166499526
+    },
+    {
+      "confidence": 1,
+      "height": 0.014631254904709734,
+      "text": "solution； ②raise questions。",
+      "width": 0.22978722461847748,
+      "x": 0.07446809269076124,
+      "y": 0.5304268845495982
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01977172144752115,
+      "text": "①句介绍 OECD 应对之策：协同多国共同探索一个国际性解决方案。in response to 暗藏因果关联",
+      "width": 0.8470012801941161,
+      "x": 0.1148055799771517,
+      "y": 0.5093579055225332
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016078142552458097,
+      "text": "“各国相继出台单边税收举措-OECD携手多国共同探索一个国际性解决方案”；131 countries、 reach a",
+      "width": 0.8914893260808506,
+      "x": 0.07234043442766004,
+      "y": 0.4940962757467172
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019322162319810432,
+      "text": "consensus、by the end of 2020、international solution 形式上传递出 OECD 的雄心壮志，实则传递出这份",
+      "width": 0.8874462142924018,
+      "x": 0.07437197519347256,
+      "y": 0.47241670672209335
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883715692809,
+      "text": "雄心壮志要想达成难度之高：涉事国之多，利益关系之复杂，要想各方都满意，谈何容易。",
+      "width": 0.7510638484624667,
+      "x": 0.07659574285387297,
+      "y": 0.45639534911361535
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125325,
+      "text": "②句明确该国际性解决方案的前景不明。but 句内转折，其前以 are involved in 补充说明美法两因",
+      "width": 0.8468085033757073,
+      "x": 0.1148936277093093,
+      "y": 0.43596730265401573
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017453741962318525,
+      "text": "均已参与 OECD 当前工作，其后则借 raise questions 明确美法当前对峙行为（France's digital services tax",
+      "width": 0.8872340135028296,
+      "x": 0.07659575396667037,
+      "y": 0.417151163015841
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606098074570872,
+      "text": "即指法国针对美国科技巨头的 GAFA 税，the American response 则指美已展开调查、可能对法发起贸易",
+      "width": 0.8829787009248086,
+      "x": 0.07872342285319832,
+      "y": 0.39963669349581155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609794450390889,
+      "text": "制裁）使得OECD 当前工作的未来无可预测、国际税收体系前景充满不确定性。注：raise questions about",
+      "width": 0.8872340135028295,
+      "x": 0.07872342617411694,
+      "y": 0.3808139538108053
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01605437951776567,
+      "text": "what the future holds for...（hold“持有，拥有”）直译即为“对‘⋯⋯的未来是怎样’有了疑问”，可意译处",
+      "width": 0.885106397849742,
+      "x": 0.07659572839427803,
+      "y": 0.36330608523489805
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01746694268582627,
+      "text": "理为“ …⋯的未来打上了问号”，注意其中的 questions 指向“问题，疑问”而非“怀疑，质疑”。",
+      "width": 0.7893616616646554,
+      "x": 0.07659577280597005,
+      "y": 0.34447674462921296
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883715692809,
+      "text": "【深层解读】第三至五段环环相扣式段落关联，按照“介绍当前行为（引出问题）一分析行为背后所",
+      "width": 0.8510638159537284,
+      "x": 0.11276597287419952,
+      "y": 0.3255813957124525
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125325,
+      "text": "折射出的认知（分析原因）一针对认知所反映出的问题而采取的行动（解决问题）”行文：三段从“法国征收",
+      "width": 0.8872340135028296,
+      "x": 0.07659576800922323,
+      "y": 0.3065395096138005
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859578783192,
+      "text": "GAFA税不是单个的单边行为”到“多个国家提出或实施了单边举措”，再到“当前国际税收体系需要改善",
+      "width": 0.8851063978497419,
+      "x": 0.07659574107512901,
+      "y": 0.28779069829200377
+    },
+    {
+      "confidence": 1,
+      "height": 0.016348773841961872,
+      "text": "升级以满足经济发展之需”，然后到“致力于一个国际解决措施”，最后再到“国际税收体系/国际解决措施",
+      "width": 0.8872340135028296,
+      "x": 0.07659577029645731,
+      "y": 0.2702089012309422
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883715692809,
+      "text": "的前景不确定”，展示出一副“各国争相出台针对跨国公司的单边税收举措，OECD 为寻求国际性解决方案",
+      "width": 0.8829787009248085,
+      "x": 0.07872340918805171,
+      "y": 0.2529069769333828
+    },
+    {
+      "confidence": 1,
+      "height": 0.016030616483073357,
+      "text": "而携手众国奋力前行，却驾驭不住美法两国当前纷争而陷人窘境”的尴尬图景。",
+      "width": 0.6574468092023135,
+      "x": 0.07872340860553004,
+      "y": 0.23251589491410862
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017708630262993297,
+      "text": "• 真题精解，",
+      "width": 0.1128542578807683,
+      "x": 0.4446367010873157,
+      "y": 0.2077154525278193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475018,
+      "text": "39. It can be learned from Paragraph 5 that the",
+      "width": 0.42765956426587465,
+      "x": 0.08723405193089233,
+      "y": 0.18165304274660454
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014684060397308407,
+      "text": "OECD's current work",
+      "width": 0.17021275709535721,
+      "x": 0.08723404607998099,
+      "y": 0.16424418630877335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016348773841961872,
+      "text": "39. 根据第五段可知，OECD 目前的工作",
+      "width": 0.33829785790170397,
+      "x": 0.5276595845065947,
+      "y": 0.16984559526445353
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906674585131,
+      "text": "。",
+      "width": 0.014893616880780058,
+      "x": 0.9276595746181207,
+      "y": 0.17005813954061433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014742147911688597,
+      "text": "LAJ is being resisted by US companies",
+      "width": 0.33191488903467253,
+      "x": 0.08723404761032329,
+      "y": 0.14078110787013887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014742147911688486,
+      "text": "［A］正受到美国公司的抵制",
+      "width": 0.24255318267050174,
+      "x": 0.529787240184506,
+      "y": 0.14078110790474574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609482795514383,
+      "text": "［B］ needs to be readjusted immediately",
+      "width": 0.3342984703663345,
+      "x": 0.08712020032685512,
+      "y": 0.11622093333338135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01455600644976951,
+      "text": "［B］需要立即重新调整",
+      "width": 0.19999999593640772,
+      "x": 0.5297872375029207,
+      "y": 0.11625794704108328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014552045366527988,
+      "text": "［C］ is faced with uncertain prospects",
+      "width": 0.31702127469363767,
+      "x": 0.08936170624892577,
+      "y": 0.09445958251801245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013169845594913743,
+      "text": "［C］面临不确定的前景",
+      "width": 0.19999999593640772,
+      "x": 0.5297872361795884,
+      "y": 0.0944595822715446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "［D］ needs to involve more countries",
+      "width": 0.3063829729306238,
+      "x": 0.08936170808787955,
+      "y": 0.07402361497383292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610132880908178,
+      "text": "［D］需要更多国家参与进来",
+      "width": 0.24042552638149128,
+      "x": 0.5297872346549991,
+      "y": 0.07122093013144792
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906674585131,
+      "text": "40",
+      "width": 0.023404254735547914,
+      "x": 0.09361702173556952,
+      "y": 0.04796511649244162
+    }
+  ],
+  "vision_ocr_text": "散，对于此类题可巧将选项关键信息（名词十动词）与定位处比对即可快速作答：［B］中 the current\ninternational tax system 直接复现于定位句中，而 needs upgrading“需要升级（使其更有力、有效等）”则是\n对 has failed to keep up with“未能跟上步伐”所暗藏语义“需要加快步伐，需要改善”的同义转述，故正确。\n① In response to these many unilateral measures, the\n为回应这些单边措施，经济合作\nOrganization\nfor Economic Cooperation and Development\n与发展组织（OECD）目前正与131个\n（OECD）is currently working with 131 countries to reach a\n国家合作，以期在2020年底前达成\nconsensus®by the end of 2020 on an international solution.\n一个国际解决方案。法国和美国都\n② Both France and the United States\nare involved® in the\n已参与其中，但法国的数字服务税以\norganization's work, but France's digital\nservices tax and the\n及美国的反应却为国际税收体制的\nAmerican response raise questions about what the future holds\n未来走向打上了问号。\nfor the international tax system.\n•词汇注释与难句分析•泌\n①consensus ［kon'sensas］n.一致的意见，共识\n• 经典搭配\n②involve ［mn'volv］ .（使）参加，加入\n①be involved in. ..参与…⋯\n②raise questions 提出疑问\n语篇分析•\n第五段引出国际组织 OECD的应对之策并说明其前景。关键词为：①working.•.on an international\nsolution； ②raise questions。\n①句介绍 OECD 应对之策：协同多国共同探索一个国际性解决方案。in response to 暗藏因果关联\n“各国相继出台单边税收举措-OECD携手多国共同探索一个国际性解决方案”；131 countries、 reach a\nconsensus、by the end of 2020、international solution 形式上传递出 OECD 的雄心壮志，实则传递出这份\n雄心壮志要想达成难度之高：涉事国之多，利益关系之复杂，要想各方都满意，谈何容易。\n②句明确该国际性解决方案的前景不明。but 句内转折，其前以 are involved in 补充说明美法两因\n均已参与 OECD 当前工作，其后则借 raise questions 明确美法当前对峙行为（France's digital services tax\n即指法国针对美国科技巨头的 GAFA 税，the American response 则指美已展开调查、可能对法发起贸易\n制裁）使得OECD 当前工作的未来无可预测、国际税收体系前景充满不确定性。注：raise questions about\nwhat the future holds for...（hold“持有，拥有”）直译即为“对‘⋯⋯的未来是怎样’有了疑问”，可意译处\n理为“ …⋯的未来打上了问号”，注意其中的 questions 指向“问题，疑问”而非“怀疑，质疑”。\n【深层解读】第三至五段环环相扣式段落关联，按照“介绍当前行为（引出问题）一分析行为背后所\n折射出的认知（分析原因）一针对认知所反映出的问题而采取的行动（解决问题）”行文：三段从“法国征收\nGAFA税不是单个的单边行为”到“多个国家提出或实施了单边举措”，再到“当前国际税收体系需要改善\n升级以满足经济发展之需”，然后到“致力于一个国际解决措施”，最后再到“国际税收体系/国际解决措施\n的前景不确定”，展示出一副“各国争相出台针对跨国公司的单边税收举措，OECD 为寻求国际性解决方案\n而携手众国奋力前行，却驾驭不住美法两国当前纷争而陷人窘境”的尴尬图景。\n• 真题精解，\n39. It can be learned from Paragraph 5 that the\nOECD's current work\n39. 根据第五段可知，OECD 目前的工作\n。\nLAJ is being resisted by US companies\n［A］正受到美国公司的抵制\n［B］ needs to be readjusted immediately\n［B］需要立即重新调整\n［C］ is faced with uncertain prospects\n［C］面临不确定的前景\n［D］ needs to involve more countries\n［D］需要更多国家参与进来\n40",
+  "pdf_text_layer": "~ ,MrJlt~J!llJJ:5~~:i:ff! ~~ 11i ,@- <~ ~ + ;tJ~ ) !:j ~'UL~ tti.f IIP -aJ~if ff:~: [BJ a:p t he current\ninternational tax system 1f!tl:Jll r~u['U] 'P, ffij needs upgrading\"m~fl-~ ( 1tJtJ!1i JJ ,:;ff~~)\" JJ!IJ:I:\n~ has failed to keep up with\"* ~~Hit.tilt ft\" Wrfti Jiliji >l \"11~ :ba ~zjtfi; ' -~i!J(ff \"~ Iii] >l~~ 't&iE fJffi                                                                                                          0\n\n\n                                                           ........ -··--·-- ...................... ----·-· ····· . .. ................ . . ........ .\n    V O In response to .these many unilateral measures , the                               ;/.J ~ il i!.~ ~ itl..tt ~, ~ >Jl-¼1-f\nOrganization for Economic Cooperation and Development                                                                                  Jij £/l.tttY- ( OECD) ~ ~ ..iE.~ 131                                             +\n(OECD) is currently working with 131 countries to reach a                                                                              00 ~ ½ ,ft , VJ- '1] ,ff. 2O20 if At ~ i!. A\nconsensus<D by the end of 2020 on an international solution.\n                                                                                                                                       - + 00 JW; ~ ;Jt ~ •             00 :ft, l: 00 :.itS  *\n                                                                                                                                                                           *\n                                                                                                                                                                                     0\n\n8 Both France and the United States are involved(2) in the                                                                             t.J~~ Jt. t ,-{!?. ~ (tlJ 4i: ~ ,ijl4j-;fjt. ),~\norganization's work, but France's digital services tax and the                                                                         ~ l. ~ <f.J &.. B. ~ :/.J 00 JW; ~ ~ 1*- tl <f.J\nAmerican response raise questions about what the future holds\n                                                                                                                                       *-*- * {.;] :tr J:. 1 1\"1 ½                       0\n\nfor the -international tax system.\n                            ................ . . ..... ...................................................................................................................................................................... .\n                                                                 ,·························· ............ ·, . JI\n                                                                 : ~--~-tc;_~ ~ -~~~.fr.~--· :2/;\n<Dconsensus [kan sensas] n. -~~~.!ii!. ;;.lti,R\n                      1\n                                                                                                     ~) • t£~m~\n@ involve [ tn volv] v. (-{f!)~1JD , 1.m.A\n                 1\n                                                                                                     ~       (D be involved in. .. ~.!5 ··· ···\n                                                                                                     i       ® raise questions ml:il ~ fii]\n                                                                               C~:~~i fr.Jif -~:                    1'\n        ffi 1i ii 5I W00 Jt.j ffl ~ OECD tt-l S. x,f Z. jft                           *Ut X fir f¼\n                                                                                                 PJJ                      0   ~ ii iffl ;l:J : CD working••• on an internationa l\nsolution ; @ raise questions 0\n        CD 'AJ it tB OECD S. ~ z ffl : #J, ~ ~ 00 3t ~ ~ ~ - 1- ~ ~ ii M~ n $ o in response to\n\"~ffilffl~ ili ~ ltiill&l&*ffi-OECD ffi~$ ffil ~ lii]~~-1--~ ~tt.~~1J~\"; 131 countries ,reach a\n                                                                                                   ~                                                                                          im. * *    llsJ\n\nconsensus,by the end of 2020, international solution ~~_t1~Jiili OECD 89!t 1C.,)f±~,~.!iltlf~iitl:l~-ffi'\ntf,c.,tt~~~~Jvt~Ilz~ :ftY~~z.$ ,~!Jit*~z•~ ,~~~:nfflst~ ~ ,~fiir~~                                                                                                                       o\n\n        @'AJ IIJJ-l1i~OO IJ,j•l'!fi]jtn.tr-JlliJil~PJJ o but 1iJ l*J~~ ,Jtlffl ~ are involved in .tc~ \"ff.iJti!fl~r! WJ ~\ni5JB~~ OECD ~ iJ!Jifl:,JtFo.!illJff raise questions ~feffl~r! ~ iJ!JMdlifi-'1 ( France's digital services tax\nepffif! ~#x-.t~~f.4tt § ~~ GAFA & , the American response JJ!ljffi~ B.Jiffil!l~ , \"iiJl~X;fr! ~_®jt ~\nfli!J~)-{t qJ OECD ~ftf I 11: 89 **x \"iiJ tiliffltl, !E ~ffl.i&-f* ~ iW:ft:1Emi~feffl ~ tt o 6:: raise questions about\nwhat the future holds for ... ( hold\"~~, W~\") 1I~ ~p ~\"){,f' •·• ••• 89 **It~f.F ' ~ 7 ~ ftiJ\", ~ #~~\n~19\" '1 ··· ··· 89**1'T _t 7 fij] %\", tt ~;tt a:p ~ questions ffi fPJ\" lllJ B.fil, R lllJ\"mi~~\"'I*~, ~ ~,, o\n      [~~-ill ~ =-~1i~'1~~ffltA~~~~ll. ~ft« 1t't~ Ei lliJf,- '1 ( sl WfcJJffi )-~ffifi '1 ff 16Plr                   11\n\n\n\ntfr~t l±I a<Ji.A~ (~t/f JEt ~ )-ttMi.A~PJr &~t±I ~ faJllim *lC{~fifdJ ( M~ fcJ~ )\"fix: =,@:}A \"r!OOfili&\nGAFA ffl. ~ ~ !)i1--~. ill fi '1 \"¥1J\" ~ 1-- IE ~ ~ tl:I Et ~ »ffi 7 • i!l * ffl'-\" , 1IJ. ¥1J \" ~ oo IE ~ & ®: ,f* ~ 7l.t ~ ~\n*~     iv. m,@ ~ ~ :6t me z m\" ,r& Fo ¥1J \"ltJJ -=r- -t- ffi1 ~ m~ m»ffi,, , :1« Fo .pJ. ¥1J\" ~ ~ & i& -1* ~ 1 ~ iw. ~ lkJt lilE\n                                                                                                                                                                                                                           *\n                                               \"*                                                      *\n~mr:a ~feffl )E\" , Jiff\\ ili-ltl ffi1 $ ffi ma#M Btf 00 P] ~ 1ti 3tJ. & i&*ni, OECD '1 ~ m~tt ~tk: -Ji ;t                                                                           *\n w~~~oo~JJfirfi.,~tE!N~f£~r!WJ ~ ~mr~~ rm~Alfm\"~m1rftoo:m:                                                                                                      o\n\n\n                                        :~:~::1(ijijjf-~·: 1'\n  39. It can be learned from Paragraph 5 that the I\n                                                    39. m• • 1i Jt RT~ , oEc o ia r.r ~ I i1=                                                                                                                          0\n  OECD's current work                            •\n  [A] is being resisted by US companies                                                                I [A] iE~ iU ~ ~ l¥J ~ 1ft ifi!J          *\n  [ BJ needs to be readjusted immediately                                                                [BJ ~~ \"Sl. l!Pm:19fi}jJ~\n  [ CJ is faced with uncertain prospects                                                                 [ CJ fffi tlffi ~ ilu.~ 89 ftr.\n  [DJ needs to involve more countries                                                                     [DJ -~J!~ 1¥)~~                                   ~llt*\n   40",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2160,
+    "pdf_text_character_count": 7247,
+    "nonempty": true
+  }
+}

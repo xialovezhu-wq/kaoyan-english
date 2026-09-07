@@ -1,0 +1,133 @@
+{
+  "schema": "exam_reading_protected_analysis_v1",
+  "generated_date": "2026-07-16",
+  "analysis_id": "EXAM-ANALYSIS-2023-T1",
+  "reference_id": "EXAM-READING-2023-T1",
+  "year": 2023,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 1,
+  "question_numbers": [
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+  "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+  "old_analysis_anchor_range": "10-12",
+  "preprocessed_source_pages": [
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "source_page_paths": [
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-009.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-010.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-011.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-012.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-013.md"
+  ],
+  "visibility": "hidden_until_review",
+  "answer_key": {
+    "21": "C",
+    "22": "B",
+    "23": "A",
+    "24": "C",
+    "25": "D"
+  },
+  "questions": [
+    {
+      "question_number": 21,
+      "correct_answer": "C",
+      "answer_evidence_page": 10,
+      "answer_evidence_pages": [
+        10
+      ],
+      "analysis_source_pages": [
+        10
+      ],
+      "analysis_text": "◎ 答案解析\n21. In Paragraph 1, the weather in Texas is mentioned\n在一段中，提到得克萨斯州的天气\n选项出处\nto\n是为了\nA. forecast a policy shift in Texas schools\nA. 预测得克萨斯州学校的政策转变\n一段\nB. stress the consequences of climate change\nB.强调气候变化的后果\n一段\nC. indicate the atmosphere at the board meeting\nC.说明委员会会议的气氛\n一段\nD. draw the public's attention to energy shortages\nD. 引起公众对能源短缺的关注\n二段 句\n浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。\n从题干的角度解答—如何得出正解，排除干扰\n找关键词：Paragraph 1、the weather in Texas。回文定位：根据关键词可定位至一段。比对匹配：该段提到，自最近\n的极端高温以来，得克萨斯州的天气可能已经转凉，但本月在奥斯汀举行的州教育委员会会议上，讨论气氛将\n会火热，官员们将就如何在得克萨斯州的学校教授气候变化进行辩论。由此可知，一段提及得克萨斯州的天气\n是为了引出州教育委员会会议上的讨论气氛，故C正确。\n一段仅提到，官员们将就应如何在得克萨斯州的学校教授气候变化进行辩论，并未提及得克萨斯州学校政策转\n变的相关信息，也未提及气候变化的后果，故排除A和B。二段•句仅提到，帕特•哈迪对能源部门的观点\n表示赞同，并未提及公众对能源短缺关注的相关信息，故排除D。",
+      "anchor_score": 1.2714,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 22,
+      "correct_answer": "B",
+      "answer_evidence_page": 10,
+      "answer_evidence_pages": [
+        10
+      ],
+      "analysis_source_pages": [
+        10,
+        11
+      ],
+      "analysis_text": "22. What does Quinn think of Hardy？\n奎因如何看待哈迪？\n选项出处\nA. She exaggerates the existing panic.\nA. 她夸大现有的恐慌。\n原文未提\nB. She denies the value of scientific work.\nB.她否认科学工作的价值。\n三段 0② 句\nC. She shows no concern for pre-teens.\nC. 她对十一二岁的孩子毫不关心。\n二段0句\nD. She expresses self-contradictory views.\nD.她表达自相矛盾的观点。\n二段0句、三段0句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：Quinn和Hardy。回文定位：根据关键词可定位至二段邮句和三段0②句。比对匹配：二段 句提到，\nHardy 对能源部门的观点表示赞同，她正在抵制修改面向十一二岁学生的科学标准这一提议。三段•句提到，\n大多数科学家和专家都对 Hardy的观点提出了尖锐的质疑。三段@ 句提到，Quinn 认为他们随意否定学者和科\n学家的工作成果，将其视为又一种错误的观点。由此可知，Quinn 是对Hardy 的观点提出质疑的人之一，这里\n的“他们”指代的是Hardy 以及其他与 Hardy观点一致的人。综上可知，Quinn 认为 Hardy 否认科学工作的价值，\n故B正确。\n【路径二】从选项的角度解答—如何排除干扰\nA A 选项内容在文中无法定位，文中并未提及哈迪夸大现有恐慌的相关信息，故排除。\n10\n找关键词：pre-teens。回文定位：根据关键词可定位至二段•句，其与该句中的 pre-teen pupils 相对应。\n比对匹配：该句提到，哈迪对能源部门的观点表示赞同，她正在抵制修改面向十一二岁学生的科学标准\n这一提议。可见，该句体现了哈迪非常关注十一二岁的孩子，而不是对这些孩子毫不关心，故排除C。\n找关键词：views。回文定位：根据关键词可定位至二段 句和三段•句。比对匹配：二段 句提到，\n哈迪对能源部门的观点表示赞同，她正在抵制修改面向十一二岁学生的科学标准这一提议。三段①句提\nD\n到，大多数科学家和专家都对哈迪的观点提出了尖锐的质疑。这两句仅表明哈迪赞同能源部门的观点以\n及大多数科学家和专家对哈迪的观点提出了质疑，并未提及她的观点自相矛盾，故排除D。",
+      "anchor_score": 1.2657,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 23,
+      "correct_answer": "A",
+      "answer_evidence_page": 10,
+      "answer_evidence_pages": [
+        10
+      ],
+      "analysis_source_pages": [
+        11
+      ],
+      "analysis_text": "23. The study mentioned in Paragraph 5 shows\n五段提到的研究表明_\nthat\n。\n选项出处\nA. climate education is insufficient at state\npublic schools\nA. 州公立学校的气候教育不足\n五段 句\nB. policy makers have little drive for science\nB. 政策制定者在科学教育方面几\neducation\n乎没有干劲\n四段\nC. 得克萨斯州不愿意重写其科学\nC. Texas is reluctant to rewrite its science textbooks\n教科书\n五段②句\nD. environmental teaching in some states lacks\nsupervision\nD.一些州的环境教学缺乏监督\n三段②句\n【路径一】从题干的角度解答—如何得出正解\n找关键词：study 和 Paragraph 5。回文定位：根据关键词可定位至五段•句。比对匹配：该句提到，国家科学\n教育中心去年进行了一项研究，研究了全国各地的州公立学校在科学课堂上处理气候变化问题的方式，结果给\n了美国仅有一半的州B+或更高的分数。由此可知，美国各地的大部分州公立学校在科学课堂上处理气候变化\n问题方式的评分不高，即普適存在气候教育不足的问题，故A正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：policymakers。回文定位：根据关键词可定位至四段。比对匹配：该段提到，政策制定者越来\nB\n越多地要求加强关注在学校教授有关气候变化的事实。可见，政策制定者对科学教育很关注，并非几乎\n没有干劲，选项与原文表意相反，故排除B。\n找关键词：Texas 和 textbooks。回文定位：根据关键词可定位至五段•句。比对匹配：该句提到，得克\nC 萨斯州因其教科书在其他地方广为销售而具有特别大的影响力。该句仅表明得克萨斯州的教科书在其他\n地方广为销售，并未提及得克萨斯州不愿意重写其科学教科书的相关信息，故排除C。\n找关键词：supervision。回文定位：根据关键词可定位至三段@句，其与该句中的 monitors 相对应。比对\nD\n匹配：该句提到，得克萨斯自由网络是一个监督公共教育的非营利组织。该句仅介绍了得克萨斯自由网\n络的性质，并未提及一些州的环境教学缺乏监督，故排除D。",
+      "anchor_score": 1.1103,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 24,
+      "correct_answer": "C",
+      "answer_evidence_page": 11,
+      "answer_evidence_pages": [
+        11
+      ],
+      "analysis_source_pages": [
+        11,
+        12
+      ],
+      "analysis_text": "24. According to Branch, state-level science standards\n根据布兰奇的观点，美国的州级科学\n选项出处\nin the US\n标准\n。\nA. call for regular revision\nA.需要定期修订\n原文未提\nB. require urgent application\nB.需要紧急运用\n原文未提\nC. have limited influence\nC. 影响有限\n六段①句\nD.cater to local needs\nD. 满足当地的需求\n六段①句\n【路径一】从题干的角度解答—如何得出正解\n找关键词：Branch 和 state-level science standards。回文定位：根据关键词可定位至六段08 句。比对匹配：该句\n提到，Branch 提醒道，在一个将决策权下放给地方学校委员会的国家，制定州级科学标准只是一个有限的基准。\n由此可知，Branch 认为美国的州级科学标准影响有限，故C正确。\n【路径二】从选项的角度解答——如何排除干扰\nA\nA 选项内容在文中无法定位，文中并未提及美国的州级科学标准需要定期修订的相关信息，故排除。\nB选项内容在文中无法定位，文中并未提及美国的州级科学标准需要紧急运用的相关信息，故排除。\n找关键词：local。回文定位：根据关键词可定位至六段@句。比对匹配：该句提到，在一个将决策权下\n放给地方学校委员会的国家，制定州级科学标准只是一个有限的基准。可见，该句仅表明地方学校委员\n会拥有决策权，且州级科学标准影响有限，因此无法推断出美国的州级科学标准满足当地需求，故排除D。",
+      "anchor_score": 1.2726,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 25,
+      "correct_answer": "D",
+      "answer_evidence_page": 12,
+      "answer_evidence_pages": [
+        12
+      ],
+      "analysis_source_pages": [
+        12
+      ],
+      "analysis_text": "25. It is implied in the last paragraph that climate\n最后一段暗示一些学校的气候变化\n选项出处\nchange teaching in some schools\n教学\nA. agrees to major public demands\nA. 同意公众的主要要求\n四段\nB. reflects teachers’\npersonal biases\nB. 反映教师的个人偏见\n八段0句\nC. may misrepresent the energy sector\nC. 可能会歪曲能源部门\n二段0句\nD. can be swayed by external forces\nD. 可能会被外力左右\n八段 句\n【路径一】从题干的角度解答—如何得出正解\n找关键词：the last paragraph 和climate change。回文定位：根据关键词可定位至八段①句。比对匹配：该句提\n到，虽然越来越多的官方指南和教科书反映对气候变化的科学共识，但正在向老师分发的仍是传达了更带有偏\n向性观点的非官方教学材料。由此可见，老师使用的非官方教学材料所传达的观点是带有偏向性的、非客观的，\n这些非官方材料便是影响气候变化教学的外力，因而一些学校的气候变化教学可能会被外力左右，故D正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：\ndemands。回文定位：根据关键词可定位至四段。比对匹配：该段提到，研究人员、政策制定\nA 者、教师和学生越来越多地要求加强关注在学校教授有关气候变化的事实。该句仅体现了一些公众群体\n对学校气候变化教学的要求，并未提及学校的气候变化教学同意这些公众群体的要求，故排除A。\n找关键词：biases。回文定位：根据关键词可定位至八段 ①句，其与该句中的 slanted perspectives 相对应。\nB 比对匹配：该句提到，正在向老师分发的仍是传达了更带有偏向性观点的非官方教学材料。该句表明非\n官方教学材料传达了更带有偏向性的观点，而不是教师的个人偏见，故排除B。\n找关键词：the energy sector。回文定位：根据关键词可定位至二段①句。比对匹配：该句提到，帕特•哈\nC\n迪对能源部门的观点表示赞同，并未提及能源部门可能会被学校的气候变化教学歪曲，故排除C。",
+      "anchor_score": 1.2745,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    }
+  ],
+  "full_source_analysis_text": "### PDF p9\n\ndiscussion of mitigation measures.\n期气候变化中的首要影响，并鼓励关于缓解措\n［3］@Most scientists and experts sharply dispute Hardy's\n施的讨论。\nviews. ②\"They casually dismiss the career work of scholars and\n（22）大多数科学家和专家都对哈迪的观\nscientists as just another misguided opinion.” says Dan Quinn，\n点提出了尖锐的质疑。“他们随意否定学者和\nsenior communications strategist at the Texas Freedom Network，\n科学家的工作成果，将其视为又一种错误的观\na non-profit group that monitors public education.⑧\"What\n点。”得克萨斯自由网络的高级通信策略师\nmillions of Texas kids learn in their public schools is determined\n丹•奎因说，得克萨斯自由网络是一个监督公\ntoo often by the political ideology of partisan board members，\n共救育的非營利组织。“数百万得克萨斯州的\nrather than facts and sound scholarship.\"\n孩子们在他们的公立学校里学到的东西往往是\n［4］①Such debates reflect fierce discussions across the US\n由具有一定倾向的董事会成员的政治意识形态\nand around the world, as researchers, policymakers, teachers\n决定的，而不是由事实和可靠的学术研究决\nand students step up demands for a greater focus on teaching\n定的。”\n此类辩论反映出美国乃至世界各地的激烈\nabouit the facts of climate change in schools.\n［5］0A study last year by the National Center for Science\n讨论，因为研究人员、政策制定者、教师和学\n生越来越多地要求加强关注在学校教授有关气\nEducation, a non-profit group of scientists and teachers, looking\n候变化的事实。\nat how state public schools across the country address climate\n（23）国家科学教育中心是一个由科学家\nchange in science classes, gave barely half of US states a grade\nB+ or higher. @Among the 10 worst performers were some of\n和教师组成的非营利组织，该中心去年进行了\n一项研究，研究了全国各地的州公立学校在科\nthe most populous states, including Texas, which was given the\n学课堂上处理气候变化问题的方式，结果给了\nlowest grade （F） and has a disproportionate influence because\n美国仅有一半的州B+ 或更高的分数。在表现\nits textbooks are widely sold elsewhere.\n最差的10个州中有一些人口最为密集的州，\n［6］@Clenn Branch, the centre's deputy director, cautions\n其中包括得克萨斯州，该州的等级被评为最\nthat setting state-level science standards is only one limited\n低（F），而该州因其教科书在其他地方广为\nbenchmark in a country that decentralises decisions to local\n销售而具有特别大的影响力。\nschool boards. @Even if a state is considered a high performer in\n（24）该中心的副主任格伦•布兰奇提醒\nits science standards， \"that does not mean it will be taught\"， he\n道，在一个将决策权下放给地方学校委员会的\nsays.\n国家，制定州级科学标准只是一个有限的基准。\n［7］0Another issue is that, while climate change is well\n即使一个州被认为在科学标准方面表现优异，\nintegrated into some subjects and at some ages—such as earth\n“那也并不意味着气候变化会被教授”，他表示。\nand space sciences in high schools-it is not as well represented\n另一个问题是，虽然气候变化被很好地纳\nin curricula for younger children and in subjects that are more\n入一些科目和一些学段———如高中的地球与空\nwidely taught, such as biology and chemistry. @lt is also less\n间科学—但它在低龄儿童的课程和更广泛教\nprominent in many social studies courses.\n授的料目（如生物学和化学）中同样没有得到\n［8］①Branch points out that, even if a growing number of\n体现。它在许多社会研究课程中也不太突出。\nofficial guidelines and textbooks reflect scientific consensus\n（25） 布兰奇指出，虽然越来越多的官方\non climate change, unofficial educational materials that convey\n指南和教科书反映对气候变化的科学共识，但\nmore slanted perspectives are being distributed to teachers.\n正在向老师分发的仍是传达了更带有偏向性观\n②They include materials sponsored by libertarian think-tanks\n点的非官方教学材料。其中包括由自由主义智\nand energy industry associations.\n囊团和能源产业协会赞助的材料。\n9\n\n### PDF p10\n\n◎ 篇章结构\n第一段：引出话题——官员们将就如何在得克萨斯州学校教授气候变化进行辩论\n第二、三國：期论各方观点 ｛築三酸：剪特主路裝然鲜生路雲盟本校幸銷制期限產社開酸指限業。\n学校面临加\n强环境教学\n而非科学事实决定\n的呼吁\n第四段：此类辩论反映公众群体对学校气候变化教学的关注\n第五段：研究表明美国各州公立学校气候变化教学的讲授不尽如\n【第五至八段：州公立学校气候\n人意\n变化教学现状及1第六段：州级科学标准影响有限\n问题分析\n第七段：气候变化在许多课程中没有得到体现\n第八段：向教师分发的非官方教学材料带有偏向性的观点\n◎ 答案解析\n21. In Paragraph 1, the weather in Texas is mentioned\n在一段中，提到得克萨斯州的天气\n选项出处\nto\n是为了\nA. forecast a policy shift in Texas schools\nA. 预测得克萨斯州学校的政策转变\n一段\nB. stress the consequences of climate change\nB.强调气候变化的后果\n一段\nC. indicate the atmosphere at the board meeting\nC.说明委员会会议的气氛\n一段\nD. draw the public's attention to energy shortages\nD. 引起公众对能源短缺的关注\n二段 句\n浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。\n从题干的角度解答—如何得出正解，排除干扰\n找关键词：Paragraph 1、the weather in Texas。回文定位：根据关键词可定位至一段。比对匹配：该段提到，自最近\n的极端高温以来，得克萨斯州的天气可能已经转凉，但本月在奥斯汀举行的州教育委员会会议上，讨论气氛将\n会火热，官员们将就如何在得克萨斯州的学校教授气候变化进行辩论。由此可知，一段提及得克萨斯州的天气\n是为了引出州教育委员会会议上的讨论气氛，故C正确。\n一段仅提到，官员们将就应如何在得克萨斯州的学校教授气候变化进行辩论，并未提及得克萨斯州学校政策转\n变的相关信息，也未提及气候变化的后果，故排除A和B。二段•句仅提到，帕特•哈迪对能源部门的观点\n表示赞同，并未提及公众对能源短缺关注的相关信息，故排除D。\n22. What does Quinn think of Hardy？\n奎因如何看待哈迪？\n选项出处\nA. She exaggerates the existing panic.\nA. 她夸大现有的恐慌。\n原文未提\nB. She denies the value of scientific work.\nB.她否认科学工作的价值。\n三段 0② 句\nC. She shows no concern for pre-teens.\nC. 她对十一二岁的孩子毫不关心。\n二段0句\nD. She expresses self-contradictory views.\nD.她表达自相矛盾的观点。\n二段0句、三段0句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：Quinn和Hardy。回文定位：根据关键词可定位至二段邮句和三段0②句。比对匹配：二段 句提到，\nHardy 对能源部门的观点表示赞同，她正在抵制修改面向十一二岁学生的科学标准这一提议。三段•句提到，\n大多数科学家和专家都对 Hardy的观点提出了尖锐的质疑。三段@ 句提到，Quinn 认为他们随意否定学者和科\n学家的工作成果，将其视为又一种错误的观点。由此可知，Quinn 是对Hardy 的观点提出质疑的人之一，这里\n的“他们”指代的是Hardy 以及其他与 Hardy观点一致的人。综上可知，Quinn 认为 Hardy 否认科学工作的价值，\n故B正确。\n【路径二】从选项的角度解答—如何排除干扰\nA A 选项内容在文中无法定位，文中并未提及哈迪夸大现有恐慌的相关信息，故排除。\n10\n\n### PDF p11\n\n找关键词：pre-teens。回文定位：根据关键词可定位至二段•句，其与该句中的 pre-teen pupils 相对应。\n比对匹配：该句提到，哈迪对能源部门的观点表示赞同，她正在抵制修改面向十一二岁学生的科学标准\n这一提议。可见，该句体现了哈迪非常关注十一二岁的孩子，而不是对这些孩子毫不关心，故排除C。\n找关键词：views。回文定位：根据关键词可定位至二段 句和三段•句。比对匹配：二段 句提到，\n哈迪对能源部门的观点表示赞同，她正在抵制修改面向十一二岁学生的科学标准这一提议。三段①句提\nD\n到，大多数科学家和专家都对哈迪的观点提出了尖锐的质疑。这两句仅表明哈迪赞同能源部门的观点以\n及大多数科学家和专家对哈迪的观点提出了质疑，并未提及她的观点自相矛盾，故排除D。\n23. The study mentioned in Paragraph 5 shows\n五段提到的研究表明_\nthat\n。\n选项出处\nA. climate education is insufficient at state\npublic schools\nA. 州公立学校的气候教育不足\n五段 句\nB. policy makers have little drive for science\nB. 政策制定者在科学教育方面几\neducation\n乎没有干劲\n四段\nC. 得克萨斯州不愿意重写其科学\nC. Texas is reluctant to rewrite its science textbooks\n教科书\n五段②句\nD. environmental teaching in some states lacks\nsupervision\nD.一些州的环境教学缺乏监督\n三段②句\n【路径一】从题干的角度解答—如何得出正解\n找关键词：study 和 Paragraph 5。回文定位：根据关键词可定位至五段•句。比对匹配：该句提到，国家科学\n教育中心去年进行了一项研究，研究了全国各地的州公立学校在科学课堂上处理气候变化问题的方式，结果给\n了美国仅有一半的州B+或更高的分数。由此可知，美国各地的大部分州公立学校在科学课堂上处理气候变化\n问题方式的评分不高，即普適存在气候教育不足的问题，故A正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：policymakers。回文定位：根据关键词可定位至四段。比对匹配：该段提到，政策制定者越来\nB\n越多地要求加强关注在学校教授有关气候变化的事实。可见，政策制定者对科学教育很关注，并非几乎\n没有干劲，选项与原文表意相反，故排除B。\n找关键词：Texas 和 textbooks。回文定位：根据关键词可定位至五段•句。比对匹配：该句提到，得克\nC 萨斯州因其教科书在其他地方广为销售而具有特别大的影响力。该句仅表明得克萨斯州的教科书在其他\n地方广为销售，并未提及得克萨斯州不愿意重写其科学教科书的相关信息，故排除C。\n找关键词：supervision。回文定位：根据关键词可定位至三段@句，其与该句中的 monitors 相对应。比对\nD\n匹配：该句提到，得克萨斯自由网络是一个监督公共教育的非营利组织。该句仅介绍了得克萨斯自由网\n络的性质，并未提及一些州的环境教学缺乏监督，故排除D。\n24. According to Branch, state-level science standards\n根据布兰奇的观点，美国的州级科学\n选项出处\nin the US\n标准\n。\nA. call for regular revision\nA.需要定期修订\n原文未提\nB. require urgent application\nB.需要紧急运用\n原文未提\nC. have limited influence\nC. 影响有限\n六段①句\nD.cater to local needs\nD. 满足当地的需求\n六段①句\n【路径一】从题干的角度解答—如何得出正解\n找关键词：Branch 和 state-level science standards。回文定位：根据关键词可定位至六段08 句。比对匹配：该句\n提到，Branch 提醒道，在一个将决策权下放给地方学校委员会的国家，制定州级科学标准只是一个有限的基准。\n由此可知，Branch 认为美国的州级科学标准影响有限，故C正确。\n\n### PDF p12\n\n【路径二】从选项的角度解答——如何排除干扰\nA\nA 选项内容在文中无法定位，文中并未提及美国的州级科学标准需要定期修订的相关信息，故排除。\nB选项内容在文中无法定位，文中并未提及美国的州级科学标准需要紧急运用的相关信息，故排除。\n找关键词：local。回文定位：根据关键词可定位至六段@句。比对匹配：该句提到，在一个将决策权下\n放给地方学校委员会的国家，制定州级科学标准只是一个有限的基准。可见，该句仅表明地方学校委员\n会拥有决策权，且州级科学标准影响有限，因此无法推断出美国的州级科学标准满足当地需求，故排除D。\n25. It is implied in the last paragraph that climate\n最后一段暗示一些学校的气候变化\n选项出处\nchange teaching in some schools\n教学\nA. agrees to major public demands\nA. 同意公众的主要要求\n四段\nB. reflects teachers’\npersonal biases\nB. 反映教师的个人偏见\n八段0句\nC. may misrepresent the energy sector\nC. 可能会歪曲能源部门\n二段0句\nD. can be swayed by external forces\nD. 可能会被外力左右\n八段 句\n【路径一】从题干的角度解答—如何得出正解\n找关键词：the last paragraph 和climate change。回文定位：根据关键词可定位至八段①句。比对匹配：该句提\n到，虽然越来越多的官方指南和教科书反映对气候变化的科学共识，但正在向老师分发的仍是传达了更带有偏\n向性观点的非官方教学材料。由此可见，老师使用的非官方教学材料所传达的观点是带有偏向性的、非客观的，\n这些非官方材料便是影响气候变化教学的外力，因而一些学校的气候变化教学可能会被外力左右，故D正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：\ndemands。回文定位：根据关键词可定位至四段。比对匹配：该段提到，研究人员、政策制定\nA 者、教师和学生越来越多地要求加强关注在学校教授有关气候变化的事实。该句仅体现了一些公众群体\n对学校气候变化教学的要求，并未提及学校的气候变化教学同意这些公众群体的要求，故排除A。\n找关键词：biases。回文定位：根据关键词可定位至八段 ①句，其与该句中的 slanted perspectives 相对应。\nB 比对匹配：该句提到，正在向老师分发的仍是传达了更带有偏向性观点的非官方教学材料。该句表明非\n官方教学材料传达了更带有偏向性的观点，而不是教师的个人偏见，故排除B。\n找关键词：the energy sector。回文定位：根据关键词可定位至二段①句。比对匹配：该句提到，帕特•哈\nC\n迪对能源部门的观点表示赞同，并未提及能源部门可能会被学校的气候变化教学歪曲，故排除C。\nText 2\n◎命题分析\nText 2选自2022年6月15 日发表于网站 Boston.com上的一篇文章，原文标题为 “We are at a crisis level on\nthe supply of rental housing.'Experts discuss the impact of short-term rentals.”（《“我们在租赁住房供应方面正面临\n危机。”专家们讨论短租的影响》）。本文主要介绍了不同专家对短期租赁的看法，指出了短期租赁中存在的\n问题并给出了改进的建议。\n题目设置：26题为判断正误题，27题为写作目的题，28题和29题为细节理解题，30题为观点态度题。\n◎ 英汉对照\n［1］@Communities throughout New England have been\n自21世纪10年代爱彼迎等网站兴起以来，\nattempting to regulate short-term rentals since sites like Airbnb\n整个新英格兰的社区一直在试图监管短期租\ntook off in the 2010s. ②Now, with record-high home prices and\n赁。（26）如今，随着房价创历史新高、房屋\nhistorically low inventory, there's an increased urgency in such\n库存处于历史低位，这种监管的紧迫性增加，\n\n### PDF p13\n\nregulation, particularly among those who worry that developers\n尤其是有人担心开发商会进入市场并买下大片\nwill come in and buy up swaths of housing to flip for a fortune\n住房，然后在短期租赁市场上大赚一笔。\non the short-term rental market.\n在新罕布什尔州，出租房空置率已降至1%\n1［2］@in New Hampshire, where the rental vacancy rate has\n以下，住房倡导者担忧，不受管控的短期租赁将\ndropped below 1 percent, housing advocates fear unchecked\n给原本就紧张的市场造成更大的压力。（27）最\nshort-term rentals will put further pressure on an already\n近，州立法机构投票反对了一项法案，该法案\nstrained market. @The state Legislature recently voted against a\nbill that would've made it illegal for towns to create legislation\n本会使城镇立法限制短租这一行为不合法。\nrestricting short-term rentals.\n（28）“我们在租赁住房供应方面正面临\n［3］@“We are at a crisis level on the supply of rental\n危机，”大海岸劳动力住房联盟执行董事尼\nhousing，\" said Nick Taylor, executive director of the Workforce\n克•泰勒说。在新罕布什尔州南部的城镇，若\nHousing Coalition of the Greater Seacoast. @Without enough\n没有足够的经济适用房，“雇主很难吸引到员\naffordable housing in southern New Hampshire towns，\n工，而员工也很难找到住处，”泰勒说道。\n“employers are having a hard time attracting employees，\n然而，当地一家房地产经纪人协会的首席\nand workers are having a hard time finding a place to live，”\n执行官瑞安•卡斯尔指出，短期租赁也可以为\nTaylor said\n游客提供住房。他说，“很多工作人员都在为\n［4］@However, short-term rentals also provide housing for\ntourists, pointed out Ryan Castle, CEO of a local association of\n旅游业服务，而旅游业是由那些短期来的人推\nrealtor. @\"A lot of workers are servicing the tourist industry, and\n动的，所以这是一种循环效应”。\nthe tourism industry is serviced by those people coming in short\n经济适用房政策专家克伦•霍思表示，短\nterm.” Castle said， \"and so it’'s a cyclical effect.\"\n期租赁本身并不是问题的关键。“我认为个人\n［5］@Short-term rentals themselves are not the crux of the\n能够出租他们的第二套住房是一件好事。況\nissue, said Keren Horn, an expert on affordable housing policy.\n且，如果这是他们的度假屋，而且正好闲置，\n②\"1 think individuals being able to rent out their second home\n为什么不能靠它赚钱呢？”霍恩说道。（29）然\nis a good thing. ©lf it's their vacation home anyway, and it's just\n而，当开发商试图打造大规模的短租设施一\nempty, why can't you make money off it？”Horn said. @lssues\n实际上是酒店——来绕过税收和法规时，问题\narise, however, when developers attempt to create large-scale\n就出现了。“我认为问题在于，一个实际上在\nshort-term rental facilities—de facto hotels—to bypass taxes\nand regulations. @\"I think the question is, shouldn't a developer\n建酒店却把它伪装成不是酒店的开发商，难道\nwho's really building a hotel, but disguising it as not a hotel, be\n不应该像酒店一样被对待、征税和监管吗？”\ntreated and taxed and regulated like a hotel？”Hor said.\n雀恩说。\n［6］@At the end of 2018, Governor Charlie Baker of\n2018年年底，马萨诸塞州州长查理•贝克\nMassachusetts signed a bill to rein in those potential investor-\n签署了一项法案来严加限制那些潜在的投资者\nbuyers. @The bill requires every rental host to register with the\n买家。该法案要求每一位租赁房东在州政府登\nstate, mandates they carry insurance, and opens the potential for\n记，规定他们须有保险，并开辟了在新州税的\nlocal taxes on top of a new state levy. ⑧Boston took things even\n基础上征收地方税的可能性。波士顿甚至更进\nfurther, requiring renters to register with the city's Inspectional\n一步，要求承租人在该市的监察事务署登记。\nServices Department.\n［7］@Horn said similar registration requirements could\n（30）霍恩说，类似的登记要求可能会对\nbenefit struggling cities and towns, but \"if we want to make a\n处于困境中的城镇有利，但是“如果我们想改\nchange in the housing market, the main one is we have to build a\n变住房市场，最重要的一点是我们必须建造更\nlot more.”\n多的房子。”\n13",
+  "extraction_status": "preprocessed_complete",
+  "quality": {
+    "answer_count": 5,
+    "question_analysis_count": 5,
+    "nonempty_question_analysis_count": 5,
+    "source_page_count": 5,
+    "full_source_analysis_characters": 11543,
+    "minimum_anchor_score": 1.1103,
+    "vision_ocr_dpi": 150,
+    "source_verified_answers": true
+  }
+}

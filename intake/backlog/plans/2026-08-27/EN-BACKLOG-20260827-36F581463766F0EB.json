@@ -1,0 +1,123 @@
+{
+  "schema_version": "english_package_backlog_plan_v1",
+  "cutoff_date": "2026-08-27",
+  "timezone": "Asia/Shanghai",
+  "selection": {
+    "mode": "through_cutoff",
+    "only_today": false,
+    "package_ids": []
+  },
+  "daily_batches": [],
+  "packages": [],
+  "future_excluded": [],
+  "legacy_reachability_audit": {
+    "schema_version": "english_legacy_capture_reachability_audit_v1",
+    "cutoff_date": "2026-08-27",
+    "event_count": 9,
+    "counts": {
+      "eligible-for-explicit-migration": 0,
+      "needs_user": 9
+    },
+    "events": [
+      {
+        "event_id": "EVT-20260806-4DF6447806282008",
+        "study_date": "2026-08-06",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-06/EVT-20260806-4DF6447806282008.json",
+        "event_sha256": "1d376b9aa172ab2daba801d224a4c1e0437d1a9feb1cd0382c78d4d697214043",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-06/EVT-20260806-4DF6447806282008.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260806-507660196D4F941D",
+        "study_date": "2026-08-06",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-06/EVT-20260806-507660196D4F941D.json",
+        "event_sha256": "a1e77c8dbb1fc22bdd63308f0c107cf4bc62c36d8e78e9fb7c4859026c364638",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-06/EVT-20260806-507660196D4F941D.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+        "study_date": "2026-08-06",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-06/EVT-20260806-8F4D09BF50F3F1B3.json",
+        "event_sha256": "9c295e02a942eb35a59dbb11b3eb30e24f889b1aef44c77f334a1471c96d01cc",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-06/EVT-20260806-8F4D09BF50F3F1B3.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260812-1CDE1C1D42AA4477",
+        "study_date": "2026-08-12",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-12/EVT-20260812-1CDE1C1D42AA4477.json",
+        "event_sha256": "1871a4a03cdddf8a212482d500e90440977b6a6d2bc2fbcb62d8790082b28d15",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-12/EVT-20260812-1CDE1C1D42AA4477.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260812-2FDA148D08DEC81D",
+        "study_date": "2026-08-12",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-12/EVT-20260812-2FDA148D08DEC81D.json",
+        "event_sha256": "9c6f20d7ec930590065136b764ef2bc0cb60fdb428172b5845d03041e14e2bcf",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-12/EVT-20260812-2FDA148D08DEC81D.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260812-31B2E93D5CD95051",
+        "study_date": "2026-08-12",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-12/EVT-20260812-31B2E93D5CD95051.json",
+        "event_sha256": "5b319793ecc4ddad184441591e470b9bb6e9cdaf795b7712bf27a58186c33ef1",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-12/EVT-20260812-31B2E93D5CD95051.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260812-4EF5E2E7B898F951",
+        "study_date": "2026-08-12",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-12/EVT-20260812-4EF5E2E7B898F951.json",
+        "event_sha256": "8ce1d248ac7c70f5eb19d1368c0e9965e610f4f3306599d7b6d4b7fe7a3b3b6e",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-12/EVT-20260812-4EF5E2E7B898F951.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260812-C26F967459FD7A02",
+        "study_date": "2026-08-12",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-12/EVT-20260812-C26F967459FD7A02.json",
+        "event_sha256": "ab644f57ddb38f8ac270f7277544fce626bf4b91413822ea6d87dbad942c1eec",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-12/EVT-20260812-C26F967459FD7A02.json",
+        "migration_performed": false
+      },
+      {
+        "event_id": "EVT-20260813-C1028D11623FC189",
+        "study_date": "2026-08-13",
+        "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-13/EVT-20260813-C1028D11623FC189.json",
+        "event_sha256": "78a4acbb6fd035d9555a263277acf2e4168ba55e1538a23c0f9b42e4a6a7988d",
+        "status": "needs_user",
+        "reason": "authoritative_complete_conversation_evidence_missing",
+        "evidence_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/legacy-package-evidence/2026-08-13/EVT-20260813-C1028D11623FC189.json",
+        "migration_performed": false
+      }
+    ],
+    "migration_performed": false,
+    "formal_write_count": 0,
+    "background_processing": "none",
+    "audit_sha256": "00835a1581b0abdbc27791f279225932285470a3b1a865c8b094f8e1efbee32b"
+  },
+  "formal_write_count": 0,
+  "background_processing": "none",
+  "plan_id": "EN-BACKLOG-20260827-36F581463766F0EB",
+  "plan_canonical_sha256": "36f581463766f0eb51a54a377a8d5ee71304a7d4690f655a70aae1844195c5dd",
+  "created_at": "2026-08-27T08:03:58Z"
+}

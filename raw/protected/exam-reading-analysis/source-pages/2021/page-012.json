@@ -1,0 +1,630 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P012",
+  "year": 2021,
+  "pdf_page": 12,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.01797603195739017,
+      "text": "• 真題精解•",
+      "width": 0.11554621731385095,
+      "x": 0.4285714293420242,
+      "y": 0.9241011985167921
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "22. The stockbroker in Paragraph 2 is used to stand",
+      "width": 0.4663865341157123,
+      "x": 0.06932773801417269,
+      "y": 0.8938953486228735
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01622062040549943,
+      "text": "22.第二段中的股票经纪人用于代表",
+      "width": 0.31512604053769266,
+      "x": 0.5525210164958595,
+      "y": 0.883488681726507
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "for",
+      "width": 0.029411764273524044,
+      "x": 0.06722689126659932,
+      "y": 0.8761651129895416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008720930025834739,
+      "text": "。",
+      "width": 0.012605041437755427,
+      "x": 0.9264705886823827,
+      "y": 0.8851744187806873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "［A］ car drivers",
+      "width": 0.13235294290590377,
+      "x": 0.06932772830195012,
+      "y": 0.8515312915260554
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01474777772804392,
+      "text": "［A］ 有车一族",
+      "width": 0.12394958378492293,
+      "x": 0.5525210055415121,
+      "y": 0.8515312915931906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013340739848293093,
+      "text": "［B］ rail travelers",
+      "width": 0.14705881401752918,
+      "x": 0.06932773731896645,
+      "y": 0.8282290277995976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013340739848293093,
+      "text": "［B］火车乘客",
+      "width": 0.12184873665458662,
+      "x": 0.5525210108393734,
+      "y": 0.8282290278407798
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01471874653578753,
+      "text": "［C］ local investors",
+      "width": 0.16386554695967306,
+      "x": 0.06722689202436516,
+      "y": 0.8035952065977393
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01471874653578753,
+      "text": "［C］当地投资者",
+      "width": 0.14285713445703874,
+      "x": 0.5525210137938896,
+      "y": 0.803595206641344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "［D］ ordinary taxpayers",
+      "width": 0.19747898344359646,
+      "x": 0.06932773714374799,
+      "y": 0.7802929427127842
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609675449315462,
+      "text": "［D］ 普通纳税人",
+      "width": 0.14285713445703874,
+      "x": 0.5525210117105562,
+      "y": 0.7789613845465553
+    },
+    {
+      "confidence": 1,
+      "height": 0.016021273266300762,
+      "text": "［精准定位］第二段①句介绍政府允许提价的原因：铁路网的投资运营成本理应由其使用者（those",
+      "width": 0.8550419743120785,
+      "x": 0.09663867715593552,
+      "y": 0.7543275634478277
+    },
+    {
+      "confidence": 1,
+      "height": 0.01753088891426824,
+      "text": "who use it）而非全体纳税人承担。②句列举两个典型的人物具体说明①句所述原因：一位驾车出行、靠",
+      "width": 0.8907563020268846,
+      "x": 0.05882352223585748,
+      "y": 0.735465116388894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016301907489842615,
+      "text": "退休金度日的人凭什么要补贴一位股票经纪人的日常通勤（the daily commute）？即谁乘车，谁买单，不",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.7177097201944893
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348600953987,
+      "text": "乘车者没有义务为火车乘客买单。股票经纪人是“火车乘客/铁路网使用者”的典型代表，B正确。",
+      "width": 0.8340335912098085,
+      "x": 0.0588235374045496,
+      "y": 0.697674418486587
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01617223508507215,
+      "text": "［命题解密］rail travelers 同义替换①句 those who use it /the rail network，也体现②句 daily commute。",
+      "width": 0.8529411418819244,
+      "x": 0.0966386798643597,
+      "y": 0.6802325584469664
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739017,
+      "text": "A指向“林肯郡一位开车出行的领养老金者”，与股票经纪人所代表的“火车乘客”正相对。C利用",
+      "width": 0.8508403094517702,
+      "x": 0.09873951521709194,
+      "y": 0.6611185089596724
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "①句中的 investing 设置干扰，但“投资者”未在文中出现，更非股票经纪人所代表的对象。D指向①句",
+      "width": 0.8907563020268846,
+      "x": 0.058823527295381324,
+      "y": 0.642441860889863
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01626706980516046,
+      "text": "“普通纳税人（the general taxpayer）”，有较强干扰性，但本文中不仅体现出股票经纪人是普通纳税人中",
+      "width": 0.8928571344570387,
+      "x": 0.05672268583520619,
+      "y": 0.6235465119111139
+    },
+    {
+      "confidence": 1,
+      "height": 0.017565726598950393,
+      "text": "的一员，更强调其有别于其他纳税人的“火车乘客”身份，选项忽略了这一点。",
+      "width": 0.6575630202688463,
+      "x": 0.05882353375213141,
+      "y": 0.6045272966245587
+    },
+    {
+      "confidence": 1,
+      "height": 0.014654878293785423,
+      "text": "［技巧总结］本题就第二段的例子命制写作目的题，解题关键在于梳理句间逻辑，找到例子所服务",
+      "width": 0.8529411418819244,
+      "x": 0.0966386798643597,
+      "y": 0.5872093027821708
+    },
+    {
+      "confidence": 1,
+      "height": 0.016270941011756412,
+      "text": "的论点句，并找出二者的对应关系。解题时，先由题干关键词 stockbroker 定位至第二段②句，由句中逻",
+      "width": 0.8907563020268846,
+      "x": 0.058823537081795566,
+      "y": 0.5665778960112383
+    },
+    {
+      "confidence": 1,
+      "height": 0.017470891243925868,
+      "text": "辑路标 the argument goes 可知，该句是对上句的具体说明，由此确定这两句为解题范围。然后，根据",
+      "width": 0.8907563020268846,
+      "x": 0.05882353816722985,
+      "y": 0.5479360850755135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016081270936643355,
+      "text": "①句中的取舍结构...should be borne by...rather than... 和②句中的对比关系可知，股票经纪人代表",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.5305232561819471
+    },
+    {
+      "confidence": 1,
+      "height": 0.016298036283246553,
+      "text": "“火车乘客”，驾车出行的退休者则代表“不乘火车者”，两个群体合为“全体纳税人”，B正确。",
+      "width": 0.7857142689140776,
+      "x": 0.05672270402335325,
+      "y": 0.511318242503314
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "①",
+      "width": 0.016806721917007245,
+      "x": 0.13655462231880727,
+      "y": 0.4796511624974582
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012296482345235615,
+      "text": "However，",
+      "width": 0.08841507604815826,
+      "x": 0.1658764970598661,
+      "y": 0.4807703634673903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008908664180181658,
+      "text": "over",
+      "width": 0.05882352854704809,
+      "x": 0.25420168208501936,
+      "y": 0.4811046513630517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01337170569144297,
+      "text": "the past 12",
+      "width": 0.12184873665458662,
+      "x": 0.3151260538715862,
+      "y": 0.4793608520967052
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "months, those",
+      "width": 0.13655462246639422,
+      "x": 0.4516806696841699,
+      "y": 0.4811046509920617
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "然而，在过去的12个月里，东南部",
+      "width": 0.29201679560490434,
+      "x": 0.651260511585678,
+      "y": 0.47238372138682205
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "commuters have",
+      "width": 0.14495798158737505,
+      "x": 0.06092437156625641,
+      "y": 0.4620505994834594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "also experienced",
+      "width": 0.16386554695967306,
+      "x": 0.20378151496554156,
+      "y": 0.46071904152816145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "some of the worst rail",
+      "width": 0.22268907550672112,
+      "x": 0.365546214837676,
+      "y": 0.4620505991927618
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046606,
+      "text": "的通勤者还是经历了多年以来最严重",
+      "width": 0.33193275877965434,
+      "x": 0.6113445470545005,
+      "y": 0.4533954724804179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013410413312848535,
+      "text": "strikes®",
+      "width": 0.06722688766802898,
+      "x": 0.05882353148111156,
+      "y": 0.4433139541244002
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01177921117383851,
+      "text": "in years.",
+      "width": 0.08617704681808089,
+      "x": 0.13233164336196107,
+      "y": 0.44178481320925345
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "② It is all very well train operators",
+      "width": 0.35294117128228863,
+      "x": 0.2352941261235614,
+      "y": 0.4418604656130146
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739006,
+      "text": "的铁路罢工。火车运营商当然尽可以",
+      "width": 0.33193275877965445,
+      "x": 0.6113445436143745,
+      "y": 0.4314247670398935
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606191744340868,
+      "text": "trumpeting®",
+      "width": 0.11554621731385102,
+      "x": 0.05882353192430691,
+      "y": 0.4214380823339464
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "the improvements they",
+      "width": 0.21638654881589445,
+      "x": 0.17436974809730496,
+      "y": 0.42143808238395775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014695521835957015,
+      "text": "are making to the",
+      "width": 0.18487394476212515,
+      "x": 0.4033613473668365,
+      "y": 0.4200581396765506
+    },
+    {
+      "confidence": 1,
+      "height": 0.015996113280640434,
+      "text": "吹嘘自己如何改善了铁路网，但乘客既",
+      "width": 0.33403359120980847,
+      "x": 0.6092437107763983,
+      "y": 0.4127829559916275
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815838,
+      "text": "network,but",
+      "width": 0.11974789687434144,
+      "x": 0.060924370855546375,
+      "y": 0.40261627976030145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014827129526557403,
+      "text": "passengers should be able to expect® a basic",
+      "width": 0.4075630202688463,
+      "x": 0.18067226458546506,
+      "y": 0.40261627930833355
+    },
+    {
+      "confidence": 1,
+      "height": 0.016224490977158945,
+      "text": "然支付了高昂的乘车费用，就理应可以",
+      "width": 0.3340335912098086,
+      "x": 0.6113445531083309,
+      "y": 0.39389534922337155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01503438733706619,
+      "text": "level of service for the substantial® sums®",
+      "width": 0.3531545591262494,
+      "x": 0.058727317838969485,
+      "y": 0.3832910039599098
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "they are now paying",
+      "width": 0.17226890608065387,
+      "x": 0.4138655482902052,
+      "y": 0.382157123838353
+    },
+    {
+      "confidence": 1,
+      "height": 0.0160328862511524,
+      "text": "要求基本水平的服务。虽然最近这波罢",
+      "width": 0.33613445304032696,
+      "x": 0.6092436936479038,
+      "y": 0.3735019971199529
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "to travel. 3 The responsibility for the latest wave of strikes",
+      "width": 0.5273109391934611,
+      "x": 0.060924368927429,
+      "y": 0.36337209355027233
+    },
+    {
+      "confidence": 1,
+      "height": 0.014734230092298795,
+      "text": "工潮的责任在于工会，但受劳工行动（这",
+      "width": 0.3340335912098086,
+      "x": 0.6113445531083309,
+      "y": 0.3561046516193801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "rests on the unions®",
+      "width": 0.16806722652016348,
+      "x": 0.06092437177143081,
+      "y": 0.3459302331941677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014803904191790451,
+      "text": ". ④ However, there is a strong case® that",
+      "width": 0.3613445304032695,
+      "x": 0.22689075398604056,
+      "y": 0.34420772313747283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014860031290473419,
+      "text": "里指“铁路罢工”）影响最严重的人们完",
+      "width": 0.3403361179006352,
+      "x": 0.6092437015013632,
+      "y": 0.33688415429944885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "those who have been worst affected by industrial action should",
+      "width": 0.527310939193461,
+      "x": 0.058823515408521765,
+      "y": 0.3255659121739938
+    },
+    {
+      "confidence": 1,
+      "height": 0.016150945671071337,
+      "text": "全有理由就其遭受的混乱获得赔偿。",
+      "width": 0.3088235138468659,
+      "x": 0.6113445486858107,
+      "y": 0.3154069770540402
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629416571158704,
+      "text": "receive compensation® for the disruption® they have suffered",
+      "width": 0.5105041621507707,
+      "x": 0.06092438681677167,
+      "y": 0.30492676449212475
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "词汇注释与难句分析",
+      "width": 0.1911764714529519,
+      "x": 0.39075630447835596,
+      "y": 0.2659883725496126
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907124403758,
+      "text": "①strike ［straik］n. 黑工",
+      "width": 0.19117647145295188,
+      "x": 0.06092437122730551,
+      "y": 0.24273255812384453
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394403815727,
+      "text": "⑧compensation ［，kpmpen'setjn］ n. 补偿；赔偿",
+      "width": 0.35504200371244277,
+      "x": 0.533613457842658,
+      "y": 0.2427325586847202
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "②trumpet ［'trAmprt］v. 宣扬；鼓吹；吹嘘",
+      "width": 0.3193277347983653,
+      "x": 0.058823524897736186,
+      "y": 0.22237017299501638
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "⑨disruption ［dis'rApln］n. 扰乱；干扰",
+      "width": 0.29411762803505836,
+      "x": 0.5315126121029191,
+      "y": 0.22237017299501638
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014765196570384997,
+      "text": "③expect ［uk'spekt］v. 要求；期望；指望",
+      "width": 0.30042015472588507,
+      "x": 0.06092437427271169,
+      "y": 0.20494186078673882
+    },
+    {
+      "confidence": 1,
+      "height": 0.013181400680034039,
+      "text": "经典搭配",
+      "width": 0.07986619247407123,
+      "x": 0.5567055597955666,
+      "y": 0.20489185787147768
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100237,
+      "text": "④substantial ［sab'steen门］a. 大量的；价值巨大的",
+      "width": 0.37605041621507707,
+      "x": 0.06092436903831983,
+      "y": 0.18750000030085856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014829064812387216,
+      "text": "①all very well（用于批评或反驳）某人尽可做某事",
+      "width": 0.39285713445703874,
+      "x": 0.529411764977363,
+      "y": 0.18575233009439562
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "⑤sum［sAm］n. 金额；款项",
+      "width": 0.21008402212506774,
+      "x": 0.06302521845427275,
+      "y": 0.17151162790582142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "②rest on 依赖；依靠",
+      "width": 0.1575630202688464,
+      "x": 0.5315126088256608,
+      "y": 0.1684420769164655
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696439,
+      "text": "⑥union ［junion］ n. 工会",
+      "width": 0.20168066300408688,
+      "x": 0.06092437627106574,
+      "y": 0.15246338221965372
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "③industrial action（罢工等）劳工行动",
+      "width": 0.29411762803505836,
+      "x": 0.5294117771589413,
+      "y": 0.15113182412983706
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01474777772804392,
+      "text": "⑦ case ［keis］n. 论据；理由",
+      "width": 0.21008402212506774,
+      "x": 0.06092437417906279,
+      "y": 0.13372093079815917
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011629842410233682,
+      "text": "It is all very well train operators trumpeting the improvements they are making to the network, but passengers",
+      "width": 0.8529411418819244,
+      "x": 0.10084036195819746,
+      "y": 0.10319573914615432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "should be able to expect a basic level of service for the substantial sums they are now paying to travel.",
+      "width": 0.7941176574354227,
+      "x": 0.05882353216464143,
+      "y": 0.08430232546257443
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688268,
+      "text": "12",
+      "width": 0.023109243095265644,
+      "x": 0.07352941204480415,
+      "y": 0.053779069735830354
+    }
+  ],
+  "vision_ocr_text": "• 真題精解•\n22. The stockbroker in Paragraph 2 is used to stand\n22.第二段中的股票经纪人用于代表\nfor\n。\n［A］ car drivers\n［A］ 有车一族\n［B］ rail travelers\n［B］火车乘客\n［C］ local investors\n［C］当地投资者\n［D］ ordinary taxpayers\n［D］ 普通纳税人\n［精准定位］第二段①句介绍政府允许提价的原因：铁路网的投资运营成本理应由其使用者（those\nwho use it）而非全体纳税人承担。②句列举两个典型的人物具体说明①句所述原因：一位驾车出行、靠\n退休金度日的人凭什么要补贴一位股票经纪人的日常通勤（the daily commute）？即谁乘车，谁买单，不\n乘车者没有义务为火车乘客买单。股票经纪人是“火车乘客/铁路网使用者”的典型代表，B正确。\n［命题解密］rail travelers 同义替换①句 those who use it /the rail network，也体现②句 daily commute。\nA指向“林肯郡一位开车出行的领养老金者”，与股票经纪人所代表的“火车乘客”正相对。C利用\n①句中的 investing 设置干扰，但“投资者”未在文中出现，更非股票经纪人所代表的对象。D指向①句\n“普通纳税人（the general taxpayer）”，有较强干扰性，但本文中不仅体现出股票经纪人是普通纳税人中\n的一员，更强调其有别于其他纳税人的“火车乘客”身份，选项忽略了这一点。\n［技巧总结］本题就第二段的例子命制写作目的题，解题关键在于梳理句间逻辑，找到例子所服务\n的论点句，并找出二者的对应关系。解题时，先由题干关键词 stockbroker 定位至第二段②句，由句中逻\n辑路标 the argument goes 可知，该句是对上句的具体说明，由此确定这两句为解题范围。然后，根据\n①句中的取舍结构...should be borne by...rather than... 和②句中的对比关系可知，股票经纪人代表\n“火车乘客”，驾车出行的退休者则代表“不乘火车者”，两个群体合为“全体纳税人”，B正确。\n①\nHowever，\nover\nthe past 12\nmonths, those\n然而，在过去的12个月里，东南部\ncommuters have\nalso experienced\nsome of the worst rail\n的通勤者还是经历了多年以来最严重\nstrikes®\nin years.\n② It is all very well train operators\n的铁路罢工。火车运营商当然尽可以\ntrumpeting®\nthe improvements they\nare making to the\n吹嘘自己如何改善了铁路网，但乘客既\nnetwork,but\npassengers should be able to expect® a basic\n然支付了高昂的乘车费用，就理应可以\nlevel of service for the substantial® sums®\nthey are now paying\n要求基本水平的服务。虽然最近这波罢\nto travel. 3 The responsibility for the latest wave of strikes\n工潮的责任在于工会，但受劳工行动（这\nrests on the unions®\n. ④ However, there is a strong case® that\n里指“铁路罢工”）影响最严重的人们完\nthose who have been worst affected by industrial action should\n全有理由就其遭受的混乱获得赔偿。\nreceive compensation® for the disruption® they have suffered\n词汇注释与难句分析\n①strike ［straik］n. 黑工\n⑧compensation ［，kpmpen'setjn］ n. 补偿；赔偿\n②trumpet ［'trAmprt］v. 宣扬；鼓吹；吹嘘\n⑨disruption ［dis'rApln］n. 扰乱；干扰\n③expect ［uk'spekt］v. 要求；期望；指望\n经典搭配\n④substantial ［sab'steen门］a. 大量的；价值巨大的\n①all very well（用于批评或反驳）某人尽可做某事\n⑤sum［sAm］n. 金额；款项\n②rest on 依赖；依靠\n⑥union ［junion］ n. 工会\n③industrial action（罢工等）劳工行动\n⑦ case ［keis］n. 论据；理由\nIt is all very well train operators trumpeting the improvements they are making to the network, but passengers\nshould be able to expect a basic level of service for the substantial sums they are now paying to travel.\n12",
+  "pdf_text_layer": "•真题精解・］拧\n\n\n 22. The stockbroker in Paragraph 2 is used to stand\n                                                                 22.第二段中的股票经纪人用于代表                               。\n for          ・\n [A] car drivers                                                 EA］有车一族\n [B] rail travelers                                              ［B］火车乘客\n [C] local investors                                             ［C］当地投资者\n [D] ordinary taxpayers                                          ［D］普通纳税人\n    ［精准定位］第二段①句介绍政府允许提价的原因：铁路网的投资运营成本理应由其使用者(those\nwho use it)而非全体纳税人承担。②句列举两个典型的人物具体说明①句所述原因：一位驾车出行、靠\n退休金度日的人凭什么要补贴一位股票经纪人的日常通勤(the daily commute)?即谁乘车，谁买单，不\n乘车者没有义务为火车乘客买单。股票经纪人是“火车乘客/铁路网使用者”的典型代表,B正确。\n       ［命题解密］rail travelers 同义替换①句 those who use it /the rail network,也体现②句 daily commuteo\n       A指向“林肯郡一位开车出行的领养老金者”，与股票经纪人所代表的“火车乘客”正相对。C利用\n①句中的investing设置干扰，但“投资者”未在文中出现，更非股票经纪人所代表的对象。D指向①句\n\"普通纳税人(the general taxpayer)\",有较强干扰性，但本文中不仅体现岀股票经纪人是普通纳税人中\n的一员，更强调其有别于其他纳税人的“火车乘客”身份，选项忽略了这一点。\n  ［技巧总结］本题就第二段的例子命制写作目的题，解题关键在于梳理句间逻辑，找到例子所服务\n的论点句，并找出二者的对应关系。解题时，先由题干关键词stockbroker定位至第二段②句，由句中逻\n辑路标the argument goes可知，该句是对上句的具体说明，由此确定这两句为解题范围。然后，根据\n①句中的取舍结构... should be borne by. . . rather than...和②句中的对比关系可知，股票经纪人代表\n“火车乘客”，驾车出行的退休者则代表“不乘火车者”，两个群体合为“全体纳税人”,B正确。\n\n       HI   O However,      over the past      12   months,    those\n                                                                              然而，在过去的12个月里，东南部\ncommuters have also experienced some of the worst rail\n                                                                         的通勤者还是经历了多年以来最严重\nstrikes® in years.      ❷ It is all very well train operators\n                                                                         的铁路罢工。火车运营商当然尽可以\ntrumpeting心       the improvements they are making to the\n                                                                         吹嘘自己如何改善了铁路网，但乘客既\nnetwork, but passengers should be able to expect③ a basic\n                                                                         然支付了高昂的乘车费用，就理应可以\nlevel of service for the substantiall，sums⑤ they are now paying          要求基本水平的服务。虽然最近这波罢\nto travel. ❸ The responsibility for the latest wave of strikes\n                                                                         工潮的责任在于工会，但受劳工行动(这\nrests on the unions®. 0 However, there is a strong caseJ that\n                                                                         里指“铁路罢工”)影响最严重的人们完\nthose who have been worst affected by industrial action should\n                                                                         全有理由就其遭受的混乱获得赔偿。\nreceive compensation® for the disruption9' they have suffered.\n\n                                          •词汇注释与难句分析；\\丛\n\n① strike [straik] n.罢工                                        ⑧ compensation ［ikompen^eijn］ n.补偿；赔偿\n② trumpet [,trAmpit] v.宣扬；鼓吹；吹嘘                               ⑨ disruption ［dis'rApJn］ n.扰乱；干扰\n③ expect [ik'spekt] v.要求；期望；指望                                •经典搭配\n④ substantial [sab'staenjl] a.大量的；价值巨大的                       ®all very well (用于批评或反驳)某人尽可做某事\n⑤ sum [sAm] n.金额；款项                                           ② rest on依赖；依靠\n®union [1 juinisn] n. 工会                                      ③ industrial action (罢工等)劳工行动\n©case [keis] n.论据；理由\n\n       It is all very well train operators trumpeting the improvements they are making to the network, but passengers\nshould be able to expect a basic level of service for the substantial sums they are now paying to travel・\n\n  12",
+  "quality": {
+    "vision_line_count": 76,
+    "vision_character_count": 2240,
+    "pdf_text_character_count": 3460,
+    "nonempty": true
+  }
+}

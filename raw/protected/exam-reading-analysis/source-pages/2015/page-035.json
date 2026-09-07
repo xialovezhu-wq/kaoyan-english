@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P035",
+  "year": 2015,
+  "pdf_page": 35,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01768252933507175,
+      "text": "and is part of Science's overall drive to increase reproducibility in the research we publish.”",
+      "width": 0.7130620516263522,
+      "x": 0.04710923979174879,
+      "y": 0.919817470767288
+    },
+    {
+      "confidence": 1,
+      "height": 0.015058238938392421,
+      "text": "结构切分：",
+      "width": 0.09011708773099458,
+      "x": 0.08984509703436169,
+      "y": 0.9009011131267279
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014838144086019578,
+      "text": "句子主干：",
+      "width": 0.09004160074087289,
+      "x": 0.08774151151447329,
+      "y": 0.8806623232306252
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014644795632890784,
+      "text": "McNutt said: A",
+      "width": 0.13704496530386118,
+      "x": 0.1970021440075983,
+      "y": 0.8807040414544809
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016301052511282332,
+      "text": "Asked whether any particular papers had impelled the change，",
+      "width": 0.5010706388033354,
+      "x": 0.3832976612193173,
+      "y": 0.8761408080671519
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013200782268578903,
+      "text": "主语 谓语",
+      "width": 0.10064239501953123,
+      "x": 0.20770878179583238,
+      "y": 0.8617992177173479
+    },
+    {
+      "confidence": 1,
+      "height": 0.013989005903221607,
+      "text": "伴随状语",
+      "width": 0.07954527781559873,
+      "x": 0.33603035951490373,
+      "y": 0.8585578227089449
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020852510434863136,
+      "text": "宾语从向个",
+      "width": 0.09872544361994814,
+      "x": 0.1947486262404768,
+      "y": 0.8398644423748227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "“The creation of the ‘statistics board’",
+      "width": 0.3040685213529146,
+      "x": 0.0985010716040566,
+      "y": 0.8239895699773414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "was motivated by concerns broadly with the application",
+      "width": 0.4689507411076472,
+      "x": 0.4047109190875042,
+      "y": 0.8226744188355934
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "主语",
+      "width": 0.03854389557471641,
+      "x": 0.23768736673798083,
+      "y": 0.8050847458838359
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "谓语1",
+      "width": 0.05139186198894796,
+      "x": 0.4368308350868965,
+      "y": 0.8050847456755026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01919665827744943,
+      "text": "of statistics and data analysis in scientific research and is part of Science's overall drive",
+      "width": 0.7280513469989485,
+      "x": 0.10064242494806325,
+      "y": 0.7819767447547709
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "介词短语做后置定语修饰concerns",
+      "width": 0.29122056227463944,
+      "x": 0.1777301920349042,
+      "y": 0.767275097738353
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "连词",
+      "width": 0.049250533030583354,
+      "x": 0.5117773025853508,
+      "y": 0.7672750978410193
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771723,
+      "text": "谓语2",
+      "width": 0.055674516237699145,
+      "x": 0.6659528919882168,
+      "y": 0.7659713165576083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.026720104192661576,
+      "text": "to increase reproducibility in the research we publish.\"",
+      "width": 0.4438634432279146,
+      "x": 0.09391294338648547,
+      "y": 0.7424148973177691
+    },
+    {
+      "confidence": 1,
+      "height": 0.014570888981825236,
+      "text": "不定式做定语修饰drive",
+      "width": 0.20342612633338342,
+      "x": 0.2077087809178907,
+      "y": 0.7281616688904302
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "功能注释：主干为 McNutt said.•，引出对问题的回答；Asked whether...过去分词做伴随状语，",
+      "width": 0.8458243736853966,
+      "x": 0.08779444070012855,
+      "y": 0.7046936115488881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "说明问题的内容。said 引出宾语从句 The creation.. was motivated by concerns...and is part of",
+      "width": 0.8865095872145433,
+      "x": 0.049250564797439174,
+      "y": 0.6844850067924514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "Science's overall drive. ..；其中，broadly with the application of...说明 concerns 的内容；to increase...后",
+      "width": 0.8822269733135517,
+      "x": 0.04925054455307417,
+      "y": 0.6668839636192655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "置定语，说明drive（努力）的内容；we publish 为省略了 that 的定语从句，修饰 research。",
+      "width": 0.7366166921762319,
+      "x": 0.049250545683067824,
+      "y": 0.6479791395357094
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.022630853168034926,
+      "text": "•语篇分析•沒",
+      "width": 0.1693935100848858,
+      "x": 0.4067379354405575,
+      "y": 0.6202252709493519
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "第三段具体论述新举措的动因：不是因为个别问题论文，而是出于大局考虑。关键词为：",
+      "width": 0.8436830960787259,
+      "x": 0.08993575991413963,
+      "y": 0.5971316816691121
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "①concerns； ②to increase reproducibility。",
+      "width": 0.34261239858774034,
+      "x": 0.04925055017079781,
+      "y": 0.5782268579890804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "本段是由包含“一问一答”的独句构成。Asked whether..展示问题：新举措出台是否源于某些（存",
+      "width": 0.8501070462740384,
+      "x": 0.08351177672914809,
+      "y": 0.5593220341185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "在问题的）论文？其中 impel（促使，驱使）为隐性因果逻辑词，any particular papers（专指的论文）暗指“发",
+      "width": 0.8822269733135516,
+      "x": 0.04925053273753439,
+      "y": 0.5404172100673879
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "表在《科学》上的存在数据错误的论文”，the change 指代“成立 SBoRE”这一改草措施。McNutt said...引",
+      "width": 0.8822269733135517,
+      "x": 0.04925054534077693,
+      "y": 0.5215123861797932
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "出回答；一是因为科研中的统计和数据分析受到广泛关切，二是为了提升已发表研究的可复制性。The",
+      "width": 0.8865095872145432,
+      "x": 0.049250570793156305,
+      "y": 0.502607562128681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "creation of the ‘statistics board’呼应 the change，同指新举措“创立 SBoRE”；was motivated by ...and is",
+      "width": 0.8886509235088641,
+      "x": 0.04710922328304134,
+      "y": 0.4837027382410862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016306737255708192,
+      "text": "part of...呼应 had impelled，引出实施新举措的两重原因。诱因一 concerns broadly with...（broadly",
+      "width": 0.8843683096078726,
+      "x": 0.04710921562432911,
+      "y": 0.46479791416817184
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "泛指）与问话中的 any particular papers（particular 为专指）对立，表明新举措并非基于个别问题论文，而",
+      "width": 0.8822269733135517,
+      "x": 0.04925053873936978,
+      "y": 0.44622093029123633
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "是从大局出发改善科研中日益普遍的数据问题。诱因二 is part of Science's overall drive to... 中，overall",
+      "width": 0.8843683096078726,
+      "x": 0.04925054023086025,
+      "y": 0.42732558137590204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464668992600815,
+      "text": "drive （drive 意为“［尤指为某一目的有组织的］努力”）凸显《科学》意欲改革的力度和决心；to increase",
+      "width": 0.8886509235088642,
+      "x": 0.04710923663957199,
+      "y": 0.4084302329198958
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01463721535196516,
+      "text": "reproducibility in. .. 明确“努力”的方向，反向呼应首段的 the irreproducibility of..。",
+      "width": 0.7152033879206731,
+      "x": 0.04710921787049883,
+      "y": 0.38953488391553526
+    },
+    {
+      "confidence": 1,
+      "height": 0.014627740156230917,
+      "text": "【深层解读】本段为首段②句所述新举措原因的阐述：借助因果逻辑近义表达（impelled、was",
+      "width": 0.8479657099797175,
+      "x": 0.08779445541699332,
+      "y": 0.370639535245477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01316477640045044,
+      "text": "motivated by、is part of...overall drive 等）复现首段 after 以及 concerns broadly with...data analysis...",
+      "width": 0.8779443007249098,
+      "x": 0.05139188630778035,
+      "y": 0.3531976745235209
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "复现首段 widespread concern...data analysis...，明确本段与首段②句间阐释关联：成立 SBoRE 小组的",
+      "width": 0.8822269733135516,
+      "x": 0.04925054756163946,
+      "y": 0.33284883726798054
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "动因不是基于个别有问题的论文，而是出于大局考虑。到此可总结出前三段逻辑关系：首段概述“举措、",
+      "width": 0.8865096459021935,
+      "x": 0.04925053775554121,
+      "y": 0.31395348828299996
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695794360423123,
+      "text": "原因”，第二、三段围绕首段两点分别展开说明。",
+      "width": 0.4004282437838041,
+      "x": 0.0492505430117383,
+      "y": 0.29335071732623896
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907236987034,
+      "text": "T",
+      "width": 0.032119912367600645,
+      "x": 0.09635974435153158,
+      "y": 0.2645348836780179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013170461766567554,
+      "text": "① Giovanni Parmigiani, a biostatistician at the",
+      "width": 0.419700211745042,
+      "x": 0.13062098095831418,
+      "y": 0.2645348837531719
+    },
+    {
+      "confidence": 1,
+      "height": 0.014570888981825347,
+      "text": "哈佛大学公共卫生学院的生物统计",
+      "width": 0.3169164804311899,
+      "x": 0.6102783725253045,
+      "y": 0.2572674420914073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011857205606035426,
+      "text": "Harvard School of Public Health, a member of the SBoRE",
+      "width": 0.4989293025090144,
+      "x": 0.05139188395248777,
+      "y": 0.24563953482627388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "学家、SBoRE 成员乔瓦尼•帕马强尼说，",
+      "width": 0.35546038700984073,
+      "x": 0.5738758052102829,
+      "y": 0.23837209308193408
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014604999313453937,
+      "text": "group,says he expects the board to \"play primarily①an",
+      "width": 0.49892930250901446,
+      "x": 0.051391886031359926,
+      "y": 0.22529069801437251
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "他期望该委员会“主要发挥某种咨询作",
+      "width": 0.35546038700984073,
+      "x": 0.5717344739468998,
+      "y": 0.22093023265678857
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095175953,
+      "text": "advisory® role. ” ② He agreed to join because he “found the",
+      "width": 0.5010706388033354,
+      "x": 0.049250543232165385,
+      "y": 0.20469361120483875
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186023378924,
+      "text": "用”。他同意加入委员会是因为他“发现",
+      "width": 0.35331905071551983,
+      "x": 0.573875803785709,
+      "y": 0.20058139529008212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "foresight® behind the establishment of the SBoRE to be",
+      "width": 0.49036401601938095,
+      "x": 0.051391862047411724,
+      "y": 0.1857887875958294
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "SBoRE创立背后的远见新颖、独特的，而",
+      "width": 0.35546038700984073,
+      "x": 0.5695931425229169,
+      "y": 0.1831395347280097
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01552847870947327,
+      "text": "novel, unique and likely to have a lasting impact. ③ This",
+      "width": 0.5012324993426984,
+      "x": 0.0491688921275823,
+      "y": 0.16527589278005161
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "且很可能会产生一种持久的影响。这种",
+      "width": 0.35546038700984073,
+      "x": 0.5717344771160646,
+      "y": 0.16558018260077845
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208362549504526,
+      "text": "impact will not only be through the publications in Science",
+      "width": 0.49464668860802286,
+      "x": 0.04925053644545317,
+      "y": 0.1466753583666548
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014567099152208107,
+      "text": "影响将不仅仅会遍及《科学》自己发表的",
+      "width": 0.35546038700984073,
+      "x": 0.5717344790325528,
+      "y": 0.14970930270187233
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01321783774523877,
+      "text": "itself, but hopefully through a larger group of publishing",
+      "width": 0.5010706388033352,
+      "x": 0.04925055284672629,
+      "y": 0.12777053430464147
+    },
+    {
+      "confidence": 1,
+      "height": 0.014557623956473975,
+      "text": "文章，也有望波及一大批可能想效法《科",
+      "width": 0.35331905071551983,
+      "x": 0.5738758090717292,
+      "y": 0.13081395387504524
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "places that may want to model® their approach® after Science.",
+      "width": 0.48608134343073917,
+      "x": 0.05139188456585783,
+      "y": 0.10886571034806314
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860233789352,
+      "text": "学》此举的出版单位。”",
+      "width": 0.19057815258319555,
+      "x": 0.573875808049944,
+      "y": 0.1119186049848494
+    },
+    {
+      "confidence": 1,
+      "height": 0.013322064276624412,
+      "text": "35",
+      "width": 0.02569593099447398,
+      "x": 0.8929336194064033,
+      "y": 0.06686046525753242
+    }
+  ],
+  "vision_ocr_text": "and is part of Science's overall drive to increase reproducibility in the research we publish.”\n结构切分：\n句子主干：\nMcNutt said: A\nAsked whether any particular papers had impelled the change，\n主语 谓语\n伴随状语\n宾语从向个\n“The creation of the ‘statistics board’\nwas motivated by concerns broadly with the application\n主语\n谓语1\nof statistics and data analysis in scientific research and is part of Science's overall drive\n介词短语做后置定语修饰concerns\n连词\n谓语2\nto increase reproducibility in the research we publish.\"\n不定式做定语修饰drive\n功能注释：主干为 McNutt said.•，引出对问题的回答；Asked whether...过去分词做伴随状语，\n说明问题的内容。said 引出宾语从句 The creation.. was motivated by concerns...and is part of\nScience's overall drive. ..；其中，broadly with the application of...说明 concerns 的内容；to increase...后\n置定语，说明drive（努力）的内容；we publish 为省略了 that 的定语从句，修饰 research。\n•语篇分析•沒\n第三段具体论述新举措的动因：不是因为个别问题论文，而是出于大局考虑。关键词为：\n①concerns； ②to increase reproducibility。\n本段是由包含“一问一答”的独句构成。Asked whether..展示问题：新举措出台是否源于某些（存\n在问题的）论文？其中 impel（促使，驱使）为隐性因果逻辑词，any particular papers（专指的论文）暗指“发\n表在《科学》上的存在数据错误的论文”，the change 指代“成立 SBoRE”这一改草措施。McNutt said...引\n出回答；一是因为科研中的统计和数据分析受到广泛关切，二是为了提升已发表研究的可复制性。The\ncreation of the ‘statistics board’呼应 the change，同指新举措“创立 SBoRE”；was motivated by ...and is\npart of...呼应 had impelled，引出实施新举措的两重原因。诱因一 concerns broadly with...（broadly\n泛指）与问话中的 any particular papers（particular 为专指）对立，表明新举措并非基于个别问题论文，而\n是从大局出发改善科研中日益普遍的数据问题。诱因二 is part of Science's overall drive to... 中，overall\ndrive （drive 意为“［尤指为某一目的有组织的］努力”）凸显《科学》意欲改革的力度和决心；to increase\nreproducibility in. .. 明确“努力”的方向，反向呼应首段的 the irreproducibility of..。\n【深层解读】本段为首段②句所述新举措原因的阐述：借助因果逻辑近义表达（impelled、was\nmotivated by、is part of...overall drive 等）复现首段 after 以及 concerns broadly with...data analysis...\n复现首段 widespread concern...data analysis...，明确本段与首段②句间阐释关联：成立 SBoRE 小组的\n动因不是基于个别有问题的论文，而是出于大局考虑。到此可总结出前三段逻辑关系：首段概述“举措、\n原因”，第二、三段围绕首段两点分别展开说明。\nT\n① Giovanni Parmigiani, a biostatistician at the\n哈佛大学公共卫生学院的生物统计\nHarvard School of Public Health, a member of the SBoRE\n学家、SBoRE 成员乔瓦尼•帕马强尼说，\ngroup,says he expects the board to \"play primarily①an\n他期望该委员会“主要发挥某种咨询作\nadvisory® role. ” ② He agreed to join because he “found the\n用”。他同意加入委员会是因为他“发现\nforesight® behind the establishment of the SBoRE to be\nSBoRE创立背后的远见新颖、独特的，而\nnovel, unique and likely to have a lasting impact. ③ This\n且很可能会产生一种持久的影响。这种\nimpact will not only be through the publications in Science\n影响将不仅仅会遍及《科学》自己发表的\nitself, but hopefully through a larger group of publishing\n文章，也有望波及一大批可能想效法《科\nplaces that may want to model® their approach® after Science.\n学》此举的出版单位。”\n35",
+  "pdf_text_layer": "and is part of Science ’S overall drive to increase reproducibility in the research we publish. \"\n     结构切分：\n\n     旬子主干 ： I McNutt said:                       A sked whether any particular papers had impelled the change,\n                        主语谓语                 伴 随状语\n                      宾语从句\n       “ The creation of the ‘ statistics bo创d ’      w a s moti v at巳d   by concerns broadly with the application\n                            主语                           谓语 l\n       of statistics and data analysis in scientific research and            is part of Science ’ s overall drive\n                   介词 短语做后置 定 i吾11多t{ficoncems                       连词                   i自语2\n      to i ricrease reproducibility in the research we publish .\"\n                       不定式做定语修饰dri ve\n     功能注释： 主二为 McN utt said ... ，引 出 对 问 题 的 回答 ； As k ed w hether. .. 为 过 去分 词做伴随状 语，\n说明问缸的内 容。 sa id 引出 宾语 从 句 T h e creati on ... was moti vated by concerns ... and is part of\nS cience ’ S ove rall drive ...； 其 中 ， b roa dl y w ith th e appli cat ion of. . . 说明 co n ce rns 的内 容 ； to increase ...后\n置 定 语 ，叫明 dri ve （努 力 ） 的内 容 ； we p ubli s h 为省 略了 tha t 的 定语 从句， 修 饰 resea rch 。\n\n                                                     ；二语震辛茹－：：： 1'\n     第三段具体论述新举措的动因：不是因为个别问题论文，而是出于大局考虑。关键词为：\n( concer 1s ; ( to increase reproducibility 。\n     本在是由包含“一问一答”的独旬构成。 Asked whether ...展示问题：新举措出台是否源于某些（存\n在问题时）论文 ？ 其 中 im pe l （促使 ， 驱使 ）为隐 性 因果逻辑词， a n y particu lar p a p e r s （专 指的论 文）暗 指 “发\n表在《 科 f 拉》上的 存在数据错误 的论 文”， th e c h a nge 指代 “成立 SBo RE”这一改革措施 。 McNutt said ...引\n出回答：一是因为科研中的统计和数据分析受到广泛关切，二是为了提升已发表研究的可复制性。 Th e\ncreati on of th e ' stati stics b oa rd ， 呼 应 t h e c h a n ge ， 同指 新举措“ 创 立 SBoR E” ； was moti va t ed by . . . and is\npar t of. .. 呼应 h ad imp e ll ed ，引 出 实 施 新举措 的 两重原因 。 诱因 － concerns broadl y with .. . ( broa dly 为\n泛指） 与 问话中的 a ny pa rti cul ar pape rs( pa rti c ul a r 为专指〕对立，表 明新 举 措 并 非 基于 个别问题论文，而\n是从大 局 出 发 改 善 科研中日 益普 遍的 数据 问 题。诱因二 i s pa rt of Scien时’ s overall drive to ...中， o v era ll\ncir ve ( dri ve 意 为“ ［ 尤 指为某一目 的 有组织 的 ］努 力勺凸显 《 科学 》 意欲改革 的 力度 和 决 心； to increase\nr e Jrodu cibility in . ..明确 “努 力 ” 的 方 向 ，反 向 呼应首段 的 t h e irre prod ucibility of. . . 。\n     【深言解读】本段为首段 ② 旬所述新举措原因的阐述： 借助因果逻辑 近 义表 达（ imp e ll e d 、 was\nm仆ti vat ed by 、 i s part of. .. overa ll dr i ve 等）复 现 首段 af t er 以 及 co n ce rns broadl y wit h ... data a nalysis . ..\n复 现 首岛： wid es pr ead conce rn .. . data ana lysis . . . ， 明 确本段与首段② 句间阐 释关 联：成 立 SBoRE 小组的\n动 因 不 是：基于 个别 有 问 题 的 论文， 而 是出于大局考虑。到 此 可总结 出前 三 段逻辑关系 ： 首 段概述 “举 措、\n原 因 ”， 第二 、 三 段 围绕首段两点分 别 展开说明 。\n\n\n             。 Gio va nni · P armi giani ,   a bi osta tist ician at t he\n                                                                                   哈佛大学公共卫生学院的生物统计\nH a rvard School of Publi c H ea lt h, a mem ber o f t h 巳 SBoRE              学家、 SBoRE 成员乔瓦尼 · 帕马强尼说，\ngroup, says he expects the board to “ play primarily(                 an     他期望该委员会“主妥发挥某种咨询作\nadvisoryCD role. ” @H e ag r巴巴d to join beca use he “ fo und t he             用” 。 他同意加入委员会是因为他“发现\nforesight(    behind th巳 esta bli s hme n t of th e SBoRE to be              SBoRE 创立背后的远见新颖、独特的，而\nnove l, unique a nd likely to have a last ing impact. @ Thi s                且很可能会产生一种持久的影响 。 这种\nimpact will not onl y be th ro ug h t he publi cat ions in Science           影 响将不仅仅会遍及 《 科学 》 自己发表的\n\nitself , but hopefull y thro ug h a larger gro up of publi shing             文章，也有望波及一大批可能想效法《科\n\nplaces that may wa nt to model(l) their approach@ after Science. \"            学 》此举的出版单位 。 ”\n\n\n\n                                                                                                                     35",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2512,
+    "pdf_text_character_count": 3650,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,6981 @@
+{
+  "schema": "syllabus_vocabulary_right_crop_selection_v1",
+  "generated_date": "2026-07-11",
+  "source_sha256": "ae3b987face205fe28ad1c50f6b4f1e3220a6669817645b912dcbd57661cff6c",
+  "candidate_start_ratios": [
+    0.488,
+    0.49,
+    0.492,
+    0.495,
+    0.498
+  ],
+  "score_note": "dual exact agreement rewarded; single/odd-short/unmatched/mismatch/alphabetic descents penalized",
+  "pages": [
+    {
+      "pdf_page": 5,
+      "selected_start_ratio": 0.495,
+      "selected_score": 26.5,
+      "selected_metrics": {
+        "rows": 27,
+        "exact_dual": 23,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 2,
+        "unmatched": 0,
+        "mismatch": 3
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 26.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 23,
+            "single_character": 1,
+            "odd_short": 2,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 26.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 23,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 26.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 23,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 26.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 23,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -0.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 23,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 2,
+            "unmatched": 1,
+            "mismatch": 3
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "selected_start_ratio": 0.498,
+      "selected_score": 102.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 34,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 36.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 29,
+            "single_character": 1,
+            "odd_short": 1,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -12.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 31,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 71.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "selected_start_ratio": 0.495,
+      "selected_score": 117.0,
+      "selected_metrics": {
+        "rows": 39,
+        "exact_dual": 39,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 110.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "selected_start_ratio": 0.498,
+      "selected_score": 91.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 31,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 1,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -93.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 27,
+            "single_character": 5,
+            "odd_short": 3,
+            "alphabetic_descents": 5,
+            "unmatched": 3,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -74.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 29,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 3,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 49.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 30,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 2,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "selected_start_ratio": 0.495,
+      "selected_score": 99.0,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 95.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "selected_start_ratio": 0.492,
+      "selected_score": 39.0,
+      "selected_metrics": {
+        "rows": 28,
+        "exact_dual": 19,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 9,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -31.0,
+          "metrics": {
+            "rows": 23,
+            "exact_dual": 3,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 20,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -31.0,
+          "metrics": {
+            "rows": 23,
+            "exact_dual": 3,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 20,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 39.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 19,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 9,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -31.0,
+          "metrics": {
+            "rows": 23,
+            "exact_dual": 3,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 20,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -31.0,
+          "metrics": {
+            "rows": 23,
+            "exact_dual": 3,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 20,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "selected_start_ratio": 0.495,
+      "selected_score": 86.5,
+      "selected_metrics": {
+        "rows": 30,
+        "exact_dual": 29,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 86.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 86.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 86.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 86.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 12.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 18,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 12
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "selected_start_ratio": 0.498,
+      "selected_score": 87.0,
+      "selected_metrics": {
+        "rows": 29,
+        "exact_dual": 29,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -150.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 14,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 18,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -122.5,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 11,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 18,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "selected_start_ratio": 0.495,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "selected_start_ratio": 0.498,
+      "selected_score": 102.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 34,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -112.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 29,
+            "single_character": 7,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 1,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -2.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 33,
+            "single_character": 3,
+            "odd_short": 1,
+            "alphabetic_descents": 3,
+            "unmatched": 2,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 38.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 34,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "selected_start_ratio": 0.498,
+      "selected_score": 87.0,
+      "selected_metrics": {
+        "rows": 29,
+        "exact_dual": 29,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 82.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 82.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 82.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "selected_start_ratio": 0.498,
+      "selected_score": 93.0,
+      "selected_metrics": {
+        "rows": 31,
+        "exact_dual": 31,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -176.5,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 25,
+            "single_character": 5,
+            "odd_short": 3,
+            "alphabetic_descents": 11,
+            "unmatched": 4,
+            "mismatch": 9
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -77.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 30,
+            "single_character": 4,
+            "odd_short": 2,
+            "alphabetic_descents": 6,
+            "unmatched": 5,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -90.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 28,
+            "single_character": 5,
+            "odd_short": 1,
+            "alphabetic_descents": 6,
+            "unmatched": 2,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 29.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 31,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "selected_start_ratio": 0.498,
+      "selected_score": 86.5,
+      "selected_metrics": {
+        "rows": 30,
+        "exact_dual": 29,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 85.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 85.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 85.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 85.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 86.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "selected_start_ratio": 0.498,
+      "selected_score": -38.0,
+      "selected_metrics": {
+        "rows": 29,
+        "exact_dual": 10,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 19,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -209.0,
+          "metrics": {
+            "rows": 22,
+            "exact_dual": 3,
+            "single_character": 5,
+            "odd_short": 2,
+            "alphabetic_descents": 7,
+            "unmatched": 15,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -143.5,
+          "metrics": {
+            "rows": 23,
+            "exact_dual": 12,
+            "single_character": 5,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 8,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -154.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 19,
+            "single_character": 4,
+            "odd_short": 3,
+            "alphabetic_descents": 8,
+            "unmatched": 12,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -157.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 15,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 17,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -38.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 10,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 19,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "selected_start_ratio": 0.495,
+      "selected_score": 81.0,
+      "selected_metrics": {
+        "rows": 27,
+        "exact_dual": 27,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 77.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 77.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 77.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 81.0,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 27,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 77.5,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "selected_start_ratio": 0.498,
+      "selected_score": 99.0,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -186.0,
+          "metrics": {
+            "rows": 41,
+            "exact_dual": 29,
+            "single_character": 5,
+            "odd_short": 7,
+            "alphabetic_descents": 11,
+            "unmatched": 2,
+            "mismatch": 10
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -67.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 31,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 7,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -141.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 29,
+            "single_character": 7,
+            "odd_short": 0,
+            "alphabetic_descents": 8,
+            "unmatched": 2,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -14.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 31,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "selected_start_ratio": 0.495,
+      "selected_score": 99.0,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 59.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 25,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 8,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -8.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 16,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 0,
+            "mismatch": 17
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 22,
+      "selected_start_ratio": 0.498,
+      "selected_score": 28.0,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 20,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 16,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -11.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 18,
+            "single_character": 0,
+            "odd_short": 1,
+            "alphabetic_descents": 2,
+            "unmatched": 17,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -104.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 17,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 17,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 28.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 20,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 16,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 28.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 20,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 16,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 28.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 20,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 16,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "selected_start_ratio": 0.492,
+      "selected_score": 99.0,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 94.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 95.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "selected_start_ratio": 0.498,
+      "selected_score": 108.0,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 36,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -208.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 21,
+            "single_character": 8,
+            "odd_short": 1,
+            "alphabetic_descents": 8,
+            "unmatched": 12,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 64.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 2,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 4.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 18,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 15,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "selected_start_ratio": 0.495,
+      "selected_score": 111.0,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 37,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 106.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "selected_start_ratio": 0.498,
+      "selected_score": 80.0,
+      "selected_metrics": {
+        "rows": 40,
+        "exact_dual": 38,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 2,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -208.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 5,
+            "single_character": 5,
+            "odd_short": 1,
+            "alphabetic_descents": 5,
+            "unmatched": 33,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -146.5,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 32,
+            "single_character": 6,
+            "odd_short": 3,
+            "alphabetic_descents": 9,
+            "unmatched": 3,
+            "mismatch": 7
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -69.5,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 33,
+            "single_character": 5,
+            "odd_short": 1,
+            "alphabetic_descents": 6,
+            "unmatched": 1,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -48.0,
+          "metrics": {
+            "rows": 41,
+            "exact_dual": 35,
+            "single_character": 5,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 2,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 80.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 38,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 27,
+      "selected_start_ratio": 0.492,
+      "selected_score": 90.0,
+      "selected_metrics": {
+        "rows": 30,
+        "exact_dual": 30,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 81.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 22.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 1,
+            "alphabetic_descents": 4,
+            "unmatched": 0,
+            "mismatch": 4
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 28,
+      "selected_start_ratio": 0.498,
+      "selected_score": 30.5,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 30,
+        "single_character": 2,
+        "odd_short": 0,
+        "alphabetic_descents": 2,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -138.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 18,
+            "single_character": 5,
+            "odd_short": 2,
+            "alphabetic_descents": 6,
+            "unmatched": 7,
+            "mismatch": 9
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -174.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 27,
+            "single_character": 7,
+            "odd_short": 2,
+            "alphabetic_descents": 9,
+            "unmatched": 4,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -104.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 26,
+            "single_character": 5,
+            "odd_short": 2,
+            "alphabetic_descents": 6,
+            "unmatched": 4,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -159.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 27,
+            "single_character": 8,
+            "odd_short": 0,
+            "alphabetic_descents": 7,
+            "unmatched": 6,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 30.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 30,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 29,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 30,
+      "selected_start_ratio": 0.498,
+      "selected_score": 86.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 30,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 2,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -23.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 28,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 4,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -12.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 29,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 4,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 18.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 29,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 4,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 86.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 86.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 31,
+      "selected_start_ratio": 0.492,
+      "selected_score": 111.0,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 37,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 106.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 106.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 85.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -135.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 4,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 9,
+            "unmatched": 3,
+            "mismatch": 30
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 32,
+      "selected_start_ratio": 0.495,
+      "selected_score": 70.0,
+      "selected_metrics": {
+        "rows": 35,
+        "exact_dual": 34,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 1,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -39.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 23,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 9,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -202.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 20,
+            "single_character": 8,
+            "odd_short": 0,
+            "alphabetic_descents": 8,
+            "unmatched": 11,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -53.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 23,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 9,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 70.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 57.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 25,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 9,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 33,
+      "selected_start_ratio": 0.492,
+      "selected_score": 91.0,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 4,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 91.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 4,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 91.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 4,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 91.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 4,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 77.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 4,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -96.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 13,
+            "single_character": 1,
+            "odd_short": 2,
+            "alphabetic_descents": 7,
+            "unmatched": 9,
+            "mismatch": 9
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 34,
+      "selected_start_ratio": 0.498,
+      "selected_score": 92.5,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 31,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 84.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 80.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 92.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 92.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 92.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 35,
+      "selected_start_ratio": 0.498,
+      "selected_score": 111.0,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 37,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 111.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 36,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 37,
+      "selected_start_ratio": 0.498,
+      "selected_score": 90.0,
+      "selected_metrics": {
+        "rows": 30,
+        "exact_dual": 30,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 90.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 38,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -148.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 12,
+            "single_character": 5,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 23,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -68.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 12,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 22,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -4.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 12,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 20,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 39,
+      "selected_start_ratio": 0.495,
+      "selected_score": 102.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 34,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 84.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 5
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 40,
+      "selected_start_ratio": 0.498,
+      "selected_score": -23.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 30,
+        "single_character": 4,
+        "odd_short": 0,
+        "alphabetic_descents": 3,
+        "unmatched": 3,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -51.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 26,
+            "single_character": 1,
+            "odd_short": 5,
+            "alphabetic_descents": 6,
+            "unmatched": 3,
+            "mismatch": 7
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -115.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 26,
+            "single_character": 6,
+            "odd_short": 2,
+            "alphabetic_descents": 6,
+            "unmatched": 0,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -123.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 28,
+            "single_character": 5,
+            "odd_short": 4,
+            "alphabetic_descents": 7,
+            "unmatched": 4,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -169.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 27,
+            "single_character": 8,
+            "odd_short": 1,
+            "alphabetic_descents": 8,
+            "unmatched": 3,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -23.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 30,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 3,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 41,
+      "selected_start_ratio": 0.495,
+      "selected_score": 108.0,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 36,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 104.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 42,
+      "selected_start_ratio": 0.498,
+      "selected_score": 73.0,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 35,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 1,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -116.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 27,
+            "single_character": 2,
+            "odd_short": 6,
+            "alphabetic_descents": 10,
+            "unmatched": 1,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -30.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 28,
+            "single_character": 1,
+            "odd_short": 3,
+            "alphabetic_descents": 6,
+            "unmatched": 1,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -28.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 31,
+            "single_character": 3,
+            "odd_short": 1,
+            "alphabetic_descents": 5,
+            "unmatched": 0,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -158.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 28,
+            "single_character": 8,
+            "odd_short": 0,
+            "alphabetic_descents": 8,
+            "unmatched": 1,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 73.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 35,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 43,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 44,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -97.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 29,
+            "single_character": 5,
+            "odd_short": 1,
+            "alphabetic_descents": 7,
+            "unmatched": 1,
+            "mismatch": 7
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -60.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 27,
+            "single_character": 4,
+            "odd_short": 1,
+            "alphabetic_descents": 4,
+            "unmatched": 7,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -48.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 26,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 4,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 59.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 30,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 45,
+      "selected_start_ratio": 0.498,
+      "selected_score": 102.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 34,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 46,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -95.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 28,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 6,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -71.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 16,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 15,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 64.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 32,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 47,
+      "selected_start_ratio": 0.498,
+      "selected_score": 107.5,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 36,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 48,
+      "selected_start_ratio": 0.498,
+      "selected_score": 78.0,
+      "selected_metrics": {
+        "rows": 26,
+        "exact_dual": 26,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -114.5,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 23,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 3,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -134.0,
+          "metrics": {
+            "rows": 30,
+            "exact_dual": 23,
+            "single_character": 7,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 14.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 26,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 74.5,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 25,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 78.0,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 49,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 50,
+      "selected_start_ratio": 0.498,
+      "selected_score": 99.0,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 14.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 31,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 3,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 47.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 33,
+            "single_character": 1,
+            "odd_short": 1,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 33.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 32,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 1,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 99.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 51,
+      "selected_start_ratio": 0.498,
+      "selected_score": 93.0,
+      "selected_metrics": {
+        "rows": 31,
+        "exact_dual": 31,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 52,
+      "selected_start_ratio": 0.498,
+      "selected_score": 87.0,
+      "selected_metrics": {
+        "rows": 29,
+        "exact_dual": 29,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 87.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 53,
+      "selected_start_ratio": 0.498,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 54,
+      "selected_start_ratio": 0.498,
+      "selected_score": 102.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 34,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -172.5,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 31,
+            "single_character": 8,
+            "odd_short": 1,
+            "alphabetic_descents": 9,
+            "unmatched": 5,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 18.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 33,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 1,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 70.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 55,
+      "selected_start_ratio": 0.495,
+      "selected_score": 59.0,
+      "selected_metrics": {
+        "rows": 28,
+        "exact_dual": 23,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 5,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 9.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 13,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 15,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 9.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 13,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 15,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 9.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 13,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 15,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 59.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 23,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 5,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -76.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 2,
+            "single_character": 0,
+            "odd_short": 3,
+            "alphabetic_descents": 1,
+            "unmatched": 26,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 56,
+      "selected_start_ratio": 0.498,
+      "selected_score": 98.0,
+      "selected_metrics": {
+        "rows": 35,
+        "exact_dual": 33,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 2
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -49.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 31,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 7,
+            "unmatched": 0,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -100.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 28,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 1,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -132.5,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 29,
+            "single_character": 7,
+            "odd_short": 1,
+            "alphabetic_descents": 7,
+            "unmatched": 1,
+            "mismatch": 7
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 39.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 34,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 1,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 98.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 33,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 57,
+      "selected_start_ratio": 0.495,
+      "selected_score": 84.0,
+      "selected_metrics": {
+        "rows": 28,
+        "exact_dual": 28,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 84.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 84.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 84.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 84.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 80.5,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 27,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 58,
+      "selected_start_ratio": 0.498,
+      "selected_score": 66.5,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 32,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -79.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 27,
+            "single_character": 2,
+            "odd_short": 4,
+            "alphabetic_descents": 8,
+            "unmatched": 0,
+            "mismatch": 9
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -136.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 25,
+            "single_character": 5,
+            "odd_short": 3,
+            "alphabetic_descents": 8,
+            "unmatched": 1,
+            "mismatch": 11
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -35.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 26,
+            "single_character": 2,
+            "odd_short": 2,
+            "alphabetic_descents": 5,
+            "unmatched": 0,
+            "mismatch": 10
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -17.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 31,
+            "single_character": 3,
+            "odd_short": 1,
+            "alphabetic_descents": 4,
+            "unmatched": 1,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 66.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 32,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 59,
+      "selected_start_ratio": 0.492,
+      "selected_score": 108.0,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 36,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 103.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 11.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 16,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 17
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 60,
+      "selected_start_ratio": 0.498,
+      "selected_score": -101.5,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 28,
+        "single_character": 6,
+        "odd_short": 0,
+        "alphabetic_descents": 6,
+        "unmatched": 3,
+        "mismatch": 3
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -147.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 25,
+            "single_character": 4,
+            "odd_short": 8,
+            "alphabetic_descents": 8,
+            "unmatched": 2,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -127.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 25,
+            "single_character": 3,
+            "odd_short": 6,
+            "alphabetic_descents": 9,
+            "unmatched": 1,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -138.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 23,
+            "single_character": 4,
+            "odd_short": 5,
+            "alphabetic_descents": 8,
+            "unmatched": 2,
+            "mismatch": 11
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -117.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 25,
+            "single_character": 6,
+            "odd_short": 1,
+            "alphabetic_descents": 6,
+            "unmatched": 2,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -101.5,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 28,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 3,
+            "mismatch": 3
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 61,
+      "selected_start_ratio": 0.495,
+      "selected_score": 78.0,
+      "selected_metrics": {
+        "rows": 26,
+        "exact_dual": 26,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 78.0,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 78.0,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 78.0,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 78.0,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 26,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -17.5,
+          "metrics": {
+            "rows": 26,
+            "exact_dual": 9,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 17
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 62,
+      "selected_start_ratio": 0.495,
+      "selected_score": -66.5,
+      "selected_metrics": {
+        "rows": 46,
+        "exact_dual": 39,
+        "single_character": 6,
+        "odd_short": 1,
+        "alphabetic_descents": 5,
+        "unmatched": 4,
+        "mismatch": 3
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -230.0,
+          "metrics": {
+            "rows": 46,
+            "exact_dual": 21,
+            "single_character": 5,
+            "odd_short": 3,
+            "alphabetic_descents": 12,
+            "unmatched": 19,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -155.0,
+          "metrics": {
+            "rows": 46,
+            "exact_dual": 33,
+            "single_character": 7,
+            "odd_short": 2,
+            "alphabetic_descents": 9,
+            "unmatched": 1,
+            "mismatch": 12
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -93.5,
+          "metrics": {
+            "rows": 44,
+            "exact_dual": 25,
+            "single_character": 3,
+            "odd_short": 2,
+            "alphabetic_descents": 6,
+            "unmatched": 14,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -66.5,
+          "metrics": {
+            "rows": 46,
+            "exact_dual": 39,
+            "single_character": 6,
+            "odd_short": 1,
+            "alphabetic_descents": 5,
+            "unmatched": 4,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -73.0,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 13,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 25,
+            "mismatch": 4
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 63,
+      "selected_start_ratio": 0.49,
+      "selected_score": 84.0,
+      "selected_metrics": {
+        "rows": 28,
+        "exact_dual": 28,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 84.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 84.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 79.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 27,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 4.0,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 12,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 16
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 56.5,
+          "metrics": {
+            "rows": 28,
+            "exact_dual": 27,
+            "single_character": 0,
+            "odd_short": 2,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 64,
+      "selected_start_ratio": 0.498,
+      "selected_score": 83.5,
+      "selected_metrics": {
+        "rows": 39,
+        "exact_dual": 38,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -198.0,
+          "metrics": {
+            "rows": 45,
+            "exact_dual": 30,
+            "single_character": 5,
+            "odd_short": 9,
+            "alphabetic_descents": 11,
+            "unmatched": 5,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -96.5,
+          "metrics": {
+            "rows": 44,
+            "exact_dual": 34,
+            "single_character": 4,
+            "odd_short": 3,
+            "alphabetic_descents": 8,
+            "unmatched": 5,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -95.0,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 11,
+            "single_character": 1,
+            "odd_short": 2,
+            "alphabetic_descents": 3,
+            "unmatched": 31,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -21.5,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 21,
+            "single_character": 1,
+            "odd_short": 1,
+            "alphabetic_descents": 2,
+            "unmatched": 18,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 83.5,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 38,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 65,
+      "selected_start_ratio": 0.495,
+      "selected_score": 61.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 31,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 1,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 61.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 61.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 61.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 61.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 56.0,
+          "metrics": {
+            "rows": 29,
+            "exact_dual": 27,
+            "single_character": 0,
+            "odd_short": 2,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 66,
+      "selected_start_ratio": 0.498,
+      "selected_score": 93.0,
+      "selected_metrics": {
+        "rows": 31,
+        "exact_dual": 31,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -88.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 26,
+            "single_character": 5,
+            "odd_short": 2,
+            "alphabetic_descents": 5,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -50.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 27,
+            "single_character": 4,
+            "odd_short": 1,
+            "alphabetic_descents": 4,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 5.5,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 28,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 93.0,
+          "metrics": {
+            "rows": 31,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 67,
+      "selected_start_ratio": 0.495,
+      "selected_score": 114.0,
+      "selected_metrics": {
+        "rows": 38,
+        "exact_dual": 38,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 62.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 30,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 8
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "selected_start_ratio": 0.498,
+      "selected_score": 75.0,
+      "selected_metrics": {
+        "rows": 35,
+        "exact_dual": 29,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 6,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -50.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 24,
+            "single_character": 2,
+            "odd_short": 2,
+            "alphabetic_descents": 4,
+            "unmatched": 12,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -34.5,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 27,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 4,
+            "unmatched": 6,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -10.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 23,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 10,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 51.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 24,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 10,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 75.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 29,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 6,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "selected_start_ratio": 0.498,
+      "selected_score": 49.0,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 23,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 10,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 49.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 23,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 10,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 49.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 23,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 10,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 49.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 23,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 10,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 49.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 23,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 10,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 49.0,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 23,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 10,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 70,
+      "selected_start_ratio": 0.495,
+      "selected_score": 96.0,
+      "selected_metrics": {
+        "rows": 32,
+        "exact_dual": 32,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -25.0,
+          "metrics": {
+            "rows": 20,
+            "exact_dual": 9,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 11,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -115.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 14,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 18,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 11.0,
+          "metrics": {
+            "rows": 27,
+            "exact_dual": 13,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 14,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 96.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 32,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 91.0,
+          "metrics": {
+            "rows": 32,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 71,
+      "selected_start_ratio": 0.495,
+      "selected_score": 72.5,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 35,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 2,
+        "unmatched": 1,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 67.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 67.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 67.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 2,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 72.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 1,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 68.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 33,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 72,
+      "selected_start_ratio": 0.498,
+      "selected_score": 78.5,
+      "selected_metrics": {
+        "rows": 39,
+        "exact_dual": 37,
+        "single_character": 1,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 1,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -41.5,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 20,
+            "single_character": 1,
+            "odd_short": 2,
+            "alphabetic_descents": 3,
+            "unmatched": 17,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 3.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 34,
+            "single_character": 2,
+            "odd_short": 2,
+            "alphabetic_descents": 4,
+            "unmatched": 1,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -30.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 33,
+            "single_character": 3,
+            "odd_short": 2,
+            "alphabetic_descents": 5,
+            "unmatched": 1,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -18.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 34,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 78.5,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 37,
+            "single_character": 1,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 73,
+      "selected_start_ratio": 0.495,
+      "selected_score": 107.5,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 36,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 104.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 104.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 104.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 107.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 104.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 74,
+      "selected_start_ratio": 0.495,
+      "selected_score": -54.0,
+      "selected_metrics": {
+        "rows": 43,
+        "exact_dual": 34,
+        "single_character": 3,
+        "odd_short": 3,
+        "alphabetic_descents": 6,
+        "unmatched": 5,
+        "mismatch": 4
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -108.0,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 21,
+            "single_character": 2,
+            "odd_short": 4,
+            "alphabetic_descents": 6,
+            "unmatched": 19,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -110.0,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 20,
+            "single_character": 2,
+            "odd_short": 4,
+            "alphabetic_descents": 6,
+            "unmatched": 18,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -74.5,
+          "metrics": {
+            "rows": 41,
+            "exact_dual": 21,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 4,
+            "unmatched": 17,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -54.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 34,
+            "single_character": 3,
+            "odd_short": 3,
+            "alphabetic_descents": 6,
+            "unmatched": 5,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -98.5,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 19,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 5,
+            "unmatched": 20,
+            "mismatch": 3
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 75,
+      "selected_start_ratio": 0.49,
+      "selected_score": 120.0,
+      "selected_metrics": {
+        "rows": 40,
+        "exact_dual": 40,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 58.5,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 28,
+            "single_character": 0,
+            "odd_short": 1,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 11
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -33.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 31,
+            "single_character": 0,
+            "odd_short": 2,
+            "alphabetic_descents": 9,
+            "unmatched": 1,
+            "mismatch": 8
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -44.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 24,
+            "single_character": 0,
+            "odd_short": 2,
+            "alphabetic_descents": 8,
+            "unmatched": 0,
+            "mismatch": 16
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 76,
+      "selected_start_ratio": 0.498,
+      "selected_score": 48.5,
+      "selected_metrics": {
+        "rows": 38,
+        "exact_dual": 36,
+        "single_character": 2,
+        "odd_short": 0,
+        "alphabetic_descents": 2,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -86.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 27,
+            "single_character": 4,
+            "odd_short": 3,
+            "alphabetic_descents": 6,
+            "unmatched": 0,
+            "mismatch": 11
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -61.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 32,
+            "single_character": 3,
+            "odd_short": 5,
+            "alphabetic_descents": 6,
+            "unmatched": 0,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -17.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 30,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 4,
+            "unmatched": 2,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -128.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 30,
+            "single_character": 7,
+            "odd_short": 1,
+            "alphabetic_descents": 7,
+            "unmatched": 1,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 48.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 36,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 77,
+      "selected_start_ratio": 0.495,
+      "selected_score": 27.0,
+      "selected_metrics": {
+        "rows": 39,
+        "exact_dual": 21,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 18,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 27.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 21,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 18,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 27.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 21,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 18,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 27.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 21,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 18,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 27.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 21,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 18,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -164.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 7,
+            "single_character": 0,
+            "odd_short": 2,
+            "alphabetic_descents": 11,
+            "unmatched": 17,
+            "mismatch": 14
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 78,
+      "selected_start_ratio": 0.498,
+      "selected_score": 102.0,
+      "selected_metrics": {
+        "rows": 34,
+        "exact_dual": 34,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -96.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 10,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 3,
+            "unmatched": 24,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -98.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 15,
+            "single_character": 3,
+            "odd_short": 1,
+            "alphabetic_descents": 4,
+            "unmatched": 17,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -18.5,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 30,
+            "single_character": 3,
+            "odd_short": 1,
+            "alphabetic_descents": 4,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -40.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 23,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 9,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 102.0,
+          "metrics": {
+            "rows": 34,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "selected_start_ratio": 0.495,
+      "selected_score": 114.0,
+      "selected_metrics": {
+        "rows": 38,
+        "exact_dual": 38,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 109.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 37,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 1,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 80,
+      "selected_start_ratio": 0.498,
+      "selected_score": 123.0,
+      "selected_metrics": {
+        "rows": 41,
+        "exact_dual": 41,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -36.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 37,
+            "single_character": 3,
+            "odd_short": 3,
+            "alphabetic_descents": 6,
+            "unmatched": 0,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -62.5,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 20,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 3,
+            "unmatched": 22,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 55.5,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 39,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 59.0,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 40,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 123.0,
+          "metrics": {
+            "rows": 41,
+            "exact_dual": 41,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 81,
+      "selected_start_ratio": 0.495,
+      "selected_score": 114.0,
+      "selected_metrics": {
+        "rows": 38,
+        "exact_dual": 38,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -167.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 10,
+            "single_character": 0,
+            "odd_short": 4,
+            "alphabetic_descents": 13,
+            "unmatched": 2,
+            "mismatch": 26
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 82,
+      "selected_start_ratio": 0.495,
+      "selected_score": 57.5,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 35,
+        "single_character": 1,
+        "odd_short": 1,
+        "alphabetic_descents": 2,
+        "unmatched": 0,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 18.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 32,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -25.5,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 32,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 1,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -43.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 30,
+            "single_character": 4,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 0,
+            "mismatch": 6
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 57.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 1,
+            "odd_short": 1,
+            "alphabetic_descents": 2,
+            "unmatched": 0,
+            "mismatch": 1
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 33.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 34,
+            "single_character": 1,
+            "odd_short": 2,
+            "alphabetic_descents": 3,
+            "unmatched": 1,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 83,
+      "selected_start_ratio": 0.498,
+      "selected_score": 120.0,
+      "selected_metrics": {
+        "rows": 40,
+        "exact_dual": 40,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 84,
+      "selected_start_ratio": 0.498,
+      "selected_score": 120.0,
+      "selected_metrics": {
+        "rows": 40,
+        "exact_dual": 40,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -80.0,
+          "metrics": {
+            "rows": 42,
+            "exact_dual": 35,
+            "single_character": 6,
+            "odd_short": 0,
+            "alphabetic_descents": 6,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 24.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 40,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 3,
+            "unmatched": 3,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 120.0,
+          "metrics": {
+            "rows": 40,
+            "exact_dual": 40,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 85,
+      "selected_start_ratio": 0.498,
+      "selected_score": 117.0,
+      "selected_metrics": {
+        "rows": 39,
+        "exact_dual": 39,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 117.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 39,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 86,
+      "selected_start_ratio": 0.498,
+      "selected_score": 114.0,
+      "selected_metrics": {
+        "rows": 38,
+        "exact_dual": 38,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -4.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 34,
+            "single_character": 2,
+            "odd_short": 3,
+            "alphabetic_descents": 4,
+            "unmatched": 1,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -46.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 34,
+            "single_character": 4,
+            "odd_short": 2,
+            "alphabetic_descents": 5,
+            "unmatched": 1,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -51.0,
+          "metrics": {
+            "rows": 39,
+            "exact_dual": 33,
+            "single_character": 5,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 0,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 114.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 38,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 87,
+      "selected_start_ratio": 0.495,
+      "selected_score": 108.0,
+      "selected_metrics": {
+        "rows": 36,
+        "exact_dual": 36,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 108.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 36,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 89.0,
+          "metrics": {
+            "rows": 36,
+            "exact_dual": 34,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 88,
+      "selected_start_ratio": 0.498,
+      "selected_score": -18.5,
+      "selected_metrics": {
+        "rows": 33,
+        "exact_dual": 23,
+        "single_character": 2,
+        "odd_short": 0,
+        "alphabetic_descents": 4,
+        "unmatched": 8,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -129.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 22,
+            "single_character": 5,
+            "odd_short": 1,
+            "alphabetic_descents": 8,
+            "unmatched": 8,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": -92.0,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 22,
+            "single_character": 3,
+            "odd_short": 2,
+            "alphabetic_descents": 7,
+            "unmatched": 9,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": -52.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 23,
+            "single_character": 3,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 9,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -72.5,
+          "metrics": {
+            "rows": 35,
+            "exact_dual": 22,
+            "single_character": 3,
+            "odd_short": 1,
+            "alphabetic_descents": 6,
+            "unmatched": 9,
+            "mismatch": 3
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": -18.5,
+          "metrics": {
+            "rows": 33,
+            "exact_dual": 23,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 4,
+            "unmatched": 8,
+            "mismatch": 1
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 89,
+      "selected_start_ratio": 0.495,
+      "selected_score": 129.0,
+      "selected_metrics": {
+        "rows": 43,
+        "exact_dual": 43,
+        "single_character": 0,
+        "odd_short": 0,
+        "alphabetic_descents": 0,
+        "unmatched": 0,
+        "mismatch": 0
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": 129.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 43,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 129.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 43,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 129.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 43,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": 129.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 43,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 0
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 122.0,
+          "metrics": {
+            "rows": 43,
+            "exact_dual": 41,
+            "single_character": 0,
+            "odd_short": 0,
+            "alphabetic_descents": 0,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        }
+      ]
+    },
+    {
+      "pdf_page": 90,
+      "selected_start_ratio": 0.498,
+      "selected_score": 54.5,
+      "selected_metrics": {
+        "rows": 37,
+        "exact_dual": 35,
+        "single_character": 2,
+        "odd_short": 0,
+        "alphabetic_descents": 1,
+        "unmatched": 1,
+        "mismatch": 1
+      },
+      "candidates": [
+        {
+          "start_ratio": 0.488,
+          "score": -26.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 32,
+            "single_character": 1,
+            "odd_short": 5,
+            "alphabetic_descents": 6,
+            "unmatched": 0,
+            "mismatch": 5
+          }
+        },
+        {
+          "start_ratio": 0.49,
+          "score": 50.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 0,
+            "odd_short": 3,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 2
+          }
+        },
+        {
+          "start_ratio": 0.492,
+          "score": 17.0,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 32,
+            "single_character": 2,
+            "odd_short": 1,
+            "alphabetic_descents": 3,
+            "unmatched": 0,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.495,
+          "score": -62.0,
+          "metrics": {
+            "rows": 38,
+            "exact_dual": 31,
+            "single_character": 5,
+            "odd_short": 0,
+            "alphabetic_descents": 5,
+            "unmatched": 2,
+            "mismatch": 4
+          }
+        },
+        {
+          "start_ratio": 0.498,
+          "score": 54.5,
+          "metrics": {
+            "rows": 37,
+            "exact_dual": 35,
+            "single_character": 2,
+            "odd_short": 0,
+            "alphabetic_descents": 1,
+            "unmatched": 1,
+            "mismatch": 1
+          }
+        }
+      ]
+    }
+  ]
+}

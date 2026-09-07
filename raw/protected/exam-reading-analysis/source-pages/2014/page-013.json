@@ -1,0 +1,526 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P013",
+  "year": 2014,
+  "pdf_page": 13,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.01909358463986388,
+      "text": "1 Losing a job is hurting: you don't skip down",
+      "width": 0.411018926978568,
+      "x": 0.11897575198134348,
+      "y": 0.9158073491473033
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884098312606,
+      "text": "失去工作令人痛苦：你不可能是心哼小",
+      "width": 0.33617021114890144,
+      "x": 0.591489365312074,
+      "y": 0.9142441859304948
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013104224704322931,
+      "text": "to the jobcentre with a song in your heart, delighted at",
+      "width": 0.4765957360980155,
+      "x": 0.05319149961056661,
+      "y": 0.9011627911440774
+    },
+    {
+      "confidence": 1,
+      "height": 0.014595763221461167,
+      "text": "曲、蹦蹦跳跳地走向求职中心，途中你也不",
+      "width": 0.3744680762747695,
+      "x": 0.5531914964522808,
+      "y": 0.8952879579805191
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014603372019622918,
+      "text": "the prospect\" of doubling your income from the generous",
+      "width": 0.4765957360980155,
+      "x": 0.05319149961056661,
+      "y": 0.8821989531626684
+    },
+    {
+      "confidence": 1,
+      "height": 0.01330969158891615,
+      "text": "会因畅想慷慨的政府会使你的收入翻番而",
+      "width": 0.3765957419442948,
+      "x": 0.55106383429381,
+      "y": 0.8793604655687381
+    },
+    {
+      "confidence": 1,
+      "height": 0.008720930022094842,
+      "text": "state.",
+      "width": 0.04468085117267009,
+      "x": 0.053191490051962796,
+      "y": 0.8662790700771562
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014687081282051428,
+      "text": "② It is financially",
+      "width": 0.16595743990492545,
+      "x": 0.11489362213264359,
+      "y": 0.8632198950848329
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017670157068062853,
+      "text": "terrifying, psychologically®",
+      "width": 0.24680851611141036,
+      "x": 0.2787233984336566,
+      "y": 0.8619109950545911
+    },
+    {
+      "confidence": 1,
+      "height": 0.01636125654450271,
+      "text": "感到兴奋。失业在经济上是可怕的，在心理",
+      "width": 0.3765957419442948,
+      "x": 0.55106383429381,
+      "y": 0.8573298430990076
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013218372904193365,
+      "text": "embarrassing and you know that support is minimal and",
+      "width": 0.47659573609801537,
+      "x": 0.05106382613538969,
+      "y": 0.8473837212010056
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884098312717,
+      "text": "上是尴尬的，而且你知道救济极少且极难获",
+      "width": 0.3765957419442948,
+      "x": 0.55106383429381,
+      "y": 0.8415697673258437
+    },
+    {
+      "confidence": 1,
+      "height": 0.013134664265897378,
+      "text": "extraordinarily hard to get.",
+      "width": 0.22765956893277808,
+      "x": 0.053191494405951355,
+      "y": 0.8284883724994552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013134664265897267,
+      "text": "③ You are now not wanted；",
+      "width": 0.2340425513256555,
+      "x": 0.2936170241598672,
+      "y": 0.8284883725212575
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860668322096,
+      "text": "得。你现在不被需要，被排除在为人们提供",
+      "width": 0.3765957419442947,
+      "x": 0.5510638325810442,
+      "y": 0.8212209303053738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047892,
+      "text": "you are now excluded from the work environment that",
+      "width": 0.4787234017675407,
+      "x": 0.05106383900984643,
+      "y": 0.8081395354160613
+    },
+    {
+      "confidence": 1,
+      "height": 0.017700596629637078,
+      "text": "目标和结构的工作环境之外。更糟的是，养",
+      "width": 0.3744680762747694,
+      "x": 0.5531914950966579,
+      "y": 0.8023255811193273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013347741196916951,
+      "text": "offers purpose and structure in your life. ④ Worse, the",
+      "width": 0.4765957360980155,
+      "x": 0.05319149841907737,
+      "y": 0.7918848165943255
+    },
+    {
+      "confidence": 1,
+      "height": 0.013256422512194277,
+      "text": "活你自己及家庭并用来支付账单的重要收",
+      "width": 0.3765957419442948,
+      "x": 0.5510638273895547,
+      "y": 0.7877906979936413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01470230075077239,
+      "text": "crucial income to feed® yourself and your family and pay the",
+      "width": 0.47659573609801537,
+      "x": 0.053191491950992306,
+      "y": 0.7732558145706157
+    },
+    {
+      "confidence": 1,
+      "height": 0.017723426144784726,
+      "text": "入来源不复存在了。问问任何一个刚失业",
+      "width": 0.3765957419442948,
+      "x": 0.5510638309214696,
+      "y": 0.7657068063405392
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01330969158891615,
+      "text": "bills has disappeared.|",
+      "width": 0.19148935486073695,
+      "x": 0.053191495973886706,
+      "y": 0.7543604656293001
+    },
+    {
+      "confidence": 1,
+      "height": 0.01330969158891604,
+      "text": "⑤ Ask anyone newly unemployed",
+      "width": 0.2829787155677533,
+      "x": 0.2468085121983929,
+      "y": 0.7543604654476141
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371135052692,
+      "text": "的人他们想要什么，回答永远是：一份工作。",
+      "width": 0.370212744935719,
+      "x": 0.551063844872566,
+      "y": 0.7485465119070376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0119170824270598,
+      "text": "what they want and the answer is always: a job.",
+      "width": 0.389361677498653,
+      "x": 0.053191508165566864,
+      "y": 0.7354651166274228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "词汇注释与难句分析。",
+      "width": 0.2063829707003188,
+      "x": 0.380851069561188,
+      "y": 0.6917539269096822
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014656641720477204,
+      "text": "①prospect ［' prospekt］n.. 可能性，机会，希望",
+      "width": 0.3468085102651311,
+      "x": 0.05106383344190247,
+      "y": 0.665575916041756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013347741196916951,
+      "text": "①skip down（蹦蹦跳跳）",
+      "width": 0.1936170205302622,
+      "x": 0.5170212785823866,
+      "y": 0.6668848166355077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014702301374904803,
+      "text": "② psychologically ［sai'kplodsikl］ ad. 心理上地",
+      "width": 0.3531914780423102,
+      "x": 0.05106383250366762,
+      "y": 0.6482558136921228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014702301374904803,
+      "text": "② with a song in one's heart（心哼小曲、暗自兴奋）",
+      "width": 0.39361700883770356,
+      "x": 0.5170212856267409,
+      "y": 0.6482558138478536
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534884098312606,
+      "text": "③ embarrassing ［im'beerosu］a. 使人尴尬的，令人为难的",
+      "width": 0.4063829736234585,
+      "x": 0.05106383572373171,
+      "y": 0.6308139533723554
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882850047781,
+      "text": "③delighted at the prospect of（因对••••的憧憬而兴奋）",
+      "width": 0.3978723401767541,
+      "x": 0.5170212753105592,
+      "y": 0.6308139537421272
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013233592997046628,
+      "text": "④feed ［fi:d］v. 养活",
+      "width": 0.1617021231815733,
+      "x": 0.05106383337375235,
+      "y": 0.6132198950679362
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378180134358875,
+      "text": "④double your income（收入翻番）",
+      "width": 0.2617021173352939,
+      "x": 0.5191489401355446,
+      "y": 0.6145287960544126
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013218372904193365,
+      "text": "⑤be excluded from（被排除在⋯⋯之外）",
+      "width": 0.3170212785859674,
+      "x": 0.5170212729587894,
+      "y": 0.5973837212373427
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014684908053013701,
+      "text": "经典搭配",
+      "width": 0.08010008143282485,
+      "x": 0.07950338772001436,
+      "y": 0.5871589847657971
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01636125654450271,
+      "text": "• 语篇分析•",
+      "width": 0.11063829326995028,
+      "x": 0.4212765994288546,
+      "y": 0.5608638741678201
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942348,
+      "text": "第三、四段对新政展开批驳。",
+      "width": 0.24042553371853298,
+      "x": 0.09361702277903133,
+      "y": 0.5346858639324448
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "第三段说明事实（失业者经济窘迫、心理尴尬、内心无比渴望工作；当前失业金微不足道且极难申",
+      "width": 0.842553149694684,
+      "x": 0.09148939313138119,
+      "y": 0.5157068059744616
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "请），为下段批驳奠基。关键词：①hurting；②a job。",
+      "width": 0.429787237525443,
+      "x": 0.05319149191812946,
+      "y": 0.49541884845787376
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "①②③④句形成直线递进结构，层层剥茧说明现状：失业者面临经济困境和心理尴尬的双重折磨；",
+      "width": 0.8446808445956059,
+      "x": 0.09148935648943127,
+      "y": 0.4781976742007832
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "失业金极低且极难获取。",
+      "width": 0.21276595309319624,
+      "x": 0.053191494091699695,
+      "y": 0.4578488374884331
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017708206051931352,
+      "text": "①句指出失业令人十分痛苦。主句以 hurting（to feel very upset or unhappy）在貌似漫不经心中彰显",
+      "width": 0.8468084810337344,
+      "x": 0.08723404677036707,
+      "y": 0.4404069771940411
+    },
+    {
+      "confidence": 1,
+      "height": 0.017670157068062853,
+      "text": "失业造成的巨大打击。冒号后以夸张手法，反向表明失业者的苦闷无望：在走向求职中心的路上，你不",
+      "width": 0.8808510732833452,
+      "x": 0.05319147961364653,
+      "y": 0.42146596860066
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01916930500749514,
+      "text": "会是“轻松愉快地”（skip down; with a song in your heart; delighted） 畅想着“数目不菲的救济金”",
+      "width": 0.8851063461596025,
+      "x": 0.053191518569134705,
+      "y": 0.4037958115658252
+    },
+    {
+      "confidence": 1,
+      "height": 0.011932301895780761,
+      "text": "（doubling your income;generous state）。",
+      "width": 0.33829784758703,
+      "x": 0.05319149610010221,
+      "y": 0.38662790727664753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "②句明确“十分痛苦”的原因：经济困窘、心理尴尬、失业金极低且极难获得。financially terrifying，",
+      "width": 0.8425531496946839,
+      "x": 0.09361704031223252,
+      "y": 0.36321989551989076
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "psychologically embarrassing 说明失业带给“经济上”和“心理上”的双重打击。minimal and extraordinarily",
+      "width": 0.8829787097214739,
+      "x": 0.05319150251008374,
+      "y": 0.3473837208577598
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860668322096,
+      "text": "hard to get（minimal 意为“最低限度的”；extraordinarily hard”非同寻常地、极其困难”）强调失业金现状：",
+      "width": 0.8829787097214739,
+      "x": 0.05319150251008374,
+      "y": 0.3270348836816197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "极低且极难获得。句子整体展现失业者“陷人危机，却求助无门”的情形，彰显①句 hurting。",
+      "width": 0.7744680821210488,
+      "x": 0.05319150053521999,
+      "y": 0.3081395353808748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021722072082040134,
+      "text": "③句进一步解释失业者的“心理尴尬（psychologically embarrassing）”。作者借助长短句变换以及重",
+      "width": 0.8407109870764488,
+      "x": 0.09349514054720807,
+      "y": 0.28503383097620805
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "复表述 you are now...you are now...凸显失业带给人们剧烈的心理冲击：不再被需要（not wanted）；不",
+      "width": 0.8808510732833453,
+      "x": 0.0531914783431298,
+      "y": 0.27159685842505465
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942459,
+      "text": "再有工作带来的目标感及有序感、内心陷人混乱绝望（excluded from.... purpose and structure）。",
+      "width": 0.8255318828012751,
+      "x": 0.05319151366319206,
+      "y": 0.2526178010616754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "④句进而强调失业者的“经济困窘（financially terrifying）”。Worse 递进引出失业对人们最切实、最",
+      "width": 0.8404255132565553,
+      "x": 0.09361702460272546,
+      "y": 0.23232984295048364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013142273688191541,
+      "text": "致命的打击。crucial income（crucial 意力 extremely important）、feed yourself and your family and pay the",
+      "width": 0.8829787097214739,
+      "x": 0.05531916460734805,
+      "y": 0.216569767906432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "bills 强调“收入的至关重要”；has disappeared 则凸显失业使其不复存在，陷入经济困境。",
+      "width": 0.7446808212104885,
+      "x": 0.05319151173518117,
+      "y": 0.19622093010194586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02061765980346031,
+      "text": "⑤句基于①一④句，得出作者结论：任何一位失业者最想要都是一份工作。作者以 Anyone、always 的",
+      "width": 0.8428089244155591,
+      "x": 0.0935024958526761,
+      "y": 0.17365538900406496
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "“包罗所有（任何人、任何时间均如此）”及冒号的“停顿凸显功能”强调失业者内心渴求：一份工作（ajob）。",
+      "width": 0.8680850792661937,
+      "x": 0.05319151015413712,
+      "y": 0.15837696337260787
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "【深层解读】对比“前两段所述新政规定及奥斯本说辞VS本段揭示的真实情形”，可明确作者对奥",
+      "width": 0.8446808445956059,
+      "x": 0.09148936920928921,
+      "y": 0.13939790599400181
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02072020101297578,
+      "text": "斯本的批驳、体味前文 reasonable、reasonableness 传递的讽刺：一，救济金是失业者的救命稻草，奥斯本却",
+      "width": 0.883256115675886,
+      "x": 0.05305981227845342,
+      "y": 0.11765395304045667
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "对其设置重重限制；二，救济金已是低到极限且极难得到，奥斯本却认为现有体制对失业者太过宽容、滋",
+      "width": 0.8808510732833453,
+      "x": 0.05531915272002939,
+      "y": 0.10319767443334138
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "生懒惰；三，失业者内心最渴望的是“工作”，奥斯本却认定他们会陷入“依赖”。",
+      "width": 0.6595744282806514,
+      "x": 0.055319177083078416,
+      "y": 0.08430232604221222
+    },
+    {
+      "confidence": 1,
+      "height": 0.011818153695910438,
+      "text": "13",
+      "width": 0.023404254767173116,
+      "x": 0.8978723405064845,
+      "y": 0.06540697701986464
+    }
+  ],
+  "vision_ocr_text": "1 Losing a job is hurting: you don't skip down\n失去工作令人痛苦：你不可能是心哼小\nto the jobcentre with a song in your heart, delighted at\n曲、蹦蹦跳跳地走向求职中心，途中你也不\nthe prospect\" of doubling your income from the generous\n会因畅想慷慨的政府会使你的收入翻番而\nstate.\n② It is financially\nterrifying, psychologically®\n感到兴奋。失业在经济上是可怕的，在心理\nembarrassing and you know that support is minimal and\n上是尴尬的，而且你知道救济极少且极难获\nextraordinarily hard to get.\n③ You are now not wanted；\n得。你现在不被需要，被排除在为人们提供\nyou are now excluded from the work environment that\n目标和结构的工作环境之外。更糟的是，养\noffers purpose and structure in your life. ④ Worse, the\n活你自己及家庭并用来支付账单的重要收\ncrucial income to feed® yourself and your family and pay the\n入来源不复存在了。问问任何一个刚失业\nbills has disappeared.|\n⑤ Ask anyone newly unemployed\n的人他们想要什么，回答永远是：一份工作。\nwhat they want and the answer is always: a job.\n词汇注释与难句分析。\n①prospect ［' prospekt］n.. 可能性，机会，希望\n①skip down（蹦蹦跳跳）\n② psychologically ［sai'kplodsikl］ ad. 心理上地\n② with a song in one's heart（心哼小曲、暗自兴奋）\n③ embarrassing ［im'beerosu］a. 使人尴尬的，令人为难的\n③delighted at the prospect of（因对••••的憧憬而兴奋）\n④feed ［fi:d］v. 养活\n④double your income（收入翻番）\n⑤be excluded from（被排除在⋯⋯之外）\n经典搭配\n• 语篇分析•\n第三、四段对新政展开批驳。\n第三段说明事实（失业者经济窘迫、心理尴尬、内心无比渴望工作；当前失业金微不足道且极难申\n请），为下段批驳奠基。关键词：①hurting；②a job。\n①②③④句形成直线递进结构，层层剥茧说明现状：失业者面临经济困境和心理尴尬的双重折磨；\n失业金极低且极难获取。\n①句指出失业令人十分痛苦。主句以 hurting（to feel very upset or unhappy）在貌似漫不经心中彰显\n失业造成的巨大打击。冒号后以夸张手法，反向表明失业者的苦闷无望：在走向求职中心的路上，你不\n会是“轻松愉快地”（skip down; with a song in your heart; delighted） 畅想着“数目不菲的救济金”\n（doubling your income;generous state）。\n②句明确“十分痛苦”的原因：经济困窘、心理尴尬、失业金极低且极难获得。financially terrifying，\npsychologically embarrassing 说明失业带给“经济上”和“心理上”的双重打击。minimal and extraordinarily\nhard to get（minimal 意为“最低限度的”；extraordinarily hard”非同寻常地、极其困难”）强调失业金现状：\n极低且极难获得。句子整体展现失业者“陷人危机，却求助无门”的情形，彰显①句 hurting。\n③句进一步解释失业者的“心理尴尬（psychologically embarrassing）”。作者借助长短句变换以及重\n复表述 you are now...you are now...凸显失业带给人们剧烈的心理冲击：不再被需要（not wanted）；不\n再有工作带来的目标感及有序感、内心陷人混乱绝望（excluded from.... purpose and structure）。\n④句进而强调失业者的“经济困窘（financially terrifying）”。Worse 递进引出失业对人们最切实、最\n致命的打击。crucial income（crucial 意力 extremely important）、feed yourself and your family and pay the\nbills 强调“收入的至关重要”；has disappeared 则凸显失业使其不复存在，陷入经济困境。\n⑤句基于①一④句，得出作者结论：任何一位失业者最想要都是一份工作。作者以 Anyone、always 的\n“包罗所有（任何人、任何时间均如此）”及冒号的“停顿凸显功能”强调失业者内心渴求：一份工作（ajob）。\n【深层解读】对比“前两段所述新政规定及奥斯本说辞VS本段揭示的真实情形”，可明确作者对奥\n斯本的批驳、体味前文 reasonable、reasonableness 传递的讽刺：一，救济金是失业者的救命稻草，奥斯本却\n对其设置重重限制；二，救济金已是低到极限且极难得到，奥斯本却认为现有体制对失业者太过宽容、滋\n生懒惰；三，失业者内心最渴望的是“工作”，奥斯本却认定他们会陷入“依赖”。\n13",
+  "pdf_text_layer": "阻。 囚 Los in g 日 job is hurting : you don ’ t skip down                     失去工作令人痛苦 ： 你不可能是心哼 小\nto t he job centre w ith a so ng in your heart, delight ed at                曲、蹦蹦跳跳地走向求职中心，途中你也不\nthe prospect(!) of doubling your income from the generous                   会因畅想慷慨的政 府 会使你的收入翻番而\nsta t e.   ell It is finan ciall y terr i fy i 口 g,   psychologically②       感到兴奋 。 失业在经济上是可怕的 ， 在心理\nembarrassing(]) a nd you kn ow that support is minimal a nd                  上 是尴尬的，而且你知道救济极少且极难获\n巳 x traordin a r il y h ard to get. @ You are now not wanted:               得 。 你现在不被需要 ， 被排除在为人们提供\nyo 」 are 口ow      e xc lud ed from th e work envi ronm e nt that             目标和结构的工作环 境 之外 。 J走糟的是，养\noff e rs purpose a nd struct ure in your life . 。 Worse, th e                活你自己及家庭并用来支付账单的重要收\ncrucial inco m 巳 to feed0 yo ur 忧lf and your fami ly and pay t h巳           入来源不复存在了 。             问问任何一个刚失业\nbill s has di sappeared.      0 Ask anyon巳 new l y unemployed                的人他们想要什么 ， 回答永远是：一份工作 。\nwhat th ey wa nt and the a nswe r is always : a job.\n\n\n                                               ：：－词汇注：容与难句分析：. :fl\n① pr咽pect [ 1pros pekt ］ 止可能性，机会，希 望                                \\\\   ( skip dow n （蹦蹦跳跳）\n( psychologically [ sa 1 1 k 口 J cJd3 1kl1 ] ad. 心理上地               !(     with a so ng in one's heart （心哼小川自兴奋 ）\n( embarrassing [ 1m 1 b田r部副 α 使人尴尬的，令人为难的                           <    ( delighted at the prospect o r （因对 …··的憧憬而兴奋）\n( feed [ fi :d] V，养活                                                i    ( double your income （收入翻番）\n                                                                    ;(     be exc lud ed fr川剧｜｜｜阳之夕｜）\n．经典搭配\n                                                            语\n                                                            一   篇   析…\n                                                                    …\n                                                                    …         J\n                                                            ，   …   分 …\n       第三、四段对新政展开批驳。\n       第三段说明事实（失业者经济窘迫、心理尴尬、内心无比渴望工作；当前失业金微不足道且极难申\n请），为下段批驳奠基 。 关键词：① hurting ；② a job 。\n       ①②③④旬形成直线递进结构，层层剥茧说明现状：失业者面临经济困境和心理尴尬的政重折磨；\n失业金极低且极难在取。\n       ①旬指出失业令人十分痛苦 。 主句以 hurting( to fee l very upset or unhappy ）在貌似漫不经 心中 彰显\n失业造成的巨大 打击 。 冒号后 以 夸张手法，反 向 表明失 业者的 苦 闷无 望 ：在 走 向 求职中心的路上，你不\n会是“轻松愉快 地”（ skip dow n; with a so ng in yo ur heart; de li ghted ）畅想着“数目不菲的救济金”\n( doubling yo ur in come; genero us s t a t e ） 。\n       ②旬明确“十分痛苦”的原因：经济困窘、心理尴尬、失业金极低且极难获得 。 fi na nci a ll y ter叫ying,\npsychologically embarrass ing 说 明失业带 给“经济上” 和 “ 心理上”的 双重 打击 。 minima l and extraordinaril y\nha rd to get( m inima l 意为“最 低限度的”； 巳 xtraordina ril y hard “非同 寻常 地、极 其困难”）强调失 业金现状：\n极低且极难获得。句子整体展现失业者“陷入危机，却求助无 门 ”的情形，彰显①句 hurting 。\n       ③句进一步解释失业者的“心理尴尬｛ psychologically embarrassing ）” 。 作者借助长短句变换以及重\n复表述 yo u a r e now . .. yo u a r e now ...凸显失业带给人 们剧 烈的心理冲击 ： 不再被需要（ not wa nt e d ）；不\n再有工 作带 来 的目标感及 有序感 、内心陷入棍乱绝 望（巳 xclud e d from. …                                          purpose a nd s tru cture),\n  ④旬进而强调失业者的“经济困窘｛ financially terrifying ）”。 Wors e 递进引出 失 业对人们 最 切 实、最\n致命 的打击 。 cru c i a l in come( cruci a l 意为 ex trem e l y imp o rtant ）、 feed yo urse lf a nd yo ur family a nd pay the\nbill s 强 调“收入的至 关重要” ； has di sa pp ea r e d 则凸 显失 业使其不 复存 在，陷入 经济困境 。\n       ⑤旬基于①一④旬，得出作者结论：任何一位失业者最想要都是一份工作。 作者以 Anyo町、 a lways 的\n“包罗所有（任何人、任何时间均如 此 ）”及冒号的“停顿凸显功能”强调失业者内心渴求： 一 份工作（ a j ob ） 。\n       E 深层解读】对比“前两段所述新政规定及奥斯本说辞 vs 本段揭示的真实情形”，可明确作者对奥\n斯本的批驳、体眯前文 reasonable 、 reasonableness 传递的讽刺： 一 ，救济金是失业者的救命稻草，奥斯本却\n对其设置重重限 制 ；二，救济金已是低到极限且极难得到，奥斯本却认为现有体制对失业者太过宽容、滋\n生懒惰； 三 ，失业者 内心 最渴望 的是“ 工 作”，奥斯本却认定他们 会 陷入“依赖” 。\n                                                                                                                        13",
+  "quality": {
+    "vision_line_count": 63,
+    "vision_character_count": 2445,
+    "pdf_text_character_count": 3758,
+    "nonempty": true
+  }
+}

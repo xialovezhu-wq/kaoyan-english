@@ -1,0 +1,694 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P029",
+  "year": 2021,
+  "pdf_page": 29,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016071593872557854,
+      "text": "［命题解密］正确项［B］是第二段①句的同义改写，其中 rare 对应 only a tiny percentage。",
+      "width": 0.7605041621507708,
+      "x": 0.09873950821032909,
+      "y": 0.9374167777652624
+    },
+    {
+      "confidence": 1,
+      "height": 0.016149010385241525,
+      "text": "［A］根据作者在首段首句中表明的身份 historian 推测出这些照片也被其他历史学家应用于研究，",
+      "width": 0.8529411418819244,
+      "x": 0.10084036053662876,
+      "y": 0.9186046514944471
+    },
+    {
+      "confidence": 1,
+      "height": 0.017561855392354553,
+      "text": "但在文中找不到依据。［C］张冠李戴，作者收集到的是“微笑的维多利亚人”照片，这些照片只占当时大",
+      "width": 0.8928571344570387,
+      "x": 0.06092438510866527,
+      "y": 0.8981358189285383
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744379533749929,
+      "text": "量照片的极小比例，无法反映社会习俗。另外，原文讨论的是当时人们拍照时的神态表情，而非社会习",
+      "width": 0.8907563020268846,
+      "x": 0.06092437633949872,
+      "y": 0.8793604654974211
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01626706980516046,
+      "text": "俗，social conventions 也有偷换概念之嫌。［D］由第三段的关键词 exposure times 捏造而来，但第三段讨",
+      "width": 0.8928571344570387,
+      "x": 0.06092436278723723,
+      "y": 0.8601864181807704
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348600953876,
+      "text": "论的是为什么大多数维多利亚人在照片中不笑，与作者所收集的“微笑的维多利亚人”照片无关。",
+      "width": 0.8277310939193461,
+      "x": 0.06302521958444429,
+      "y": 0.8401162789517033
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630384277567254,
+      "text": "［技巧总结］本题属于事实细节题，解题关键依然是审读题干，精准定位。题干关键词是the",
+      "width": 0.855042033112807,
+      "x": 0.10084033408885458,
+      "y": 0.8209054593272641
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016050304458557263,
+      "text": "Victorian portraits he has collected（作者收集到的肖像照），可据此定位至第二段①句前半句 my",
+      "width": 0.8928571344570387,
+      "x": 0.06302522172456178,
+      "y": 0.8022636487708329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013385253327188096,
+      "text": "collection of‘Smiling Victorians’，与之相关的信息 makes up only a tiny percentage of the vast",
+      "width": 0.8928571344570387,
+      "x": 0.06302520312337165,
+      "y": 0.784883721275563
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014755519506299497,
+      "text": "catalogue of photographic portraiture created between 1840 and 1900， ［B］中 rare 和 photographs of that",
+      "width": 0.8928571344570387,
+      "x": 0.06302520535551435,
+      "y": 0.7643142474353669
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014680038914381965,
+      "text": "age 分别对应 a tiny percentage of 和 photographic portraiture created between 1840 and 1900，故［B］正确。",
+      "width": 0.8928571344570387,
+      "x": 0.06302522544479969,
+      "y": 0.7456395352676359
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "I ① During the 1840s and 1850s, in the early days of",
+      "width": 0.462184869255404,
+      "x": 0.10714286526725586,
+      "y": 0.7122093028889351
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014765196570384997,
+      "text": "在19世纪40年代至50年代摄",
+      "width": 0.3193277347983653,
+      "x": 0.6302521021806493,
+      "y": 0.7049418609362406
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016104496271410196,
+      "text": "photography, exposure®",
+      "width": 0.20588234256457727,
+      "x": 0.06302521870370563,
+      "y": 0.6917443408121465
+    },
+    {
+      "confidence": 1,
+      "height": 0.00964556172113129,
+      "text": "times",
+      "width": 0.05282708169867312,
+      "x": 0.27085536759054096,
+      "y": 0.6943051261491544
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01477293771370447,
+      "text": "were notoriously®long: the",
+      "width": 0.24579830573932743,
+      "x": 0.3235294144622692,
+      "y": 0.6930758989663341
+    },
+    {
+      "confidence": 1,
+      "height": 0.016160622735156727,
+      "text": "影的早期时代，曝光时间长是众所周知",
+      "width": 0.3592436979731154,
+      "x": 0.5903361366226859,
+      "y": 0.684420772478245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014784550698555776,
+      "text": "daguerreotype® photographic method （producing an image",
+      "width": 0.5063024972904624,
+      "x": 0.06302522827178544,
+      "y": 0.672965116699322
+    },
+    {
+      "confidence": 1,
+      "height": 0.01472842359987303,
+      "text": "的：达盖尔式摄影法（在镀银的铜盘上制",
+      "width": 0.3613445304032695,
+      "x": 0.5882352933067687,
+      "y": 0.6656976747298452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020042381337415982,
+      "text": "on a silvered copper® plate） could take several minutes to",
+      "width": 0.5066312521638668,
+      "x": 0.06282258977098674,
+      "y": 0.65134616403617
+    },
+    {
+      "confidence": 1,
+      "height": 0.014865837147962857,
+      "text": "作图像）可能需要几分钟才能完成，当坐",
+      "width": 0.3592436979731154,
+      "x": 0.5903361306142827,
+      "y": 0.6464713717123082
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016790432555380264,
+      "text": "complete, resulting in blurred® images as",
+      "width": 0.37835367015331467,
+      "x": 0.06289862566711975,
+      "y": 0.6334933194826124
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "sitters shifted",
+      "width": 0.12815126334541332,
+      "x": 0.4390756299169291,
+      "y": 0.6364846870561971
+    },
+    {
+      "confidence": 1,
+      "height": 0.016023208552130797,
+      "text": "着的人改变姿势或者调整四肢时，图像就",
+      "width": 0.357142836142597,
+      "x": 0.5924369893866845,
+      "y": 0.6264534888672668
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016299972204012803,
+      "text": "position or adjusted their limbs®",
+      "width": 0.3004201547258851,
+      "x": 0.06302522148159509,
+      "y": 0.6145139812555129
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "②",
+      "width": 0.03361344383401449,
+      "x": 0.3886554633771104,
+      "y": 0.6148255819950398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014846483654728182,
+      "text": "The thought of",
+      "width": 0.144957981587375,
+      "x": 0.4243697508379651,
+      "y": 0.6145139813198839
+    },
+    {
+      "confidence": 1,
+      "height": 0.016234168041244335,
+      "text": "会变得模糊不清。在摄像机履行神奇的职",
+      "width": 0.357142836142597,
+      "x": 0.5924369847018107,
+      "y": 0.6058588547593666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014647137150466172,
+      "text": "holding a fixed grin® as the camera performed its magical",
+      "width": 0.5063024972904625,
+      "x": 0.063025213504629,
+      "y": 0.5958721705090921
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371502384857,
+      "text": "责时，保持不变的露齿笑简直难以接受，所",
+      "width": 0.3571428361425969,
+      "x": 0.5924369884833234,
+      "y": 0.5872093024610169
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "duties was too",
+      "width": 0.13655462246639422,
+      "x": 0.06512604790545844,
+      "y": 0.5770348838408988
+    },
+    {
+      "confidence": 1,
+      "height": 0.010543217830429441,
+      "text": "much",
+      "width": 0.058955128252621086,
+      "x": 0.20791739483628155,
+      "y": 0.5783039727176933
+    },
+    {
+      "confidence": 1,
+      "height": 0.014842612448132342,
+      "text": "to contemplate®",
+      "width": 0.14075630202688466,
+      "x": 0.2668067244329862,
+      "y": 0.5770348842865313
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.012664143477235434,
+      "text": "， and so",
+      "width": 0.09688902544378081,
+      "x": 0.40743784182864945,
+      "y": 0.5765167655364223
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007397113881320694,
+      "text": "n0n-",
+      "width": 0.0399159668497957,
+      "x": 0.5294117638089957,
+      "y": 0.5784883722123063
+    },
+    {
+      "confidence": 1,
+      "height": 0.01623997453367032,
+      "text": "以面无表情的木然凝视就成了常态。",
+      "width": 0.3067226814167119,
+      "x": 0.5924369755521484,
+      "y": 0.5683139537110169
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "committal® blank stare became the norm.",
+      "width": 0.34873947702161606,
+      "x": 0.06512605749759537,
+      "y": 0.5579227695382095
+    },
+    {
+      "confidence": 1,
+      "height": 0.014666490643700625,
+      "text": "词汇注释与难句分析",
+      "width": 0.18907562432261554,
+      "x": 0.39495798426726364,
+      "y": 0.5173102530712216
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014712940678298092,
+      "text": "①exposure ［ik'spoug3（r）］n. 曝光时间",
+      "width": 0.3004201547258851,
+      "x": 0.06302521375050288,
+      "y": 0.4912790700641475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014712940678298092,
+      "text": "⑧ contemplate ［'kontamplert］v. 考虑接受（发生某事",
+      "width": 0.4222689060806539,
+      "x": 0.5336134408409756,
+      "y": 0.4912790701150197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "②notoriously ［nau' toriasli］ ad. 众所周知地",
+      "width": 0.3382352854704811,
+      "x": 0.06302521102526369,
+      "y": 0.4723837212560079
+    },
+    {
+      "confidence": 1,
+      "height": 0.013385348567632405,
+      "text": "的可能性）",
+      "width": 0.0820334991278675,
+      "x": 0.5356639228950612,
+      "y": 0.4736852325628178
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016081270936643355,
+      "text": "③ daguerreotype ［ds' geratanp］ n.（早期的）达盖尔银版照片",
+      "width": 0.41806721181998135,
+      "x": 0.06302521239358089,
+      "y": 0.45339547289957827
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014749713013873733,
+      "text": "⑨non-committal ［inpnk'mttl］a. 无明确意义的；态度",
+      "width": 0.4201680736504997,
+      "x": 0.5357142860038817,
+      "y": 0.4547270308851571
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696439,
+      "text": "④copper ［'kDpa（r）］n. 铜",
+      "width": 0.20168066300408688,
+      "x": 0.06722689386560367,
+      "y": 0.43741677793882017
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "不明朗的",
+      "width": 0.07142856722851942,
+      "x": 0.5357142872190737,
+      "y": 0.438748335863837
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014817452462471903,
+      "text": "⑤blurred ［bis:d］a. 模糊不清的",
+      "width": 0.25210083243015413,
+      "x": 0.06302521655803213,
+      "y": 0.418604651633915
+    },
+    {
+      "confidence": 1,
+      "height": 0.013356261500982125,
+      "text": "经典搭配",
+      "width": 0.07992551505910173,
+      "x": 0.5608775778071166,
+      "y": 0.41846721832876255
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395673688379,
+      "text": "⑥limb ［um］n. 肢；臂；腿",
+      "width": 0.2037815101344232,
+      "x": 0.0630252133571581,
+      "y": 0.40116279060792326
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01477680892030031,
+      "text": "①perform one's duty 履行职责",
+      "width": 0.2394957937486829,
+      "x": 0.5357142860038098,
+      "y": 0.39946737666962195
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "⑦grin ［grin］n. 露齿笑；咧嘴笑",
+      "width": 0.25210083243015413,
+      "x": 0.06302521193618345,
+      "y": 0.38215712389510603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "During the 1840s and 1850s, in the early days of photography, exposure times were notoriously long：",
+      "width": 0.8529411418819244,
+      "x": 0.10504202343929023,
+      "y": 0.35153129168957287
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013356222134931706,
+      "text": "the daguerreotype photographic method （producing an image on a silvered copper plate） could take several",
+      "width": 0.8970587993173471,
+      "x": 0.0630252109768309,
+      "y": 0.3328488376273072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014958236887356535,
+      "text": "minutes to complete, resulting in blurred images as sitters shifted position or adjusted their limbs.",
+      "width": 0.810995994964776,
+      "x": 0.0650848465483855,
+      "y": 0.3121661712818995
+    },
+    {
+      "confidence": 1,
+      "height": 0.0149486531589067,
+      "text": "结构切分：",
+      "width": 0.09257167015002181,
+      "x": 0.10497466828499104,
+      "y": 0.29339776658538397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "插人语",
+      "width": 0.05252100920631253,
+      "x": 0.6743697478728341,
+      "y": 0.27470930223583034
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "分句",
+      "width": 0.0357142836142597,
+      "x": 0.08823529481051721,
+      "y": 0.2587209299974581
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "During the 1840s and 1850s, exposure times were notoriously long",
+      "width": 0.462184869255404,
+      "x": 0.1617647158624938,
+      "y": 0.2659883723475107
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "in the early days of photography，",
+      "width": 0.23109243462770201,
+      "x": 0.661764707371023,
+      "y": 0.2587209308685863
+    },
+    {
+      "confidence": 1,
+      "height": 0.011651131824234384,
+      "text": "时间状语",
+      "width": 0.0693277274482742,
+      "x": 0.21848739668951112,
+      "y": 0.24999999994621835
+    },
+    {
+      "confidence": 1,
+      "height": 0.011651131824234273,
+      "text": "主语",
+      "width": 0.03571428361425971,
+      "x": 0.3844537830090466,
+      "y": 0.2499999999988447
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815838,
+      "text": "系动词",
+      "width": 0.05252100553126693,
+      "x": 0.4558823546660892,
+      "y": 0.250000000636028
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "表语",
+      "width": 0.042016806630040926,
+      "x": 0.5399159659076687,
+      "y": 0.2500000003816678
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696328,
+      "text": "现在分词作结果状语",
+      "width": 0.15546218783869226,
+      "x": 0.7142857116928988,
+      "y": 0.22237017305938744
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013367835119783344,
+      "text": "分句二：",
+      "width": 0.060924368327293324,
+      "x": 0.08823529533565304,
+      "y": 0.213662790571586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013367834484847019,
+      "text": "the daguerreotype photographic method could take several minutes to complete，",
+      "width": 0.5399159337743858,
+      "x": 0.15966388860125225,
+      "y": 0.21366279118835374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "resulting in blurred images",
+      "width": 0.18277311233197102,
+      "x": 0.7710083999894767,
+      "y": 0.20639147803044966
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "主语",
+      "width": 0.03361344383401449,
+      "x": 0.27521008449055584,
+      "y": 0.1976744186761703
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "谓语",
+      "width": 0.037815127069550425,
+      "x": 0.44117646976354413,
+      "y": 0.19622093000957064
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "宾语",
+      "width": 0.033613443834014545,
+      "x": 0.539915967053581,
+      "y": 0.19622093054155154
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "宾补",
+      "width": 0.035714283614259656,
+      "x": 0.6386554636813156,
+      "y": 0.19767441860349566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017952795828706236,
+      "text": "原因状语从句个",
+      "width": 0.11990189598245204,
+      "x": 0.7499230023751096,
+      "y": 0.18724453246691475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015994177994810732,
+      "text": "「同位语",
+      "width": 0.06512604788778376,
+      "x": 0.1617647065970745,
+      "y": 0.1744186047466273
+    },
+    {
+      "confidence": 1,
+      "height": 0.008792540046092534,
+      "text": "as",
+      "width": 0.018907561697252495,
+      "x": 0.5168067233880684,
+      "y": 0.17296511652778046
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "sitters shifted position",
+      "width": 0.15546217313851007,
+      "x": 0.5546218520161793,
+      "y": 0.1715116277846973
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010246028595377044,
+      "text": "or",
+      "width": 0.018907563534775296,
+      "x": 0.7247899159006795,
+      "y": 0.1715116279944171
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "adjusted their limbs",
+      "width": 0.13655462246639416,
+      "x": 0.7626050430735256,
+      "y": 0.17151162781722562
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "producing an image on a silvered copper plate",
+      "width": 0.30882351384686596,
+      "x": 0.06932774402194498,
+      "y": 0.15978695094738393
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014687780057701438,
+      "text": "引导词 主语 谓语1宾语1 连接词 谓语2",
+      "width": 0.31512604053769266,
+      "x": 0.5000000075672881,
+      "y": 0.15246338242175572
+    },
+    {
+      "confidence": 1,
+      "height": 0.013356222769868142,
+      "text": "宾语2",
+      "width": 0.04621848619053126,
+      "x": 0.8424369757772834,
+      "y": 0.15379494024381712
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016309648633161977,
+      "text": "功能注释：本句是由冒号隔开的并列句。分句一主干为 exposure times were notoriously long;in the",
+      "width": 0.8571428655429612,
+      "x": 0.1050420211780991,
+      "y": 0.13049267672558862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016056110950983027,
+      "text": "early days of photography 为插入语，语义上与 During the 1840s and 1850s 并列，对这段时间进行补充说",
+      "width": 0.8928571344570387,
+      "x": 0.06512604717974399,
+      "y": 0.11185086541309708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014711004757531954,
+      "text": "明。分句二主干力 the daguerreotype photographic method could take several minutes to complete。分句",
+      "width": 0.8907563020268847,
+      "x": 0.06722689736590941,
+      "y": 0.09447674465301792
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688268,
+      "text": "29",
+      "width": 0.02310924309526563,
+      "x": 0.9201680675490058,
+      "y": 0.06104651133466743
+    }
+  ],
+  "vision_ocr_text": "［命题解密］正确项［B］是第二段①句的同义改写，其中 rare 对应 only a tiny percentage。\n［A］根据作者在首段首句中表明的身份 historian 推测出这些照片也被其他历史学家应用于研究，\n但在文中找不到依据。［C］张冠李戴，作者收集到的是“微笑的维多利亚人”照片，这些照片只占当时大\n量照片的极小比例，无法反映社会习俗。另外，原文讨论的是当时人们拍照时的神态表情，而非社会习\n俗，social conventions 也有偷换概念之嫌。［D］由第三段的关键词 exposure times 捏造而来，但第三段讨\n论的是为什么大多数维多利亚人在照片中不笑，与作者所收集的“微笑的维多利亚人”照片无关。\n［技巧总结］本题属于事实细节题，解题关键依然是审读题干，精准定位。题干关键词是the\nVictorian portraits he has collected（作者收集到的肖像照），可据此定位至第二段①句前半句 my\ncollection of‘Smiling Victorians’，与之相关的信息 makes up only a tiny percentage of the vast\ncatalogue of photographic portraiture created between 1840 and 1900， ［B］中 rare 和 photographs of that\nage 分别对应 a tiny percentage of 和 photographic portraiture created between 1840 and 1900，故［B］正确。\nI ① During the 1840s and 1850s, in the early days of\n在19世纪40年代至50年代摄\nphotography, exposure®\ntimes\nwere notoriously®long: the\n影的早期时代，曝光时间长是众所周知\ndaguerreotype® photographic method （producing an image\n的：达盖尔式摄影法（在镀银的铜盘上制\non a silvered copper® plate） could take several minutes to\n作图像）可能需要几分钟才能完成，当坐\ncomplete, resulting in blurred® images as\nsitters shifted\n着的人改变姿势或者调整四肢时，图像就\nposition or adjusted their limbs®\n②\nThe thought of\n会变得模糊不清。在摄像机履行神奇的职\nholding a fixed grin® as the camera performed its magical\n责时，保持不变的露齿笑简直难以接受，所\nduties was too\nmuch\nto contemplate®\n， and so\nn0n-\n以面无表情的木然凝视就成了常态。\ncommittal® blank stare became the norm.\n词汇注释与难句分析\n①exposure ［ik'spoug3（r）］n. 曝光时间\n⑧ contemplate ［'kontamplert］v. 考虑接受（发生某事\n②notoriously ［nau' toriasli］ ad. 众所周知地\n的可能性）\n③ daguerreotype ［ds' geratanp］ n.（早期的）达盖尔银版照片\n⑨non-committal ［inpnk'mttl］a. 无明确意义的；态度\n④copper ［'kDpa（r）］n. 铜\n不明朗的\n⑤blurred ［bis:d］a. 模糊不清的\n经典搭配\n⑥limb ［um］n. 肢；臂；腿\n①perform one's duty 履行职责\n⑦grin ［grin］n. 露齿笑；咧嘴笑\nDuring the 1840s and 1850s, in the early days of photography, exposure times were notoriously long：\nthe daguerreotype photographic method （producing an image on a silvered copper plate） could take several\nminutes to complete, resulting in blurred images as sitters shifted position or adjusted their limbs.\n结构切分：\n插人语\n分句\nDuring the 1840s and 1850s, exposure times were notoriously long\nin the early days of photography，\n时间状语\n主语\n系动词\n表语\n现在分词作结果状语\n分句二：\nthe daguerreotype photographic method could take several minutes to complete，\nresulting in blurred images\n主语\n谓语\n宾语\n宾补\n原因状语从句个\n「同位语\nas\nsitters shifted position\nor\nadjusted their limbs\nproducing an image on a silvered copper plate\n引导词 主语 谓语1宾语1 连接词 谓语2\n宾语2\n功能注释：本句是由冒号隔开的并列句。分句一主干为 exposure times were notoriously long;in the\nearly days of photography 为插入语，语义上与 During the 1840s and 1850s 并列，对这段时间进行补充说\n明。分句二主干力 the daguerreotype photographic method could take several minutes to complete。分句\n29",
+  "pdf_text_layer": "［命题解密］正确项［B］是第二段①句的同义改写，其中rare对应only a tiny percentageo\n    ［A］根据作者在首段首句中表明的身份historian推测出这些照片也被其他历史学家应用于研究，\n但在文中找不到依据。［C］张冠李戴，作者收集到的是“微笑的维多利亚人”照片，这些照片只占当时大\n量照片的极小比例，无法反映社会习俗。另外，原文讨论的是当时人们拍照时的神态表情，而非社会习\n俗,social conventions也有偷换概念之嫌。［D］由第三段的关键词exposure times捏造而来，但第三段讨\n论的是为什么大多数维多利亚人在照片中不笑，与作者所收集的“微笑的维多利亚人”照片无关。\n    ［技巧总结］本题属于事实细节题，解题关键依然是审读题干，精准定位。题干关键词是the\nVictorian portraits he has collected （作者收集到的肖像照儿可据此定位至第二段①句前半句 my\ncollection of 6 Smiling Victorians，，与之相关的信息为 makes up only a tiny percentage of the vast\ncatalogue of photographic portraiture created between 1840 and 1900 9 ［B］中 rare 和 photographs of that\nage 分别对应 a tiny percentage of 和 photographic portraiture created between 1840 and 1900,故［B］正确。\n\n     IH ❶ During the 1840s and 1850s9 in the early days of\n                                                                       在19世纪40年代至50年代— 摄\nphotography, exposure① times were notorious!y② long： the\n                                                                  影的早期时代，曝光时间长是众所周知\ndaguerreotype0 photographic method ( producing an image\n                                                                  的：达盖尔式摄影法（在镀银的铜盘上制\non a silvered copper^ plate) could take several minutes to\n                                                                  作图像）可能需要几分钟才能完成，当坐\ncomplete, resulting in blurred     images as sitters shifted\n                                                                  着的人改变姿势或者调整四肢时，图像就\nposition or adjusted their limbs⑥.❷ The thought of                会变得模糊不清。在摄像机履行神奇的职\nholding a fixed grin⑦ as the camera performed its magical\n                                                                  责时，保持不变的露齿笑简直难以接受，所\nduties was too much to contemplate^ , and so a non-\n                                                                  以面无表情的木然凝视就成了常态。\ncommittalc)blank stare became the norm.\n\n\n                                       •词汇注释与难句分析•\n\n① exposure [ik'sp9U39(r)] n.曝光时间                           ⑧ contemplate ［'kontampleit］ v.考虑接受（发生某事\n② notoriously [nougriasl订 ad.众所周知地                         的可能性）\n③ daguerreotype [da'gerataip] n,(早期的)达盖尔银版照片               ⑨ non-committal ［inonka'mitl］ a.无明确意义的；态度\n④ copper ['kDpa(r)] n.铜                                    不明朗的\n©blurred [bl3：d] a.模糊不清的                                  •经典搭配\n⑥ limb [lim]九.肢；臂；腿                                       （Dperform one's duty 履行职责\n⑦ grin [grin] n.露齿笑；咧嘴笑\n\n     During the 1840s and 1850s, in the early days of photography, exposure times were notoriously long：\nthe daguerreotype photographic method (producing an image on a silvered copper plate) could take several\nminutes to complete, resulting in blurred images as sitters shifted position or adjusted their limbs.\n     结构切分:\n\n\n\n\n     功能注释：本句是由冒号隔开的并列句。分句一主干为exposure times were notoriously long；in the\nearly days of photography为插入语，语义上与During the 1840s and 1850s并列，对这段时间进行补充说\n明。分句二主干为 the daguerreotype photographic method could take several minutes to completeo 分句\n\n                                                                                                        29",
+  "quality": {
+    "vision_line_count": 84,
+    "vision_character_count": 2614,
+    "pdf_text_character_count": 3064,
+    "nonempty": true
+  }
+}

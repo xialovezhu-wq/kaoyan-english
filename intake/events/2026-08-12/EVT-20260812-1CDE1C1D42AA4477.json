@@ -1,0 +1,117 @@
+{
+  "schema_version": "english_capture_event_v2",
+  "event_id": "EVT-20260812-1CDE1C1D42AA4477",
+  "event_type": "sentence_captured",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260711-009",
+    "source_article": "articles/2026-07-11-2012-english-i-text-1.md",
+    "source_id": "RAW-ARTICLE-20260711-009",
+    "source_hash": "e5689d55cf9f7c217bf06f335ba6c5a97a78a1c5b4fb712e655c03c546d1a387",
+    "reference_id": "EXAM-READING-2012-T1",
+    "title": "2012 English I Text 1"
+  },
+  "source": {
+    "sentence_id": "Q21-B",
+    "source_sentence": "a stimulus to group dynamics.",
+    "source_kind": "option",
+    "sentence_hash": "05066fe9eca8c4749f1cbbec5f9cc21e04efde7e0a5435e6575ead17de603989"
+  },
+  "learning": {
+    "first_translation": "它是作为一个 stimulus（推动力），对于团队的数字化来说。",
+    "user_evidence_verbatim": "B 选项：它是作为一个 stimulus（推动力），对于团队的数字化来说。",
+    "user_evidence": [
+      "mistranslated"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "对群体动力的一种刺激因素或促进因素。",
+    "explanation": "stimulus 是引发反应或活动的刺激因素，也可按语境理解为促进因素；group dynamics 是群体动力、群体互动机制，不是“团队数字化”。to 表示刺激所作用的对象。",
+    "first_breakpoint": "把 dynamics 按相似字形误读为“数字化”，导致 group dynamics 整体失去原义。",
+    "restatement": ""
+  },
+  "candidates": [
+    {
+      "item": "stimulus",
+      "candidate_type": "单词",
+      "meaning": "刺激因素；促进因素",
+      "usage": "a stimulus to sth 表示对某事物起刺激或促进作用的因素。",
+      "review_note": "核心是引发反应，不等同于笼统的正面力量。",
+      "decision": "long_term_candidate",
+      "reason": "用户只掌握了模糊的“推动力”，需要补足精确关系。",
+      "source_signal_ids": [
+        "SIG-2DE06ABDA116176A"
+      ]
+    },
+    {
+      "item": "group dynamics",
+      "candidate_type": "词组",
+      "meaning": "群体动力；群体互动机制",
+      "usage": "指群体成员之间的互动及其对行为的影响。",
+      "review_note": "dynamics 是动力机制，不是 digitization 数字化。",
+      "decision": "long_term_candidate",
+      "reason": "用户发生关键术语误译，直接影响选项判断。",
+      "source_signal_ids": [
+        "SIG-CB3CC49367C7AACB"
+      ]
+    }
+  ],
+  "observed_signals": [
+    {
+      "signal_id": "SIG-2DE06ABDA116176A",
+      "signal_type": "vocabulary",
+      "canonical_term": "stimulus",
+      "surface_form": "stimulus",
+      "knowledge_state": "mistranslated",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    },
+    {
+      "signal_id": "SIG-CB3CC49367C7AACB",
+      "signal_type": "phrase",
+      "canonical_term": "group dynamics",
+      "surface_form": "group dynamics",
+      "knowledge_state": "mistranslated",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    }
+  ],
+  "source_signal_ids": [
+    "SIG-2DE06ABDA116176A",
+    "SIG-CB3CC49367C7AACB"
+  ],
+  "capture_coverage": {
+    "schema_version": "english_capture_coverage_v2",
+    "declared_signal_count": 2,
+    "covered_signal_count": 2,
+    "signals": [
+      {
+        "signal_id": "SIG-2DE06ABDA116176A",
+        "terminal_status": "candidate"
+      },
+      {
+        "signal_id": "SIG-CB3CC49367C7AACB",
+        "terminal_status": "candidate"
+      }
+    ]
+  },
+  "idempotency_key": "2026-08-12-2012-t1-q21-b-option-language-v1",
+  "request_sha256": "bd83be2068fcf12767619382871d178a5a8f343b465f4474cfeb584e24bfbd3c",
+  "occurred_at": "2026-08-12T08:59:41Z",
+  "producer": {
+    "role": "foreground_producer",
+    "name": "english_learning_pipeline",
+    "version": "0.1.0"
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none"
+}

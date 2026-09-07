@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P016",
+  "year": 2020,
+  "pdf_page": 16,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.019270626905825483,
+      "text": "•真题精解•",
+      "width": 0.11902229855484286,
+      "x": 0.42456528329031323,
+      "y": 0.895161197987786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208014562644976,
+      "text": "25. What is the author's attitude towards the proposal？",
+      "width": 0.4564755791378274,
+      "x": 0.06794055339817766,
+      "y": 0.8706395353088718
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014569176087145697,
+      "text": "25.作者对该提议持何种态度？",
+      "width": 0.2717622104310863,
+      "x": 0.5456475599224612,
+      "y": 0.870639535453946
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016046406353017573,
+      "text": "［A］ Skeptical",
+      "width": 0.1188959582098599,
+      "x": 0.06794055507766031,
+      "y": 0.847383720969082
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014592917558285845,
+      "text": "［A］ 质疑",
+      "width": 0.08067940527311368,
+      "x": 0.5477707012647169,
+      "y": 0.8488372098580157
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01501246935226519,
+      "text": "LB］ Objective",
+      "width": 0.12113981980543871,
+      "x": 0.06575705279418124,
+      "y": 0.8238891140981599
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "［B］客观",
+      "width": 0.08067940527311379,
+      "x": 0.5477707012086896,
+      "y": 0.8239564428233878
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014648313747343655,
+      "text": "LC］ Favourable",
+      "width": 0.13588110521554314,
+      "x": 0.06581740779562549,
+      "y": 0.7979651165803995
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015048785131769438,
+      "text": "LC］支持",
+      "width": 0.08087413190846726,
+      "x": 0.5476733367021989,
+      "y": 0.7977081653872329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015743511774579,
+      "text": "［D］ Critical",
+      "width": 0.10649685644660767,
+      "x": 0.0656475365371326,
+      "y": 0.7741049884949456
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013522136016679509,
+      "text": "LDJ批判",
+      "width": 0.08082979237685461,
+      "x": 0.547695507879918,
+      "y": 0.7744889320801207
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033703,
+      "text": "［精准定位］末段末句作者明确建议文化部长应该“欣然接受”这一积极向上、充满希望的提议，体现",
+      "width": 0.842887493912674,
+      "x": 0.09766454172731466,
+      "y": 0.749999999940739
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511917,
+      "text": "出其对提议的支持态度。［C］项正确。",
+      "width": 0.324840758144065,
+      "x": 0.05944799016894409,
+      "y": 0.7295825770519837
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017465601815502385,
+      "text": "［命题解密］正确项［C］是对作者态度的正确概括。从第二段作者对质疑者的措辞（cynic，",
+      "width": 0.8450106107271635,
+      "x": 0.09766455446656677,
+      "y": 0.7107558140429351
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016017389384025638,
+      "text": "speculate），第三段作者对文化称号能够获得成功的坚定信心（But it can be done）并援引 Glasgow 的成功",
+      "width": 0.8832271181303878,
+      "x": 0.0573248613700504,
+      "y": 0.6932849365582295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "先例，以及末段的建议（welcome this positive, hope-filled proposal, and turn it into action） 都可以得知作",
+      "width": 0.8811040013158986,
+      "x": 0.05944800563565093,
+      "y": 0.6742286754106857
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033814,
+      "text": "者对该提议的支持态度。",
+      "width": 0.21231423132615634,
+      "x": 0.05944798164760827,
+      "y": 0.6569767440371537
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "［AJ［D］误将第三段质疑者的态度偷换为作者态度。作者对该提议进行了客观的分析，但是有明显",
+      "width": 0.842887493912674,
+      "x": 0.09766454172731466,
+      "y": 0.6365698731863466
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "的支持态度，［B］错误。",
+      "width": 0.19320593715030254,
+      "x": 0.059447989200857185,
+      "y": 0.6175136118399862
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186034436246,
+      "text": "［技巧总结］观点态度题。解答此类题时应：1.查找明确表达作者态度的词句，包括形容词、动词、副",
+      "width": 0.842887493912674,
+      "x": 0.09766452727781529,
+      "y": 0.5988372093211742
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "词、名词等，利用词语的感情色彩进行判断；2.but 等转折词后为语义重点，可以推测作者态度；3.判断作者",
+      "width": 0.8811040013158985,
+      "x": 0.059447997776233316,
+      "y": 0.5812159713677595
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033814,
+      "text": "对其他人物观点的态度。如本题，作者在末句建议文化大臣接受该提议，而且还使用了 positive 和 hope",
+      "width": 0.883227118130388,
+      "x": 0.05944802089234306,
+      "y": 0.5639534882546924
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511695,
+      "text": "filled 这类积极的词汇来修饰该提议，支持态度表露无遗。另外，从前文也可以判断出作者的态度。首先，",
+      "width": 0.8811040013158985,
+      "x": 0.06157114788618167,
+      "y": 0.5435571691878192
+    },
+    {
+      "confidence": 1,
+      "height": 0.019321868294163824,
+      "text": "作者在陈述质疑者观点时用cynic 来指称，表示作者对质疑者的态度是不赞同的；之后，第三段作者论述自",
+      "width": 0.8769735240177386,
+      "x": 0.061512472839818075,
+      "y": 0.5243104094321791
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186034436246,
+      "text": "已观点时，着更多笔墨于成功的称呼获得者，并且以 but it can be done转折，说明作者支持这一提议。",
+      "width": 0.8343948647577503,
+      "x": 0.061571136771868054,
+      "y": 0.5058139535196793
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033814,
+      "text": "Text 2",
+      "width": 0.08067940527311374,
+      "x": 0.30997876802869445,
+      "y": 0.43459302303424674
+    },
+    {
+      "confidence": 1,
+      "height": 0.020488646415530498,
+      "text": "卫报评学术出版：糟糕的资本主义",
+      "width": 0.3566878746295798,
+      "x": 0.41613588926695116,
+      "y": 0.43459302370081576
+    },
+    {
+      "confidence": 1,
+      "height": 0.008810619260784414,
+      "text": "知识",
+      "width": 0.02972398955246497,
+      "x": 0.10828025612610295,
+      "y": 0.41560798543286415
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418966912957,
+      "text": "充",
+      "width": 0.012738855194982218,
+      "x": 0.1549893833366915,
+      "y": 0.4127906974327257
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906896241491,
+      "text": "原文外教朗读",
+      "width": 0.09554140004934619,
+      "x": 0.8174097678628004,
+      "y": 0.4113372094152514
+    },
+    {
+      "confidence": 1,
+      "height": 0.02041742286751358,
+      "text": "、文章总体分析",
+      "width": 0.20169850559386396,
+      "x": 0.09341826110964976,
+      "y": 0.3793103448991447
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018379443353836455,
+      "text": "本文选自 The Guardian《卫报》2019.3.4一篇题为 The Guardian view on academic publishing：",
+      "width": 0.8430861414901774,
+      "x": 0.09969205027297842,
+      "y": 0.3524709921008855
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "disastrous capitalism（卫报评学术出版：糟糕的资本主义）的文章。作者通过展现问题“科学出版商坐享",
+      "width": 0.8832271181303879,
+      "x": 0.05944800819595255,
+      "y": 0.3343023258161909
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "暴利，学术文献价格高、难获取”并深人剖析现有应对办法的局限性，最终明确观点：必须打破科学出版",
+      "width": 0.883227118130388,
+      "x": 0.05944800322779982,
+      "y": 0.3153357532274764
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "业少数巨头垄断的态势，从根本上消除对科研的羁绊。",
+      "width": 0.4585987364265583,
+      "x": 0.061571123385143624,
+      "y": 0.2979651163602107
+    },
+    {
+      "confidence": 1,
+      "height": 0.020486007801201245,
+      "text": "二、语篇分析及试题精解",
+      "width": 0.2675159160907452,
+      "x": 0.09766454503318375,
+      "y": 0.2703488376639941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "I OScientific publishing has long been a licence to",
+      "width": 0.428874736755533,
+      "x": 0.1040339734905986,
+      "y": 0.24273255822898165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "科学出版业长期以来一直一本万利。科",
+      "width": 0.3439490523199188,
+      "x": 0.5923566797317604,
+      "y": 0.23401162772780293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013967548654213569,
+      "text": "print money.",
+      "width": 0.11273959334396241,
+      "x": 0.06146459719476388,
+      "y": 0.2263011099818727
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01472745054213842,
+      "text": "② Scientists need journals in which to",
+      "width": 0.34394905231991874,
+      "x": 0.1889596562887313,
+      "y": 0.2252906979151862
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010975,
+      "text": "学家需要期刊来发表自己的研究成果，因此",
+      "width": 0.38216560019738477,
+      "x": 0.5541401260159574,
+      "y": 0.2164246823632212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014579727948252796,
+      "text": "publish their research, so they will supply the articles",
+      "width": 0.47133755873621935,
+      "x": 0.061571131035287475,
+      "y": 0.20780399268064997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018384376152024706,
+      "text": "without monetary®",
+      "width": 0.17894279419269107,
+      "x": 0.06126737375640171,
+      "y": 0.1898319833938693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014674692102006448,
+      "text": "reward®.",
+      "width": 0.08067940527311374,
+      "x": 0.24840764414334404,
+      "y": 0.1904069774694499
+    },
+    {
+      "confidence": 1,
+      "height": 0.016027941245132737,
+      "text": "即使没有金钱报酬他们也会供稿。其他科学",
+      "width": 0.38216560019738477,
+      "x": 0.5541401260159574,
+      "y": 0.19767441840004119
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906896241602,
+      "text": "⑧3",
+      "width": 0.025477705330684275,
+      "x": 0.35031847249389353,
+      "y": 0.19040697685711172
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418101509763,
+      "text": "Other",
+      "width": 0.06157112121582031,
+      "x": 0.38641189264757464,
+      "y": 0.19186046539207458
+    },
+    {
+      "confidence": 1,
+      "height": 0.012452297764551368,
+      "text": "scientists",
+      "width": 0.0830416995587337,
+      "x": 0.4499865822526589,
+      "y": 0.18999478139693604
+    },
+    {
+      "confidence": 1,
+      "height": 0.016093888429894454,
+      "text": "家亦无偿进行同行评议的专业性工作，因为",
+      "width": 0.37791932609416445,
+      "x": 0.5562632699040854,
+      "y": 0.18012704180378525
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599364791288571,
+      "text": "perform® the specialised® work of peer review also for",
+      "width": 0.4713375587362193,
+      "x": 0.061571138041656696,
+      "y": 0.17150635198164665
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882754898781,
+      "text": "同行评议是获得学术地位以及缔造科学知识",
+      "width": 0.38004244290865385,
+      "x": 0.5562632784660553,
+      "y": 0.16424418671121332
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "free, because it is a central® element in the acquisition®",
+      "width": 0.467091284632999,
+      "x": 0.06157113595667794,
+      "y": 0.15245009094051887
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605431959979553,
+      "text": "的一项核心要素。",
+      "width": 0.15286624210266597,
+      "x": 0.5541401288849728,
+      "y": 0.14382940147690748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019295393014343576,
+      "text": "of status® and the production of scientific knowledge.",
+      "width": 0.4441501202570665,
+      "x": 0.061402103132954765,
+      "y": 0.13257388848934037
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "词汇注释与难包分析",
+      "width": 0.18895966304708223,
+      "x": 0.39278131392349835,
+      "y": 0.09437386591588925
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488275489867,
+      "text": "①monetary L'mAnitri］a. 货币的，钱的",
+      "width": 0.2972399157617706,
+      "x": 0.061571125770919395,
+      "y": 0.07122093057022505
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014624572276203507,
+      "text": "②reward Lri word］n. 奖励，回报",
+      "width": 0.2526539162552325,
+      "x": 0.5265392857152712,
+      "y": 0.06976744242653754
+    },
+    {
+      "confidence": 1,
+      "height": 0.013194824952611817,
+      "text": "16",
+      "width": 0.025477705330684275,
+      "x": 0.07430997986119714,
+      "y": 0.04941860498547079
+    }
+  ],
+  "vision_ocr_text": "•真题精解•\n25. What is the author's attitude towards the proposal？\n25.作者对该提议持何种态度？\n［A］ Skeptical\n［A］ 质疑\nLB］ Objective\n［B］客观\nLC］ Favourable\nLC］支持\n［D］ Critical\nLDJ批判\n［精准定位］末段末句作者明确建议文化部长应该“欣然接受”这一积极向上、充满希望的提议，体现\n出其对提议的支持态度。［C］项正确。\n［命题解密］正确项［C］是对作者态度的正确概括。从第二段作者对质疑者的措辞（cynic，\nspeculate），第三段作者对文化称号能够获得成功的坚定信心（But it can be done）并援引 Glasgow 的成功\n先例，以及末段的建议（welcome this positive, hope-filled proposal, and turn it into action） 都可以得知作\n者对该提议的支持态度。\n［AJ［D］误将第三段质疑者的态度偷换为作者态度。作者对该提议进行了客观的分析，但是有明显\n的支持态度，［B］错误。\n［技巧总结］观点态度题。解答此类题时应：1.查找明确表达作者态度的词句，包括形容词、动词、副\n词、名词等，利用词语的感情色彩进行判断；2.but 等转折词后为语义重点，可以推测作者态度；3.判断作者\n对其他人物观点的态度。如本题，作者在末句建议文化大臣接受该提议，而且还使用了 positive 和 hope\nfilled 这类积极的词汇来修饰该提议，支持态度表露无遗。另外，从前文也可以判断出作者的态度。首先，\n作者在陈述质疑者观点时用cynic 来指称，表示作者对质疑者的态度是不赞同的；之后，第三段作者论述自\n已观点时，着更多笔墨于成功的称呼获得者，并且以 but it can be done转折，说明作者支持这一提议。\nText 2\n卫报评学术出版：糟糕的资本主义\n知识\n充\n原文外教朗读\n、文章总体分析\n本文选自 The Guardian《卫报》2019.3.4一篇题为 The Guardian view on academic publishing：\ndisastrous capitalism（卫报评学术出版：糟糕的资本主义）的文章。作者通过展现问题“科学出版商坐享\n暴利，学术文献价格高、难获取”并深人剖析现有应对办法的局限性，最终明确观点：必须打破科学出版\n业少数巨头垄断的态势，从根本上消除对科研的羁绊。\n二、语篇分析及试题精解\nI OScientific publishing has long been a licence to\n科学出版业长期以来一直一本万利。科\nprint money.\n② Scientists need journals in which to\n学家需要期刊来发表自己的研究成果，因此\npublish their research, so they will supply the articles\nwithout monetary®\nreward®.\n即使没有金钱报酬他们也会供稿。其他科学\n⑧3\nOther\nscientists\n家亦无偿进行同行评议的专业性工作，因为\nperform® the specialised® work of peer review also for\n同行评议是获得学术地位以及缔造科学知识\nfree, because it is a central® element in the acquisition®\n的一项核心要素。\nof status® and the production of scientific knowledge.\n词汇注释与难包分析\n①monetary L'mAnitri］a. 货币的，钱的\n②reward Lri word］n. 奖励，回报\n16",
+  "pdf_text_layer": "······················. J\n                                                                               :. •. A~fflM\n                                                                                     . . . . . . . .. . • :~ -\n\n 25. What is the author's attitude towards the proposal?                                                      25. 11= =t1t ~ ~ mi.Sl ~                w~ ~ 11t 1\n [AJ Skeptical                                                                                                [AJ ~~\n [BJ Objective                                                                                                [BJ ~XW,\n [CJ Favourable                                                                                               [CJ~*\n [DJ Critical                                                                                                 [DJ ffl:~J\n        [ ffl,t~{t! ] *~*1iJf'F~f!ijfifft}li,5ljc{t~*lil.~\"frX~~~\",X-~t}llti]...t,Jt:~~fflt¥J~i,5l,{*~\ntfj jt: xrJ\"   a i)(. l¥J j: M: ~ Lt C] JJf lE liJ6 o\n                                             o   [\n\n        [ 'tfrr ~ M\\f; ] iE liJ6 ~ [ C] ¾ :X1 fF ~ ~ ll 89 lE riffi tl 15 o                                           ».. M =&:ff: ~ :X1 ~ • ~ 89 tit ill <cynic,\nspeculate) ,M=~f'F~M>C1t~%fmtJ~~l&:rol¥J~fEffi°,t:.,(But it can be done)jf:tf5I Glasgow 1¥J.lit~\n_$tf9ij, ~&*~l':f9}ti)l( welcome this positive, hope-filled pr,oposal, and turn it into action)~PJ ~~ffflf'F\n~ x-t i.1< $% iSl 1':19 ~~~ft o\n   [~[m•••=·~--09~J.tSM~fl:-~mofF·~--«mfiT gS09~ffi,fil¾~f!llB\n09j:~~Il , [ B]~1*0\n       [ it~.~~ ] XW.~~lll!io ~~Jlt~Nlia-tmL:1. 1itt~fifo~iiif'F~~.!ll':t9WJ1iJ ,,ei,m%?iJ.WJ ,~~,1M\nWJ ---~ WJ~ ,l'JJflWJmt¥J~·lff-@.~i1r~i*tl$r ;2. but ~~tfiWJFo ,iifrJlffi:~, PI ltUtfflH~~~ J.Jt; 3. *'J *rfl=~\nx-t ;;t1t!tA. ~ •-~ t¥J ~ 1l o ml*~ , ff=~ =A:* 'R] Jl ts( >t {t -;k ~ ~ ~ ~ • iJl , ffij Ji i£ -ft Jfl T positive ~ hope--\nfilled 5~JJ~~JH&89~¥[*f~im~ai5l.,j:~~ll~S~ilo ~?~                                                                     ,»..ftix-m\n                                                                                   i:iJ k,(ltl ltJr tlJfF•a<J~ll o tt16,\n-ff~=A:f*~~i!-S,~a-f Jfl cynic *ffif* ,~JJ\\fF.XtJ-J.m:~-89~lt¾~~~89 ;Zla ,M=&:-ff~~~ §\ni3 -~ ft,J ,~J!~~!ff Jit:fb tf<Jf*IP¥~~f- ,#- ..§. k,( but it can be done ~jfi, ~f!ijfp;ff j:~j!-~iJ( o\n\n\n\n\n     *X~ ~ The Guardian« JI ft! »2019. 3. 4 -ffi 11! J;J The Guardian view on academic publishing:\ndisastrous capitalism(Jijfl tf$.ilc w~ :.ffl~ ~ ~*.3:,.>() ~ x.- f'F ~Ji nJl$ IDJ /ffi\"#$ wJt!fiffi ~*                     0\n\n\nIJl!J , $.ilc X~-fft~ i*j , ~ ~ 11k \"jf:~A giJ *1r ~~mi x,t ~ ~ a<J Nu mtt , ft~ l!ll fifft %Yi~ : &, ®'f fr lit~~ ili Jt&\n~Y~e~~~l':t9~~,~~*xffl~~~~l':t9W~o\n\n~~;     =, illt~~AliitBfflM\n         I O Scientific publishing has long been a licence to\nprint money. 8 Scientists need journals in which to\n                                                                                                                  #•~a~*•~•-~-~~~ o#\n                                                                        •~s4M~*LAt~~~~A*,~~\npublish their research, so they will supply the articles\n                                                                                                                •~a~¼--~~~~*-·o~~#•\nwithout monetary<D reward(7). C) Other scientists\nperformCl> the specialised© work of peer review also for\n                                                                        ~~~~~~~~~~~~a~~#~~~\n                                                                                                                ~·~--ff~ff*~~•~~i~,~~\nfree, because it is a central~ element in the acquisition$\n                                                                        a'J-Jl~,~~-t                                                            0\n\nof status(!) and the production of scientific knowledge.\n                                   ----·-· ......... _ . ··----- -------- ...................................... _............................................ _............... ...................... .\n\n                                           -~:-ijJt·>t~:~)tfe:frffl::~. J\nCD monetary [ mAn1tri] a. ~ffl (311 ,~(311\n                       1\n                                                          s~ @ reward [ri'wo:d] n. ~DIJJ'                                                                  @I~\n\n   16",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 1626,
+    "pdf_text_character_count": 4384,
+    "nonempty": true
+  }
+}

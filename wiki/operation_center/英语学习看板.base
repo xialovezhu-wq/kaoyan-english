@@ -1,0 +1,155 @@
+filters:
+  or:
+    - and:
+        - file.ext == "md"
+        - or:
+            - file.inFolder("articles")
+            - file.inFolder("wiki")
+            - file.inFolder("schema")
+            - file.inFolder("raw")
+            - file.inFolder("review")
+            - file.inFolder("bank")
+    - and:
+        - file.ext == "csv"
+        - file.inFolder("bank")
+formulas:
+  age_days: (now() - file.mtime).days.round(0)
+properties:
+  file.name:
+    displayName: 文件
+  file.folder:
+    displayName: 目录
+  file.ext:
+    displayName: 类型
+  file.mtime:
+    displayName: 最近修改
+  file.links:
+    displayName: 链接
+  formula.age_days:
+    displayName: 距今
+  package_id:
+    displayName: 快速包
+  formal_ids:
+    displayName: 正式条目
+  raw_archive_relpath:
+    displayName: 数据盘相对路径
+  raw_archive_package_sha256:
+    displayName: 原始包哈希
+  archive_verified_at:
+    displayName: 归档验证时间
+  archive_status:
+    displayName: 归档状态
+views:
+  - type: table
+    name: 精读文章
+    filters:
+      and:
+        - file.inFolder("articles")
+    order:
+      - file.name
+      - file.mtime
+      - formula.age_days
+      - file.links
+  - type: table
+    name: 视频语库
+    filters:
+      or:
+        - file.inFolder("wiki/video")
+        - file.inFolder("raw/video")
+    order:
+      - file.name
+      - file.folder
+      - file.ext
+      - file.mtime
+      - formula.age_days
+  - type: table
+    name: 长期库
+    filters:
+      or:
+        - file.inFolder("bank")
+        - file.path == "wiki/operation_center/长期表达库入口.md"
+    order:
+      - file.name
+      - file.ext
+      - file.mtime
+      - formula.age_days
+  - type: table
+    name: 复习记录
+    filters:
+      and:
+        - file.inFolder("review")
+    order:
+      - file.name
+      - file.mtime
+      - formula.age_days
+      - file.links
+  - type: table
+    name: Raw 来源
+    filters:
+      and:
+        - file.inFolder("raw")
+    order:
+      - file.name
+      - file.folder
+      - file.ext
+      - file.mtime
+      - formula.age_days
+  - type: table
+    name: 操作中心
+    filters:
+      and:
+        - file.inFolder("wiki/operation_center")
+    order:
+      - file.name
+      - file.ext
+      - file.mtime
+      - formula.age_days
+      - file.links
+  - type: table
+    name: Tutor
+    filters:
+      or:
+        - file.inFolder("wiki/tutor")
+        - file.inFolder("wiki/study_vaults")
+    order:
+      - file.name
+      - file.folder
+      - file.ext
+      - file.mtime
+      - formula.age_days
+  - type: table
+    name: 同步包
+    filters:
+      and:
+        - file.inFolder("wiki/sync")
+    order:
+      - file.name
+      - file.mtime
+      - formula.age_days
+      - file.links
+  - type: table
+    name: 验收与Lint
+    filters:
+      or:
+        - file.inFolder("wiki/validation")
+        - file.path == "wiki/lint_report.md"
+        - file.inFolder("wiki/workflows")
+    order:
+      - file.name
+      - file.folder
+      - file.ext
+      - file.mtime
+      - formula.age_days
+  - type: table
+    name: 原始资料归档
+    filters:
+      and:
+        - type == "raw_archive_locator"
+    order:
+      - package_id
+      - formal_ids
+      - raw_archive_relpath
+      - raw_archive_package_sha256
+      - archive_verified_at
+      - archive_status
+      - file.name

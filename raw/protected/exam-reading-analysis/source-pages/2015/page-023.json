@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P023",
+  "year": 2015,
+  "pdf_page": 23,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01757032277531234,
+      "text": "①句介绍加州观点。particularly one（=particularly a sweeping ruling）体现语义递进：引出典型事例、",
+      "width": 0.8441350135144253,
+      "x": 0.0875480620670782,
+      "y": 0.9200340590458915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "做进一步强调（重心落于后半句）。",
+      "width": 0.2905982780822637,
+      "x": 0.04700855534226253,
+      "y": 0.9009126469522897
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "particularly 之前先以 A ask B to refrain from sth 结构（refrain from sth 意力 to not to do sth that you",
+      "width": 0.8461538010961492,
+      "x": 0.08333336643910472,
+      "y": 0.8820078227076681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "want to do“克制住，忍住”）呈现加州站位：建议法官不要作出全面性裁定（暗示基于当前情形，法官很有",
+      "width": 0.8803418648220069,
+      "x": 0.04487179162745834,
+      "y": 0.8617992179875685
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762188833104905,
+      "text": "可能会做出此类裁定）。附注：sweeping ruling 为新闻常用表述（取 sweeping 基本含义“影响大的，范围",
+      "width": 0.8782051071782031,
+      "x": 0.04700855145897557,
+      "y": 0.8415697673395006
+    },
+    {
+      "confidence": 1,
+      "height": 0.016308632170516812,
+      "text": "广的，彻底的”），指法院针对规定不一的社会争议性问题，形成一条通用性裁定（适用于所有常规情形），",
+      "width": 0.882478622465811,
+      "x": 0.044871806181624396,
+      "y": 0.8226744185345918
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "具体到本文话题即：就“警察是否可以搜查手机内容/数字信息”做出通用性裁定。",
+      "width": 0.6901709031235006,
+      "x": 0.04487182029722405,
+      "y": 0.8023255812796084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "Particularly 之后以双重否定（refrain from）one that upsets the old assumption（upsets 意力”（以一种",
+      "width": 0.8418803443835473,
+      "x": 0.08333333909740007,
+      "y": 0.7834302329344306
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "导致问题的方式）打乱、破坏”，带贬义色彩）强调加州观点：尤其是不得打破旧有假定。附注：assumption",
+      "width": 0.8824786224658109,
+      "x": 0.047008560839744,
+      "y": 0.7630813952912363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01316098657083331,
+      "text": "本意力 a statement that is assumed to be true and from which a conclusion can be drawn”（认正确、且可",
+      "width": 0.878205107178203,
+      "x": 0.04700856630406078,
+      "y": 0.745639535043143
+    },
+    {
+      "confidence": 1,
+      "height": 0.014604999313453937,
+      "text": "从中衍生推论的）假定，认定”，此处指“没有法律明文规定，也不能确定完全合理，但基于经验/先见/实",
+      "width": 0.8803418648220069,
+      "x": 0.044871795295549376,
+      "y": 0.7252906979053608
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "际需求，在法律层面看作是真实的假定”。本句所述“古老假定（the old assumption）执法当局在逮捕",
+      "width": 0.8803418648220069,
+      "x": 0.044871793828312884,
+      "y": 0.7046936113283853
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "嫌疑人时可搜查其财物”意在保障警察安全以及保全证据，已被普遍认可许多年（虽然对其适用范围的",
+      "width": 0.8803418648220069,
+      "x": 0.044871803956517894,
+      "y": 0.6844850066337218
+    },
+    {
+      "confidence": 1,
+      "height": 0.017633258441591915,
+      "text": "争议同样旷日持久），“不要打破古老假定”即：不要判定“无证搜查嫌疑人手机内容”违宪。",
+      "width": 0.75854697200021,
+      "x": 0.04487181946641919,
+      "y": 0.6642441861621751
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "②句说明加州理由：法官尚难以评估新技术（数字技术）的影响。new and rapidly changing technolo-",
+      "width": 0.8440171020273513,
+      "x": 0.08547008437628154,
+      "y": 0.6438953487348495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "gies、It is hard... to assess the implications Cimplication 意次“可能的影响/后果”）回应上句，展现加州观",
+      "width": 0.8824786224658109,
+      "x": 0.04273504038746498,
+      "y": 0.6249999997897828
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "点：新技术（数字技术等）日新月异、法官难以评估其影响，故不可轻易做出全面性裁定，更不可贸然打破",
+      "width": 0.8803418648220069,
+      "x": 0.044871795295549376,
+      "y": 0.6061046513937329
+    },
+    {
+      "confidence": 1,
+      "height": 0.014951342864950479,
+      "text": "旧有假定。",
+      "width": 0.0920215906886359,
+      "x": 0.04480117123306286,
+      "y": 0.5855475844091758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01765978849229477,
+      "text": "【深层解读】一、本段以“观点引出词十时态”变化，体现“介绍（加州）观点—说明理由”的逻辑：",
+      "width": 0.8440171020273513,
+      "x": 0.0833333295952988,
+      "y": 0.5651890484559953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "①句California has asked 以“情感较中性的ask+现在完成时”陈述加州已向最高法院申明的观点；",
+      "width": 0.8824786224658109,
+      "x": 0.04487181085576948,
+      "y": 0.5462842241516769
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "②句..the state argues 以“情感激烈的 argue十一般现在时”引出支撑上述观点的理由”。同时，本段凸",
+      "width": 0.8803418648220069,
+      "x": 0.04487181143515028,
+      "y": 0.5260756192241303
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "显的“加州言之凿凿”暗示下文将会紧随“作者评论”（且更可能是反驳）。",
+      "width": 0.6089743469589731,
+      "x": 0.04487180692649619,
+      "y": 0.505813953227283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "二、借助词汇关联理解句间、段间关系：本段 the justices 和 judges 同指，均指法官（包括最高法院大",
+      "width": 0.8397435867397434,
+      "x": 0.08547007857457294,
+      "y": 0.48691860447728286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "法官），但前者强调“正义；法官身份”，后者强调“判断；审理过程”（契合本段①②句逻辑）；authorities 本",
+      "width": 0.8803418648220069,
+      "x": 0.044871808919887804,
+      "y": 0.46802325578542225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "义为“（国家或地区的）当权者，当局”，根据其后 their arrest 可知此处指“警方”（回应上段 police）。",
+      "width": 0.8226495841643174,
+      "x": 0.0448717959698355,
+      "y": 0.4476744185155581
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372295434372,
+      "text": "皿 ①The court would be recklessly\" modest® if",
+      "width": 0.376068378821902,
+      "x": 0.08547008584545926,
+      "y": 0.4156976744772828
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "若是听从加州的建议，最高法院那真是“谦虚”",
+      "width": 0.4123931416165577,
+      "x": 0.5085470189139434,
+      "y": 0.4084302322970502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "it followed California's advice.",
+      "width": 0.25641024364390896,
+      "x": 0.04273505029343008,
+      "y": 0.39504563228783773
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011783298954969879,
+      "text": "② Enough of the",
+      "width": 0.1495726396849883,
+      "x": 0.31196581441676524,
+      "y": 0.3982558143966086
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "得不计后果。（现在已经有）足够多的影响可以辨",
+      "width": 0.4465811760549125,
+      "x": 0.4743589820313045,
+      "y": 0.3878748368998145
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "implications are discernable®， even obvious, so that",
+      "width": 0.41666665690416566,
+      "x": 0.04487179988659233,
+      "y": 0.37790697722948874
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "别，甚至很明显，因此法官们能够也应当向警方、律",
+      "width": 0.4465811760549125,
+      "x": 0.47435898015630457,
+      "y": 0.36897001302312094
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013689700130378069,
+      "text": "the justices can and should provide updated",
+      "width": 0.4145298992603617,
+      "x": 0.047008558788622555,
+      "y": 0.35723598431179326
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "师以及被告提供更新的指导原则。",
+      "width": 0.2970085510136756,
+      "x": 0.4743589753264955,
+      "y": 0.35006518881691295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016756887697023437,
+      "text": "guidelines to police, lawyers and defendants®.",
+      "width": 0.36771338640385076,
+      "x": 0.04473415145358572,
+      "y": 0.33656220145014193
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02691076072285037,
+      "text": "•词汇注释与难句分析，以",
+      "width": 0.2679074629712243,
+      "x": 0.3565158075339369,
+      "y": 0.28877348112739665
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095175953,
+      "text": "①recklessly ［'reklsl］ ad. 不考虑后果地",
+      "width": 0.30982906758899653,
+      "x": 0.04487179357373532,
+      "y": 0.2685788785463439
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014887442955603958,
+      "text": "• 经典搭配",
+      "width": 0.11121017690354718,
+      "x": 0.5063607228312823,
+      "y": 0.26871906907235454
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011760559355575406,
+      "text": "②modest ［'mpdist］a. 保守的",
+      "width": 0.2200854662055018,
+      "x": 0.047008546747676516,
+      "y": 0.2529069765559252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014667535232285256,
+      "text": "provide updated guidelines（提供更新的指导性意见）",
+      "width": 0.40170938268504075,
+      "x": 0.5085470209285419,
+      "y": 0.25000000038667314
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "③discernable ［di's3:nobl］a.可辨别的，可认识的",
+      "width": 0.36752134824668603,
+      "x": 0.04487180910315257,
+      "y": 0.23401162804823017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "④defendant ［di'fendont］n.［法］被告人",
+      "width": 0.3012820370137806,
+      "x": 0.04487180451661391,
+      "y": 0.21511627924130183
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020453063885267353,
+      "text": "•语篇分析•》",
+      "width": 0.1538461549725963,
+      "x": 0.4166666648213942,
+      "y": 0.18749999983081111
+    },
+    {
+      "confidence": 1,
+      "height": 0.017762120108871793,
+      "text": "第三段作者反驳加州观点，指出最高法院能够且必须提供更新的指导原则。关键词为：updated",
+      "width": 0.8418803443835472,
+      "x": 0.08760683263728626,
+      "y": 0.1610169493684881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013210256842621892,
+      "text": "guidelines。",
+      "width": 0.09188033706167154,
+      "x": 0.04700854874124403,
+      "y": 0.1438953491419802
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01793057791101882,
+      "text": "①句承上启下，提出反驳：最高法院若采纳加州建议，则是谦虚到不计后果。California's advice 回指",
+      "width": 0.8419880052445717,
+      "x": 0.08542579133104032,
+      "y": 0.12328502118705076
+    },
+    {
+      "confidence": 1,
+      "height": 0.016403731653245823,
+      "text": "上段加州观点。",
+      "width": 0.1325862247518294,
+      "x": 0.04695475219681932,
+      "y": 0.10444348302096584
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "虚拟判断句.would be...if...反向强调作者观点：最高法院万不能采纳加州建议。recklessly（轻",
+      "width": 0.8418803443835473,
+      "x": 0.0854700757996795,
+      "y": 0.08720930254198878
+    },
+    {
+      "confidence": 1,
+      "height": 0.011868575716578178,
+      "text": "23",
+      "width": 0.02564102582876604,
+      "x": 0.8867521369146768,
+      "y": 0.06831395341639035
+    }
+  ],
+  "vision_ocr_text": "①句介绍加州观点。particularly one（=particularly a sweeping ruling）体现语义递进：引出典型事例、\n做进一步强调（重心落于后半句）。\nparticularly 之前先以 A ask B to refrain from sth 结构（refrain from sth 意力 to not to do sth that you\nwant to do“克制住，忍住”）呈现加州站位：建议法官不要作出全面性裁定（暗示基于当前情形，法官很有\n可能会做出此类裁定）。附注：sweeping ruling 为新闻常用表述（取 sweeping 基本含义“影响大的，范围\n广的，彻底的”），指法院针对规定不一的社会争议性问题，形成一条通用性裁定（适用于所有常规情形），\n具体到本文话题即：就“警察是否可以搜查手机内容/数字信息”做出通用性裁定。\nParticularly 之后以双重否定（refrain from）one that upsets the old assumption（upsets 意力”（以一种\n导致问题的方式）打乱、破坏”，带贬义色彩）强调加州观点：尤其是不得打破旧有假定。附注：assumption\n本意力 a statement that is assumed to be true and from which a conclusion can be drawn”（认正确、且可\n从中衍生推论的）假定，认定”，此处指“没有法律明文规定，也不能确定完全合理，但基于经验/先见/实\n际需求，在法律层面看作是真实的假定”。本句所述“古老假定（the old assumption）执法当局在逮捕\n嫌疑人时可搜查其财物”意在保障警察安全以及保全证据，已被普遍认可许多年（虽然对其适用范围的\n争议同样旷日持久），“不要打破古老假定”即：不要判定“无证搜查嫌疑人手机内容”违宪。\n②句说明加州理由：法官尚难以评估新技术（数字技术）的影响。new and rapidly changing technolo-\ngies、It is hard... to assess the implications Cimplication 意次“可能的影响/后果”）回应上句，展现加州观\n点：新技术（数字技术等）日新月异、法官难以评估其影响，故不可轻易做出全面性裁定，更不可贸然打破\n旧有假定。\n【深层解读】一、本段以“观点引出词十时态”变化，体现“介绍（加州）观点—说明理由”的逻辑：\n①句California has asked 以“情感较中性的ask+现在完成时”陈述加州已向最高法院申明的观点；\n②句..the state argues 以“情感激烈的 argue十一般现在时”引出支撑上述观点的理由”。同时，本段凸\n显的“加州言之凿凿”暗示下文将会紧随“作者评论”（且更可能是反驳）。\n二、借助词汇关联理解句间、段间关系：本段 the justices 和 judges 同指，均指法官（包括最高法院大\n法官），但前者强调“正义；法官身份”，后者强调“判断；审理过程”（契合本段①②句逻辑）；authorities 本\n义为“（国家或地区的）当权者，当局”，根据其后 their arrest 可知此处指“警方”（回应上段 police）。\n皿 ①The court would be recklessly\" modest® if\n若是听从加州的建议，最高法院那真是“谦虚”\nit followed California's advice.\n② Enough of the\n得不计后果。（现在已经有）足够多的影响可以辨\nimplications are discernable®， even obvious, so that\n别，甚至很明显，因此法官们能够也应当向警方、律\nthe justices can and should provide updated\n师以及被告提供更新的指导原则。\nguidelines to police, lawyers and defendants®.\n•词汇注释与难句分析，以\n①recklessly ［'reklsl］ ad. 不考虑后果地\n• 经典搭配\n②modest ［'mpdist］a. 保守的\nprovide updated guidelines（提供更新的指导性意见）\n③discernable ［di's3:nobl］a.可辨别的，可认识的\n④defendant ［di'fendont］n.［法］被告人\n•语篇分析•》\n第三段作者反驳加州观点，指出最高法院能够且必须提供更新的指导原则。关键词为：updated\nguidelines。\n①句承上启下，提出反驳：最高法院若采纳加州建议，则是谦虚到不计后果。California's advice 回指\n上段加州观点。\n虚拟判断句.would be...if...反向强调作者观点：最高法院万不能采纳加州建议。recklessly（轻\n23",
+  "pdf_text_layer": "①旬介绍加州观点。 particularly one ( = particularly a sweeping ruling ）体现语义递进：引出典型事例、\n做进 一 步强调 （ 重心落于后半旬） 。\n     parti c t』 l arl y 之前先 以 A ask B to refrain from s t h 结构（ refr a in from st h 意为 to not to do s th that yo u\nwa nt to do “克制住，忍住” ）呈现 加州站 位：建议法官 不要作出 全 面性 裁定（暗示基于当前情形，法官很有\n可能 会 做出此 类裁定） 。 附 注： sweep in g ru lin g 为新 闻常用 表 述（取 sweep ing 基本含义“影 响大的，范围\n广的，彻底的勺，指法院针对规定不 一 的杜 会争 议性问题，形成 一条 通用性裁定（适用于所有常规情形），\n具体 到 本文话题 目fl ： 就“警察是否 可以 搜查手 机内 容 ／ 数 字信息 ”做出通用性裁定 。\n     part i c ularl y 之后以双重否定（ r efr a i 口 fro m)on e that upsets t he o ld ass umption( up sets 意为“（ 以 一 种\n导致 问 题的方式）打乱、破坏飞带贬义色彩）强调加｜州观 点：尤其是不得打破旧有假定 。 附 注 ： ass umption\n本意为 a s tatem ent that is ass um ed to be tru e a nd from wh ich a conclu s ion can be drawn“（认为正确、且可\n从中衍 生推论 的）假 定，认定”， 此处指“ 没有法律明文规定， 也不能确 定完全合理，但基于经验 ／ 先见 ／ 实\n际需求，在法律层面 看 作 是真实 的｛固 定” 。 本句所述“ 古老假 定（ th e old ass umpti o n ） 一一 执法当局在逮捕\n嫌疑人时可搜查其财物” 意在保障警察安全 以 及保全证据，已被普遍认可许多年（虽然对其适用范围的\n争议 同样旷日持 久），“不要打破古老｛固定” 即： 不要判定“无证搜查嫌疑人手 机内 容”违宪 。\n     ②旬说明加州理由：法官尚难以评估新技术（数字技术）的影晌 。 n ew and rapid ly cha nging t ec hnolo\ng ies , It is ha rd ... to assess the impli ca tions ( im p li cat i o n 意为“ 可能的 影 响 ／后果”）回应上句，展现 加州观\n点 ： 新技术（数字技术 等） 日新月异、法 官难 以评价 其影 响，故 不可轻易 做出 全丽性裁定，更不 可贸 然 打破\n旧有假定 。\n     【深层解读1 一、本段以“观点引出词＋时态”变化，体现“介绍（加州）观点一一说明理由”的逻辑 ：\n① 句 Ca li fornia has as k ed 以“ 情感较中性的 as k ＋ 现在完成时”陈述加州已向 最高法 院申明的观点 ；\n② 句. .. the state a rgu es 以 “情感激烈 的 arg u e ＋一 般现在时”引出支撑上述观点的理由” 。 同时，本段凸\n显的“加州言之凿凿”暗示下文将会紧随“作者评论” （且更 可能是反驳 ） 。\n     二、借助词汇关联理解旬闽、段间关系 ： 本段 the j u s ti ccs 和I jud ges 同 指，均指 法官（包括最高法院大\n法官），但前者强调“正义；法官身份”，后 者 强调“判断；审理过程”（契合本段 ①② 句逻辑 ） ; a uthoriti es 本\n义为“（国家或地 区 的） 当 权 者 ，当局”，根据其 后 th e i r arrest 可知 此处 指“警方”（回应上段 po li ce ） 。\n\n\n      - 0The court wo uld be recklessly( modest® if\n                                                                   若是听从加州的建议，最高法院那真是“谦虚”\nit follo wed Cali fornia ’ s advice.    8 Enough of the        得不计后采 。 （现在已经有〉足够多的影响可以辨\nimpli cations are discernable® , even obvious, so that\n                                                               别，甚至很明显，因此！ 法官们能够也应当向警方、律\nthe justices    can    and    shou ld    provide   upd a t巳d\n                                                               师以及被告提供更新的指导原则 。\ng uidelines to police, l awy巳rs and defendants( .\n\n\n                                            c：：：词汇注：每当难匈牙析：. : ; /\n( recklessly [ 'rek1Isl1 ] ad. 不考虑后果地                          $ ．经典搭配\n( modest [ ' mod 时］ ι 保守的                                      ！ 阴〈〉、，id巳 upc\n( discernable [ d1 1s3:nabJ ］ ι 可辨 别的 ， 可认识的\n( defendant [ d1 'fendant] n. ［ 法 ］ 被告人                        ;\n                                                   ：＿： •：：董事分析：• ：： 1'\n      第三段作者反驳加州观点，指出最高法院能够且必须提供更新的指导原则。关键词为： updated\nguidelines 。\n\n     ①旬承上启下，提出反驳：最高法院若采纳加州建议，则是谦虚到不计后果 。 California’s advice 回指\n上段加州观点。\n     虚拟判断句... wo uld be ... if. . .反向强调作者观点 ． 最高法 院万不能采纳加 州 建议 。 r eckl ess l y （轻\n                                                                                                             23",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 2090,
+    "pdf_text_character_count": 2975,
+    "nonempty": true
+  }
+}

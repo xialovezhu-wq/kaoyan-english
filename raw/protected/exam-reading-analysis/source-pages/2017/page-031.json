@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P031",
+  "year": 2017,
+  "pdf_page": 31,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "［技巧总结］本题就“开篇所引人物话语”设置写作目的题，间接考查“人物观点”与“文章主旨/作者",
+      "width": 0.8397435447722102,
+      "x": 0.09188036588312558,
+      "y": 0.9067796609727289
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "观点”的关系。解题时应首先分析开篇段句际逻辑、初步得出正确项；随后借助下文进行检验、最终确定",
+      "width": 0.8803418623533286,
+      "x": 0.05128206577846382,
+      "y": 0.8865710559906765
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768442424988026,
+      "text": "答案。需注意选项陷阱：文中特殊句式、与人物观点无直接关系的文中内容。",
+      "width": 0.6495726135955461,
+      "x": 0.051282077336842195,
+      "y": 0.8662790696650822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "具体来看，首先可发现第一段逻辑“①句介绍 Kennedy 观点（GDP 有重大缺陷）——②句以英国脱",
+      "width": 0.8418803014061004,
+      "x": 0.08974360296504112,
+      "y": 0.8487614081721504
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "欧事件提出应认真考量 Kennedy 观点”，初步确定本文开篇属于“正向援引”，目的在于借他人话语表明",
+      "width": 0.8824786189872187,
+      "x": 0.049145294860023434,
+      "y": 0.828488371937312
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "作者探讨对象，［D］很可能正确。再粗略浏览后文（尤其是第二段）进行验证，可确定答案 ［D］。［A］利",
+      "width": 0.8803418623533286,
+      "x": 0.0512820665644834,
+      "y": 0.8081395348551899
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014536778650196758,
+      "text": "用与肯尼迪观点没有直接关系的内容形成干扰，LB］利用特否定句式 except that which...制造陷阱，",
+      "width": 0.8824786189872187,
+      "x": 0.05128206538174663,
+      "y": 0.7892441863743531
+    },
+    {
+      "confidence": 1,
+      "height": 0.016304842340899572,
+      "text": "［C］错误理解②句所暗示的作者态度，均排除。",
+      "width": 0.39529912955916247,
+      "x": 0.04914531096828196,
+      "y": 0.7685788787050735
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013257633442984362,
+      "text": "II① The question of GDP and its usefulness has",
+      "width": 0.45085468511471805,
+      "x": 0.09401709625140184,
+      "y": 0.7383720930554976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013354279693444382,
+      "text": "GDP 及其效用问题已困扰政策制定",
+      "width": 0.3205128227613895,
+      "x": 0.6068376089184505,
+      "y": 0.7311046513222127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "annoyed®policymakers for over half a century. ② Many",
+      "width": 0.49358973009832974,
+      "x": 0.051282054416647155,
+      "y": 0.7177314213533481
+    },
+    {
+      "confidence": 1,
+      "height": 0.017705269556157477,
+      "text": "者们半个多世纪。很多人坚称这是个有缺",
+      "width": 0.36111111111111116,
+      "x": 0.5662393198985042,
+      "y": 0.707848837542989
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "argue that it is a flawed® concept. ③ It measures things",
+      "width": 0.4935897300983298,
+      "x": 0.051282056852544576,
+      "y": 0.6975228160187679
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "陷的概念。它衡量并不重要的东西，却遺",
+      "width": 0.35897435447722104,
+      "x": 0.5683760742143809,
+      "y": 0.6875000000005387
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013092765907576132,
+      "text": "that do not matter and misses things that do. ④ By most",
+      "width": 0.49358973009832974,
+      "x": 0.05128206340525086,
+      "y": 0.6773142109678856
+    },
+    {
+      "confidence": 1,
+      "height": 0.01457657434794235,
+      "text": "漏真正重要的东西。根据最新评估，英国",
+      "width": 0.35897435447722104,
+      "x": 0.5662393154964322,
+      "y": 0.6686046513937329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013316378910507298,
+      "text": "recent measures, the UK's GDP has been the envy of the",
+      "width": 0.4893162168305495,
+      "x": 0.05128206864134896,
+      "y": 0.6555232559552069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "的GDP一直是西方世界美慕的对象，失业",
+      "width": 0.36111111111111105,
+      "x": 0.566239320753205,
+      "y": 0.6479791393603687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "Western world, with record®low unemployment and high",
+      "width": 0.4914529734644397,
+      "x": 0.05341881214598534,
+      "y": 0.6349413296479058
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631052708532532,
+      "text": "率有史以来最低，增长值有史以来最高。",
+      "width": 0.3632478677450013,
+      "x": 0.5662393176232258,
+      "y": 0.6264534882854224
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013174251596184794,
+      "text": "growth figures. 5 If everything was going so well, then",
+      "width": 0.49358973009832974,
+      "x": 0.05128206419762983,
+      "y": 0.6147327251157595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "倘若一场都进展得如此喜人，那何尽管",
+      "width": 0.35897435447722104,
+      "x": 0.5662393148981417,
+      "y": 0.607558139751291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013085185626650508,
+      "text": "why did over 17 million people vote for Brexit, despite the",
+      "width": 0.4935897300983297,
+      "x": 0.051282049801262754,
+      "y": 0.5944767442001198
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "已有警示表明脱欧将会影响本国经济，还",
+      "width": 0.356837597843331,
+      "x": 0.5705128285783344,
+      "y": 0.5872093027164074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "warnings about what it could do to their country's",
+      "width": 0.49358973009832974,
+      "x": 0.05128206575567816,
+      "y": 0.5741279075226089
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014625845241422297,
+      "text": "是有1700多万人投票支持脱欧？",
+      "width": 0.2820512618141613,
+      "x": 0.5662393253963383,
+      "y": 0.5668604652382097
+    },
+    {
+      "confidence": 1,
+      "height": 0.013689700130378069,
+      "text": "economic prospects？",
+      "width": 0.1709401653187485,
+      "x": 0.05128205345173687,
+      "y": 0.553455019691316
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20512819838249824,
+      "x": 0.36538462080875084,
+      "y": 0.5130378097929432
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "①annoy ［s'noi］v.使恼怒，使生气",
+      "width": 0.267094023839724,
+      "x": 0.04914529310150552,
+      "y": 0.48691860489663985
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "①be the envy of（是令某人羡慕/嫉妒的事物）",
+      "width": 0.35897435447722104,
+      "x": 0.5149572657528425,
+      "y": 0.4869186048094306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01319699181727041,
+      "text": "②flawed ［flo:d］a.有错误的，有缺点的",
+      "width": 0.2970085290199952,
+      "x": 0.04914530566450382,
+      "y": 0.46936114757030367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01319699181727052,
+      "text": "② vote for（投票支持）",
+      "width": 0.17521366397083027,
+      "x": 0.5149572683885164,
+      "y": 0.4693611475763598
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014659955573050887,
+      "text": "③ record ［'rekoird］a. 创纪录的，空前的",
+      "width": 0.309829039591939,
+      "x": 0.04914531172112445,
+      "y": 0.45045632333844887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013356174608253002,
+      "text": "③ economic prospect（经济前景）",
+      "width": 0.25,
+      "x": 0.5192307717307691,
+      "y": 0.4517601044474413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013352384778635762,
+      "text": "• 经典搭配",
+      "width": 0.1068376051511801,
+      "x": 0.0512820510568886,
+      "y": 0.427325581409422
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01484068182953957,
+      "text": "•语篇分析",
+      "width": 0.10052203766687623,
+      "x": 0.41875607392880515,
+      "y": 0.39810291482268567
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01765789357748626,
+      "text": "第二段正式入题：回顾多年来政策制定者对 GDP 的质疑，并聚焦当前英国脱欧、指出GDP 确有误导",
+      "width": 0.8418803014061004,
+      "x": 0.09188036344224892,
+      "y": 0.3689700131091759
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "性。关键词为：a flawed concept。",
+      "width": 0.27564102114388767,
+      "x": 0.0534188079643809,
+      "y": 0.3500651888411378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "①②③句回溯政策制定者对 GDP 的长期质疑（言外深意：“GDP 有严重缺陷”是众多政策制定者多年",
+      "width": 0.8418803014061003,
+      "x": 0.09188035510179321,
+      "y": 0.3311603649160516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "反思沉淀得出的结论）。两组代词回指 GDP...its...it...It.../policymakers... Many （policymakers）...及",
+      "width": 0.8782051057194384,
+      "x": 0.05341882093454208,
+      "y": 0.30959302322728277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "一组“缺陷”相关词汇 annoyed...flawed...misses...在三句间形成语意递进。",
+      "width": 0.6474358569616558,
+      "x": 0.04914532747536845,
+      "y": 0.2892441859271374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "①句概述指出GDP 及其效用问题已经困扰政策制定者多年。has annoyed policymakers、for over",
+      "width": 0.8440170580399904,
+      "x": 0.09188036830906451,
+      "y": 0.27034883715170144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "half a century 将首段“肯尼迪对 GDP的质疑”提升到“众多政策制定者长期备受困扰的问题”，实现话题",
+      "width": 0.8824786189872187,
+      "x": 0.049145298537017566,
+      "y": 0.2514534886030352
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "延展并凸显问题严重性。",
+      "width": 0.21153845366847013,
+      "x": 0.05128205733243158,
+      "y": 0.22946544986234152
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014648585462508024,
+      "text": "②句进一步说明政策制定者观点：GDP 概念本身便有缺陷。Many（policymakers）凸显 GDP质疑者",
+      "width": 0.8397435447722102,
+      "x": 0.09188035386923699,
+      "y": 0.2122093025565236
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "众多。argue（“论证，争辩”）蕴含强烈辩驳色彩，暗示反方观点存在（指向唯GDP论的多年盛行）。a",
+      "width": 0.8846153756211088,
+      "x": 0.04914529586465948,
+      "y": 0.1903520208451911
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014599314569028188,
+      "text": "flawed concept 追根溯源，直截了当指出 GDP概念本身就有缺陷。",
+      "width": 0.5598290688233356,
+      "x": 0.04914530024645168,
+      "y": 0.1714471967552621
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014608789764762431,
+      "text": "③句进而明确 GDP缺陷：衡量并不重要的东西，却遗漏真正重要的东西。measures things that do",
+      "width": 0.8397436032350035,
+      "x": 0.0940170932695555,
+      "y": 0.1525423727846109
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "not matter VS misses things that do （matter）以“对仗工整”和“省略表达”形成强对比，回应首段",
+      "width": 0.8824786189872186,
+      "x": 0.049145297066219916,
+      "y": 0.1322674416284455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "measures “everything except that which makes life worthwhile.”，凸显 GDP的舍本逐末。",
+      "width": 0.758546968072767,
+      "x": 0.049145326967889896,
+      "y": 0.1119186045644921
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "④⑤句聚焦当下英国脱欧事件，正面质疑 GDP：它所反映的繁荣景象带有虚假性、误导性。两句间",
+      "width": 0.8376068466011135,
+      "x": 0.094017095502862,
+      "y": 0.09302325578542225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "以 If everything was going so well（“假设条件句”辅以“so的强调回指功能”）实现“说明数据所呈现情",
+      "width": 0.8803418623533286,
+      "x": 0.0512820514729084,
+      "y": 0.07412790677379455
+    },
+    {
+      "confidence": 1,
+      "height": 0.011951957563377857,
+      "text": "31",
+      "width": 0.021367520664843598,
+      "x": 0.895299145745451,
+      "y": 0.053455019246330115
+    }
+  ],
+  "vision_ocr_text": "［技巧总结］本题就“开篇所引人物话语”设置写作目的题，间接考查“人物观点”与“文章主旨/作者\n观点”的关系。解题时应首先分析开篇段句际逻辑、初步得出正确项；随后借助下文进行检验、最终确定\n答案。需注意选项陷阱：文中特殊句式、与人物观点无直接关系的文中内容。\n具体来看，首先可发现第一段逻辑“①句介绍 Kennedy 观点（GDP 有重大缺陷）——②句以英国脱\n欧事件提出应认真考量 Kennedy 观点”，初步确定本文开篇属于“正向援引”，目的在于借他人话语表明\n作者探讨对象，［D］很可能正确。再粗略浏览后文（尤其是第二段）进行验证，可确定答案 ［D］。［A］利\n用与肯尼迪观点没有直接关系的内容形成干扰，LB］利用特否定句式 except that which...制造陷阱，\n［C］错误理解②句所暗示的作者态度，均排除。\nII① The question of GDP and its usefulness has\nGDP 及其效用问题已困扰政策制定\nannoyed®policymakers for over half a century. ② Many\n者们半个多世纪。很多人坚称这是个有缺\nargue that it is a flawed® concept. ③ It measures things\n陷的概念。它衡量并不重要的东西，却遺\nthat do not matter and misses things that do. ④ By most\n漏真正重要的东西。根据最新评估，英国\nrecent measures, the UK's GDP has been the envy of the\n的GDP一直是西方世界美慕的对象，失业\nWestern world, with record®low unemployment and high\n率有史以来最低，增长值有史以来最高。\ngrowth figures. 5 If everything was going so well, then\n倘若一场都进展得如此喜人，那何尽管\nwhy did over 17 million people vote for Brexit, despite the\n已有警示表明脱欧将会影响本国经济，还\nwarnings about what it could do to their country's\n是有1700多万人投票支持脱欧？\neconomic prospects？\n•词汇注释与难句分析\n①annoy ［s'noi］v.使恼怒，使生气\n①be the envy of（是令某人羡慕/嫉妒的事物）\n②flawed ［flo:d］a.有错误的，有缺点的\n② vote for（投票支持）\n③ record ［'rekoird］a. 创纪录的，空前的\n③ economic prospect（经济前景）\n• 经典搭配\n•语篇分析\n第二段正式入题：回顾多年来政策制定者对 GDP 的质疑，并聚焦当前英国脱欧、指出GDP 确有误导\n性。关键词为：a flawed concept。\n①②③句回溯政策制定者对 GDP 的长期质疑（言外深意：“GDP 有严重缺陷”是众多政策制定者多年\n反思沉淀得出的结论）。两组代词回指 GDP...its...it...It.../policymakers... Many （policymakers）...及\n一组“缺陷”相关词汇 annoyed...flawed...misses...在三句间形成语意递进。\n①句概述指出GDP 及其效用问题已经困扰政策制定者多年。has annoyed policymakers、for over\nhalf a century 将首段“肯尼迪对 GDP的质疑”提升到“众多政策制定者长期备受困扰的问题”，实现话题\n延展并凸显问题严重性。\n②句进一步说明政策制定者观点：GDP 概念本身便有缺陷。Many（policymakers）凸显 GDP质疑者\n众多。argue（“论证，争辩”）蕴含强烈辩驳色彩，暗示反方观点存在（指向唯GDP论的多年盛行）。a\nflawed concept 追根溯源，直截了当指出 GDP概念本身就有缺陷。\n③句进而明确 GDP缺陷：衡量并不重要的东西，却遗漏真正重要的东西。measures things that do\nnot matter VS misses things that do （matter）以“对仗工整”和“省略表达”形成强对比，回应首段\nmeasures “everything except that which makes life worthwhile.”，凸显 GDP的舍本逐末。\n④⑤句聚焦当下英国脱欧事件，正面质疑 GDP：它所反映的繁荣景象带有虚假性、误导性。两句间\n以 If everything was going so well（“假设条件句”辅以“so的强调回指功能”）实现“说明数据所呈现情\n31",
+  "pdf_text_layer": "［技巧总结］ 本题就“开篇所引人物话语”设置写作目的题，间接考查“人物观点”与 “ 文章主旨 ／作者\n观点”的关系 。 解题时应首先分析开篇段句际逻辑、初步得出正确项；随后借助下文进行检验、最终确定\n答案 。需 注意选项陷阱 ： 文中特殊句式、与人物观点无直接关系的文中内容 。\n      具体来看，首先可发现第一段逻辑“①句介绍 Kennedy 观点 CGDP 有重大缺陷）                                               ② 句以英国脱\n欧 事 件提出应认 真考量 K e nn e d y 观点”， 初步确定本文开篇属于 “正 向援引”，目的在于借他人话语表明\n作者探讨对象， ［ DJ 很可能正确。再粗 略浏览后文（尤其是第 二 段）进行验证，可确定答案为 ［ DJ 。［ A ］ 利\n用与肯尼迪观点没有 直接关系 的内容形成干扰， ［ BJ 利用特殊否定句式 except that which ...制 造陷阱，\n[CJ 错误理解②句所暗示的作者态度，均排除 。\n\n\n      !L O The quest ion of GDP and its u s巳fuln ess has                     GDP 及其效用问题已困扰政策制定\nannoyed(     policymakers for over half a century. @ Many\n                                                                           者们半个多世纪。很多人坚称这是个有缺\nargue that it is a flawed ® concept. @ It measures things\n                                                                           陷的概念 。 它衡量并不重要的东西，却遗\nthat do not matter and misses things that do. 。 By most\n                                                                           漏真正重要的东西。根据最新许估，英国\nrecent meas ures , the UK ’ s GDP has been t he envy of the\n                                                                           的 GDP 一直是西方世界羡慕的对象，失业\nWest ern wo rld , with record® low unemploym ent and high\n                                                                           率有史以来最低，增长位有史以来最高 。\ngrowth figur es.        0 If everything was going so well, then            倘若一切都进展得如此喜人，那为何尽管\nwhy did over 17 million peop le vo te for Brexit, despite th e\n                                                                           已有警示表明脱欧将会影响本国经济，还\nwarnings a bout what it could do            to   their   co u 口 tr y ' s\n                                                                           是有 1700 多万人投票支持脱欧？\neconomic prospects?\n\n\n                                          ；：？词汇注释与在：旬分析：：~： ： J\n( annoy [c>1 nor] v .   使恼怒，使生气                              \\\\    ( be th e envy of （是令某人羡慕／嫉妒的事物）\n( flawed [ flo:d ］ α ．有错误 的，有缺点的                             ~ b叫or （投票支持）\n( record [ 1reko:rd ］ α ．创纪录的， 空 前的                          \\\\    ( economic prospect （经济前景）\n\n．经典搭配                                                       !\n                                                 ： ·语篇分析； J\n      第二段正式入题：回顾多年来政策制定者对 GDP 的质疑，并聚焦当前英国脱欧、指出 GDP 确有误导\n性。关键词为： a flawed concept 。\n      ①②③ 旬回溯政策制定者对 GDP 的长期质疑（言外深意：“ GDP 有严重缺陷”是众多政策制定者多年\n反思沉淀得出的结论）。 两组代同回指 GDP ... its . . . it .. . It. .. / policymakers . .. Many (policymakers) .. . 及\n一组“ 缺陷”相 关词汇 annoyed . .. fl awed ... mi sses . ..在 三 句间形成语 意递进。\n      ① 旬概述指出 GDP 及其效用问题已经困扰政策制定者多年。 h as annoyed policymak e rs 、 for over\nhalf a century 将首段“肯尼迪对 GDP 的质疑”提升到“众多政策制定者长期备受困扰的问题”，实现话题\n延展并凸显问题严 重 性 。\n      ② 旬进一步说明政策制定者观点： GDP 概念本身便有缺陷。 Many( po l icymak e rs ）凸显 GDP 质疑者\n众多 。 argue （“论证，争辩”）蕴含强烈辩驳色彩，暗示反方观点存在（指向唯 GDP 论的多年盛行） 。 a\nfl awed concept 追根溯源，直截了当指出 GDP 概念本身就有缺陷 。\n      ① 旬进而明确 GDP 缺陷：衡量并不重要的东西，却遗漏真正重要的东西。 m easures things that do\nnot matter VS mi sses things that do (matter ）以“ X才仗工整”和“省略表达”形成强对比，回应首段\nmea s ures “ everyt hing except that which makes life worthwh il e . ”，凸显 GDP 的舍本逐末 。\n      ④⑤ 旬聚焦当下英国脱欧事件，正面质疑 GDP ：它所反映的繁荣景象带有虚假性、误导性。 两句间\n以 If everything was going so well （“假设条件句”辅以“ so 的强调回指功能”）实现“说明数据所呈现情\n                                                                                                      31",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 2072,
+    "pdf_text_character_count": 3304,
+    "nonempty": true
+  }
+}

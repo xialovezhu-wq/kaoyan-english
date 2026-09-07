@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P043",
+  "year": 2018,
+  "pdf_page": 43,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017729529490073448,
+      "text": "方面强调利益集团之多、阻挠改革力量之强VS一方面强调USPS实施现代化极其必要、刻不容缓”，暗",
+      "width": 0.8824786189872186,
+      "x": 0.04487179279271565,
+      "y": 0.9212239586361716
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "示下文将会出现新情形。",
+      "width": 0.2115384536684701,
+      "x": 0.04487180056961106,
+      "y": 0.901041666534388
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023765238622824314,
+      "text": "•真题精解•送",
+      "width": 0.15828041281279936,
+      "x": 0.4101760340836901,
+      "y": 0.8703848223514685
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157098243633869,
+      "text": "37.According to Paragraph 2, the USPS fails to modernize",
+      "width": 0.5042735132677801,
+      "x": 0.05555555946297576,
+      "y": 0.8444010414268129
+    },
+    {
+      "confidence": 1,
+      "height": 0.020409399022658592,
+      "text": "37.根据第二段，USPS 未能实现现代化",
+      "width": 0.3632478677450012,
+      "x": 0.5555555506574139,
+      "y": 0.841569767353885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01041666666666663,
+      "text": "itself due to",
+      "width": 0.0982905932313181,
+      "x": 0.08547008701681962,
+      "y": 0.826822916550675
+    },
+    {
+      "confidence": 1,
+      "height": 0.01680019497871399,
+      "text": "是由于",
+      "width": 0.06241004037674358,
+      "x": 0.6044787409399844,
+      "y": 0.8237219956007396
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418489138248,
+      "text": "。",
+      "width": 0.014957264465390474,
+      "x": 0.7222222226551253,
+      "y": 0.8226744187532506
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327822171151638,
+      "text": "［A］ the interference from interest groups",
+      "width": 0.3525640845755508,
+      "x": 0.05555555867376326,
+      "y": 0.8037790696803283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "［A］ 利益集团的干涉",
+      "width": 0.18589743252458246,
+      "x": 0.5726495756638382,
+      "y": 0.8020833332038603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013096535578370094,
+      "text": "［B］ the inadequate funding from Congress",
+      "width": 0.35683759784333097,
+      "x": 0.05555556362106951,
+      "y": 0.780523255843119
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "［B］ 国会提供资金不足",
+      "width": 0.20085469973041636,
+      "x": 0.572649571956373,
+      "y": 0.7790697672916357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013187378644943237,
+      "text": "［C］ the shrinking demand for postal service",
+      "width": 0.36965810841527474,
+      "x": 0.055555564873559116,
+      "y": 0.7571614586224029
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "［C］ 邮政服务需求萎缩",
+      "width": 0.20085469973041636,
+      "x": 0.572649574885504,
+      "y": 0.7558139538209505
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "［D］ the incompetence of postal unions",
+      "width": 0.32478630679777304,
+      "x": 0.05555556779769462,
+      "y": 0.7337239585357682
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014973958333333481,
+      "text": "［D］邮政工会的无能",
+      "width": 0.18162393387250064,
+      "x": 0.572649572822602,
+      "y": 0.7324218749675435
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "［精准定位］第二段指出，由于各利益集团向国会施压、要求保护现状，近年来立法改革频频失败，导",
+      "width": 0.8418803598688936,
+      "x": 0.0833333190773053,
+      "y": 0.7063802084863298
+    },
+    {
+      "confidence": 1,
+      "height": 0.0174418600896995,
+      "text": "致邮政局无力偿还债务、唯有推迟现代化。可见［A］正确。",
+      "width": 0.49572648673221986,
+      "x": 0.0448718042834626,
+      "y": 0.6845930232691038
+    },
+    {
+      "confidence": 1,
+      "height": 0.017623546222845565,
+      "text": "［命题解密］正确项［A］是对第二段因果链的合理概括。",
+      "width": 0.47649570625860577,
+      "x": 0.08119659727133804,
+      "y": 0.6640625001010738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "［B］将第二段信息 Congress、the Postal Service unable to pay its bills 杂糅，主观推断出“国会援助资",
+      "width": 0.8418803014061003,
+      "x": 0.08333334755702312,
+      "y": 0.6451822917383834
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "金不足”，但文章并未提及“国会资金援助”。［C］将首段⑤句 decreased demand for its... product 以及第",
+      "width": 0.8803418623533286,
+      "x": 0.04487181120225304,
+      "y": 0.6249999999981521
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "二段②句 whatever else happens to the Postal Service 关联，主观得出“邮政服务需求减少导致USPS未",
+      "width": 0.8803418623533286,
+      "x": 0.04487179506265212,
+      "y": 0.6046511626023188
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630632268885779,
+      "text": "能进行现代化”，但这只是在退步说明“无论邮政服务境况如何（利益集团都要求保护与其利益相关的现",
+      "width": 0.8803418623533286,
+      "x": 0.04487179652988862,
+      "y": 0.5839843749874087
+    },
+    {
+      "confidence": 1,
+      "height": 0.017578125,
+      "text": "状）”，并未触及第二段所示真正原因。［D与第二段因果逻辑“邮政工会向国会施压一立法改革失败”中",
+      "width": 0.8803418623533285,
+      "x": 0.044871812669489426,
+      "y": 0.5625000003039875
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "传递的“邮政工会极具影响力”之意完全相悖。",
+      "width": 0.38888888888888895,
+      "x": 0.04487179811253558,
+      "y": 0.5421511627161755
+    },
+    {
+      "confidence": 1,
+      "height": 0.017759810512264496,
+      "text": "［技巧总结］本题就“涉及多个主体之间复杂关系的段落”命制因果事实题。解题关键在于借助状语",
+      "width": 0.8440170580399904,
+      "x": 0.0811965886349195,
+      "y": 0.5214843752738643
+    },
+    {
+      "confidence": 1,
+      "height": 0.01759326520065474,
+      "text": "功能、逻辑关联词、指代关系等，理解各主体之间关系，明确因果关系网。注：“与文中事实相反”以及“虽",
+      "width": 0.8782051057194384,
+      "x": 0.04487179879626382,
+      "y": 0.5013020833761717
+    },
+    {
+      "confidence": 1,
+      "height": 0.017744670311609978,
+      "text": "为文中事实、但和主干不存在因果关系”的选项均排除。",
+      "width": 0.4700854655883322,
+      "x": 0.04487179124429564,
+      "y": 0.4796511629420689
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "具体来看，解题关键在于借助 This is why（this 指代①句）、leaving（引导结果状语）、A exert pressure",
+      "width": 0.8440170580399904,
+      "x": 0.08547011189880806,
+      "y": 0.46075581393952814
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118186732137,
+      "text": "on B（A 向B施压等）描绘多个主体“利益集团、国会、USPS等”之间关系，明确其间因果关系，得出［A］",
+      "width": 0.8846153756211088,
+      "x": 0.04273503617448865,
+      "y": 0.4401041669293423
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "正确。［D］与文中事实相反，［C］虽为文中事实但并非原因、［B］则捏造信息 funding，均排除。",
+      "width": 0.7841879892166547,
+      "x": 0.04487182715983485,
+      "y": 0.4199218751406616
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715466,
+      "text": "1 Now comes word that everyone involved -",
+      "width": 0.4102563967649964,
+      "x": 0.11752137939527946,
+      "y": 0.380813953564776
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "现在有消息称，所涉各方—民主党、",
+      "width": 0.33333333333333337,
+      "x": 0.5897435925213674,
+      "y": 0.3735465119120357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013232800488670704,
+      "text": "Democrats, Republicans, the Postal Service, the unions",
+      "width": 0.48076921952638585,
+      "x": 0.04700854782227723,
+      "y": 0.3604651161919562
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "共和党、邮政局、各工会以及邮政系统的极",
+      "width": 0.3696581084152748,
+      "x": 0.5512820595438889,
+      "y": 0.3515624999201692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "and the system's heaviest users—has finally agreed on a",
+      "width": 0.485042732794166,
+      "x": 0.044871804080124714,
+      "y": 0.3398437498798338
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "重度用户——终于就一项“解决系统问题的",
+      "width": 0.3717948650491648,
+      "x": 0.5491453033728535,
+      "y": 0.3326822913900306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "plan to fix the system. ② Legislation is moving through",
+      "width": 0.4807692195263859,
+      "x": 0.0470085480359524,
+      "y": 0.31831395360292714
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "方案”达成一致。法规正在众议院接受审",
+      "width": 0.3696581084152748,
+      "x": 0.5512820595438889,
+      "y": 0.31104651163471075
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011779311423500305,
+      "text": "the House that would save USPS an estimated $28.6",
+      "width": 0.4807692195263859,
+      "x": 0.04700855743766168,
+      "y": 0.2994186050704716
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "议，该法规会在五年中使 USPS 节省约286",
+      "width": 0.37393162168305494,
+      "x": 0.5491452976876747,
+      "y": 0.2906976741987335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011945857355991962,
+      "text": "billion over five years, which could help pay for new",
+      "width": 0.4807692195263859,
+      "x": 0.04700855863958468,
+      "y": 0.2790697678466344
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "亿美元，可帮助负担新运输工具以及其它使",
+      "width": 0.37393162168305494,
+      "x": 0.5470085452749257,
+      "y": 0.2701822916112032
+    },
+    {
+      "confidence": 1,
+      "height": 0.012251608694593075,
+      "text": "vehicles®",
+      "width": 0.07286052776935914,
+      "x": 0.046903069838559845,
+      "y": 0.25986256815642717
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338783755898476,
+      "text": "，among other survival measures. ③ Most of the",
+      "width": 0.4102563967649964,
+      "x": 0.11965813324143319,
+      "y": 0.2584635418641609
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "其得以存活的措施。这笔资金中的大部分",
+      "width": 0.3717948650491649,
+      "x": 0.5491452978707169,
+      "y": 0.24999999985885957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01171875,
+      "text": "money would come from a penny-per-letter permanent",
+      "width": 0.4807692195263859,
+      "x": 0.04700855743766168,
+      "y": 0.23828124975510967
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "将来自于每封信1美分的永久性邮资费率",
+      "width": 0.3717948650491648,
+      "x": 0.5491452994198621,
+      "y": 0.23110465135002034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013096535578370094,
+      "text": "rate increase and from shifting postal retirees® into",
+      "width": 0.4807692195263859,
+      "x": 0.04700855743766168,
+      "y": 0.21802325587218885
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "上调，以及将邮政退休人员转入“联邦医保",
+      "width": 0.3696581084152747,
+      "x": 0.5512820546776903,
+      "y": 0.2107558140922684
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371024529102,
+      "text": "Medicare. ④ The latter step would largely offset®the",
+      "width": 0.4807692195263859,
+      "x": 0.04700855907583816,
+      "y": 0.197674419405371
+    },
+    {
+      "confidence": 1,
+      "height": 0.01759326520065474,
+      "text": "计划”。后一举措将大幅抵消每年预付退休",
+      "width": 0.3696581084152747,
+      "x": 0.5512820539761233,
+      "y": 0.18880208362326478
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "financial burden of annually pre-funding® retiree health",
+      "width": 0.4807692195263859,
+      "x": 0.047008554702618964,
+      "y": 0.17708333362307338
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333337,
+      "text": "人员医保造成的财政负担，并由此化解",
+      "width": 0.3717948650491648,
+      "x": 0.549145303971144,
+      "y": 0.1699218747391381
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610586067040798,
+      "text": "care, thus addressing® a long-standing®complaint by the",
+      "width": 0.482905976160276,
+      "x": 0.047008558429833286,
+      "y": 0.15690104162848162
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "USPS及其工会长久以来的抱怨。",
+      "width": 0.2841880184480514,
+      "x": 0.5512820619511878,
+      "y": 0.14825581370697005
+    },
+    {
+      "confidence": 1,
+      "height": 0.011809592445691464,
+      "text": "USPS and its unions.",
+      "width": 0.17735042060472042,
+      "x": 0.0491453047350329,
+      "y": 0.13662790730884355
+    },
+    {
+      "confidence": 1,
+      "height": 0.011885295311609867,
+      "text": "43",
+      "width": 0.023504273644809115,
+      "x": 0.88888888901449,
+      "y": 0.07096354163826735
+    }
+  ],
+  "vision_ocr_text": "方面强调利益集团之多、阻挠改革力量之强VS一方面强调USPS实施现代化极其必要、刻不容缓”，暗\n示下文将会出现新情形。\n•真题精解•送\n37.According to Paragraph 2, the USPS fails to modernize\n37.根据第二段，USPS 未能实现现代化\nitself due to\n是由于\n。\n［A］ the interference from interest groups\n［A］ 利益集团的干涉\n［B］ the inadequate funding from Congress\n［B］ 国会提供资金不足\n［C］ the shrinking demand for postal service\n［C］ 邮政服务需求萎缩\n［D］ the incompetence of postal unions\n［D］邮政工会的无能\n［精准定位］第二段指出，由于各利益集团向国会施压、要求保护现状，近年来立法改革频频失败，导\n致邮政局无力偿还债务、唯有推迟现代化。可见［A］正确。\n［命题解密］正确项［A］是对第二段因果链的合理概括。\n［B］将第二段信息 Congress、the Postal Service unable to pay its bills 杂糅，主观推断出“国会援助资\n金不足”，但文章并未提及“国会资金援助”。［C］将首段⑤句 decreased demand for its... product 以及第\n二段②句 whatever else happens to the Postal Service 关联，主观得出“邮政服务需求减少导致USPS未\n能进行现代化”，但这只是在退步说明“无论邮政服务境况如何（利益集团都要求保护与其利益相关的现\n状）”，并未触及第二段所示真正原因。［D与第二段因果逻辑“邮政工会向国会施压一立法改革失败”中\n传递的“邮政工会极具影响力”之意完全相悖。\n［技巧总结］本题就“涉及多个主体之间复杂关系的段落”命制因果事实题。解题关键在于借助状语\n功能、逻辑关联词、指代关系等，理解各主体之间关系，明确因果关系网。注：“与文中事实相反”以及“虽\n为文中事实、但和主干不存在因果关系”的选项均排除。\n具体来看，解题关键在于借助 This is why（this 指代①句）、leaving（引导结果状语）、A exert pressure\non B（A 向B施压等）描绘多个主体“利益集团、国会、USPS等”之间关系，明确其间因果关系，得出［A］\n正确。［D］与文中事实相反，［C］虽为文中事实但并非原因、［B］则捏造信息 funding，均排除。\n1 Now comes word that everyone involved -\n现在有消息称，所涉各方—民主党、\nDemocrats, Republicans, the Postal Service, the unions\n共和党、邮政局、各工会以及邮政系统的极\nand the system's heaviest users—has finally agreed on a\n重度用户——终于就一项“解决系统问题的\nplan to fix the system. ② Legislation is moving through\n方案”达成一致。法规正在众议院接受审\nthe House that would save USPS an estimated $28.6\n议，该法规会在五年中使 USPS 节省约286\nbillion over five years, which could help pay for new\n亿美元，可帮助负担新运输工具以及其它使\nvehicles®\n，among other survival measures. ③ Most of the\n其得以存活的措施。这笔资金中的大部分\nmoney would come from a penny-per-letter permanent\n将来自于每封信1美分的永久性邮资费率\nrate increase and from shifting postal retirees® into\n上调，以及将邮政退休人员转入“联邦医保\nMedicare. ④ The latter step would largely offset®the\n计划”。后一举措将大幅抵消每年预付退休\nfinancial burden of annually pre-funding® retiree health\n人员医保造成的财政负担，并由此化解\ncare, thus addressing® a long-standing®complaint by the\nUSPS及其工会长久以来的抱怨。\nUSPS and its unions.\n43",
+  "pdf_text_layer": "方面强调利 益集 团之 多、 阻挠改 革 力 量之强 vs 一方 面 强 调 USP S 实 施现代化极 其 必 要、 刻不 容缓 ”，暗\n示 下文将 会 出现新 情形 。\n\n                                                  ：·事题精解：－~ :;/\n 37. According to Paragraph 2, the USPS fails to modernize             37. 根据第二段， USPS 未能实现现代化\n\n     itself due to                                                        是由于         。\n\n\n\n [ A] th e interference from int erest groups                          [A ］ 利 益集团 的 干涉\n\n [ BJ th e inadequ ate fundin g fr om Co ngress                        [BJ 国会提 供 资金不足\n\n [ C] th e shrinking demand for posta l se rvice                       [CJ JlJfl i攻 服 务需求萎缩\n [ DJ th e incomp et ence of pos ta l unions                           [ DJ 邮政 工会 的 无 能\n\n     ［精准定位］ 第二段 指出 ，由于各 利 益集团 向 国会 施 压 、 要 求 保 护现 状， 近 年来 立 法改革频 频 失 败， 导\n致邮政局无力 偿还 债务 、唯有推迟现代化 。 可见 ［ A ］ 正确 。\n     ［命题解密］ 正确项［ A］ 是 对 第 二 段因 果链 的 合 理概括 。\n     [ BJ 将 第二 段 信息 Co ngr es s 、 th e P osta l Ser vice una bl e to pay its bill s 杂糕，主 观推断出 “国会援 助 资\n金不足” ， 但 文章并未提及 “ 国会资金援 助” 。［ CJ 将 首段 ⑤ 句 d ec r eased demand for its . . . p rod uc t 以 及第\n二段 ② 句 w h a t ever else happens to the Posta l Se rv i ce 关联，主观得 出 “ 邮 政 服 务需求减少导致 USPS 未\n能进行现代化 ”， 但这只 是 在 退步 说明“ 无 论邮政服 务境 况如何 （ 利 益集团 都 要求保护与其 利 益 相 关 的现\n状）”， 并未 触及第二段 所 示真 正 原因 。 ［ DJ 与第 二 段 因 果 逻 辑“ JI！~政 工会 向 国会施压→立 法改革失 败”中\n传递的 “ 邮政 工会极具影 响 力 ” 之意完全 相 悖 。\n     ［技巧总结］ 本题就 “ 涉及多 个 主 体之间 复杂关系 的段 落”命制 因果事实题 。 解题关键在于借 助 状语\n功能、逻 辑关联词、指代 关 系 等，理解各主 体之间 关 系 ， 明确 因果关系 网 。 注 ： “与文 中 事 实 相 反 ”以 及“虽\n为文中 事实、 但和 主干不存在 因 果关系 ”的选项均排除 。\n     具 体 来看 ， 解 题 关键在于 借助 T hi s is w hy( thi s 指代 ① 句）、 l eav in g （ 引 导结果 状 语） 、 A exert press ure\non B ( A 向 B 施压 等） 描 绘多 个 主 体“利 益集团 、 国会、 USP S 等” 之间 关系， 明确 其 间 因果关系 ， 得 出 ［ A ]\n正确 。［ DJ 与 文 中 事实 相 反，［ CJ 虽为文 中 事实 但 并 非 原 因 、 ［ BJ 则 捏造信息 fundin g ，均排 除 。\n\n\n            0 Now com es wo rd that everyo ne in vo l ved 一             现在有消息称，所涉各方 一一 民主党、\nDemocrats, R 巳publi ca n s, t he Post a l Service, t he unions        q共和党、邮政局、各工会以及邮政系统的极\nand the sys tem ’ s heaviest users- has fin a ll y ag reed on a\n                                                                      重度用户 一一 终于就一项“解决系统问题的\nplan to fix th e system. f} Legisla ti on is moving throu gh\n                                                                      方案”达成一致 。 法规正在众议院接受审\nthe House that wo uld save USPS an estima t 巳d $ 28 . 6               议，该法规会在五年中使 USPS 节省约 286\nbillion ove r fi ve yea rs, whi ch could help pay for new             亿美元，可帮助负担新运输工具以及其它使\nvehicles(   ,   among other s ur viva l m eas ures. 8 Mo s t of the\n                                                                      其得以存活的措施 。 这笔资金中的大部分\nmoney wou ld com e fr om a penny per let te r permanent\n                                                                      将来自于每封信 1 美分的永久性邮资费率\nrate increase and fr om shif ting posta l retireesl2l into            上调，以及将邮政退休人员转入 “联邦医保\nM edicar e . 。 Th e latt er step wo uld largely offset® th e\n                                                                      计划” 。 后一举措将大幅抵消每年预付退休\nfinanci a l burden of annuall y pre-funding® retiree health           人员医保造成的财政负担，并由此化解\ncare , thu s addressing( a long-standing® compla int by the           USPS 及其工会长久以来的抱怨 。\nUSPS and its unions.\n\n\n\n\n                                                                                                  43",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2010,
+    "pdf_text_character_count": 3268,
+    "nonempty": true
+  }
+}

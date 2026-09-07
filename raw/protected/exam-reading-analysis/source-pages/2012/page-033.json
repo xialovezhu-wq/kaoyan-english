@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P033",
+  "year": 2012,
+  "pdf_page": 33,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453573,
+      "text": "易遭外界质疑。telling others what they have missed 即指“发现声明的公开”；may not change their views",
+      "width": 0.8792372752785911,
+      "x": 0.06355933578937673,
+      "y": 0.9213630407986577
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453573,
+      "text": "即指“外界不改变既有想法，相反，不接受并质疑新发现”。",
+      "width": 0.48728811581321696,
+      "x": 0.0635593379620354,
+      "y": 0.9010484925009201
+    },
+    {
+      "confidence": 1,
+      "height": 0.020029612949916342,
+      "text": "⑨句最后指出发现声明需要多年方可被接受和认可，言外之意为，取信过程非常漫长。句中 ycars",
+      "width": 0.8412975070581381,
+      "x": 0.10158388586789545,
+      "y": 0.8798569052199002
+    },
+    {
+      "confidence": 1,
+      "height": 0.017566858394117868,
+      "text": "暗示真正新发现认可所需时间很难说。truly novel discovery claims指最终被证实为重大新发现的声明。",
+      "width": 0.8793448745406609,
+      "x": 0.06350853445543575,
+      "y": 0.8618951724950022
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "【深层解读】一、⑥句实为⑤句的深入：novelty 对应 newly published discovery claims and credible",
+      "width": 0.8432203478840523,
+      "x": 0.099576273762776,
+      "y": 0.8427260811491912
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014666326080362335,
+      "text": "discoveries,frequently provokes 对应 always be open to,disbelief 对应 challenge..，由此实现了两个矛盾",
+      "width": 0.8792372752785911,
+      "x": 0.06144069172158005,
+      "y": 0.8241279069040812
+    },
+    {
+      "confidence": 1,
+      "height": 0.016011231848640506,
+      "text": "之间的逻辑链接：科学界倾向于探索新东西，而新东西本身又容易引发质疑，深层传达出科研过程中“发",
+      "width": 0.8771186084637906,
+      "x": 0.06355934714522324,
+      "y": 0.8037790696681328
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453462,
+      "text": "现者（个人）”和“科学界（集体）”两方自然而然形成的对峙局面。二、本段借两个矛盾说明取信过程的艰",
+      "width": 0.875,
+      "x": 0.06355932444385584,
+      "y": 0.7817824379637291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "难及漫长：根据 First、Second 不难掌握浅层层次（①~⑤句VS⑥～⑨句）；而深刻研究会发现，两个层次",
+      "width": 0.8792372752785911,
+      "x": 0.06144069172158005,
+      "y": 0.762778506186031
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "的最后一句（⑤句、⑨句）均指向了发现声明，⑤句指出发现声明易遭质疑，⑨句指出真正新颖的发现声",
+      "width": 0.8771186084637905,
+      "x": 0.06355934860708762,
+      "y": 0.7441860470493817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600551667719663,
+      "text": "明取信时间很长。由此不难推知，本段重在讲述取信过程的艰难及漫长，印证下文 In the end 所蕴意的",
+      "width": 0.875,
+      "x": 0.06355931625000015,
+      "y": 0.7238372096075212
+    },
+    {
+      "confidence": 1,
+      "height": 0.01946100932430006,
+      "text": "“历时长久、复杂多变的取信过程终于结束”。",
+      "width": 0.38382500672203634,
+      "x": 0.05914909816999239,
+      "y": 0.7034107939668143
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "真题精解",
+      "width": 0.08686440579066079,
+      "x": 0.4385593216597543,
+      "y": 0.6787790701307782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013235697740027419,
+      "text": "34. Albert Szent-Gyirgyi would most likely agree that",
+      "width": 0.4194915071272257,
+      "x": 0.06991525814189574,
+      "y": 0.6453488370239928
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599980150575253,
+      "text": "34. Allert Szent-Gyirgyi 最有可能赞同",
+      "width": 0.3050847536747132,
+      "x": 0.5783898270609484,
+      "y": 0.6438953491424049
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418183173106,
+      "text": "。",
+      "width": 0.01694915217149784,
+      "x": 0.9173728817108612,
+      "y": 0.6438953491206227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013186168545664234,
+      "text": "LA］ scientific claims will survive challenges",
+      "width": 0.366525420267313,
+      "x": 0.07415254868519937,
+      "y": 0.6191860464353302
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01463965632187425,
+      "text": "［A］科学声明会经受住质疑",
+      "width": 0.23940676804026495,
+      "x": 0.5783898335910964,
+      "y": 0.617732558437462
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279511762946505,
+      "text": "［B］ discoveries today inspire future research",
+      "width": 0.37288133318519956,
+      "x": 0.0741525584074001,
+      "y": 0.5915697674018999
+    },
+    {
+      "confidence": 1,
+      "height": 0.013279511762946505,
+      "text": "［B］今天的发现激发未来的研究",
+      "width": 0.2775423768373566,
+      "x": 0.5783898313058979,
+      "y": 0.5915697673837313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013229982568583432,
+      "text": "［C］ efforts to make discoveries are justified",
+      "width": 0.3686440579066085,
+      "x": 0.07203389869500096,
+      "y": 0.5654069767768999
+    },
+    {
+      "confidence": 1,
+      "height": 0.014683470969743873,
+      "text": "［C］做出科学发现的努力是合理的",
+      "width": 0.29661017394202616,
+      "x": 0.5783898307549755,
+      "y": 0.5639534882994302
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013323325160915167,
+      "text": "［D］ scientific work calls for a critical mind",
+      "width": 0.36228811581321696,
+      "x": 0.07203391423322178,
+      "y": 0.5377906982412398
+    },
+    {
+      "confidence": 1,
+      "height": 0.015072083879423381,
+      "text": "［D］ 科学研究需要批判性头脑",
+      "width": 0.25847457973268706,
+      "x": 0.5783898306239712,
+      "y": 0.5360419395476475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "［精准定位］第四段⑦句指出 Albert Szent-Gyirgyi 认为科学发现就是“见别人之所见，想别人所未",
+      "width": 0.841101681069252,
+      "x": 0.09745762703246456,
+      "y": 0.5085190041619605
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "想”，由此可推知，他认为科学研究发现需要非凡的观察及思考的能力，需慎思明辨，故［D］为正确答案。",
+      "width": 0.8686440579066085,
+      "x": 0.06144069159754304,
+      "y": 0.4882044561815678
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "［命题解密］正确项［D］是对⑦句 discovery as “seeing what everybody has seen and thinking what nobody",
+      "width": 0.845338956347843,
+      "x": 0.09745763943730734,
+      "y": 0.46920052427184566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "has thought”的合理归纳。scientific work 对应 discovery, a critical mind 对应 thinking what nobody...。",
+      "width": 0.8072033621385039,
+      "x": 0.059322042172273645,
+      "y": 0.44888597617638526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453462,
+      "text": "［A］将⑤句“……往往容易招致质疑”曲解为“能够战胜质疑”。［B］将⑤句“遭未来科研人员的质",
+      "width": 0.841101681069252,
+      "x": 0.09957628652045872,
+      "y": 0.42857142865863784
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "疑、修改、反驳”曲解为“激发未来研究”，而文中未谈及未来研究的动力。［C］将末句“真正新颖的发现声",
+      "width": 0.8771186084637906,
+      "x": 0.06144068699691843,
+      "y": 0.40956749641824597
+    },
+    {
+      "confidence": 1,
+      "height": 0.01772379468965335,
+      "text": "明需要多年时间才能被认可”曲解为“做出科学发现的努力是合理的”，而事实却是，历经若干年后，有些",
+      "width": 0.875,
+      "x": 0.06355932427612992,
+      "y": 0.38925294919119624
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453573,
+      "text": "不新颖的发现声明未必能够取信。",
+      "width": 0.2902542318486347,
+      "x": 0.061440683079919955,
+      "y": 0.3689384011647765
+    },
+    {
+      "confidence": 1,
+      "height": 0.016026471264240505,
+      "text": "［技巧总结］本题针对文章引证内容提问人物观点，实则考查该引证内容的具体含义，也即句意理",
+      "width": 0.8432203478840524,
+      "x": 0.09745762309187216,
+      "y": 0.3502906979796142
+    },
+    {
+      "confidence": 1,
+      "height": 0.01776379901491021,
+      "text": "解题。解题关键在“精准定位”，干扰项常根据与该人物观点无关的上下文设置。本题只要根据题干定",
+      "width": 0.8792372752785911,
+      "x": 0.06144069538506862,
+      "y": 0.3296199215737883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372412765295,
+      "text": "好位（至第四段⑦句 thinking what nobody has thought，此部分无生词且不难理解）即可得出正确答案。",
+      "width": 0.8686440579066085,
+      "x": 0.061440690149803,
+      "y": 0.3110465114801484
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013132829653638711,
+      "text": "V ①In the end, credibility “happens” to a discovery",
+      "width": 0.46398304342995633,
+      "x": 0.1059322109651065,
+      "y": 0.2804718216762928
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "最后，可信度“降临”到发现声明",
+      "width": 0.29661017394202616,
+      "x": 0.6377118592154276,
+      "y": 0.27325581372094176
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014552028900986391,
+      "text": "claim—a process that corresponds®to what philosopher",
+      "width": 0.508474550557182,
+      "x": 0.06355933997564618,
+      "y": 0.26015727362807184
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534884011604854,
+      "text": "上",
+      "width": 0.025423728257246814,
+      "x": 0.5932203395154444,
+      "y": 0.2543604650290814
+    },
+    {
+      "confidence": 1,
+      "height": 0.013182358848001896,
+      "text": "-这一过程与哲学家 Annette Baier",
+      "width": 0.2923728694879303,
+      "x": 0.6461864495356958,
+      "y": 0.2542595017915227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01320712313270822,
+      "text": "Annette Baier has described as the commons of the mind. ②",
+      "width": 0.5021186084637907,
+      "x": 0.06567798841640962,
+      "y": 0.24115334198356042
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "所描述的“思维的交汇”相契合。“我们",
+      "width": 0.33898304342995633,
+      "x": 0.5953389885957562,
+      "y": 0.23255813984008045
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "“We reason together, challenge, revise®， and complete cach",
+      "width": 0.5105932173719825,
+      "x": 0.06144068195666406,
+      "y": 0.22214941024704682
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "一起论证、质疑、修改、并相互完善彼此",
+      "width": 0.341101681069252,
+      "x": 0.5932203439198231,
+      "y": 0.21220930255810366
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014734905012938171,
+      "text": "other's reasoning and each other's conceptions® of reason.”",
+      "width": 0.5084745505571822,
+      "x": 0.0635593412468325,
+      "y": 0.20183486209465795
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695220082334262,
+      "text": "的推理以及彼此对理性的理解。”",
+      "width": 0.27966101447665204,
+      "x": 0.5953389870837078,
+      "y": 0.19331395408426655
+    },
+    {
+      "confidence": 1,
+      "height": 0.013389999869610314,
+      "text": "［446 words］",
+      "width": 0.10593220289533044,
+      "x": 0.06355932303780691,
+      "y": 0.18283093056642585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.21822033329629986,
+      "x": 0.3728813560478247,
+      "y": 0.15530799452135569
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013346185221740803,
+      "text": "①correspond ［Jkpr'sppnd］ v. 相一致、符合",
+      "width": 0.32415252160387786,
+      "x": 0.06355933782094224,
+      "y": 0.12909567482190298
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015409120882166727,
+      "text": "• 经典搭配",
+      "width": 0.10829433929851817,
+      "x": 0.523183337746385,
+      "y": 0.12746985806761213
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907209283861,
+      "text": "②revise［ri'vaiz］v.校订，修正",
+      "width": 0.23305084053462596,
+      "x": 0.06355932782590731,
+      "y": 0.11046511622093946
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013169023656282586,
+      "text": "①happen to（突然降临到...身上）",
+      "width": 0.26906779710466955,
+      "x": 0.5254237263240777,
+      "y": 0.10747051129767982
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395610444413,
+      "text": "③conception ［kon'sepJon］n. 理解；概念",
+      "width": 0.29872881158132164,
+      "x": 0.06355932347311037,
+      "y": 0.09011627877544637
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327760691411528,
+      "text": "②correspond to （相当于）",
+      "width": 0.1949152463252869,
+      "x": 0.5296610223882039,
+      "y": 0.08846657942671732
+    },
+    {
+      "confidence": 1,
+      "height": 0.011795543905635641,
+      "text": "33",
+      "width": 0.023305085147544036,
+      "x": 0.9025423728469301,
+      "y": 0.04783748385399733
+    }
+  ],
+  "vision_ocr_text": "易遭外界质疑。telling others what they have missed 即指“发现声明的公开”；may not change their views\n即指“外界不改变既有想法，相反，不接受并质疑新发现”。\n⑨句最后指出发现声明需要多年方可被接受和认可，言外之意为，取信过程非常漫长。句中 ycars\n暗示真正新发现认可所需时间很难说。truly novel discovery claims指最终被证实为重大新发现的声明。\n【深层解读】一、⑥句实为⑤句的深入：novelty 对应 newly published discovery claims and credible\ndiscoveries,frequently provokes 对应 always be open to,disbelief 对应 challenge..，由此实现了两个矛盾\n之间的逻辑链接：科学界倾向于探索新东西，而新东西本身又容易引发质疑，深层传达出科研过程中“发\n现者（个人）”和“科学界（集体）”两方自然而然形成的对峙局面。二、本段借两个矛盾说明取信过程的艰\n难及漫长：根据 First、Second 不难掌握浅层层次（①~⑤句VS⑥～⑨句）；而深刻研究会发现，两个层次\n的最后一句（⑤句、⑨句）均指向了发现声明，⑤句指出发现声明易遭质疑，⑨句指出真正新颖的发现声\n明取信时间很长。由此不难推知，本段重在讲述取信过程的艰难及漫长，印证下文 In the end 所蕴意的\n“历时长久、复杂多变的取信过程终于结束”。\n真题精解\n34. Albert Szent-Gyirgyi would most likely agree that\n34. Allert Szent-Gyirgyi 最有可能赞同\n。\nLA］ scientific claims will survive challenges\n［A］科学声明会经受住质疑\n［B］ discoveries today inspire future research\n［B］今天的发现激发未来的研究\n［C］ efforts to make discoveries are justified\n［C］做出科学发现的努力是合理的\n［D］ scientific work calls for a critical mind\n［D］ 科学研究需要批判性头脑\n［精准定位］第四段⑦句指出 Albert Szent-Gyirgyi 认为科学发现就是“见别人之所见，想别人所未\n想”，由此可推知，他认为科学研究发现需要非凡的观察及思考的能力，需慎思明辨，故［D］为正确答案。\n［命题解密］正确项［D］是对⑦句 discovery as “seeing what everybody has seen and thinking what nobody\nhas thought”的合理归纳。scientific work 对应 discovery, a critical mind 对应 thinking what nobody...。\n［A］将⑤句“……往往容易招致质疑”曲解为“能够战胜质疑”。［B］将⑤句“遭未来科研人员的质\n疑、修改、反驳”曲解为“激发未来研究”，而文中未谈及未来研究的动力。［C］将末句“真正新颖的发现声\n明需要多年时间才能被认可”曲解为“做出科学发现的努力是合理的”，而事实却是，历经若干年后，有些\n不新颖的发现声明未必能够取信。\n［技巧总结］本题针对文章引证内容提问人物观点，实则考查该引证内容的具体含义，也即句意理\n解题。解题关键在“精准定位”，干扰项常根据与该人物观点无关的上下文设置。本题只要根据题干定\n好位（至第四段⑦句 thinking what nobody has thought，此部分无生词且不难理解）即可得出正确答案。\nV ①In the end, credibility “happens” to a discovery\n最后，可信度“降临”到发现声明\nclaim—a process that corresponds®to what philosopher\n上\n-这一过程与哲学家 Annette Baier\nAnnette Baier has described as the commons of the mind. ②\n所描述的“思维的交汇”相契合。“我们\n“We reason together, challenge, revise®， and complete cach\n一起论证、质疑、修改、并相互完善彼此\nother's reasoning and each other's conceptions® of reason.”\n的推理以及彼此对理性的理解。”\n［446 words］\n•词汇注释与难句分析•\n①correspond ［Jkpr'sppnd］ v. 相一致、符合\n• 经典搭配\n②revise［ri'vaiz］v.校订，修正\n①happen to（突然降临到...身上）\n③conception ［kon'sepJon］n. 理解；概念\n②correspond to （相当于）\n33",
+  "pdf_text_layer": "易遭外界质疑。 telling others what they have mi ssed 即指“ 发现声明的公开”； may not change their views\n即指“外 界不改变既有想法，相反，不接受并质疑新发现”。\n     ⑨ 旬最后指出发现声明需要多年方可被接受和认可，言外之意为，取信过程非常 漫 长 。 句中 years\n暗示真正新发现认可所需时间很难说 。 tru l y nove l discovery claim s 指最终被证实为重大新发现 的 声明。\n     【深层解读】一 、 ⑤ 句实为 ⑤ 旬的深入： nove lty 对应 n ew ly publ is hed di scovery claim s and credible\ndi scoveries, fr equ ently provok es 对应 always be open to, di s b e li ef 对 应 c h a ll e n ge .. .，由 此 实现了两个矛盾\n之间的逻辑链接：科 学界倾向于探索新东西， 而新东西本 身又容易引发质疑，深层传达 ti:＼科研过程中“ 发\n现 者（ 个人）”和 “科学界（集体）”两方自然 而然形成的对峙局面 。 二、本段借两个矛盾说明取信过程的艰\n难及漫长： 根据 First 、 Second 不难 掌 握浅层层次（①～ ⑤ 句 VS＠～⑨ 句）；而深刻研究 会发 现，两个层次\n的 最后一句（⑤句、⑨句）均指 向了发现 声 明， ⑤ 句指出 发 现 声 明易遭质疑， ⑨ 句指出 真 正新颖的发现声\n明取信时间很长 。 由此不难推知，本段 重 在讲述取信过程的艰难及漫长，印证下文 In the end 所 蕴意 的\n“历时长久、复杂多变的取信过程终于结束”。\n\n                                                       ：·真题需解＜ fl\n 34. Albert Szent- Gyo，宵i would most likely agree that                          34. Albert Szent-Gyorgyi 最有可能赞 同    。\n\n\n\n\n [A] scientifi c claims wi ll s urvive cha ll e 吨臼                              [ A〕 科 学声 明 会经受 住质疑\n\n [BJ discove ri es today ins pire futur e resea rch                             [ BJ 今天 的发现激发未来的研究\n\n [ CJ effort s to m ake di scoveries a r巳 j u s t i fied                        [CJ 做出科 学发 现的努力 是合理 的\n\n [DJ scientific work ca ll s for a critica l mind                               [ DJ 科 学 研究 需要 批判性 头脑\n\n     ［精准定位〕 第 四段 ⑦ 句指出 A l b e rt Szent-Gyorgyi 认为科 学发 现就 是“ 见别人之所见，想别人所未\n想”，由此可推知，他认为科 学 研究发现 需要 非凡的观察及 思考的能力， 需慎 思明辨，故 ［ DJ 为 正确答案 。\n     ［命题解密］ 正确工页 ［ DJ 是对 ⑦ 句 discovery as “ seeing what everybody ha吕 seen and thinl\nhas thot』ght\" EJ{j 合理归 纳 。 sci entifi c work 对应 discovery, a critical mind 对应 thinking what nobody... 。\n     [ A］将 ⑤ 句“……往往容易招致质疑”曲解为“能够战胜质疑” 。［ B J 将 ⑤ 句“边未来科研人员的质\n疑、修改、反驳”曲解为“激发未来研究”，而文中未谈及未来研究的动力 。［ CJ 将末句“ 真 正新颖的发现声\n明 需要多年 时间才能被认可”曲解为“做出科 学发现 的 努力是合理 的” ， 而 事实 却 是， 历 经若干 年后，有些\n不新颖的发现 声 明未必能够取 信。\n     ［技巧总结］ 本题针对文章引证内容提问人物观点，实则考 查该 引证内 容 的 具体含义， 也即句 意理\n解题 。 ffµ（， 题关键在“精准定位”，干扰项常根据与该人物观点无关的上下文设置 。本题 只要根据题干定\n好位（至第四段 ⑦ 句 thinking what nobody has thought ，此部分无生词且不难理解）即可得出正确答案 。\n\n\n        V O In th e end, cred ibili ty “ happens\" to a di scovery                     最后，可信度“降！！备”到发现声明\nclaim     a process that corresponds(           to what philosopher              上 一一 这 一 过程与哲学家 Annette Bai巳r\nAnnette Bai er has described as th e comm。nsofthemind. @                         所描述的“思维的交汇”相契合 。 “我 们\n“ W e reason toget her, cha llenge, revise® , and complete each                  一 起论证、质疑、修改、并相互完善彼此\noth er ’ s r easoning and eac h oth町、 conceptions® of r eason. ”                 的推理以及彼此对理性的理解 。 ”\n[ 446 words]\n                                                       -L   释－     难…\n                                                                                    J\n                                                                       旬 …\n                                                                         析\n                                                                  与…\n                                                  词                      … …\n                                                                  …\n                                                   …\n\n\n                                                                   －\n                                                              ．\n\n\n\n\n                                                   φ        注\n                                                            … －        · 分φ\n\n( correspond [1 kor11spond] v . 相 一致、 符合                           $    ·经典搭配\n                                                                   !(        happe n to （突然降 1阳   身上）\n( revise [ r11va1z] v . 校订，修正\n( conception [ k@n1sepf: m] n. 础解；概念                               ;    。…川 to （ 相 当于）\n\n                                                                                                                   33",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2145,
+    "pdf_text_character_count": 3864,
+    "nonempty": true
+  }
+}

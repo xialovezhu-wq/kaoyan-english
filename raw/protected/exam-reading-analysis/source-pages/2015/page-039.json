@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P039",
+  "year": 2015,
+  "pdf_page": 39,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "alarmingly common、engaging reviewers who are statistically literate、 has some merit, but a weakness",
+      "width": 0.8881720322829026,
+      "x": 0.04731184442306456,
+      "y": 0.9213263977324843
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01771592473797745,
+      "text": "is...可提炼出本段主旨：人物3对新举措持存有疑虑的支持态度。",
+      "width": 0.5698924724872295,
+      "x": 0.04301076012735276,
+      "y": 0.8997093025851474
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02064501882684555,
+      "text": "．真题精解。",
+      "width": 0.14632615309495195,
+      "x": 0.402105742119571,
+      "y": 0.8719449325312886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013107856011359664,
+      "text": "34. David Vaux holds that what Science is doing",
+      "width": 0.4774193396935096,
+      "x": 0.055913978110234665,
+      "y": 0.8459037713666806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598424,
+      "text": "34.大卫•沃克斯认为，《科学》目前的举",
+      "width": 0.389247307410607,
+      "x": 0.5311827930420085,
+      "y": 0.843023256000845
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007802340702210642,
+      "text": "nOw",
+      "width": 0.034408602347740756,
+      "x": 0.05806451660390737,
+      "y": 0.8296488947482851
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "措",
+      "width": 0.023655913426325892,
+      "x": 0.5483870971578048,
+      "y": 0.8255813951168518
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308139557956256,
+      "text": "。",
+      "width": 0.01935483859135556,
+      "x": 0.6258064519139996,
+      "y": 0.8226744185801316
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868706,
+      "text": "［A］ adds to researchers'workload",
+      "width": 0.2946236537053035,
+      "x": 0.055913975046989986,
+      "y": 0.8049414825151168
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "［A］增加了研究人员的工作量",
+      "width": 0.2623655759371244,
+      "x": 0.5483871061443412,
+      "y": 0.8036410923571117
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011758323763684908,
+      "text": "［B］ diminishes the role of reviewers",
+      "width": 0.30537634629469657,
+      "x": 0.05806451807845814,
+      "y": 0.7834302327602534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "［B］ 削弱了审稿人的作用",
+      "width": 0.21935483492337748,
+      "x": 0.5483871002341638,
+      "y": 0.7802340701887601
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01172430214553255,
+      "text": "［C］ has room for further improvement",
+      "width": 0.3290322523850661,
+      "x": 0.05591398462467122,
+      "y": 0.7600780233209583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "［C］有进一步改进的空间",
+      "width": 0.21935483492337748,
+      "x": 0.5483870987738058,
+      "y": 0.7587209301107195
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011875510370777942,
+      "text": "LD］ is to fail in the foreseeable future",
+      "width": 0.32473118121807387,
+      "x": 0.05591398334257583,
+      "y": 0.7366710011204223
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014629388816644884,
+      "text": "［D］在可预见的未来会失败",
+      "width": 0.24516129126915565,
+      "x": 0.5462365611181104,
+      "y": 0.7353706110251896
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "【精准定位】第六段③句表明 David Vaux 对《科学》新举措的看法：把一些论文交给统计学家（审查）",
+      "width": 0.8473118121807393,
+      "x": 0.08387097795980951,
+      "y": 0.7093023253760573
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598435,
+      "text": "的想法“有一定价值，但缺点在于，要先通过评审编委会来决定哪些论文需要细查”，言外之意即，编委会",
+      "width": 0.886021482027494,
+      "x": 0.04516130698625296,
+      "y": 0.6889534888060775
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "自身缺乏有效监管，这一想法还需要进一步完善，［C］正确。",
+      "width": 0.503225825383113,
+      "x": 0.047311822684787494,
+      "y": 0.6700581394748945
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903906,
+      "text": "【命题解密】［C］是对人物引语中 has some merit, but a weakness is that 的合理引申和概括，room",
+      "width": 0.8516129126915565,
+      "x": 0.08172041685852295,
+      "y": 0.6508452538637921
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "for further improvement 是对原文 weakness 的委婉表述。",
+      "width": 0.4881720322829026,
+      "x": 0.04731184145711478,
+      "y": 0.6319895966431498
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014619938263812582,
+      "text": "［A］利用②句中 Researchers should improve their standards 设置干扰，但联系①句可知“（研究者）提",
+      "width": 0.8451612619253305,
+      "x": 0.08387097590369418,
+      "y": 0.6118335498296832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017663002014160156,
+      "text": "高水准”指的是“提高数据分析技能，减少统计错误”，而非“增加工作量”；［B］与②句 engaging reviewers",
+      "width": 0.8881720322829025,
+      "x": 0.04516129893381736,
+      "y": 0.5915697678758451
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "who are statistically literate 矛盾，此处恰恰是“重视”审稿人（尤其精通统计的）的作用，而非“削弱”。",
+      "width": 0.8881720322829026,
+      "x": 0.045161304568225966,
+      "y": 0.5712209304921241
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903906,
+      "text": "［DJ过度放大文中 a weakness 而忽略 has some merit。",
+      "width": 0.46236557593712446,
+      "x": 0.04516130383251296,
+      "y": 0.5520156045948823
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903684,
+      "text": "【技巧总结】本题与上题解题思路类似，解题关键在准确定位（由题干定位至末句）并识别出正确项",
+      "width": 0.8473118121807393,
+      "x": 0.08172042740425438,
+      "y": 0.5331599478828803
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017630870382559394,
+      "text": "has room for further improvement 是对句中 has some merit, but a weakness is that 的合理引申和概括。",
+      "width": 0.8860214820274941,
+      "x": 0.04516131301851084,
+      "y": 0.511627907018287
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01598837223722671,
+      "text": "• 全局真题精解",
+      "width": 0.14623655172494737,
+      "x": 0.3892473173633328,
+      "y": 0.4869186046699041
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139433941391,
+      "text": "35. Which of the following is the best title of the text？",
+      "width": 0.45376343360314,
+      "x": 0.05591397542065244,
+      "y": 0.4563953491238978
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "35. 以下哪一项是本文的最佳标题？",
+      "width": 0.3118279383732723,
+      "x": 0.5483871092004606,
+      "y": 0.4563953491116539
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868595,
+      "text": "［A］ Science Joins Push to Screen Statistics in Papers",
+      "width": 0.4516128833477314,
+      "x": 0.0559139809067798,
+      "y": 0.4343302988151678
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "［A］《科学》加入推进论文统计审查",
+      "width": 0.3032257960392879,
+      "x": 0.548387105012614,
+      "y": 0.43302990914642314
+    },
+    {
+      "confidence": 1,
+      "height": 0.013240163751014333,
+      "text": "［B］ Professional Statisticians Deserve More Respect",
+      "width": 0.4451612619253305,
+      "x": 0.0537634476394855,
+      "y": 0.41133720973436283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "［B］ 专业统计学家应该得到更多尊敬",
+      "width": 0.3204301100510818,
+      "x": 0.5483870981823444,
+      "y": 0.4096228866768603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "［C］ Data Analysis Finds Its Way onto Editors' Desks",
+      "width": 0.4580645047701322,
+      "x": 0.05376345202353587,
+      "y": 0.3880813958073903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014542443854601128,
+      "text": "［C］ 数据分析上了编辑书桌",
+      "width": 0.2387096698467548,
+      "x": 0.5483870996787733,
+      "y": 0.38662790704770034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314754882931557,
+      "text": "［D］ Statisticians Are Coming Back with Science",
+      "width": 0.40860214233398434,
+      "x": 0.055913987703975467,
+      "y": 0.36475942808473893
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "［D］统计学家随《科学》回来了",
+      "width": 0.2623655759371244,
+      "x": 0.5462365645045562,
+      "y": 0.36337209309421203
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764410090849522,
+      "text": "【精准定位】文首段引入话题，概述《科学》新举措“增加额外统计审查”及其成因；第二三段阐释该举",
+      "width": 0.8494623624361478,
+      "x": 0.08172043569052811,
+      "y": 0.33866279117526377
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "措具体内容及背景原因；第四至六段引三位专家之言对该举措予以评价。由此可知，“《科学》对其发表",
+      "width": 0.886021482027494,
+      "x": 0.045161305115285225,
+      "y": 0.3183139536025893
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "的论文增加统计审查”为全文论述主题，［A］为最佳题目。",
+      "width": 0.4881720322829027,
+      "x": 0.045161300568226016,
+      "y": 0.2994186045645262
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "【命题解密】正确项是对文首段话题的完美契合，其中 screen“筛查，审查”对应 checks,joins push 对",
+      "width": 0.8473118121807393,
+      "x": 0.08172042740425438,
+      "y": 0.28023407003302914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "应 follow similar efforts from other journals；并且准确概括了文章的中心内容。",
+      "width": 0.6709677476149338,
+      "x": 0.04516129581618873,
+      "y": 0.26007802343789277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "［B］利用第六段①句 professional 以及文中反复提及的statisticians 干扰，但选项侧重点为“专业统",
+      "width": 0.8473118121807391,
+      "x": 0.08387098410317861,
+      "y": 0.24122236648008943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017691353672657617,
+      "text": "计学家未受到足够重视”，偏离文章论述中心；［C］强调的是“编辑担起新职责—数据分析”，但文章重",
+      "width": 0.886021482027494,
+      "x": 0.045161310857220534,
+      "y": 0.22093023290491487
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "心在于“统计审查”；［D］言外之意即“以往统计学家不受期刊重视，如今正找回其地位”，但文中重在探讨",
+      "width": 0.886021482027494,
+      "x": 0.045161304405607824,
+      "y": 0.20203488348894483
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "“对论文质量的把关”，“统计学家”是作为重要把关者而出现的，并非全文关注的焦点。",
+      "width": 0.7354838444636418,
+      "x": 0.04301077513377026,
+      "y": 0.1831395347934507
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "【技巧总结】标题题干扰项的典型特点是：涉及文中关键词却重心偏离。本文首段首句（主题句）引",
+      "width": 0.8494623624361479,
+      "x": 0.08172042319052847,
+      "y": 0.16254876436925014
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "人《科学》的一项新举措，后文均围绕此举措展开论述，故该举措是本文话题，［A］是对首段新举措",
+      "width": 0.8860214820274941,
+      "x": 0.04516131307227422,
+      "y": 0.1436931078934397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "Science is adding an extra round of statistical checks to its peer-review process 的同义改写。［B］［C］［D］",
+      "width": 0.8838709317720853,
+      "x": 0.04731183710320475,
+      "y": 0.12613784152476248
+    },
+    {
+      "confidence": 1,
+      "height": 0.01628511810798794,
+      "text": "虽涉及文中多次出现的词汇 statisticians、data analysis 等，但均偏离本文论述焦点—《科学》的新举措。",
+      "width": 0.886021482027494,
+      "x": 0.04516129313679072,
+      "y": 0.10465116264592156
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790663065627,
+      "text": "39",
+      "width": 0.02365591342632578,
+      "x": 0.8924731187922135,
+      "y": 0.07122093046374167
+    }
+  ],
+  "vision_ocr_text": "alarmingly common、engaging reviewers who are statistically literate、 has some merit, but a weakness\nis...可提炼出本段主旨：人物3对新举措持存有疑虑的支持态度。\n．真题精解。\n34. David Vaux holds that what Science is doing\n34.大卫•沃克斯认为，《科学》目前的举\nnOw\n措\n。\n［A］ adds to researchers'workload\n［A］增加了研究人员的工作量\n［B］ diminishes the role of reviewers\n［B］ 削弱了审稿人的作用\n［C］ has room for further improvement\n［C］有进一步改进的空间\nLD］ is to fail in the foreseeable future\n［D］在可预见的未来会失败\n【精准定位】第六段③句表明 David Vaux 对《科学》新举措的看法：把一些论文交给统计学家（审查）\n的想法“有一定价值，但缺点在于，要先通过评审编委会来决定哪些论文需要细查”，言外之意即，编委会\n自身缺乏有效监管，这一想法还需要进一步完善，［C］正确。\n【命题解密】［C］是对人物引语中 has some merit, but a weakness is that 的合理引申和概括，room\nfor further improvement 是对原文 weakness 的委婉表述。\n［A］利用②句中 Researchers should improve their standards 设置干扰，但联系①句可知“（研究者）提\n高水准”指的是“提高数据分析技能，减少统计错误”，而非“增加工作量”；［B］与②句 engaging reviewers\nwho are statistically literate 矛盾，此处恰恰是“重视”审稿人（尤其精通统计的）的作用，而非“削弱”。\n［DJ过度放大文中 a weakness 而忽略 has some merit。\n【技巧总结】本题与上题解题思路类似，解题关键在准确定位（由题干定位至末句）并识别出正确项\nhas room for further improvement 是对句中 has some merit, but a weakness is that 的合理引申和概括。\n• 全局真题精解\n35. Which of the following is the best title of the text？\n35. 以下哪一项是本文的最佳标题？\n［A］ Science Joins Push to Screen Statistics in Papers\n［A］《科学》加入推进论文统计审查\n［B］ Professional Statisticians Deserve More Respect\n［B］ 专业统计学家应该得到更多尊敬\n［C］ Data Analysis Finds Its Way onto Editors' Desks\n［C］ 数据分析上了编辑书桌\n［D］ Statisticians Are Coming Back with Science\n［D］统计学家随《科学》回来了\n【精准定位】文首段引入话题，概述《科学》新举措“增加额外统计审查”及其成因；第二三段阐释该举\n措具体内容及背景原因；第四至六段引三位专家之言对该举措予以评价。由此可知，“《科学》对其发表\n的论文增加统计审查”为全文论述主题，［A］为最佳题目。\n【命题解密】正确项是对文首段话题的完美契合，其中 screen“筛查，审查”对应 checks,joins push 对\n应 follow similar efforts from other journals；并且准确概括了文章的中心内容。\n［B］利用第六段①句 professional 以及文中反复提及的statisticians 干扰，但选项侧重点为“专业统\n计学家未受到足够重视”，偏离文章论述中心；［C］强调的是“编辑担起新职责—数据分析”，但文章重\n心在于“统计审查”；［D］言外之意即“以往统计学家不受期刊重视，如今正找回其地位”，但文中重在探讨\n“对论文质量的把关”，“统计学家”是作为重要把关者而出现的，并非全文关注的焦点。\n【技巧总结】标题题干扰项的典型特点是：涉及文中关键词却重心偏离。本文首段首句（主题句）引\n人《科学》的一项新举措，后文均围绕此举措展开论述，故该举措是本文话题，［A］是对首段新举措\nScience is adding an extra round of statistical checks to its peer-review process 的同义改写。［B］［C］［D］\n虽涉及文中多次出现的词汇 statisticians、data analysis 等，但均偏离本文论述焦点—《科学》的新举措。\n39",
+  "pdf_text_layer": "a larmingly comm o n 、 e ngag ing reviewers who are statistica ll y l it era t e 、 ha s so me mer it, but a weakness\nis .. .可提 炼出本段主旨 ：人物 3 对新 举 措持存有疑虑的支持态度 。\n\n                                                  ：＂： ~：：真理需解：＜ 1'\n 34.    David Vaux holds that what Science             is doing   34. 大卫·沃克斯认为 ，《科学》 目前的举\n now                                                              措         。\n\n\n\n\n [ A] adds to resea rchers ’ wo rkload                            [ A］增 加了研究人员的工作 量\n\n [ BJ dimini s hes t he role of reviewe rs                        [ BJ 削弱了审稿人的作用\n\n [CJ has room for furth er improvem ent                           [CJ 有 进 一步 改进的 空 间\n\n [ D] is to fa il in the for eseeab le futur e                    [ DJ 在 可预见的未来 会失 败\n\n       【精准定位】 第六段③句表 明 David Vaux 对《 科 学》新举措的 看法 ： 把 一些 论文交给统计 学家（审查）\n的想法“有 一定 价值，但缺点在于，要先通过评审编委会来决定哪些论文需要细查”，言外之意即，编委会\n自身缺乏有效监管，这一想法还需要进一步完善，［ CJ 正确 。\n       【命题解密】 ［ CJ 是 对人物引语中 has some m erit, but a wea kness is that 的合理引申和概括， room\nfor furth er im provement 是对原文 wea kness 的委婉表述。\n       [ A ］ 利用 ② 句中 Research e rs s hou ld improve their standards 设 置干 扰，但联 系① 句可知“（研 究者 ）提\n高水准”指的是“提高数据分析技 能 ， 减少统计错误”，而非“增加l 工作量’气 ［ BJ 与② 句 engag ing reviewers\nwho are statistica lly lit erate 矛盾， 此处恰恰是“ 重 视”审稿人（尤 其精通统 计的 ） 的作用，而非“削弱” 。\n[ DJ 过 度放大文中 a weakness 而忽略 has some merit 。\n\n       【技 巧总结 】 本题与 上题解题思路类 似，解题 关键在准 确定位（由题干 定位至末句）并 识别 ti：＼ 正确项\nhas room for furth er impro veme n t 是对句 中 ha s som e m erit, but a weakness is that 的合理引申和概括 。\n\n                                                 ：＞：：辑：真题拮吁：J\n 35. Which of the following is the best title of the text?        35. 以 下哪一项是 本文的最佳标题？\n\n [A] S cience Join s Push to Screen Statistics in P apers         [A ］《科学》加入推进论文统计审 查\n\n [ BJ Professiona l Statist icians Dese r ve More R espect        [ BJ 专 业统计 学家应该得 到更 多尊敬\n\n [CJ Da ta Analys is Finds Its Way onto Editors ’ Desks           [CJ 数 据分析上了编辑书 桌\n\n [ DJ Statisticia ns Are Coming Bac k with S cience               [ DJ 统计学家随《科学》回来了\n\n       【精准定位】 文首段 引人话 题，概 述《 科学 》新举措“增 加额外 统计审查”及其成因；第二 三 段阐释该举\n措 具 体内容及背 景原 因；第四至六段引 三 位专家之言对该举措予以评价 。 由此可知，“《 科学 》 对其发表\n的论文增加统计审 查” 为全文论述主题， ［ A］为最佳题目 。\n       【命题解密】 正 确项 是 对 文首段话题 的完 美契合，其 中 scr ee n“ 筛 查，审查 ”对应 c h ec ks , join s pu s h 对\n应 fo ll ow s imil ar efforts fr om ot he r journa ls ；并且准确概括了文 章 的中心内 容。\n       [ BJ 利用 第六段①句 pro f ess i o n a l 以 及文中反复提及的 statisticians 干扰，但选项侧重点为“专业统\n计学家未受到足够 重 视”，偏离文章论述中心；［ CJ 强调的 是“编辑担 起新职 责 一一数据分析”，但文章重\n心 在于“统 计 审查”；［ DJ 言外之意 即“以往统计 学家不受 期刊重视，如今正找回 其 地位 ”， 但文中 重在探 讨\n“对论文质量 的把 关”，“统 计 学家”是 作为重 要 把 关者 而出现的，并非 全文关注 的 焦点。\n       E 技巧总结】 标题题干 扰项的典型特点 是 ： 涉及文中关键词却重心偏离 。本 文首段首句（主题句）引\n人 《 科 学 》 的 一项新举 措，后文均围绕此举措展开论述，故眩举措是本文话题， ［ A ］是对首段新举措\nS cience is adding a n extra round of statist ical checks to its peer- review pro cess 的 同义改 写。［ B][C][ D]\n虽涉及文中多次 出现的同汇 s tati st ici a n s 、 data a n a l ys i s 等，但均偏离本文论述焦点                            《 科 学》 的 新举 措 。\n\n\n                                                                                                               39",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 2098,
+    "pdf_text_character_count": 2992,
+    "nonempty": true
+  }
+}

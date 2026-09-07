@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P018",
+  "year": 2019,
+  "pdf_page": 18,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "termism 多次同义/反义复现，体现文章关注点“企业的短期主义/长期主义”；worsen、hinder、at the",
+      "width": 0.8884120060847356,
+      "x": 0.07510731278381225,
+      "y": 0.9127604169126105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "expense of 等蕴含强烈贬义色彩，传递作者对“短期主义”的批判、对“长期决策”的倡导。二、从选项入",
+      "width": 0.8841201782226562,
+      "x": 0.07510728549525286,
+      "y": 0.8938802084409083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01772952949007356,
+      "text": "手，拆分选项信息、多角度判断正误。如本题选项均可拆分为“中心词/关注点十描述/限定信息”（［AJ",
+      "width": 0.8841201782226563,
+      "x": 0.07725322192484589,
+      "y": 0.873546511919436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "Failure of + Quarterly Capitalism； ［B］Patience + as a Corporate Virtue ;LC］Decisiveness + Required of",
+      "width": 0.8862660921536959,
+      "x": 0.0772532089392467,
+      "y": 0.8561046513500202
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "Top Executives； ［D］ Frustration + of Risk-taking Bankers）分别进行判断，可发现：LAJFailure of 违背文",
+      "width": 0.8819742056039663,
+      "x": 0.07725324003599966,
+      "y": 0.8357558136669991
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "意，［C］Decisiveness 偏离文章关注点；［D］Risk-taking Bankers 缩窄文章针对群体；而［B］则既体现文章",
+      "width": 0.8841201782226563,
+      "x": 0.07725322666120375,
+      "y": 0.8168604651568246
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "关注点，又符合作者观点，故正确。",
+      "width": 0.29184549771822416,
+      "x": 0.07725321972457888,
+      "y": 0.7962239584345029
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015043001621961594,
+      "text": "Text 2",
+      "width": 0.08173954303448017,
+      "x": 0.379731086035652,
+      "y": 0.7206761735545741
+    },
+    {
+      "confidence": 1,
+      "height": 0.02042453922331333,
+      "text": "大学“成绩宽恕”的兴起",
+      "width": 0.25536481417142426,
+      "x": 0.48068668907308615,
+      "y": 0.7194010419693133
+    },
+    {
+      "confidence": 1,
+      "height": 0.009143136441707611,
+      "text": "知识补充",
+      "width": 0.06021650754488431,
+      "x": 0.12439818324588009,
+      "y": 0.7018237805384016
+    },
+    {
+      "confidence": 1,
+      "height": 0.01171875,
+      "text": "原文外教朗读",
+      "width": 0.09656652303842395,
+      "x": 0.8347639494709781,
+      "y": 0.7005208330779653
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02881297096610058,
+      "text": "学、文章总体分析",
+      "width": 0.22672080993652344,
+      "x": 0.07647968465191184,
+      "y": 0.6577466286100362
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017668967445691353,
+      "text": "本文选自 The Allantic《大西洋月刊》2018.06.29 一篇题为 The Rise of College \"Grade Forgiveness”",
+      "width": 0.8476394653320313,
+      "x": 0.1158798484230398,
+      "y": 0.6366279073824759
+    },
+    {
+      "confidence": 1,
+      "height": 0.0174418600896995,
+      "text": "（大学“成绩宽恕”的兴起）的文章。文章围绕美国大学“成绩宽恕”政策加速普及这一趋势，按照“先介绍",
+      "width": 0.8841201782226562,
+      "x": 0.07510728985862902,
+      "y": 0.6162790697807317
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0174418600896995,
+      "text": "现象（第一至三段）—后剖析原因（第四至六段）”的脉络展开论述，在逐层解释原因的同时流露出对高",
+      "width": 0.8819742056039663,
+      "x": 0.07725324395230855,
+      "y": 0.5973837208999178
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969928,
+      "text": "等教育过度“商品化”的批评与担忧之情。",
+      "width": 0.34978540860689605,
+      "x": 0.0772532182931185,
+      "y": 0.5784883724551504
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02892318367958069,
+      "text": "净二、语篇分析及试题精解",
+      "width": 0.2994735717773438,
+      "x": 0.07657296702331154,
+      "y": 0.5412568345041116
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "I ① Grade inflation®—the gradual increase in",
+      "width": 0.4248926896315354,
+      "x": 0.11802575952972577,
+      "y": 0.5232558140317063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013308502733707428,
+      "text": "分数膨胀一",
+      "width": 0.09656652303842395,
+      "x": 0.6051502160827193,
+      "y": 0.5159883721694272
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372266292572,
+      "text": "平均 GPA（GPA 指“平均",
+      "width": 0.2231759584867038,
+      "x": 0.7296137390506395,
+      "y": 0.5159883722062433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "average GPAs （grade-point averages®） over the past",
+      "width": 0.4678111443152794,
+      "x": 0.07725322811060058,
+      "y": 0.5043604655578691
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333337,
+      "text": "学分绩点”）在过去数十年间的逐渐攀升",
+      "width": 0.3476394946758564,
+      "x": 0.5665236027846959,
+      "y": 0.49544270827199866
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "few decades—is often considered a product of a consumer",
+      "width": 0.46781114431527954,
+      "x": 0.07725321840030049,
+      "y": 0.48372395838787297
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "往往被视为高等教育进入消费者时代的产物，",
+      "width": 0.3905579200157753,
+      "x": 0.5665236189620693,
+      "y": 0.47526041640570915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "era in higher education, in which students are treated like",
+      "width": 0.4678111443152795,
+      "x": 0.0772532308037336,
+      "y": 0.4648437498992135
+    },
+    {
+      "confidence": 1,
+      "height": 0.014550024022658703,
+      "text": "在这个时代，学生被当作需要被取悦的消费者",
+      "width": 0.3884120060847356,
+      "x": 0.5665236089962589,
+      "y": 0.45638020813022806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "customers to be pleased®",
+      "width": 0.19527896000788758,
+      "x": 0.0772532268272435,
+      "y": 0.44596354173564545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338784376780266,
+      "text": ". ② But another, related force一a",
+      "width": 0.2725321843073918,
+      "x": 0.27038626554480205,
+      "y": 0.44596354138257166
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "看待。但还有个与之相关的推动力一",
+      "width": 0.3283261812650241,
+      "x": 0.5665236087505351,
+      "y": 0.43604651166845254
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013232800488670704,
+      "text": "一一项",
+      "width": 0.047210300885714096,
+      "x": 0.9055793983232374,
+      "y": 0.4388020831921928
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014625726267695427,
+      "text": "policy often buried deep in course catalogs® called “grade",
+      "width": 0.4678111443152795,
+      "x": 0.07725323197326141,
+      "y": 0.4257812502529238
+    },
+    {
+      "confidence": 1,
+      "height": 0.017744670311609978,
+      "text": "通常深藏在课程目录里的、被称为“成绩宽恕”",
+      "width": 0.3948497772216797,
+      "x": 0.564377690444954,
+      "y": 0.4171511631237549
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013308503354589218,
+      "text": "forgiveness®①”.",
+      "width": 0.10729613670935999,
+      "x": 0.07725322098723698,
+      "y": 0.4082031247364003
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01315709762275219,
+      "text": "- is helping raise GPAs.",
+      "width": 0.1952789600078876,
+      "x": 0.18884120602073431,
+      "y": 0.4069010417630532
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "的政策———也在推高着GPA。",
+      "width": 0.2553648141714242,
+      "x": 0.5665236036260188,
+      "y": 0.39825581387896614
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01459544524550438,
+      "text": "•词汇注释与难向分析",
+      "width": 0.20600857367882364,
+      "x": 0.38841202011337794,
+      "y": 0.347383721131997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164223313332,
+      "text": "①inflation ［In'flefon］n. 膨胀，通货膨胀",
+      "width": 0.3197424961970402,
+      "x": 0.07510729495788696,
+      "y": 0.3226744189060833
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01326308151086164,
+      "text": "③please ［plisz］v. 使满意，使愉快",
+      "width": 0.263948499239408,
+      "x": 0.5429184568824419,
+      "y": 0.3226744186628866
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126817221442821,
+      "text": "②grade-point average 平均学分绩点（衡量学生学习能",
+      "width": 0.4184549184945914,
+      "x": 0.07510730121407778,
+      "y": 0.30523255806453375
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01458030504484975,
+      "text": "④catalog（ue） ［'keetalng］n. 目录，目录簿",
+      "width": 0.3175965529221755,
+      "x": 0.542918464654792,
+      "y": 0.3037790701726948
+    },
+    {
+      "confidence": 1,
+      "height": 0.013111676399906513,
+      "text": "力与质量的综合评价指标之一）",
+      "width": 0.24678109975961535,
+      "x": 0.0751073072822094,
+      "y": 0.28776041669229413
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014595445866386059,
+      "text": "⑤forgiveness ［fe'givnis］n. 宽恕，宽仁之心",
+      "width": 0.3304720951960637,
+      "x": 0.5429184583676334,
+      "y": 0.28488372104478765
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018529724950591797,
+      "text": "•语篇分析•",
+      "width": 0.12264611170842099,
+      "x": 0.44189582979338804,
+      "y": 0.2567235100144535
+    },
+    {
+      "confidence": 1,
+      "height": 0.01759326520065474,
+      "text": "第一至三段提出现象：“成绩宽恕”政策近几十年来日益在高校盛行。",
+      "width": 0.5815450815054086,
+      "x": 0.1158798255348493,
+      "y": 0.23110465117608048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017608406022191048,
+      "text": "第一段由“GPA膨胀”趋势引出本文关注对象“大学‘成绩宽恕’政策”。关键词为：① Grade",
+      "width": 0.8476394653320313,
+      "x": 0.11587984662582974,
+      "y": 0.21220930257142945
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338783755898476,
+      "text": "inflation； ②grade forgiveness。",
+      "width": 0.24892704303448016,
+      "x": 0.0751072931179531,
+      "y": 0.19596354197074994
+    },
+    {
+      "confidence": 1,
+      "height": 0.017638686423500416,
+      "text": "①句引出“分数膨胀”现象并指出显性环境因素：消费者文化的影响。开篇先抛出一个概念/现象",
+      "width": 0.8433476374699519,
+      "x": 0.11587982077682678,
+      "y": 0.17441860505689455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "Grade inflation 并借破折号引出其具体所指，average GPAs 对应 Grade,gradual increase 则解释 inflation，",
+      "width": 0.8862660921536959,
+      "x": 0.07510730613345232,
+      "y": 0.15552325574185366
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "可见该词（本指“通货膨胀、货币贬值”）在文中喻指“成绩通胀、GPA 贬值”。a product of...暗传因果，介",
+      "width": 0.8819742056039663,
+      "x": 0.07510730897913279,
+      "y": 0.13662790684650483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "词in 微妙关联 a consumer era 与 higher education：随着整个社会的“市场化”，高等教育也不免被这一潮",
+      "width": 0.8841201782226563,
+      "x": 0.0751073002305888,
+      "y": 0.11773255811346217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0174418600896995,
+      "text": "流绑架。in which 定语从句借展示“消费者时代”的特征进一步解释原因：学生成了顾客，换句话说，学校",
+      "width": 0.8841201782226562,
+      "x": 0.07510729195090365,
+      "y": 0.09738372133596418
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01942557717363036,
+      "text": "作为卖家，势必会“推高分数（一提供好产品/服务）”以取悦顾客。注：破折号间有两处 average，前者次",
+      "width": 0.8821845421424279,
+      "x": 0.07499908483980672,
+      "y": 0.07714285773203267
+    },
+    {
+      "confidence": 1,
+      "height": 0.011870154490073448,
+      "text": "18",
+      "width": 0.023605150442857006,
+      "x": 0.087982832208829,
+      "y": 0.06104651188733212
+    }
+  ],
+  "vision_ocr_text": "termism 多次同义/反义复现，体现文章关注点“企业的短期主义/长期主义”；worsen、hinder、at the\nexpense of 等蕴含强烈贬义色彩，传递作者对“短期主义”的批判、对“长期决策”的倡导。二、从选项入\n手，拆分选项信息、多角度判断正误。如本题选项均可拆分为“中心词/关注点十描述/限定信息”（［AJ\nFailure of + Quarterly Capitalism； ［B］Patience + as a Corporate Virtue ;LC］Decisiveness + Required of\nTop Executives； ［D］ Frustration + of Risk-taking Bankers）分别进行判断，可发现：LAJFailure of 违背文\n意，［C］Decisiveness 偏离文章关注点；［D］Risk-taking Bankers 缩窄文章针对群体；而［B］则既体现文章\n关注点，又符合作者观点，故正确。\nText 2\n大学“成绩宽恕”的兴起\n知识补充\n原文外教朗读\n学、文章总体分析\n本文选自 The Allantic《大西洋月刊》2018.06.29 一篇题为 The Rise of College \"Grade Forgiveness”\n（大学“成绩宽恕”的兴起）的文章。文章围绕美国大学“成绩宽恕”政策加速普及这一趋势，按照“先介绍\n现象（第一至三段）—后剖析原因（第四至六段）”的脉络展开论述，在逐层解释原因的同时流露出对高\n等教育过度“商品化”的批评与担忧之情。\n净二、语篇分析及试题精解\nI ① Grade inflation®—the gradual increase in\n分数膨胀一\n平均 GPA（GPA 指“平均\naverage GPAs （grade-point averages®） over the past\n学分绩点”）在过去数十年间的逐渐攀升\nfew decades—is often considered a product of a consumer\n往往被视为高等教育进入消费者时代的产物，\nera in higher education, in which students are treated like\n在这个时代，学生被当作需要被取悦的消费者\ncustomers to be pleased®\n. ② But another, related force一a\n看待。但还有个与之相关的推动力一\n一一项\npolicy often buried deep in course catalogs® called “grade\n通常深藏在课程目录里的、被称为“成绩宽恕”\nforgiveness®①”.\n- is helping raise GPAs.\n的政策———也在推高着GPA。\n•词汇注释与难向分析\n①inflation ［In'flefon］n. 膨胀，通货膨胀\n③please ［plisz］v. 使满意，使愉快\n②grade-point average 平均学分绩点（衡量学生学习能\n④catalog（ue） ［'keetalng］n. 目录，目录簿\n力与质量的综合评价指标之一）\n⑤forgiveness ［fe'givnis］n. 宽恕，宽仁之心\n•语篇分析•\n第一至三段提出现象：“成绩宽恕”政策近几十年来日益在高校盛行。\n第一段由“GPA膨胀”趋势引出本文关注对象“大学‘成绩宽恕’政策”。关键词为：① Grade\ninflation； ②grade forgiveness。\n①句引出“分数膨胀”现象并指出显性环境因素：消费者文化的影响。开篇先抛出一个概念/现象\nGrade inflation 并借破折号引出其具体所指，average GPAs 对应 Grade,gradual increase 则解释 inflation，\n可见该词（本指“通货膨胀、货币贬值”）在文中喻指“成绩通胀、GPA 贬值”。a product of...暗传因果，介\n词in 微妙关联 a consumer era 与 higher education：随着整个社会的“市场化”，高等教育也不免被这一潮\n流绑架。in which 定语从句借展示“消费者时代”的特征进一步解释原因：学生成了顾客，换句话说，学校\n作为卖家，势必会“推高分数（一提供好产品/服务）”以取悦顾客。注：破折号间有两处 average，前者次\n18",
+  "pdf_text_layer": "termism 多次同义 ／ 反义复现，体现文章关注点“企业的短期主义 ／ 长期主义”； wor se n, hi n d e r 、 at the\nexpense of 等蕴含强烈贬义色彩 ，传递作者对 “短期主义”的 批判、对 “长期决策”的倡导 。 二、从选项入\n手，拆分选项信息、多角度判断正误。如 本题选项均可拆分为“ 中心词 ／关 注点 ＋ 描述 ／ 限定信息” C [ A ]\nF ailure of + Quarterly Capitalism; [ B] Patience + as a Co rporate Virtue ; [CJ Decisiveness + R equired of\nTop Executi ves; [ DJ Frustration + of Ri s k taking Ba nker s ）分别进行判断 ， 可发现： ［ A] Fai l ure of 违背文\n意， ［ CJ Dec i s i v en ess 偏离文 章关注 点 ； ［ DJ Ri s k-ta king Bankers 缩窄文 章 针对群体；而 ［ BJ 则既体现 文章\n关注点，又符合作者观点，故正 确 。\n\n                                                                                                            回辈革~田\n\n\n                               /        Text 2             大学“成绩宽恕”的兴起                                      面碰茹茹辄\n                                                                                                             原文外教朗读\n\n\n\n\n       本文选自 The A tlant ic 《大 西洋月刊 》 20 1 8 .06. 29 一篇题为 T h e Ri se of College “ Grade F orgiveness ”\n（大 学“ 成绩宽恕”的 兴起）的文章 。 文章围绕美国大 学“ 成绩宽恕”政策加速普及这 一趋势，按照“先 介绍\n现 象（第 一至三 段） 一一后剖 析原因 （第 四 至六段）”的 脉 络展开论述，在逐层解释原因的同时流露出对高\n等教育过度“商品 化 ”的 批评 与担 忧之情 。\n\n\n喝： 三、短篇焚析及试题籍解\n       I O Grade inflation①一 the grad ual in crease 111                               分数膨胀一一 平均 GPA (GPA 指“平均\naverage GP As Cgrade-point averages( ) over the past\n                                                                             学分绩点”〉在过去数十年间的逐渐攀升 一一－\nfew d 巳ca d es一 i s often considered a product of a consumer\n                                                                             往往被视为高等教育进入消费者时代的产物，\nera in higher education, in which students are treated like\n                                                                             在这个时代，学生被当作需妥被取悦的消费者\ncustomers to be pleased( . 8 But: another, related forc e            a\n                                                                             看待 。 但还有个与之相关的推动力 一一 一项\npoli cy often buri ed deep in course catalogs© called “ grade\n                                                                             通常深藏在课程目录里的、被称为“成 绩宽恕”\nfo咆iven四＠ ”一 i s helping raise GP As.\n                                                                             的政策一一一也在推高着 GP A o\n\n\n\n                                                         释 …\n                                                                     分…                 J\n                                                               与 …\n                                                     注                        析\n                                           词\n                                           …     E\n                                                 -   －               ·   －        －\n\n\n                                                                     旬\n                                             －   U   ’   －           难…\n                                                                     …   ·        ．\n\n\n\n\n( inflation [ 1n 'fle1Jan] n. 膨胀，通货膨胀                            $       ( please [ pli:z] v. 使满意，使愉快\n②grade-point …ge 平均学 分绩点（衡 量学生学习 能                               !       ( cata\n力 与质盘 的 综合 词Z 价指标之 一 ）                                           $       ( forgiveness [fa' g 1 vn1s］ η．宽 恕 ，宽仁之 心\n\n                                                 ：：： ~：： 青：篇分析三 J\n       第一至三段提出现象 ： “成绩宽恕”政策近几十年来日益在高校盛行 。\n       第一段由“ GPA 膨胀”趋势引出本文关注对象“大学‘成绩宽恕’政策” 。 关键词为： ① Grade\ninflation ; ( grade forgiveness 。\n       ① 旬引出“分数膨胀”现象并指出显性环境因素 ： 消费者文化的影晌。 开 篇 先抛出 一 个概念 ／ 现 象\nGra de infl a tion 并借破折号引出其具体所指 ， a v erage GP As 对应 Gr ad e, gradua l in crease 则 衍’释 in fl a ti o n,\n可见眩词 （本 指“通货膨胀、货币贬值”）在文中喻指“成绩通胀、 GPA 贬值” 。 a product of. .. 暗传因果，介\n词 in 微妙 关联 a cons umer era 与 high e r edu cat ion ：随 着整个社会的“市场 化” ，高等教育 也 不免被这 一 潮\n流绑架 。 in w hi c h 定居从句借展示“消费者 时代”的特征进 一 步解释原因：学生成了顾客，换句话说，学校\n作为 卖家 ，势必 会“推高 分数（ ＝ 提供好产品 ／服务）”以取悦顾客 。注 ：破折 号 间有两处 average ，前者为\n  18",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 1869,
+    "pdf_text_character_count": 3836,
+    "nonempty": true
+  }
+}

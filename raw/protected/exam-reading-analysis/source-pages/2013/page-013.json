@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P013",
+  "year": 2013,
+  "pdf_page": 13,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017441859420057382,
+      "text": "world、indictment 所体现的克莱恩对快时尚的强烈批判。由此可判断文章结构：第二段首句涵盖第二、",
+      "width": 0.882978709721474,
+      "x": 0.04255319931479497,
+      "y": 0.9055232561184596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550103567033568,
+      "text": "三两段，共同介绍克莱恩对快时尚的谴责。",
+      "width": 0.35744680938136075,
+      "x": 0.04468085360719194,
+      "y": 0.8866279068122778
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.021886034161632595,
+      "text": "•真题精解•次",
+      "width": 0.1595744721277464,
+      "x": 0.4063829755622666,
+      "y": 0.8560209424808496
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017715815474225516,
+      "text": "23. The word \"indictment” （Line 3, Para. 2） is closest in 23. indictment 一词（第二段第三行）含义",
+      "width": 0.859574475050886,
+      "x": 0.05106382098519545,
+      "y": 0.828488372833576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011810543649483751,
+      "text": "meaning to",
+      "width": 0.09361701906869238,
+      "x": 0.08936170479189487,
+      "y": 0.8108638746552641
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016100199434769702,
+      "text": "最接近于",
+      "width": 0.08302474478652189,
+      "x": 0.5850833716946763,
+      "y": 0.8095371095130655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394565043092,
+      "text": "。",
+      "width": 0.021276594578534702,
+      "x": 0.7170212773383923,
+      "y": 0.8066860467400075
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111834750749618,
+      "text": "［A］ tolerance",
+      "width": 0.11914893402450386,
+      "x": 0.053191492420372126,
+      "y": 0.7892441864626336
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016907583980660168,
+      "text": "［A］容忍",
+      "width": 0.08334815365144577,
+      "x": 0.5487514556096645,
+      "y": 0.787331092118656
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013362960665638024,
+      "text": "［B］ indifference",
+      "width": 0.13829787389528708,
+      "x": 0.05106382762682456,
+      "y": 0.765706806311651
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014671861813330578,
+      "text": "［B］漠视",
+      "width": 0.07872340322911053,
+      "x": 0.5489361712881803,
+      "y": 0.7643979059002776
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157493781044804,
+      "text": "［C］ enthusiasm",
+      "width": 0.13404254255623652,
+      "x": 0.053191492728974,
+      "y": 0.7427325583134088
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01618857533519802,
+      "text": "［C］热情",
+      "width": 0.08093540878588212,
+      "x": 0.548893998184274,
+      "y": 0.7411789682179156
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317301635342726,
+      "text": "［D］ accusation",
+      "width": 0.12765957477905743,
+      "x": 0.05319148714947847,
+      "y": 0.7192408377256672
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01462620278303528,
+      "text": "［D］谴责",
+      "width": 0.08085106159078659,
+      "x": 0.5489361720060252,
+      "y": 0.717931937013214
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "［精准定位］由考查词所在句（第二段①句）可知，该词体现 Cline 就“快时尚”的总体态度。由下文",
+      "width": 0.842553149694684,
+      "x": 0.08085109315265797,
+      "y": 0.6917539268903627
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034031413612593,
+      "text": "（第二、三段）可知，Cline 认快时尚鼓动消费者频繁购衣，绑架了时尚周期，造成了多方危害。可见，",
+      "width": 0.882978709721474,
+      "x": 0.042553207160539466,
+      "y": 0.6714659687460693
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "Cline 对快时尚持“谴责”态度，［D］为所考词正确含义。",
+      "width": 0.46382977131226066,
+      "x": 0.04255320524812491,
+      "y": 0.651162791122154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "［命题解密］正确项［D］accusation 体现了第二段①句 feverish一词的否定色彩，以及随后 encourage",
+      "width": 0.8446808445956059,
+      "x": 0.08085107551070758,
+      "y": 0.6308139533868297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308900523560208,
+      "text": "consumers to see clothes as disposable... hijacked fashion cycles...rely on low-wage overseas labor...",
+      "width": 0.8787233783824233,
+      "x": 0.042553219071199216,
+      "y": 0.6119109949724084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016401943736051305,
+      "text": "strain natural resources...use massive amounts of harmful chemicals 传递的批判态度。",
+      "width": 0.7362899487959471,
+      "x": 0.04251477270850868,
+      "y": 0.5915418161596755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "［A］弱化 Cline 对快时尚的“不认同”，总体偏“接受态度”，但文中丝毫未提及 Cline 对快时尚的肯",
+      "width": 0.8404255132565553,
+      "x": 0.08085107471214793,
+      "y": 0.5697674415554344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016026421367185906,
+      "text": "定。［B］利用第一段①句doesn't affect her 捏造干扰“Cline 对快时尚漠不关心（indifference）”，但实际上",
+      "width": 0.8808510732833453,
+      "x": 0.042553195571093175,
+      "y": 0.5494186045786902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "该内容和 Cline 观点无关。［C］利用第二段①句 feverish形成干扰，但该词为贬义（Cline 认为快时尚非常",
+      "width": 0.8787233783824234,
+      "x": 0.04255319710311462,
+      "y": 0.5287958117746838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "疯狂），并非褒义（Cline 对快时尚充满热情）。",
+      "width": 0.3765957419442948,
+      "x": 0.04255319554760943,
+      "y": 0.5071989525768891
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "［技巧总结］“词义题”虽然总体上都意在考查根据上下文推断词义的能力，但具体方向有所不同：有",
+      "width": 0.8404255132565553,
+      "x": 0.08085107841161597,
+      "y": 0.48821989515199626
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "的侧重考查“文中同向/反向关系”，解题重点在于识别同义/近义/反义表达；有的考查“文中指代关系”，",
+      "width": 0.8808510732833453,
+      "x": 0.04255317942215719,
+      "y": 0.4679319368992969
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601881194489163,
+      "text": "解题重点在于厘清多个主体之间错综复杂的关系；有的侧重考查“总分解释关系”（往往就概括性词汇命",
+      "width": 0.8808510732833453,
+      "x": 0.042553195571093175,
+      "y": 0.44764397897060426
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "题），解题重点在于对详释部分进行概括。",
+      "width": 0.34893617593465637,
+      "x": 0.04255319153621785,
+      "y": 0.4258720928902212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860668322207,
+      "text": "本题重在最后一个考查角度，但也结合第一个角度：所考词是对Cline 就“快时尚”态度的高度概括，",
+      "width": 0.842553149694684,
+      "x": 0.08297875132287061,
+      "y": 0.4055232557365753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860668322207,
+      "text": "解题之道重在概括后文内容（第二、三段），但同时也可借助“同向关系”（feverish 与考查词 indictment 均",
+      "width": 0.8808510732833453,
+      "x": 0.04255318791151876,
+      "y": 0.3851744186774668
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "体现 Cline 对快时尚的态度）。",
+      "width": 0.25319148388858953,
+      "x": 0.04255319733762007,
+      "y": 0.36321989551989076
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013355350619211226,
+      "text": "™（",
+      "width": 0.03404255205644044,
+      "x": 0.0808510648228436,
+      "y": 0.33284883769204243
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011901862334206426,
+      "text": "1 Overdressed is the fashion world's answer",
+      "width": 0.3765957419442948,
+      "x": 0.11276596258104402,
+      "y": 0.3343023259878879
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942348,
+      "text": "《着装过度》是时尚界对消费者活跃分子畅",
+      "width": 0.370212744935719,
+      "x": 0.5468085165215023,
+      "y": 0.3252617800030083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013271641980915128,
+      "text": "to consumer-activist bestsellers like Michael Pollan's",
+      "width": 0.4468085044188518,
+      "x": 0.04255320154943913,
+      "y": 0.3139534889820135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942459,
+      "text": "销书（诸如迈克尔•普兰《杂食者的因境》之类）",
+      "width": 0.4127659414006376,
+      "x": 0.5063829833067734,
+      "y": 0.3049738219168543
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015570505751365205,
+      "text": "The Omnivore's Dilemma.",
+      "width": 0.25351495852415595,
+      "x": 0.04453569701150619,
+      "y": 0.2920505779389986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "② “Mass-produced",
+      "width": 0.18297872141403254,
+      "x": 0.3042553170944023,
+      "y": 0.2918848165458152
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "的回应。“批量生产服装如同快餐，虽填补了饥",
+      "width": 0.4127659414006376,
+      "x": 0.5063829841081918,
+      "y": 0.2833769631763867
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013286862073768502,
+      "text": "clothing,like fast food, fills a hunger and need, yet",
+      "width": 0.4468085044188518,
+      "x": 0.04255318715227652,
+      "y": 0.27159685839189274
+    },
+    {
+      "confidence": 1,
+      "height": 0.01767776711448954,
+      "text": "饿和需求，却不耐用，且浪费，”克菜恩如是认为。",
+      "width": 0.4148936070701629,
+      "x": 0.5063829878478973,
+      "y": 0.2630813952472343
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0133705707120646,
+      "text": "is non-durable\" and wasteful，” Cline argues.",
+      "width": 0.4085106392929837,
+      "x": 0.042553196098188854,
+      "y": 0.2526178009708929
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308139456504298,
+      "text": "③",
+      "width": 0.019148936216858592,
+      "x": 0.46595744654582605,
+      "y": 0.25145348870948436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "她发现，美国人每年大约购入200亿件衣服",
+      "width": 0.37234041060524425,
+      "x": 0.506382983952697,
+      "y": 0.24273255783450398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014618592736608704,
+      "text": "Americans, she finds, buy roughly®20 billion garments",
+      "width": 0.44255317307980124,
+      "x": 0.046808520729602926,
+      "y": 0.2310209424569275
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550102942901155,
+      "text": "每人约64件且无论他们捐出多少，这种过",
+      "width": 0.4127659414006375,
+      "x": 0.5063829908741493,
+      "y": 0.22382198973212264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013104224704323042,
+      "text": "a year-about 64 items per person—and no matter how",
+      "width": 0.4468085044188518,
+      "x": 0.042553189013978525,
+      "y": 0.21073298411526253
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "量都会造成浪费。",
+      "width": 0.1553191407886958,
+      "x": 0.5063829846854392,
+      "y": 0.20203488400006098
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01312705421947058,
+      "text": "much they give away, this excess leads to waste.",
+      "width": 0.3914893431681783,
+      "x": 0.042553200047116574,
+      "y": 0.19040697691805986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "词汇注释与难句分析。",
+      "width": 0.21276595309319624,
+      "x": 0.36170213051723166,
+      "y": 0.16279069768915522
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011780104712041828,
+      "text": "①non-durable a. 不耐用的",
+      "width": 0.20425531964649188,
+      "x": 0.04468084911292431,
+      "y": 0.13939790565745858
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011780104712041828,
+      "text": "②no matter how much/how many/when/how...（无",
+      "width": 0.4148936070701629,
+      "x": 0.5085106391244931,
+      "y": 0.1393979056719934
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014610982066049605,
+      "text": "② roughly［'rAtl］ad.概略地",
+      "width": 0.22127658653990057,
+      "x": 0.04255319747473051,
+      "y": 0.11627907002119708
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013157493781044804,
+      "text": "论多少/什么时候/如何⋯⋯）",
+      "width": 0.22765956893277806,
+      "x": 0.5063829833882209,
+      "y": 0.1191099477723101
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013142273688191541,
+      "text": "• 经典搭配",
+      "width": 0.10638297654659813,
+      "x": 0.04255319390755195,
+      "y": 0.09156976792460059
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111834750749618,
+      "text": "①fill a hunger and need（满足食欲和需求）",
+      "width": 0.3340425454793762,
+      "x": 0.04255319773143651,
+      "y": 0.07264397888351615
+    },
+    {
+      "confidence": 1,
+      "height": 0.011810544273616053,
+      "text": "13",
+      "width": 0.023404254767173116,
+      "x": 0.8851063830596757,
+      "y": 0.05232558167102741
+    }
+  ],
+  "vision_ocr_text": "world、indictment 所体现的克莱恩对快时尚的强烈批判。由此可判断文章结构：第二段首句涵盖第二、\n三两段，共同介绍克莱恩对快时尚的谴责。\n•真题精解•次\n23. The word \"indictment” （Line 3, Para. 2） is closest in 23. indictment 一词（第二段第三行）含义\nmeaning to\n最接近于\n。\n［A］ tolerance\n［A］容忍\n［B］ indifference\n［B］漠视\n［C］ enthusiasm\n［C］热情\n［D］ accusation\n［D］谴责\n［精准定位］由考查词所在句（第二段①句）可知，该词体现 Cline 就“快时尚”的总体态度。由下文\n（第二、三段）可知，Cline 认快时尚鼓动消费者频繁购衣，绑架了时尚周期，造成了多方危害。可见，\nCline 对快时尚持“谴责”态度，［D］为所考词正确含义。\n［命题解密］正确项［D］accusation 体现了第二段①句 feverish一词的否定色彩，以及随后 encourage\nconsumers to see clothes as disposable... hijacked fashion cycles...rely on low-wage overseas labor...\nstrain natural resources...use massive amounts of harmful chemicals 传递的批判态度。\n［A］弱化 Cline 对快时尚的“不认同”，总体偏“接受态度”，但文中丝毫未提及 Cline 对快时尚的肯\n定。［B］利用第一段①句doesn't affect her 捏造干扰“Cline 对快时尚漠不关心（indifference）”，但实际上\n该内容和 Cline 观点无关。［C］利用第二段①句 feverish形成干扰，但该词为贬义（Cline 认为快时尚非常\n疯狂），并非褒义（Cline 对快时尚充满热情）。\n［技巧总结］“词义题”虽然总体上都意在考查根据上下文推断词义的能力，但具体方向有所不同：有\n的侧重考查“文中同向/反向关系”，解题重点在于识别同义/近义/反义表达；有的考查“文中指代关系”，\n解题重点在于厘清多个主体之间错综复杂的关系；有的侧重考查“总分解释关系”（往往就概括性词汇命\n题），解题重点在于对详释部分进行概括。\n本题重在最后一个考查角度，但也结合第一个角度：所考词是对Cline 就“快时尚”态度的高度概括，\n解题之道重在概括后文内容（第二、三段），但同时也可借助“同向关系”（feverish 与考查词 indictment 均\n体现 Cline 对快时尚的态度）。\n™（\n1 Overdressed is the fashion world's answer\n《着装过度》是时尚界对消费者活跃分子畅\nto consumer-activist bestsellers like Michael Pollan's\n销书（诸如迈克尔•普兰《杂食者的因境》之类）\nThe Omnivore's Dilemma.\n② “Mass-produced\n的回应。“批量生产服装如同快餐，虽填补了饥\nclothing,like fast food, fills a hunger and need, yet\n饿和需求，却不耐用，且浪费，”克菜恩如是认为。\nis non-durable\" and wasteful，” Cline argues.\n③\n她发现，美国人每年大约购入200亿件衣服\nAmericans, she finds, buy roughly®20 billion garments\n每人约64件且无论他们捐出多少，这种过\na year-about 64 items per person—and no matter how\n量都会造成浪费。\nmuch they give away, this excess leads to waste.\n词汇注释与难句分析。\n①non-durable a. 不耐用的\n②no matter how much/how many/when/how...（无\n② roughly［'rAtl］ad.概略地\n论多少/什么时候/如何⋯⋯）\n• 经典搭配\n①fill a hunger and need（满足食欲和需求）\n13",
+  "pdf_text_layer": "world 、 indictm e nt 所体现的 克莱恩对快 时尚的强烈批判 。 由此可判断文 章结 构：第 二 段 首 句涵盖第 二 、\n三 两段，共同介绍克莱恩对快时尚的谴责 。\n\n                                                         :. .真理墙也二 ： J\n 23. The word “ indictment ” ( Line 3 , Para. 2 ) is closest in                    23. indictment 一词（ 第 二 段第 三行） 含义\n       meaning to 一一一一·                                                                 最接 近于              。\n\n\n\n\n [ A ] tolerance                                                                    [ A ］容忍\n\n [ BJ indiffe rence                                                                 [ BJ 漠 视\n\n [ CJ enthu sias m                                                                  [CJ 热情\n\n [ DJ accusatio n                                                                   [ DJ 谴责\n\n       ［ 精准定位 ］ 庄｜ 考查同所在句（第 二 段①句）可 知 ，该词 体现 C l in e 就“快 时尚 ”的 总体 态度。由 下 文\n（第 二 、 三 段）可知， C l ine 认为快时尚鼓动消费者频繁购衣，绑架了时尚周期，造成了多方危 害 。 可见，\nC l in e 对快时尚持“谴 责 ” 态度， ［ DJ 为 所 考同 正确 含义 。\n       ［命题解密］ 正确项 ［ D] acc u sa tion 体现了第 二 段 ① 句 feve r i s h 一 同的 否定色彩， 以 及随后 e ncourage\ncons umer s to see clothes as di sposa bl e... hij ac ked fa s hion cyc les . . . rely on low- wage over seas labor. . .\nstrain natura l r eso ur ces .. . use massive amounts of harmful ch e mi ca l s 传递的 批判 态度。\n       [ A ］弱 化 C l i n e 对快时尚的“不认同”，总体偏“接 受 态度”，但文中丝 毫未提及 C l in e 对快时尚的肯\n定 。 ［ BJ 利用第 一 段 ① 句 d oes n ' t aff ect h e r 捏 造干扰“ C l ine 对快时尚摸不关心（ i ndiffer e n ce ）”，但实际上\n该内容 和 Cl in e 观点无 关 。［ CJ 利用 第 二 段 ① 句 feve r i s h 形成干扰，但该词为贬 义（ Cl in e 认为快 时尚非 常\n疯狂），并非褒义（ C l in e 对 快时尚充满热情） 。\n       ［ 技巧总结 ］ “词义题”虽然总体上都意在考查根据上 下文推断词 义 的能 力，但具体方向有所不 同： 有\n的侧 重考查“文 中同向 ／反 向 关系”， 1问题重点在于识 别同义 ／ 近义 ／反 义表达；有的 考 查 “文 中指代关系”，\nffi!/o 题重 点在 于厘清多 个 主 体之间错 综复杂 的 关系；有 的侧 重考查“总分解释关系”（往往就概括 性词 汇命\n题） ，解 题 重点在 于对详释部分进行概括 。\n       本题重在最后一个考查角度，但 也 结合第一 个 角度 ：所 考 词 是 对 C l in e 就“快时 尚”态 度 的 高 度概括，\nif!!？ 题 之道 重在 概括后文内 容（第二、 三 段），但 同时也可借助“同向 关 系”（ f e ve r i s h 与考查词 indi c tment 均\n体现 Cline 对快时尚的态 度） 。\n\n\n          。 Ove r功’essed is th e fa shion world ’ s a nswer\n\nto cons um er ac tiv ist bes tse ll er s lik 巳 Mi c h ae l Polla n ’ S\n                                                                               销书（诸如迈克尔 · 普兰《杂食者的困境》之类）\nTh e    Omni voγt 's     Dilemma .        @ “ Mass produ ced\n                                                                               的回应 。 “批量生产服装如同快餐，虽填补了饥\ncloth ing, lik e fast food, fill s a hunger and need, ye t\n                                                                               饿和需求，却不耐用，且浪费，”克莱恩如是认为。\nis non-dm吼ile(]) and wastef ul ,\" C line argu es .                     @\n                                                                               她发现，美国人每年大约购入 200 亿件衣服一一\nAmericans, she finds , buy roughly( 20 billion ga rments\n                                                                               每人约 64 件 一一… 且无论他们捐出多少，这种过\na yea 「－ about 64 items per person            and no matter how\n                                                                               量都会造成浪费 。\nmuch they give away, thi s excess leads to waste.\n                                                     词\n                                                                 释 …\n                                                               注 －\n                                                                       析\n                                                                       …\n                                                                       分\n                                                                         …\n                                                                       … …                J\n                                                         「」…\n                                                                               －\n\n                                                                       旬\n                                                                 e\n                                                                       难…\n                                                                       －\n                                                                       与\n                                                                       …\n                                                                       －\n\n\n\n\n( non-durable u . 不 耐用的                                                    1   ( no matter how much/ how many/ when/ how .. . （无\n( roughly [ 1rAf11] ud. 概略 地                                               广／什叫／如何                     )\n\n．经典搭配\n( fill a hunger and need （满足食欲和1 需求）\n                                                                                                                           13",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 1843,
+    "pdf_text_character_count": 4676,
+    "nonempty": true
+  }
+}

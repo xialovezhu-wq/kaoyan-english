@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P027",
+  "year": 2020,
+  "pdf_page": 27,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.021952687071369215,
+      "text": "•词汇注释与难句分析，",
+      "width": 0.21987315155270865,
+      "x": 0.3763213526380221,
+      "y": 0.8879310342177662
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016022664881877535,
+      "text": "①sponsor ［'sppnse］v.倡议，提交（法案等）",
+      "width": 0.3319238748273623,
+      "x": 0.06765328042458534,
+      "y": 0.8691860463324541
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016022664881877646,
+      "text": "经典搭配",
+      "width": 0.08282791781865828,
+      "x": 0.5493073876903257,
+      "y": 0.8647912889273834
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01473800240324541,
+      "text": "②Speaker Pro Tempore 临时议长",
+      "width": 0.25369979335009896,
+      "x": 0.06765327668647268,
+      "y": 0.8529945553259481
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013157894736842035,
+      "text": "①a case in point（范例，例证）",
+      "width": 0.22410146667963604,
+      "x": 0.5327695620794914,
+      "y": 0.8502722321774424
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "③ parity ［'peerati］ n.（犹指薪金或地位）平等，对等",
+      "width": 0.38900632027900317,
+      "x": 0.06765328482173878,
+      "y": 0.8343023253840529
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "② set aside（留出）",
+      "width": 0.13742071468786066,
+      "x": 0.5306553920394382,
+      "y": 0.8328488374103739
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014698433573146485,
+      "text": "④quota ［'kwaut」n. 配额，定额",
+      "width": 0.24947145809284302,
+      "x": 0.06765327951594632,
+      "y": 0.816696914599361
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016322260543352507,
+      "text": "•语篇分析",
+      "width": 0.10159010874564539,
+      "x": 0.42700621539397193,
+      "y": 0.7847167768000858
+    },
+    {
+      "confidence": 1,
+      "height": 0.019056261343012748,
+      "text": "第二、三段举例说明“多样性指令”，并初步展示其“保护最有特权者”的性质。",
+      "width": 0.646934448886358,
+      "x": 0.10147992682531988,
+      "y": 0.7586206899851962
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02503534929722062,
+      "text": "第二段引入具体事例：麻州旨在确保政府委员会“性别平等”的两项法案。关键词：A pair of bills。",
+      "width": 0.8229540017160702,
+      "x": 0.101212801628747,
+      "y": 0.7377177026889097
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860344362348,
+      "text": "句子整体以 A pair of bills..• provide a case in poinl 提出对上段的例证，sponsered ky...说明法案发",
+      "width": 0.841437588895531,
+      "x": 0.10359410897013437,
+      "y": 0.7267441861553382
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01910374341988952,
+      "text": "起者及所属州；to ensure\"gender parity” on boards and commissions 说明法案核心内容，明确 diversity",
+      "width": 0.8816067738394624,
+      "x": 0.06553910312255214,
+      "y": 0.706395349307922
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019056261343012748,
+      "text": "mandates/such policies 所指：要求“委员会抛却性别偏见，确保性别平等”的命令/政策（即：diversity 指",
+      "width": 0.8816067738394623,
+      "x": 0.06342493982445492,
+      "y": 0.6860254083764055
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186034436246,
+      "text": "“性别、年龄等的多样性”，但本文很可能关注“性别多样性”）。",
+      "width": 0.5200845522113086,
+      "x": 0.06342495867235833,
+      "y": 0.6686046512231676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01938349365538994,
+      "text": "第三段具体介绍麻州法案。关键词：imposing government quotas。",
+      "width": 0.5478995532033312,
+      "x": 0.09920723021818757,
+      "y": 0.6449558033120169
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020331550639683837,
+      "text": "①句介绍法案针对的情形：麻州多数政府委员会中女性占比低于 40%。",
+      "width": 0.6030128499134235,
+      "x": 0.09914969388320913,
+      "y": 0.626301396750469
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01957726694927453,
+      "text": "数字对 more than half、.less",
+      "width": 0.23334297844476626,
+      "x": 0.7142089200016343,
+      "y": 0.6287090008560206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511917,
+      "text": "than 40 percent 凸显委员会当前普遍情形“女性少于男性“。注：由丁此处的 concerned 应顺承首段",
+      "width": 0.8794926062108345,
+      "x": 0.06342494652460386,
+      "y": 0.6102540832262988
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "insincere form of virtue-signaling 的“虚伪”色彩，故不取其常见义 worried about sth“担忧的、焦虑的”（饱",
+      "width": 0.8794926062108344,
+      "x": 0.06342494996012185,
+      "y": 0.5915697673568886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "含情感），而是取另一义项 believing that sth is important“关心的，关注的”（相对中性）。",
+      "width": 0.7336152008781333,
+      "x": 0.0655391298991996,
+      "y": 0.5725952816958149
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02158132611948005,
+      "text": "②句介绍法案的目的及提出的措施。In order to.•.they have proposed.. 明确“目标——手段”关",
+      "width": 0.8437473427966277,
+      "x": 0.09927731716750757,
+      "y": 0.551207118364903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014666778855228602,
+      "text": "系：ensure that elite women have more such opportunities 回应上段 ensure “gender parity” on boards and",
+      "width": 0.8773784385822064,
+      "x": 0.0676532827349714,
+      "y": 0.5376588021297789
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016096526178820292,
+      "text": "commissions，进一步明确法案目的：确保更多女性进人委员会。imposing government quotas（impose 意",
+      "width": 0.8794926062108345,
+      "x": 0.06342493545695083,
+      "y": 0.5158802180955571
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "为“强制实行”）指出具体举措：强制实行政府配额制。",
+      "width": 0.44608880599130113,
+      "x": 0.06553910970444003,
+      "y": 0.49546279453658126
+    },
+    {
+      "confidence": 1,
+      "height": 0.016209017343399967,
+      "text": "③句明确法案具体规定。",
+      "width": 0.21180660680604801,
+      "x": 0.09709124192518732,
+      "y": 0.4766494030012215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033814,
+      "text": "50 percent、by 2022 以明确的配额及具体的时间体现强制性规定：到2022",
+      "width": 0.6384777783718462,
+      "x": 0.3065539146724281,
+      "y": 0.47819767413041914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014743277901097307,
+      "text": "年，各类委员会须将 50%的席位留给女性。If the bils become law 说明法案当前状态：尚未获得通过成",
+      "width": 0.8794926062108345,
+      "x": 0.06342493545695083,
+      "y": 0.46075581437836466
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372415033814,
+      "text": "为法规。",
+      "width": 0.07188160375429017,
+      "x": 0.06553911427507478,
+      "y": 0.44186046494073894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017447135842214245,
+      "text": "【深层解读】第二、三段以 A pair of bills...provide a case in point 引出对首段的具体例证，多组词汇照",
+      "width": 0.8456659241527869,
+      "x": 0.09513743357446731,
+      "y": 0.4215063523864454
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "应体现例证关系：① ensure “gender parity”",
+      "width": 0.3678646842533806,
+      "x": 0.06342495634054005,
+      "y": 0.4024500904687688
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "vensure that elite women have more such opportunities、impose",
+      "width": 0.5179703845826806,
+      "x": 0.42706131286193677,
+      "y": 0.40406976757631374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600683752291865,
+      "text": "government quotas 说明首段 diversity mandates（多样性指令）内涵：强制（委员会）实行性别配额制的政府指",
+      "width": 0.8773784385822063,
+      "x": 0.06342495252707855,
+      "y": 0.3837209302314367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014661503357376704,
+      "text": "令；②boards and commissions、the state-government boards, state boards and commissions 以及 elite women 呼",
+      "width": 0.8773784385822064,
+      "x": 0.06553909610706488,
+      "y": 0.36615244989022777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "应首段 benefits only the most privileged，说明多样性指令保护对象：精英人士/最有特权者。",
+      "width": 0.750528541907157,
+      "x": 0.06342495431069194,
+      "y": 0.3457350268755035
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016078061070935457,
+      "text": "真题精解",
+      "width": 0.09936574769837875,
+      "x": 0.4334038081539819,
+      "y": 0.3183139534182098
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013202739064792968,
+      "text": "31. The author believes that the bills sponsored by Lewis",
+      "width": 0.46088793913103976,
+      "x": 0.0739957721258121,
+      "y": 0.29215116300872646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01456390058929391,
+      "text": "31.作者认为刘易斯与哈达德提出的两项法",
+      "width": 0.3805496900251484,
+      "x": 0.5517970403996879,
+      "y": 0.2921511633609227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418101509763,
+      "text": "and Haddad will",
+      "width": 0.1374207146878607,
+      "x": 0.07399577545205267,
+      "y": 0.2761627910037511
+    },
+    {
+      "confidence": 1,
+      "height": 0.013289789971768773,
+      "text": "案将",
+      "width": 0.04016913210181883,
+      "x": 0.5517970403127269,
+      "y": 0.274500907368342
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014627210025129678,
+      "text": "［A］ help little to reduce gender bias",
+      "width": 0.3086680711731118,
+      "x": 0.07399577722528339,
+      "y": 0.25136116164301736
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014719537295360574,
+      "text": "［A］ 对减少性别偏见无济于事",
+      "width": 0.26004227610565434,
+      "x": 0.5517970453906189,
+      "y": 0.2527223227594144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014542796867079821,
+      "text": "［B］ pose a threat to the state government",
+      "width": 0.3551796784816128,
+      "x": 0.07399577865912331,
+      "y": 0.22819767514386846
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "［B］ 对州政府构成威胁",
+      "width": 0.1987314953967575,
+      "x": 0.5517970454834393,
+      "y": 0.22819767434844251
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013205376813718916,
+      "text": "［C］ raise women's position in politics",
+      "width": 0.3150105539286671,
+      "x": 0.07610994449444021,
+      "y": 0.2063953493168661
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016020027132951586,
+      "text": "［C］提高女性在政界的地位",
+      "width": 0.23890061994970324,
+      "x": 0.5517970499352964,
+      "y": 0.20494186050396568
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "［D］ greatly broaden career options",
+      "width": 0.2917547502744166,
+      "x": 0.07610994279091003,
+      "y": 0.18313953521802884
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014682606214187488,
+      "text": "［D］大大拓宽职业选择",
+      "width": 0.20084566302538553,
+      "x": 0.5496828742219796,
+      "y": 0.18313953529406235
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511806,
+      "text": "［精准定位］本题考查作者对两项麻州法案的看法，可定位至第二、三段，发现两项法案意在确保各",
+      "width": 0.845665924152787,
+      "x": 0.0951374449003507,
+      "y": 0.15834845730023572
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348273690993,
+      "text": "委员会中的“性别平等”（即：减少性别偏见）。而两项法案为对首段②句作者观点“此类政策往往是一种",
+      "width": 0.8794926062108345,
+      "x": 0.06342495304680251,
+      "y": 0.13953488407536385
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "虚伪的道德信号，仅有利于最有特权者，却无益于普通人”的例证。可见作者认为，法案并不能如发起人",
+      "width": 0.8794926062108345,
+      "x": 0.06342493545695083,
+      "y": 0.11918604651386533
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362348,
+      "text": "所言减少性别偏见，［A］正确。",
+      "width": 0.25581394084839837,
+      "x": 0.0634249544965196,
+      "y": 0.0988372091446792
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606223371197657,
+      "text": "［命题解密］正确项［A］契合首段作者对此类政策的评价：虽宣称可实现平等、促进公平竞争（a path",
+      "width": 0.8498942594100428,
+      "x": 0.09513744397362546,
+      "y": 0.08284883713308389
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186034436246,
+      "text": "to equality and a way to level the playing field），实则仅有利于最有特权者，却无助于普通人（benefits only",
+      "width": 0.8816067738394624,
+      "x": 0.06342494823883106,
+      "y": 0.06395348860688854
+    },
+    {
+      "confidence": 1,
+      "height": 0.014674692967409642,
+      "text": "27",
+      "width": 0.0274841439440886,
+      "x": 0.9027484144576597,
+      "y": 0.04491832987806288
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析，\n①sponsor ［'sppnse］v.倡议，提交（法案等）\n经典搭配\n②Speaker Pro Tempore 临时议长\n①a case in point（范例，例证）\n③ parity ［'peerati］ n.（犹指薪金或地位）平等，对等\n② set aside（留出）\n④quota ［'kwaut」n. 配额，定额\n•语篇分析\n第二、三段举例说明“多样性指令”，并初步展示其“保护最有特权者”的性质。\n第二段引入具体事例：麻州旨在确保政府委员会“性别平等”的两项法案。关键词：A pair of bills。\n句子整体以 A pair of bills..• provide a case in poinl 提出对上段的例证，sponsered ky...说明法案发\n起者及所属州；to ensure\"gender parity” on boards and commissions 说明法案核心内容，明确 diversity\nmandates/such policies 所指：要求“委员会抛却性别偏见，确保性别平等”的命令/政策（即：diversity 指\n“性别、年龄等的多样性”，但本文很可能关注“性别多样性”）。\n第三段具体介绍麻州法案。关键词：imposing government quotas。\n①句介绍法案针对的情形：麻州多数政府委员会中女性占比低于 40%。\n数字对 more than half、.less\nthan 40 percent 凸显委员会当前普遍情形“女性少于男性“。注：由丁此处的 concerned 应顺承首段\ninsincere form of virtue-signaling 的“虚伪”色彩，故不取其常见义 worried about sth“担忧的、焦虑的”（饱\n含情感），而是取另一义项 believing that sth is important“关心的，关注的”（相对中性）。\n②句介绍法案的目的及提出的措施。In order to.•.they have proposed.. 明确“目标——手段”关\n系：ensure that elite women have more such opportunities 回应上段 ensure “gender parity” on boards and\ncommissions，进一步明确法案目的：确保更多女性进人委员会。imposing government quotas（impose 意\n为“强制实行”）指出具体举措：强制实行政府配额制。\n③句明确法案具体规定。\n50 percent、by 2022 以明确的配额及具体的时间体现强制性规定：到2022\n年，各类委员会须将 50%的席位留给女性。If the bils become law 说明法案当前状态：尚未获得通过成\n为法规。\n【深层解读】第二、三段以 A pair of bills...provide a case in point 引出对首段的具体例证，多组词汇照\n应体现例证关系：① ensure “gender parity”\nvensure that elite women have more such opportunities、impose\ngovernment quotas 说明首段 diversity mandates（多样性指令）内涵：强制（委员会）实行性别配额制的政府指\n令；②boards and commissions、the state-government boards, state boards and commissions 以及 elite women 呼\n应首段 benefits only the most privileged，说明多样性指令保护对象：精英人士/最有特权者。\n真题精解\n31. The author believes that the bills sponsored by Lewis\n31.作者认为刘易斯与哈达德提出的两项法\nand Haddad will\n案将\n［A］ help little to reduce gender bias\n［A］ 对减少性别偏见无济于事\n［B］ pose a threat to the state government\n［B］ 对州政府构成威胁\n［C］ raise women's position in politics\n［C］提高女性在政界的地位\n［D］ greatly broaden career options\n［D］大大拓宽职业选择\n［精准定位］本题考查作者对两项麻州法案的看法，可定位至第二、三段，发现两项法案意在确保各\n委员会中的“性别平等”（即：减少性别偏见）。而两项法案为对首段②句作者观点“此类政策往往是一种\n虚伪的道德信号，仅有利于最有特权者，却无益于普通人”的例证。可见作者认为，法案并不能如发起人\n所言减少性别偏见，［A］正确。\n［命题解密］正确项［A］契合首段作者对此类政策的评价：虽宣称可实现平等、促进公平竞争（a path\nto equality and a way to level the playing field），实则仅有利于最有特权者，却无助于普通人（benefits only\n27",
+  "pdf_text_layer": ":~::~:i~:~i}jjjjj~Jf :;: : ~\n<Dsponsor ['spDnsa] v. 1lHSl,tl5E<~~~ )                                      ~           e ~!f!!.f!ffic\n@Speake\\ Pro T~mpore llffi flit~*                                            ~           <Da 1,;11:sc:: : 1 pui11t( 1t! {9lJ , f§!J iil:)\n@parity [ pserat1] n. (~ffilf~~:l&fti).ljl-~ ,~;j'•                          ~           @set aside( Ii tli)\n@quota [ 1kw3Uta] n.         nc•\n                            ,~t@i                                            }~\n\n                                                           c:~)~~}fJ~:::~: :I\n     ~   ='=Ji* i§lj ijt PJl ~ *¥ ·Ii j~ ~ # ~JJ :$- Hi ~ Jt -f* !P. ~ !f;j *~ =t'- a{) ·Ii /M:\n                                                JI f\n                                                                                   11                                  11\n                                                                                                                                     o\n\n                                                                                                                                    *\n                                 U\n\n\n                                                  \"*\n     ~=Ji 5I A ~1:$: $ f§IJ : • ffi ~ tE ?i1ft u.t }(if~~~ /i ~u.iJl ~ .. a{) p;fj ~ 51 ~\n      1\n                                                                               0 1\n                                                                                                 itffil : A pair of billso      0\n\n     · J:JJ'f'~#.~ A pair of bills... provide a ca:se in .1Jui11t it!W;A,t J:.~0~{11.la, ~pc,1.·.;)c,x c.cl ~:, ••• ~RJHt.*£\n\n®~ JkJi]f a #I ; to ensure\" gender parity\" on boards and commissions iM, !Yl U;. ~ ~ JL' pg ~, f!ij i.fB diversity\nmandates/ such policies JiJf m:~ ~ \"~ .!J! ~ ~ !JJ tt §.m -ffi fil , ~ 1¥: tt JJtl .ijt- ~\" 09 fiJ- ~ / ~. <l!P : diversity m\n\"tt§JU .. ~~~89~~tt\" ,ffl.*1c~\"fiJ~;ktt\"tt§JU~~tt\") o\n     ~.=.Ji Ai* 1t i~ • ~·I 51 o       **     ~ ffil : imposing government quotas                              0\n\n                        *\n    CD 'AJ 1t ~B 51 tt ~ tt,J ffl Jf~ : Ja !Jii ~Ii®:~~ ~ ~ q:i -k /i i5 ~tilt -=f 40 % J:t ~ x,J- more than half, less\n                                                                                            1\n                                                                                                                            0\n\nthan 40 percent 8 Ji. ~ ~ ~ ~ rfu ft :iii 11 ~ \"'.!,J. 11: j,· ::Y- ~ t±. \" o ~ : mT lit~ 89 concerned m. )@! ._ 1t &:\ninsincere form of virtue-signaling 89\"!flf'J\"-fg~, ~~ltk;lt'ilt fil.Sl worried about sth\"ffl tt 89, ~~ 89\" ( f1g\n*11' S) , mi :l!ltk~ -Jl}Ji! believing that sth is important\" ;k,C., 89, ;kit 89\" ( ffl .X;j ~ tt) o\n    @ m 1t tB ~ ;i a{) ~ a{)~ 1ft 1:1:i a{) ffl »1§ In order to. .. they have proposed. .. M fifu\" § ~---¥ &: \";k\n                                                       0\n\n~ : ensure that ehte women have more such opportunities @Im. ...t~ ensure \"gender parity\" on boards and\ncommissions,~-:lv'Yli!D~~ § a<J: .fefD-{¥:}!$--J;E:tt:itfA~ Jj! ~ o imposing government quotas(impose ~\nJ:J\"5i$1J~fi\")ffi iliA{**ffi: 5iittJ~fi~JM~tJii*1J o\n     ® m P,ij ?i1t i~   *Ai* i.m ~ . so percent, by 2022 ~ fifu 89 ffctn.&A-f* 89 B;f faJ .f*$ ffi ffi!J tt AAUE : f!J 2022\n                                                                                  f!ij\n~ ,4§.~~lxl ~®l~ oCI½ ~~{rr Ii ~j(tt o If the bills become law iJi~ r!~ ~fir~~: fllo *~~im:i:tnl\n7-Jf!:~o\n    (~~Mw;] ffi=,-R~ A pair of bills... provide a case in point 51 IB~11tRl'fJA.f*-01JiiE,$ffl~[:Jm\nJ;i. ~ ~ ~) 1ll: ~ ~ : CD ensure \"gender parity\", ensure that elite women have more such opportunities, impose\ngovernment quotas iM.Ma &: diversity mandatesC$f-fttm4-) pg ti: 5.!il ffi!J <~ .M ~ )~~Tf.£jj1Jnc•ffi1J 99;t.Jff ffi\n~;@boards and commissions,the state-government boards,state boards and commissions ~bt elite women~\nf.&1tR benefits only the most privileged,iJtM~~ttt~4-{¥tPx,J\"~ :ffl~A±/fi:1f~~# o\n                                                           i   :·1t~¥i1fli·-~- ~-J\n                                                           ···········   . . . . . . . ,lfitll'\n\n 31. The author believes that the bills sponsored by Lewis\n and Haddad will                   .\n [A] help little to reduce gender bias\n                                                                                                .:If\n                                                                                                31. f1=:i'-~j:J ~J iJ WT~ 11€i~ -tl 1:1:i a{] pij\"J9i*\n                                                                                                                   .\n                                                                                                [A] ~~j>f!jjlj{iuJQ.xt!r~~\n [BJ pose a threat to the state government                                                      [BJ ~g}H ~JM~ Jvt llt !Ji\n [CJ raise women's position in politics                                                         [ CJ m: ;ij 31: tt tE ~ .W- 89 :t& 'Ul\n [DJ greatly broaden career options                                                             [ D] :k :k1Ei      :m 1JJ{]k ~ ~\n      [ ffl it '.lE {ft J *Im~:lf fF # ~ 1!§ 1Ji ~ 1H ~ ~ 119 # ~ , \"fiJ ~'UL~~= , ~ ~ $ p;§\" JJi r! ~ ~ t£ iiJu 1¥ ~  =,\n~ 1Jl ~'t1 ~~11:ltllfl-~\"(IIP :~1>ttjjtJ~~) o W~~tk~:hx.ttr &:®1iJfF~~R.\\\" .ttt~~jfitttt¾-~\n                                   r\n~ \"'1 89 ii ffl {~ % , ,&;ff ~J :ll:;ff~~~ , !JJ               x~\n                                                         -r ft~ A.\" l¥J -01J iiE o 'fiJ JA!. f'F ~ il '1 , 1* ~ # ~ tm :tlll ~ ~A.\nP.Jr ~ 2-lt 1\" tt §JU ~ It , [ AJ .iE fifu o\n      [ $~MW ] .iEiiJDJJi![AJ~½1t ~fF~M Jlt~i§tjfil'.m-Wfft: &1!$\"fiJ~$lfl-~, i!Eizt¾lfl-j[f!- (a path\nto equality and a way to level the playing field) ,~!iltl-Ot~~Jrlll~~-t1(# ,!JJxflfJr'.&5AA <henefits only\n                                                                                                                                                  27",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2215,
+    "pdf_text_character_count": 6054,
+    "nonempty": true
+  }
+}

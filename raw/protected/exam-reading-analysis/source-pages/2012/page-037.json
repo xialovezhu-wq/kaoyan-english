@@ -1,0 +1,526 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P037",
+  "year": 2012,
+  "pdf_page": 37,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01794222075277596,
+      "text": "［A］混淆②句时态；［B］脱离下文对①句断章取义，［D］偏离②③④句关注对象，从而确定正确项为LC」。",
+      "width": 0.8685089753189233,
+      "x": 0.05938060481396192,
+      "y": 0.921483035525972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017797178622939835,
+      "text": "I 0 There are three reasons for the public-sector",
+      "width": 0.454690966049982,
+      "x": 0.1102473895776735,
+      "y": 0.8900972335676987
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "公共部门工会的持续壮大有三个原",
+      "width": 0.30785560972603965,
+      "x": 0.6263269752856001,
+      "y": 0.8835078532000565
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.012003966026905344,
+      "text": "unions'",
+      "width": 0.06807582556175684,
+      "x": 0.0615034896241668,
+      "y": 0.8748119705780895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011924692473486487,
+      "text": "thriving.",
+      "width": 0.0764331197647474,
+      "x": 0.12738853438514225,
+      "y": 0.8735465119278103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599598118147927,
+      "text": "② First, they can shut things down",
+      "width": 0.3460721659614754,
+      "x": 0.2186836571112654,
+      "y": 0.8720930240012721
+    },
+    {
+      "confidence": 1,
+      "height": 0.01636125654450271,
+      "text": "因。首先，他们可以举行罢工而无需承担",
+      "width": 0.34607216596147516,
+      "x": 0.5881104137549312,
+      "y": 0.8632198952700921
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906280038292,
+      "text": "without suffering",
+      "width": 0.15286623952949482,
+      "x": 0.061571128430581636,
+      "y": 0.8531976748032948
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01338579018078545,
+      "text": "much in the way of consequences.",
+      "width": 0.3439490352944252,
+      "x": 0.21443736621690648,
+      "y": 0.8514397907499919
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "太多后果。其次，他们大多头脑灵活且受",
+      "width": 0.34819532580403023,
+      "x": 0.5859872593060529,
+      "y": 0.8429319369404791
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664251142771478,
+      "text": "③ Second, they are mostly bright\" and well-educated. ④A",
+      "width": 0.4989384200787225,
+      "x": 0.06369427263049003,
+      "y": 0.8328488378264296
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601881132075933,
+      "text": "过良好教育。四分之一的美国公共部门",
+      "width": 0.3460721659614753,
+      "x": 0.5859872702889014,
+      "y": 0.8226439793621785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014725130265919928,
+      "text": "quarter of America's public-sector workers have a university",
+      "width": 0.5010615799212774,
+      "x": 0.061571125878002377,
+      "y": 0.812500000464511
+    },
+    {
+      "confidence": 1,
+      "height": 0.01636125654450271,
+      "text": "雇员具有大学学历。第三，他们目前主导",
+      "width": 0.34819532580403023,
+      "x": 0.5859872656896339,
+      "y": 0.8036649215072112
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013177028501221044,
+      "text": "degree.",
+      "width": 0.061614348373267215,
+      "x": 0.06154951275676685,
+      "y": 0.7935568351181721
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464142162762383,
+      "text": "⑤ Third, they now dominate® left-of-centre",
+      "width": 0.4225053076078513,
+      "x": 0.14225053274066027,
+      "y": 0.793604651779918
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "着中左政治。两者之间的一些关联可回",
+      "width": 0.3460721951369802,
+      "x": 0.5859872541123309,
+      "y": 0.7846858638307005
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013393400227212138,
+      "text": "politics.",
+      "width": 0.06581740807848724,
+      "x": 0.061571125833367844,
+      "y": 0.7732558144761994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011939911942207448,
+      "text": "Some",
+      "width": 0.0573248380000915,
+      "x": 0.1698513823799967,
+      "y": 0.7747093027223839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013393400227212138,
+      "text": "of their ties go back a long way.",
+      "width": 0.3354564542752151,
+      "x": 0.22505308361964663,
+      "y": 0.7732558142727111
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "溯到很久以前。英国工党，顾名思义，与工",
+      "width": 0.34819532580403023,
+      "x": 0.5859872632126346,
+      "y": 0.7643979060206489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "⑦ Britain's Labor Party, as its name implies, has long been",
+      "width": 0.5031846814128226,
+      "x": 0.061571135408238525,
+      "y": 0.7526178012748538
+    },
+    {
+      "confidence": 1,
+      "height": 0.01636125654450271,
+      "text": "会主义渊源久远。工党现任领袖埃德•",
+      "width": 0.3439490352944251,
+      "x": 0.5859872686585199,
+      "y": 0.7441099478593982
+    },
+    {
+      "confidence": 1,
+      "height": 0.010362776162112564,
+      "text": "associated",
+      "width": 0.08072964319991335,
+      "x": 0.05942286316605092,
+      "y": 0.7353709374118518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013370570712064489,
+      "text": "with trade unionism.",
+      "width": 0.18259022933347277,
+      "x": 0.144373674646781,
+      "y": 0.7340116285168972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013370570712064489,
+      "text": "⑧ Its current leader, Ed",
+      "width": 0.23354564250997106,
+      "x": 0.3312101897145829,
+      "y": 0.7340116282261995
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "米利班德能够荣登宝座，公共部门工会的",
+      "width": 0.3460721659614753,
+      "x": 0.5859872722846551,
+      "y": 0.7251308901392224
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013393400227212138,
+      "text": "Miliband, owes his position to votes from public-sector unions.",
+      "width": 0.4989384200787226,
+      "x": 0.061571137979039035,
+      "y": 0.7133507854516272
+    },
+    {
+      "confidence": 1,
+      "height": 0.014827761974634313,
+      "text": "选票功不可没。",
+      "width": 0.13215892492699122,
+      "x": 0.5857321872861927,
+      "y": 0.7057083872140176
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02037927679990592,
+      "text": "•词汇注释与难句分析•送",
+      "width": 0.2611465016468989,
+      "x": 0.36942675124661417,
+      "y": 0.6569767440019582
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01505235602094257,
+      "text": "①bright ［brant］a.聪明的",
+      "width": 0.19745223152933797,
+      "x": 0.05944798361961976,
+      "y": 0.6335078532581959
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.026467184745828543,
+      "text": "S QBo bnck a long way（由米已久）",
+      "width": 0.29299363670567935,
+      "x": 0.4925690014985403,
+      "y": 0.6220930242091819
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "②dominate ［'dpmInert］v. 支配，控制，影响",
+      "width": 0.3248407717644598,
+      "x": 0.05944797659123088,
+      "y": 0.6145287955888923
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013302081542489352,
+      "text": "③Labor Party（工党）",
+      "width": 0.1698513723924101,
+      "x": 0.5244161409193544,
+      "y": 0.6162790702320133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014735937118530273,
+      "text": "• 经典搭配",
+      "width": 0.10409351881329919,
+      "x": 0.05941820924971149,
+      "y": 0.5914692409257205
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047892,
+      "text": "④as its name implies（顾名思义）",
+      "width": 0.2569002111372939,
+      "x": 0.5244161375099093,
+      "y": 0.5973837215110225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047781,
+      "text": "①left-of-centre politics （中左政治）",
+      "width": 0.27176221333315903,
+      "x": 0.05944798319541615,
+      "y": 0.5712209308496854
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441859420057382,
+      "text": "•语篇分析•洛",
+      "width": 0.15498938478429736,
+      "x": 0.42038216341995327,
+      "y": 0.5494186051373551
+    },
+    {
+      "confidence": 1,
+      "height": 0.016011201898464944,
+      "text": "第二段分析现象产生的三大原因。关键词为：three reasons。",
+      "width": 0.5053078412553778,
+      "x": 0.09766454565681232,
+      "y": 0.5232558137647367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "①句（过渡兼段落主旨句）指出公共部门工会壮大原因有三。定冠词 the + public-sector unions’",
+      "width": 0.8450106152157028,
+      "x": 0.09766455222229713,
+      "y": 0.504360465101946
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "thriving 衬托首段所述重点“公共部门工会势头强劲”，其中动名词 thriving 暗表公共部门工会已然蓬勃",
+      "width": 0.8789808809415331,
+      "x": 0.05944797961415923,
+      "y": 0.4840116276891553
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "发展，而且这种强劲发展势头将一直持续下去。",
+      "width": 0.401273884235331,
+      "x": 0.05944798858827915,
+      "y": 0.46335078547094655
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014656641720477204,
+      "text": "②至⑧句详述三个原因。First，they.•.Second, they. ..~Third, they... 串起意群主线（②⑤句",
+      "width": 0.8386411940390476,
+      "x": 0.09978768922554747,
+      "y": 0.4447674417548304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014717521467758066,
+      "text": "they 直接回指 the public-sector unions； ③句 they 间接回指 the public-sector unions' members）。",
+      "width": 0.8131634509814173,
+      "x": 0.05944800527716108,
+      "y": 0.42441860448669644
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "②句说明原因之一（何以壮大？）：可以罢工而无须承担太多后果。can... without suffering...充分",
+      "width": 0.8386411940390475,
+      "x": 0.09978768665882017,
+      "y": 0.403795811666823
+    },
+    {
+      "confidence": 1,
+      "height": 0.014694691328478116,
+      "text": "展示公共部门工会的不公平优势：可充分维护自身利益却又可以基本免责，侧面解释了公务员为何会对",
+      "width": 0.8768577210989783,
+      "x": 0.06157114675765868,
+      "y": 0.3851744185128593
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "工会趋之若鹜；其中 shut sth down 此处指“让政府部门无法运作”；without suffering much in the way of",
+      "width": 0.8811040407840882,
+      "x": 0.06157112396039752,
+      "y": 0.3645287958407697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "consequences（in the way of sth”关于，就⋯⋯而言”）意指“就后果而言，无须承担太多”",
+      "width": 0.730360917333891,
+      "x": 0.059447998742820855,
+      "y": 0.34424083772554603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "③④句说明原因之二（何以进步？）：会员大都聪颖且受过良好教育（话外音：劳资谈判中他们力量雄",
+      "width": 0.8386411940390476,
+      "x": 0.09978769022392973,
+      "y": 0.32526178020401364
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "厚，无疑有助工会持续强劲）。",
+      "width": 0.2505307899606387,
+      "x": 0.05944797890503097,
+      "y": 0.30366492126254085
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "③句直陈原因。mostly 强调会员聪颖、受教育程度高的占大多数。",
+      "width": 0.5583864288621834,
+      "x": 0.0997876819418736,
+      "y": 0.2846858639590315
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "④句以数据佐证③句：1/4美国公共部门工会会员有大学学历。have a university degree 具体说明",
+      "width": 0.8386411940390476,
+      "x": 0.09978768922554747,
+      "y": 0.26570680651092593
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01636125654450271,
+      "text": "bright and well-educated，指向“会员高智商、受过专业教育”；a quarter of 强调有大学学历的会员高达25%。",
+      "width": 0.8811040407840882,
+      "x": 0.05944798786697915,
+      "y": 0.2454188479210111
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "⑤⑥⑦⑧句说明原因之三（何以坚挺？）：政治影响力巨大（为其赢得有力发展态势）。",
+      "width": 0.7091294939613706,
+      "x": 0.09978770172419776,
+      "y": 0.22513089034271072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942459,
+      "text": "⑤⑥句分析原因。",
+      "width": 0.1507430942746923,
+      "x": 0.09978768960818007,
+      "y": 0.20615183219745237
+    },
+    {
+      "confidence": 1,
+      "height": 0.01472513089005234,
+      "text": "⑤句直指原因：主导中左政治。dominate 表明“政府部门工会左右中左政治”的同时，隐晦传达“作",
+      "width": 0.8386411940390476,
+      "x": 0.09978768922554747,
+      "y": 0.18749999989436528
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "者不赞同态度：影响力过强，不谦恭、不温和，令人不爽”。",
+      "width": 0.4777069967062023,
+      "x": 0.06157113407789672,
+      "y": 0.1655759160392729
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "G句补充⑤句：与中左政治渊源颇深。go back a long way 强调这种密切关系由来已久；tie 映衬⑤",
+      "width": 0.8407642955305927,
+      "x": 0.09978770962020556,
+      "y": 0.14659685864509386
+    },
+    {
+      "confidence": 1,
+      "height": 0.017670157068062853,
+      "text": "句 dominate，展现政府部门工会对中左政治的影响力由以前的“强关联”发展至如今的“支配地位”。",
+      "width": 0.8365180341964926,
+      "x": 0.06157112377224221,
+      "y": 0.12630890029102226
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "⑦⑧句以英国工党为例证明⑤⑥句。",
+      "width": 0.3099787695685946,
+      "x": 0.099787687493531,
+      "y": 0.10732984302114223
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01636125654450271,
+      "text": "⑦句侧重回应⑥句，指出工党长久以来一直与工会主义有关联。has long been associated with...呼",
+      "width": 0.8407642955305927,
+      "x": 0.09978769729839819,
+      "y": 0.08704188470398755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "应 their ties go back a long way，展现工党与工会之间年深日久、难以割裂的渗透关系；插入语 as its",
+      "width": 0.8811040407840882,
+      "x": 0.06157113117377325,
+      "y": 0.06806282700405908
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790628003818,
+      "text": "37",
+      "width": 0.023354564980384684,
+      "x": 0.9023354562571538,
+      "y": 0.049418605052369835
+    }
+  ],
+  "vision_ocr_text": "［A］混淆②句时态；［B］脱离下文对①句断章取义，［D］偏离②③④句关注对象，从而确定正确项为LC」。\nI 0 There are three reasons for the public-sector\n公共部门工会的持续壮大有三个原\nunions'\nthriving.\n② First, they can shut things down\n因。首先，他们可以举行罢工而无需承担\nwithout suffering\nmuch in the way of consequences.\n太多后果。其次，他们大多头脑灵活且受\n③ Second, they are mostly bright\" and well-educated. ④A\n过良好教育。四分之一的美国公共部门\nquarter of America's public-sector workers have a university\n雇员具有大学学历。第三，他们目前主导\ndegree.\n⑤ Third, they now dominate® left-of-centre\n着中左政治。两者之间的一些关联可回\npolitics.\nSome\nof their ties go back a long way.\n溯到很久以前。英国工党，顾名思义，与工\n⑦ Britain's Labor Party, as its name implies, has long been\n会主义渊源久远。工党现任领袖埃德•\nassociated\nwith trade unionism.\n⑧ Its current leader, Ed\n米利班德能够荣登宝座，公共部门工会的\nMiliband, owes his position to votes from public-sector unions.\n选票功不可没。\n•词汇注释与难句分析•送\n①bright ［brant］a.聪明的\nS QBo bnck a long way（由米已久）\n②dominate ［'dpmInert］v. 支配，控制，影响\n③Labor Party（工党）\n• 经典搭配\n④as its name implies（顾名思义）\n①left-of-centre politics （中左政治）\n•语篇分析•洛\n第二段分析现象产生的三大原因。关键词为：three reasons。\n①句（过渡兼段落主旨句）指出公共部门工会壮大原因有三。定冠词 the + public-sector unions’\nthriving 衬托首段所述重点“公共部门工会势头强劲”，其中动名词 thriving 暗表公共部门工会已然蓬勃\n发展，而且这种强劲发展势头将一直持续下去。\n②至⑧句详述三个原因。First，they.•.Second, they. ..~Third, they... 串起意群主线（②⑤句\nthey 直接回指 the public-sector unions； ③句 they 间接回指 the public-sector unions' members）。\n②句说明原因之一（何以壮大？）：可以罢工而无须承担太多后果。can... without suffering...充分\n展示公共部门工会的不公平优势：可充分维护自身利益却又可以基本免责，侧面解释了公务员为何会对\n工会趋之若鹜；其中 shut sth down 此处指“让政府部门无法运作”；without suffering much in the way of\nconsequences（in the way of sth”关于，就⋯⋯而言”）意指“就后果而言，无须承担太多”\n③④句说明原因之二（何以进步？）：会员大都聪颖且受过良好教育（话外音：劳资谈判中他们力量雄\n厚，无疑有助工会持续强劲）。\n③句直陈原因。mostly 强调会员聪颖、受教育程度高的占大多数。\n④句以数据佐证③句：1/4美国公共部门工会会员有大学学历。have a university degree 具体说明\nbright and well-educated，指向“会员高智商、受过专业教育”；a quarter of 强调有大学学历的会员高达25%。\n⑤⑥⑦⑧句说明原因之三（何以坚挺？）：政治影响力巨大（为其赢得有力发展态势）。\n⑤⑥句分析原因。\n⑤句直指原因：主导中左政治。dominate 表明“政府部门工会左右中左政治”的同时，隐晦传达“作\n者不赞同态度：影响力过强，不谦恭、不温和，令人不爽”。\nG句补充⑤句：与中左政治渊源颇深。go back a long way 强调这种密切关系由来已久；tie 映衬⑤\n句 dominate，展现政府部门工会对中左政治的影响力由以前的“强关联”发展至如今的“支配地位”。\n⑦⑧句以英国工党为例证明⑤⑥句。\n⑦句侧重回应⑥句，指出工党长久以来一直与工会主义有关联。has long been associated with...呼\n应 their ties go back a long way，展现工党与工会之间年深日久、难以割裂的渗透关系；插入语 as its\n37",
+  "pdf_text_layer": "[A ］混淆 ②句 时态；［ BJ 脱离下文对 ①句 断 章取义， ［ DJ 偏离 ②①④句关注 对象，从而确定正确项为［ CJ 。\n\n        H     ‘’ Ther巳 are thr巳e r easons for the public~ sector\n                                                                                   公共部门工会的持续壮大有三个原\nunions' thriving.      8 团 First,      they ca n shut things down\n                                                                               因。首先，他们可以举行罢工而无需承担\nwithout s uffer ing       much    in   the    way of     consequences.\n                                                                               太多后果 。 其次，他们大多头脑灵活且受\n@Second, they are mostly bright® and well-educated. 。 A\n                                                                              过良好教育 。 四分之一的美国公共部门\nquarter of America ’ s public-sector workers ha ve a university\n                                                                              雇员具有大学学历 。 第三，他们目前主导\nd eg ree.     。 Third ,    they    now       dominate(    left-of- centre\n                                                                              着中左政治 。 两者之间的一些关联可回\npo l itics.   。 Some      of their t ies go back a long way.\n                                                                              溯到很久以前 。 英国工党，顾名忠义，与工\n@Britain ’ s La bor Party , as its nam e imp lies, has long been\n                                                                              会主义渊源久远 。 工党现任领袖埃德·\nassociated with trade unionism.          0 Its current leader,           Ed\n                                                                              米利班德、 能够荣登宝座，公共部门工会的\nMiliband, owes his position to votes from public-sector unions.\n                                                                              选票功不可没 。\n\n\n\n                                              ： ·词汇注释与难旬分中斤： • :;/\n                                                                －\n( bright [bra1t] a. 聪 明的                                                ( go back a long way （由来已久）\n\n                                                                t$441\n( dominate [ 'dom111e1t] v . 支配，控制，影响                                   ( Labor Party （工党）\n                                                                        ( as its name implies （顾名思义）\n．经典搭配\n( left of-centre politics （中左政治）                         析\n                                                         分 …\n                                                          ，\n\n\n\n                                                         篇 一\n                                                                 －\n                                                                              J\n                                                         语\n      第二段分析现象产生的三大原因。关键词为： three reasons 。\n      ① 旬（过渡兼段落主旨旬）指出公共部门工会壮大原因有三。 定冠词 the                                                     + public sec tor unions ’\nthriving 衬托首段所述重点“公共部门工会势头强劲”，其中动名词 thriving 暗表公共部门工会已然蓬勃\n发展，而且这种强劲发展势头将一直持续下去 。\n      ① 至 ＠ 旬详述三个原因。 First, t hey ...• Second, they.                           . 一＋－ T hird , they .. .串起意群主线（②⑤句\nthey 直接回指 the public-sector unions ；③句 th ey 间接回指 th e public-sector unions ’ m embe rs ） 。\n      ② 旬说明原因之 一 （何以壮大叫：可以罢 工 而无须承担太多后果。 can ... w ithout s uffering ...充分\n展示公共部门工会的不公平优势：可充分维护自身利益却又可以基本免责，如liJ 面解释了公务员为何会对\n工会趋之若莺 ；其中 shut sth down 此处指“让政府部门无法运作”； without s uffering much in th e way of\nconsequences( in the way of st h“ 关于，就 ……而 言”）意指“就后果而言，无须承担太多” 。\n      ①＠ 旬说明原因之二（何以进步？）：会员大都聪颖且受过良好教育（话外音：劳资谈判中他们力量雄\n厚，无疑有助工会持续强劲）。\n      ③ 句直陈原因。 mostly 强调会员聪颖、受教育程度高的占大多数。\n      ④ 旬以数据佐证 ③ 句： 1 / 4 美国公共部门工会会员有大学学历。 have a university degree 具体说明\nbright and well educat时，指向“会 员高智商、受过专业教育”； a quarter of 强调有大学学历的会员高达 25 % 。\n      ①＠⑦③ 旬说明原因之 三 （ f可以坚挺 ？ ）：政治影晌力巨大（为其赢得有力发展态势）。\n      ①＠ 句分析原因。\n      ① 旬直指原因：主导中左政治。 dominate 表明“政府部门工会左右中左政治”的同时，隐｜晦传达“作\n者不赞同态度：影响力过强，不谦恭、不温和，令人不爽” 。\n      ＠ 旬补充 ① 句：与中左政治渊源颇深。 go back a long way 强调这种密切关系由来已久； tie l决衬 ⑤\n句 dominat e ，展现政府部门工会对中左政治的 影响 力由以前的“强 关联”发展至如今 的 “支配 地位” 。\n      ⑦③ 旬以英国工党为例证明 ⑤＠ 旬。\n      ⑦ 旬侧重固应 ＠ 旬，指出 工 党长久以来一直与工会主义有关联。 ha s long been assoc iated with ... 11于\n应 their ti es go back a long way ，展现工党与工会之间年深日久、难以割裂的渗透关系；插入语 as its\n                                                                                                                   37",
+  "quality": {
+    "vision_line_count": 63,
+    "vision_character_count": 2139,
+    "pdf_text_character_count": 4220,
+    "nonempty": true
+  }
+}

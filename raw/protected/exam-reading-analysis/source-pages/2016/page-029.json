@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P029",
+  "year": 2016,
+  "pdf_page": 29,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22814498550590429,
+      "x": 0.3624733517459818,
+      "y": 0.9098837213358155
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011832837336368418,
+      "text": "①retain Lritein］ v. 保持",
+      "width": 0.19189764439374551,
+      "x": 0.051172714583511,
+      "y": 0.8864229766608408
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014599398595546043,
+      "text": "⑤corrupted ［ka'rAptd］a. 被破坏的，被毁坏的",
+      "width": 0.36673774573081297,
+      "x": 0.5074626866939396,
+      "y": 0.882267442280583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0131724758496794,
+      "text": "② enviable ［'envrbal］ a. 令人羡慕的",
+      "width": 0.2814498842904394,
+      "x": 0.05117270789031704,
+      "y": 0.8661879892964244
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014881656935569865,
+      "text": "• 经典搭配",
+      "width": 0.11097102695041228,
+      "x": 0.5074142726219034,
+      "y": 0.8573847527843516
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013206630711767198,
+      "text": "③ coherence［kou'hrorans］n. 一致，协调",
+      "width": 0.30490404618654215,
+      "x": 0.049040512336721895,
+      "y": 0.8472584855971274
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014618373726428935,
+      "text": "①let rip（自由自在地行动，恣意）",
+      "width": 0.25799572239433666,
+      "x": 0.5074626907644522,
+      "y": 0.8372093028183737
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0130927799264694,
+      "text": "④alternative ［oi t3inauv］n. 供替代的选择，选择的",
+      "width": 0.4157782368276311,
+      "x": 0.046908319485971336,
+      "y": 0.8270234988945375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327873583562067,
+      "text": "②political spectrum（政治光谱）",
+      "width": 0.24733473971429,
+      "x": 0.5074626916353924,
+      "y": 0.818313953632966
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011821452382339115,
+      "text": "余地",
+      "width": 0.038379530340318935,
+      "x": 0.04690831623708999,
+      "y": 0.8093994778794049
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02034883648546182,
+      "text": "• 语篇分析•淡",
+      "width": 0.15138592482526636,
+      "x": 0.4179104502561657,
+      "y": 0.7688953490295559
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860378255347,
+      "text": "第六段解决问题：城乡规划是解决住房问题的有效方式，各派政治力量应联合起来共同保卫乡村。",
+      "width": 0.8443496528713182,
+      "x": 0.08742004785005528,
+      "y": 0.7412790697818026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017697171193812533,
+      "text": "关键词：①town and country planning； ②unite the left and righto",
+      "width": 0.531244036795079,
+      "x": 0.05101981559095789,
+      "y": 0.722316560023369
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837232465211,
+      "text": "①句总起，指出开发要有计划，而非恣意开发。取舍结构 should be A,not B（其中 should 语用功能",
+      "width": 0.8400852597992996,
+      "x": 0.08742004966680372,
+      "y": 0.7020348835445538
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013335660605766742,
+      "text": "为：used to show what is right, appropriate, etc. especially when criticizing sb's action; let rip 意为 to",
+      "width": 0.880596993983477,
+      "x": 0.04904053320548942,
+      "y": 0.6831395350900881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "allow to proceed at full speed or without restraint）强调计划式开发的正确性，批判您意式开发的错误性，",
+      "width": 0.8848613870554957,
+      "x": 0.04477613834858461,
+      "y": 0.659883720828953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860378255458,
+      "text": "反衬当前开发缺乏规划、毫无节制、亟待调整以回归正道，呼应第三段②句 off-plan 之意。",
+      "width": 0.7526652018229167,
+      "x": 0.04690834478150524,
+      "y": 0.6395348837352909
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "②③句以英国半个世纪的城乡规划获得成功解释说明。town and country planning 点明文章主题",
+      "width": 0.8400852597992996,
+      "x": 0.08742006366822497,
+      "y": 0.6191860464806003
+    },
+    {
+      "confidence": 1,
+      "height": 0.017584980001026262,
+      "text": "“城乡规划”.enviable（令人羡慕的，令人嫉妒的）明确传达作者对城乡规划这一做法的高度欣赏：它使得",
+      "width": 0.8806994792602071,
+      "x": 0.04472202541022461,
+      "y": 0.5987161029786261
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "英国乡村得以协调发展，其他国家也想纷纷效仿。low-density 照应 most crowded，再度体现作者情感：",
+      "width": 0.880596993983477,
+      "x": 0.04690833232595864,
+      "y": 0.5783289820294432
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458042346466304,
+      "text": "拥挤程度位居全欧第二的英国，本以为人们只能高密度居住，却因城乡规划得好而享受着低密度的居住",
+      "width": 0.880596993983477,
+      "x": 0.04690833232595864,
+      "y": 0.5580939948756011
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043222,
+      "text": "生活，这不得不令人惊羡。",
+      "width": 0.22174839589787626,
+      "x": 0.046908320260017074,
+      "y": 0.5377906980218621
+    },
+    {
+      "confidence": 1,
+      "height": 0.017591013298333458,
+      "text": "④⑤句呼吁政治力量联合起来谨防走上破坏乡村的开发之路。",
+      "width": 0.531096710555855,
+      "x": 0.08733511119068947,
+      "y": 0.5159494685445141
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "④句顺承③句，指出另外一种方式：以破坏农村换取城市人口低密度居住。the alternative 相较",
+      "width": 0.8400852597992995,
+      "x": 0.08742005086794088,
+      "y": 0.49543080941331574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "planned development 而言，即指“let rip” development;corrupted 以其过去分词传达被动以及完成之意：",
+      "width": 0.8848613870554957,
+      "x": 0.04477613834858461,
+      "y": 0.47519582254122705
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860378255458,
+      "text": "葡萄牙南部、西班牙、爱尔兰原生态乡村风景地貌因为“恣意式”开发遭到破坏。",
+      "width": 0.6673773988453364,
+      "x": 0.04690832379161726,
+      "y": 0.4534883719184304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017756846181406383,
+      "text": "⑤句呼吁联合所有政治力量来避免“以乡村过度开发换取城市低密度居住”。this 和 it 均回指",
+      "width": 0.8379530632632902,
+      "x": 0.0874200609234366,
+      "y": 0.4345930234445933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "corrupted landscapes；取舍结构 rather than展露作者坚定态度：要避免毁坏乡村而非对此推波助澜。",
+      "width": 0.8848613870554957,
+      "x": 0.04477613830594067,
+      "y": 0.4125326369882183
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287142,
+      "text": "unite the left and right of the political spectrum（编者注：政治光谱是一种通过把它们放置在一个或更多",
+      "width": 0.8827291905194864,
+      "x": 0.04477611865283709,
+      "y": 0.3936031332168858
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "的几何坐标上，以对比或形象化不同政治立场的方式）回应文首三段所述“乡村保护虽为民意却非施政",
+      "width": 0.880596993983477,
+      "x": 0.04690832972467932,
+      "y": 0.3733681459396786
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837232465211,
+      "text": "所向”，强调各大政党均应以“保护乡村”作为解决城市住房问题的首要原则。至此，文章首尾相合，圆满",
+      "width": 0.880596993983477,
+      "x": 0.04690833484195001,
+      "y": 0.3517441860324414
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837107964657,
+      "text": "收篇。",
+      "width": 0.051172705902450384,
+      "x": 0.046908317144723634,
+      "y": 0.331395349144043
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "【深层解读】本段①句为段落主旨句，给出作者意见建议：开发要有计划而非放任自流；②③句例证",
+      "width": 0.842217456335309,
+      "x": 0.08528786733696518,
+      "y": 0.31104651159687935
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "说明计划的重要作用；④⑤句进而以反面例子呼吁各党力量联合起来反对乡村破坏性开发，与文章第一",
+      "width": 0.8827291905194864,
+      "x": 0.04690833320507549,
+      "y": 0.29046997406198716
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287254,
+      "text": "层次实现“提出问题",
+      "width": 0.17270789018535979,
+      "x": 0.04477612103205353,
+      "y": 0.27154047019133287
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "-解决问题”的圆合。",
+      "width": 0.17057569364935043,
+      "x": 0.24733475658683857,
+      "y": 0.27023498691252423
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01631853785900783,
+      "text": "•真题精解•：泌",
+      "width": 0.15138592482526642,
+      "x": 0.41151385935353596,
+      "y": 0.24412532616542715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "30. In the last paragraph, the author shows his appreciation 30.最后一段中，作者表现出他对",
+      "width": 0.8017057221511315,
+      "x": 0.05543712428335377,
+      "y": 0.2107558139466853
+    },
+    {
+      "confidence": 1,
+      "height": 0.011878377774988125,
+      "text": "of",
+      "width": 0.02345415641521585,
+      "x": 0.09168443563034517,
+      "y": 0.1945169711495467
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "的欣赏。",
+      "width": 0.07249466760861922,
+      "x": 0.605543711575932,
+      "y": 0.19186046501257692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013362225913503445,
+      "text": "［A］ the size of population in Britain",
+      "width": 0.3049040461865422,
+      "x": 0.057569302679649964,
+      "y": 0.1700581397775882
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "［A］英国人口大小",
+      "width": 0.15991471096930376,
+      "x": 0.575692963909449,
+      "y": 0.1684073105864914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011920122813929401,
+      "text": "［B］ the enviable urban lifestyle in Britain",
+      "width": 0.3496801734427383,
+      "x": 0.05756929931274591,
+      "y": 0.14360313300740768
+    },
+    {
+      "confidence": 1,
+      "height": 0.014679093896253326,
+      "text": "［B］英国令人羡慕的城市生活方式",
+      "width": 0.2985074565785142,
+      "x": 0.5756929692942538,
+      "y": 0.14229765001502404
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172475227176683,
+      "text": "［C］ the town-and-country planning in Britain",
+      "width": 0.3795308957154723,
+      "x": 0.05756931073501429,
+      "y": 0.1161879897445085
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "［C］英国城乡规划",
+      "width": 0.15778251443329439,
+      "x": 0.5756929661842056,
+      "y": 0.11482558210189187
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013119345234206103,
+      "text": "［D］ the political life in today's Britain",
+      "width": 0.32196161847461685,
+      "x": 0.05756930059211586,
+      "y": 0.09007832903980462
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "［D］当今英国政治生活",
+      "width": 0.1982942340017736,
+      "x": 0.5756929695262987,
+      "y": 0.08866279111779218
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "29",
+      "width": 0.02771854948723451,
+      "x": 0.8869936039166528,
+      "y": 0.059399477543260804
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析•\n①retain Lritein］ v. 保持\n⑤corrupted ［ka'rAptd］a. 被破坏的，被毁坏的\n② enviable ［'envrbal］ a. 令人羡慕的\n• 经典搭配\n③ coherence［kou'hrorans］n. 一致，协调\n①let rip（自由自在地行动，恣意）\n④alternative ［oi t3inauv］n. 供替代的选择，选择的\n②political spectrum（政治光谱）\n余地\n• 语篇分析•淡\n第六段解决问题：城乡规划是解决住房问题的有效方式，各派政治力量应联合起来共同保卫乡村。\n关键词：①town and country planning； ②unite the left and righto\n①句总起，指出开发要有计划，而非恣意开发。取舍结构 should be A,not B（其中 should 语用功能\n为：used to show what is right, appropriate, etc. especially when criticizing sb's action; let rip 意为 to\nallow to proceed at full speed or without restraint）强调计划式开发的正确性，批判您意式开发的错误性，\n反衬当前开发缺乏规划、毫无节制、亟待调整以回归正道，呼应第三段②句 off-plan 之意。\n②③句以英国半个世纪的城乡规划获得成功解释说明。town and country planning 点明文章主题\n“城乡规划”.enviable（令人羡慕的，令人嫉妒的）明确传达作者对城乡规划这一做法的高度欣赏：它使得\n英国乡村得以协调发展，其他国家也想纷纷效仿。low-density 照应 most crowded，再度体现作者情感：\n拥挤程度位居全欧第二的英国，本以为人们只能高密度居住，却因城乡规划得好而享受着低密度的居住\n生活，这不得不令人惊羡。\n④⑤句呼吁政治力量联合起来谨防走上破坏乡村的开发之路。\n④句顺承③句，指出另外一种方式：以破坏农村换取城市人口低密度居住。the alternative 相较\nplanned development 而言，即指“let rip” development;corrupted 以其过去分词传达被动以及完成之意：\n葡萄牙南部、西班牙、爱尔兰原生态乡村风景地貌因为“恣意式”开发遭到破坏。\n⑤句呼吁联合所有政治力量来避免“以乡村过度开发换取城市低密度居住”。this 和 it 均回指\ncorrupted landscapes；取舍结构 rather than展露作者坚定态度：要避免毁坏乡村而非对此推波助澜。\nunite the left and right of the political spectrum（编者注：政治光谱是一种通过把它们放置在一个或更多\n的几何坐标上，以对比或形象化不同政治立场的方式）回应文首三段所述“乡村保护虽为民意却非施政\n所向”，强调各大政党均应以“保护乡村”作为解决城市住房问题的首要原则。至此，文章首尾相合，圆满\n收篇。\n【深层解读】本段①句为段落主旨句，给出作者意见建议：开发要有计划而非放任自流；②③句例证\n说明计划的重要作用；④⑤句进而以反面例子呼吁各党力量联合起来反对乡村破坏性开发，与文章第一\n层次实现“提出问题\n-解决问题”的圆合。\n•真题精解•：泌\n30. In the last paragraph, the author shows his appreciation 30.最后一段中，作者表现出他对\nof\n的欣赏。\n［A］ the size of population in Britain\n［A］英国人口大小\n［B］ the enviable urban lifestyle in Britain\n［B］英国令人羡慕的城市生活方式\n［C］ the town-and-country planning in Britain\n［C］英国城乡规划\n［D］ the political life in today's Britain\n［D］当今英国政治生活\n29",
+  "pdf_text_layer": "： . ·：词汇丰每当在：旬方析：：＜ d\n\n ①②③④                                                                                                                                                                                                         被忍叫\n                                                                                                                                                                                     h\n\n                                                                                                                                                                      刚 搭 咱们\n                                                                                                                                                                                              刀山行政\n                                                                                                                                                           ⑤\n\n                                                                                                                                                                                                                破意扫\n                                                                                                                                                                                                                      坏）\n                                                                                                                                                                                                                                  坏\n                          仁UE                                                                                                                                                                                                         的\n                                      」町、\n                                                                                                                                                                m 经\n                 uvhM                                                  i户                                                                                                  u\n                                                                                                                                                                                                                       川阳\n                                                                          K                                                                                                                                                       毁\n                                                                                                                                          仆bdb\n                      n-                                          「E        工J                                                                                                 ω\n                                            -                i\n                  rtrE                          ］\n\n                                                                                                                                                                                      p\n           eno\n                 HH                                 mu\n                             l                                                                                                                                                            U\n                                 l\n\n\n\n\n    铲且\n                                                                            ←                                                                                                                        G\n                                                                                                                                                                                                                                  被\n                                                                                                                                                                                                                        ”\n                                                                          FS                                                                                PLSH\n                                                                                                                                                                                                                           咱 『J\n                           BM\n                                                             l\n\n\n\n\n                                                                                     人\n                                                                                             羡斗\n                                                                                             慕 轧 替\n                                                    功\n\n                                                         叫内 mm\n                                 「L                         「 」                                                                                            典 叩m\n                                                                                                        ’q\n\n\n                                                                                                  hHHιμi u\n                 UHρivr\n                                            ND                                                                                                                             配\n    。··P\n                                                                       α\n                                                l            ll\n\n                                                                                                             J\n\n\n                                                         4\n\n                                                                                                                                            ’站，“出 ／付出 dU\n                                                                                     A叮\n                                                                                      叮凡\n                                                                                                             nvt\n                                                                                                                                          何\n                                                                                                                 调的\n                                                                                                                                                                      呻\n                 －\n                                 U ［        -       h\n                                                                                                                                                             封 “\n                                                                                                                                                                                     在川\n                                                                              「 」「\n\n\n                                                                                                                                          ’\n                          MU\n                                                                                                        -\n\n\n\n                                                                                                                                                                           由阳                    动治\n                                                            F     3   n\n\n                                                                                                 供\n                                                」\n   L\n   －\n                                                                               ll\n                                                                                         －\n\n\n                                                                                                                                                                                ，自\n                                                                                                                                                                                      in  也\n                          创  m   EH                                                                                   逃\n                                                                                                                              择\n                                                    u                                                                     择       H町\n                                                                                                                                                            un\n\n\n           们山出\n                                            a\n                                                                                                                                                                                                         ，\n\n\n\n\n                                                                                                                                                           ． ① ①\n                                                                       口\n                                                                                                  ’                           选\n    aL\n                                                            吕             J\n                                                                                                  qv\n                                                                  t\n                                                                                     n\n                                                                                                                                   咱，，，\n    q\n                                                l\n\n\n\n\n                                                                                                                                                                                                              山\n                                                                               ll\n\n\n                                                                              」\n                                                                                                                                                                                d\n                 －\n                                                                                                                                                                                          （\n 余\n                                                                                                                                                                                                         、\n\n                                                                                                                                                            v                                            吁J\n\n    啊圳                                                                                                                                     T O\n                                                                                                                                          a\n                                                                                                                                          J\n\n\n\n\n                                                                                                                              ！ ·语篇分析. ·: ;/\n                 第六段解决问题：城乡规划是解决住房问题的有效方式，各派政治力量应联合起来共同保卫乡村。\n关键词： ① town and country planning ; ( unite the left and right 。\n                 ① 旬总起，指出开发要有计划，而非 ：~ 意开发。 取舍结 构 s h o uld be A , no t B C 其中 s ho uld 语 用功能\n为 ： u sed to show w ha t is ri g ht, app ro pri ate, etc. 巳s p ec i a ll y when criti cizing s b ’ s action; let rip 意为 to\na llow to proceed a t full speed or w itho ut r e s t ra int ） 强调计划 式 开 发 的 正 确性，批判 路意式开发 的 错误 性 ，\n反 衬 当前开发 缺 乏 规划 、 毫 无节 制、 亟待 调 整 以回归正 道 ，呼 应第 三 段 ② 句 off- pl a n 之意 。\n                 ②③ 旬以英国半个世纪的城乡规划在得成功解释说明。 tow n and co u 口t ry pl a nning 点 明 文 章 主题\n“ 城 乡 规划”. e n v i a bl e （令 人 羡 慕 的 ，令 人 嫉 妒的 ） 明确传达作 者 对 城乡 规划 这 一 做 法 的 高度 欣 赏 ： 它使得\n英国乡 村 得 以协调 发展 ， 其 他 国家 也 想纷纷效 仿 。 l ow- d e ns it y 照 应 m os t crowd ed ， 再度体 现作 者情感 ：\n拥挤 程度位居全欧第 二 的 英国 ， 本 以 为 人们 只 能 高密度居住 ，却因城 乡 规划 得好 而 享受 着 低 密度 的 居住\n生活，这不得不 令 人 惊 羡。\n                 ④⑤ 旬呼吁政治力量联合起来谨防走上破坏乡村的开发之路。\n                 ④ 旬顺承 ③ 旬，指出另外一种方式：以破坏农村换取城市人口低密度居住。 t h e a lt erna ti ve 相 较\npl anned d eve lo pm e nt 而 言 ， 即 指 “ l e t ri p” deve lopment ; corrup te d 以 其 过 去分词传达被动以及完 成之 意 ：\n葡萄牙南部、西 班 牙、爱尔 兰 原生态乡 村风 景 地 貌因为“患意式 ” 开发遭 到破坏 。\n                 ⑤ 旬呼吁联合所有政治力量来避免“以乡村过度开发换取城市低密度居住”。 t hi s 和 it 均回 指\ncorru pted l a nd s ca p e s ； 取舍结 构 r at h e r th a n 展露 作 者坚定态度 ： 要避免毁坏乡 村而 非对 此推 披 助 澜 。\nunite t he left a nd ri g ht of t he po lit ica l s pect rum （编者注： 政 治光谱是 一 种通过把 它 们 放置在 一 个 或更多\n的几何 坐标上， 以 对 比 或形象 化 不 同政 治 立 场的 方式） 回 应文首 三 段 所述 “乡 村 保 护 虽为民意 却 非 施 政\n所向 ”，强调各大政党均应 以 “保护乡村” 作 为解决城 市住 房 问 题 的 首要原 则 。 至 此 ，文 章首 尾 相 合，圆满\n收篇 。\n                 【深层解读】 本段 ① 句为段蔼主旨句，给 1±\\ 作 者意 见 建 议： 开发要有 计划而 非放 任 自流 ； ②③ 句 例证\n说明计划的 重要 作 用； ④⑤ 句进而以 反面 例 子 呼吁 各 党力 量 联合 起 来反 对 乡 村破坏 性开发 ， 与文章第 一\n层次实 现 “提 出问 题一一解 决 问 题 ”的 圆合 。\n\n                                                                                                                              ；去噩秸饵－：：： 1'\n 30. In the last paragraph, the author shows his appreciation                                                                                                          30 . 最后一段中，作者表现出他对\n                 of                                                                                                                                                        的欣赏。\n\n [ A] the size of pop ulati on in Bri ta in                                                                                                                            [A］ 英国 人口 大 小\n\n [BJ t he e n v i a bl e 盯ba n life s t yle in Bri ta in                                                                                                               [BJ 英国令 人 羡 慕 的 城市生活方式\n\n [ CJ t he tow n- and-co untry pl a nning in Brita in                                                                                                                  [CJ 英国 城 乡 规划\n\n [ DJ th e poli t ica l life in today ’ s Brita in                                                                                                                     [ DJ 当 今英国 政 治生活\n\n                                                                                                                                                                                                                                          29",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 1760,
+    "pdf_text_character_count": 15260,
+    "nonempty": true
+  }
+}

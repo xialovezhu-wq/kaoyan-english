@@ -1,0 +1,121 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2015-P032
+year: 2015
+pdf_page: 32
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2015 解析 PDF p32｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+•语篇分析•必
+第一段引入话题，概述《科学》新举措及其背景原因。① an extra round of statistical checks；
+②irreproducibility。
+①句引出《科学》新举措：在同行评审程序上新增一轮统计审查。is adding.•extra.•.checks to its
+peer-review process（is adding A to B 以现在进行时态表示“意图将A添加进B中”，extra 意为 more than
+exists already, check 意为 the process of finding out if sth is correct） 明确革新对象“同行评审程序”（peer-
+review process）以及举措内容“准备新增一轮统计审查”，反映了《科学》拟加强对科研论文的审查，同时
+触发悬念：此举背后有何动因？【注1：同行评审为一种审查程序，即作者的学术成果由同一领域的其他
+专家学者来加以评审，以确保科研发表的质量。注2：统计学主要通过利用概率论建立数学模型，收集所
+观察系统的数据，进行量化分析、总结，做出推断和预测，被广泛应用于各门学科之中。】
+②句概述《科学》新举措背后的原因。句首 The policy 回指①句 adding.••extra.• statistical
+checks 这一举措；follows similar efforts from other journals（follow 熟词僻意，指 to do the same thing as
+sb else“仿效”）表明许多期刊在此之前已经开始加强审查科研论文，其中 efforts 凸显各大期刊保障论文
+质量的决心和努力，影射科研论文可能面临严峻的质量危机。after（语用功能为 because of sth that
+happened earlier”由于；既然”）引出《科学》采取新举措的原因；widespread concern（concern 意为“［尤指许
+多人共同的］担心；忧虑”）奠定“问题严峻”这一总基调，that 引出的同位语从句明确 concern 的内容，摆
+出问题：数据分析中的基本错误导致已发表的研究结果不具有可复制性。【注：reproducibility（可复制
+性）源于生物实验原则，即一项实验得到的结论，必须可以被其他人重复得出，才能证明其结论正确，而
+非偶然获得的错误结论。该原则同样也是科学研究中最重要的、受到科学家一致认可的准则，若现象或
+结果不能被别人重复，发现者声称的该科学发现就很可能是错误或伪造的。】
+【深层解读】隐性因果逻辑词（after、contribute to）明示两句间因果逻辑：《科学》及其他许多期刊中，
+已发表的研究成果存在数据分析上的基本错误，换言之，这些研究结论有误，而这无疑有损期刊声誉及
+权威，因此各大期刊竞相加强科研论文评审，在原有同行评审基础上增加一项“统计审查”。
+真题精解
+31.
+It can be learned from Paragraph 1 that
+31. 从第一段可以得知
+。
+A］ Science intends to simplify its peer-review process
+［A］《科学》想要简化其同行评审程序
+B］ journals are strengthening their statistical checks
+［B］众期刊正加强其统计审查
+［C］ few journals are blamed for mistakes in data analysis
+［C］鲜有期刊因为数据分析错误受到指责
+［D］ lack of data analysis is common in research projects
+［D］研究项目中缺乏数据分析很常见
+【精准定位】首段①句引入文章话题：《科学》将在同行评审程序上额外增加一轮统计审查。②句表
+明此举仿效其它期刊类似做法以及背后原因。由此可推测其它期刊也在加强统计审查工作，［B］正确。
+【命题解密】正确项［B］是对首段的合理概括和同义改写，其中 journals 是对 the journal Science、from
+other journals 的概括，strengthening 对应 adding an extra round of statistical checks...。
+［A］中 simplify（简化）与①句 adding.. extra..
+checks... 相左；［C］与②句“《科学》效仿其他期刊，
+基于人们普遍担忧数据分析中的基本错误致使发表内容不可复制”暗含的“数据准确性问题堪忧”矛盾；
+［D］将原文“数据分析错误”偷换成“缺乏数据分析”，将“已发表的研究发现”偷换成“研究项目”
+【技巧总结】题干只涉及段落而没有额外信息时，题目多半考查对段落主旨的把握。解题时首先要
+通读全段并梳理出段落主旨，然后分别将各项关键词（［A］中 peer-review process， ［B］中 statistical
+checks,LC］中 mistakes in data analysis，［D］中 data analysis）与之进行对比，最后锁定正确项。如本题，
+首段很明显聚焦科研发表的质量问题，因此首先排除“试图淡化问题”的［C］和［D］；再横向对比选项发
+现只有［A］不涉及段中关键词“数据”，且 simplify 与“开篇呈现问题”的总基调相反，故干扰项。
+32
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+i＞；董事分析：. : ;/
+       第一段引入话题，概述《科学》新举措及其背景原因。 ① an extra round of statistical checks;
+
+② irreproducibility 。
+       ① 旬引出《科学》新举措：在同行评审程序上新增一轮统计审查。 i s adding. . . ex tra . . checks to it s
+pee r- review process( is add ing A to B 以现 在进行 时 态表示“意图将 A 添 加1 进 B 中 ”， ex tra 意为 mo r e t han
+e xis ts a l r ea cl y, c h ec k 意 为 th e process of finding o ut if s t h is co rr ec t ） 明确 革新对象“ 同 行 评 审程序 ” （ pee r-
+r ev iew p rocess ） 以 及举 措 内 容 “准 备新增一 轮 统 计 审查 ” ，反 映 了《科学 》 拟加强对科研论 文 的 审查， 同 时
+触发悬念 ：此 举背后有 何动因 ？ 【注 1 ：同行评审 为一 种 审查程序， 即 作者的学术成果由 同 一 领域 的 其 他
+专家学者来 加以 评审， 以确保 科 研 发表的质量 。 注 2 ： 统计学 主要通过利用概率论建立数学模型 ，收 集 所
+观察系统 的 数 据 ， 进行 量 化分析 、 总 结， 做出推断和预测 ，被广泛应用于各 门 学 科 之 中 。 】
+       ② 旬概述《科学》新举措背后的原因。 句首 Th e po l i cy 回指①句 add i n g . . . ext ra .. . s ta ti s tica l
+chec k s 这一举 措； fo l l ows sim il ar effo rts fro m o ther jo urna ls( fo ll ow 熟词僻意 ， 指 to do t he sa me th ing as
+s b e l se ＇＇仿 效 ” ）表 明许 多 期刊 在 此 之 前 已经开始 加 强审 查 科研 论文，其中 e ffo r ts 凸 显各大 期刊保障论 文
+质量 的 决 心和1 努 力， 影 射科研论 文 可能面 临 严 峻的 质量危 机 。 a ft e r （语 用功能 为 b eca u se of st h t hat
+happened ear li er“ 由于 ； 既 然 ” ） 引出 《 科 学 》采取新举 措的 原因； widespread conce rn ( co nce rn 意为 “ 〔尤指许
+多人共 同的 ］ 担心；忧 虑”）奠定“ 问 题严峻”这 一 总基 调 ， t h at 引巾 的同位语从句明 确 co n ce rn 的内 容，摆
+/Ii 问 题 ： 数据分 析中的 基本 错 误导致已发表 的研 究结果不具有 可 复 制 性。 【 注 ： rep roducibili ty （可复制
+性 ） 源于生 物 实验原 则 ， 即 一 项实验得到的结论，必须 可以 被其 他 人重复得出，才能证 明 其结 论 正 确，而
+非 偶 然获得的错误结论 。 i亥原 则同 样 也 是科学研究 中 最重要的、受到科学家 一 致认可的准 则 ，若 现 象或
+结果不 能 被 别人 重复 ， 发 现 者声 称的 诙科学发 现就很 可能是错误或伪造 的 。 】
+       【深层解读】隐性因果逻辑词（ after, con tr协ute to ）明示两旬间因果逻辑： 《 科 学》及其 他 许 多 期 刊 中，
+已发表 的研 究 成 果存 在 数 据分析 上 的 基本 错 误，换言之 ， 这些研究结论有误， 而 这元疑有 损期 刊 声誉及
+权威 ， 因 此 各大 期 刊 竞 相加强科研论 文评审，在原有 同行 词l 'j;打基础 上增 加 － J]j “ 统 计 审查 ” 。
+
+                                                       ：： ：~：事露宿饵：＜： ；／
+ 31. It can be learned from Paragraph 1 that 一一一一·                           31. 从第一段 可以得知                           。
+
+
+
+ [ A] Sc 1e11ce in te nd s to simp lify its pee r- rev iew process           [ A］《 科学 》想要简 化 其 同 行评审程序
+ [ BJ journa ls a re s tr e吨 t h e n i 吨 th 巳ir s ta ti s ti ca l checks     [ BJ 众期 刊 正 加强 其统计审查
+ [ CJ few journals are blamed for mistakes in da ta analysis                 [ CJ 鲜有期 刊 因为数据分 析 错误受 到指 责
+ [ DJ lac k of da ta a na lysis is common in resea rch proj 创刊               [ DJ 研 究项目 中缺 乏数 据 分 析 很 常’见
+
+       E 精准定位】 首 段 ① 句引人 文章话题 ： 《 科 学》将 在同 行评审程序 t 额 外 增 加 一 轮 统 计 审查 。② 句 表
+明 此 举仿效其它 期刊 类 似做 法 以 及背后原因 。 ｜如 此 可推测其它期刊也在加强统计审查工作，［ BJ 正 确 。
+       【命题解密 I 正确 项［ BJ 是 对 首段 的 合理概括 和同 义改写，其中 journa l s 是对 th e jo urna l Scien ce 、 fro m
+ot her j o urn a l s 的 概 括 ， s tr e n g th e nin g 对 应 a ddin g a n extra ro und of s ta ti st ica l checks .. . 。
+       ［ 八］ 中吕im p li fy （简 化 ）与① 句 addi n g . .. extra ... chec ks . . . 相左 ； ［ CJ 与② 句“ 《 科学 》效仿其 他期刊，
+基于人 们 普边担 忧 数 据 分 析 中 的 基本错误致使发表 内 容不可复 制 ”暗含的“数据准确性 问 题堪 忧 ”矛盾 ；
+[ DJ 将原文 “ 数据 分析错 误 ”偷换成 “ 缺 乏数据分 析 ” ， 将 “ 已发表 的矶 究发现” 偷 换成 “研 究 项目” 。
+       E 技巧总结】 j题干 只涉 及 段 落 而 没有额 外 信 息时 ，题目多半考盒对段落主 旨的 把 握。 f(Jl（ 题时 首先要
+通 i卖全段 31：梳理 出 段落主旨，然后分 别 将各项关键同 C [ A ］ 中 p ee r- r ev i ew process , [ BJ 仨1:i s ta tis tica l
+chec ks,[C] 1t 1 m ista kes in data a n a l ys i 日，［ DJ 中 d ata a na l ys i s ）与之进行对 比 ，最后锁定正 确 顷 。 如 本 题，
+首段很 19,1 1m. 聚焦 科研 发表 的 质量 问 题．因 此 首先 排 除 “ 试佟｜ 淡 化问 题” 的 ［ CJ 和 ［ D J ； 再 横向 对 比选项 发
+现只有 ［ A ］ 不涉及段 中 关键问“数据 ”， 且 s i m p lify 与“刑二篇 呈 现 问 题”的总基调相反 ， 故为干 扰 项 。
+
+  32
+```

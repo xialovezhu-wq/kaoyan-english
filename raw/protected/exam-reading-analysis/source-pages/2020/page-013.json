@@ -1,0 +1,566 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P013",
+  "year": 2020,
+  "pdf_page": 13,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.019073569482288777,
+      "text": "1.准确把握人物的基本态度，这样可以保证排除一部分感情色彩不符的选项；2.因为人物的观点也是本",
+      "width": 0.8853503158933604,
+      "x": 0.048832277785803714,
+      "y": 0.9069028153727764
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185957878308,
+      "text": "段的段落主旨，根据上下文逻辑分析概括，寻找对应的选项。如本题，根据题干可以定位到①句，但只有",
+      "width": 0.8853503158933604,
+      "x": 0.04883226567327744,
+      "y": 0.8895348841156472
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01634877384196176,
+      "text": "booby prize 对于解题没有帮助，我们只能求助于下文。the much more prestigious title of European",
+      "width": 0.8874734327078498,
+      "x": 0.048832293164829434,
+      "y": 0.8719346044776589
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534758828526,
+      "text": "capital of culture 体现出这些人对“欧洲文化之都”的向往和褒奖，反衬出他们对新提议的鄙夷态度。②",
+      "width": 0.8874734327078497,
+      "x": 0.04670915386900484,
+      "y": 0.8517441864347818
+    },
+    {
+      "confidence": 1,
+      "height": 0.022213016825302634,
+      "text": "句更是表示英国这样做是“自我庆祝的狂热”，综合两句很容易锁定答案［B］。",
+      "width": 0.6542504105707062,
+      "x": 0.04868698563277437,
+      "y": 0.8327787409325529
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "I ①It is also wise to recall that such titles are not a",
+      "width": 0.46284501052977867,
+      "x": 0.09129512144424011,
+      "y": 0.8051771118161948
+    },
+    {
+      "confidence": 1,
+      "height": 0.014680100180256006,
+      "text": "我们也应该清醒地认识到，这些称号",
+      "width": 0.30997875830855226,
+      "x": 0.6178344013128151,
+      "y": 0.7992733879901373
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014752708490494815,
+      "text": "cure-allC",
+      "width": 0.07430997894044264,
+      "x": 0.04670913008922665,
+      "y": 0.7863372095645873
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308139468408731,
+      "text": ". ②A badly run",
+      "width": 0.15498937915427613,
+      "x": 0.11889597118011591,
+      "y": 0.7863372097558246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014752709356683824,
+      "text": "year of culture” washes in and",
+      "width": 0.27176219019396547,
+      "x": 0.2823779237282121,
+      "y": 0.7863372092860021
+    },
+    {
+      "confidence": 1,
+      "height": 0.014571848184168124,
+      "text": "并不是包治百病的灵丹妙药。运作不力",
+      "width": 0.3481953264231391,
+      "x": 0.5774946959634379,
+      "y": 0.7819767443496787
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01661510796681187,
+      "text": "washes out of a place like the tide, bringing prominence® for",
+      "width": 0.5075671856219952,
+      "x": 0.04876017829559713,
+      "y": 0.7655039922473842
+    },
+    {
+      "confidence": 1,
+      "height": 0.016119067393899678,
+      "text": "的“文化年”如潮水般在一个地方涌进涌",
+      "width": 0.3481953264231391,
+      "x": 0.5774946905747008,
+      "y": 0.7645348838980146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01776692652897227,
+      "text": "a spell® but leaving no lasting benefits to the community. ③",
+      "width": 0.505459084751119,
+      "x": 0.046648997641066545,
+      "y": 0.7455219401050502
+    },
+    {
+      "confidence": 1,
+      "height": 0.01603193655542412,
+      "text": "出，带来一时的风光，但并没有给当地带",
+      "width": 0.348195326423139,
+      "x": 0.579617838628487,
+      "y": 0.7441860468582859
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014666898590559141,
+      "text": "The really successful holders of such titles are those that do",
+      "width": 0.505307832510465,
+      "x": 0.048832279126933185,
+      "y": 0.7266121709146209
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859578783192,
+      "text": "来持久的好处。真正成功的头衔获得者",
+      "width": 0.35031848371187,
+      "x": 0.5774946850442774,
+      "y": 0.7238372095710736
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014754028562845578,
+      "text": "a great deal more than fill hotel bedrooms and bring in high-",
+      "width": 0.5074309897991959,
+      "x": 0.046709127207620854,
+      "y": 0.7061762038420438
+    },
+    {
+      "confidence": 1,
+      "height": 0.01611642638300903,
+      "text": "所做的远远不止于让酒店的客房住满、带",
+      "width": 0.35031848371187,
+      "x": 0.577494689460413,
+      "y": 0.7048138060150035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660298228805213,
+      "text": "protile®",
+      "width": 0.07430997388116245,
+      "x": 0.04670913262771316,
+      "y": 0.6902815623979833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "arts events and",
+      "width": 0.1380042422671533,
+      "x": 0.12101911174858893,
+      "y": 0.6902815623715879
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014569208039466486,
+      "text": "good press® for a year. ④ They",
+      "width": 0.2866241900294782,
+      "x": 0.2675159293801654,
+      "y": 0.6889191641183298
+    },
+    {
+      "confidence": 1,
+      "height": 0.014569208039466486,
+      "text": "来备受瞩目的艺术活动以及一整年的正",
+      "width": 0.3503184432376285,
+      "x": 0.57749471057333,
+      "y": 0.6889191640456555
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016170879367478408,
+      "text": "transform the aspirations of the people who live there; they",
+      "width": 0.5076123548755596,
+      "x": 0.04662514000908858,
+      "y": 0.6700060245018249
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125325,
+      "text": "面报道。它们改变当地居民的愿景，将城",
+      "width": 0.3503184432376284,
+      "x": 0.5774947035138821,
+      "y": 0.6684831969359599
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016016094821025506,
+      "text": "nudge® the self-image of the city into a bolder and more",
+      "width": 0.5074309897991959,
+      "x": 0.046709129410380835,
+      "y": 0.6525885562397777
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185957878308,
+      "text": "市的自我认知逐步引向更自信、更乐观的",
+      "width": 0.3481953264231391,
+      "x": 0.5774946926801502,
+      "y": 0.6511627913588642
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014649736783809875,
+      "text": "optimistic light. 6 It is hard to get right, and requires a",
+      "width": 0.507430989799196,
+      "x": 0.046709139893395514,
+      "y": 0.632152588753347
+    },
+    {
+      "confidence": 1,
+      "height": 0.01634877384196176,
+      "text": "一面。成功做到这些很难，不仅需要非同",
+      "width": 0.3481953264231391,
+      "x": 0.5774946899943754,
+      "y": 0.633514986142196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394684087422,
+      "text": "remarkable degree of vision, as well as cooperation between",
+      "width": 0.507430989799196,
+      "x": 0.046709139893395514,
+      "y": 0.6133720933737993
+    },
+    {
+      "confidence": 1,
+      "height": 0.016055699590116435,
+      "text": "凡响的远见卓识，还需要地方当局、私营",
+      "width": 0.3503184432376285,
+      "x": 0.5753715595648378,
+      "y": 0.6133720932306213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "city authorities, the private sector, community groups and",
+      "width": 0.507430989799196,
+      "x": 0.04670914200769119,
+      "y": 0.5944595821941814
+    },
+    {
+      "confidence": 1,
+      "height": 0.014643136422056058,
+      "text": "部门、社会团体和文化组织间的合作。但",
+      "width": 0.35031848371187,
+      "x": 0.5753715407873772,
+      "y": 0.5958219797037636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013276777518650973,
+      "text": "cultural organisations. ⑥ But it can be done: Glasgow's year",
+      "width": 0.507430989799196,
+      "x": 0.046709139893395514,
+      "y": 0.5753860129011543
+    },
+    {
+      "confidence": 1,
+      "height": 0.014608811942368183,
+      "text": "这样的成功已有先例：格拉斯哥当选欧洲",
+      "width": 0.35031848371187,
+      "x": 0.5753715472098824,
+      "y": 0.5784883722608083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325037477235158,
+      "text": "as European capital of culture can certainly be seen as one of",
+      "width": 0.507430989799196,
+      "x": 0.04670912847619826,
+      "y": 0.5566860467422587
+    },
+    {
+      "confidence": 1,
+      "height": 0.014727626249640746,
+      "text": "文化之都的那一年无疑可以看作这一系列",
+      "width": 0.3503184432376285,
+      "x": 0.5753715595648378,
+      "y": 0.5608537689459463
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014541483921532539,
+      "text": "a complex series of factors that have turned the city into the",
+      "width": 0.507430989799196,
+      "x": 0.04670913953069202,
+      "y": 0.5363306087788995
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606890117981352,
+      "text": "复杂因素的结合，这些因素使这座城市成",
+      "width": 0.3524416005263594,
+      "x": 0.5753715558727014,
+      "y": 0.540697674520592
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631261650591298,
+      "text": "powerhouse® of art, music and theatre that it remains today.",
+      "width": 0.5033230971278183,
+      "x": 0.046654475788166186,
+      "y": 0.5174169349751379
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015992332652522534,
+      "text": "为艺术、音乐以及戏剧重镇，并持续至今。",
+      "width": 0.33545646363923654,
+      "x": 0.5753715586616273,
+      "y": 0.5217983647963622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019073569482288777,
+      "text": "词汇注释与难旬分析",
+      "width": 0.19108280009869238,
+      "x": 0.37791932062475153,
+      "y": 0.47366030888956534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014541484787721881,
+      "text": "①cure-all ［kjvaroi］ n. 万灵药",
+      "width": 0.23566877936810965,
+      "x": 0.044585992205541776,
+      "y": 0.44912790691197113
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371569281012,
+      "text": "⑤press ［pres］ n. 新闻界，报刊",
+      "width": 0.23779193665684062,
+      "x": 0.5138004205463143,
+      "y": 0.4491279070787316
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014726306177289983,
+      "text": "②prominence ［'prpminens］n. 突出，重要",
+      "width": 0.3184713267521137,
+      "x": 0.044585990020970745,
+      "y": 0.43168604651952913
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016088703997453435,
+      "text": "⑥nudge ［nnds］ .（朝某一方向）逐步推进",
+      "width": 0.3290870322472854,
+      "x": 0.5138004301343192,
+      "y": 0.4316860465736445
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014610132014718946,
+      "text": "③spell ［spel］ n.（持续的）一段时间",
+      "width": 0.27813162158591676,
+      "x": 0.044585991560190975,
+      "y": 0.4141689375994727
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016063620890410357,
+      "text": "⑦ powerhouse ［'pauahaus］ n. 重要的地方",
+      "width": 0.31847132675211376,
+      "x": 0.5116772909763848,
+      "y": 0.4141689370889976
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014641816349705183,
+      "text": "④high-profile ［ihai'praufanl］ a. 高调的",
+      "width": 0.3014861898649908,
+      "x": 0.04458598996286399,
+      "y": 0.39680232559967865
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418665082952,
+      "text": "S",
+      "width": 0.012738852665342137,
+      "x": 0.4819532911832525,
+      "y": 0.4011627907946387
+    },
+    {
+      "confidence": 1,
+      "height": 0.019154428244719912,
+      "text": "语篇分析",
+      "width": 0.08504792676364081,
+      "x": 0.43305990012999607,
+      "y": 0.37196348348123687
+    },
+    {
+      "confidence": 1,
+      "height": 0.019101292734033493,
+      "text": "第三、四段为第三部分，点明作者观点：设立文化称号可以为当地带来巨大利益，应该欢迎新提议并",
+      "width": 0.8450106107271634,
+      "x": 0.08704883108369357,
+      "y": 0.34738372053104416
+    },
+    {
+      "confidence": 1,
+      "height": 0.01761773929717214,
+      "text": "将其付诸实施。",
+      "width": 0.13415293605005074,
+      "x": 0.04651164333444474,
+      "y": 0.32767368851043366
+    },
+    {
+      "confidence": 1,
+      "height": 0.02018791669937403,
+      "text": "第三段指出，文化称号不是万能灵药，但如果运作成功可以为当地带来持久的好处。关键词为：①",
+      "width": 0.8451949304231599,
+      "x": 0.08697402547501158,
+      "y": 0.30865679834728277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01475138841814394,
+      "text": "not a cure-all； ②transform the aspirations； ③nudge the self-image。",
+      "width": 0.5498938117798824,
+      "x": 0.0488322901822456,
+      "y": 0.29360465148561443
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859578783192,
+      "text": "①句承接上文，先退而警示人们，文化称号不能解决所有问题。It is also wise to recall that...呼应",
+      "width": 0.842887493912674,
+      "x": 0.08704882882214837,
+      "y": 0.27325581454200376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019650998925426433,
+      "text": "前两段 Cooper and her colleagues argue 和 some might see，开始引入作者论述（also表明作者的论述逻辑",
+      "width": 0.8834220420776691,
+      "x": 0.046611603777358554,
+      "y": 0.25254368581575526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019119775479322754,
+      "text": "和第二段是同向的）；such titles 指代上文提到的“欧洲文化之都”、“文化之城”、“文化之镇”等各种称号；",
+      "width": 0.8853503158933604,
+      "x": 0.046709136090828586,
+      "y": 0.23524069003614478
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01880343278682195,
+      "text": "not a cure-all（cure-all 意为“万灵药；灵丹妙药”）提醒人们文化称号不能解决所有问题，既呼应上文英国",
+      "width": 0.8855576249585544,
+      "x": 0.04448659632600646,
+      "y": 0.21678403992890694
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125436,
+      "text": "脱欧后急于通过各种自我庆祝方式树立新形象，又预示下文将对其问题展开论述。",
+      "width": 0.7027600842382293,
+      "x": 0.046709136883008276,
+      "y": 0.19891008165207524
+    },
+    {
+      "confidence": 1,
+      "height": 0.020320033940480653,
+      "text": "②③④句从正反两方面论证①句，说明只是获得文化称号还远远不够。",
+      "width": 0.6031969712963156,
+      "x": 0.08693515639365461,
+      "y": 0.17893975875870682
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125325,
+      "text": "②句从反面说明运作不善的文化年徒劳无益。washes in and washes out of a place like the tide（像",
+      "width": 0.842887493912674,
+      "x": 0.08704882882214837,
+      "y": 0.16257947282778273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371569281012,
+      "text": "潮水一样涌进涌出）以比喻的修辞手段照应badly run，说明游客、艺术活动等资源来去匆匆；prominence",
+      "width": 0.8874734327078498,
+      "x": 0.04670915091429862,
+      "y": 0.14389534918386726
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125325,
+      "text": "for a spell VS no lasting benefits 通过but 构成强烈对比，既照应涌来退去的潮水形象，说明运作不善的",
+      "width": 0.8853503158933604,
+      "x": 0.04458599487406584,
+      "y": 0.12488646652911772
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883715692809,
+      "text": "文化年徒劳无益，同时又将重心落在but之后，暗示好的文化年应该能够带来持久的益处。",
+      "width": 0.7685775149722315,
+      "x": 0.04670912577644617,
+      "y": 0.10755813983309215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016348773841961872,
+      "text": "③④句从正面说明成功的称号获得者应该做出更多努力。The really successful holders of such",
+      "width": 0.8471337275416528,
+      "x": 0.08704885807099921,
+      "y": 0.08991825640687934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859578783192,
+      "text": "titles 与上文 a badly run “year of culture”形成对比，表明论述视角的转换。really successful 和 do a great",
+      "width": 0.8895965495223392,
+      "x": 0.04458600509021054,
+      "y": 0.06976744218735254
+    },
+    {
+      "confidence": 1,
+      "height": 0.013181726679165284,
+      "text": "13",
+      "width": 0.0233545632197939,
+      "x": 0.8917197457574068,
+      "y": 0.05222524965997133
+    }
+  ],
+  "vision_ocr_text": "1.准确把握人物的基本态度，这样可以保证排除一部分感情色彩不符的选项；2.因为人物的观点也是本\n段的段落主旨，根据上下文逻辑分析概括，寻找对应的选项。如本题，根据题干可以定位到①句，但只有\nbooby prize 对于解题没有帮助，我们只能求助于下文。the much more prestigious title of European\ncapital of culture 体现出这些人对“欧洲文化之都”的向往和褒奖，反衬出他们对新提议的鄙夷态度。②\n句更是表示英国这样做是“自我庆祝的狂热”，综合两句很容易锁定答案［B］。\nI ①It is also wise to recall that such titles are not a\n我们也应该清醒地认识到，这些称号\ncure-allC\n. ②A badly run\nyear of culture” washes in and\n并不是包治百病的灵丹妙药。运作不力\nwashes out of a place like the tide, bringing prominence® for\n的“文化年”如潮水般在一个地方涌进涌\na spell® but leaving no lasting benefits to the community. ③\n出，带来一时的风光，但并没有给当地带\nThe really successful holders of such titles are those that do\n来持久的好处。真正成功的头衔获得者\na great deal more than fill hotel bedrooms and bring in high-\n所做的远远不止于让酒店的客房住满、带\nprotile®\narts events and\ngood press® for a year. ④ They\n来备受瞩目的艺术活动以及一整年的正\ntransform the aspirations of the people who live there; they\n面报道。它们改变当地居民的愿景，将城\nnudge® the self-image of the city into a bolder and more\n市的自我认知逐步引向更自信、更乐观的\noptimistic light. 6 It is hard to get right, and requires a\n一面。成功做到这些很难，不仅需要非同\nremarkable degree of vision, as well as cooperation between\n凡响的远见卓识，还需要地方当局、私营\ncity authorities, the private sector, community groups and\n部门、社会团体和文化组织间的合作。但\ncultural organisations. ⑥ But it can be done: Glasgow's year\n这样的成功已有先例：格拉斯哥当选欧洲\nas European capital of culture can certainly be seen as one of\n文化之都的那一年无疑可以看作这一系列\na complex series of factors that have turned the city into the\n复杂因素的结合，这些因素使这座城市成\npowerhouse® of art, music and theatre that it remains today.\n为艺术、音乐以及戏剧重镇，并持续至今。\n词汇注释与难旬分析\n①cure-all ［kjvaroi］ n. 万灵药\n⑤press ［pres］ n. 新闻界，报刊\n②prominence ［'prpminens］n. 突出，重要\n⑥nudge ［nnds］ .（朝某一方向）逐步推进\n③spell ［spel］ n.（持续的）一段时间\n⑦ powerhouse ［'pauahaus］ n. 重要的地方\n④high-profile ［ihai'praufanl］ a. 高调的\nS\n语篇分析\n第三、四段为第三部分，点明作者观点：设立文化称号可以为当地带来巨大利益，应该欢迎新提议并\n将其付诸实施。\n第三段指出，文化称号不是万能灵药，但如果运作成功可以为当地带来持久的好处。关键词为：①\nnot a cure-all； ②transform the aspirations； ③nudge the self-image。\n①句承接上文，先退而警示人们，文化称号不能解决所有问题。It is also wise to recall that...呼应\n前两段 Cooper and her colleagues argue 和 some might see，开始引入作者论述（also表明作者的论述逻辑\n和第二段是同向的）；such titles 指代上文提到的“欧洲文化之都”、“文化之城”、“文化之镇”等各种称号；\nnot a cure-all（cure-all 意为“万灵药；灵丹妙药”）提醒人们文化称号不能解决所有问题，既呼应上文英国\n脱欧后急于通过各种自我庆祝方式树立新形象，又预示下文将对其问题展开论述。\n②③④句从正反两方面论证①句，说明只是获得文化称号还远远不够。\n②句从反面说明运作不善的文化年徒劳无益。washes in and washes out of a place like the tide（像\n潮水一样涌进涌出）以比喻的修辞手段照应badly run，说明游客、艺术活动等资源来去匆匆；prominence\nfor a spell VS no lasting benefits 通过but 构成强烈对比，既照应涌来退去的潮水形象，说明运作不善的\n文化年徒劳无益，同时又将重心落在but之后，暗示好的文化年应该能够带来持久的益处。\n③④句从正面说明成功的称号获得者应该做出更多努力。The really successful holders of such\ntitles 与上文 a badly run “year of culture”形成对比，表明论述视角的转换。really successful 和 do a great\n13",
+  "pdf_text_layer": "1. 1fE qfA tE ti A~ 99 ~\n            m:\n ~ ~ f& ~ ~ ' ~ ffl \"F                  ?t ~ ffl;\n                                                    *  Jt ,~\n                                                                   i!.   ~ :f:$ i:iJ ~ 1¥iiE f-1~ Ii- $ :fr~ ffi ~ ~ ~ ~ 99 ~ ~ ; 2. ~ '-7 A~ 99 x!l'. ,g -& ¾\n                                                                                                m'\n                                                    ~ ~ x-t Jjtz ~ ~ :gi! :!UPI~ Im ' ~ J]'F f AJ t{ XE fil ¥0 CD 1iJ ' {a f{ ~\n                                                  ..t Jt\n booby prize x,J\" T ffif. I! ii~ ffi Jt1J, ~ 1f1 R ~ ~ WJ T \"F Jt o the much more prestigious title of European\n                                                                                                                                                   0                        *\n                                                                                                                                                                                                                                                                 *\n capital of culture -f*~lli J!~ A.x-t\"AA1J+I Jt«:.zfflS\"~ ltiJ tt:ffiJl~, &tt lli -fm11l x-tffi~iSl tf9ffll3~ ~ J1t o @\n ~ £¾~7J\\ ~ 00 ~ f-F-Mt¾\" § ~ JJ:m 99 !£~\", ~ ~ WJ ~qi~~~~~~ [BJ a\n\n            mO it is also wise to recall that such titles are not a                                                                                                   ~11l~t-J.ii5¼11JE.iA.-iJt.fJJ ,it.~#½\ncure-aJl<I' .              8 A badly run \"year of culture\" washes in and                                                                                   *~~~~~~~~¼~~o~~~~\nwashes out of a place like the tide, bringing prominence~ for                                                                                              ~\" )t_ -ft.1f-\"-jip;'f}J 7j(M_,/f:. - ,t-~-j; iili llf.ili\na spell~ but leaving no lasting benefits to the community. 8                                                                                               th , if *-- ect e(J ~ :Jc , ~ -)f- ii. ~ ~ ~ Jt •\nThe really successful holders of such titles are those that do                                                                                            *-#A~*~o~~A~~~~~~¼\na great deal more than fill hotel bedrooms and bring in high-                                                                                             }')f-#t~iif.iif.~ .ii:. -tit nJj /& ~ ~&4 ~, if\nprofile® arts events and good pressG> for a year. 0 They                                                                                                  *~~-~~~~~~~~ - ~4 ~ ~\ntransform the aspirations of the people who live there; they                                                                                              iil:tl.i!o 't:111 it f: ,.:ff-~   a~*~/[;~~\nnudge~ the self-image of the city into a bolder and more                                                                                                  rfr~ tJ ~iA~~ffe ~I foJ ~ ro 1t ,~~-'J!.89\noptimistic light.                         8 It is hard to get right, and requires a                                                                       -iii o A~1ttJtl i!~~it•, ~-fx. ~ ~~I=, JiJ\nremarkable degree of vision, as well as cooper~tion between                                                                                               ~~ ~ ~Jt.f.yt '~ '.t-t-Jt-j; ~ k '~ ft\ncity authorities, the. private sector, community groups and                                                                                               ~ i1 ,il~Hl #-.~ )t_,ft,!ll ~fa)~¼~     ,f!!                                               O\n\n\n\n\ncultural organisations. 0 But it can he done : Glasgow 's year                                                                                            i!~~a~~~~~=~~~~~~~~\nas E uropean capital of culture can certainly be seen as one of                                                                                           )t_1t~-~~-·~-~~~~i!-J~\na complex series of factors that have turned the city into the f.*~-!-~~¼, i!~ ~ -t-f!.i!.&.Ml ifi A\npowerhousea> of art, music and theatre that it remains today.                                                                                           :/.J ~ ~ '-t- ~ .-;1. .&.~ ,ilj ~ 4.A- ' -#-# ~ .f.~                                             0\n\n\n---- ... -..... --.......... ------ ............... -....................................................,,. ..................................................................................................... -.... -...... -. -.. . . .. .. ...... -.. ----\n                                                                                        •.................................... ., ... . .,I\n                                                                                        :..~.,~.t~.~~~~1:v.ftJ!f. ~ JI;.\nCDcure-aH [ kjuaro:l] n. ']j\"~~                                                                                                ~        @press [ pres] n. ffi fii:J !f. , ff! ftJ\n@ prominence [ prommans] n. ~l:tl-,'.I~\n                                  1\n\n\n@spell [ spel] n. (~~(fj)-ffl:lt-tlsJ\n© high-profile [ 1ha1 1praufa1l] a. iWi ill l'f(J\n                                                                                                                              I~        @ nudge [ nAd3] v. ( 10];Jit-1f.JP] ),ltp•i£\n                                                                                                                                        cr)powerhouse [ 'pauahausJ n. ll! JI \"'1 JI!! :If\n\n\n                                                                             :.·························11\n                                                                                  • ilJl~ffi\n                                                                              ............                   • :~ -\n                                                                                           ......... ...........                              \\\n\n\n\n            • =. im • '1 • =\n~ Jt t-tif             !t.         0\n                                                       mJ ~ , m. Mi~~ ,1 l.i. : w\"11:. x it'*~ RJ 1e.1. '1 ~ ii!! m e ~J ~ , ~•,;:ii ffitt tt #\n\n            • ::. Ji~ w,x it f$ -it ~ :2 n ~ 1l ~ , @ :tuJ Jf'd~ i-'F 1t J:JJ AJ 1e.1. \" ~ itf!\n                                                                                                                                                                                  * *\n                                                                                                                                                                                 m*~ ~ ~ ~ ~ ~ w\" ©                        o           •                     =\nnot a cure-all; @transform the aspirations; ®nudge the self-imageo\n     (D iij ~ ti J::. )t , ~ ill im • m A. ff1 , X it flit i!t ~~ff~ JiJr fl laJ Iii o It is also wise to recall that ... 111 ml\nfir~ St Cooper and her colleagues argue~ some might see, :1f :Jm ~I A ff:1'fi-B~ (also~ f!ij f1:1'f tl9i-B~~-\n~~-=Si~ rliJ taJ ~) 1such titles ffif-t.J:Jtti!IJ ~\"~~HJt1tz~\" /'Jt «:.z~\" /'Jt «:.zfl\"~4}filtf/F%;\nnot a cure-all<cure-all ~1il~n JR.~; lR.13-:lltP~\")il!M.A ffJJt 1tf$%~~-~Ji.Jf;ff fnJ DI, fill:f mi..l:Jt~ ~\nM~FA~r~n*~§~~m~~~~~~~,Xffi]J\\~Jt~x-f~fPjg~*~~o\n            @@@iij,LA~&~niif~~Q)~.~MR~R~Jtitt$~~~m~$o\n       @~ M & iii~ Mm i~ ~ • a<J )tit$•~ ,c Ao washes in and washes out of a place like the tide(~\nffil}j(- ~ilfiil!Mi ttl) t{ lt~99--i$f3:lfflml badly run, i#,l!ijttfJ~, ~*fis;fj~~jffi*~~ ~; prominence\nfor a spell vs no lasting benefits ~n but ftJ.f&si~~ tt, ~lffll.i!lffli         ~ tf9ffl7J<~-, ~'Yl :ii~:iF if B9                                                    *i!\nJt1t~~9¥ X~ , liiJ aiJ' X~ JI ,C., rt:tE hut zFA , llff 7.J\\ if 99 Jt 1t~ ~~~-fff          tl9 ~:2t o                                                       w.                           **!A\n       ®©~ >AIE. iii~ M .tilt J:JJ ~ ~ ~ R ~ :ff b11. ,- ft ttl J! ~ ~ tJ o The really successful holders of such\ntitles ~ ..t.Jt a badly run \"year of culture\"~Jlx-J- lt ,~f!ij~~~:f@ ~~~ o really successful ffi do a great\n                                                                                                                                                                                                                                                         13",
+  "quality": {
+    "vision_line_count": 68,
+    "vision_character_count": 2635,
+    "pdf_text_character_count": 8504,
+    "nonempty": true
+  }
+}

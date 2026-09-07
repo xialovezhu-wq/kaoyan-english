@@ -1,0 +1,76 @@
+{
+  "backlog_through_date": {
+    "already_consumed_count": 0,
+    "cutoff_date": "2026-08-27",
+    "date_counts": [
+      {
+        "processable_count": 0,
+        "residual_count": 3,
+        "study_date": "2026-08-06",
+        "unconsumed_count": 3
+      },
+      {
+        "processable_count": 0,
+        "residual_count": 5,
+        "study_date": "2026-08-12",
+        "unconsumed_count": 5
+      },
+      {
+        "processable_count": 0,
+        "residual_count": 1,
+        "study_date": "2026-08-13",
+        "unconsumed_count": 1
+      }
+    ],
+    "earliest_study_date": "2026-08-06",
+    "extra_counts": {
+      "legacy_eligible_count": 0,
+      "legacy_event_count": 9,
+      "legacy_needs_user_count": 0
+    },
+    "future_excluded_count": 0,
+    "plan_sha256": "a01b6f9f8385f0905d867e45b42b067bde51da3f1a36e3427133e157e2003051",
+    "processable_pending_count": 0,
+    "residual_count": 9,
+    "schema_version": "quick-intake-backlog-through-date-v1",
+    "status_counts": {
+      "needs_user": 9
+    },
+    "unconsumed_count": 9
+  },
+  "counts": {
+    "archived_count": 0,
+    "formalized_count": 0,
+    "learning_unit_count": 0,
+    "pending_count": 0,
+    "question_count": 0,
+    "segment_count": 0
+  },
+  "generated_at": "2026-08-27T20:05:33+08:00",
+  "items": [],
+  "projection_mode": "manual_full_snapshot_replacement",
+  "projection_status": "empty",
+  "schema_version": "quick-intake-today-v1",
+  "source_snapshot": {
+    "hashes": [
+      "cd348c4583039fb4168f1e526ae622512d5c6e08d6b278ba89ce0ccdced155f3",
+      "35c843a0575c17e34079f1c8570bded2318d1d9405a2b55b20d82f145d23dc58"
+    ],
+    "paths": [
+      "/Users/xiazhibin/Documents/kaoyan-english/english_pipeline/backlog.py",
+      "/Users/xiazhibin/Documents/kaoyan-english/english_pipeline/packages.py"
+    ],
+    "snapshot_sha256": "9a7f57d7dbb8834650ef3f743807e8db5e1c75caf1ba257a0cf62a0277f51c69"
+  },
+  "study_date": "2026-08-27",
+  "subject": "english",
+  "timezone": "Asia/Shanghai",
+  "warnings": [
+    {
+      "code": "english_backlog_through_cutoff",
+      "count": 9,
+      "message": "截至 2026-08-27 仍有历史未可信终态条目；最早学习日 2026-08-06。今日卡片仍只显示 2026-08-27。",
+      "severity": "warning"
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P044",
+  "year": 2019,
+  "pdf_page": 44,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "另外，④句中 Amazon.com 因其特殊性，既是对上文大型连锁店的补充，也是对下文的铺垫：亚马逊",
+      "width": 0.8433476482837992,
+      "x": 0.11802573964565417,
+      "y": 0.9096228871515858
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "本身虽然不是大型连锁店，但因为在多州设有仓库，所以根据原裁定就需要代收销售税，处境与大型连",
+      "width": 0.8841201284339011,
+      "x": 0.07725323166287784,
+      "y": 0.8907672298800713
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "锁店相似；而依靠其网站的第三方卖家虽然和亚马逊同样是电商，却因为没有实体存在，所以无需代收",
+      "width": 0.8819742330891616,
+      "x": 0.0793991558496559,
+      "y": 0.8719115733860924
+    },
+    {
+      "confidence": 1,
+      "height": 0.016266217002323002,
+      "text": "销售税。这表明，电商内部也存在不公平现象，预测下文将着重分析新裁定对这类无实体存在的商家的",
+      "width": 0.8819742330891616,
+      "x": 0.0793991558496559,
+      "y": 0.8517441860678485
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017759397529036436,
+      "text": "影响（即：解释新裁定如何保证公平的市场竞争）。",
+      "width": 0.42489269644651206,
+      "x": 0.0772532279033533,
+      "y": 0.8313953490967754
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01930301738188389,
+      "text": "•真题精解•",
+      "width": 0.13531603968761252,
+      "x": 0.4355608631500061,
+      "y": 0.8064822125095922
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013217482672246206,
+      "text": "39. Who are most likely to welcome the Supreme Court",
+      "width": 0.44420598884919327,
+      "x": 0.09012876967411573,
+      "y": 0.7789336803064886
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "39.谁最有可能欢迎最高法院的此次裁定？",
+      "width": 0.364806865318723,
+      "x": 0.5515021497798374,
+      "y": 0.7672301689624581
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01378318764298414,
+      "text": "ruling？",
+      "width": 0.06254547617028175,
+      "x": 0.08782597477210344,
+      "y": 0.758370034269336
+    },
+    {
+      "confidence": 1,
+      "height": 0.013328998699609906,
+      "text": "［A］ Internet entrepreneurs.",
+      "width": 0.23605148989042257,
+      "x": 0.09012875762989615,
+      "y": 0.7366710010137016
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "［A］互联网企业象。",
+      "width": 0.17596565876263348,
+      "x": 0.5515021509191125,
+      "y": 0.7340116281232817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "［B］ Big-chain owners.",
+      "width": 0.19098711654458073,
+      "x": 0.08798283848736621,
+      "y": 0.7078488374256073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016271887582052225,
+      "text": "［B］ 大型连锁店主。",
+      "width": 0.16952789950965697,
+      "x": 0.5536480688252859,
+      "y": 0.7061118334323944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "［C］ Third-party sellers.",
+      "width": 0.20600857432652803,
+      "x": 0.08798283987536254,
+      "y": 0.6801040312093628
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016279448148333042,
+      "text": "［C］第三方商家。",
+      "width": 0.15236051709546705,
+      "x": 0.5515021436160719,
+      "y": 0.6787790696347782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "［D］ Small retailers.",
+      "width": 0.1716738094981481,
+      "x": 0.08798283988611905,
+      "y": 0.6540697673083291
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "［D］ 小型零售商。",
+      "width": 0.15450644172770966,
+      "x": 0.5515021452305657,
+      "y": 0.6526162793102972
+    },
+    {
+      "confidence": 1,
+      "height": 0.016304019213652876,
+      "text": "［精准定位］第五段①句指出，本次裁定对在多州设有实体机构的大型连锁店而言是一次胜利，所",
+      "width": 0.8454935436285389,
+      "x": 0.11587983436598813,
+      "y": 0.6261378411636813
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903906,
+      "text": "以最有可能欢迎此次裁定的应该是大型连锁店店主，［B］正确。",
+      "width": 0.5386265848053623,
+      "x": 0.07939915843780516,
+      "y": 0.6072821843767944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "［命题解密］正确项［B］ Big-chain owners 与第五段①句 big chains 所指相同，句中a victory 体现出",
+      "width": 0.8454935436285389,
+      "x": 0.1158798436670304,
+      "y": 0.5884265277962983
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "新裁定给他们带来的巨大利好，因此他们应该最欢迎（welcome）此次裁定。",
+      "width": 0.6309012561292886,
+      "x": 0.07939916260059166,
+      "y": 0.568270481257398
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "［A］与第七段④句“互联网企业家完全没有受到本次裁定的周全考虑”相悖。［C］、［D］与第五段④",
+      "width": 0.8454935436285388,
+      "x": 0.11587982705912143,
+      "y": 0.5494148245514521
+    },
+    {
+      "confidence": 1,
+      "height": 0.017744277016549237,
+      "text": "句和第六段②句“第三方商家和小型零售商原本无需代收销售税，而此次裁定迫使他们开始收税”所暗",
+      "width": 0.8819742330891615,
+      "x": 0.0793991526346038,
+      "y": 0.5290697674834031
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "示的“不会欢迎本次裁定”相悖。",
+      "width": 0.270386269362554,
+      "x": 0.07939914332301479,
+      "y": 0.5101744186461938
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "［技巧总结］题干设问句表明，本题是就“事件对各方影响”设置的事实判断题，解题关键在于准确定",
+      "width": 0.8454935436285388,
+      "x": 0.11587983058201108,
+      "y": 0.4927325582831654
+    },
+    {
+      "confidence": 1,
+      "height": 0.017630870382559505,
+      "text": "位各方受到的影响。具体来看，对第五、六段描述各类商家所受影响可定位如下：第五段①句明确指出",
+      "width": 0.8819742330891616,
+      "x": 0.07939914276335941,
+      "y": 0.4707412221631071
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "新裁定对大型连锁店而言是胜利（a victory for big chains with a presence in many states）；第六段③句指",
+      "width": 0.8819742330891616,
+      "x": 0.0793991558496559,
+      "y": 0.45318595594189415
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903684,
+      "text": "出，根据新裁定，各州可立法强制要求州外商家（包括第三方卖家和小型零售商）开始代收销售税",
+      "width": 0.8819742330891616,
+      "x": 0.07939914220005455,
+      "y": 0.43433029917106036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "（requiring out-of-state sellers to collect the state's sales tax from customers），由此排除［C］、［D］并初步确",
+      "width": 0.8841201284339011,
+      "x": 0.07725323166287784,
+      "y": 0.41417425208787473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "定［B］为答案。最后，根据末段信息“互联网企业家没有受到本次裁定的周全考虑（internet",
+      "width": 0.8862660823536468,
+      "x": 0.07939915652703906,
+      "y": 0.3953185955357563
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "entrepreneurs are not well served at all by this decision）”排除［A］。",
+      "width": 0.5708154250014996,
+      "x": 0.07939916158723295,
+      "y": 0.376453488588398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01760303152553122,
+      "text": "VI ① Until now, many sellers that have a physical",
+      "width": 0.4616931761523812,
+      "x": 0.11787103139509651,
+      "y": 0.33681190158785024
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883288320088,
+      "text": "在此之前，许多仅在一个或数个州有",
+      "width": 0.3154506280646443,
+      "x": 0.6416309065148882,
+      "y": 0.33139534898084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053315907,
+      "text": "presence in only a single state or a few states have been able",
+      "width": 0.5,
+      "x": 0.07939913329756822,
+      "y": 0.32119635862330875
+    },
+    {
+      "confidence": 1,
+      "height": 0.01454811443433035,
+      "text": "实体存在的商家在向州外地址运送（商",
+      "width": 0.35193131752526696,
+      "x": 0.6030042958051164,
+      "y": 0.31250000013324863
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172119894635292,
+      "text": "to avoid charging sales taxes when they ship to addresses",
+      "width": 0.5021458953447397,
+      "x": 0.07939916370102046,
+      "y": 0.30087209355219235
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "品）时都可以避免收取销售税。那些使用",
+      "width": 0.35193131752526696,
+      "x": 0.6030042952609718,
+      "y": 0.2906371909860215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013211812712591198,
+      "text": "outside those states. ② Sellers that use eBay and Etsy，",
+      "width": 0.5,
+      "x": 0.07939913538090144,
+      "y": 0.28197674397984096
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "eBay 和 Etsy（均为较小商家提供销售平",
+      "width": 0.3540772421575097,
+      "x": 0.6008583755682408,
+      "y": 0.2730819247772279
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014551894407433541,
+      "text": "which provide platforms® for smaller sellers, also haven't",
+      "width": 0.5,
+      "x": 0.07939913329756822,
+      "y": 0.26308139546824305
+    },
+    {
+      "confidence": 1,
+      "height": 0.013654096228868706,
+      "text": "台）的商家也没有在全国范围内收取销售",
+      "width": 0.35193131752526696,
+      "x": 0.6030042958051164,
+      "y": 0.25552665798240615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014977455139160156,
+      "text": "been collecting sales tax nationwide. ⑧ Under the ruling",
+      "width": 0.5001804110184741,
+      "x": 0.07931667849413312,
+      "y": 0.24269919358469583
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "税。而根据周四的裁定，各州可通过法",
+      "width": 0.3562231667897523,
+      "x": 0.6008583772489006,
+      "y": 0.23401162793661923
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013251504290398453,
+      "text": "Thursday, states can pass laws requiring out-of-state",
+      "width": 0.5,
+      "x": 0.07939913329756822,
+      "y": 0.22366709988027744
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "律，要求州外销售商对本州顾客收取销售",
+      "width": 0.3540772421575096,
+      "x": 0.600858370954507,
+      "y": 0.21511627879781114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868595,
+      "text": "sellers to collect the state's sales tax from customers",
+      "width": 0.46566523517162006,
+      "x": 0.0793991417489539,
+      "y": 0.20611183359504426
+    },
+    {
+      "confidence": 1,
+      "height": 0.010457933336612713,
+      "text": "and",
+      "width": 0.03433476116744205,
+      "x": 0.5450643785006853,
+      "y": 0.20611183383271026
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "税，并上缴本州。",
+      "width": 0.14377681856649616,
+      "x": 0.6008583732703999,
+      "y": 0.1947674418028983
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011871729777600204,
+      "text": "send it to the state.",
+      "width": 0.16523605024517155,
+      "x": 0.07939913950545438,
+      "y": 0.1872561769292007
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0159883722372266,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.2424892637871507,
+      "x": 0.37982833190470794,
+      "y": 0.14680232558196804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01179045539528556,
+      "text": "①platform ［'pleetfo:m］ n. 平台",
+      "width": 0.2360515045341741,
+      "x": 0.08154506515065255,
+      "y": 0.12483745148108916
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013901894672329274,
+      "text": "经典搭配",
+      "width": 0.07879454709746792,
+      "x": 0.5737088476228932,
+      "y": 0.1218335134370595
+    },
+    {
+      "confidence": 1,
+      "height": 0.011733752698365074,
+      "text": "①out-of-state（州外的）",
+      "width": 0.1781115833948761,
+      "x": 0.5450643812486072,
+      "y": 0.10465116302603417
+    },
+    {
+      "confidence": 1,
+      "height": 0.013228823211630214,
+      "text": "44",
+      "width": 0.023605148989042257,
+      "x": 0.09227467848294668,
+      "y": 0.05959302330396876
+    }
+  ],
+  "vision_ocr_text": "另外，④句中 Amazon.com 因其特殊性，既是对上文大型连锁店的补充，也是对下文的铺垫：亚马逊\n本身虽然不是大型连锁店，但因为在多州设有仓库，所以根据原裁定就需要代收销售税，处境与大型连\n锁店相似；而依靠其网站的第三方卖家虽然和亚马逊同样是电商，却因为没有实体存在，所以无需代收\n销售税。这表明，电商内部也存在不公平现象，预测下文将着重分析新裁定对这类无实体存在的商家的\n影响（即：解释新裁定如何保证公平的市场竞争）。\n•真题精解•\n39. Who are most likely to welcome the Supreme Court\n39.谁最有可能欢迎最高法院的此次裁定？\nruling？\n［A］ Internet entrepreneurs.\n［A］互联网企业象。\n［B］ Big-chain owners.\n［B］ 大型连锁店主。\n［C］ Third-party sellers.\n［C］第三方商家。\n［D］ Small retailers.\n［D］ 小型零售商。\n［精准定位］第五段①句指出，本次裁定对在多州设有实体机构的大型连锁店而言是一次胜利，所\n以最有可能欢迎此次裁定的应该是大型连锁店店主，［B］正确。\n［命题解密］正确项［B］ Big-chain owners 与第五段①句 big chains 所指相同，句中a victory 体现出\n新裁定给他们带来的巨大利好，因此他们应该最欢迎（welcome）此次裁定。\n［A］与第七段④句“互联网企业家完全没有受到本次裁定的周全考虑”相悖。［C］、［D］与第五段④\n句和第六段②句“第三方商家和小型零售商原本无需代收销售税，而此次裁定迫使他们开始收税”所暗\n示的“不会欢迎本次裁定”相悖。\n［技巧总结］题干设问句表明，本题是就“事件对各方影响”设置的事实判断题，解题关键在于准确定\n位各方受到的影响。具体来看，对第五、六段描述各类商家所受影响可定位如下：第五段①句明确指出\n新裁定对大型连锁店而言是胜利（a victory for big chains with a presence in many states）；第六段③句指\n出，根据新裁定，各州可立法强制要求州外商家（包括第三方卖家和小型零售商）开始代收销售税\n（requiring out-of-state sellers to collect the state's sales tax from customers），由此排除［C］、［D］并初步确\n定［B］为答案。最后，根据末段信息“互联网企业家没有受到本次裁定的周全考虑（internet\nentrepreneurs are not well served at all by this decision）”排除［A］。\nVI ① Until now, many sellers that have a physical\n在此之前，许多仅在一个或数个州有\npresence in only a single state or a few states have been able\n实体存在的商家在向州外地址运送（商\nto avoid charging sales taxes when they ship to addresses\n品）时都可以避免收取销售税。那些使用\noutside those states. ② Sellers that use eBay and Etsy，\neBay 和 Etsy（均为较小商家提供销售平\nwhich provide platforms® for smaller sellers, also haven't\n台）的商家也没有在全国范围内收取销售\nbeen collecting sales tax nationwide. ⑧ Under the ruling\n税。而根据周四的裁定，各州可通过法\nThursday, states can pass laws requiring out-of-state\n律，要求州外销售商对本州顾客收取销售\nsellers to collect the state's sales tax from customers\nand\n税，并上缴本州。\nsend it to the state.\n•词汇注释与难句分析•\n①platform ［'pleetfo:m］ n. 平台\n经典搭配\n①out-of-state（州外的）\n44",
+  "pdf_text_layer": "另外，④句中 Amazo n. com 因其特殊性，既是对上文大型连锁店的补充，也是对下文的铺垫：亚马逊\n本身虽然不是大型连锁店，但因为在多 州 设有仓库，所以根据原裁定就需要代收销售税，处境与大型连\n锁店相似；而依靠其网站的第 三 方卖家虽然和亚马逊同样是电商，却因为没有 实 体存在，所以无 需 代收\n销售税 。 这表明 ， 电商内部也存在不公平现象，预测下文将 着重 分析新裁定对这类无 实 体存在的商家的\n影响（ 即 ：解释新裁定如何保证公平的市场竞争） 。\n\n                                                  c~：辜题信，解：：~ ：：： ff\n 39. Who are most likely to welcome the Supreme Court\n                                                                    39. 谁 最 有可能欢迎 最 高法院的此次 裁 定？\n ruling?\n\n [A] Inte rnet entrepreneun                                         [ A］互联网企业家 。\n\n [BJ Big- chain owners .                                            [ BJ 大型 连锁店主 。\n\n [ C] Third- party sell ers.                                        [ CJ 第 三 方商家 。\n\n [ DJ Small retail ers.                                             [ DJ 小型 零售商 。\n\n       〔精准定位］ 第五段①句指出，本次裁定对在多州设有实体机构的大型连锁店而言是 一 次胜利，所\n以最有可能欢迎 此 次裁定的应该是大型连锁店店主， ［ BJ 正确 。\n       ［命题解密］ 正确项 ［ BJ Big- chain own e rs 与第五段 ① 句 big cha i n s 所指相同 ， 句中 a victory 体现出\n新裁定给 他们 带来的 巨 大利好，因此 他们 应该最欢迎（ welcome ） 此 次裁定 。\n       [ A ］与第 七段 ④ 句“互联网企业家完全没有受到本次裁定的周 全考虑” 相悖 。［ CJ 、 ［ D J 与第五段④\n句和第六段 ② 句 “第 三 方商家和小型零售商原本无需代收销售税，而此次裁定迫使他们开始收税”所暗\n示的“不会欢迎本次裁定”相悖 。\n       ［技巧总结］ 题干设问句表明，本题是就“事件对各方影响”设置的事实判断题， ff(/o 题关键在于准确定\n位各方受到的影响 。 具体来看，对第五、六段描述各类商家所受影响可定位如下：第五段 ① 句明确指出\n新裁定对大型连锁店而 言是 胜利（ a victory for big chains with a prese nce in many stat es ）；第 六段③ 句指\n出，根据新裁定，各州可 立法 强制要求 州 外商家（包括第 三 方卖家和小型零售商）开始代收销售税\n( requiring out- of- s tate sell ers to co llec t the state ’ s sa les tax from customers ），由 此 排除 ［ CJ 、［ DJ 并初步确\n定 ［ BJ 为 答案。最后，根据末段信息“互 联网企业 家没有受 到本次裁定的周 全考虑（ internet\nentrepreneurs are not w ell served at al l by this dec i s i on ）”排除［ A] .\n\n\n       VI O Until now, many se ll 巳rs that have a physica l\n                                                                             在此之前，许多仅在一个或数个州有\npr巳senc e in only a single state or a few states have b巳en a bl e\n                                                                           实体存在的商家在向州外地址运送（商\nto avoid charging sa les taxes w hen they ship to addresses\n                                                                           品）时都可以避免收取销售税 。 那些使用\noutside t hose states. @ Sellers tha t use eBay and Etsy ,\n                                                                           eBay 和 Etsy （均为较 小商 家提供销售平\nwh ich provide platforms(      for sma ll er s e ll 巳r s, also haven ' t\n                                                                           台〉的商家也没有在全国范围内收取销售\nbeen co ll ecting sa les tax nationwide. @ Under t he ru li ng\n                                                                           税 。 而根据周四的裁定，各州可通过法\nThursday,      s ta tes can pa ss laws      requ ir ing o ut of state\n                                                                           律，要求州外销售商对本州顾客收取销售\nsell ers to co ll ec t the state ’ s sales tax from customers and\n                                                                           税，并上缴本州 。\nsend it to th e s tat e.\n\n\n                                          : : -::¥.it注释与难句：云：斤：＜ 1'\n( platform [ 1p l retfo:m ］ 凡 平台                              $    ·经典搭配\n                                                              ；①…f-sta te（少i'I 夕｜ 的 ）\n\n  44",
+  "quality": {
+    "vision_line_count": 54,
+    "vision_character_count": 1847,
+    "pdf_text_character_count": 3187,
+    "nonempty": true
+  }
+}

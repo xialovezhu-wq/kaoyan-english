@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P019",
+  "year": 2011,
+  "pdf_page": 19,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.011785605686162826,
+      "text": "LCJ their strained relations with the boards",
+      "width": 0.36595744282806514,
+      "x": 0.04893617586256314,
+      "y": 0.916993463950974
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "LC］他们与董事会的紧张关系",
+      "width": 0.25744681522764007,
+      "x": 0.4851063771468183,
+      "y": 0.9142441862562104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394769007826,
+      "text": "［D］ their pursuit of new career goals",
+      "width": 0.3127659472469169,
+      "x": 0.04893617791909471,
+      "y": 0.8895348840714069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "［D］他们对全新职业目标的追求",
+      "width": 0.2787234134600994,
+      "x": 0.4851063763854519,
+      "y": 0.8880813956571656
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "［精准定位］第二段主要分析了高管裸辞的原因：麦基裸辞为了实现“管理一家公司”的职业目标，雅",
+      "width": 0.8382978768184267,
+      "x": 0.07659574206951,
+      "y": 0.8588235294256732
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "芳公司和美国运通公司二号高管为追求CEO职位而辞职，还有一些高管因继任计划未获董事会首肯而",
+      "width": 0.8787233783824233,
+      "x": 0.03617021471836305,
+      "y": 0.8398692809767501
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "希望换份工作进一步发展。归纳便是：高管裸辞主要由于想要“追求新的职业目标”，［D］正确。",
+      "width": 0.7978723167916367,
+      "x": 0.03829789213609638,
+      "y": 0.819607843412713
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［命题解密］正确项［D］是对第一段②句 to pursue my goal of running a company、第二段④句",
+      "width": 0.8382978768184267,
+      "x": 0.07659574842969237,
+      "y": 0.8006535949598821
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "looking for a CEO post 的高度概括。",
+      "width": 0.3106382815773917,
+      "x": 0.03617022474321899,
+      "y": 0.7803921570542752
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［A］从⑥句 a turbulent business environment 和④句 looking for a CEO post 等片段信息中臆断出",
+      "width": 0.8361701819175048,
+      "x": 0.07659576533114114,
+      "y": 0.7614379082016016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "“高管的经济收人因糟糕的商业环境而下滑，希望通过寻求CEO职位来改善”，但段中未提及他们是因",
+      "width": 0.8787233783824233,
+      "x": 0.03404255734070333,
+      "y": 0.7424836602176542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "为追求财富而辞职。［B］将①句 to reflect on what kind of company he wanted to run 偷换为“思考个人生",
+      "width": 0.8765957419442948,
+      "x": 0.03829788101366809,
+      "y": 0.7222222220605816
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "活”。［C］对⑤句 in response to shareholder pressure 断章取义，文中此处指“董事会囿于股东压力，因而",
+      "width": 0.8765957419442948,
+      "x": 0.03829788101366809,
+      "y": 0.7019607844275038
+    },
+    {
+      "confidence": 1,
+      "height": 0.01766035915200226,
+      "text": "审查高管继任计划，致使一些高管无法获得首肯通过，从而选择辞职”。而非“高管因为与董事会关系紧",
+      "width": 0.8765957419442949,
+      "x": 0.03829787685763987,
+      "y": 0.6816860463082178
+    },
+    {
+      "confidence": 1,
+      "height": 0.01774775810491025,
+      "text": "张而辞职”。",
+      "width": 0.10212765982324593,
+      "x": 0.03617021136497281,
+      "y": 0.6613372092006597
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "［技巧总结］因果细节是最常考的事实细节。这类题目的题干中通常会出现因果关系词，最常用的",
+      "width": 0.8382978768184267,
+      "x": 0.07659574173263065,
+      "y": 0.6424418602014182
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013244794085134903,
+      "text": "是 the reason,because of, because, in that, as a result of, be responsible for, due to, owing to, thanks",
+      "width": 0.8765957419442948,
+      "x": 0.040425540588136154,
+      "y": 0.6248366010343497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "to，本题使用了非显性的因果关系词 be spurred by。",
+      "width": 0.4361702053026221,
+      "x": 0.036170220132376855,
+      "y": 0.6031976748342143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "第二段借助 with the explanation that...、who don't get the nod also may wish to...这类隐形因果表",
+      "width": 0.8382978768184268,
+      "x": 0.07659573196312734,
+      "y": 0.5843023259001057
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "达明确了高管辞职的原因。此外还可以通过本段重点信息③句得知麦基高调裸辞并非个例，再结合首",
+      "width": 0.8765957419442947,
+      "x": 0.03829787997010176,
+      "y": 0.5639534883350699
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "段②句 said he was leaving “to pursue my goal of running a company”可推知［D］正确。",
+      "width": 0.7297871907552084,
+      "x": 0.04042556572168619,
+      "y": 0.5450581399262686
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0117647058823529,
+      "text": "II",
+      "width": 0.029787233506125957,
+      "x": 0.08297872416892281,
+      "y": 0.5130718956182436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014690455268411062,
+      "text": "① As the first signs of recovery begin to",
+      "width": 0.37040368441877697,
+      "x": 0.11266454952073458,
+      "y": 0.5115934041509937
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145937832352383,
+      "text": "随着经济复苏初现企稳迹象，副总们也许会",
+      "width": 0.3659574428280651,
+      "x": 0.5446808546497972,
+      "y": 0.5043604653259779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "take hold, deputy chiefs may be more willing to make",
+      "width": 0.4446808387493265,
+      "x": 0.03829788583810245,
+      "y": 0.4895424836353187
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371730629947,
+      "text": "更愿意在没有找到新工作的情况下就辞职。利",
+      "width": 0.402127642284408,
+      "x": 0.5063829917035406,
+      "y": 0.484011628199977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906599855131,
+      "text": "the jump without a net.",
+      "width": 0.20212765397696658,
+      "x": 0.0382978785079705,
+      "y": 0.47093023279503365
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01193000444399761,
+      "text": "② In the third quarter, CEO",
+      "width": 0.24468083582618683,
+      "x": 0.23829787588123297,
+      "y": 0.47238372102177795
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "伯伦研究公司的数据显示，由于焦虑的董事会紧",
+      "width": 0.40425530795393316,
+      "x": 0.5042553213776434,
+      "y": 0.4665697677605709
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906599855131,
+      "text": "turnover\" was down 23% from a year ago as nervous",
+      "width": 0.4446808387493265,
+      "x": 0.0382978829444856,
+      "y": 0.45203488396751434
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "抓现有领导不放，第三季度的CEO人事变动率",
+      "width": 0.40638297362345854,
+      "x": 0.5042553203957175,
+      "y": 0.44622093052555833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011941404280319756,
+      "text": "boards stuck with the leaders they had, according to",
+      "width": 0.4446808387493265,
+      "x": 0.0382978710863299,
+      "y": 0.4313725489711582
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "相较去年下降了23%。随着经济好转，对于胸",
+      "width": 0.40638297362345854,
+      "x": 0.5042553212201856,
+      "y": 0.4273255813981236
+    },
+    {
+      "confidence": 1,
+      "height": 0.013161194246578911,
+      "text": "Liberum Research.",
+      "width": 0.16595743990492548,
+      "x": 0.040425538132643546,
+      "y": 0.409803921766801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01330749287324795,
+      "text": "③ As the economy picks up，",
+      "width": 0.2765957477905741,
+      "x": 0.20425531298414568,
+      "y": 0.41111111136687617
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "怀抱负的领导者来说将会有很多机会。",
+      "width": 0.32978721414032564,
+      "x": 0.5042553331691988,
+      "y": 0.40697674447904686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "opportunities will abound® lor aspiring leaders.",
+      "width": 0.39361700883770356,
+      "x": 0.0382978851201551,
+      "y": 0.3895348840638655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "词汇注释与难句分析",
+      "width": 0.1851063724678595,
+      "x": 0.3680851115586235,
+      "y": 0.3488372099950352
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013273293364281735,
+      "text": "①turnover ［'t3:n/auva］n. 人事变更率；人员调整率",
+      "width": 0.39574467450722883,
+      "x": 0.036170220884683364,
+      "y": 0.32267441887639725
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580482906765502,
+      "text": "①take hold（开始完全控制，变得十分强大）",
+      "width": 0.34255317892608056,
+      "x": 0.48936170498376835,
+      "y": 0.32267441890882664
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "②abound ［o'baund］v. 大量存在",
+      "width": 0.2446808504418852,
+      "x": 0.03829787539075946,
+      "y": 0.30377907034051266
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "②deputy chiefs（副总裁，二把手）",
+      "width": 0.25957445166576876,
+      "x": 0.5021276662415837,
+      "y": 0.30377906997714055
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013087094998827209,
+      "text": "• 经典搭配",
+      "width": 0.10851063490827423,
+      "x": 0.03829787512033095,
+      "y": 0.2790697678044497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013144094803754003,
+      "text": "③ pick up（恢复，改善）",
+      "width": 0.17446808796732816,
+      "x": 0.502127659390196,
+      "y": 0.28627450963016854
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.024272605796265445,
+      "text": "•语篇分析•泌",
+      "width": 0.15988682421687922,
+      "x": 0.40409914209099523,
+      "y": 0.2465846281579781
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "第三段分析高管裸辞现象产生的外部原因（社会环境）。关键词为：recovery。",
+      "width": 0.6468084927262931,
+      "x": 0.07872341967940648,
+      "y": 0.2222222219903296
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "①句表明高管裸辞的外在刺激因素：经济局势好转。be more willing to...凸显今昔不同经济环境",
+      "width": 0.8382978768184267,
+      "x": 0.07872340254823343,
+      "y": 0.20196078422616393
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01804788876203145,
+      "text": "下高管裸辞的心态：不稳时（保全声誉而）谨慎为之VS企稳后可能更愿意之，侧面表明这一现象会",
+      "width": 0.8767518960653137,
+      "x": 0.04035271971229605,
+      "y": 0.18267470927918172
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02048742381575841,
+      "text": "随经济好转而变得更加普遍。句中习语 take hold 既可以表示“扎根、建立”，还含有“用力抓住、控制”之",
+      "width": 0.8768076695701629,
+      "x": 0.040324840964096526,
+      "y": 0.16131419992024987
+    },
+    {
+      "confidence": 1,
+      "height": 0.018646248337490068,
+      "text": "意，句中一方面说明经济正在企稳向好，另一方面暗示经济局势对高管离职产生的巨大影响；比喻表达",
+      "width": 0.8767857460226592,
+      "x": 0.04033213307103017,
+      "y": 0.14380023452763646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "make the jump without a net（其中 net 也常常用作 safety net，本指“网罩、保护措施”，此处喻指“备选工",
+      "width": 0.8787233783824233,
+      "x": 0.0382978779541785,
+      "y": 0.12483660115707418
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "作职位”）同义替换上段 leaving without a position lined up，凸显高管率性而为的同时，又暗示其有风险，",
+      "width": 0.880851014820552,
+      "x": 0.040425567430149335,
+      "y": 0.1058823526839261
+    },
+    {
+      "confidence": 1,
+      "height": 0.014669782351824145,
+      "text": "为后文论述埋下伏笔。",
+      "width": 0.19148935486073695,
+      "x": 0.04042553772920593,
+      "y": 0.0856209149312096
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "②③句对①句内容进行正反两方面论证。",
+      "width": 0.351063812372785,
+      "x": 0.08085107604765003,
+      "y": 0.06535947741413672
+    },
+    {
+      "confidence": 1,
+      "height": 0.011880604737724343,
+      "text": "19",
+      "width": 0.023404254767173116,
+      "x": 0.8787234043362716,
+      "y": 0.0477124182569707
+    }
+  ],
+  "vision_ocr_text": "LCJ their strained relations with the boards\nLC］他们与董事会的紧张关系\n［D］ their pursuit of new career goals\n［D］他们对全新职业目标的追求\n［精准定位］第二段主要分析了高管裸辞的原因：麦基裸辞为了实现“管理一家公司”的职业目标，雅\n芳公司和美国运通公司二号高管为追求CEO职位而辞职，还有一些高管因继任计划未获董事会首肯而\n希望换份工作进一步发展。归纳便是：高管裸辞主要由于想要“追求新的职业目标”，［D］正确。\n［命题解密］正确项［D］是对第一段②句 to pursue my goal of running a company、第二段④句\nlooking for a CEO post 的高度概括。\n［A］从⑥句 a turbulent business environment 和④句 looking for a CEO post 等片段信息中臆断出\n“高管的经济收人因糟糕的商业环境而下滑，希望通过寻求CEO职位来改善”，但段中未提及他们是因\n为追求财富而辞职。［B］将①句 to reflect on what kind of company he wanted to run 偷换为“思考个人生\n活”。［C］对⑤句 in response to shareholder pressure 断章取义，文中此处指“董事会囿于股东压力，因而\n审查高管继任计划，致使一些高管无法获得首肯通过，从而选择辞职”。而非“高管因为与董事会关系紧\n张而辞职”。\n［技巧总结］因果细节是最常考的事实细节。这类题目的题干中通常会出现因果关系词，最常用的\n是 the reason,because of, because, in that, as a result of, be responsible for, due to, owing to, thanks\nto，本题使用了非显性的因果关系词 be spurred by。\n第二段借助 with the explanation that...、who don't get the nod also may wish to...这类隐形因果表\n达明确了高管辞职的原因。此外还可以通过本段重点信息③句得知麦基高调裸辞并非个例，再结合首\n段②句 said he was leaving “to pursue my goal of running a company”可推知［D］正确。\nII\n① As the first signs of recovery begin to\n随着经济复苏初现企稳迹象，副总们也许会\ntake hold, deputy chiefs may be more willing to make\n更愿意在没有找到新工作的情况下就辞职。利\nthe jump without a net.\n② In the third quarter, CEO\n伯伦研究公司的数据显示，由于焦虑的董事会紧\nturnover\" was down 23% from a year ago as nervous\n抓现有领导不放，第三季度的CEO人事变动率\nboards stuck with the leaders they had, according to\n相较去年下降了23%。随着经济好转，对于胸\nLiberum Research.\n③ As the economy picks up，\n怀抱负的领导者来说将会有很多机会。\nopportunities will abound® lor aspiring leaders.\n词汇注释与难句分析\n①turnover ［'t3:n/auva］n. 人事变更率；人员调整率\n①take hold（开始完全控制，变得十分强大）\n②abound ［o'baund］v. 大量存在\n②deputy chiefs（副总裁，二把手）\n• 经典搭配\n③ pick up（恢复，改善）\n•语篇分析•泌\n第三段分析高管裸辞现象产生的外部原因（社会环境）。关键词为：recovery。\n①句表明高管裸辞的外在刺激因素：经济局势好转。be more willing to...凸显今昔不同经济环境\n下高管裸辞的心态：不稳时（保全声誉而）谨慎为之VS企稳后可能更愿意之，侧面表明这一现象会\n随经济好转而变得更加普遍。句中习语 take hold 既可以表示“扎根、建立”，还含有“用力抓住、控制”之\n意，句中一方面说明经济正在企稳向好，另一方面暗示经济局势对高管离职产生的巨大影响；比喻表达\nmake the jump without a net（其中 net 也常常用作 safety net，本指“网罩、保护措施”，此处喻指“备选工\n作职位”）同义替换上段 leaving without a position lined up，凸显高管率性而为的同时，又暗示其有风险，\n为后文论述埋下伏笔。\n②③句对①句内容进行正反两方面论证。\n19",
+  "pdf_text_layer": "[CJ their st ra in ed re lat ions with t he boa rd s                     [ CJ 他们 与董事会的紧张关系\n\n [ DJ their pursuit of new career goa ls                                  ［叫 他们对 全新职业目标的追求\n\n     ［精准定位］第二段主要分析了高管裸辞的原因 ： 麦基裸辞为了实现“管理 一 家公司”的 职业目标，雅\n芳公司和美国运通公司二号高管为追求 CEO 职位而辞职，还有 一 些高管因继任计划未获董事会首肯而\n希望换份工作进一步发展 。 归纳便 是 ： 高管裸辞主要由于想 要 “追求新的职 业目标”， ［ DJ 正确。\n     ［命题解密］ 正确项 ［ DJ 是对第 一 段 ② 句 to pursue my goa l of runn ing a co mpa n y 、第二段④句\nlook ing for a CEO po st 的高度概括 。\n     [A］从 ＠ 句 a turbu lent bt』 s in ess e n v i ronm巳 nt 和l ④句 l ook i ng for a CEO post 等片段信息中臆断出\n“高管的经济收入因丰吕i 糕的商业环境而下滑，希望通过寻求 CEO 职位来改善\n为追求财 富 而辞职 。 ［ BJ 将①句 to re fl ect on w hat kind of company he wanted to run 偷换为 “思考 个人生\n活”。［ CJ 对⑤句 in response to s hareho lder pressure 断章取义，文中 此 处指“董事会固于股东压力，因而\n审查高管继任计划，致使 一 些高管无法获得首肯通过，从而选择辞职” 。 而非“高管因为与董事会关系紧\n张而辞职” 。\n     ［技巧总结］ 因果细节是最常考的 事 实细节 。 这类题目 的 题干中通常会 出现因果 关系同，最常用的\n是 t h e reason,   beca use of. because, in t hat, as a resu lt o f, be , espons ibl e for, du e to, owi ng to, t hanks\nto ，本题使用了非显性的因果关系词 be sp ur red b y 。\n     第二段借助 w i t h t he explanation t hat ...、 who don ’ t g et th e nod a lso may w ish to . ..这类隐形因果表\n达明确了高 管辞 职的原因 。 此外 还可以通过本段重点信息 ③ 句得知麦基高调裸辞并非个例，再结合首\n段 ② 句 sa id he was leav ing “ to pursue m y goa l of runnin g a company”可推知 ［ DJ 正确 。\n\n\n     囚 。 因 A s the first s igns o f recovery beg111 to\n\ntake hold . deputy chiefs may be more willi ng to make                         ’更愿意在没有找到新工作的情况下就辞职 。 利\nthe jump without a net. @In the t hi rd q uart er, CEO                         伯伦研究公司的数据显示，由于焦虑的董事会紧\nturnover( was down 23 % from a year ago as ner vo us                           抓现有领导不放，第三季度的 CEO 人事变动率\nboards s tuck wit h t he leaders they had, acco rding to                       F相较去年下降了 23 % 。 随着经济好转，对于胸\n\nLiberum Resea rch.      @) As t he economy picks up,                           怀抱负的领导者来说将会有很多机会 。\nopportuniti es will abound@ for asp iring leaders.                                        • -       -\n\n                                                                                   分            J\n                                                        注 …              难 一\n                                                              释                         析\n                                                  …               与 …        旬\n                                                      E\n                                                词\n                                                              －          －          ．\n\n\n\n\n                                                …\n                                                        －     －   …          … …\n\n( turnover [ 1t3:n, ;iuvaJ η ．人事变更率；人员调整率                           \\\\         ( ta l< e h o ld （开始完全控制，变得十分强大）\n( abound [a' baund ］ υ． 大盘存在                                        !(             depL\n                                                                    ；          ① 川叫复，改 善 ）\n．经典搭配\n\n                                                  : ~： 谭震分析i :;/\n     第三段分析高管裸辞现象产生的外部原因（社会环境）。关键词为： recovery 。\n     ① 旬表明高管裸辞的外在剌激因素：经济局势好转。 b e more willing to . ..凸 显今昔不 同 经济 环境\n下高 管裸辞 的心态：不 稳时（为保全声誉 而） 谨慎为之 v s 企稳后可 能 更愿意为之， 侧面 表明这一 现 象会\n随经济好转而变得更加普遍 。 句中习语 take h o l d 既可以表示“扎根、建 立 ”，还含有“用力抓住、控制”之\n意，句中 一 方面说明经济正在企稳向好，另 一 方面暗示经济局势对高管离职产生的巨大影 响；比喻表达\nmake the jump without a n et （其中 n e t 也常常用作 sa fety net ，本指“网罩、保护措施”，此处喻指“备选工\n作职位”）同义 替换上段 l e av ing w ithout a pos it io n lined up ，凸显高管率性 而 为的 同时， 又暗示其有风险 ，\n为后文论述埋下伏笔 。\n     ②③ 旬对 ① 旬内容进行正反两方面论证。\n                                                                                                                  19",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2097,
+    "pdf_text_character_count": 3598,
+    "nonempty": true
+  }
+}

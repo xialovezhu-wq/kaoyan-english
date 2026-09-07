@@ -1,0 +1,111 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2012-T3",
+  "source_id": "RAW-ARTICLE-20260711-011",
+  "ingest_date": "2026-07-11",
+  "year": 2012,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 3,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2012年考研英语一真题.pdf",
+  "truth_pages": [
+    8,
+    9
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "analysis_page_range": "27-34",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2012/text-3.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2012/text-3.json",
+  "article_path": "articles/2026-07-11-2012-english-i-text-3.md",
+  "passage_paragraphs": [
+    "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to carry out their work. But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route. We aim to be objective, but we cannot escape the context of our unique life experiences. Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take. Opportunities for misinterpretation, error, and self-deception abound.",
+    "Consequently, discovery claims should be thought of as protoscience. Similar to newly staked mining claims, they are full of potential. But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery. This is the credibility process, through which the individual researcher’s me, here, now becomes the community’s anyone, anywhere, anytime. Objective knowledge is the goal, not the starting point.",
+    "Once a discovery claim becomes public, the discoverer receives intellectual credit. But, unlike with mining claims, the community takes control of what happens next. Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology. As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual’s discovery claim into the community’s credible discovery.",
+    "Two paradoxes exist throughout this credibility process. First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect. Little reward accompanies duplication and confirmation of what is already known and believed. The goal is new-search, not re-search. Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modification or refutation by future researchers. Second, novelty itself frequently provokes disbelief. Nobel Laureate and physiologist Albert Szent-Gyérgyi once described discovery as “seeing what everybody has seen and thinking what nobody has thought.” But thinking what nobody else has thought and telling others what they have missed may not change their views. Sometimes years are required for truly novel discovery claims to be accepted and appreciated.",
+    "In the end, credibility “happens” to a discovery claim - a process that corresponds to what philosopher Annette Baier has described as the commons of the mind. “We reason together, challenge, revise, and complete each other’s reasoning and each other’s conceptions of reason.”"
+  ],
+  "questions": [
+    {
+      "number": 31,
+      "prompt": "According to the first paragraph, the process of discovery is characterized by its",
+      "options": {
+        "A": "uncertainty and complexity.",
+        "B": "misconception and deceptiveness.",
+        "C": "logicality and objectivity.",
+        "D": "systematicness and regularity."
+      }
+    },
+    {
+      "number": 32,
+      "prompt": "It can be inferred from Paragraph 2 that credibility process requires",
+      "options": {
+        "A": "strict inspection.",
+        "B": "shared efforts.",
+        "C": "individual wisdom.",
+        "D": "persistent innovation."
+      }
+    },
+    {
+      "number": 33,
+      "prompt": "Paragraph 3 shows that a discovery claim becomes credible after it",
+      "options": {
+        "A": "has attracted the attention of the general public.",
+        "B": "has been examined by the scientific community.",
+        "C": "has received recognition from editors and reviewers.",
+        "D": "has been frequently quoted by peer scientists."
+      }
+    },
+    {
+      "number": 34,
+      "prompt": "Albert Szent-Györgyi would most likely agree that",
+      "options": {
+        "A": "scientific claims will survive challenges.",
+        "B": "discoveries today inspire future research.",
+        "C": "efforts to make discoveries are justified.",
+        "D": "scientific work calls for a critical mind."
+      }
+    },
+    {
+      "number": 35,
+      "prompt": "Which of the following would be the best title of the text?",
+      "options": {
+        "A": "Novelty as an Engine of Scientific Development.",
+        "B": "Collective Scrutiny in Scientific Discovery.",
+        "C": "Evolution of Credibility in Doing Science.",
+        "D": "Challenge to Credibility at the Gate to Science."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 442,
+    "paragraphs": 5,
+    "source_token_count": 452,
+    "final_token_count": 452,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

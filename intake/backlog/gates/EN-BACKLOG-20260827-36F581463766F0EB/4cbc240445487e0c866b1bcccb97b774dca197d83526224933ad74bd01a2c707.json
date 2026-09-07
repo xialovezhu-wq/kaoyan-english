@@ -1,0 +1,13 @@
+{
+  "schema_version": "english_package_backlog_global_gate_v1",
+  "status": "COMPLETE",
+  "plan_id": "EN-BACKLOG-20260827-36F581463766F0EB",
+  "plan_canonical_sha256": "36f581463766f0eb51a54a377a8d5ee71304a7d4690f655a70aae1844195c5dd",
+  "cutoff_date": "2026-08-27",
+  "completed": [],
+  "already_consumed": [],
+  "needs_user": [],
+  "failed": [],
+  "archive_pending": [],
+  "gate_sha256": "4cbc240445487e0c866b1bcccb97b774dca197d83526224933ad74bd01a2c707"
+}

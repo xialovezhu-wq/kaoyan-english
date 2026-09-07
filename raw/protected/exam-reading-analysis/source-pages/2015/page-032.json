@@ -1,0 +1,422 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P032",
+  "year": 2015,
+  "pdf_page": 32,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.022071714202563042,
+      "text": "•语篇分析•必",
+      "width": 0.16281893797890928,
+      "x": 0.4196611931944432,
+      "y": 0.908295538177576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "第一段引入话题，概述《科学》新举措及其背景原因。① an extra round of statistical checks；",
+      "width": 0.8308350898025132,
+      "x": 0.09635975010231247,
+      "y": 0.8821614584460407
+    },
+    {
+      "confidence": 1,
+      "height": 0.01660982519388199,
+      "text": "②irreproducibility。",
+      "width": 0.16563829945511185,
+      "x": 0.055301388543842284,
+      "y": 0.8617709561159473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "①句引出《科学》新举措：在同行评审程序上新增一轮统计审查。is adding.•extra.•.checks to its",
+      "width": 0.847965701756688,
+      "x": 0.09635977214092777,
+      "y": 0.8430232558181618
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "peer-review process（is adding A to B 以现在进行时态表示“意图将A添加进B中”，extra 意为 more than",
+      "width": 0.884368310734315,
+      "x": 0.057815852002578216,
+      "y": 0.8241279073093226
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "exists already, check 意为 the process of finding out if sth is correct） 明确革新对象“同行评审程序”（peer-",
+      "width": 0.884368310734315,
+      "x": 0.05781585568744608,
+      "y": 0.8037790697716501
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "review process）以及举措内容“准备新增一轮统计审查”，反映了《科学》拟加强对科研论文的审查，同时",
+      "width": 0.8800856577457714,
+      "x": 0.05781583616994105,
+      "y": 0.7848837207345862
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "触发悬念：此举背后有何动因？【注1：同行评审为一种审查程序，即作者的学术成果由同一领域的其他",
+      "width": 0.8822269842400432,
+      "x": 0.057815836716523794,
+      "y": 0.7643229163941714
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "专家学者来加以评审，以确保科研发表的质量。注2：统计学主要通过利用概率论建立数学模型，收集所",
+      "width": 0.8800856577457714,
+      "x": 0.05995717662764958,
+      "y": 0.7441406252839062
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "观察系统的数据，进行量化分析、总结，做出推断和预测，被广泛应用于各门学科之中。】",
+      "width": 0.7387579919738184,
+      "x": 0.057815862605168016,
+      "y": 0.7238372090158363
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372266292572,
+      "text": "②句概述《科学》新举措背后的原因。句首 The policy 回指①句 adding.••extra.• statistical",
+      "width": 0.8479657017566878,
+      "x": 0.09635977002101356,
+      "y": 0.7034883721081329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014625726267695427,
+      "text": "checks 这一举措；follows similar efforts from other journals（follow 熟词僻意，指 to do the same thing as",
+      "width": 0.8865096372285868,
+      "x": 0.057815856278639895,
+      "y": 0.6845930235883924
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "sb else“仿效”）表明许多期刊在此之前已经开始加强审查科研论文，其中 efforts 凸显各大期刊保障论文",
+      "width": 0.8822269842400432,
+      "x": 0.05781584738747304,
+      "y": 0.6640625002477578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "质量的决心和努力，影射科研论文可能面临严峻的质量危机。after（语用功能为 because of sth that",
+      "width": 0.884368310734315,
+      "x": 0.05995718109965172,
+      "y": 0.6451822915948542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666652,
+      "text": "happened earlier”由于；既然”）引出《科学》采取新举措的原因；widespread concern（concern 意为“［尤指许",
+      "width": 0.8822269842400432,
+      "x": 0.05781584958233371,
+      "y": 0.6249999999951241
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017744670311609756,
+      "text": "多人共同的］担心；忧虑”）奠定“问题严峻”这一总基调，that 引出的同位语从句明确 concern 的内容，摆",
+      "width": 0.8800856577457714,
+      "x": 0.05995716926415932,
+      "y": 0.6046511631528249
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016306322688857566,
+      "text": "出问题：数据分析中的基本错误导致已发表的研究结果不具有可复制性。【注：reproducibility（可复制",
+      "width": 0.8822269842400432,
+      "x": 0.0578158480512846,
+      "y": 0.5839843749123119
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629118248820305,
+      "text": "性）源于生物实验原则，即一项实验得到的结论，必须可以被其他人重复得出，才能证明其结论正确，而",
+      "width": 0.8822269842400432,
+      "x": 0.057815836716523794,
+      "y": 0.5651041663750789
+    },
+    {
+      "confidence": 1,
+      "height": 0.017593265200654518,
+      "text": "非偶然获得的错误结论。该原则同样也是科学研究中最重要的、受到科学家一致认可的准则，若现象或",
+      "width": 0.8800856577457713,
+      "x": 0.05995717324702864,
+      "y": 0.5436046511760806
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333326,
+      "text": "结果不能被别人重复，发现者声称的该科学发现就很可能是错误或伪造的。】",
+      "width": 0.6509636057086733,
+      "x": 0.05781584819491378,
+      "y": 0.5260416669560235
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "【深层解读】隐性因果逻辑词（after、contribute to）明示两句间因果逻辑：《科学》及其他许多期刊中，",
+      "width": 0.8479657017566878,
+      "x": 0.09421844098461096,
+      "y": 0.5058139534380748
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837226629246,
+      "text": "已发表的研究成果存在数据分析上的基本错误，换言之，这些研究结论有误，而这无疑有损期刊声誉及",
+      "width": 0.8800856577457714,
+      "x": 0.059957177413440345,
+      "y": 0.48546511628587374
+    },
+    {
+      "confidence": 1,
+      "height": 0.01771438928941893,
+      "text": "权威，因此各大期刊竞相加强科研论文评审，在原有同行评审基础上增加一项“统计审查”。",
+      "width": 0.7708779479629019,
+      "x": 0.05781585171448044,
+      "y": 0.46484375005775636
+    },
+    {
+      "confidence": 1,
+      "height": 0.018004171550273895,
+      "text": "真题精解",
+      "width": 0.08589854762101129,
+      "x": 0.4388494407823265,
+      "y": 0.44012582111453236
+    },
+    {
+      "confidence": 1,
+      "height": 0.0118398734678824,
+      "text": "31.",
+      "width": 0.02997858556355716,
+      "x": 0.06852248419894946,
+      "y": 0.41133720977977395
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0118398734678824,
+      "text": "It can be learned from Paragraph 1 that",
+      "width": 0.33404710883142397,
+      "x": 0.10278372053075499,
+      "y": 0.41133720958597564
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "31. 从第一段可以得知",
+      "width": 0.1948608134849973,
+      "x": 0.5610278389926905,
+      "y": 0.4082031251760748
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906312545067,
+      "text": "。",
+      "width": 0.017130621106519306,
+      "x": 0.8115631689328218,
+      "y": 0.4069767444309368
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631007343530655,
+      "text": "A］ Science intends to simplify its peer-review process",
+      "width": 0.4584936043122451,
+      "x": 0.07482832058195328,
+      "y": 0.3875974977319705
+    },
+    {
+      "confidence": 1,
+      "height": 0.014595445866386059,
+      "text": "［A］《科学》想要简化其同行评审程序",
+      "width": 0.3233404763600648,
+      "x": 0.558886510235385,
+      "y": 0.3880208330306867
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126816600561142,
+      "text": "B］ journals are strengthening their statistical checks",
+      "width": 0.44325478932679047,
+      "x": 0.07708780137514898,
+      "y": 0.3677325581008709
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126817221442821,
+      "text": "［B］众期刊正加强其统计审查",
+      "width": 0.2591006522444068,
+      "x": 0.5588865025537423,
+      "y": 0.36773255806453375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013293361912171009,
+      "text": "［C］ few journals are blamed for mistakes in data analysis",
+      "width": 0.4453961451085653,
+      "x": 0.07066381195678086,
+      "y": 0.34738372113381677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "［C］鲜有期刊因为数据分析错误受到指责",
+      "width": 0.3576017002684141,
+      "x": 0.5588865205028378,
+      "y": 0.34570312491384414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013141957422097561,
+      "text": "［D］ lack of data analysis is common in research projects",
+      "width": 0.47323338953409905,
+      "x": 0.06852249748848209,
+      "y": 0.32552083307199275
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314195742209745,
+      "text": "［D］研究项目中缺乏数据分析很常见",
+      "width": 0.321199149865793,
+      "x": 0.5588865091142127,
+      "y": 0.32552083337480286
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "【精准定位】首段①句引入文章话题：《科学》将在同行评审程序上额外增加一轮统计审查。②句表",
+      "width": 0.845824375262416,
+      "x": 0.09421843841651291,
+      "y": 0.29941860445032553
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "明此举仿效其它期刊类似做法以及背后原因。由此可推测其它期刊也在加强统计审查工作，［B］正确。",
+      "width": 0.871520351768684,
+      "x": 0.05781583343043325,
+      "y": 0.2805232558872026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "【命题解密】正确项［B］是对首段的合理概括和同义改写，其中 journals 是对 the journal Science、from",
+      "width": 0.847965701756688,
+      "x": 0.09421844239788718,
+      "y": 0.26017441856162116
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126816600561142,
+      "text": "other journals 的概括，strengthening 对应 adding an extra round of statistical checks...。",
+      "width": 0.7473232979509058,
+      "x": 0.05781587642604583,
+      "y": 0.24273255810692707
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01627604166666663,
+      "text": "［A］中 simplify（简化）与①句 adding.. extra..",
+      "width": 0.41327621840698486,
+      "x": 0.0963597546348372,
+      "y": 0.22070312509734435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "checks... 相左；［C］与②句“《科学》效仿其他期刊，",
+      "width": 0.43254815685543124,
+      "x": 0.5096359814866314,
+      "y": 0.22070312475396048
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333326,
+      "text": "基于人们普遍担忧数据分析中的基本错误致使发表内容不可复制”暗含的“数据准确性问题堪忧”矛盾；",
+      "width": 0.8843683107343151,
+      "x": 0.05781583578915953,
+      "y": 0.20182291676735742
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "［D］将原文“数据分析错误”偷换成“缺乏数据分析”，将“已发表的研究发现”偷换成“研究项目”",
+      "width": 0.8051391718712513,
+      "x": 0.055674526912340136,
+      "y": 0.18164062500229283
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "【技巧总结】题干只涉及段落而没有额外信息时，题目多半考查对段落主旨的把握。解题时首先要",
+      "width": 0.845824375262416,
+      "x": 0.09421844040233938,
+      "y": 0.1613372093004778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "通读全段并梳理出段落主旨，然后分别将各项关键词（［A］中 peer-review process， ［B］中 statistical",
+      "width": 0.884368310734315,
+      "x": 0.057815837263106656,
+      "y": 0.14244186031791972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "checks,LC］中 mistakes in data analysis，［D］中 data analysis）与之进行对比，最后锁定正确项。如本题，",
+      "width": 0.8843683107343151,
+      "x": 0.057815851806289925,
+      "y": 0.1220930230092957
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "首段很明显聚焦科研发表的质量问题，因此首先排除“试图淡化问题”的［C］和［D］；再横向对比选项发",
+      "width": 0.8800856577457714,
+      "x": 0.05995717992797073,
+      "y": 0.10319767440464445
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "现只有［A］不涉及段中关键词“数据”，且 simplify 与“开篇呈现问题”的总基调相反，故干扰项。",
+      "width": 0.820128457331154,
+      "x": 0.05781586382193178,
+      "y": 0.0826822918231701
+    },
+    {
+      "confidence": 1,
+      "height": 0.013232800488670593,
+      "text": "32",
+      "width": 0.025695930744544557,
+      "x": 0.07066381192965492,
+      "y": 0.0638020833775127
+    }
+  ],
+  "vision_ocr_text": "•语篇分析•必\n第一段引入话题，概述《科学》新举措及其背景原因。① an extra round of statistical checks；\n②irreproducibility。\n①句引出《科学》新举措：在同行评审程序上新增一轮统计审查。is adding.•extra.•.checks to its\npeer-review process（is adding A to B 以现在进行时态表示“意图将A添加进B中”，extra 意为 more than\nexists already, check 意为 the process of finding out if sth is correct） 明确革新对象“同行评审程序”（peer-\nreview process）以及举措内容“准备新增一轮统计审查”，反映了《科学》拟加强对科研论文的审查，同时\n触发悬念：此举背后有何动因？【注1：同行评审为一种审查程序，即作者的学术成果由同一领域的其他\n专家学者来加以评审，以确保科研发表的质量。注2：统计学主要通过利用概率论建立数学模型，收集所\n观察系统的数据，进行量化分析、总结，做出推断和预测，被广泛应用于各门学科之中。】\n②句概述《科学》新举措背后的原因。句首 The policy 回指①句 adding.••extra.• statistical\nchecks 这一举措；follows similar efforts from other journals（follow 熟词僻意，指 to do the same thing as\nsb else“仿效”）表明许多期刊在此之前已经开始加强审查科研论文，其中 efforts 凸显各大期刊保障论文\n质量的决心和努力，影射科研论文可能面临严峻的质量危机。after（语用功能为 because of sth that\nhappened earlier”由于；既然”）引出《科学》采取新举措的原因；widespread concern（concern 意为“［尤指许\n多人共同的］担心；忧虑”）奠定“问题严峻”这一总基调，that 引出的同位语从句明确 concern 的内容，摆\n出问题：数据分析中的基本错误导致已发表的研究结果不具有可复制性。【注：reproducibility（可复制\n性）源于生物实验原则，即一项实验得到的结论，必须可以被其他人重复得出，才能证明其结论正确，而\n非偶然获得的错误结论。该原则同样也是科学研究中最重要的、受到科学家一致认可的准则，若现象或\n结果不能被别人重复，发现者声称的该科学发现就很可能是错误或伪造的。】\n【深层解读】隐性因果逻辑词（after、contribute to）明示两句间因果逻辑：《科学》及其他许多期刊中，\n已发表的研究成果存在数据分析上的基本错误，换言之，这些研究结论有误，而这无疑有损期刊声誉及\n权威，因此各大期刊竞相加强科研论文评审，在原有同行评审基础上增加一项“统计审查”。\n真题精解\n31.\nIt can be learned from Paragraph 1 that\n31. 从第一段可以得知\n。\nA］ Science intends to simplify its peer-review process\n［A］《科学》想要简化其同行评审程序\nB］ journals are strengthening their statistical checks\n［B］众期刊正加强其统计审查\n［C］ few journals are blamed for mistakes in data analysis\n［C］鲜有期刊因为数据分析错误受到指责\n［D］ lack of data analysis is common in research projects\n［D］研究项目中缺乏数据分析很常见\n【精准定位】首段①句引入文章话题：《科学》将在同行评审程序上额外增加一轮统计审查。②句表\n明此举仿效其它期刊类似做法以及背后原因。由此可推测其它期刊也在加强统计审查工作，［B］正确。\n【命题解密】正确项［B］是对首段的合理概括和同义改写，其中 journals 是对 the journal Science、from\nother journals 的概括，strengthening 对应 adding an extra round of statistical checks...。\n［A］中 simplify（简化）与①句 adding.. extra..\nchecks... 相左；［C］与②句“《科学》效仿其他期刊，\n基于人们普遍担忧数据分析中的基本错误致使发表内容不可复制”暗含的“数据准确性问题堪忧”矛盾；\n［D］将原文“数据分析错误”偷换成“缺乏数据分析”，将“已发表的研究发现”偷换成“研究项目”\n【技巧总结】题干只涉及段落而没有额外信息时，题目多半考查对段落主旨的把握。解题时首先要\n通读全段并梳理出段落主旨，然后分别将各项关键词（［A］中 peer-review process， ［B］中 statistical\nchecks,LC］中 mistakes in data analysis，［D］中 data analysis）与之进行对比，最后锁定正确项。如本题，\n首段很明显聚焦科研发表的质量问题，因此首先排除“试图淡化问题”的［C］和［D］；再横向对比选项发\n现只有［A］不涉及段中关键词“数据”，且 simplify 与“开篇呈现问题”的总基调相反，故干扰项。\n32",
+  "pdf_text_layer": "i＞；董事分析：. : ;/\n       第一段引入话题，概述《科学》新举措及其背景原因。 ① an extra round of statistical checks;\n\n② irreproducibility 。\n       ① 旬引出《科学》新举措：在同行评审程序上新增一轮统计审查。 i s adding. . . ex tra . . checks to it s\npee r- review process( is add ing A to B 以现 在进行 时 态表示“意图将 A 添 加1 进 B 中 ”， ex tra 意为 mo r e t han\ne xis ts a l r ea cl y, c h ec k 意 为 th e process of finding o ut if s t h is co rr ec t ） 明确 革新对象“ 同 行 评 审程序 ” （ pee r-\nr ev iew p rocess ） 以 及举 措 内 容 “准 备新增一 轮 统 计 审查 ” ，反 映 了《科学 》 拟加强对科研论 文 的 审查， 同 时\n触发悬念 ：此 举背后有 何动因 ？ 【注 1 ：同行评审 为一 种 审查程序， 即 作者的学术成果由 同 一 领域 的 其 他\n专家学者来 加以 评审， 以确保 科 研 发表的质量 。 注 2 ： 统计学 主要通过利用概率论建立数学模型 ，收 集 所\n观察系统 的 数 据 ， 进行 量 化分析 、 总 结， 做出推断和预测 ，被广泛应用于各 门 学 科 之 中 。 】\n       ② 旬概述《科学》新举措背后的原因。 句首 Th e po l i cy 回指①句 add i n g . . . ext ra .. . s ta ti s tica l\nchec k s 这一举 措； fo l l ows sim il ar effo rts fro m o ther jo urna ls( fo ll ow 熟词僻意 ， 指 to do t he sa me th ing as\ns b e l se ＇＇仿 效 ” ）表 明许 多 期刊 在 此 之 前 已经开始 加 强审 查 科研 论文，其中 e ffo r ts 凸 显各大 期刊保障论 文\n质量 的 决 心和1 努 力， 影 射科研论 文 可能面 临 严 峻的 质量危 机 。 a ft e r （语 用功能 为 b eca u se of st h t hat\nhappened ear li er“ 由于 ； 既 然 ” ） 引出 《 科 学 》采取新举 措的 原因； widespread conce rn ( co nce rn 意为 “ 〔尤指许\n多人共 同的 ］ 担心；忧 虑”）奠定“ 问 题严峻”这 一 总基 调 ， t h at 引巾 的同位语从句明 确 co n ce rn 的内 容，摆\n/Ii 问 题 ： 数据分 析中的 基本 错 误导致已发表 的研 究结果不具有 可 复 制 性。 【 注 ： rep roducibili ty （可复制\n性 ） 源于生 物 实验原 则 ， 即 一 项实验得到的结论，必须 可以 被其 他 人重复得出，才能证 明 其结 论 正 确，而\n非 偶 然获得的错误结论 。 i亥原 则同 样 也 是科学研究 中 最重要的、受到科学家 一 致认可的准 则 ，若 现 象或\n结果不 能 被 别人 重复 ， 发 现 者声 称的 诙科学发 现就很 可能是错误或伪造 的 。 】\n       【深层解读】隐性因果逻辑词（ after, con tr协ute to ）明示两旬间因果逻辑： 《 科 学》及其 他 许 多 期 刊 中，\n已发表 的研 究 成 果存 在 数 据分析 上 的 基本 错 误，换言之 ， 这些研究结论有误， 而 这元疑有 损期 刊 声誉及\n权威 ， 因 此 各大 期 刊 竞 相加强科研论 文评审，在原有 同行 词l 'j;打基础 上增 加 － J]j “ 统 计 审查 ” 。\n\n                                                       ：： ：~：事露宿饵：＜： ；／\n 31. It can be learned from Paragraph 1 that 一一一一·                           31. 从第一段 可以得知                           。\n\n\n\n [ A] Sc 1e11ce in te nd s to simp lify its pee r- rev iew process           [ A］《 科学 》想要简 化 其 同 行评审程序\n [ BJ journa ls a re s tr e吨 t h e n i 吨 th 巳ir s ta ti s ti ca l checks     [ BJ 众期 刊 正 加强 其统计审查\n [ CJ few journals are blamed for mistakes in da ta analysis                 [ CJ 鲜有期 刊 因为数据分 析 错误受 到指 责\n [ DJ lac k of da ta a na lysis is common in resea rch proj 创刊               [ DJ 研 究项目 中缺 乏数 据 分 析 很 常’见\n\n       E 精准定位】 首 段 ① 句引人 文章话题 ： 《 科 学》将 在同 行评审程序 t 额 外 增 加 一 轮 统 计 审查 。② 句 表\n明 此 举仿效其它 期刊 类 似做 法 以 及背后原因 。 ｜如 此 可推测其它期刊也在加强统计审查工作，［ BJ 正 确 。\n       【命题解密 I 正确 项［ BJ 是 对 首段 的 合理概括 和同 义改写，其中 journa l s 是对 th e jo urna l Scien ce 、 fro m\not her j o urn a l s 的 概 括 ， s tr e n g th e nin g 对 应 a ddin g a n extra ro und of s ta ti st ica l checks .. . 。\n       ［ 八］ 中吕im p li fy （简 化 ）与① 句 addi n g . .. extra ... chec ks . . . 相左 ； ［ CJ 与② 句“ 《 科学 》效仿其 他期刊，\n基于人 们 普边担 忧 数 据 分 析 中 的 基本错误致使发表 内 容不可复 制 ”暗含的“数据准确性 问 题堪 忧 ”矛盾 ；\n[ DJ 将原文 “ 数据 分析错 误 ”偷换成 “ 缺 乏数据分 析 ” ， 将 “ 已发表 的矶 究发现” 偷 换成 “研 究 项目” 。\n       E 技巧总结】 j题干 只涉 及 段 落 而 没有额 外 信 息时 ，题目多半考盒对段落主 旨的 把 握。 f(Jl（ 题时 首先要\n通 i卖全段 31：梳理 出 段落主旨，然后分 别 将各项关键同 C [ A ］ 中 p ee r- r ev i ew process , [ BJ 仨1:i s ta tis tica l\nchec ks,[C] 1t 1 m ista kes in data a n a l ys i 日，［ DJ 中 d ata a na l ys i s ）与之进行对 比 ，最后锁定正 确 顷 。 如 本 题，\n首段很 19,1 1m. 聚焦 科研 发表 的 质量 问 题．因 此 首先 排 除 “ 试佟｜ 淡 化问 题” 的 ［ CJ 和 ［ D J ； 再 横向 对 比选项 发\n现只有 ［ A ］ 不涉及段 中 关键问“数据 ”， 且 s i m p lify 与“刑二篇 呈 现 问 题”的总基调相反 ， 故为干 扰 项 。\n\n  32",
+  "quality": {
+    "vision_line_count": 50,
+    "vision_character_count": 2308,
+    "pdf_text_character_count": 3344,
+    "nonempty": true
+  }
+}

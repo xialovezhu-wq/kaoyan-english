@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P033",
+  "year": 2015,
+  "pdf_page": 33,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.011935302545134086,
+      "text": "1\"Readers must have confidence in the conclusions",
+      "width": 0.44325482295109675,
+      "x": 0.12205567646877705,
+      "y": 0.908430232616163
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287254,
+      "text": "“读者必须对我们期刑上发表的研",
+      "width": 0.30406852135291473,
+      "x": 0.6252676643464854,
+      "y": 0.8994778069062284
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013354635736649745,
+      "text": "published in our journal，\" writes McNutt in an editorial®",
+      "width": 0.4732333843524639,
+      "x": 0.05353320667280429,
+      "y": 0.888081395664216
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01598837107964657,
+      "text": "．②",
+      "width": 0.03854389557471638,
+      "x": 0.5224839406494727,
+      "y": 0.8837209305393918
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014652528588516622,
+      "text": "究结论有信心，”麦克纳特在一篇社论",
+      "width": 0.34047109163724454,
+      "x": 0.5888650990116011,
+      "y": 0.8792428199635416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011866992820958822,
+      "text": "Working with",
+      "width": 0.12205566993126504,
+      "x": 0.053533194397322494,
+      "y": 0.8674934723390411
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011866992198455995,
+      "text": "the American Statistical Association, the",
+      "width": 0.3875802847055289,
+      "x": 0.17773019379998384,
+      "y": 0.8674934728404198
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "中写道。该期刊与美国统计协会合作，",
+      "width": 0.34261242793156554,
+      "x": 0.5888650950991708,
+      "y": 0.8575581394554065
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01320663008926437,
+      "text": "journal has appointed seven experts to a statistics board of",
+      "width": 0.5139185978816105,
+      "x": 0.05139187721015835,
+      "y": 0.8472584859198482
+    },
+    {
+      "confidence": 1,
+      "height": 0.014572833910312055,
+      "text": "已任命七名专家组成一个统计评审编辑",
+      "width": 0.34047109163724454,
+      "x": 0.5888650933944399,
+      "y": 0.8400783287146282
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0130927799264694,
+      "text": "reviewing editors （SBoRE）. Manuscripts will be flagged",
+      "width": 0.5139185978816107,
+      "x": 0.05139187821836679,
+      "y": 0.8270234987370763
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "委员会（简称 SBoRE）。原稿将由该期刊",
+      "width": 0.34261242793156543,
+      "x": 0.5867237650135178,
+      "y": 0.8183139532393212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458042346466304,
+      "text": "up for additional scrutiny® by the journal's internal editors，",
+      "width": 0.5096359839806189,
+      "x": 0.05353319423381584,
+      "y": 0.808093994744095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "的内部编辑、或其现有评审编委会、或由",
+      "width": 0.3426123985877404,
+      "x": 0.58672377809371,
+      "y": 0.7976501308227235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013123140633884312,
+      "text": "or by its existing Board of Reviewing Editors or by outside",
+      "width": 0.5139185978816107,
+      "x": 0.0513918702240772,
+      "y": 0.7877906977899427
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "外部同行评审者做出标记，以接受额外",
+      "width": 0.3447537348820613,
+      "x": 0.5867237763062927,
+      "y": 0.7790697671661623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "peer reviewers. ④The SBoRE panel® will then find external",
+      "width": 0.5117772615872896,
+      "x": 0.05353321200614102,
+      "y": 0.7688953493663387
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014629758680458127,
+      "text": "审查。SBoRE专家组随后会聘请外来的",
+      "width": 0.34261242793156554,
+      "x": 0.5867237674760444,
+      "y": 0.7601744190489939
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018020568877536447,
+      "text": "statisticians® to review these manuscripts®",
+      "width": 0.3536045074462891,
+      "x": 0.051249148704546436,
+      "y": 0.7482571567228677
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "统计学家来审查这些原稿。",
+      "width": 0.2312633807842548,
+      "x": 0.5867237716451928,
+      "y": 0.7395561359461493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772841,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20556744795579185,
+      "x": 0.3661670266109692,
+      "y": 0.6932114885410601
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015013054830287254,
+      "text": "①editorial ［edl'to:ral］n. （报刊的）社论",
+      "width": 0.3040685213529147,
+      "x": 0.051391867321401274,
+      "y": 0.668407310719728
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013286395110287175,
+      "text": "经典搭配",
+      "width": 0.08069572448730467,
+      "x": 0.5467490042387254,
+      "y": 0.6685357833360335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "②scrutiny ［'skruun］n.细看；仔细的观察；监督",
+      "width": 0.38329764146071216,
+      "x": 0.04925053303838058,
+      "y": 0.6494778068896171
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013312890697708246,
+      "text": "①have confidence in（对⋯⋯有信心）",
+      "width": 0.2912205329308143,
+      "x": 0.5160599642269557,
+      "y": 0.649477806764287
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013293915566825243,
+      "text": "③panel ［'paenal］n.（由选定人员组成的）专门小组",
+      "width": 0.3854389777550331,
+      "x": 0.05139186291202155,
+      "y": 0.6322674421213381
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906918836972,
+      "text": "②work with（与⋯⋯合作）",
+      "width": 0.20770876957820017,
+      "x": 0.516059958644162,
+      "y": 0.6322674418409691
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565243733458466,
+      "text": "④statistician ［steeti'stijn］n.统计学家，统计员",
+      "width": 0.34903640747070314,
+      "x": 0.05139186296700387,
+      "y": 0.6133720932253504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "③appoint...to...（使担任职位、职责）",
+      "width": 0.297644541813777,
+      "x": 0.5182012866734113,
+      "y": 0.6116187990138693
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394972440097,
+      "text": "⑤manuscript ［'meenjuskript］n. 手稿；原稿；底稿",
+      "width": 0.3811563051663912,
+      "x": 0.05139186501851754,
+      "y": 0.5959302326736636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013225605220147263,
+      "text": "④flag up（做出标记，用标记表明）",
+      "width": 0.2676659510685847,
+      "x": 0.5182012876195774,
+      "y": 0.5944767444469194
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018338664082260703,
+      "text": "• 语篇分析，",
+      "width": 0.11164648349468537,
+      "x": 0.4195514916985897,
+      "y": 0.55187717968296
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "第二、三段围绕新举措内容及其实施原因展开论述。",
+      "width": 0.44325482295109675,
+      "x": 0.09207708970218179,
+      "y": 0.5261096604290056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "第二段具体论述新举措的内容：成立 SBORE 小组负责统计审查。关键词为：① be flagged up；",
+      "width": 0.8458243736853966,
+      "x": 0.09207709594638122,
+      "y": 0.5071801568350867
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013350840959474253,
+      "text": "②additional scrutiny。",
+      "width": 0.17987151512732874,
+      "x": 0.05567452260764184,
+      "y": 0.48955613561104816
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "①句补充说明新举措出台原因：增强读者对期刊所发表论文的信心。conclusions 指科研结论；must",
+      "width": 0.8458243736853966,
+      "x": 0.09207710970976411,
+      "y": 0.4680156659839043
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "have confidence... 强调主编决心的同时表明新举措的必要性，联系上段可推测某些已发表研究的不可",
+      "width": 0.8843683096078726,
+      "x": 0.04925052733382261,
+      "y": 0.4503916449615042
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "复制性危及读者对期刊所发表的科研结论的信任。editorial 指“社论”，即报纸或杂志就重大问题发表的",
+      "width": 0.8822269733135517,
+      "x": 0.051391869446007814,
+      "y": 0.43146214100728275
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "评论文章，作者通常为主编或刊物所有者。",
+      "width": 0.3618843665489784,
+      "x": 0.05139186835827303,
+      "y": 0.411227153782723
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "②③④句介绍《科学》新增统计审查的具体程序。",
+      "width": 0.4132762322059045,
+      "x": 0.09207709141310763,
+      "y": 0.39098837181732504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "②句介绍负责统计审查的机构：统计评审编委会（SBORE）。Working with the American Statistical",
+      "width": 0.8458243736853966,
+      "x": 0.09207710825366144,
+      "y": 0.3720626628952036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "Association 表明《科学》此番“统计审查”由权威机构参与，凸显期刊“改革”的决心。has appointed seven",
+      "width": 0.8865096459021935,
+      "x": 0.05139186685618361,
+      "y": 0.35313315939939505
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "experts to...引出由专家任职的负责统计审查的评审编委会；其中 statistics 修饰 board of reviewing",
+      "width": 0.8886509235088642,
+      "x": 0.049250546489679435,
+      "y": 0.3342036555547492
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837107964657,
+      "text": "editors（评审编辑委员会），进一步锁定委员会性质和审查范畴：统计审查。",
+      "width": 0.6295502882737379,
+      "x": 0.04925055961045408,
+      "y": 0.3139534886789268
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372324652222,
+      "text": "③④句介绍统计审查的流程（③句will、④句 will then 串起流程链条）。",
+      "width": 0.5974304199218751,
+      "x": 0.09207708196625733,
+      "y": 0.29360465088709253
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458801364151674,
+      "text": "③句介绍步骤一：由相关人员标记出需接受额外审查的原稿。Manuscripts will be flagged up for..",
+      "width": 0.841541759784405,
+      "x": 0.09207709426197298,
+      "y": 0.2761096604587142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "by...or by...or by... 分别引出“对原稿做标记”的目的“额外审查”以及可参与标记的三类人员。",
+      "width": 0.8886509235088642,
+      "x": 0.04925056648432568,
+      "y": 0.2571801569077611
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "Manuscripts指“（发表之前的）原稿”；Ilag 本指“旗帜”，此处作动词，指“［用旗状物或书签］标示，标出",
+      "width": 0.8822269733135517,
+      "x": 0.05139187296390326,
+      "y": 0.23825065264046708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "［表示重要］”；additional scrutiny 即指“新增的统计审查”， scrutiny 意次 careful and thorough examination",
+      "width": 0.8886509235088642,
+      "x": 0.049250556098887004,
+      "y": 0.21932114906835032
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "of sth“认真彻底的审查”，突出强调新增审查力度之大，将严控一切含数据错误的论文发表。",
+      "width": 0.7858672508826622,
+      "x": 0.051391864216056314,
+      "y": 0.20039164500995388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "④句介绍步骤二：SBORE 专家组寻找外部统计学家审查被标记的原稿。panel 意为“［针对某特别问",
+      "width": 0.841541759784405,
+      "x": 0.09207708950822564,
+      "y": 0.18015665796280766
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "题而选出的］专家小组”，体现 SBoRE 成员的专业性。find external statisticians to review（其中external意",
+      "width": 0.8843683096078725,
+      "x": 0.05139185729456491,
+      "y": 0.16122715396077525
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014679093896253326,
+      "text": "为 coming from outside a particular place or organization”外来的，外部的”）侧面体现审稿的相对客观性，",
+      "width": 0.8843683096078725,
+      "x": 0.051391869696420456,
+      "y": 0.1422976499907994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "同时也反向影射③句步骤一中“两类标记人员可以是杂志内部人员（the journal's internal editors、its",
+      "width": 0.8843683096078726,
+      "x": 0.05353319879349396,
+      "y": 0.1233681463011922
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "existing...）”这一情况存在一定的隐患，为后文介绍新策的弱点埋下伏笔。",
+      "width": 0.6381156334510216,
+      "x": 0.04925052647577421,
+      "y": 0.10313315926494737
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "【深层解读】本段实为首段①句所述新举措内容的阐释：本段借助近义表达（statistics、additional",
+      "width": 0.8479657099797175,
+      "x": 0.08993577638059083,
+      "y": 0.08420365545663866
+    },
+    {
+      "confidence": 1,
+      "height": 0.011760732212514835,
+      "text": "33",
+      "width": 0.023554603870098445,
+      "x": 0.8972162742748008,
+      "y": 0.06527415136318271
+    }
+  ],
+  "vision_ocr_text": "1\"Readers must have confidence in the conclusions\n“读者必须对我们期刑上发表的研\npublished in our journal，\" writes McNutt in an editorial®\n．②\n究结论有信心，”麦克纳特在一篇社论\nWorking with\nthe American Statistical Association, the\n中写道。该期刊与美国统计协会合作，\njournal has appointed seven experts to a statistics board of\n已任命七名专家组成一个统计评审编辑\nreviewing editors （SBoRE）. Manuscripts will be flagged\n委员会（简称 SBoRE）。原稿将由该期刊\nup for additional scrutiny® by the journal's internal editors，\n的内部编辑、或其现有评审编委会、或由\nor by its existing Board of Reviewing Editors or by outside\n外部同行评审者做出标记，以接受额外\npeer reviewers. ④The SBoRE panel® will then find external\n审查。SBoRE专家组随后会聘请外来的\nstatisticians® to review these manuscripts®\n统计学家来审查这些原稿。\n•词汇注释与难句分析\n①editorial ［edl'to:ral］n. （报刊的）社论\n经典搭配\n②scrutiny ［'skruun］n.细看；仔细的观察；监督\n①have confidence in（对⋯⋯有信心）\n③panel ［'paenal］n.（由选定人员组成的）专门小组\n②work with（与⋯⋯合作）\n④statistician ［steeti'stijn］n.统计学家，统计员\n③appoint...to...（使担任职位、职责）\n⑤manuscript ［'meenjuskript］n. 手稿；原稿；底稿\n④flag up（做出标记，用标记表明）\n• 语篇分析，\n第二、三段围绕新举措内容及其实施原因展开论述。\n第二段具体论述新举措的内容：成立 SBORE 小组负责统计审查。关键词为：① be flagged up；\n②additional scrutiny。\n①句补充说明新举措出台原因：增强读者对期刊所发表论文的信心。conclusions 指科研结论；must\nhave confidence... 强调主编决心的同时表明新举措的必要性，联系上段可推测某些已发表研究的不可\n复制性危及读者对期刊所发表的科研结论的信任。editorial 指“社论”，即报纸或杂志就重大问题发表的\n评论文章，作者通常为主编或刊物所有者。\n②③④句介绍《科学》新增统计审查的具体程序。\n②句介绍负责统计审查的机构：统计评审编委会（SBORE）。Working with the American Statistical\nAssociation 表明《科学》此番“统计审查”由权威机构参与，凸显期刊“改革”的决心。has appointed seven\nexperts to...引出由专家任职的负责统计审查的评审编委会；其中 statistics 修饰 board of reviewing\neditors（评审编辑委员会），进一步锁定委员会性质和审查范畴：统计审查。\n③④句介绍统计审查的流程（③句will、④句 will then 串起流程链条）。\n③句介绍步骤一：由相关人员标记出需接受额外审查的原稿。Manuscripts will be flagged up for..\nby...or by...or by... 分别引出“对原稿做标记”的目的“额外审查”以及可参与标记的三类人员。\nManuscripts指“（发表之前的）原稿”；Ilag 本指“旗帜”，此处作动词，指“［用旗状物或书签］标示，标出\n［表示重要］”；additional scrutiny 即指“新增的统计审查”， scrutiny 意次 careful and thorough examination\nof sth“认真彻底的审查”，突出强调新增审查力度之大，将严控一切含数据错误的论文发表。\n④句介绍步骤二：SBORE 专家组寻找外部统计学家审查被标记的原稿。panel 意为“［针对某特别问\n题而选出的］专家小组”，体现 SBoRE 成员的专业性。find external statisticians to review（其中external意\n为 coming from outside a particular place or organization”外来的，外部的”）侧面体现审稿的相对客观性，\n同时也反向影射③句步骤一中“两类标记人员可以是杂志内部人员（the journal's internal editors、its\nexisting...）”这一情况存在一定的隐患，为后文介绍新策的弱点埋下伏笔。\n【深层解读】本段实为首段①句所述新举措内容的阐释：本段借助近义表达（statistics、additional\n33",
+  "pdf_text_layer": "E』 ＠“ R ea d ers must have confid en ce in th e conclu s ions\n                                                                                             “读者必须对我们期刊上发表的研\npublished in our journa l ,” writes McNutt in a n editorial ( . @\n                                                                                         究结论有信心，”麦克纳特在一篇社论\nW orkin g with th e Am eri ca n Stat is ti ca l Assoc ia tion,                t he\n                                                                                         中写道 。 该期刊与美国统计协会合作，\njo urnal h as ap pointed seven ex per ts to a stat istics board of\n                                                                                         己任命七名专家组成一个统计评审编辑\nr eview ing edi tor s ( SBoRE). @ Manusc ri pts w ill be fl agged\n                                                                                         委员会（简称 SBoRE） 。 原稿将由该期刊\nup for add itiona l scrutinyai by the jo urn a l's int erna l ed i tor日，\n                                                                                         的内部编辑、或其现有许审编委会、或由\no r by it s exis ting Board o f Reviewing Edi tors or by o uts id e\n                                                                                         外部同行评审者做出标记，以接受额外\npeer r e vi ewe rs. 。 Th e SBoRE paneI0 w ill rh en find exte rn a l\n                                                                                         审查 。 SBoRE 专家组随后会聘请外来的\nstatisticians@ to revi ew th ese manuscri1>tsa;J .\n                                                                                         统计学家来审查这些原稿 。\n\n                                                                                           J\n                                                                    难 …\n                                                             释e               析 …\n                                                词 …                与…\n                                                                          旬\n                                                …\n                                                                          …          －\n\n                                                      「L ·\n                                                             e                 ，\n\n\n\n\n                                                             注 …   …      …\n                                                                              分·\n( editorial [ ed r'td :n a ！ ］ η ． （报 刊的 ）社论                        $     ．经典搭配\n( scrutiny [ 1skru:tmr] 11. fill 看 ；仔细的观 察 ； 监督                     !(        have cor\n( panel [ 1prena l ］ η ． （ ｜于1 选定人员组成的）专门小组                         t     ② wo rl《 w i t h （与 ．． ． ．．． 合作）\n@statistician [st副 11st1J n ］ 凡统 计 学家 ， 统 计 员                       引     ( appoint ... to. . （ 使担任职位 、 职 责）\n( manuscript [' mrenjuskrrpt ] 11 . 手稿 ； 原稿 ； 底稿                    ~- @ ;•11: 1: up     （做 ／:t\n\n                                                      :>J否需分析＜ 1'\n      第二、三段围绕新举措内容及其实施原因展开论述。\n      第二段具体论述新举措的内容：成立 SBoRE 小组负责统计审查。关键词为 ： ① be flagged up;\n( additional scrutiny 。\n      ① 旬补充说明新举措出台原因：增强读者对期刊所发表论文的信心。 conclu s i ons 指科研结论 ； mu st\nhave confiden ce ... 强调 主编决 心的同时 表 明新举措的必要性，联系上段可推测某些已发表研究的不可\n复 制 性危及读者对期 刊 所 发表 的科研 结论的信任 。 edit or i a l 指“丰！一论”， 即报纸 或杂志就重大问题发 表 的\n评论文 章， 作 者通常为主编或 刊物所 有者 。\n      ②③④ 旬介绍 《 科学 》 新增统计审查的具体程序。\n      ② 旬介绍负责统计审查的机构：统计评审编委会（ SBoRE ）。 Working w ith th e Ame ri can Stat is tica l\nAssoc i a ti o n 表 明 《 科 学 》 此 番“统计审查”由权威机构参与，凸显期 刊 “改革” 的 决心 。 h as appo int ed sev巳n\nexper ts to ...引出由 专家 任职的负 责统 计审 查 的评 审编委会；其 中 s t a ti s ti cs 修 饰 b oa r d o f reviewing\ne di to r s （ 评审编辑 委员会），进一步锁定委员会性质 和审 查范畴 ： 统 计审 查。\n      ③④ 旬介绍统计审查的流程（ ③ 旬 will 、 ④ 旬 will then 串起流程链条）。\n      ③ 旬介绍步骤一：囱相关人员标记出需接受额外审查的原稿 。 Ma nu sc ript s will be fl agged up for . ..\nby . . . or by ... or by .. . 分别引出“对原稿做标记”的目的“额外审查” 以 及可参与标记的 三 类人员 。\nManu sc ript s指“（发表之前的）原稿”； fl ag 本指“旗 帜 ”， 此处作 动同，指“［用旗 状物 或书签 ］ 标示，标 :I',\n［表示重要］” ； additi ona l sc rut in y 即指“新增 的 统计审查”， sc rutiny 意为 careful and thorough exa mina ti on\nof s th “ 认 真 彻底的 审查”，突 出强调新增 审查力度之大，将严控 一 切 含数 据错 误 的论 文发表 。\n      ④ 旬介绍步骤二： SBoRE 专家组寻找外部统计学家审查被标记的原稿。 pan e l 意为“［针 对某特别问\n题而选出的 ］专家 小 组”，体现 SBoRE 成员的专业性 。 ［ i 口ιI ext ernal sta ti sticia ns to r ev i ew （其 中 ext e rn a l葱、\n为 coming fr om outside a particular place or organization“外 来 的，外部的勺侧面体现审稿的相对客观性．\n同时也反向 影射③句步骤 一 中“两类标记人员可 以 是杂志内部人员（ the j o urn 剖 ’S int erna l edit o r s 、 it s\nexis ting ... ）”这一情况存在 － 定的隐患，为后文介绍新策的弱点埋下 伏笔 。\n     【深层解读】本段实为首段 ① 旬所述新举措内容的阐释： 本段借 助近义 表达（ sta ti st i cs 、 a dditi o na l\n\n                                                                                                               33",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2239,
+    "pdf_text_character_count": 4660,
+    "nonempty": true
+  }
+}

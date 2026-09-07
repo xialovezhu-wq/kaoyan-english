@@ -1,0 +1,582 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P023",
+  "year": 2016,
+  "pdf_page": 23,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "如本题，首先了解事实细节：根据 A century ago 可推知国民托管组织的创建初衷“旨在永葆自然美",
+      "width": 0.8379530605804852,
+      "x": 0.07889127878491724,
+      "y": 0.9186046511397462
+    },
+    {
+      "confidence": 1,
+      "height": 0.017759810512264496,
+      "text": "之地”，根据 later 可推知改组织的成就“使得诸多国家公园和绿化带得以创建”，根据一般现在时态及",
+      "width": 0.8784648246108688,
+      "x": 0.03837951802505625,
+      "y": 0.8982558143592201
+    },
+    {
+      "confidence": 1,
+      "height": 0.01759326520065474,
+      "text": "every year 可推知英国住建当局不再建设乡村，相反每年混凝土还吞噬乡村。随后概括今昔对比得出：",
+      "width": 0.8827291747580066,
+      "x": 0.036247341885389195,
+      "y": 0.8763020833761718
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "国民托管组织的成果整逐年被破坏。最后结合末句作者评注（呼吁）“乡村需要持续保护”，可确定［D］",
+      "width": 0.863269608973545,
+      "x": 0.038379535313613156,
+      "y": 0.8574218752193922
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630632268885779,
+      "text": "答案。",
+      "width": 0.053304901998312025,
+      "x": 0.03624733511491649,
+      "y": 0.8372093021844409
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395377715355,
+      "text": "皿",
+      "width": 0.025586352521557193,
+      "x": 0.0788912590270679,
+      "y": 0.8052325582159389
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768266099194693,
+      "text": "1 At the next election none of the big parties seem",
+      "width": 0.431106129750239,
+      "x": 0.1064023824784147,
+      "y": 0.8026291742332782
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "在下一届选举中，似乎没有哪个大党",
+      "width": 0.31556503266722935,
+      "x": 0.597014921086428,
+      "y": 0.7949218751043244
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01459544524550438,
+      "text": "likely to endorse\"this sentiment®",
+      "width": 0.287846464955784,
+      "x": 0.03837953934158208,
+      "y": 0.7848837214323846
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01497395833333326,
+      "text": ". ② The Conservatives'",
+      "width": 0.21108741833192662,
+      "x": 0.3262260112764674,
+      "y": 0.7832031252803655
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "可能会赞同这种观点。保守党的规划改",
+      "width": 0.34968015477488645,
+      "x": 0.5607675988233396,
+      "y": 0.7760416664080729
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "planning reform explicitly® gives rural development",
+      "width": 0.4989338686999582,
+      "x": 0.03837954724206065,
+      "y": 0.7630208334842933
+    },
+    {
+      "confidence": 1,
+      "height": 0.013338783755898476,
+      "text": "革明确将优先权给予了多村开发而非自",
+      "width": 0.35181235902396035,
+      "x": 0.5586354008261252,
+      "y": 0.7584635419126103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458030504484975,
+      "text": "priority® over conservation®， even authorizing® “off-plan”",
+      "width": 0.49893386869995815,
+      "x": 0.038379555841918225,
+      "y": 0.7441406250731533
+    },
+    {
+      "confidence": 1,
+      "height": 0.014625726267695316,
+      "text": "然保护，甚至批准在当地居民可能反对的",
+      "width": 0.35181235902396035,
+      "x": 0.5586353962023056,
+      "y": 0.7382812500712379
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314195742209745,
+      "text": "building where local people might object. ⑧ The concept of",
+      "width": 0.49893386869995815,
+      "x": 0.03837954336857108,
+      "y": 0.7238372092515493
+    },
+    {
+      "confidence": 1,
+      "height": 0.017653827245036835,
+      "text": "地方进行“计划外”建设。可持续发展的",
+      "width": 0.35181235902396035,
+      "x": 0.5586353990061436,
+      "y": 0.7180232558563131
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610585446159119,
+      "text": "sustainable development has been defined as profitable®",
+      "width": 0.4754797386621654,
+      "x": 0.0383795412943613,
+      "y": 0.7034883725951753
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969928,
+      "text": "概念已被定义为有利可图。同样，工党也",
+      "width": 0.35394456327303414,
+      "x": 0.5586353956022888,
+      "y": 0.6976744185743364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01895332708954811,
+      "text": "④Labour likewise® wants to discontinue®local planning",
+      "width": 0.4950226005131154,
+      "x": 0.0403607458128433,
+      "y": 0.681201748245483
+    },
+    {
+      "confidence": 1,
+      "height": 0.014580305044849862,
+      "text": "想在当地议会反对开发的地方终止地方",
+      "width": 0.35181235902396035,
+      "x": 0.5586353945551841,
+      "y": 0.6816406251094904
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145651648441949,
+      "text": "where councils® oppose development. ⑤ The Liberal",
+      "width": 0.4989338686999582,
+      "x": 0.03837954454127896,
+      "y": 0.6627604164729359
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "规划。自由民主党默不表态。只有独立",
+      "width": 0.35607673834660314,
+      "x": 0.5565032122126259,
+      "y": 0.6598837209453421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610586067040687,
+      "text": "Democrats are silent. ⑥Only Ukip, sensing its chance, has",
+      "width": 0.49680166445088436,
+      "x": 0.038379551436604785,
+      "y": 0.6409883721712413
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "党，觉察到了机会，与那些呼吁以一种更",
+      "width": 0.35394456327303414,
+      "x": 0.5586353972192043,
+      "y": 0.6409883720911755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016949716334541787,
+      "text": "sided with those pleading\" for a more considered®approach",
+      "width": 0.49914177334787285,
+      "x": 0.038292895489490615,
+      "y": 0.6203083999125629
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "周全的方式使用绿地的人站在了一起。",
+      "width": 0.35607673834660314,
+      "x": 0.5586354069727537,
+      "y": 0.622093023369034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011809593066573143,
+      "text": "to using green land.",
+      "width": 0.18123667554691233,
+      "x": 0.03837953229584018,
+      "y": 0.6015624996972575
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011809593066573143,
+      "text": "⑦ Its Campaign to Protect Rural",
+      "width": 0.2985074570256483,
+      "x": 0.23880597596478773,
+      "y": 0.6015624997117925
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "其“保护英格兰乡村运动”使得许多地方",
+      "width": 0.35181235902396035,
+      "x": 0.5586353956301663,
+      "y": 0.6031976741987335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01171875,
+      "text": "England struck terror into many local Conservative parties.",
+      "width": 0.4925373143037464,
+      "x": 0.038379536638105304,
+      "y": 0.5813802083477724
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "保守党胆战心惊。",
+      "width": 0.15138591817414548,
+      "x": 0.5586354006357418,
+      "y": 0.5826822918255925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01900133180121588,
+      "text": "词汇注释与难句分析",
+      "width": 0.18976544877995033,
+      "x": 0.36673774514094176,
+      "y": 0.5363372095754235
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565164844195122,
+      "text": "①endorse ［in'dos］v.赞同，支持",
+      "width": 0.2515991385990529,
+      "x": 0.036247340849727236,
+      "y": 0.5101744187192063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164844195122,
+      "text": "10council ［'kaunsal］n.（英国地方政府的）政务委员",
+      "width": 0.4136460488430629,
+      "x": 0.5010661009160663,
+      "y": 0.5101744187434312
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011718750000000111,
+      "text": "②sentiment ［'sentimant］n. 观点，看法",
+      "width": 0.29424307770300545,
+      "x": 0.0383795296986038,
+      "y": 0.4941406250726744
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458030504484975,
+      "text": "会，地方议会",
+      "width": 0.0980810234697097,
+      "x": 0.5031982936489404,
+      "y": 0.49127906984565983
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01459544524550438,
+      "text": "③explicitly ［uk'splisitl］ ad. 明确地",
+      "width": 0.2750532978123506,
+      "x": 0.036247341738813985,
+      "y": 0.4723837212628109
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01459544524550438,
+      "text": "①plead ［plird］ v. 请求",
+      "width": 0.17910447129783857,
+      "x": 0.5010661030291191,
+      "y": 0.47238372127734585
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014610586067040798,
+      "text": "④priority ［prar'prt］n. 优先权",
+      "width": 0.24733475927641013,
+      "x": 0.03624733045419016,
+      "y": 0.4534883723044776
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "12 considered ［kon'sidod］a. 经过深思熟虑的",
+      "width": 0.341151366954096,
+      "x": 0.5010661066615448,
+      "y": 0.4534883722062433
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013172238444288498,
+      "text": "⑤conservation ［kpnsa'veifon］ n. 保护",
+      "width": 0.285714289882215,
+      "x": 0.038379532173320276,
+      "y": 0.4360465113954447
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015046041458845139,
+      "text": "• 经典搭配",
+      "width": 0.10249963909900439,
+      "x": 0.5052533795983781,
+      "y": 0.428523490966894
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014640867089231735,
+      "text": "⑥authorize ［'o:8aranz］v.批准，授权",
+      "width": 0.27718550206142445,
+      "x": 0.03624733227723784,
+      "y": 0.4156976746162163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "①be defined as（被定义为）",
+      "width": 0.21321960799324813,
+      "x": 0.5010661040630774,
+      "y": 0.408203124695821
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01497395833333337,
+      "text": "⑦profitable ［'profitobal］a. 有利可图的",
+      "width": 0.30916844909551267,
+      "x": 0.03624733453184558,
+      "y": 0.3964843748705268
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013293362533052688,
+      "text": "②side with（与⋯•⋯站在一边）",
+      "width": 0.2345415775452243,
+      "x": 0.5031982961243316,
+      "y": 0.38932291644214223
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013217660288015964,
+      "text": "⑧likewise ［'larkwarz］ad. 同样地",
+      "width": 0.2579957221707696,
+      "x": 0.03837953987410338,
+      "y": 0.3793604648838168
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "③strike terror into（使某人胆战心惊）",
+      "width": 0.2963752527765745,
+      "x": 0.5010661074247902,
+      "y": 0.3704427082616166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "⑨discontinue ［diskon'tnju：］v. 中止，停止",
+      "width": 0.321961616238946,
+      "x": 0.036247333650249916,
+      "y": 0.35872395844855887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "The Conservatives’ planning reform explicitly gives rural development priority over conservation,even",
+      "width": 0.840085264829559,
+      "x": 0.07889126257455972,
+      "y": 0.32682291638630134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "authorizing “off-plan\" building where local people might object.",
+      "width": 0.5202558528396869,
+      "x": 0.03837953221555113,
+      "y": 0.30523255825275486
+    },
+    {
+      "confidence": 1,
+      "height": 0.014934107040365574,
+      "text": "结构切分：",
+      "width": 0.09181941307753495,
+      "x": 0.07669157392496172,
+      "y": 0.2846841095759617
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186008969939,
+      "text": "The Conservatives' planning reform explicitly gives rural development priority over conservation，",
+      "width": 0.8336887104333474,
+      "x": 0.08102345556868511,
+      "y": 0.2601744187923595
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458030504484975,
+      "text": "主语",
+      "width": 0.04051172756100249,
+      "x": 0.2132196162834646,
+      "y": 0.24414062478245546
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458030504484975,
+      "text": "谓语",
+      "width": 0.038379530605804846,
+      "x": 0.42857142896682043,
+      "y": 0.24414062500047884
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458030504484975,
+      "text": "间宾",
+      "width": 0.04051172756100252,
+      "x": 0.5756929630052131,
+      "y": 0.2441406248551301
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "直宾",
+      "width": 0.04264392451620014,
+      "x": 0.7057569292664201,
+      "y": 0.24414062528390623
+    },
+    {
+      "confidence": 1,
+      "height": 0.016602999220291736,
+      "text": "比较状语",
+      "width": 0.08340648848057697,
+      "x": 0.7994481423814904,
+      "y": 0.24387873302764562
+    },
+    {
+      "confidence": 1,
+      "height": 0.02213541666666663,
+      "text": "现在分词结构作做随状语个",
+      "width": 0.23454157754522434,
+      "x": 0.24946695323165216,
+      "y": 0.22070312518914503
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "地点状语从句",
+      "width": 0.12366737963820507,
+      "x": 0.5330490401382536,
+      "y": 0.213541666655512
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "even authorizing “off-plan” building",
+      "width": 0.29637525277657445,
+      "x": 0.21748401293296377,
+      "y": 0.2005208331330337
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01459544524550438,
+      "text": "where local people might object.",
+      "width": 0.2643923057424863,
+      "x": 0.6588486210448906,
+      "y": 0.2005208334916846
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "功能注释：本句主干为 The Conservatives”",
+      "width": 0.358208942595677,
+      "x": 0.07675907235887781,
+      "y": 0.17578125006990264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "planning reform.•，指出保守党规划改革置乡村开发于",
+      "width": 0.48400852648295595,
+      "x": 0.43283581720628334,
+      "y": 0.1757812497683039
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "保护之上，现在分词结构 even authorizing 引出保守党还授权“计划外”建筑，地点状语 where...引出授",
+      "width": 0.8784648246108688,
+      "x": 0.038379534267821744,
+      "y": 0.15552325582075743
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "权“计划外”建筑的地点。",
+      "width": 0.2132196079932481,
+      "x": 0.03624734152576392,
+      "y": 0.1351744184998479
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014698777968684906,
+      "text": "• 语篇分析•",
+      "width": 0.11731444262181834,
+      "x": 0.39869885691392515,
+      "y": 0.11183665787611263
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016306322688857677,
+      "text": "第三段直接说明问题，指出各大政党对乡村保护的不支持态度。关键词：none of the big parties。",
+      "width": 0.8081023177954708,
+      "x": 0.07889127156601726,
+      "y": 0.08398437527205027
+    },
+    {
+      "confidence": 1,
+      "height": 0.013671875,
+      "text": "23",
+      "width": 0.02345415738982859,
+      "x": 0.8784648189330175,
+      "y": 0.0651041669652006
+    }
+  ],
+  "vision_ocr_text": "如本题，首先了解事实细节：根据 A century ago 可推知国民托管组织的创建初衷“旨在永葆自然美\n之地”，根据 later 可推知改组织的成就“使得诸多国家公园和绿化带得以创建”，根据一般现在时态及\nevery year 可推知英国住建当局不再建设乡村，相反每年混凝土还吞噬乡村。随后概括今昔对比得出：\n国民托管组织的成果整逐年被破坏。最后结合末句作者评注（呼吁）“乡村需要持续保护”，可确定［D］\n答案。\n皿\n1 At the next election none of the big parties seem\n在下一届选举中，似乎没有哪个大党\nlikely to endorse\"this sentiment®\n. ② The Conservatives'\n可能会赞同这种观点。保守党的规划改\nplanning reform explicitly® gives rural development\n革明确将优先权给予了多村开发而非自\npriority® over conservation®， even authorizing® “off-plan”\n然保护，甚至批准在当地居民可能反对的\nbuilding where local people might object. ⑧ The concept of\n地方进行“计划外”建设。可持续发展的\nsustainable development has been defined as profitable®\n概念已被定义为有利可图。同样，工党也\n④Labour likewise® wants to discontinue®local planning\n想在当地议会反对开发的地方终止地方\nwhere councils® oppose development. ⑤ The Liberal\n规划。自由民主党默不表态。只有独立\nDemocrats are silent. ⑥Only Ukip, sensing its chance, has\n党，觉察到了机会，与那些呼吁以一种更\nsided with those pleading\" for a more considered®approach\n周全的方式使用绿地的人站在了一起。\nto using green land.\n⑦ Its Campaign to Protect Rural\n其“保护英格兰乡村运动”使得许多地方\nEngland struck terror into many local Conservative parties.\n保守党胆战心惊。\n词汇注释与难句分析\n①endorse ［in'dos］v.赞同，支持\n10council ［'kaunsal］n.（英国地方政府的）政务委员\n②sentiment ［'sentimant］n. 观点，看法\n会，地方议会\n③explicitly ［uk'splisitl］ ad. 明确地\n①plead ［plird］ v. 请求\n④priority ［prar'prt］n. 优先权\n12 considered ［kon'sidod］a. 经过深思熟虑的\n⑤conservation ［kpnsa'veifon］ n. 保护\n• 经典搭配\n⑥authorize ［'o:8aranz］v.批准，授权\n①be defined as（被定义为）\n⑦profitable ［'profitobal］a. 有利可图的\n②side with（与⋯•⋯站在一边）\n⑧likewise ［'larkwarz］ad. 同样地\n③strike terror into（使某人胆战心惊）\n⑨discontinue ［diskon'tnju：］v. 中止，停止\nThe Conservatives’ planning reform explicitly gives rural development priority over conservation,even\nauthorizing “off-plan\" building where local people might object.\n结构切分：\nThe Conservatives' planning reform explicitly gives rural development priority over conservation，\n主语\n谓语\n间宾\n直宾\n比较状语\n现在分词结构作做随状语个\n地点状语从句\neven authorizing “off-plan” building\nwhere local people might object.\n功能注释：本句主干为 The Conservatives”\nplanning reform.•，指出保守党规划改革置乡村开发于\n保护之上，现在分词结构 even authorizing 引出保守党还授权“计划外”建筑，地点状语 where...引出授\n权“计划外”建筑的地点。\n• 语篇分析•\n第三段直接说明问题，指出各大政党对乡村保护的不支持态度。关键词：none of the big parties。\n23",
+  "pdf_text_layer": "如 本题 ， 首 先了 解事实 细 节 ： 根据 A cen t ury ago 可推知 国民 托 管组织 的创 建 初 衷“ 旨 在 永 碟 自 然美\n之地” ，根据 l a t e r 可 推知改组织 的 成就 “ 使得诸多国家公园 和 绿 化 带得 以创 建”， 根据 一 般现 在 时 态及\never y yea r 可推知 英国住建当局不再建设乡 村 ， 相 反每年 1昆凝土 还 吞噬乡 村 。 随后 概 括 今昔 对比 得 出：\n国民 托 管组织 的 成果整逐年被 破坏 。最后结合 末 句作 者 评 注（ 呼吁 ）“乡 村 需要 持 续 保护” ， 可确 定［ DJ 为\n答案 。\n\n\n      III O At the next e l ectio n 日o ne of t he big parti es seem\n                                                                                            在下一届选举中，似乎没有哪个大党\nli kely to endorse(    th is sentiment( . @ T he Conservatives ’\n                                                                                          可能会赞同这种观点 。 保守党的规划改\nplanning     refo rm    explicitly®      gives   ru ra l    development                   革明确将优先权给予了乡村开发而非自\npriority® over conservation<:iJ , even a uthorizing® “ off- plan ”                        然保护，甚至批准在当地居民可能反对的\nbuilding w here loca l peo pl e might o bj ect. @The concept of                       地方进行“计划外”建设 。 可持续发展的\nsus taina bl e development has been defin ed as profitable( .                         概念已被定义为有利可图 。 同样，工党也\n。 La bo ur likewise® wa nt s to discontinue® loca l pla nning                             想在当地议会反对开发的地方终止地方\nw here councils(       o ppose    deve lopment .       0    T he        Liberal       规划 。      自由民主党默不表态 。 只有独立\nDemocrat s a re sil en t. (!) O nl y U k ip, sensing its chance , has                     党，觉察到了机会，与那些呼吁以一种更\n\nsid ed with t hose pleading® for a mo r e considered® app roac h                      周全的方式使用绿地的人站在了一起 。\n\nto using g reen la nd.       @ It s Cam paign to P ro t ect Ru ra l                   其 “ 保护英格兰乡村运动”使得许多地方\n\nEngl and s tru ck t error into man y loca l Conserva ti ve parti es.                  保守党胆战心惊 。\n\n\n                                                            释                     分         J\n                                                                        难\n                                                            注       与\n                                                                            旬 ·\n                                                   词                …\n                                                                                      析\n                                                                        … …\n                                                       「L\n                                                       …\n                                                            －\n                                                       －        …   －             …\n\n( endorse [ rn 1do:s] v . 赞 同， 支持\n( sentiment [ 1 se ntJr旧nt ］ 凡 观 点，看法                                         会， 地 方 议 会\n( explicitly ［ 旷 spl1 s 1t11 ] ad. 明确地                                        @ plead [ pli:d] v. 请求\n( priority [ pra11or1t1 ] 11 . 优 先权                                           @ considered [ k:3n 's1d:3d］ α ． 经 过 深思熟虑的\n( conservation [ kons:3 1 ve巾n ] 11 . 保护\n                                                                              ．经典搭配\n( authorize [ 'o如ra1 z］ υ．批 准，授权\n                                                                              ( be defin ed as （被定义为）\n( profitable [' pr of 旧b:31 ］ α ．有 利 可图的\n                                                                              ( sid e with （与 ……站 在一边〉\n③ likew 旧 ［ 1Ia , k wa 1 z］ α d. 同 样 地\n                                                                              ( strike ter ro r into （ 使 某 人 胆 战心惊 ）\n( discontinue [ d1sk:3n1tmju:] v . 中止，停 止\n\n\n     The Conservatives' planning reform explicitly gives rural development priority over conservation, even\nauthorizing “ off-plan ” building where local people might object.\n      结构切分：\n\n      The Conservatives' planning reform explicitly gives rural developm巳nt                            旦旦!l'.   over conservation,\n                         主语                                 i冒语                           间宾            直宾             比较状语\n                                 现在分词 结构作做 随状语 I\n                                                                        I       l 地 点 状语从句 I\n                          盯巳n 削horizi吨“off”plan\n\n      功能注释： 本句主干为 Th e Conservat ives' pl anning refo r m . .                               ，指出保守党规划改 革置乡 村 开发于\n保护 之上， 现 在 分 同结 构 eve n a u t hori zi ng 引出 保守党 还 授权“计 划外” 建 筑 ， 地 点 状 语 where. . .引出 授\n权“ 计划外 ”建筑 的地 点 。\n\n                                                    ：：；－请费分析二：： J\n      第三段直接说明问题，指出各大政党对乡村保护的不支持态度。关键词： none of the big parties 。\n                                                                                                                              23",
+  "quality": {
+    "vision_line_count": 70,
+    "vision_character_count": 2143,
+    "pdf_text_character_count": 4602,
+    "nonempty": true
+  }
+}

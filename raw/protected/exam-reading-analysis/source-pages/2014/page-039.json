@@ -1,0 +1,646 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P039",
+  "year": 2014,
+  "pdf_page": 39,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013333180445072812,
+      "text": "① The goals identified in the report are generally",
+      "width": 0.45957444997934194,
+      "x": 0.12340425977628655,
+      "y": 0.9212598427962421
+    },
+    {
+      "confidence": 1,
+      "height": 0.0160494107273933,
+      "text": "报告所定目标总体值得赞赏。因",
+      "width": 0.28085107069749105,
+      "x": 0.6446808441193396,
+      "y": 0.9127296585344058
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013869249288804286,
+      "text": "admirable\"",
+      "width": 0.08960276383620042,
+      "x": 0.04668797889240988,
+      "y": 0.9007688636180657
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906889427386,
+      "text": "②",
+      "width": 0.017021276400639468,
+      "x": 0.15531914892733983,
+      "y": 0.901162790838232
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "國 Because representative government presupposes®",
+      "width": 0.40851061894343454,
+      "x": 0.17234042840062336,
+      "y": 0.9009186349523116
+    },
+    {
+      "confidence": 1,
+      "height": 0.014588292815240989,
+      "text": "为代议制政府预设知情公民，所以报",
+      "width": 0.32127659137432385,
+      "x": 0.6063829841213487,
+      "y": 0.8923884515598844
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014714185334253171,
+      "text": "an informed® citizenry\"，the report supports full literacy；",
+      "width": 0.5340425344613883,
+      "x": 0.04893617290228479,
+      "y": 0.8822674416495839
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883924669506,
+      "text": "告支持全民教育，强调历史政体学习，",
+      "width": 0.32340425344613877,
+      "x": 0.6063829823549447,
+      "y": 0.8706395348303009
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014721815354554968,
+      "text": "stresses the study of history and government, particularly",
+      "width": 0.5340425344613883,
+      "x": 0.0489361862001568,
+      "y": 0.8619186043676071
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013134804297619929,
+      "text": "American history and American government; and encourages the",
+      "width": 0.5340425344613883,
+      "x": 0.05106384582781636,
+      "y": 0.8444767442114467
+    },
+    {
+      "confidence": 1,
+      "height": 0.015992186513785644,
+      "text": "尤其美国历史、美国政体，鼓励新数字",
+      "width": 0.3234042534461389,
+      "x": 0.6042553233194837,
+      "y": 0.8488372098552066
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013203473228795004,
+      "text": "use ol new digital technologies.",
+      "width": 0.26382977412297176,
+      "x": 0.048936172371138405,
+      "y": 0.8254593174253106
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01189113727078972,
+      "text": "33 To encourage innovation and",
+      "width": 0.2617021120511568,
+      "x": 0.32340426639463427,
+      "y": 0.8267716534559006
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "技术使用。为鼓励创新和竞争，报告",
+      "width": 0.32340425344613877,
+      "x": 0.6042553160428882,
+      "y": 0.826771653736199
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012006155774974991,
+      "text": "competition，",
+      "width": 0.10221887001624473,
+      "x": 0.04889056548986294,
+      "y": 0.8079504109894469
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01338277463837867,
+      "text": "the report calls for increased",
+      "width": 0.2936170137845553,
+      "x": 0.1553191536750982,
+      "y": 0.8081395350726386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418371806215,
+      "text": "investment in",
+      "width": 0.13404254913330071,
+      "x": 0.4489361705663284,
+      "y": 0.8095930233177306
+    },
+    {
+      "confidence": 1,
+      "height": 0.015091863517060378,
+      "text": "呼吁加大科研投资、精心制定协调一",
+      "width": 0.32127659137432385,
+      "x": 0.6063829841213487,
+      "y": 0.806430446135907
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014561587431299428,
+      "text": "research,the crafting®of coherent®curricula® that improve",
+      "width": 0.5361701965332032,
+      "x": 0.048936187265313055,
+      "y": 0.7892441865704125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060267,
+      "text": "致的课程以提高21 世纪学生解决问",
+      "width": 0.31914892930250904,
+      "x": 0.6063829798776209,
+      "y": 0.7860892387766407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014542513944971303,
+      "text": "students' ability to solve problems and communicate effectively",
+      "width": 0.5340425344613883,
+      "x": 0.04893617465760388,
+      "y": 0.7703412072688169
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749473,
+      "text": "题及有效沟通的能力、增加对教师的",
+      "width": 0.31914892930250904,
+      "x": 0.6063829828806604,
+      "y": 0.7630813956400904
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013363700526280109,
+      "text": "in the 21st century, increased funding for teachers and the",
+      "width": 0.5361701965332032,
+      "x": 0.048936187265313055,
+      "y": 0.7526246716200736
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883924669506,
+      "text": "资助、鼓励学者应用自己学识来应对",
+      "width": 0.32127659137432385,
+      "x": 0.6063829841213487,
+      "y": 0.7427325581248745
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01336369990050934,
+      "text": "encouragement of scholars to bring their learning to bear on the",
+      "width": 0.5361701965332032,
+      "x": 0.048936187265313055,
+      "y": 0.7340116279020961
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013230177361195583,
+      "text": "great challenges of the day. ④ The report also advocates greater",
+      "width": 0.5361701965332032,
+      "x": 0.048936187265313055,
+      "y": 0.7151162790648866
+    },
+    {
+      "confidence": 1,
+      "height": 0.01775849898030435,
+      "text": "当今的巨大挑战。报告还提倡加大对",
+      "width": 0.31914892930250893,
+      "x": 0.6085106414125754,
+      "y": 0.7191601050744623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013123359580052507,
+      "text": "study of foreign languages, international affairs and the",
+      "width": 0.5361701965332031,
+      "x": 0.048936185031270604,
+      "y": 0.6961942254997874
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070835,
+      "text": "外语和国际事务的研究力度、扩展留",
+      "width": 0.31914892930250904,
+      "x": 0.6063829846040645,
+      "y": 0.697506561447214
+    },
+    {
+      "confidence": 1,
+      "height": 0.01324162270453344,
+      "text": "expansion of study abroad programs.",
+      "width": 0.3106382810152494,
+      "x": 0.04893618381861626,
+      "y": 0.6771653540445334
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016973997351378722,
+      "text": "学项目的规模。",
+      "width": 0.13216430957500747,
+      "x": 0.6062582718438302,
+      "y": 0.6768327687700613
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0190822802816476,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20638297154353213,
+      "x": 0.3638297887601488,
+      "y": 0.6233595798051854
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060267,
+      "text": "①admirable ［'eedmarbal］a. 值得赞扬的，可贵的",
+      "width": 0.3829787034254808,
+      "x": 0.04680851743619585,
+      "y": 0.5971128610040197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013367515223545623,
+      "text": "①representative government（代议制政府）",
+      "width": 0.3297872103177585,
+      "x": 0.5127659638127522,
+      "y": 0.5988372092489952
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013123359580052507,
+      "text": "② presuppose Lupriso'powz］v. 预先设定，以⋯⋯力先",
+      "width": 0.4170212672306941,
+      "x": 0.04893617142011396,
+      "y": 0.5813648292921051
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014546328642236928,
+      "text": "②an informed citizenry（开明的公民群体）",
+      "width": 0.3276595775897686,
+      "x": 0.5106382922157541,
+      "y": 0.5799418602905723
+    },
+    {
+      "confidence": 1,
+      "height": 0.013386589961414841,
+      "text": "决条件",
+      "width": 0.05319148943974422,
+      "x": 0.048936170506191715,
+      "y": 0.563648293852211
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013245437401799176,
+      "text": "③full literacy（全民教育）",
+      "width": 0.19787233792818504,
+      "x": 0.5127659567167587,
+      "y": 0.5623359579325391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014653146423379892,
+      "text": "③informed ［in'fo:md］a. 了解情况的，见多识广的",
+      "width": 0.3872340275691106,
+      "x": 0.04680852086083474,
+      "y": 0.5450581395541381
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "④digital technology（数字技术）",
+      "width": 0.2446808448204627,
+      "x": 0.5127659611270027,
+      "y": 0.5433070863451703
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013138618994885554,
+      "text": "④ citizenry ［'siuzonr］n. 公民，市民（集合称）",
+      "width": 0.35106383103590744,
+      "x": 0.04893616636147904,
+      "y": 0.5275590552348014
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011811023622047223,
+      "text": "⑤call for（呼吁）",
+      "width": 0.12978722498967088,
+      "x": 0.5127659606753773,
+      "y": 0.5275590548416786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395407048446,
+      "text": "⑤craft ［kra:ft］ v. 精制",
+      "width": 0.18510638016920822,
+      "x": 0.04680851389411924,
+      "y": 0.5101744186191502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906889427275,
+      "text": "⑥coherent curricula（连贯的课程）",
+      "width": 0.2659574361947866,
+      "x": 0.5127659594292024,
+      "y": 0.5101744185756352
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01186061781535308,
+      "text": "⑥coherent ［keu hroront］a. 连贯的",
+      "width": 0.27021276033841646,
+      "x": 0.04893617752582706,
+      "y": 0.49273255828009255
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01331410633297414,
+      "text": "⑦bring sth to bear on/upon sth（用某物对某物施加压",
+      "width": 0.419148929302509,
+      "x": 0.5127659556412989,
+      "y": 0.4912790696838305
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011852987795051284,
+      "text": "⑦curricula ［ko'rikjulo」n.",
+      "width": 0.2,
+      "x": 0.0489361735460992,
+      "y": 0.4750656168124531
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013165323753056568,
+      "text": "课程，课程体系（curriculum",
+      "width": 0.21276595775897683,
+      "x": 0.2553191509077456,
+      "y": 0.4737532809708165
+    },
+    {
+      "confidence": 1,
+      "height": 0.013837163529684005,
+      "text": "力/影响）",
+      "width": 0.07474607320932236,
+      "x": 0.5147546237128218,
+      "y": 0.47345932529214074
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395407048446,
+      "text": "的复数）",
+      "width": 0.06382978879488431,
+      "x": 0.048936169964259965,
+      "y": 0.45639534889289046
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906889427386,
+      "text": "⑧international affairs（国际事务）",
+      "width": 0.2553191551795373,
+      "x": 0.5170212766655504,
+      "y": 0.4578488373256352
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014984318590539725,
+      "text": "• 经典搭配",
+      "width": 0.10863826458270731,
+      "x": 0.04887235842735182,
+      "y": 0.43291481751596794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013146249640957897,
+      "text": "⑨study abroad program（留学项目）",
+      "width": 0.2744680844820463,
+      "x": 0.5148936147447926,
+      "y": 0.43895348812496415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011872062532920613,
+      "text": "To encourage innovation and competition, the report calls for increased investment in research, the craf-",
+      "width": 0.8446808448204627,
+      "x": 0.0893617136961514,
+      "y": 0.4009186351850489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506555,
+      "text": "ting of coherent curricula that improve students' ability to solve problems and communicate effectively in the",
+      "width": 0.8893616896409255,
+      "x": 0.046808515037693336,
+      "y": 0.38057742795702
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395407048446,
+      "text": "21st century,increased funding for teachers and the encouragement of scholars to bring their Iearning to bear",
+      "width": 0.8872340275691106,
+      "x": 0.048936166747359906,
+      "y": 0.3619186048400804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906889427386,
+      "text": "on the great challenges of the day.",
+      "width": 0.280851070697491,
+      "x": 0.04893616958742464,
+      "y": 0.3430232558866817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014607367553110207,
+      "text": "to solve problems and communicate effectively in the 21st century",
+      "width": 0.5425531827486478,
+      "x": 0.38936170107248463,
+      "y": 0.3182414696999223
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014744704789689811,
+      "text": "动词不定式作后置定语.",
+      "width": 0.20638297154353213,
+      "x": 0.6829787290580212,
+      "y": 0.3008720930376654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016045596030127673,
+      "text": "To encourage innovation and competition，",
+      "width": 0.35957444997934185,
+      "x": 0.16170213414406764,
+      "y": 0.2775590552553864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016045595404357127,
+      "text": "that improve students’ ability",
+      "width": 0.24893616896409254,
+      "x": 0.6787234035232729,
+      "y": 0.27755905510744205
+    },
+    {
+      "confidence": 1,
+      "height": 0.014943433245961701,
+      "text": "目的状语",
+      "width": 0.08100704779991735,
+      "x": 0.19566668819304606,
+      "y": 0.2599701437660551
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.025527285778616293,
+      "text": "定语从句*",
+      "width": 0.10042868394118087,
+      "x": 0.7721260844804927,
+      "y": 0.25104449640600035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02053195347623249,
+      "text": "旬子主于：Pthe report calls for increased investment in research, the crafting of coherent curicula",
+      "width": 0.8297872103177584,
+      "x": 0.08723404404324865,
+      "y": 0.2381889765234808
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014634071685510674,
+      "text": "主语",
+      "width": 0.0382978732769306,
+      "x": 0.22127659499274036,
+      "y": 0.22093023257739386
+    },
+    {
+      "confidence": 1,
+      "height": 0.014634071685510674,
+      "text": "谓语",
+      "width": 0.04255319008460412,
+      "x": 0.30212766002152774,
+      "y": 0.22093023260161881
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "宾语1",
+      "width": 0.051063827367929304,
+      "x": 0.48936170384795025,
+      "y": 0.21916010481215342
+    },
+    {
+      "confidence": 1,
+      "height": 0.014634071685510674,
+      "text": "宾语2",
+      "width": 0.053191489439744166,
+      "x": 0.7531914889184258,
+      "y": 0.22093023260161881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014641701705812471,
+      "text": "increased funding for teachers and the encouragement of scholars",
+      "width": 0.5489361689640926,
+      "x": 0.19574468539637313,
+      "y": 0.2005813953092599
+    },
+    {
+      "confidence": 1,
+      "height": 0.014603552855844582,
+      "text": "宾语3",
+      "width": 0.05319148943974422,
+      "x": 0.30425531944236195,
+      "y": 0.18307086592335065
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859708370533,
+      "text": "连词",
+      "width": 0.044680848488440894,
+      "x": 0.453191491021737,
+      "y": 0.1816860469626752
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01902887139107612,
+      "text": "A宾语4",
+      "width": 0.07021276767437279,
+      "x": 0.5680851049748703,
+      "y": 0.18307086641561598
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883924669506,
+      "text": "动词不定式作后置定语",
+      "width": 0.19999999999999996,
+      "x": 0.36382978866261395,
+      "y": 0.1613372092627483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290566,
+      "text": "to bring their learning to bear on the great challenges of the day",
+      "width": 0.5276595482459435,
+      "x": 0.29574469019313765,
+      "y": 0.13953488349438625
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883924669506,
+      "text": "功能注释：本句主干力...the report calls for increased investment in research,the crafting of",
+      "width": 0.8446808448204627,
+      "x": 0.08936169680253468,
+      "y": 0.1206395347237118
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013123359580052507,
+      "text": "coherent curricula...， increased funding for teachers and the encouragement of scholars...。 谓语 calls",
+      "width": 0.8851063654972957,
+      "x": 0.048936187804543445,
+      "y": 0.10170603661434197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016018891897727205,
+      "text": "for 后接四个并列宾语，由 and 相连接；宾语2中嵌套一个 that improve...21st century 定语从句，修饰",
+      "width": 0.8851063654972957,
+      "x": 0.046808526754898154,
+      "y": 0.0813648292919259
+    },
+    {
+      "confidence": 1,
+      "height": 0.013123359580052507,
+      "text": "39",
+      "width": 0.02553191368396457,
+      "x": 0.8914893619878049,
+      "y": 0.061023622072823636
+    }
+  ],
+  "vision_ocr_text": "① The goals identified in the report are generally\n报告所定目标总体值得赞赏。因\nadmirable\"\n②\n國 Because representative government presupposes®\n为代议制政府预设知情公民，所以报\nan informed® citizenry\"，the report supports full literacy；\n告支持全民教育，强调历史政体学习，\nstresses the study of history and government, particularly\nAmerican history and American government; and encourages the\n尤其美国历史、美国政体，鼓励新数字\nuse ol new digital technologies.\n33 To encourage innovation and\n技术使用。为鼓励创新和竞争，报告\ncompetition，\nthe report calls for increased\ninvestment in\n呼吁加大科研投资、精心制定协调一\nresearch,the crafting®of coherent®curricula® that improve\n致的课程以提高21 世纪学生解决问\nstudents' ability to solve problems and communicate effectively\n题及有效沟通的能力、增加对教师的\nin the 21st century, increased funding for teachers and the\n资助、鼓励学者应用自己学识来应对\nencouragement of scholars to bring their learning to bear on the\ngreat challenges of the day. ④ The report also advocates greater\n当今的巨大挑战。报告还提倡加大对\nstudy of foreign languages, international affairs and the\n外语和国际事务的研究力度、扩展留\nexpansion of study abroad programs.\n学项目的规模。\n•词汇注释与难句分析\n①admirable ［'eedmarbal］a. 值得赞扬的，可贵的\n①representative government（代议制政府）\n② presuppose Lupriso'powz］v. 预先设定，以⋯⋯力先\n②an informed citizenry（开明的公民群体）\n决条件\n③full literacy（全民教育）\n③informed ［in'fo:md］a. 了解情况的，见多识广的\n④digital technology（数字技术）\n④ citizenry ［'siuzonr］n. 公民，市民（集合称）\n⑤call for（呼吁）\n⑤craft ［kra:ft］ v. 精制\n⑥coherent curricula（连贯的课程）\n⑥coherent ［keu hroront］a. 连贯的\n⑦bring sth to bear on/upon sth（用某物对某物施加压\n⑦curricula ［ko'rikjulo」n.\n课程，课程体系（curriculum\n力/影响）\n的复数）\n⑧international affairs（国际事务）\n• 经典搭配\n⑨study abroad program（留学项目）\nTo encourage innovation and competition, the report calls for increased investment in research, the craf-\nting of coherent curricula that improve students' ability to solve problems and communicate effectively in the\n21st century,increased funding for teachers and the encouragement of scholars to bring their Iearning to bear\non the great challenges of the day.\nto solve problems and communicate effectively in the 21st century\n动词不定式作后置定语.\nTo encourage innovation and competition，\nthat improve students’ ability\n目的状语\n定语从句*\n旬子主于：Pthe report calls for increased investment in research, the crafting of coherent curicula\n主语\n谓语\n宾语1\n宾语2\nincreased funding for teachers and the encouragement of scholars\n宾语3\n连词\nA宾语4\n动词不定式作后置定语\nto bring their learning to bear on the great challenges of the day\n功能注释：本句主干力...the report calls for increased investment in research,the crafting of\ncoherent curricula...， increased funding for teachers and the encouragement of scholars...。 谓语 calls\nfor 后接四个并列宾语，由 and 相连接；宾语2中嵌套一个 that improve...21st century 定语从句，修饰\n39",
+  "pdf_text_layer": "皿⑩ Th e goa ls iden t ifi ed                                 in th e repo rt a re ge ne ra ll y\n                                                                                                                         报告所定目标总体值得赞赏 。                                                              因\nadmirable① ．＠ 囚 Beca u se representa ti ve gove rnment pr四uppo悦俨\n                                                                                                                 为代议制政府预设知情公民，所以报\na n informed® citizen ryl” , th e report s uppo rt s fu ll lit era cy ;\n                                                                                                                 告支持全民教育，强调历史政体学习，\ns tresses l he s t ucl y o f hi s to ry r ncl gove rn me nt,                                 pa rt1 cu la rl y\n                                                                                                                 尤其美国历史、美国政体，鼓励新数字\nAme rican hi s to 1y a nd Ame n ca n gove r nm e nl ; a nd enco urages th e\nuse of new cligi 1al techn ologies.                                ＠丁o enco urage innovation and                 技术使用 。 为鼓励创新和竞争，报告\ncom pe ti tion ,        l he         r巳 p or t           ca ll s    fo r inc rease d invest m e nt         in    呼吁加大科研投资、精心制定协调 一\nresea rch , t he crafting® o f coher ent® curricula(                                      th a t im prove        致的课程以提高 21 世纪学生解决 问\nst ud e nt\" 日’ a b il it y     to so lve p ro b lem s a nd communi ca t e e ff ect i v 巳 l y                     题及有效沟通的能力、增加对教 师 的\nin t h e 2 1s t ce ntu ry, in creased fun ding for teache rs a nd th e\n                                                                                                                 资助、鼓励学者应用自己学识来应对\ne nc o ur ag 艺 m e n t o f sc h o l a r 怡 to bring t heir lea rnin g to bea r o n t he\n                                                                                                                 当今的巨大挑战 。 报告还提倡加大对\ng reat c h a ll e n geιo f th e day. 。 T h e re po rt a lso advoca t es g rea te r\ns tud y of        for eign           lang uages,                   in te rnat io na l a ff air s a nd    th e    外语和国际事务的研究力度、扩展留\n\nexpa ns io n of s tud y a broa d progra m s.                                                                     学项目的主见斗笑 。\n\n\n\n\n                                                                        ；二：词汇注释：与难句分析：＜ 1'\n( presuppose [ ,pri:sc>1 pauz] ·v. 预先设定， 以…… 为先                                             ? ( an info rm ed c i t i ze nr y （ 开明的 公民群 体 ）\n决条 件                                                                                        <,    G) ful l l it e r acy （全民教育）\n( informed [rn1 f::>: m d ］ α ．了解情况的，见多识 f 的                                                <    ( digita l t ec hηo l ogy （数字技术）\n( citizenry [ 's1t1zonn ] 11. 公民，市民（集合利）                                                    $    ( ca ll fo r( fl于 H于）\n＠ 《：raf画t [ kr .仇 J v. 精 制                                                                  2    ( coherent curr\n® coherent ［ ！王吕u ' J飞 J c>Nnt ］ α 连货 的                                                     < ( bril         Sth to bea r 011 / L 0 11 S th (m 某物 对 某物 施 ］）日 压\n( curricula [ ka' n kju la］ 凡 课程， 课 程体系（ c urr i c u l u m                                  \\\\   力 ／影 响 ）\n的 复数）                                                                                       » ( 1n1ern at ional af fa i r s （国际事务）\n．经典搭配                                                                                       ~ ®st 响 a b叫 问：am （留 学项目 ）\n\n       To encourage innova tion and competition , the report calls for increased investment in research, t he craf-\nting of coherent cu r ricul a that improve students ’ ability to solve problems and communicate effective ly in the\n21st century, incr eased fundin g for teachers a nd th e encouragement of scholars to bring their learning to bea r\non the grea t challenges of th e day.\n                                                                              to so lve pro blem s a nd communicate effectively in the 2 1st ce ntuη\n                                                                                                                           动词不定式 作 后置定语\n\n\n                                                        m\n                                                        v一语\n                                                                                                                           tI1 t -l - U o                                               ,- ’D·l l 1 V\n                                                   川状         m一                                                                                                                时－\n                                                                                                                                                                                 口\n                                    m一目                                                                                                                        阳一页但\n                         T 一\n                                                                   ov on nAU o ny            o\n                                                                                                                                                                                                -- - - -\n                                                                                                                                                                  A\n                                                                                                                                                                                          a 一\n                                                                                                                                                           i\n                                                                                                                                                   A\n                             0 寸                                                                                                       nμL\n                                                                                                                                               巳－ H～\n                                          。 一                                                                                                                         E －IA 、\n                                             们 J\n                                                                                                                              负u －       r且－\n                                                                                                                                                                                    0\n                                                                   -- -- - - - -             -                             --- - - -   - - -   V 一\n                                                                                                                                                   J\n                                                                                                                                                    ;\n                                                                                                                                                       1\n                                                                                                                                                       1\n                                                                                                                                                                  U\n                                                                                                                                                                  --\n                                                                                                                                                                   <\n                                                                                                                                                                                  -’\n                                                                                                                                                                                    3\n\n\n                                                                                                                                                   --\n                                                                                                                                                   -              ~             、’’\n                                                                                                                                                                                  1\n\n\n\n       句子主干： IT th e report                                calls for increased investment in researc h, the craftin g of cohe rent curricula\n                                      主语                      i自语                            宾 i吾 l                                          宾语2\n                                   increased fund ing for teac he rs a nd the encouragem巳nt o f sch o lars\n                                                              宾语3                      连词                  于 宾语4\n                                                                         动词不定式作后置定语\n                                                              to bring th e ir learnin g to b巳a r o n the great ch all en g巳s of the day\n       功 能注释 ： 本句主 －，二 为.. t he repo r t ca ll s fo r increased in ves tme nt in researc h , th e crafting of\nco he re nt c urr icu la . . . , increased fundin g fo1 teac he1s a nd th e e nco ur age m e nt of scho la r s . . . 。 i目 i吾 ca ll s\nfo r 后接匹 个 并 列 宾 语 ， i=l=1 and 相连接；宾泊 2 中嵌 套－ 个 t h a t imp rov e ... 21s t ce ntur y 定 语从句 ， 修饰\n\n                                                                                                                                                                                                  39",
+  "quality": {
+    "vision_line_count": 78,
+    "vision_character_count": 2587,
+    "pdf_text_character_count": 10255,
+    "nonempty": true
+  }
+}

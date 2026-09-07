@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P035",
+  "year": 2013,
+  "pdf_page": 35,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.018995784873912736,
+      "text": "•词汇注释与难向分析•",
+      "width": 0.21748400190364336,
+      "x": 0.3667377449970056,
+      "y": 0.8996088660169075
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013244367795941736,
+      "text": "①considerable ［kan'sidarbol］a. 相当大的",
+      "width": 0.3262259955615888,
+      "x": 0.05543710556675362,
+      "y": 0.8748370274225432
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011790879857586756,
+      "text": "①take a...view（采取⋯⋯的视角）",
+      "width": 0.27931767713499334,
+      "x": 0.5202558700945503,
+      "y": 0.8748370271766044
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01325384299167598,
+      "text": "②assurance ［o'joorons］n.保证",
+      "width": 0.24093816111694102,
+      "x": 0.055437105219781034,
+      "y": 0.8559322035058787
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01310413539642774,
+      "text": "②a surprising amount（惊人的数量）",
+      "width": 0.27505329781235055,
+      "x": 0.5202558660547345,
+      "y": 0.8546284224383363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011809830249055353,
+      "text": "③descendant ［di sendont］n. 后裔；子孙",
+      "width": 0.30277183634829113,
+      "x": 0.055437106516686055,
+      "y": 0.8370273791252522
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013113611213853127,
+      "text": "③identify a pattern（识别出一种模式）",
+      "width": 0.2921108734539316,
+      "x": 0.5202558674308168,
+      "y": 0.8357235982197481
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013496072537895865,
+      "text": "•经典搭配",
+      "width": 0.10671762207498059,
+      "x": 0.05325099813032721,
+      "y": 0.8108391734210454
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013123085787896227,
+      "text": "④shape the history of...（塑造⋯⋯的历史）",
+      "width": 0.3368869876314532,
+      "x": 0.5202558631991989,
+      "y": 0.8168187747212864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01043024740753773,
+      "text": "⑤make forecast（做出预测）",
+      "width": 0.21108741833192668,
+      "x": 0.5202558665056785,
+      "y": 0.7992177315950012
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013257633442984473,
+      "text": "As so often, the past holds the key to the future: we have now identified enough of the long-term patterns",
+      "width": 0.840085264829559,
+      "x": 0.0959488493016382,
+      "y": 0.748370273501518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181297,
+      "text": "shaping the history of the planet, and our species, to make evidence- based forecasts about the situations in which our",
+      "width": 0.8848613790070805,
+      "x": 0.05330493292005555,
+      "y": 0.7281616691389452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010430247718383301,
+      "text": "descendants will find themselves.",
+      "width": 0.24946693434997907,
+      "x": 0.05330490819814492,
+      "y": 0.7092568447195591
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0163717195294516,
+      "text": "分句1主干：",
+      "width": 0.11312176939634247,
+      "x": 0.10015553415425021,
+      "y": 0.6829478611986473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015044763781411952,
+      "text": "As so often，",
+      "width": 0.09824089794268345,
+      "x": 0.23019724857865756,
+      "y": 0.6814311069722494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012173464898180386,
+      "text": "the past",
+      "width": 0.06680570642533312,
+      "x": 0.33859758127171014,
+      "y": 0.6830158021770634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "holds the key to the future",
+      "width": 0.23027718363482907,
+      "x": 0.4157782527987902,
+      "y": 0.6816860466335586
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395175342014,
+      "text": "（状语）",
+      "width": 0.08102345512200498,
+      "x": 0.24733475532812332,
+      "y": 0.6642441862604395
+    },
+    {
+      "confidence": 1,
+      "height": 0.013198887353770283,
+      "text": "主语",
+      "width": 0.07462686425641207,
+      "x": 0.3390191917168543,
+      "y": 0.6655801824480481
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "谓语",
+      "width": 0.044776117824459616,
+      "x": 0.4200426441528022,
+      "y": 0.6642441863137911
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "宾语",
+      "width": 0.05117270504311444,
+      "x": 0.5565032003569075,
+      "y": 0.66424418645914
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016338398123968645,
+      "text": "分句2主干：",
+      "width": 0.11098168046706948,
+      "x": 0.09589508616257168,
+      "y": 0.6349994055200068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013306903714773055,
+      "text": "we have now identified enough of the long-term patters",
+      "width": 0.4733475344130916,
+      "x": 0.22174841236701487,
+      "y": 0.6366279071361662
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "主语",
+      "width": 0.040511727561002464,
+      "x": 0.2174840078826118,
+      "y": 0.617732557965655
+    },
+    {
+      "confidence": 1,
+      "height": 0.013297428519038812,
+      "text": "谓语",
+      "width": 0.038379530605804846,
+      "x": 0.31343283625055474,
+      "y": 0.617732558298957
+    },
+    {
+      "confidence": 1,
+      "height": 0.014601209483836808,
+      "text": "宾语",
+      "width": 0.03837953060580479,
+      "x": 0.5565031981512555,
+      "y": 0.6177325585885003
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "现在分词后置定语",
+      "width": 0.15991470599493607,
+      "x": 0.3070362490814233,
+      "y": 0.5912646677378803
+    },
+    {
+      "confidence": 1,
+      "height": 0.013087080541459017,
+      "text": "插入语",
+      "width": 0.059701492863904915,
+      "x": 0.5671641793676211,
+      "y": 0.5886571054909794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "shaping the history of the planet 4",
+      "width": 0.28358208563314113,
+      "x": 0.22388059694888793,
+      "y": 0.5723598437153188
+    },
+    {
+      "confidence": 1,
+      "height": 0.014550043675548352,
+      "text": "and our species",
+      "width": 0.1321961528712431,
+      "x": 0.5373134366773848,
+      "y": 0.5697522817233545
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "不定式目的状语",
+      "width": 0.14072494069203367,
+      "x": 0.5607675950271175,
+      "y": 0.5494186050419888
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "to make evidence-based forecasts about the situations",
+      "width": 0.42857142023557,
+      "x": 0.3006396619149086,
+      "y": 0.5305232558753221
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.024298649256978555,
+      "text": "定语从何个",
+      "width": 0.09436202186015552,
+      "x": 0.5860812499171243,
+      "y": 0.5067460244493293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907236986923,
+      "text": "in which",
+      "width": 0.0724946673012144,
+      "x": 0.26012793347803526,
+      "y": 0.49127906968577006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "our descendants will find themselves",
+      "width": 0.321961616238946,
+      "x": 0.4136460602351823,
+      "y": 0.48956975208428144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "“介词+引导词”做状语",
+      "width": 0.19189765302902428,
+      "x": 0.20255863377333444,
+      "y": 0.4706649280028883
+    },
+    {
+      "confidence": 1,
+      "height": 0.013274688297953086,
+      "text": "主语",
+      "width": 0.053304901998312004,
+      "x": 0.45842217653282696,
+      "y": 0.47238372107148596
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "谓语",
+      "width": 0.05543709895350957,
+      "x": 0.5735607689134371,
+      "y": 0.4706649280755626
+    },
+    {
+      "confidence": 1,
+      "height": 0.013274688297953086,
+      "text": "宾语",
+      "width": 0.05117270504311433,
+      "x": 0.6567164186937946,
+      "y": 0.4723837209261371
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014665640317476747,
+      "text": "功能注释：冒号后内容（分句2）对分句1进行说明，解释为什么过去掌握着通向未来的钥匙；分句2",
+      "width": 0.8422174690786328,
+      "x": 0.0938166470171866,
+      "y": 0.4462209306233842
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014656165121742393,
+      "text": "主干为 we have now identified enough of. ..；其中 the history of... 呼应分句中 the past；插人成分 and our",
+      "width": 0.8805970288599426,
+      "x": 0.05543710058424321,
+      "y": 0.42732558177164004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014646690547699404,
+      "text": "species 起到附带说明的作用，它与the planet 在语法层面为并列关系，但从语义逻辑上来说并非论述重点；",
+      "width": 0.8805970288599427,
+      "x": 0.05330488974557962,
+      "y": 0.4084302327648569
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "to make evidence-based...说明主句结果；in which 定从句修饰 the situations，说明预测的具体内容。",
+      "width": 0.8358208563314113,
+      "x": 0.05117273633322806,
+      "y": 0.38953488381957935
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020615574589297858,
+      "text": "•语篇分析•",
+      "width": 0.1344147603780772,
+      "x": 0.4178672465708936,
+      "y": 0.36323872484780295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "第六段进而阐释“以长远视角审视未来”的可行性及意义。关键词为：①a longer view； ②considerable",
+      "width": 0.8443496733277067,
+      "x": 0.09168442783508077,
+      "y": 0.33702737919413894
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010464990931663865,
+      "text": "a.ssuranceo",
+      "width": 0.08749180314189844,
+      "x": 0.0532690227090576,
+      "y": 0.3196221559569328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "①句转承上文，明确“思考未来”可行的方式：把目光放远。连词 and 起到“引出逻辑结果”的作用：",
+      "width": 0.8422174690786328,
+      "x": 0.0938166491227303,
+      "y": 0.29921773116458916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "看得远，则……。surprising amount 和 considerable assurance（considerable 指“相当大的，尤指大到足以",
+      "width": 0.8784648246108688,
+      "x": 0.053304906511196584,
+      "y": 0.2803129073133316
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017661684028794533,
+      "text": "产生某种影响的程度”）与上段“复杂多变、难以预测（many possibilities）”的特点形成对比，凸显观点“长",
+      "width": 0.8784648246108688,
+      "x": 0.05330490931503452,
+      "y": 0.2614080834718211
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "远未来更易把握”。注意 say 为特用法，指“对未来可能情况的假定”。",
+      "width": 0.6055436726965823,
+      "x": 0.05330492775974005,
+      "y": 0.24119947851183898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "②句具体阐述如何以长远视角思考未来。冒号前概括论点：应基于过去、鉴往知来。As so often 用",
+      "width": 0.840085264829559,
+      "x": 0.09381664788372789,
+      "y": 0.22359843517453004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "于引出普遍适用、已得到实践确认的观点。the past holds the key to the future 充分肯定“研究历史”对",
+      "width": 0.8763326203617949,
+      "x": 0.05543710681004062,
+      "y": 0.20338983051256998
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "于“预测未来”的关键作用。",
+      "width": 0.23027718363482907,
+      "x": 0.05330490210582643,
+      "y": 0.1857887872809071
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "冒号后解释“鉴往知来”为何可行。we have now identified... （identify 指 to recognize sth or discover",
+      "width": 0.8422174690786328,
+      "x": 0.09594884528477715,
+      "y": 0.16558018222981397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "exactly what it is“确定”）表明当前的有利条件；而既然掌握了足够的地球以及物种的重复及规律性发展模",
+      "width": 0.8805969705089328,
+      "x": 0.05330493476685541,
+      "y": 0.14797913966444698
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014557623956473864,
+      "text": "式（pattern 指 the repeated or regular way in which sth happens or is done），“知来”便顺理成章。long-term、",
+      "width": 0.8805969705089328,
+      "x": 0.05543713709805622,
+      "y": 0.1308139537435391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "enough、evidence-based 强调当前探索已有充分的科学依据，反衬“盲目幻想（vision、envisage）、想当然设想",
+      "width": 0.8805970288599426,
+      "x": 0.053304904422196264,
+      "y": 0.110169491523463
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "（assume）”下的非理性态度—极度悲观/乐观。注：句末 find themselves（in the situation）字面意为”（子孙",
+      "width": 0.8805970288599426,
+      "x": 0.053304904422196264,
+      "y": 0.09126466749051942
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016302947426090952,
+      "text": "后代）发现自己的状态/所处境地”，修饰 the situation，故 the situation...实际上诙谐表达“未来”之意。",
+      "width": 0.8358208563314113,
+      "x": 0.05543712577885714,
+      "y": 0.07235984340393531
+    },
+    {
+      "confidence": 1,
+      "height": 0.011951957563377857,
+      "text": "35",
+      "width": 0.02345415738982859,
+      "x": 0.8955223884235748,
+      "y": 0.053455019373221835
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难向分析•\n①considerable ［kan'sidarbol］a. 相当大的\n①take a...view（采取⋯⋯的视角）\n②assurance ［o'joorons］n.保证\n②a surprising amount（惊人的数量）\n③descendant ［di sendont］n. 后裔；子孙\n③identify a pattern（识别出一种模式）\n•经典搭配\n④shape the history of...（塑造⋯⋯的历史）\n⑤make forecast（做出预测）\nAs so often, the past holds the key to the future: we have now identified enough of the long-term patterns\nshaping the history of the planet, and our species, to make evidence- based forecasts about the situations in which our\ndescendants will find themselves.\n分句1主干：\nAs so often，\nthe past\nholds the key to the future\n（状语）\n主语\n谓语\n宾语\n分句2主干：\nwe have now identified enough of the long-term patters\n主语\n谓语\n宾语\n现在分词后置定语\n插入语\nshaping the history of the planet 4\nand our species\n不定式目的状语\nto make evidence-based forecasts about the situations\n定语从何个\nin which\nour descendants will find themselves\n“介词+引导词”做状语\n主语\n谓语\n宾语\n功能注释：冒号后内容（分句2）对分句1进行说明，解释为什么过去掌握着通向未来的钥匙；分句2\n主干为 we have now identified enough of. ..；其中 the history of... 呼应分句中 the past；插人成分 and our\nspecies 起到附带说明的作用，它与the planet 在语法层面为并列关系，但从语义逻辑上来说并非论述重点；\nto make evidence-based...说明主句结果；in which 定从句修饰 the situations，说明预测的具体内容。\n•语篇分析•\n第六段进而阐释“以长远视角审视未来”的可行性及意义。关键词为：①a longer view； ②considerable\na.ssuranceo\n①句转承上文，明确“思考未来”可行的方式：把目光放远。连词 and 起到“引出逻辑结果”的作用：\n看得远，则……。surprising amount 和 considerable assurance（considerable 指“相当大的，尤指大到足以\n产生某种影响的程度”）与上段“复杂多变、难以预测（many possibilities）”的特点形成对比，凸显观点“长\n远未来更易把握”。注意 say 为特用法，指“对未来可能情况的假定”。\n②句具体阐述如何以长远视角思考未来。冒号前概括论点：应基于过去、鉴往知来。As so often 用\n于引出普遍适用、已得到实践确认的观点。the past holds the key to the future 充分肯定“研究历史”对\n于“预测未来”的关键作用。\n冒号后解释“鉴往知来”为何可行。we have now identified... （identify 指 to recognize sth or discover\nexactly what it is“确定”）表明当前的有利条件；而既然掌握了足够的地球以及物种的重复及规律性发展模\n式（pattern 指 the repeated or regular way in which sth happens or is done），“知来”便顺理成章。long-term、\nenough、evidence-based 强调当前探索已有充分的科学依据，反衬“盲目幻想（vision、envisage）、想当然设想\n（assume）”下的非理性态度—极度悲观/乐观。注：句末 find themselves（in the situation）字面意为”（子孙\n后代）发现自己的状态/所处境地”，修饰 the situation，故 the situation...实际上诙谐表达“未来”之意。\n35",
+  "pdf_text_layer": "词 ·\n                                                               释        难  …\n                                                                           分 …\n                                                                                 析…\n                                                                                          J\n                                                         注 …\n                                                    「L             与－\n                                                               －\n\n                                                    －\n                                              …                …           旬 …\n\n( considerable [ kan 's,daraba ！ ］ ι 相 当大 的                           \\\\    ( take a       view （采 取……的视角 ）\n( assurance [a 'Joarans] 11. 保证\n( descendant [ d ，’ se nd o nt ］ 凡后裔；子孙\n                                                                      ! ②a 叫l叫…n叫人的数量）\n                                                                      (i    ( identify a pa tt e rn （ 识别出 一 种 模式）\n\n．经典搭配\n                                                                      » ( shape th e hi story of. ． （塑 造 …… 的历史）\n                                                                      ；⑤山［…r（ 刷刷I >\n\n     As so often , the past holds the key to the future: we have now identified enough of the long-term patterns\nshaping the history of the planet , and our species, to make evidence-based forecasts about the situations in which our\ndescendants will find themselv岱．\n\n                       As so often, the p也st         holds            the key to the future\n                           （状语）             主语i      i自语                          宾语\n\n                      w巳   have now id巳 11\n                      主语            i＇，习语                                  ／／咿 宾语\n\n                                   现在分 i司后置定语                                      插入语\n                       shaping the history of the planet                      Iand our species I\n                                                                                  不定式目的状语\n                                   to make evidence-based forecasts about the situations\n                                                                        定语从句\n                            in which                our desc巳ndants will find themselves\n                    “介词＋引 导词”做状 语                              主语                   谓语           宾语\n\n     功能注稽： 冒号后 内 容（分句 2) :x,i- 分句 l 进行说明，解 释为什么过去 掌 握着通 向 未来 的钥匙；分句 2\n主干为 w e have now id ent ifi ed enoug h o f. ..； 其中 the hi story of. . . 11乎应分句中 t he pa s t ； 插入成分 and our\nspeci es 起 到附带 说明的作用，它 与 the p l ane t 在语法层面为并列关系，但从语义逻辑上来说并非论述重点；\nto make evidence- based . ..说 明 主句结果； i n wh i ch 定语从句修饰 t he si tuati on s ，说 明预测的 具体内容 。\n\n                                                   ；何毒分析＜ ii\n     第六段进而阐释“以长远视角审视未来”的可行性及意义。关键词为 ： ① a longer view ; ( considerable\nassuranceo\n     ① 旬转承上文，明确“思考未来”可行的方式：把目光放远 。 连词 and 起到“引出逻辑结果”的作用：\n看得远， 则…… 。 surprising a mount 和l co nsid erable ass urance( co n s id e ra bl e 指“相当大的，尤指大到足以\n产生某种影响的程度”）与上段“ 复 杂多变、难以预 测（ man y poss ibiliti es ） ”的特点形成对比，凸显观点“长\n远未来更 易 把 握 ” 。 注 意 s ay 为特殊用法，指“对未来可能情况的假定” 。\n     ② 旬具体阐述如何以长远视角思考未来。 冒 号 前概括论 点：应 基于 过 去 、鉴往 7、｜｜ 来 。 As so o ft e n 用\n于引出普遍适用、已得到实践确认的观点 。 th e past hold s the key to th e futur e 充 分 肯定“ 研 究历史 ”对\n于“预测 未来 ”的 关 键作用 。\n     冒号后 解释 “鉴往知来” ；~］ 何可行 。                      we have now identified . . . ( i de ntify 指 to recognize sth or chscover\nexactly what it is“ 确 定”）表 明 当 前的 有 利 条 件；而既然 掌握了 足够的地球以及物种的 重复及 规律性发展模\n式（ pa ttern 指 the repeated or regular way in whi ch sth happens or is don e ）， 叮~1 来 ”便 顺理成 章。 long- term 、\nenough 、 evidence- based 强调 当 前探索已有充分的科 学 依据，反衬“ 盲 目幻想 （ v i s io n .、 e nvi sage ） 、想 当然设想\n(assume ）”下的非理性态度 一一一极度悲观／ 乐观 。 注 ：句 末 find t h巳msel v巳吕（ i n the situ a t阳\n后代）发现 l三I 己 的状 态 ／所处 境 地 ” ，｛彦饰 the situ                           i o n,i皮 th e 旦itua tion.   .实 ｜际上诙谐表达“未来，，之意 。\n\n                                                                                                                     35",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2003,
+    "pdf_text_character_count": 4078,
+    "nonempty": true
+  }
+}

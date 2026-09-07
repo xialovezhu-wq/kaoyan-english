@@ -1,0 +1,534 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P029",
+  "year": 2011,
+  "pdf_page": 29,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "是以 BabyCenter 个例说明。因此，应将③④⑤句视为直接解题线索，⑥⑦句信息则必须仔细识别（代表",
+      "width": 0.8805970175481346,
+      "x": 0.0490405030773898,
+      "y": 0.9186046509570817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860668322096,
+      "text": "“出售媒介”的总体特征？还是仅适用于 BabyCenter？）对比选项发现，［C］是对“总体描述”概括，故正确；",
+      "width": 0.8848613951348068,
+      "x": 0.04690831281639205,
+      "y": 0.8982558140263041
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "［B］、［D］以事例具体信息做干扰，且与原文不符，故错误；［A］对应的虽是文中总体特征（that",
+      "width": 0.886993583928143,
+      "x": 0.04690833417665331,
+      "y": 0.8776178011197545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "environment），但却对其指代做出了错误解读（safe 无从得知），也应排除。",
+      "width": 0.6226012949293727,
+      "x": 0.04690830153318163,
+      "y": 0.8573298429173216
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013401010273638825,
+      "text": "① The same dramatic technological changes that",
+      "width": 0.40298505845317,
+      "x": 0.11727079196211457,
+      "y": 0.8252617799776327
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464142162762383,
+      "text": "同样是这些大的技术变革，在给营销",
+      "width": 0.339019189640565,
+      "x": 0.5842217502330224,
+      "y": 0.8167539266287954
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013340131150490264,
+      "text": "have provided marketers with more （and more diverse）",
+      "width": 0.46908314534661405,
+      "x": 0.049040513296842295,
+      "y": 0.8049738218151707
+    },
+    {
+      "confidence": 1,
+      "height": 0.013271641980915239,
+      "text": "商带来更多的（以及更多样化的）传播渠道选",
+      "width": 0.3795309231514665,
+      "x": 0.5437100208793382,
+      "y": 0.7977748693277691
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279252027341815,
+      "text": "communications choices have also increased the risk that",
+      "width": 0.4712153341399502,
+      "x": 0.049040526400173964,
+      "y": 0.7846858636963134
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884098312717,
+      "text": "择的同时，也增加了风险，那就是充满激情的",
+      "width": 0.3816631119448026,
+      "x": 0.5415778225101858,
+      "y": 0.7761627904363088
+    },
+    {
+      "confidence": 1,
+      "height": 0.013248448596574924,
+      "text": "passionate",
+      "width": 0.08960442716924333,
+      "x": 0.04901441726027508,
+      "y": 0.7644513573145533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013362960665637913,
+      "text": "consumers will voice®",
+      "width": 0.20255862362325305,
+      "x": 0.1407249492047204,
+      "y": 0.7657068062147518
+    },
+    {
+      "confidence": 1,
+      "height": 0.010471204188481575,
+      "text": "their",
+      "width": 0.04690831453466138,
+      "x": 0.35394456419677733,
+      "y": 0.765706806321462
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013218372904193365,
+      "text": "opinions in",
+      "width": 0.11087419799101794,
+      "x": 0.3987206853683858,
+      "y": 0.7643979057979018
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "消费者会以更快、更公开可见和远更具破坏",
+      "width": 0.38166311194480274,
+      "x": 0.543710021063846,
+      "y": 0.7543604648112483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011780104712041939,
+      "text": "quicker,more visible, and much more damaging ways.",
+      "width": 0.4669509565532779,
+      "x": 0.049040519031463226,
+      "y": 0.744109947643979
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859420057382,
+      "text": "性的方式发表他们的观点。这种“劫持媒介”",
+      "width": 0.38592748953147493,
+      "x": 0.5415778282353287,
+      "y": 0.7340116283568318
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01779153334532735,
+      "text": "2 Such hijacked® media are the opposite of earned",
+      "width": 0.46935563627451715,
+      "x": 0.051028236328217964,
+      "y": 0.7215795224001273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014595762597328643,
+      "text": "是赢得（口碑）媒介的反面：一种资产或一个",
+      "width": 0.38379530073813883,
+      "x": 0.5415778341725084,
+      "y": 0.7151162795778832
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017761475752785527,
+      "text": "media:an asset\" or campaign becomes hostage®to",
+      "width": 0.47121533413995026,
+      "x": 0.04904052699541201,
+      "y": 0.7002617798293361
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "商业活动被消费者、其他利益相关者或激进",
+      "width": 0.3816631119448026,
+      "x": 0.5437100256693898,
+      "y": 0.693062827530081
+    },
+    {
+      "confidence": 1,
+      "height": 0.013195543389045827,
+      "text": "consumers, other stakeholders®",
+      "width": 0.26226012949293726,
+      "x": 0.04904050766824362,
+      "y": 0.6831395351484377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019268173821933576,
+      "text": "， or activists® who make",
+      "width": 0.20742734883431052,
+      "x": 0.3132011747098295,
+      "y": 0.6800766990307048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014717520843625764,
+      "text": "主义分子劫持汐人质，对某一品牌或产品发",
+      "width": 0.3837953007381387,
+      "x": 0.5415778325733613,
+      "y": 0.674418604535146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020210188720862887,
+      "text": "negative allegations®about a brand or product.",
+      "width": 0.43536318378119,
+      "x": 0.0489082549759681,
+      "y": 0.6583690387981707
+    },
+    {
+      "confidence": 1,
+      "height": 0.017685375912651402,
+      "text": "表负面评论。例如，社交网络用户正在认识",
+      "width": 0.38379530073813883,
+      "x": 0.5415778341725084,
+      "y": 0.6511627913292155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014671861189198276,
+      "text": "Members of social networks, for instance, are learning",
+      "width": 0.4690831453466141,
+      "x": 0.051172718851213085,
+      "y": 0.639397905635535
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "到他们可以劫持媒介向最初创建这些网络的",
+      "width": 0.38166311194480274,
+      "x": 0.5415778218740805,
+      "y": 0.6335078536497704
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047781,
+      "text": "that they can hijack media to app.y pressure on the",
+      "width": 0.47121533413995026,
+      "x": 0.04904052827472967,
+      "y": 0.617732558332728
+    },
+    {
+      "confidence": 1,
+      "height": 0.016380724482511377,
+      "text": "企业施加压力。",
+      "width": 0.13016652054155176,
+      "x": 0.5436587455673936,
+      "y": 0.6102689398892185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013241203043473315,
+      "text": "businesses that originally created them.",
+      "width": 0.33262259397305366,
+      "x": 0.04904051623308937,
+      "y": 0.6001308898059087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "• 词汇注释与难句分析。",
+      "width": 0.21961619254494813,
+      "x": 0.36247335194181174,
+      "y": 0.556686047190468
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013134664265897267,
+      "text": "①voice ［vDis］v. 表露，表达（感情或意见）",
+      "width": 0.3198294319255338,
+      "x": 0.049040510202325985,
+      "y": 0.5333769633218568
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014633811581197254,
+      "text": "•经典搭配",
+      "width": 0.1130063941062297,
+      "x": 0.5074626869340919,
+      "y": 0.5305232563947435
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013218372904193365,
+      "text": "② hijack ［'hardseek］v. 劫持",
+      "width": 0.21535181495827582,
+      "x": 0.04690831642278103,
+      "y": 0.5143979058463515
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884098312606,
+      "text": "①dramatic technological changes（重大技术变革）",
+      "width": 0.37739870507062745,
+      "x": 0.5138592797141532,
+      "y": 0.5130813950874715
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015052356020942348,
+      "text": "③asset ［'eset］n.财产，资产",
+      "width": 0.22388059941912342,
+      "x": 0.04690831212412706,
+      "y": 0.4954188482835763
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906280038292,
+      "text": "②voice one's opinions（发表意见）",
+      "width": 0.2665245070796096,
+      "x": 0.5138592849729883,
+      "y": 0.4970930236405041
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01636125654450271,
+      "text": "④hostage ［'hostuds］n.人质，本文衍生为“劫持物”",
+      "width": 0.35820894735559616,
+      "x": 0.04904051924331057,
+      "y": 0.476439790416436
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01338579018078545,
+      "text": "③the opposite of（⋯⋯的反面）",
+      "width": 0.2452025459274907,
+      "x": 0.5138592800479818,
+      "y": 0.4764397906591489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01466425176690389,
+      "text": "⑤stakeholder ［'sterk/houldo］n. 利益相关者",
+      "width": 0.33049040517971745,
+      "x": 0.04690831737282781,
+      "y": 0.4578488374630576
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013210762857766678,
+      "text": "④become hostage to（成 ⋯⋯的人质）",
+      "width": 0.30916842938384725,
+      "x": 0.513859276956975,
+      "y": 0.45930232590061804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047892,
+      "text": "⑥activist ［'eektivist］n. 激进分子",
+      "width": 0.2537313450320897,
+      "x": 0.04690831151913642,
+      "y": 0.44040697710695276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01312705421947058,
+      "text": "⑤make negative allegations（发表负面评论）",
+      "width": 0.3368869715597258,
+      "x": 0.5138592860218428,
+      "y": 0.4404069769725657
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01458054250447538,
+      "text": "⑦allegation ［leeli'geifon］ n.说法，指控",
+      "width": 0.2921108604621521,
+      "x": 0.04904052151732475,
+      "y": 0.4214659687751997
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011818153695910327,
+      "text": "⑥apply pressure on（向⋯•⋯施加压力）",
+      "width": 0.30277186300383874,
+      "x": 0.5138592680289974,
+      "y": 0.422774869153411
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01677495522024741,
+      "text": "• 语篇分析，",
+      "width": 0.11111253969042406,
+      "x": 0.4135268871901269,
+      "y": 0.37315322012864083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860668322207,
+      "text": "第三、四段论述由“赢得媒介”衍生而来的“劫持媒介”",
+      "width": 0.45202557642491903,
+      "x": 0.08955224829073868,
+      "y": 0.34593023257281563
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "，重在说明其给营销商造成的巨大风险。",
+      "width": 0.3432835672272373,
+      "x": 0.535181241244235,
+      "y": 0.3459302323039808
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017761475752785638,
+      "text": "第三段介绍“劫持媒介”的内涵并说明它对营销商的风险性。关键词为：①hijacked media；②risko",
+      "width": 0.823027685828035,
+      "x": 0.0895522506893941,
+      "y": 0.32526178033718955
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02311408207678667,
+      "text": "①句过渡，由上文新媒介之于营销者的“正面性”转至“风险性”。句子整体以 The same dramatic",
+      "width": 0.8446198974140775,
+      "x": 0.08942508805269155,
+      "y": 0.3023910652735179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884098312606,
+      "text": "technological changes that have. ..have also... 说明数字革命、特别是社交网络的兴起对于营销商的两面",
+      "width": 0.8827292063414707,
+      "x": 0.04690831058193006,
+      "y": 0.28924418576092115
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015537228259740687,
+      "text": "性：more and more diverse communications choices 回应首两段呈现的益处；have also increased the risk",
+      "width": 0.880706201359315,
+      "x": 0.051119581581059746,
+      "y": 0.27028371577223453
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883474180194,
+      "text": "则为本句重点引出的新信息。同位语从句明确这种风险性所指：voice their opinions in quicker,more",
+      "width": 0.8848613951348068,
+      "x": 0.049040526633022885,
+      "y": 0.2499999998694482
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "visible, and much more damaging ways 三个比较级连用且辅以强调副词 much，凸显新媒介“加速、放大",
+      "width": 0.8827292063414707,
+      "x": 0.04904051452649283,
+      "y": 0.23102094257920214
+    },
+    {
+      "confidence": 1,
+      "height": 0.016011201898465055,
+      "text": "激情消费者的负面评论，对企业造成极大破坏”的可能。passionate consumers 再现第一段④句",
+      "width": 0.8805970175481346,
+      "x": 0.04904051670567677,
+      "y": 0.21073298438663235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017708206051931352,
+      "text": "consumerspassionate..，共同展现“激情消费者”的双效作用：可能自愿推荐产品、益于营销商；也可能",
+      "width": 0.8827292063414708,
+      "x": 0.04690832023011749,
+      "y": 0.19040697704869214
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458054250447538,
+      "text": "发动攻击、威胁营销商。",
+      "width": 0.20255862362325305,
+      "x": 0.04904052014466341,
+      "y": 0.17146596868799047
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860668322207,
+      "text": "②句承上句提出“劫持媒介”的概念，并明确它和“赢得媒介”属于同一事物正反两面的关系。主句",
+      "width": 0.8400852547497301,
+      "x": 0.08955224935373686,
+      "y": 0.14970930214092193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062853,
+      "text": "以 Such hijacked media（hijack 意次 seize control of”劫持、抢劫”）概指上句，并明确其与“赢得媒介”的对",
+      "width": 0.8784647701797925,
+      "x": 0.051172741935689894,
+      "y": 0.1321989528073102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018192372396978462,
+      "text": "立衍生关系（the opposite of earned media）。冒号后明确这一关系、彰显其给营销商带来的危机：1）被劫",
+      "width": 0.8806975908334332,
+      "x": 0.04899438710077162,
+      "y": 0.11123161114533064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "持对象：企业的某种资产或商业活动（an asset or campaign；其中 campaign指“以宣传推广为目的的商业",
+      "width": 0.8805970175481346,
+      "x": 0.04904050116729758,
+      "y": 0.09293193740836136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "活动”）。2） 劫持发起者：消费者（consumers）、其他利益相关者（other stakeholders，包括股东、广告商",
+      "width": 0.8805970175481346,
+      "x": 0.04904050116729758,
+      "y": 0.07264397934758327
+    },
+    {
+      "confidence": 1,
+      "height": 0.011879032819058888,
+      "text": "29",
+      "width": 0.02345415726733069,
+      "x": 0.8933901923897888,
+      "y": 0.045058139941376196
+    }
+  ],
+  "vision_ocr_text": "是以 BabyCenter 个例说明。因此，应将③④⑤句视为直接解题线索，⑥⑦句信息则必须仔细识别（代表\n“出售媒介”的总体特征？还是仅适用于 BabyCenter？）对比选项发现，［C］是对“总体描述”概括，故正确；\n［B］、［D］以事例具体信息做干扰，且与原文不符，故错误；［A］对应的虽是文中总体特征（that\nenvironment），但却对其指代做出了错误解读（safe 无从得知），也应排除。\n① The same dramatic technological changes that\n同样是这些大的技术变革，在给营销\nhave provided marketers with more （and more diverse）\n商带来更多的（以及更多样化的）传播渠道选\ncommunications choices have also increased the risk that\n择的同时，也增加了风险，那就是充满激情的\npassionate\nconsumers will voice®\ntheir\nopinions in\n消费者会以更快、更公开可见和远更具破坏\nquicker,more visible, and much more damaging ways.\n性的方式发表他们的观点。这种“劫持媒介”\n2 Such hijacked® media are the opposite of earned\n是赢得（口碑）媒介的反面：一种资产或一个\nmedia:an asset\" or campaign becomes hostage®to\n商业活动被消费者、其他利益相关者或激进\nconsumers, other stakeholders®\n， or activists® who make\n主义分子劫持汐人质，对某一品牌或产品发\nnegative allegations®about a brand or product.\n表负面评论。例如，社交网络用户正在认识\nMembers of social networks, for instance, are learning\n到他们可以劫持媒介向最初创建这些网络的\nthat they can hijack media to app.y pressure on the\n企业施加压力。\nbusinesses that originally created them.\n• 词汇注释与难句分析。\n①voice ［vDis］v. 表露，表达（感情或意见）\n•经典搭配\n② hijack ［'hardseek］v. 劫持\n①dramatic technological changes（重大技术变革）\n③asset ［'eset］n.财产，资产\n②voice one's opinions（发表意见）\n④hostage ［'hostuds］n.人质，本文衍生为“劫持物”\n③the opposite of（⋯⋯的反面）\n⑤stakeholder ［'sterk/houldo］n. 利益相关者\n④become hostage to（成 ⋯⋯的人质）\n⑥activist ［'eektivist］n. 激进分子\n⑤make negative allegations（发表负面评论）\n⑦allegation ［leeli'geifon］ n.说法，指控\n⑥apply pressure on（向⋯•⋯施加压力）\n• 语篇分析，\n第三、四段论述由“赢得媒介”衍生而来的“劫持媒介”\n，重在说明其给营销商造成的巨大风险。\n第三段介绍“劫持媒介”的内涵并说明它对营销商的风险性。关键词为：①hijacked media；②risko\n①句过渡，由上文新媒介之于营销者的“正面性”转至“风险性”。句子整体以 The same dramatic\ntechnological changes that have. ..have also... 说明数字革命、特别是社交网络的兴起对于营销商的两面\n性：more and more diverse communications choices 回应首两段呈现的益处；have also increased the risk\n则为本句重点引出的新信息。同位语从句明确这种风险性所指：voice their opinions in quicker,more\nvisible, and much more damaging ways 三个比较级连用且辅以强调副词 much，凸显新媒介“加速、放大\n激情消费者的负面评论，对企业造成极大破坏”的可能。passionate consumers 再现第一段④句\nconsumerspassionate..，共同展现“激情消费者”的双效作用：可能自愿推荐产品、益于营销商；也可能\n发动攻击、威胁营销商。\n②句承上句提出“劫持媒介”的概念，并明确它和“赢得媒介”属于同一事物正反两面的关系。主句\n以 Such hijacked media（hijack 意次 seize control of”劫持、抢劫”）概指上句，并明确其与“赢得媒介”的对\n立衍生关系（the opposite of earned media）。冒号后明确这一关系、彰显其给营销商带来的危机：1）被劫\n持对象：企业的某种资产或商业活动（an asset or campaign；其中 campaign指“以宣传推广为目的的商业\n活动”）。2） 劫持发起者：消费者（consumers）、其他利益相关者（other stakeholders，包括股东、广告商\n29",
+  "pdf_text_layer": "是以 BabyCe nt e r 个例说明 。 因 此 ，应将 ③④⑤ 句视为 直 接解题 线 索 ，⑥⑦ 句信息 则 必 须 仔细识别 （ 代 表\n“ 出 售 媒介”的总体特征 ？ 还 是 仅适用于 Bab yCe nt e r ？） 对比选项 发 现， ［ CJ 是 对 “总 体描述 ”概括 ，故正确；\n［ 町、 ［ D J 以 事 例 具 体 信息 做 干 扰，且与 原文不符， 故 错误 ； ［ A ］ 对 应 的 虽是文 中 总 体 特征（ th at\nen v i ro nm e nt ）， 但却对 其 指代做出了错误解读（ sa fe 无从 得 知 ） ，也应排除 。\n\n\n      皿 OT h e sam e dram at ic t ech no logi ca l changes t ha t\n                                                                                       同样是这些重大的技术交萃，在给营销\nhave provided m a rk et er s with m ore ( and more di ve r se )\n                                                                              商带来更多的（以及更多样化的〉传播渠道选\ncommuni cat ion s choices have also increased the ri sk t hat\n                                                                              择的同时，也增加了风险，那就是充满激情的\npassionat e co ns umer s w ill vo iceCD t h eir opin ion s in\n                                                                              消费者会以更快、更公开可见和远更具破坏\nqu ick er, more visible , and much more dam ag ing w ays.\n                                                                              性的方式发表他们的观点。这种“劫持媒介”\n＠因 Su c h hijacked® m edia a r e the oppos it e of earn ed\n                                                                              是赢得（口碑｝媒介的反面： 一 种资产或一个\nm edi a : an assetCD or ca mp a iιn becomes hostage@ to\n                                                                              商业活动被消费者、其他利益相关者或激进\ncons umer s, oth er stakeh old ers毡 ， or activists® w ho ma k e\n                                                                              主义分子劫持为人质，对某 一 品牌或产品发\nnega ti ve allegationsφ a bout a bra nd or produ ct.                8         表负面评论 。 例如，社交网络用户正在认识\nM embers of socia l n et works, for in stance, ar e lea rning\n                                                                              到他们可以劫持媒介向最初创建这些网络的\nt ha t they can h ij ac 王 m e d i a to apply pr ess ure o n t he\n                                                                              企业施加压力 。\nb usin esses tha t origina lly c1eated t hem .\n\n                                                                与\n                                                                             分 …\n                                                                                   析    J\n                                                                    难…\n                                                 词\n                                                 …\n                                                     「L\n                                                          释－             旬\n                                                                         e\n\n\n\n\n                                                 …        注 …\n                                                          …     …            －     …\n\n\n( voice [ vDis] v . 表露，表达（感 情 或意 见 ）                                     ．经典搭配\n( hij ack [ 1ha1d3cek] v . 劫 持                                           ( dramati c tec hnologica l chang\n( asset ［ ＇ 皮set ] n . 财 产 ， 资产                                          ( vo ice one's opinions （发表意 见 ）\n( hostage [ 'host1d3] n. 人质，本文衍生 为 “劫持物”                                 ( t he opposite of （ … … 的 反 面 ）\n( stakeholder ['st e 1k , h c1ul d c1］ 凡利 益 相 关者                         ( become hostage to （ 成 为 … … 的 人质）\n( activist [1cekt1v1st ] n. 激 进 分子                                       ( make nega tive a ll ega t i o n s （发表 负面评 论）\n( allegation [ ,cell ' ge1Jan] n. 说 法 ，指 控                               ( app ly press ure on （ 向… … 施加 压力）\n\n\n\n                                                     ：－；否篇分析＜ 1'\n     第 三 、四段论述自“赢得媒介”衍生 而 来的“劫持媒介”，重在说明其给营销商造成的巨大风险。\n     第 三 段介绍“劫持媒介”的内涵并说明它对营销商的凤险性。关键词为： ① hij ac k ed m edi a ; CT) ri s k 。\n     ① 旬过渡，由 上 立新媒介之子营销者的“正面性”转至“风险性”。 句子整 体以 Th e sam e dra m at ic\nt echnologica l changes t hat have . . . have also ...说明数 字革 命 、 特别 是 社 交 网络的 兴 起对 于营 销 商 的两 面\n性： mor e and more div er se communicatio ns c ho i ces 回应 首 两 段呈 现的 益 处 ； h ave also incr eased the r isk\n\n则 为本句 重点 引出的新 信 息 。 同位 语 从句明确这种风险性所指： voi ce their opinions in qui ck er, m or e\nvis ible , and much mo r e damaging way s 三 个 比 较级连用且辅以 强 调副词 m u ch ，凸 显 新媒介 “ 加 速 、 放 大\n激情消 费者 的负面评论，对企业造成极大破坏”的可能 。 p ass i o nat e consum e r s 再现第 一 段 ④句\nconsum er s pass iona t e ...， 共 同展现 “激 情消 费者 ”的 双效 作用 ： 可能 自 愿推荐 产 品、益 于营销商 ；也可能\n发 动攻 击、 威胁 营 销 商 。\n     ② 旬承上旬提出“劫持媒介”的概念，并明确它和“赢得媒介”属于同 一 事物正反两面的关系。 主句\n以 Su c h hij ac ked m edia( hij ack 意 为 se i z巳 co ntro l of“劫 持、抢劫 ”） 概指 上 句 ， 并 明 确 其 与 “赢得媒 介”的 对\n立 衍 生关系（ th e oppos it e of earned m edi a ）。冒号后 明确这 一关 系 、彰显其给营销 商带 来 的 危 机： 1 ）被劫\n持对象 ： 企业的 某 种 资产或商 业 活动（ an asse t or ca mpa i g n ；其 中 ca mp a i g n 指“以 宣 传推 广为目 的的 商 业\n活动勺 。 2 ）劫持发起者： 消 费者（ con s um e r s ）、其 他利 益 相 关者（ ot her s ta ke h o ld e r s ，包括股 东、广告商\n\n                                                                                                                          29",
+  "quality": {
+    "vision_line_count": 64,
+    "vision_character_count": 2331,
+    "pdf_text_character_count": 4906,
+    "nonempty": true
+  }
+}

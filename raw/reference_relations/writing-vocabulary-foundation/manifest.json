@@ -1,0 +1,189 @@
+{
+  "builder": "scripts/build_writing_vocabulary_relationship_graph.py",
+  "counts": {
+    "approved_pattern_count": 25,
+    "approved_pattern_source_ref_count": 33,
+    "approved_vocabulary_count": 46,
+    "approved_vocabulary_source_ref_count": 46,
+    "automatic_use_allowed_edges": 191,
+    "automatic_use_allowed_nodes": 1024,
+    "edge_count": 14077,
+    "edge_counts_by_status": {
+      "corrected_from_rejected_candidate": 1,
+      "direct_source_location": 1966,
+      "explicit_exact_related_item": 34,
+      "formal_card_exact_metadata": 65,
+      "headword_occurrence_provenance": 5742,
+      "lexical_candidate": 5608,
+      "manually_reviewed_provenance": 149,
+      "placeholder_extracted_slot_spec_missing": 53,
+      "recorded_tag_candidate": 342,
+      "reviewed_exact_metadata": 117
+    },
+    "edge_counts_by_type": {
+      "DERIVED_FROM_CANDIDATE": 79,
+      "DERIVED_FROM_SOURCE": 7779,
+      "HAS_FORM": 46,
+      "HAS_FUNCTION": 25,
+      "HAS_LEARNER_EVIDENCE": 342,
+      "HAS_SCENE": 65,
+      "HAS_THEME": 46,
+      "LEARNER_TOKEN_MATCHES_SYLLABUS": 793,
+      "LEARNER_TOKEN_MATCHES_WRITING": 111,
+      "SP_EXPLICIT_RELATED_ITEM": 34,
+      "USES_SLOT": 53,
+      "WRITING_TOKEN_MATCHES_SYLLABUS": 4704
+    },
+    "learner_bank_count": 814,
+    "learner_error_tag_candidate_count": 342,
+    "learner_evidence_counts_by_kind": {
+      "wrong_question_tag_candidate": 12,
+      "wrong_sentence_tag_candidate": 330
+    },
+    "mastered_evidence_count": 0,
+    "node_count": 9041,
+    "node_counts_by_status": {
+      "active_reference": 813,
+      "approved": 70,
+      "corrected": 1,
+      "derived_exact_label": 74,
+      "formal_card": 25,
+      "needs_review": 1,
+      "ocr_consensus_unreviewed": 5584,
+      "pending_review_only": 64,
+      "recorded_tag_candidate": 342,
+      "registered": 7,
+      "rejected_candidate": 3,
+      "unreviewed_candidate": 1963,
+      "verified_manual_visual": 94
+    },
+    "node_counts_by_type": {
+      "approved_writing_pattern": 25,
+      "approved_writing_vocabulary": 46,
+      "learner_bank_item": 814,
+      "learner_evidence": 342,
+      "reference_source": 7,
+      "sentence_pattern_card": 25,
+      "sp_scene": 5,
+      "syllabus_headword": 5742,
+      "theme": 8,
+      "writing_english_candidate": 1513,
+      "writing_form": 3,
+      "writing_function": 18,
+      "writing_slot": 40,
+      "writing_topic_candidate": 453
+    },
+    "reference_source_count": 7,
+    "safety": {
+      "lexical_edges_assert_semantics": false,
+      "lexical_edges_automatic_use_allowed": false,
+      "slot_edges_require_runtime_or_human_constraints": true,
+      "syllabus_auto_use_gate": "verification_status starts with verified_",
+      "theme_edges_assert_natural_cooccurrence": false,
+      "unreviewed_candidates_automatic_use_allowed": false,
+      "wrong_sentence_tag_asserts_user_unknown": false
+    },
+    "schema": "writing_vocab_relation_summary_v1",
+    "sentence_pattern_count": 25,
+    "syllabus_unique_count": 5742,
+    "syllabus_verified_count": 94,
+    "topic_candidate_count": 453,
+    "writing_candidate_count": 1513,
+    "writing_source_count": 6
+  },
+  "formal_zero_write_guard": {
+    "bank/master_bank.csv": "00ac6738346dabeb7ff74106e08d2cf5d2e7945c289149d400baa2cf4d819886",
+    "bank/mastered_items.csv": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+    "bank/sentence_patterns.md": "84046f457471f7cba219dd071393d811e4a7159d3cd0bc95847bcb1ad90957e3"
+  },
+  "generated_date": "2026-07-11",
+  "inputs": [
+    {
+      "path": "bank/master_bank.csv",
+      "role": "formal_zero_write_guard",
+      "sha256": "00ac6738346dabeb7ff74106e08d2cf5d2e7945c289149d400baa2cf4d819886"
+    },
+    {
+      "path": "bank/mastered_items.csv",
+      "role": "formal_zero_write_guard",
+      "sha256": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2"
+    },
+    {
+      "path": "bank/sentence_patterns.md",
+      "role": "formal_zero_write_guard",
+      "sha256": "84046f457471f7cba219dd071393d811e4a7159d3cd0bc95847bcb1ad90957e3"
+    },
+    {
+      "path": "raw/reference_sources/syllabus_vocabulary/manifest.json",
+      "role": "reference_input",
+      "sha256": "9b1b4a4f32b4e5189f359c9709e286f8bab78cb2b01bec91b71eddc3d95d64d1"
+    },
+    {
+      "path": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_entries.jsonl",
+      "role": "reference_input",
+      "sha256": "47adf37cfab46aca2764587a53f5f2b04219567104b5a1a461a47403ce498c21"
+    },
+    {
+      "path": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_unique.jsonl",
+      "role": "reference_input",
+      "sha256": "3db51d4128b6f3882a59a9f57f7bd17135ad18e16ebc92b50a4c94b25e6015dc"
+    },
+    {
+      "path": "raw/writing_reference/extracted/english_candidates.jsonl",
+      "role": "reference_input",
+      "sha256": "6b9d35817280e0111a7bd7b3314de335cd42ad728d3a0b46d2b1906d05091b88"
+    },
+    {
+      "path": "raw/writing_reference/extracted/topic_candidates.jsonl",
+      "role": "reference_input",
+      "sha256": "4b9b948e3998d268399c5f32fd4557b4a2201a25f80baade291d504f5ab99299"
+    },
+    {
+      "path": "raw/writing_reference/manifest.json",
+      "role": "reference_input",
+      "sha256": "faa75697d192edf89637bcd67cf1955f132e4465c144b8c5a6f1a4dc4c5cb6ad"
+    },
+    {
+      "path": "raw/writing_reference/reviewed/approved_patterns.jsonl",
+      "role": "reference_input",
+      "sha256": "31fcd6021e0688b1f0598ae7934375d5d00eb1788026f18f78e164276961292d"
+    },
+    {
+      "path": "raw/writing_reference/reviewed/approved_vocabulary.jsonl",
+      "role": "reference_input",
+      "sha256": "461721603703633d332c2db53b1feb34970adbf35bc1327f8109d2dc6944da54"
+    }
+  ],
+  "outputs": {
+    "raw/reference_relations/writing-vocabulary-foundation/edges.jsonl": {
+      "bytes": 7543559,
+      "sha256": "a2c9f39506bfa00c3058d73add335c3adbea58a7ea2751c81f70599bf768fdaa"
+    },
+    "raw/reference_relations/writing-vocabulary-foundation/lookup.json": {
+      "bytes": 4147452,
+      "sha256": "178e54dfe02be358248c395849b47648577c675932a11d61dbe74871177bdbea"
+    },
+    "raw/reference_relations/writing-vocabulary-foundation/nodes.jsonl": {
+      "bytes": 5937719,
+      "sha256": "b088a94d57b98607be2d4d294af8d4fd074831ec1503a0efa745d029331ca57b"
+    },
+    "raw/reference_relations/writing-vocabulary-foundation/summary.json": {
+      "bytes": 2872,
+      "sha256": "27f181cb1a7d9e54ff65b3b2f8c3e09a8eb030f9daf04e2b20acb04918c20251"
+    },
+    "wiki/relationships/作文-大纲词-错词关系图谱.md": {
+      "bytes": 4090,
+      "sha256": "cc0d592bedddf99a9abb3c38e4b29a4ef83d6a4c4c5c9dd2a37a0b94aebc5347"
+    }
+  },
+  "policy": "derived_evidence_graph_no_semantic_inference",
+  "schema": "writing_vocab_relation_manifest_v1",
+  "verification": {
+    "automatic_use_gates": "PASS",
+    "endpoint_integrity": "PASS",
+    "formal_input_hash_unchanged": "PASS",
+    "id_uniqueness": "PASS",
+    "lexical_edge_nonautomatic_gate": "PASS",
+    "status": "PASS"
+  }
+}

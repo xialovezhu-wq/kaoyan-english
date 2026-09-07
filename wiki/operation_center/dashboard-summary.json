@@ -1,0 +1,141 @@
+{
+  "dashboard_readiness": {
+    "status": "ready",
+    "summary": "本文件已按 kaoyan-dashboard-summary 字段规范生成，可作为 Agent Dashboard 的英语系统只读数据源；注意它只代表状态摘要，不代表已修复历史 lint 风险。"
+  },
+  "display_name": "英语",
+  "formal_worktree_dirty": "true",
+  "generated_at": "2026-06-28T07:52:37+08:00",
+  "health": {
+    "score": null,
+    "status": "partial",
+    "summary": "英语 LAMBIC 三层架构、操作中心、ingest/query/lint 工作流、同步包和 Tutor 接入方案已建立；master_bank.csv 562 条数据、13 列检查通过。仍有历史 lint 风险、实际 raw source 未登记、StudyVault 是否实际生成待确认。"
+  },
+  "lint_risks": [
+    "master_bank.csv 13 列检查通过，但存在 1 条规则外 type：20260607-070 demand 为 动词。",
+    "重复 item 候选 3 组：impressive、response、value；仅报告，不自动合并。",
+    "raw/index.md 目前只有登记表头，实际 raw source 数为 0。",
+    "视频 wiki 实际页面数为 0，只有 README 和模板。",
+    "StudyVault 是否实际生成未记录；tutor-setup 未确认运行。",
+    "工作树存在未提交或未跟踪变更，Dashboard 只暴露状态，不修复数据。"
+  ],
+  "notes": [
+    "计数摘要：master_bank.csv 数据行 562，CSV 错位行 0，writing_value 异常 0，已掌握池数据行 0，文章页 4，raw 已登记来源 0，视频 wiki 实际页面 0，weekly_review.md 字节数 0。",
+    "formal_worktree_dirty 来自 git status --short；检测到 articles、bank、prompts、raw、schema、wiki 等路径存在未提交或未跟踪变更。",
+    "人工判断字段：health.status、sync_status.status、sync_status.summary、tutor_topic.status、lint_risks、pending_items、dashboard_readiness.status。",
+    "本摘要未复制完整题干、完整解析、标准答案、选项字母、英语全文或大段正文。",
+    "本轮只刷新英语系统本地 dashboard-summary.json，未刷新第二大脑 dashboard-cache。"
+  ],
+  "pending_items": [
+    "首个视频 raw source 待确认：需用户提供视频、字幕或 NotebookLM 导出后走 ingest 工作流。",
+    "视频语库长期分类方式待确认：需等首批真实视频语料进入 raw/wiki 后再定。",
+    "是否实际运行 tutor-setup 待确认：当前只有接入方案和输入候选。",
+    "英语与数学/408 共同逻辑模式待确认：目前只把条件、转折、限定作为候选。",
+    "同步包是否已复制到第二大脑四系统集成层待确认。",
+    "master_bank.csv 历史 lint 风险待人工决定是否修复。"
+  ],
+  "protected_boundaries": [
+    "bank/master_bank.csv：长期结构化总库，13 列固定；Dashboard 只读结构和计数，不写入。",
+    "bank/mastered_items.csv：已掌握排除池，只能由明确主动使用证据触发写入；Dashboard 不写入。",
+    "bank/sentence_patterns.md：句式卡正式库，新增或归并需明确句式入库任务；Dashboard 只读状态。",
+    "articles/*.md：正式文章精读资产；Dashboard 不复制英语全文、选项全文或完整解析。",
+    "review/weekly_review.md：只有明确周复盘任务才更新；Dashboard 不更新。",
+    "review/tomorrow_review.md 与 review/daily_review_log.md：复习状态文件；Dashboard 不改写。",
+    "raw/：原始资料层只读追溯；Dashboard 不清洗、不总结、不覆盖原件。",
+    "Dashboard 插件代码：本轮不修改。"
+  ],
+  "quick_intake": {
+    "backlog_through_date": {
+      "already_consumed_count": 0,
+      "cutoff_date": "2026-08-27",
+      "date_counts": [
+        {
+          "processable_count": 0,
+          "residual_count": 3,
+          "study_date": "2026-08-06",
+          "unconsumed_count": 3
+        },
+        {
+          "processable_count": 0,
+          "residual_count": 5,
+          "study_date": "2026-08-12",
+          "unconsumed_count": 5
+        },
+        {
+          "processable_count": 0,
+          "residual_count": 1,
+          "study_date": "2026-08-13",
+          "unconsumed_count": 1
+        }
+      ],
+      "earliest_study_date": "2026-08-06",
+      "extra_counts": {
+        "legacy_eligible_count": 0,
+        "legacy_event_count": 9,
+        "legacy_needs_user_count": 0
+      },
+      "future_excluded_count": 0,
+      "plan_sha256": "a01b6f9f8385f0905d867e45b42b067bde51da3f1a36e3427133e157e2003051",
+      "processable_pending_count": 0,
+      "residual_count": 9,
+      "schema_version": "quick-intake-backlog-through-date-v1",
+      "status_counts": {
+        "needs_user": 9
+      },
+      "unconsumed_count": 9
+    },
+    "counts": {
+      "archived_count": 0,
+      "formalized_count": 0,
+      "learning_unit_count": 0,
+      "pending_count": 0,
+      "question_count": 0,
+      "segment_count": 0
+    },
+    "generated_at": "2026-08-27T20:05:33+08:00",
+    "projection_path": "/Users/xiazhibin/Documents/kaoyan-english/wiki/operation_center/quick-intake-today.json",
+    "projection_status": "empty",
+    "schema_version": "quick-intake-summary-v1",
+    "source_snapshot_sha256": "9a7f57d7dbb8834650ef3f743807e8db5e1c75caf1ba257a0cf62a0277f51c69",
+    "study_date": "2026-08-27",
+    "subject": "english",
+    "warning_count": 9
+  },
+  "recent_updates": [
+    "2026-06-28 framework-init：建立 raw/index、wiki/index、schema/schema 和视频语库模板。",
+    "2026-06-28 csv-lint-report：生成 master_bank.csv 只读 lint 报告，未修改 CSV。",
+    "2026-06-28 operation-center-build：建立英语智能体操作中心、长期表达库入口和 Obsidian Bases 看板。",
+    "2026-06-28 workflow-build：建立 ingest/query/lint 可复制工作流。",
+    "2026-06-28 tutor-design：完成首批 Tutor 专题接入方案和输入候选。",
+    "2026-06-28 validation-and-sync：完成最终验收报告和英语 LAMBIC 同步包。",
+    "2026-06-28 dashboard-summary：刷新本 dashboard-summary.json。"
+  ],
+  "source_paths": [
+    "/Users/xiazhibin/Documents/kaoyan-english/prompts/codex_prompt.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/schema/schema.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/index.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/log.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/workflows/query.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/workflows/lint.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/operation_center/英语智能体操作中心.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/operation_center/不可写正式数据清单.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/raw/index.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/lint_report.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/sync/2026-06-28-英语LAMBIC同步包.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/validation/最终报告.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/tutor/长难句限定条件与转折逻辑接入方案.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/wiki/study_vaults/long-sentence-conditions-turns/input_candidates.md",
+    "/Users/xiazhibin/Documents/kaoyan-english/bank/master_bank.csv"
+  ],
+  "sync_status": {
+    "last_sync": "2026-06-28",
+    "status": "candidate",
+    "summary": "英语 LAMBIC 同步包已生成，可供第二大脑四系统集成层读取；是否已复制或登记到第二大脑总控层待确认。"
+  },
+  "system": "english",
+  "tutor_topic": {
+    "status": "designed",
+    "summary": "Tutor 接入方案和 7 个输入候选已存在；当前记录明确为先建立输入候选，不直接运行 tutor-setup。",
+    "topic": "长难句限定条件与转折逻辑"
+  }
+}

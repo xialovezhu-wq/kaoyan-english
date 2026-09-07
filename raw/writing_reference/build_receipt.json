@@ -1,0 +1,160 @@
+{
+  "schema": "writing_reference_build_receipt_v1",
+  "generated_date": "2026-07-11",
+  "source_count": 6,
+  "core_page_text_count": 129,
+  "ocr_page_text_count": 33,
+  "english_candidate_count": 1513,
+  "heading_candidate_count": 95,
+  "topic_candidate_count": 453,
+  "prompt_candidate_count": 78,
+  "known_error_count": 3,
+  "approved_pattern_count": 25,
+  "approved_vocabulary_count": 46,
+  "unreviewed_candidate_layer_unchanged_during_build": true,
+  "unreviewed_candidate_hashes": {
+    "raw/writing_reference/extracted/english_candidates.jsonl": "6b9d35817280e0111a7bd7b3314de335cd42ad728d3a0b46d2b1906d05091b88",
+    "raw/writing_reference/extracted/headings.jsonl": "86875db1dca33addaa1902f35692cd3aaab0474cf3f64722199b754eb175ab40",
+    "raw/writing_reference/extracted/topic_candidates.jsonl": "4b9b948e3998d268399c5f32fd4557b4a2201a25f80baade291d504f5ab99299",
+    "raw/writing_reference/extracted/known_error_candidates.jsonl": "99ff02e0124c464b316d0d9a1f918a2923d00035b2cc0b0e78879993d9e4b818",
+    "raw/writing_reference/ocr/prompt_candidates.jsonl": "cc6ad2fe9e0c01a7535d4eb2273954d805a613ac455602c79fe8f4e3aad48c77"
+  },
+  "formal_data_paths_excluded": [
+    "bank/master_bank.csv",
+    "bank/sentence_patterns.md",
+    "bank/mastered_items.csv",
+    "prompts/codex_prompt.md",
+    "raw/index.md",
+    "wiki/index.md",
+    "wiki/log.md",
+    "schema/schema.md"
+  ],
+  "protected_files_unchanged_during_build": true,
+  "protected_file_hashes": {
+    "bank/master_bank.csv": "f1e99d2698bdc6a5a599b25700a66cee021acef1b0541ef2b896252b92b7e40b",
+    "bank/sentence_patterns.md": "ac577c843f835fe5a46bd970833e45d663e7c24ce153413fa28d411ce4ffea59",
+    "bank/mastered_items.csv": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+    "prompts/codex_prompt.md": "d1a2aa3159fcd2717638d7747706a8685b7d23e73e49c1ff58bf566c194e8d85",
+    "raw/index.md": "bda22767055ccdd3b1cded608d01c1480183e52aef3ecd78ddffc24338caa33d",
+    "wiki/index.md": "d8ffc2edf3abba311011f2502c4b83bec62a2cabacf15a53c4e0d6c915f182b0",
+    "wiki/log.md": "bcde8ee5d81931b4d261c680315f2c8237355dd49f6dc159bba0c52e923d83e0",
+    "schema/schema.md": "ed02adf31102091613825c91acb57d9bf42d7b861296d52b7def2bb00d084324"
+  },
+  "checks": [
+    {
+      "check": "六份来源已登记",
+      "status": "PASS",
+      "evidence": "manifest entries=6"
+    },
+    {
+      "check": "来源 SHA-256 匹配审计基线",
+      "status": "PASS",
+      "evidence": "matched=6/6"
+    },
+    {
+      "check": "来源页数匹配审计基线",
+      "status": "PASS",
+      "evidence": "matched=6/6"
+    },
+    {
+      "check": "核心三册逐页文本齐全",
+      "status": "PASS",
+      "evidence": "page_text_files=129/129"
+    },
+    {
+      "check": "核心页文本非空",
+      "status": "PASS",
+      "evidence": "nonempty_pages=129/129"
+    },
+    {
+      "check": "英文句/短语候选已生成",
+      "status": "PASS",
+      "evidence": "records=1513"
+    },
+    {
+      "check": "标题层级候选已生成",
+      "status": "PASS",
+      "evidence": "records=95"
+    },
+    {
+      "check": "主题词候选已生成",
+      "status": "PASS",
+      "evidence": "records=453"
+    },
+    {
+      "check": "附件 1/2 英文 OCR 逐页齐全",
+      "status": "PASS",
+      "evidence": "ocr_pages=33/33"
+    },
+    {
+      "check": "历年题面年份切分完整",
+      "status": "PASS",
+      "evidence": "records=78, expected=78"
+    },
+    {
+      "check": "历年题面记录数完整",
+      "status": "PASS",
+      "evidence": "records=78/78"
+    },
+    {
+      "check": "已知错误全部隔离",
+      "status": "PASS",
+      "evidence": "rejected=3, corrected=3"
+    },
+    {
+      "check": "附件 3 仅登记打印资产",
+      "status": "PASS",
+      "evidence": "ocr=not_run, language_candidates=0"
+    },
+    {
+      "check": "受保护正式/全局文件构建前后未变",
+      "status": "PASS",
+      "evidence": "sha256 unchanged=8/8; script write roots only: raw/writing_reference, wiki/writing"
+    },
+    {
+      "check": "候选语言状态",
+      "status": "PASS",
+      "evidence": "all generated candidates=unreviewed"
+    },
+    {
+      "check": "附件中文视觉状态",
+      "status": "PASS",
+      "evidence": "78/78 prompt candidates=待核验"
+    },
+    {
+      "check": "人工批准句型数量",
+      "status": "PASS",
+      "evidence": "approved_patterns=25/25"
+    },
+    {
+      "check": "人工批准主题词/搭配数量",
+      "status": "PASS",
+      "evidence": "approved_vocabulary=46/46"
+    },
+    {
+      "check": "批准条目状态与来源",
+      "status": "PASS",
+      "evidence": "all usable entries=approved|corrected and reviewed; source PDFs=core text layer only"
+    },
+    {
+      "check": "句型更正状态受控",
+      "status": "PASS",
+      "evidence": "corrected_patterns=1; PATTERN-003 keeps source_verbatim and correction_note"
+    },
+    {
+      "check": "已知错误只允许更正候选",
+      "status": "PASS",
+      "evidence": "rejected source approvals=1; only WRITING-ERR-003 corrected form"
+    },
+    {
+      "check": "批准文本排除已知病句与高风险片段",
+      "status": "PASS",
+      "evidence": "forbidden_fragments=0"
+    },
+    {
+      "check": "完整候选层保持不变",
+      "status": "PASS",
+      "evidence": "sha256 unchanged=5/5"
+    }
+  ]
+}

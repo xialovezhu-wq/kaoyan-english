@@ -1,0 +1,606 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P013",
+  "year": 2019,
+  "pdf_page": 13,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01330749349656446,
+      "text": "LC」 the solid structure of publicly traded companies",
+      "width": 0.43617020530262207,
+      "x": 0.05106383788060373,
+      "y": 0.9111111109373581
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "［C］公开上市公司的坚实架构",
+      "width": 0.25957445166576865,
+      "x": 0.5276595845571866,
+      "y": 0.9111111110872778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013288493561588788,
+      "text": "［D］ “short-termism\" in economic activities",
+      "width": 0.36170211148901465,
+      "x": 0.0489361722696773,
+      "y": 0.8849673200293104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "［D］经济活动中的“短期主义”",
+      "width": 0.2638297830048192,
+      "x": 0.5276595792209946,
+      "y": 0.8836601306903151
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "［精准定位］第二段首先指出，Andrew Haldane 提出上市公司中“短期主义”（“Short-termism”）加",
+      "width": 0.8404255132565552,
+      "x": 0.0787234240898072,
+      "y": 0.8561046517464886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01908455331341108,
+      "text": "剧。随后指出他援引 Alfred Marshall 之言，将“这种经济上的烦躁（this financial impatience）”形容为“从",
+      "width": 0.8788945574413314,
+      "x": 0.04032926293920446,
+      "y": 0.8356611758781459
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946567,
+      "text": "布丁里拣出葡萄干马上吃掉的孩子行为”。可见 this financial impatience 与 Short-termism 同指，援弓",
+      "width": 0.8765957419442948,
+      "x": 0.04042553187891643,
+      "y": 0.8168604648259337
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313437,
+      "text": "Marshall 之言意在形象说明经济行为中的“短期主义”，［D］正确。",
+      "width": 0.5489361642420977,
+      "x": 0.04042554170873822,
+      "y": 0.79796511657207
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "［命题解密JLD］明确第二段 Short-termism、this financial impatience 所指，也即 Andrew Haldane 拨",
+      "width": 0.842553149694684,
+      "x": 0.07659575715265823,
+      "y": 0.7790697677751057
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "引 Alfred Marshall 之言所阐释的对象。",
+      "width": 0.33404254547937623,
+      "x": 0.04042553994648201,
+      "y": 0.7587209307072444
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "［A］将第二段关注对象“渴望快速获利的心理/行为”曲解为“实现快速获利的条件”，从而将两人对",
+      "width": 0.842553149694684,
+      "x": 0.07659575715265823,
+      "y": 0.741176470385021
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600357130462049,
+      "text": "快速获利的态度由“否定”改为“肯定”。［B］将缺乏耐心者（短期主义者）所指“上市公司管理者/股东（in",
+      "width": 0.880851014820552,
+      "x": 0.040425567430149335,
+      "y": 0.7209150329081933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "publicly traded companies）”窜改力“政府（governments）”。LC］复现第二段①句 publicly traded",
+      "width": 0.8808510732833452,
+      "x": 0.040425527222570624,
+      "y": 0.7005813952151391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "companies，但文中未论及“公开上市公司的组织架构（solid structure 无据可依）”",
+      "width": 0.6787233900749821,
+      "x": 0.03829787377456576,
+      "y": 0.6816860462721547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［技巧总结］本题考查引用 Marshall 话语的目的，而援引 Marshall 话语的是文中另一人物 Andrew",
+      "width": 0.8468084810337344,
+      "x": 0.07659576653987027,
+      "y": 0.6627450982834555
+    },
+    {
+      "confidence": 1,
+      "height": 0.0176888584311492,
+      "text": "Haldane，因此解题重在明确两人观点之间关系。且该过程中涉及比喻用法及取舍结构，需分清本体、喻体。",
+      "width": 0.8574467801499641,
+      "x": 0.040425545180337155,
+      "y": 0.6424418602617061
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014698281630970977,
+      "text": "由②句 He （Andrew Haldane）quotes ... Alfred Marshall, in describing this financial impatience",
+      "width": 0.8382978768184268,
+      "x": 0.08297871848440369,
+      "y": 0.6248366015532256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.023147159152560826,
+      "text": "aS.•可知 Andrew Haldane 援引 Marshall 之言意在解释“这种经济上的缺乏耐心”，由此可回归至①句",
+      "width": 0.88329972891972,
+      "x": 0.038140638727600804,
+      "y": 0.6001027979788927
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "的 Andrew Haldane 观点关键词 Short-termism，并基本确定［D］为答案。随后细看 describe.•.as.•",
+      "width": 0.8787233783824233,
+      "x": 0.03829789406410737,
+      "y": 0.5856209150472146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "rather than...取舍结构，可知“急于从布丁里找到葡萄干并立刻将其吃掉的孩子”为喻体，其恰能体现",
+      "width": 0.8808510148205521,
+      "x": 0.038297885834405125,
+      "y": 0.5653594773557233
+    },
+    {
+      "confidence": 1,
+      "height": 0.017686958562314836,
+      "text": "“关注短期享受/利益”，完全确定［D］。",
+      "width": 0.3255319120326718,
+      "x": 0.038297877786855485,
+      "y": 0.5450581392878691
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014690682155634072,
+      "text": "① The average time for holding a stock\" in both the",
+      "width": 0.43829787097214734,
+      "x": 0.10851064628697571,
+      "y": 0.5143790849432912
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "他特别提到，最近几十年，无论是在美",
+      "width": 0.3170212785859675,
+      "x": 0.6021276576219099,
+      "y": 0.5071895425846996
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "United States and Britain, he notes, has dropped from seven",
+      "width": 0.5021276364381285,
+      "x": 0.04255320844760221,
+      "y": 0.49542483662611925
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "国还是在英国，持有一支股票的平均时间",
+      "width": 0.3553191437118355,
+      "x": 0.5638297890483377,
+      "y": 0.48823529410037647
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013354992710686964,
+      "text": "years to seven months in recent decades.",
+      "width": 0.37446807627476947,
+      "x": 0.04042554101155132,
+      "y": 0.4764705884129158
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014856598423976464,
+      "text": "② Transient®",
+      "width": 0.11498029570013163,
+      "x": 0.42761623602313953,
+      "y": 0.4780368175215842
+    },
+    {
+      "confidence": 1,
+      "height": 0.014690682155634072,
+      "text": "都从七年下降到了七个月。短暂投资",
+      "width": 0.3553191437118355,
+      "x": 0.5638297876254653,
+      "y": 0.4709302328768499
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011939504411485502,
+      "text": "investors， who",
+      "width": 0.15106382406534363,
+      "x": 0.040425537293569236,
+      "y": 0.459302325866739
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011939504411485502,
+      "text": "demand high",
+      "width": 0.1276595747790574,
+      "x": 0.1936170232487691,
+      "y": 0.459302325866739
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016007371665605508,
+      "text": "quarterly®",
+      "width": 0.08936170234534019,
+      "x": 0.32553191366775547,
+      "y": 0.4578488375749771
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012863958271500331,
+      "text": "profits from",
+      "width": 0.11522077509269862,
+      "x": 0.4316460380868771,
+      "y": 0.46044631450885953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "者——那些要求从公司获得高额季度收益",
+      "width": 0.3553191437118355,
+      "x": 0.5638297857238695,
+      "y": 0.45203488401393055
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "companies, can hinder a firm's efforts to invest in long-term",
+      "width": 0.5042553313390504,
+      "x": 0.042553193798559596,
+      "y": 0.44040697718402044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016424100539263575,
+      "text": "的投资者——会阻碍公司投资长期研究或",
+      "width": 0.35768913765976706,
+      "x": 0.563694944527096,
+      "y": 0.4342297430269446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014624183006536007,
+      "text": "research or to build up customer loyalty®. ⑧ This has been",
+      "width": 0.5042553313390506,
+      "x": 0.04255318738898531,
+      "y": 0.4228758167837653
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "者增进客户忠诚的努力。这已被称沩“季",
+      "width": 0.35744680938136075,
+      "x": 0.5638297903731494,
+      "y": 0.41568627464050045
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322959388782774,
+      "text": "dubbed\"quarterly capitalism.",
+      "width": 0.2510638182190643,
+      "x": 0.04255320145784358,
+      "y": 0.4039215686856297
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "度资本主义”。",
+      "width": 0.12127659238618005,
+      "x": 0.5638297901260588,
+      "y": 0.3967320259553855
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418430702326,
+      "text": "I（",
+      "width": 0.029787233506125957,
+      "x": 0.08297872416892281,
+      "y": 0.3880813955084861
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01337209277682827,
+      "text": "1In addition, new digital technologies have allowed",
+      "width": 0.43404253963309686,
+      "x": 0.11063830031111117,
+      "y": 0.38662790719398443
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "此外，新的数字技术已使得股票交易",
+      "width": 0.3170212785859674,
+      "x": 0.6021276546165909,
+      "y": 0.37908496708446104
+    },
+    {
+      "confidence": 1,
+      "height": 0.007483627905253476,
+      "text": "more",
+      "width": 0.04475548623622149,
+      "x": 0.04251587464707383,
+      "y": 0.36907795372134167
+    },
+    {
+      "confidence": 1,
+      "height": 0.016245551514469714,
+      "text": "rapid®",
+      "width": 0.055478103316149954,
+      "x": 0.10204818272330081,
+      "y": 0.36615048021818364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013689035527846394,
+      "text": "trading of",
+      "width": 0.10016728543687142,
+      "x": 0.17651210029676184,
+      "y": 0.3674287382788811
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01715409646626398,
+      "text": "equities@",
+      "width": 0.07703605008764741,
+      "x": 0.29063198469586177,
+      "y": 0.3658831630648651
+    },
+    {
+      "confidence": 1,
+      "height": 0.01675120584325851,
+      "text": "quicker",
+      "width": 0.0684626129851944,
+      "x": 0.39342826766119393,
+      "y": 0.36589765309573774
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007318741355846092,
+      "text": "use",
+      "width": 0.03617021041811658,
+      "x": 0.47659574645760844,
+      "y": 0.3705882352653219
+    },
+    {
+      "confidence": 1,
+      "height": 0.013166894476398183,
+      "text": "of",
+      "width": 0.021276594578534702,
+      "x": 0.5255319154766902,
+      "y": 0.3691860469650601
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016005472420087874,
+      "text": "更迅逮、信息使用更快捷，且因此使得金融",
+      "width": 0.35744680938136075,
+      "x": 0.563829783819958,
+      "y": 0.36046511606382126
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488293816052,
+      "text": "information, and thus shorter attention spans®in financial",
+      "width": 0.5063829677771792,
+      "x": 0.04042553105821916,
+      "y": 0.35029069792045464
+    },
+    {
+      "confidence": 1,
+      "height": 0.01776105781006654,
+      "text": "市场中注意力的时间跨度更短暂。“短线",
+      "width": 0.35744680938136075,
+      "x": 0.5638297832242133,
+      "y": 0.34302325566868297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016011171403274016,
+      "text": "markets. ②\"There seems to be a predominance®of short-",
+      "width": 0.5042553313390504,
+      "x": 0.042553193798559596,
+      "y": 0.33137254905832836
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "思维似乎已占据主导地位，其代价是长期",
+      "width": 0.35744680938136075,
+      "x": 0.5638297879050643,
+      "y": 0.3241279066863989
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "term thinking at the expense of® long-term investing，” said",
+      "width": 0.5042553313390505,
+      "x": 0.042553192167353954,
+      "y": 0.312418300789606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014684981925814689,
+      "text": "投资受损，”本周，美国证券交易委员会委",
+      "width": 0.35744680938136075,
+      "x": 0.5638297842454898,
+      "y": 0.3065359478323022
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014675482581643529,
+      "text": "Commissioner® Daniel Gallagher of the US Securities and",
+      "width": 0.5042553313390504,
+      "x": 0.042553189596432076,
+      "y": 0.29346405200759185
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "员丹尼尔•盖伦格在一次演讲中说道。",
+      "width": 0.3276595777021971,
+      "x": 0.5659574484254971,
+      "y": 0.28758169934597455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011926204083012593,
+      "text": "Exchange Commission in a speech this week.",
+      "width": 0.37234041060524425,
+      "x": 0.04468086225056929,
+      "y": 0.27761627931635147
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.2170212698165484,
+      "x": 0.3595744741874704,
+      "y": 0.23982558194270953
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013134594836266111,
+      "text": "①stock ［stpk］n. 股份",
+      "width": 0.17021275662827764,
+      "x": 0.04255319757238595,
+      "y": 0.21366279107237585
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371107313326,
+      "text": "⑦equity ［'ekwti］n. （分享红利而非固定股息的）股票",
+      "width": 0.4127659414006376,
+      "x": 0.5063829825443621,
+      "y": 0.21366279099067464
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882938160631,
+      "text": "②transient ［'treenziont］a.短暂的，转瞬即逝的",
+      "width": 0.3553191437118355,
+      "x": 0.042553194713231185,
+      "y": 0.19476744207016383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013370192907994127,
+      "text": "⑧attention span 注意力的持续时间",
+      "width": 0.27021275078199836,
+      "x": 0.5063829829334691,
+      "y": 0.19738562066473675
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013377793006647654,
+      "text": "③ quarterly ［'kwotol］ a. 每季度的",
+      "width": 0.2617021173352939,
+      "x": 0.04680851361958712,
+      "y": 0.17877906997256976
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014684981925814689,
+      "text": "⑨ predominance ［pri'dpminons］7. 主导地位，支配地位",
+      "width": 0.41489360707016276,
+      "x": 0.506382978512791,
+      "y": 0.17877907008615235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0118654051637338,
+      "text": "④customer loyalty 顾客忠诚",
+      "width": 0.21276595309319626,
+      "x": 0.04468084969453675,
+      "y": 0.16133720939387086
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013126994737612585,
+      "text": "10at the expense of 以损害⋯⋯为代价",
+      "width": 0.2893616833449324,
+      "x": 0.508510644795619,
+      "y": 0.16274509789398428
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01176470588235301,
+      "text": "⑤dub ［dAb］w.把⋯•⋯称力，给⋯•⋯起绰号",
+      "width": 0.3212765806936213,
+      "x": 0.046808514951061746,
+      "y": 0.14379084991939506
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011878704868890089,
+      "text": "1commissioner ［ko mujona］1. 委员",
+      "width": 0.27021275078199836,
+      "x": 0.5085106503891424,
+      "y": 0.14509803922561104
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01455198300430205,
+      "text": "⑥rapid ［'reepid］a.迅速的",
+      "width": 0.20425531964649185,
+      "x": 0.044680852857605105,
+      "y": 0.12352941204035972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017257805119932135,
+      "text": "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to",
+      "width": 0.842716670127664,
+      "x": 0.08503287859356987,
+      "y": 0.09213796991420242
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906599855131,
+      "text": "13",
+      "width": 0.023404254767173005,
+      "x": 0.8851063830206688,
+      "y": 0.06250000013030499
+    }
+  ],
+  "vision_ocr_text": "LC」 the solid structure of publicly traded companies\n［C］公开上市公司的坚实架构\n［D］ “short-termism\" in economic activities\n［D］经济活动中的“短期主义”\n［精准定位］第二段首先指出，Andrew Haldane 提出上市公司中“短期主义”（“Short-termism”）加\n剧。随后指出他援引 Alfred Marshall 之言，将“这种经济上的烦躁（this financial impatience）”形容为“从\n布丁里拣出葡萄干马上吃掉的孩子行为”。可见 this financial impatience 与 Short-termism 同指，援弓\nMarshall 之言意在形象说明经济行为中的“短期主义”，［D］正确。\n［命题解密JLD］明确第二段 Short-termism、this financial impatience 所指，也即 Andrew Haldane 拨\n引 Alfred Marshall 之言所阐释的对象。\n［A］将第二段关注对象“渴望快速获利的心理/行为”曲解为“实现快速获利的条件”，从而将两人对\n快速获利的态度由“否定”改为“肯定”。［B］将缺乏耐心者（短期主义者）所指“上市公司管理者/股东（in\npublicly traded companies）”窜改力“政府（governments）”。LC］复现第二段①句 publicly traded\ncompanies，但文中未论及“公开上市公司的组织架构（solid structure 无据可依）”\n［技巧总结］本题考查引用 Marshall 话语的目的，而援引 Marshall 话语的是文中另一人物 Andrew\nHaldane，因此解题重在明确两人观点之间关系。且该过程中涉及比喻用法及取舍结构，需分清本体、喻体。\n由②句 He （Andrew Haldane）quotes ... Alfred Marshall, in describing this financial impatience\naS.•可知 Andrew Haldane 援引 Marshall 之言意在解释“这种经济上的缺乏耐心”，由此可回归至①句\n的 Andrew Haldane 观点关键词 Short-termism，并基本确定［D］为答案。随后细看 describe.•.as.•\nrather than...取舍结构，可知“急于从布丁里找到葡萄干并立刻将其吃掉的孩子”为喻体，其恰能体现\n“关注短期享受/利益”，完全确定［D］。\n① The average time for holding a stock\" in both the\n他特别提到，最近几十年，无论是在美\nUnited States and Britain, he notes, has dropped from seven\n国还是在英国，持有一支股票的平均时间\nyears to seven months in recent decades.\n② Transient®\n都从七年下降到了七个月。短暂投资\ninvestors， who\ndemand high\nquarterly®\nprofits from\n者——那些要求从公司获得高额季度收益\ncompanies, can hinder a firm's efforts to invest in long-term\n的投资者——会阻碍公司投资长期研究或\nresearch or to build up customer loyalty®. ⑧ This has been\n者增进客户忠诚的努力。这已被称沩“季\ndubbed\"quarterly capitalism.\n度资本主义”。\nI（\n1In addition, new digital technologies have allowed\n此外，新的数字技术已使得股票交易\nmore\nrapid®\ntrading of\nequities@\nquicker\nuse\nof\n更迅逮、信息使用更快捷，且因此使得金融\ninformation, and thus shorter attention spans®in financial\n市场中注意力的时间跨度更短暂。“短线\nmarkets. ②\"There seems to be a predominance®of short-\n思维似乎已占据主导地位，其代价是长期\nterm thinking at the expense of® long-term investing，” said\n投资受损，”本周，美国证券交易委员会委\nCommissioner® Daniel Gallagher of the US Securities and\n员丹尼尔•盖伦格在一次演讲中说道。\nExchange Commission in a speech this week.\n•词汇注释与难句分析•\n①stock ［stpk］n. 股份\n⑦equity ［'ekwti］n. （分享红利而非固定股息的）股票\n②transient ［'treenziont］a.短暂的，转瞬即逝的\n⑧attention span 注意力的持续时间\n③ quarterly ［'kwotol］ a. 每季度的\n⑨ predominance ［pri'dpminons］7. 主导地位，支配地位\n④customer loyalty 顾客忠诚\n10at the expense of 以损害⋯⋯为代价\n⑤dub ［dAb］w.把⋯•⋯称力，给⋯•⋯起绰号\n1commissioner ［ko mujona］1. 委员\n⑥rapid ［'reepid］a.迅速的\nTransient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to\n13",
+  "pdf_text_layer": "[CJ th e so li d s tru cture of publicly traded com pani es                 [ C J 公开上市公司的坚实架构\n\n [ DJ “ short- te rmism ” 111 economic act1v1t1 es                           [ D J 经 济活动中的“短期主义”\n\n      ［ 精准定位 ］ 第二段首 先指出 ， A ndrew H a ldane 提出上市公司中“短期主义”（“ Short- t e r mism ”）加\n剧 。 随 后指 出他 援 引 A lfr e d Mar s h a ll 之 言，将“ 这种 经济上的烦躁（ th is fi nancia l imp at i e n ce ）”形容为“从\n布丁里拣出葡萄干马上吃掉的孩子行为” 。 可见 th i s finan cia l i mpati e口ce 与 Short-termism 同指，援引\nMar s hall 之言意在形象说明经济行为 中的 “短期主义”，［ DJ 正确 。\n      ［ 命题解密 ］ ［ DJ 明确 第 二 段 Short- termism 、 thi s fin anci a l impat i en ce 所指， 也即 Andr ew Ha l dan e 援\n引 Alfred Marsha ll 之 言 所阐释的对象 。\n      [ A ］将第二段关注 对象“渴望快速获利的心理／行为”！Ill 解为 “实 现快速 获 利的条件 ”，从 而将两 人对\n快速 获利的态度 Ei3 “否定”改为 “肯定” 。［ BJ 将缺乏耐心 者 （ 短期主义者）所指“上市公司管理者 ／ 股东（ i 口\npub li cly traded com p a ni es ）”窜 改为“政府（ gov e rnm e nts ）” 。［ C ］ 复现第 二 段①句 publicly trad ed\ncompan i es ，但文 中未论及“公开上市公司的组织架构（ so lid s tructur e 无据 可依 ）” 。\n      ［ 技巧总结 ］ 本题考查引用 Marsha ll 话 语的目的，而援引 Ma rs ha ll 话语的是文中另 一 人物 Andre w\nHa l dane ，因 此fO［（， 题重在 明确两人观点之间关系 。 且该过程中涉及比喻用法及取舍结构，需分清本体、喻体 。\n      由 ② 句 He         ( Andrew H a ldane ) quotes . .. A lfred Mars ha ll, in descr ibi ng this fin ancial impa ti ence\nas ...可知 Andrew H a ld ane 援引 Ma r s h a ll 之 言意在解释“这 种 经济上的缺乏耐心”，由 此可 回归 至① 句\n的 Andr ew H a ld ane 观点关键 词 Short- termism ，并基本确定 ［ D J 为答案 。 随 后 细 看 des crib e ... as …\nrather than . .. 取舍结构，可知“急于从布丁里找到葡萄干并立刻将其吃掉的孩子”为喻体，其恰能体现\n“ 关注短期享受 ／利 益”，完全 确定 ［ DJ 。\n\n       ill, OTh e average time for holding a stock(             in both the           他特别提到，最近几十年，无论是在美\nUnited States and Br it ain , he not巳 s, has dropp巳d from sev 巳 n                 国还是在英国，持有一支股票的平均时间\nyear s to seven months in recent decad es.                    @ Transient②        都从七年下降到了七个月 。 短暂投资\ninves tors,     w ho     dem and        hig h   quarterly (   profi ts   from     者一一 那些要求从公司获得高额季度收 益\ncompan ies, ca n hind e r a firm 's effort s to invest in long term               的投资者 一一会阻碍公司投资长期研究或\nr esearc h or to bui ld up customer loyalty®. @Thi s has been                     者增进客户忠诚的努力 。 这已被称为“季\ndubbed( “ qu ar t e rl y ca piLa li sm. ”                                         度资本主义” 。\n       N O In additi on, new digita l t echnologies have all owed                      此外，新的数字技术已使得股票交易\nmore     rapid®        trad ing    of     equities(   ,   quicker    use     of   关迅速、信息使用更快捷，且因此使得金融\ninformat io n , a nd thus s horter attention spans® in financial                  市场中注意力的时间跨度更短暂 。 “短线\nmark ets. @“ The re seem s to be a predominance® of s hort                        思维似乎已占据主导地位 ， 其代价是长期\nterm thinkin g at the expense o俨 l ong- t e rm investing ,” sa id                 投资受损，”本周，美国证券交易委员会委\nCommissioner® Dani el Ga ll agher of the US Sec uriti 巳s a nd                     员丹尼尔 · 盖伦格在一次演讲中说道 。\nExchange Commission in a speech this week.\n\n\n                                                  ：二词汇注释些难句分析－：：： it/\n( stock [ st 口k ] 17. 股份                                            $      ⑦ equity 〔 ＇ ekw 1 t1 ］ η ． （分享红利而斗le 固定！投息自甘）／役 豆?i\n( tnmsient [ 1t rre nz 1 a nt ］ α 短暂 的 ， 转瞬即逝的                      ; ( attenti\n( quarterly [ 1kw:i:tal1] a. 每季度 的                                  <      ® pre《lom inar川 ［ ［】r11d口mrnans] 11. 主导地位 ， 支配 J也位\n\n( customer loyalty 顾客忠诚                                              ； 川\n( dub [ dAb] V. 把……称为 ，给 ……起绰号                                             @<:ommissioner [ ka' m1Jan a ］ 凡委员\n@ rapid [ ' rrep 1d ］ ι 迅速 的\n\n       Transient investors, who demand high quarterly profits from companies, can hinder a firm ’s effo1如 to\n\n                                                                                                                           13",
+  "quality": {
+    "vision_line_count": 73,
+    "vision_character_count": 2518,
+    "pdf_text_character_count": 3667,
+    "nonempty": true
+  }
+}

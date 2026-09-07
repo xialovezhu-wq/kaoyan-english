@@ -1,0 +1,3154 @@
+{
+  "schema": "exam_reading_verified_answer_keys_v1",
+  "generated_date": "2026-07-11",
+  "visibility": "hidden_until_review",
+  "source_policy": "answers read only from user-provided local analysis PDFs; no internet or memory-only inference",
+  "text_count": 60,
+  "answer_count": 300,
+  "all_answers_source_verified": true,
+  "answer_keys": {
+    "2010": {
+      "1": {
+        "answers": [
+          "B",
+          "A",
+          "D",
+          "A",
+          "B"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            9
+          ],
+          "22": [
+            12
+          ],
+          "23": [
+            12
+          ],
+          "24": [
+            15
+          ],
+          "25": [
+            15
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "22": [
+            12
+          ],
+          "23": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "24": [
+            15
+          ],
+          "25": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+        "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+        "old_analysis_page_range": "9-15",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "C",
+          "D",
+          "C",
+          "B",
+          "A"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            19
+          ],
+          "27": [
+            19
+          ],
+          "28": [
+            22
+          ],
+          "29": [
+            25
+          ],
+          "30": [
+            25
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            19
+          ],
+          "27": [
+            19,
+            20,
+            21,
+            22
+          ],
+          "28": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "29": [
+            25
+          ],
+          "30": [
+            25,
+            26,
+            27
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+        "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+        "old_analysis_page_range": "19-25",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "B",
+          "D",
+          "A",
+          "C",
+          "C"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            27
+          ],
+          "32": [
+            29
+          ],
+          "33": [
+            33
+          ],
+          "34": [
+            33
+          ],
+          "35": [
+            35
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            27,
+            28,
+            29
+          ],
+          "32": [
+            29,
+            30,
+            31,
+            32,
+            33
+          ],
+          "33": [
+            33
+          ],
+          "34": [
+            33,
+            34,
+            35
+          ],
+          "35": [
+            35,
+            36,
+            37
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+        "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+        "old_analysis_page_range": "27-35",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "A",
+          "D",
+          "C",
+          "B",
+          "D"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            37
+          ],
+          "37": [
+            39
+          ],
+          "38": [
+            41
+          ],
+          "39": [
+            43
+          ],
+          "40": [
+            44
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            37,
+            38,
+            39
+          ],
+          "37": [
+            39,
+            40,
+            41
+          ],
+          "38": [
+            41,
+            42,
+            43
+          ],
+          "39": [
+            43,
+            44
+          ],
+          "40": [
+            44,
+            45
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+        "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+        "old_analysis_page_range": "37-44",
+        "audit_confidence": "high"
+      }
+    },
+    "2011": {
+      "1": {
+        "answers": [
+          "C",
+          "B",
+          "D",
+          "B",
+          "A"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            8
+          ],
+          "22": [
+            10
+          ],
+          "23": [
+            13
+          ],
+          "24": [
+            13
+          ],
+          "25": [
+            15
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            8,
+            9,
+            10
+          ],
+          "22": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "23": [
+            13
+          ],
+          "24": [
+            13,
+            14,
+            15
+          ],
+          "25": [
+            15,
+            16,
+            17
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+        "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+        "old_analysis_page_range": "8-15",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "B",
+          "D",
+          "C",
+          "A",
+          "C"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            17
+          ],
+          "27": [
+            18
+          ],
+          "28": [
+            21
+          ],
+          "29": [
+            23
+          ],
+          "30": [
+            23
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            17,
+            18
+          ],
+          "27": [
+            18,
+            19,
+            20,
+            21
+          ],
+          "28": [
+            21,
+            22,
+            23
+          ],
+          "29": [
+            23
+          ],
+          "30": [
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+        "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+        "old_analysis_page_range": "17-23",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "D",
+          "C",
+          "B",
+          "A",
+          "A"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            26
+          ],
+          "32": [
+            28
+          ],
+          "33": [
+            30
+          ],
+          "34": [
+            32
+          ],
+          "35": [
+            33
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            26,
+            27,
+            28
+          ],
+          "32": [
+            28,
+            29,
+            30
+          ],
+          "33": [
+            30,
+            31,
+            32
+          ],
+          "34": [
+            32,
+            33
+          ],
+          "35": [
+            33,
+            34,
+            35
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+        "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+        "old_analysis_page_range": "26-33",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "C",
+          "D",
+          "A",
+          "D",
+          "B"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            35
+          ],
+          "37": [
+            37
+          ],
+          "38": [
+            39
+          ],
+          "39": [
+            40
+          ],
+          "40": [
+            42
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            35,
+            36,
+            37
+          ],
+          "37": [
+            37,
+            38,
+            39
+          ],
+          "38": [
+            39,
+            40
+          ],
+          "39": [
+            40,
+            41,
+            42
+          ],
+          "40": [
+            42,
+            43
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+        "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+        "old_analysis_page_range": "35-42",
+        "audit_confidence": "high"
+      }
+    },
+    "2012": {
+      "1": {
+        "answers": [
+          "D",
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            9
+          ],
+          "22": [
+            11
+          ],
+          "23": [
+            13
+          ],
+          "24": [
+            14
+          ],
+          "25": [
+            16
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            9,
+            10,
+            11
+          ],
+          "22": [
+            11,
+            12,
+            13
+          ],
+          "23": [
+            13,
+            14
+          ],
+          "24": [
+            14,
+            15,
+            16
+          ],
+          "25": [
+            16,
+            17
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+        "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+        "old_analysis_page_range": "9-16",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "C",
+          "D",
+          "A",
+          "D",
+          "A"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            17
+          ],
+          "27": [
+            20
+          ],
+          "28": [
+            22
+          ],
+          "29": [
+            23
+          ],
+          "30": [
+            25
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            17,
+            18,
+            19,
+            20
+          ],
+          "27": [
+            20,
+            21,
+            22
+          ],
+          "28": [
+            22,
+            23
+          ],
+          "29": [
+            23,
+            24,
+            25
+          ],
+          "30": [
+            25,
+            26,
+            27
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+        "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+        "old_analysis_page_range": "17-25",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "A",
+          "B",
+          "B",
+          "D",
+          "C"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            27
+          ],
+          "32": [
+            28
+          ],
+          "33": [
+            31
+          ],
+          "34": [
+            33
+          ],
+          "35": [
+            34
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            27,
+            28
+          ],
+          "32": [
+            28,
+            29,
+            30,
+            31
+          ],
+          "33": [
+            31,
+            32,
+            33
+          ],
+          "34": [
+            33,
+            34
+          ],
+          "35": [
+            34,
+            35,
+            36
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+        "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+        "old_analysis_page_range": "27-34",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "C",
+          "D",
+          "B",
+          "C",
+          "A"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            36
+          ],
+          "37": [
+            38
+          ],
+          "38": [
+            40
+          ],
+          "39": [
+            43
+          ],
+          "40": [
+            44
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            36,
+            37,
+            38
+          ],
+          "37": [
+            38,
+            39,
+            40
+          ],
+          "38": [
+            40,
+            41,
+            42,
+            43
+          ],
+          "39": [
+            43,
+            44
+          ],
+          "40": [
+            44,
+            45
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+        "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+        "old_analysis_page_range": "36-44",
+        "audit_confidence": "high"
+      }
+    },
+    "2013": {
+      "1": {
+        "answers": [
+          "A",
+          "B",
+          "D",
+          "C",
+          "C"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            8
+          ],
+          "22": [
+            11
+          ],
+          "23": [
+            13
+          ],
+          "24": [
+            16
+          ],
+          "25": [
+            16
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "22": [
+            11,
+            12,
+            13
+          ],
+          "23": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "24": [
+            16
+          ],
+          "25": [
+            16,
+            17,
+            18
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+        "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+        "old_analysis_page_range": "8-16",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "D",
+          "A",
+          "C",
+          "B",
+          "D"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            18
+          ],
+          "27": [
+            21
+          ],
+          "28": [
+            23
+          ],
+          "29": [
+            25
+          ],
+          "30": [
+            27
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            18,
+            19,
+            20,
+            21
+          ],
+          "27": [
+            21,
+            22,
+            23
+          ],
+          "28": [
+            23,
+            24,
+            25
+          ],
+          "29": [
+            25,
+            26,
+            27
+          ],
+          "30": [
+            27,
+            28,
+            29
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+        "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+        "old_analysis_page_range": "18-27",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "B",
+          "A",
+          "D",
+          "B",
+          "A"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            29
+          ],
+          "32": [
+            31
+          ],
+          "33": [
+            34
+          ],
+          "34": [
+            36
+          ],
+          "35": [
+            37
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            29,
+            30,
+            31
+          ],
+          "32": [
+            31,
+            32,
+            33,
+            34
+          ],
+          "33": [
+            34,
+            35,
+            36
+          ],
+          "34": [
+            36,
+            37
+          ],
+          "35": [
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+        "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+        "old_analysis_page_range": "29-38",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "B",
+          "C",
+          "A",
+          "C",
+          "D"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            40
+          ],
+          "37": [
+            41
+          ],
+          "38": [
+            42
+          ],
+          "39": [
+            44
+          ],
+          "40": [
+            45
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            40,
+            41
+          ],
+          "37": [
+            41,
+            42
+          ],
+          "38": [
+            42,
+            43,
+            44
+          ],
+          "39": [
+            44,
+            45
+          ],
+          "40": [
+            45,
+            46
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+        "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+        "old_analysis_page_range": "40-45",
+        "audit_confidence": "high"
+      }
+    },
+    "2014": {
+      "1": {
+        "answers": [
+          "A",
+          "C",
+          "D",
+          "A",
+          "A"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            9
+          ],
+          "22": [
+            11
+          ],
+          "23": [
+            12
+          ],
+          "24": [
+            14
+          ],
+          "25": [
+            16
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            9,
+            10,
+            11
+          ],
+          "22": [
+            11,
+            12
+          ],
+          "23": [
+            12,
+            13,
+            14
+          ],
+          "24": [
+            14,
+            15,
+            16
+          ],
+          "25": [
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+        "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+        "old_analysis_page_range": "9-16",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "D",
+          "D",
+          "A",
+          "B",
+          "B"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            19
+          ],
+          "27": [
+            20
+          ],
+          "28": [
+            22
+          ],
+          "29": [
+            24
+          ],
+          "30": [
+            25
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            19,
+            20
+          ],
+          "27": [
+            20,
+            21,
+            22
+          ],
+          "28": [
+            22,
+            23,
+            24
+          ],
+          "29": [
+            24,
+            25
+          ],
+          "30": [
+            25,
+            26,
+            27
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+        "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+        "old_analysis_page_range": "19-25",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "B",
+          "C",
+          "C",
+          "B",
+          "D"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            27
+          ],
+          "32": [
+            29
+          ],
+          "33": [
+            32
+          ],
+          "34": [
+            33
+          ],
+          "35": [
+            34
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            27,
+            28,
+            29
+          ],
+          "32": [
+            29,
+            30,
+            31,
+            32
+          ],
+          "33": [
+            32,
+            33
+          ],
+          "34": [
+            33,
+            34
+          ],
+          "35": [
+            34,
+            35,
+            36
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+        "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+        "old_analysis_page_range": "27-34",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "A",
+          "D",
+          "C",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            36
+          ],
+          "37": [
+            38
+          ],
+          "38": [
+            40
+          ],
+          "39": [
+            43
+          ],
+          "40": [
+            44
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            36,
+            37,
+            38
+          ],
+          "37": [
+            38,
+            39,
+            40
+          ],
+          "38": [
+            40,
+            41,
+            42,
+            43
+          ],
+          "39": [
+            43,
+            44
+          ],
+          "40": [
+            44,
+            45
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+        "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+        "old_analysis_page_range": "36-44",
+        "audit_confidence": "high"
+      }
+    },
+    "2015": {
+      "1": {
+        "answers": [
+          "D",
+          "C",
+          "B",
+          "A",
+          "C"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            12
+          ],
+          "22": [
+            14
+          ],
+          "23": [
+            16
+          ],
+          "24": [
+            19
+          ],
+          "25": [
+            20
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            12,
+            13,
+            14
+          ],
+          "22": [
+            14,
+            15,
+            16
+          ],
+          "23": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "24": [
+            19,
+            20
+          ],
+          "25": [
+            20,
+            21
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+        "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+        "old_analysis_page_range": "12-20",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "C",
+          "A",
+          "D",
+          "D",
+          "D"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            21
+          ],
+          "27": [
+            25
+          ],
+          "28": [
+            26
+          ],
+          "29": [
+            28
+          ],
+          "30": [
+            30
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "27": [
+            25,
+            26
+          ],
+          "28": [
+            26,
+            27,
+            28
+          ],
+          "29": [
+            28,
+            29,
+            30
+          ],
+          "30": [
+            30,
+            31,
+            32
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+        "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+        "old_analysis_page_range": "21-30",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "B",
+          "C",
+          "D",
+          "C",
+          "A"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            32
+          ],
+          "32": [
+            34
+          ],
+          "33": [
+            36
+          ],
+          "34": [
+            39
+          ],
+          "35": [
+            39
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            32,
+            33,
+            34
+          ],
+          "32": [
+            34,
+            35,
+            36
+          ],
+          "33": [
+            36,
+            37,
+            38,
+            39
+          ],
+          "34": [
+            39
+          ],
+          "35": [
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+        "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+        "old_analysis_page_range": "32-39",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            42
+          ],
+          "37": [
+            44
+          ],
+          "38": [
+            46
+          ],
+          "39": [
+            48
+          ],
+          "40": [
+            49
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            42,
+            43,
+            44
+          ],
+          "37": [
+            44,
+            45,
+            46
+          ],
+          "38": [
+            46,
+            47,
+            48
+          ],
+          "39": [
+            48,
+            49
+          ],
+          "40": [
+            49,
+            50
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+        "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+        "old_analysis_page_range": "42-49",
+        "audit_confidence": "high"
+      }
+    },
+    "2016": {
+      "1": {
+        "answers": [
+          "A",
+          "D",
+          "D",
+          "C",
+          "D"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            10
+          ],
+          "22": [
+            12
+          ],
+          "23": [
+            16
+          ],
+          "24": [
+            17
+          ],
+          "25": [
+            18
+          ]
+        },
+        "audit_pages_checked": {
+          "21": [
+            10,
+            11,
+            12
+          ],
+          "22": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "23": [
+            16,
+            17
+          ],
+          "24": [
+            17,
+            18
+          ],
+          "25": [
+            18,
+            19,
+            20
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+        "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+        "old_analysis_page_range": "10-18",
+        "audit_confidence": "high"
+      },
+      "2": {
+        "answers": [
+          "A",
+          "D",
+          "C",
+          "A",
+          "C"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            20
+          ],
+          "27": [
+            22
+          ],
+          "28": [
+            25
+          ],
+          "29": [
+            28
+          ],
+          "30": [
+            29
+          ]
+        },
+        "audit_pages_checked": {
+          "26": [
+            20,
+            21,
+            22
+          ],
+          "27": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "28": [
+            25,
+            26,
+            27,
+            28
+          ],
+          "29": [
+            28,
+            29
+          ],
+          "30": [
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text+visual_page_and_explicit_solution",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+        "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+        "old_analysis_page_range": "20-29",
+        "audit_confidence": "high"
+      },
+      "3": {
+        "answers": [
+          "B",
+          "C",
+          "D",
+          "A",
+          "B"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            32
+          ],
+          "32": [
+            34
+          ],
+          "33": [
+            37
+          ],
+          "34": [
+            39
+          ],
+          "35": [
+            40
+          ]
+        },
+        "audit_pages_checked": {
+          "31": [
+            32,
+            33,
+            34
+          ],
+          "32": [
+            34,
+            35,
+            36,
+            37
+          ],
+          "33": [
+            37,
+            38,
+            39
+          ],
+          "34": [
+            39,
+            40
+          ],
+          "35": [
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+        "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+        "old_analysis_page_range": "32-40",
+        "audit_confidence": "high"
+      },
+      "4": {
+        "answers": [
+          "A",
+          "B",
+          "B",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            44
+          ],
+          "37": [
+            47
+          ],
+          "38": [
+            49
+          ],
+          "39": [
+            50
+          ],
+          "40": [
+            51
+          ]
+        },
+        "audit_pages_checked": {
+          "36": [
+            44,
+            45,
+            46,
+            47
+          ],
+          "37": [
+            47,
+            48,
+            49
+          ],
+          "38": [
+            49,
+            50
+          ],
+          "39": [
+            50,
+            51
+          ],
+          "40": [
+            51,
+            52
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "explicit_solution_text",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+        "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+        "old_analysis_page_range": "44-51",
+        "audit_confidence": "high"
+      }
+    },
+    "2017": {
+      "1": {
+        "answers": [
+          "A",
+          "C",
+          "D",
+          "D",
+          "C"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            11
+          ],
+          "22": [
+            13
+          ],
+          "23": [
+            15
+          ],
+          "24": [
+            17
+          ],
+          "25": [
+            18
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+        "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+        "old_analysis_page_range": "11-18",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "B",
+          "A",
+          "B",
+          "A",
+          "D"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            20
+          ],
+          "27": [
+            22
+          ],
+          "28": [
+            24
+          ],
+          "29": [
+            27
+          ],
+          "30": [
+            28
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+        "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+        "old_analysis_page_range": "20-28",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "D",
+          "B",
+          "D",
+          "C",
+          "A"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            30
+          ],
+          "32": [
+            33
+          ],
+          "33": [
+            36
+          ],
+          "34": [
+            38
+          ],
+          "35": [
+            39
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+        "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+        "old_analysis_page_range": "30-39",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "C",
+          "C",
+          "A",
+          "B",
+          "D"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            41
+          ],
+          "37": [
+            44
+          ],
+          "38": [
+            45
+          ],
+          "39": [
+            47
+          ],
+          "40": [
+            49
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+        "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+        "old_analysis_page_range": "41-49",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2018": {
+      "1": {
+        "answers": [
+          "D",
+          "C",
+          "A",
+          "D",
+          "B"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            11
+          ],
+          "22": [
+            13
+          ],
+          "23": [
+            15
+          ],
+          "24": [
+            17
+          ],
+          "25": [
+            19
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+        "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+        "old_analysis_page_range": "11-19",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "D",
+          "A",
+          "B",
+          "C",
+          "A"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            21
+          ],
+          "27": [
+            22
+          ],
+          "28": [
+            24
+          ],
+          "29": [
+            28
+          ],
+          "30": [
+            29
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+        "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+        "old_analysis_page_range": "21-29",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "B",
+          "C",
+          "D",
+          "D",
+          "B"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            31
+          ],
+          "32": [
+            33
+          ],
+          "33": [
+            34
+          ],
+          "34": [
+            38
+          ],
+          "35": [
+            38
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+        "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+        "old_analysis_page_range": "31-38",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "B",
+          "A",
+          "A",
+          "C",
+          "D"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            41
+          ],
+          "37": [
+            43
+          ],
+          "38": [
+            45
+          ],
+          "39": [
+            48
+          ],
+          "40": [
+            48
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+        "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+        "old_analysis_page_range": "41-48",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2019": {
+      "1": {
+        "answers": [
+          "A",
+          "D",
+          "B",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            11
+          ],
+          "22": [
+            13
+          ],
+          "23": [
+            15
+          ],
+          "24": [
+            16
+          ],
+          "25": [
+            17
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+        "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+        "old_analysis_page_range": "11-17",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "D",
+          "A",
+          "A",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            19
+          ],
+          "27": [
+            21
+          ],
+          "28": [
+            23
+          ],
+          "29": [
+            25
+          ],
+          "30": [
+            26
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+        "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+        "old_analysis_page_range": "19-25",
+        "audit_confidence": "high",
+        "note": "Question 30's explicit answer determination continues on PDF page 26, one page beyond the corpus locator range."
+      },
+      "3": {
+        "answers": [
+          "C",
+          "D",
+          "B",
+          "A",
+          "C"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            28
+          ],
+          "32": [
+            30
+          ],
+          "33": [
+            32
+          ],
+          "34": [
+            34
+          ],
+          "35": [
+            36
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+        "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+        "old_analysis_page_range": "27-36",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "C",
+          "D",
+          "C",
+          "B",
+          "A"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            38
+          ],
+          "37": [
+            40
+          ],
+          "38": [
+            42
+          ],
+          "39": [
+            44
+          ],
+          "40": [
+            46
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+        "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+        "old_analysis_page_range": "38-46",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2020": {
+      "1": {
+        "answers": [
+          "C",
+          "B",
+          "D",
+          "B",
+          "C"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            10
+          ],
+          "22": [
+            12
+          ],
+          "23": [
+            14
+          ],
+          "24": [
+            15
+          ],
+          "25": [
+            16
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_page_image_vision_ocr_with_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+        "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+        "old_analysis_page_range": "10-16",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "D",
+          "A",
+          "C",
+          "A",
+          "D"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            19
+          ],
+          "27": [
+            20
+          ],
+          "28": [
+            21
+          ],
+          "29": [
+            24
+          ],
+          "30": [
+            25
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_page_image_vision_ocr_with_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+        "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+        "old_analysis_page_range": "19-25",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "A",
+          "C",
+          "D",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            27
+          ],
+          "32": [
+            29
+          ],
+          "33": [
+            30
+          ],
+          "34": [
+            32
+          ],
+          "35": [
+            33
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_page_image_vision_ocr_with_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+        "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+        "old_analysis_page_range": "27-33",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "C",
+          "A",
+          "B",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            35
+          ],
+          "37": [
+            37
+          ],
+          "38": [
+            39
+          ],
+          "39": [
+            41
+          ],
+          "40": [
+            42
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_page_image_vision_ocr_with_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+        "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+        "old_analysis_page_range": "35-42",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2021": {
+      "1": {
+        "answers": [
+          "C",
+          "B",
+          "C",
+          "D",
+          "D"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            10
+          ],
+          "22": [
+            12
+          ],
+          "23": [
+            14
+          ],
+          "24": [
+            16
+          ],
+          "25": [
+            16
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+        "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+        "old_analysis_page_range": "10-16",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "B",
+          "D",
+          "C",
+          "C",
+          "A"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            19
+          ],
+          "27": [
+            21
+          ],
+          "28": [
+            22
+          ],
+          "29": [
+            25
+          ],
+          "30": [
+            25
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+        "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+        "old_analysis_page_range": "19-25",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            27
+          ],
+          "32": [
+            29
+          ],
+          "33": [
+            32
+          ],
+          "34": [
+            34
+          ],
+          "35": [
+            34
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+        "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+        "old_analysis_page_range": "27-34",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "C",
+          "B",
+          "B",
+          "D",
+          "A"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            36
+          ],
+          "37": [
+            38
+          ],
+          "38": [
+            39
+          ],
+          "39": [
+            41
+          ],
+          "40": [
+            43
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+        "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+        "old_analysis_page_range": "36-43",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2022": {
+      "1": {
+        "answers": [
+          "A",
+          "C",
+          "D",
+          "D",
+          "B"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            17
+          ],
+          "22": [
+            19
+          ],
+          "23": [
+            21
+          ],
+          "24": [
+            23
+          ],
+          "25": [
+            24
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2022年考研英语一真题解析.pdf",
+        "source_sha256": "b57a9187dad60b2a67eb52be153a64df907308659c80fb754badfe40a06b3d6a",
+        "old_analysis_page_range": "16-24",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            26
+          ],
+          "27": [
+            28
+          ],
+          "28": [
+            30
+          ],
+          "29": [
+            31
+          ],
+          "30": [
+            33
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2022年考研英语一真题解析.pdf",
+        "source_sha256": "b57a9187dad60b2a67eb52be153a64df907308659c80fb754badfe40a06b3d6a",
+        "old_analysis_page_range": "25-33",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "C"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            35
+          ],
+          "32": [
+            37
+          ],
+          "33": [
+            39
+          ],
+          "34": [
+            40
+          ],
+          "35": [
+            42
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2022年考研英语一真题解析.pdf",
+        "source_sha256": "b57a9187dad60b2a67eb52be153a64df907308659c80fb754badfe40a06b3d6a",
+        "old_analysis_page_range": "34-42",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "D",
+          "A",
+          "D",
+          "B",
+          "C"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            45
+          ],
+          "37": [
+            47
+          ],
+          "38": [
+            48
+          ],
+          "39": [
+            50
+          ],
+          "40": [
+            51
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2022年考研英语一真题解析.pdf",
+        "source_sha256": "b57a9187dad60b2a67eb52be153a64df907308659c80fb754badfe40a06b3d6a",
+        "old_analysis_page_range": "43-51",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2023": {
+      "1": {
+        "answers": [
+          "C",
+          "B",
+          "A",
+          "C",
+          "D"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            10
+          ],
+          "22": [
+            10
+          ],
+          "23": [
+            10
+          ],
+          "24": [
+            11
+          ],
+          "25": [
+            12
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+        "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+        "old_analysis_page_range": "10-12",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "A",
+          "D",
+          "B",
+          "C",
+          "D"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            14
+          ],
+          "27": [
+            15
+          ],
+          "28": [
+            15
+          ],
+          "29": [
+            15
+          ],
+          "30": [
+            16
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+        "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+        "old_analysis_page_range": "14-16",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "A",
+          "C",
+          "A",
+          "A",
+          "D"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            18
+          ],
+          "32": [
+            18
+          ],
+          "33": [
+            19
+          ],
+          "34": [
+            20
+          ],
+          "35": [
+            20
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+        "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+        "old_analysis_page_range": "18-20",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "B",
+          "C",
+          "A",
+          "B",
+          "D"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            22
+          ],
+          "37": [
+            23
+          ],
+          "38": [
+            23
+          ],
+          "39": [
+            24
+          ],
+          "40": [
+            24
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "embedded_text_layer_explicit_answer_determinations",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+        "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+        "old_analysis_page_range": "22-24",
+        "audit_confidence": "high",
+        "note": null
+      }
+    },
+    "2024": {
+      "1": {
+        "answers": [
+          "D",
+          "D",
+          "A",
+          "B",
+          "A"
+        ],
+        "question_numbers": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "evidence_pages": {
+          "21": [
+            11
+          ],
+          "22": [
+            12
+          ],
+          "23": [
+            13
+          ],
+          "24": [
+            14
+          ],
+          "25": [
+            14
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+        "source_sha256": "4e90c222818ba0db7d4011289044d1fe393c2e597027f62c0317a9e52746d96f",
+        "old_analysis_page_range": "10-14",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "2": {
+        "answers": [
+          "A",
+          "B",
+          "D",
+          "C",
+          "B"
+        ],
+        "question_numbers": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "evidence_pages": {
+          "26": [
+            16
+          ],
+          "27": [
+            17
+          ],
+          "28": [
+            18
+          ],
+          "29": [
+            18
+          ],
+          "30": [
+            19
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+        "source_sha256": "4e90c222818ba0db7d4011289044d1fe393c2e597027f62c0317a9e52746d96f",
+        "old_analysis_page_range": "15-19",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "3": {
+        "answers": [
+          "B",
+          "C",
+          "C",
+          "D",
+          "A"
+        ],
+        "question_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "evidence_pages": {
+          "31": [
+            21
+          ],
+          "32": [
+            22
+          ],
+          "33": [
+            23
+          ],
+          "34": [
+            24
+          ],
+          "35": [
+            24
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+        "source_sha256": "4e90c222818ba0db7d4011289044d1fe393c2e597027f62c0317a9e52746d96f",
+        "old_analysis_page_range": "20-24",
+        "audit_confidence": "high",
+        "note": null
+      },
+      "4": {
+        "answers": [
+          "A",
+          "B",
+          "A",
+          "D",
+          "B"
+        ],
+        "question_numbers": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "evidence_pages": {
+          "36": [
+            26
+          ],
+          "37": [
+            27
+          ],
+          "38": [
+            28
+          ],
+          "39": [
+            29
+          ],
+          "40": [
+            30
+          ]
+        },
+        "verification_status": "source_verified_high",
+        "verification_method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+        "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+        "source_sha256": "4e90c222818ba0db7d4011289044d1fe393c2e597027f62c0317a9e52746d96f",
+        "old_analysis_page_range": "25-30",
+        "audit_confidence": "high",
+        "note": null
+      }
+    }
+  },
+  "input_audits": {
+    "2010_2016": "raw/protected/exam-reading-analysis/audits/answer_keys_2010_2016.json",
+    "2017_2024": "raw/protected/exam-reading-analysis/audits/answer_keys_2017_2024.json"
+  }
+}

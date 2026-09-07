@@ -1,0 +1,558 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P014",
+  "year": 2021,
+  "pdf_page": 14,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.016127720971240822,
+      "text": "［精准定位」第三段①句指出事实：过去一年，通勤者遭遇了严重的铁路罢工活动。②句中，作者提",
+      "width": 0.8529411418819244,
+      "x": 0.10084036195819746,
+      "y": 0.9300932090677423
+    },
+    {
+      "confidence": 1,
+      "height": 0.017546372470779503,
+      "text": "出，乘客既然支付了高昂的乘车费用，就理应能够要求基本水平的服务。联系两句可知，罢工导致铁路",
+      "width": 0.8886554695967305,
+      "x": 0.06512605026465987,
+      "y": 0.9098837209625374
+    },
+    {
+      "confidence": 1,
+      "height": 0.01628642393333135,
+      "text": "停摆，火车运营商未能提供基本的服务，C正确。",
+      "width": 0.41176468512915465,
+      "x": 0.06302522389200522,
+      "y": 0.8921438083416013
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016056110950982916,
+      "text": "［命题解密］C项中的 failed to 明确 should be able to 传达的“实际未能”这层否定含义。",
+      "width": 0.7542016648603083,
+      "x": 0.1008403515824508,
+      "y": 0.8720930235656681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016309648633161977,
+      "text": "A 源自④句 should receive compensation，但这是作者的看法，实际上运营商并未进行补偿，选项与",
+      "width": 0.846638644591462,
+      "x": 0.10504202694563215,
+      "y": 0.8531976747865982
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669478,
+      "text": "事实相悖。B根据③句 the unions 以及常识“罢工发生后，企业将与工会协商以解决矛盾”主观臆测而",
+      "width": 0.8907563020268846,
+      "x": 0.06302521923865843,
+      "y": 0.832848837503235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016272876297586225,
+      "text": "来，实际原文并未提及。D源自①句 the worst rail strikes、④句 have been worst affected，但张冠李戴：原",
+      "width": 0.8907563020268846,
+      "x": 0.06302521775406462,
+      "y": 0.8139534887521991
+    },
+    {
+      "confidence": 1,
+      "height": 0.01610643155724012,
+      "text": "文强调罢工给“通勤者”造成严重影响，而非给“火车运营商”带来巨大损失。",
+      "width": 0.6470587993173471,
+      "x": 0.06302522866065412,
+      "y": 0.7949400797608128
+    },
+    {
+      "confidence": 1,
+      "height": 0.01611417270055937,
+      "text": "［技巧总结］本题考查事实细节，难点在于本段中并未直接描述“火车运营商”的行为，而是利用两重",
+      "width": 0.8529411418819244,
+      "x": 0.10084036195819746,
+      "y": 0.7761627910656681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014811645970046139,
+      "text": "“让步一转折”逻辑（It is all very well train operators trumpeting. .. but passengers should be able to",
+      "width": 0.8928571344570387,
+      "x": 0.06302521940488393,
+      "y": 0.7569906790457482
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "expect. .. 以及⋯..",
+      "width": 0.1491596611478655,
+      "x": 0.06512605426500274,
+      "y": 0.7383488681367749
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016199330991498617,
+      "text": "However,there is a strong case that...）表明作者观点（虽然••••但理应•••⋯）。考生",
+      "width": 0.7331932817580383,
+      "x": 0.21848739807406192,
+      "y": 0.7354651164411525
+    },
+    {
+      "confidence": 1,
+      "height": 0.016301907489842504,
+      "text": "需重点关注转折之后的内容，并从“理应如何”中反推“实则怎样”，即运营商未能提供基本的服务且并未",
+      "width": 0.8907563020268846,
+      "x": 0.06302521775406462,
+      "y": 0.717709720182377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01604062802940809,
+      "text": "补偿乘客的损失，C正确。其余选项或偏离主线，指向运营商遭受损失（D）或改善与工会的关系（B），或",
+      "width": 0.8907563020268846,
+      "x": 0.06302520142353263,
+      "y": 0.6976744188563657
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739006,
+      "text": "将“理应情形”当作“事实信息”，描述运营商的补救措施（A），均排除。",
+      "width": 0.5903361473009996,
+      "x": 0.063025209521769,
+      "y": 0.6770972037311351
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01619739507073259,
+      "text": "① The Government has pledged\" to change the law to",
+      "width": 0.45168064830390475,
+      "x": 0.1281512668406948,
+      "y": 0.6451398138090936
+    },
+    {
+      "confidence": 1,
+      "height": 0.016253522169415446,
+      "text": "政府已经承诺修改法律，推行最低",
+      "width": 0.3067226814167118,
+      "x": 0.6428571501529886,
+      "y": 0.6378162451769804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "introduce® a minimum® service requirement so that, even",
+      "width": 0.5168067182419617,
+      "x": 0.06302520584750669,
+      "y": 0.627829560542743
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046606,
+      "text": "服务要求，以保证即使发生罢工，铁路服",
+      "width": 0.3466386445914619,
+      "x": 0.6029411862389328,
+      "y": 0.6191744339833657
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "when strikes occur, services can continue to operate. ② This",
+      "width": 0.5147058858118077,
+      "x": 0.06512605339136504,
+      "y": 0.607558139843877
+    },
+    {
+      "confidence": 1,
+      "height": 0.016290294504991087,
+      "text": "务也仍可继续运行。除此之外，还应实",
+      "width": 0.34453781216130785,
+      "x": 0.6029411780580014,
+      "y": 0.5985352864618021
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014649071801359659,
+      "text": "should form part of a wider package® of measures to address®",
+      "width": 0.5105042209514993,
+      "x": 0.06512603653055304,
+      "y": 0.5885486021364308
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046606,
+      "text": "施更广泛的一揽子措施，以解决英国铁",
+      "width": 0.346638644591462,
+      "x": 0.6029411853723361,
+      "y": 0.5798934756158134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01623997453367032,
+      "text": "the long-running®problems on Britain's railways.",
+      "width": 0.4369747624920972,
+      "x": 0.06512607141501557,
+      "y": 0.5683139537594665
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01540576856082354,
+      "text": "3 Yes，",
+      "width": 0.06761133418147502,
+      "x": 0.5124128211444083,
+      "y": 0.5678785113749755
+    },
+    {
+      "confidence": 1,
+      "height": 0.016305778061502352,
+      "text": "路长期存在的痼疾。确实，这需要更多",
+      "width": 0.34453781216130785,
+      "x": 0.6029411780580014,
+      "y": 0.5595930234178967
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "more investment is needed, but passengers will not be willing",
+      "width": 0.5147058858118075,
+      "x": 0.06512604225691153,
+      "y": 0.5492676432140593
+    },
+    {
+      "confidence": 1,
+      "height": 0.016073529793324104,
+      "text": "投资，但如果还必须忍受拥挤、不准点，",
+      "width": 0.3466386445914619,
+      "x": 0.6029411862389328,
+      "y": 0.5406125164411533
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014749713013873733,
+      "text": "to pay more indefinitely® if they must also endure cramped®",
+      "width": 0.5021008324301541,
+      "x": 0.0651260593941666,
+      "y": 0.5305232563141475
+    },
+    {
+      "confidence": 1,
+      "height": 0.01760056364869622,
+      "text": "且常因时刻表变动、养护计划执行不力",
+      "width": 0.34453781216130785,
+      "x": 0.6029411780580016,
+      "y": 0.5203488371980025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.022861051495954632,
+      "text": "unreliable services, punctuated® by regular chaos® when",
+      "width": 0.5151196665387162,
+      "x": 0.0648739605595606,
+      "y": 0.5063092604312999
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014778744206130234,
+      "text": "等混乱情形而中断的铁路服务，乘客将",
+      "width": 0.3466386445914619,
+      "x": 0.6029411862389328,
+      "y": 0.5026631159477455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014712940678298092,
+      "text": "timetables are changed, or planned maintenance\" is managed",
+      "width": 0.5147058858118075,
+      "x": 0.06512605383779359,
+      "y": 0.4912790702385662
+    },
+    {
+      "confidence": 1,
+      "height": 0.016110302128899745,
+      "text": "不会一直心甘情愿接受提价。国有化威",
+      "width": 0.346638644591462,
+      "x": 0.602941184794605,
+      "y": 0.48255813991498975
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014800565696746815,
+      "text": "incompetently®",
+      "width": 0.1261141415046589,
+      "x": 0.06299335151742186,
+      "y": 0.4722508801316926
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": ".④ The threat of nationalisation® may have",
+      "width": 0.39285713445703874,
+      "x": 0.18697479598576625,
+      "y": 0.47238372145949636
+    },
+    {
+      "confidence": 1,
+      "height": 0.01481551717664209,
+      "text": "胁可能目前已暂时解除，但若不立即处",
+      "width": 0.3466386445914619,
+      "x": 0.6029411862389328,
+      "y": 0.46338215693072193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014676167707786014,
+      "text": "been seen off for now, but it will return with a vengeance if",
+      "width": 0.5168067182419617,
+      "x": 0.06512605614512552,
+      "y": 0.4520348843470934
+    },
+    {
+      "confidence": 1,
+      "height": 0.016073529793324104,
+      "text": "理乘客正当的愤怒情绪，它将会更加猛",
+      "width": 0.34453781216130785,
+      "x": 0.6029411789193461,
+      "y": 0.44331395362380754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "the justified anger of passengers is not addressed in",
+      "width": 0.46008403682524995,
+      "x": 0.06512605341510609,
+      "y": 0.43313953476489997
+    },
+    {
+      "confidence": 1,
+      "height": 0.012276252639912721,
+      "text": "short",
+      "width": 0.04655249270400563,
+      "x": 0.5334464423603319,
+      "y": 0.434268850892193
+    },
+    {
+      "confidence": 1,
+      "height": 0.016381416117621228,
+      "text": "烈地卷土重来。",
+      "width": 0.13245139002570305,
+      "x": 0.6028919528242681,
+      "y": 0.4242220827964368
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "order. ［388 words］",
+      "width": 0.16806722652016348,
+      "x": 0.06512605340658484,
+      "y": 0.41411451418692624
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014701328328382779,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22268907550672118,
+      "x": 0.3781512627928579,
+      "y": 0.37483355506677196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014678102993615938,
+      "text": "①pledge ［pleds］v. 保证给予；正式承诺",
+      "width": 0.31302520810753853,
+      "x": 0.06302520894518036,
+      "y": 0.34883720986792655
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014678102993615938,
+      "text": "10 chaos ［'keips］n. 混乱；混杂",
+      "width": 0.2394957937486828,
+      "x": 0.5315126060143142,
+      "y": 0.34883720986792655
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100348,
+      "text": "②introduce ［untra'djuss］v. 推行；实施；采用",
+      "width": 0.34663864459146193,
+      "x": 0.06302521890700007,
+      "y": 0.3299418606673452
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100237,
+      "text": "10maintenance ［'meintonons］n. 维护；保养",
+      "width": 0.33613445304032696,
+      "x": 0.5315126020512652,
+      "y": 0.3299418607908917
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01478455006361945,
+      "text": "③minimum ［'minimom］a.最低的；最小的",
+      "width": 0.3277310939193461,
+      "x": 0.06302520524620939,
+      "y": 0.3122503332007214
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014784550698555887,
+      "text": "1 incompetently ［in'kompitontiad.无能力地；不能胜任地",
+      "width": 0.42016804425013543,
+      "x": 0.5315126123287139,
+      "y": 0.31225033258031987
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011984021304926817,
+      "text": "④package ［'peekids］n. 一套，一揽子",
+      "width": 0.28571426891407753,
+      "x": 0.06512605524884368,
+      "y": 0.2962716377140385
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014651007722125686,
+      "text": "I3 nationalisation ［inee/nolai'zei/n］ n. 国有化",
+      "width": 0.346638644591462,
+      "x": 0.5315126126832606,
+      "y": 0.2936046514013567
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014782615412726074,
+      "text": "⑤address ［'dres］v.设法解决；处理",
+      "width": 0.2857142689140776,
+      "x": 0.06512606096312924,
+      "y": 0.2761627909362405
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907124403758,
+      "text": "S",
+      "width": 0.012605041437755427,
+      "x": 0.5021008405416265,
+      "y": 0.2848837209726819
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907124403758,
+      "text": "S",
+      "width": 0.012605041437755427,
+      "x": 0.5021008405556322,
+      "y": 0.27180232570136387
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01568483004716048,
+      "text": "•经典搭配",
+      "width": 0.10745780224515289,
+      "x": 0.533455973180839,
+      "y": 0.27558781768372964
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100237,
+      "text": "⑥long-running ［'loy 'rAn］a. 持续时间长的",
+      "width": 0.3529411712822887,
+      "x": 0.06302520826641882,
+      "y": 0.25872093054379863
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014811645970046139,
+      "text": "①see off 赶走，驱逐",
+      "width": 0.15756302026884628,
+      "x": 0.5336134498183078,
+      "y": 0.25699067930010866
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013348480356676129,
+      "text": "⑦indefinitely ［in'defuatli］ad. 无限期地",
+      "width": 0.3193277347983652,
+      "x": 0.06302520423947293,
+      "y": 0.2410119842325864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014680038914382076,
+      "text": "② with a vengeance 猛烈地；程度更深地",
+      "width": 0.3067226814167119,
+      "x": 0.5357142919807196,
+      "y": 0.23968042596333095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "⑧cramped ［krempt］a. 狭窄的；狭小的",
+      "width": 0.3109243756773844,
+      "x": 0.0630252078545851,
+      "y": 0.22237017286177996
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014755519506299608,
+      "text": "③in short order 立即；毫不耽搁地",
+      "width": 0.26680671824196167,
+      "x": 0.5336134484630527,
+      "y": 0.22093023279670554
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014765196570384997,
+      "text": "⑨ punctuate ［'pagkt/uert］ v. 不时打断",
+      "width": 0.29411762803505836,
+      "x": 0.06512605748107028,
+      "y": 0.2049418607763568
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014784550063619561,
+      "text": "Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must",
+      "width": 0.8550419743120785,
+      "x": 0.10504204874206982,
+      "y": 0.17296511673565906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016141268606985948,
+      "text": "also endure cramped, unreliable services,punctuated by regular chaos when timetables are changed, or",
+      "width": 0.8991596317475012,
+      "x": 0.06092437456742606,
+      "y": 0.15246338220597977
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696328,
+      "text": "planned maintenance is managed incompetently.",
+      "width": 0.3928571344570388,
+      "x": 0.06512605395495406,
+      "y": 0.13648468699182636
+    },
+    {
+      "confidence": 1,
+      "height": 0.01479616304847109,
+      "text": "14",
+      "width": 0.023109243095265644,
+      "x": 0.07773109297442601,
+      "y": 0.053779069969670856
+    }
+  ],
+  "vision_ocr_text": "［精准定位」第三段①句指出事实：过去一年，通勤者遭遇了严重的铁路罢工活动。②句中，作者提\n出，乘客既然支付了高昂的乘车费用，就理应能够要求基本水平的服务。联系两句可知，罢工导致铁路\n停摆，火车运营商未能提供基本的服务，C正确。\n［命题解密］C项中的 failed to 明确 should be able to 传达的“实际未能”这层否定含义。\nA 源自④句 should receive compensation，但这是作者的看法，实际上运营商并未进行补偿，选项与\n事实相悖。B根据③句 the unions 以及常识“罢工发生后，企业将与工会协商以解决矛盾”主观臆测而\n来，实际原文并未提及。D源自①句 the worst rail strikes、④句 have been worst affected，但张冠李戴：原\n文强调罢工给“通勤者”造成严重影响，而非给“火车运营商”带来巨大损失。\n［技巧总结］本题考查事实细节，难点在于本段中并未直接描述“火车运营商”的行为，而是利用两重\n“让步一转折”逻辑（It is all very well train operators trumpeting. .. but passengers should be able to\nexpect. .. 以及⋯..\nHowever,there is a strong case that...）表明作者观点（虽然••••但理应•••⋯）。考生\n需重点关注转折之后的内容，并从“理应如何”中反推“实则怎样”，即运营商未能提供基本的服务且并未\n补偿乘客的损失，C正确。其余选项或偏离主线，指向运营商遭受损失（D）或改善与工会的关系（B），或\n将“理应情形”当作“事实信息”，描述运营商的补救措施（A），均排除。\n① The Government has pledged\" to change the law to\n政府已经承诺修改法律，推行最低\nintroduce® a minimum® service requirement so that, even\n服务要求，以保证即使发生罢工，铁路服\nwhen strikes occur, services can continue to operate. ② This\n务也仍可继续运行。除此之外，还应实\nshould form part of a wider package® of measures to address®\n施更广泛的一揽子措施，以解决英国铁\nthe long-running®problems on Britain's railways.\n3 Yes，\n路长期存在的痼疾。确实，这需要更多\nmore investment is needed, but passengers will not be willing\n投资，但如果还必须忍受拥挤、不准点，\nto pay more indefinitely® if they must also endure cramped®\n且常因时刻表变动、养护计划执行不力\nunreliable services, punctuated® by regular chaos® when\n等混乱情形而中断的铁路服务，乘客将\ntimetables are changed, or planned maintenance\" is managed\n不会一直心甘情愿接受提价。国有化威\nincompetently®\n.④ The threat of nationalisation® may have\n胁可能目前已暂时解除，但若不立即处\nbeen seen off for now, but it will return with a vengeance if\n理乘客正当的愤怒情绪，它将会更加猛\nthe justified anger of passengers is not addressed in\nshort\n烈地卷土重来。\norder. ［388 words］\n•词汇注释与难句分析•\n①pledge ［pleds］v. 保证给予；正式承诺\n10 chaos ［'keips］n. 混乱；混杂\n②introduce ［untra'djuss］v. 推行；实施；采用\n10maintenance ［'meintonons］n. 维护；保养\n③minimum ［'minimom］a.最低的；最小的\n1 incompetently ［in'kompitontiad.无能力地；不能胜任地\n④package ［'peekids］n. 一套，一揽子\nI3 nationalisation ［inee/nolai'zei/n］ n. 国有化\n⑤address ［'dres］v.设法解决；处理\nS\nS\n•经典搭配\n⑥long-running ［'loy 'rAn］a. 持续时间长的\n①see off 赶走，驱逐\n⑦indefinitely ［in'defuatli］ad. 无限期地\n② with a vengeance 猛烈地；程度更深地\n⑧cramped ［krempt］a. 狭窄的；狭小的\n③in short order 立即；毫不耽搁地\n⑨ punctuate ［'pagkt/uert］ v. 不时打断\nYes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must\nalso endure cramped, unreliable services,punctuated by regular chaos when timetables are changed, or\nplanned maintenance is managed incompetently.\n14",
+  "pdf_text_layer": "［精准定位］第三段①句指出事实：过去一年，通勤者遭遇了严重的铁路罢工活动。②句中，作者提\n出，乘客既然支付了高昂的乘车费用，就理应能够要求基本水平的服务。联系两句可知，罢工导致铁路\n停摆，火车运营商未能提供基本的服务，C正确。\n      ［命题解密］C项中的failed to明确should be able to传达的\"实际未能\"这层否定含义。\n      A源自④句should receive compensation,但这是作者的看法，实际上运营商并未进行补偿，选项与\n事实相悖。B根据③句the unions以及常识“罢工发生后，企业将与工会协商以解决矛盾”主观臆测而\n来，实际原文并未提及。D源自①句the worst rail strikes、④句have been worst affected,但张冠李戴：原\n文强调罢工给“通勤者”造成严重影响，而非给“火车运营商”带来巨大损失。\n      ［技巧总结］本题考査事实细节，难点在于本段中并未直接描述“火车运营商”的行为，而是利用两重\n\"让步一转折''逻辑（It is all very well train operators trumpeting. . . but passengers should be able to\nexpect...以及...However, there is a strong case that...）表明作者观点（虽然                         但理应          ）。考生\n需重点关注转折之后的内容，并从“理应如何”中反推“实则怎样”，即运营商未能提供基本的服务且并未\n补偿乘客的损失，C正确。其余选项或偏离主线，指向运营商遭受损失（D）或改善与工会的关系（B）,或\n将“理应情形”当作“事实信息”，描述运营商的补救措施（A）,均排除。\n\n      IV OThe Government has pledged 1 to change the law to\n                                                                       政府已经承诺修改法律，推行最低\nintroduce® a minimum® service requirement so that, even\n                                                                  服务要求，以保证即使发生罢工，铁路服\nwhen strikes occur, services can continue to operate. ❷This\n                                                                   务也仍可继续运行。除此之外，还应实\nshould form part of a wider package① of measures to address\"\n                                                                   施更广泛的一揽子措施，以解决英国铁\nthe long-running*   problems on Britain's railways. ❸ Yes,\n                                                                  路长期存在的痼疾。确实，这需要更多\nmore investment is needed, but passengers will not be willing\n                                                                  投资，但如果还必须忍受拥挤、不准点，\nto pay more indefinitely 5 if they must also endure crampedb ,\n                                                                   且常因时刻表变动、养护计划执行不力\nunreliable services, punctuated?     by regular chaos® when\n                                                                   等混乱情形而中断的铁路服务，乘客将\ntimetables are changed, or planned maintenance 1 is managed\n                                                                   不会一直心甘情愿接受提价。国有化威\nincompetently®. 0 The threat of nationalisation⑬ may have\n                                                                   胁可能目前已暂时解除\"但若不立即处\nbeen seen off for now, but it will return with a vengeance if\n                                                                   理乘客正当的愤怒情绪，它将会更加猛\nthe justified anger of passengers is not addressed in short\n                                                                   烈地卷土重来。\norder. [388 words]\n\n                                       •词汇注释与难句分析・］£\n\n① pledge [pled3] v.保证给予；正式承诺                          》⑩chaos ['keiDs]几混乱；混杂\n② introduce [iintra'djuis] v.推行；实施；采用                 / ⑪maintenance ['meintanans] n.维护；保养\n③ minimum ['minimam] a.最低的；最小的                        j ⑫incompetently [in'kompitantli] ad.无能力地;不能胜任地\n④ package ['peekid3]几 一套；一揽子                          $ ⑬nationalisation Einsejnalai'zeijn] n.国有化\n⑤ address [a'dres] v.设法解决；处理                          I •经典搭配\n(6)long-running ['1d0 'rAniO] a.持续时间长的                I ①see off赶走，驱逐\n⑦ indefinitely [in'definotli] ad.无限期地                 I ②with a vengeance猛烈地；程度更深地\n⑧ cramped [kraempt] a.狭窄的；狭小的                         $ ③in short order立即；毫不耽搁地\n⑨ punctuate ['pAgktfueit] v.不时打断\n\n      Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must\nalso endure cramped, unreliable services, punctuated by regular chaos when timetables are changed, or\nplanned maintenance is managed incompetently.\n\n\n\n\n 14",
+  "quality": {
+    "vision_line_count": 67,
+    "vision_character_count": 2456,
+    "pdf_text_character_count": 3557,
+    "nonempty": true
+  }
+}

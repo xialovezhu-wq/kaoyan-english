@@ -1,0 +1,398 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P038",
+  "year": 2017,
+  "pdf_page": 38,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.024174540454804605,
+      "text": "，语篇分析•泌",
+      "width": 0.1595166208183333,
+      "x": 0.4202416882630212,
+      "y": 0.9137848227308446
+    },
+    {
+      "confidence": 1,
+      "height": 0.01636125654450271,
+      "text": "第七段指出解决办法：政策制定者勿一味忧心GDP，应着力提升社会福利。关键词为：refocus",
+      "width": 0.8407642955305927,
+      "x": 0.09766456225593496,
+      "y": 0.8893979057008815
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378180758491176,
+      "text": "efforts on improving well-being.",
+      "width": 0.265392762980999,
+      "x": 0.059447995499946255,
+      "y": 0.8720930236658797
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017746255659932264,
+      "text": "①句回应前文所示当前情形（“尚未走出全球危机”及“脱欧造成英国经济下滑”），指出其可能造成",
+      "width": 0.8450106152157026,
+      "x": 0.0912951064579663,
+      "y": 0.851439790292829
+    },
+    {
+      "confidence": 1,
+      "height": 0.020462026146694012,
+      "text": "的巨大打击：社会整体服务水平下降、从而导致民众福祉及发展受挫。句子以因果关联词 lead to、",
+      "width": 0.883382764418768,
+      "x": 0.057244829768318246,
+      "y": 0.8316188663731143
+    },
+    {
+      "confidence": 1,
+      "height": 0.017708206051931352,
+      "text": "depend on 搭建经济受挫、服务水平降低、民生福祉难以提升三者间锁链式因果关联。注：句中两处",
+      "width": 0.8768577210989783,
+      "x": 0.059448007842230303,
+      "y": 0.8154069774847388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034031413612593,
+      "text": "growth 同词不同义：前者针对“世界/国家（the world/UK）”整体而言，指“［经济的］增长，发展”；后者与",
+      "width": 0.8768577210989783,
+      "x": 0.059447989892832294,
+      "y": 0.7964659686225228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017685376536783814,
+      "text": "well-being 相提并论，针对“民众/个人（we,Our）”而言，指“个人成长和发展”。",
+      "width": 0.6560509647055748,
+      "x": 0.05944798656971771,
+      "y": 0.7761627912202038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062853,
+      "text": "②句转而指出可行性解决办法：政策制定者重新聚焦福祉民生，不再唯GDP 论。本句主干以",
+      "width": 0.8386411940390476,
+      "x": 0.09766453399604602,
+      "y": 0.757198953140745
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01636125654450271,
+      "text": "policymaker...could avoid the forecasted...回应①句 could lead to a decline，实现句间衔接的同时传递",
+      "width": 0.8789808809415333,
+      "x": 0.0594479993912289,
+      "y": 0.7395287957717289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317295,
+      "text": "“建议式解决办法”（其中 the forecasted doom 回指①句内容；and may even see progress 则以 and 蕴含的",
+      "width": 0.8789808809415331,
+      "x": 0.05732483736362845,
+      "y": 0.7209302323984577
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "递进之意以及 even 蕴藏的“意外之喜”正确做法带来的更大好处：经济甚至还有可能有所提振）。who引",
+      "width": 0.8768577210989783,
+      "x": 0.05944800596855742,
+      "y": 0.7020348836484576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016026421991318318,
+      "text": "导的定语从句以取舍结构 rather than 明示政策制定者应该采取的正确做法“重新聚焦于提高民生福祉”",
+      "width": 0.8811040407840882,
+      "x": 0.059447988164219034,
+      "y": 0.6845549736625497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "及应该摒弃的错误做法“仅仅忧心于 GDP 数值”，从而明确全文核心思想“政策制定者应改变关注重心、",
+      "width": 0.8811040407840882,
+      "x": 0.059447970796915675,
+      "y": 0.6642441858286902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017753866330491253,
+      "text": "不应盲目追求 GDP增长，而应努力改善民生、将经济收益回馈给人民”",
+      "width": 0.596602955922114,
+      "x": 0.059447993058051235,
+      "y": 0.6438953485611878
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "【深层解读】末两段与文首两段实现首尾圆合：首两段概述唯GDP 论的严重缺陷及造成的不良影",
+      "width": 0.8428874553731477,
+      "x": 0.09554141874654701,
+      "y": 0.624999999956597
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "响，末两段具体明确缺陷并提出解决方案。",
+      "width": 0.35881103749029036,
+      "x": 0.05944798742966012,
+      "y": 0.60602094239146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018994277684476257,
+      "text": "•真题精解",
+      "width": 0.10191082635299659,
+      "x": 0.4203821666890361,
+      "y": 0.5798429318333693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139456504298,
+      "text": "34. In the last two paragraphs, the author suggests that",
+      "width": 0.46284499451033706,
+      "x": 0.0700637100342863,
+      "y": 0.5494186051157344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01636125654450271,
+      "text": "34.最后两段中，作者暗示_",
+      "width": 0.2356687877647735,
+      "x": 0.619957541122921,
+      "y": 0.5477748692876772
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00872092971002858,
+      "text": "o",
+      "width": 0.014861994901989029,
+      "x": 0.9044585993996778,
+      "y": 0.5494186050093268
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013393400227212249,
+      "text": "［A］ the UK is preparing for an economic boom",
+      "width": 0.3991507243927761,
+      "x": 0.07006369863163756,
+      "y": 0.5232558142908796
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "［A］英国正 经济腾飞做准备",
+      "width": 0.2611465016468989,
+      "x": 0.6199575321277184,
+      "y": 0.5215968584499715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013302081542489352,
+      "text": "［B］ high GDP foreshadows an economic decline",
+      "width": 0.401273884235331,
+      "x": 0.07006369140144286,
+      "y": 0.4954188481346542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01612330980949994,
+      "text": "［B］高 GDP 值是经济下滑的预兆",
+      "width": 0.2869040086210116,
+      "x": 0.6198257380100447,
+      "y": 0.4941298876887754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014971538363951042,
+      "text": "［C］ it is essential to consider factors beyond GDP",
+      "width": 0.42054620162934697,
+      "x": 0.06998088628733809,
+      "y": 0.467705649163462
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01462620278303528,
+      "text": "［C］ 考虑 GDP 以外的因素极重要",
+      "width": 0.30785560972603965,
+      "x": 0.619957548020915,
+      "y": 0.467931937013214
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011780104712041828,
+      "text": "［D］ it requires caution to handle economic issues",
+      "width": 0.4118895959215912,
+      "x": 0.07006368945958667,
+      "y": 0.4417539266507188
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047892,
+      "text": "［D］ 处理经济问题需谨慎",
+      "width": 0.22080678556890831,
+      "x": 0.6199575386380513,
+      "y": 0.44040697710695276
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317295,
+      "text": "［精准定位］第六段指出 GDP 不足以衡量国家的整体发展状况，因为它无法衡量“环境质量、教育成",
+      "width": 0.8428874553731477,
+      "x": 0.09554140429704763,
+      "y": 0.41279069745659724
+    },
+    {
+      "confidence": 1,
+      "height": 0.01920735399136364,
+      "text": "果”等能提升民众幸福感的重要因素。第七段则给出应对建议：政策制定者不应一味忧心 GDP，而应采",
+      "width": 0.8789808809415333,
+      "x": 0.05944797794749269,
+      "y": 0.3924418606432494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "取实际行动、努力提升社会福利。可见，考虑 GDP以外的因素极为重要，［C］正确。",
+      "width": 0.6985138114506155,
+      "x": 0.05944798332281679,
+      "y": 0.3749999998669654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "［命题解密］正确项［C］是对第六段 it is no longer enough/It does no include important factors... 和",
+      "width": 0.8428874553731478,
+      "x": 0.0955414163382972,
+      "y": 0.3573298430295083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "第七段 refocus efforts on improving well-being rather than simply worrying about GDP...的概括改写。",
+      "width": 0.8704882999223231,
+      "x": 0.05944800063028522,
+      "y": 0.33704188493498843
+    },
+    {
+      "confidence": 1,
+      "height": 0.014656641720477204,
+      "text": "［A］将第七段“预测显示英国经济将因脱欧遭受重创”篡改为与之完全相悖的“英国将迎来经济繁",
+      "width": 0.8407642955305927,
+      "x": 0.09766455295657216,
+      "y": 0.319767442208697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016026421367185906,
+      "text": "荣”。［B］将第七段①句 a decline 和文中关键词 high GDP之间强加因果关联：实际并非“高GDP预示经济",
+      "width": 0.8789808809415333,
+      "x": 0.0594479946824029,
+      "y": 0.2994186045786901
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "下滑”，而是“经济打击会导致日常服务下滑，从而影响国民幸福感，只求高GDP则无法避免这一厄运。",
+      "width": 0.8789808809415333,
+      "x": 0.0615711239312151,
+      "y": 0.28052325580204285
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317295,
+      "text": "［D］将第七段②句“要重新努力‘提升福利’而非‘忧心 GDP数字’”偷换为“要谨慎处理经济问题”。",
+      "width": 0.8301486130198374,
+      "x": 0.05732483593169496,
+      "y": 0.26162790675892267
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "［技巧总结］本题借作者认可之观点考查末两段主旨。解答此类题时需注意：1）否定词、否定句以及",
+      "width": 0.8428874553731477,
+      "x": 0.09554141734173462,
+      "y": 0.24127906973130642
+    },
+    {
+      "confidence": 1,
+      "height": 0.016003591852038257,
+      "text": "取舍关系词尤其体现文章观点，应作为重点关注对象；2）干扰项常由细节信息篡改而来或把细节信息与",
+      "width": 0.8789808809415331,
+      "x": 0.05944799572880862,
+      "y": 0.2238219897732444
+    },
+    {
+      "confidence": 1,
+      "height": 0.01636125654450271,
+      "text": "文章高频词杂糅而得，应予以警惕。",
+      "width": 0.2993630578823345,
+      "x": 0.0594479852308072,
+      "y": 0.20484293222506456
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "具体来说，第六段完全否定词 no longer、否定句 it does not include 明确GDP局限、暗示对“关乎民",
+      "width": 0.8386411940390476,
+      "x": 0.09978769022392973,
+      "y": 0.18586387419810135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01636125654450271,
+      "text": "众幸福感、生活质量等民生因素（things that contribute to a person's sense of well-being）”进行衡量之重",
+      "width": 0.8789808809415331,
+      "x": 0.05944799572880862,
+      "y": 0.1668848167225958
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601120127433253,
+      "text": "要；第七段再度以取舍关系词 rather than 强调民生因素（well-being）的重要性及“唯 GDP 论”的错误性，",
+      "width": 0.8811040407840881,
+      "x": 0.059447990568677396,
+      "y": 0.14825581423261913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "选项［C］最契合。［A］、［D］由细节信息 forecasted doom、The sharp hit to growth、decline in the",
+      "width": 0.8811040407840882,
+      "x": 0.059447986950489445,
+      "y": 0.12936046503169396
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "everyday services 篡改而来，［B］将细节信息 The sharp hit to growth 与高频词 high GDP杂糅。",
+      "width": 0.8046708699622073,
+      "x": 0.05732485220042528,
+      "y": 0.11046511666721215
+    },
+    {
+      "confidence": 1,
+      "height": 0.011780104712041828,
+      "text": "38",
+      "width": 0.023354564980384726,
+      "x": 0.0743099789482365,
+      "y": 0.06675392675973046
+    }
+  ],
+  "vision_ocr_text": "，语篇分析•泌\n第七段指出解决办法：政策制定者勿一味忧心GDP，应着力提升社会福利。关键词为：refocus\nefforts on improving well-being.\n①句回应前文所示当前情形（“尚未走出全球危机”及“脱欧造成英国经济下滑”），指出其可能造成\n的巨大打击：社会整体服务水平下降、从而导致民众福祉及发展受挫。句子以因果关联词 lead to、\ndepend on 搭建经济受挫、服务水平降低、民生福祉难以提升三者间锁链式因果关联。注：句中两处\ngrowth 同词不同义：前者针对“世界/国家（the world/UK）”整体而言，指“［经济的］增长，发展”；后者与\nwell-being 相提并论，针对“民众/个人（we,Our）”而言，指“个人成长和发展”。\n②句转而指出可行性解决办法：政策制定者重新聚焦福祉民生，不再唯GDP 论。本句主干以\npolicymaker...could avoid the forecasted...回应①句 could lead to a decline，实现句间衔接的同时传递\n“建议式解决办法”（其中 the forecasted doom 回指①句内容；and may even see progress 则以 and 蕴含的\n递进之意以及 even 蕴藏的“意外之喜”正确做法带来的更大好处：经济甚至还有可能有所提振）。who引\n导的定语从句以取舍结构 rather than 明示政策制定者应该采取的正确做法“重新聚焦于提高民生福祉”\n及应该摒弃的错误做法“仅仅忧心于 GDP 数值”，从而明确全文核心思想“政策制定者应改变关注重心、\n不应盲目追求 GDP增长，而应努力改善民生、将经济收益回馈给人民”\n【深层解读】末两段与文首两段实现首尾圆合：首两段概述唯GDP 论的严重缺陷及造成的不良影\n响，末两段具体明确缺陷并提出解决方案。\n•真题精解\n34. In the last two paragraphs, the author suggests that\n34.最后两段中，作者暗示_\no\n［A］ the UK is preparing for an economic boom\n［A］英国正 经济腾飞做准备\n［B］ high GDP foreshadows an economic decline\n［B］高 GDP 值是经济下滑的预兆\n［C］ it is essential to consider factors beyond GDP\n［C］ 考虑 GDP 以外的因素极重要\n［D］ it requires caution to handle economic issues\n［D］ 处理经济问题需谨慎\n［精准定位］第六段指出 GDP 不足以衡量国家的整体发展状况，因为它无法衡量“环境质量、教育成\n果”等能提升民众幸福感的重要因素。第七段则给出应对建议：政策制定者不应一味忧心 GDP，而应采\n取实际行动、努力提升社会福利。可见，考虑 GDP以外的因素极为重要，［C］正确。\n［命题解密］正确项［C］是对第六段 it is no longer enough/It does no include important factors... 和\n第七段 refocus efforts on improving well-being rather than simply worrying about GDP...的概括改写。\n［A］将第七段“预测显示英国经济将因脱欧遭受重创”篡改为与之完全相悖的“英国将迎来经济繁\n荣”。［B］将第七段①句 a decline 和文中关键词 high GDP之间强加因果关联：实际并非“高GDP预示经济\n下滑”，而是“经济打击会导致日常服务下滑，从而影响国民幸福感，只求高GDP则无法避免这一厄运。\n［D］将第七段②句“要重新努力‘提升福利’而非‘忧心 GDP数字’”偷换为“要谨慎处理经济问题”。\n［技巧总结］本题借作者认可之观点考查末两段主旨。解答此类题时需注意：1）否定词、否定句以及\n取舍关系词尤其体现文章观点，应作为重点关注对象；2）干扰项常由细节信息篡改而来或把细节信息与\n文章高频词杂糅而得，应予以警惕。\n具体来说，第六段完全否定词 no longer、否定句 it does not include 明确GDP局限、暗示对“关乎民\n众幸福感、生活质量等民生因素（things that contribute to a person's sense of well-being）”进行衡量之重\n要；第七段再度以取舍关系词 rather than 强调民生因素（well-being）的重要性及“唯 GDP 论”的错误性，\n选项［C］最契合。［A］、［D］由细节信息 forecasted doom、The sharp hit to growth、decline in the\neveryday services 篡改而来，［B］将细节信息 The sharp hit to growth 与高频词 high GDP杂糅。\n38",
+  "pdf_text_layer": "；．语篇分析 －~ ：： ；／\n       第七段指出解决办法：政策制定者勿一昧忧心 GDP ，应着力提升社会福利。关键词为： refocus\nefforts on improving well” being 。\n       ① 旬回应前文所示当前情形（“尚未走出全球危机”及“脱欧造成英国经济下滑”），指出其可能造成\n的巨大打击：社会整体服务水平下降、从而导致民众福祉及发展受挫。 句子以因果关联词 l ead to 、\ndepend on 搭建经济受挫、服务水平降低、民生福祉难以提升 三 者间锁链式因果关联。 注 ： 句中两处\ngrowth 同向不同义：前者针对“世界 ／ 国家（ the wor ld/ UK ）”整体而 言， 指“［经济的］增长，发展’气后者与\nwell- b e ing 相提并论，针对“民众 ／个人（ we,our ）”而言，指“个人成长和发展” 。\n     ② 旬转而指出可行性解决办法：政策制定者重新聚焦福祉民生，不再唯 GDP 论 。 本句主干以\npolicymaker ... co uld avoid th e forecasted . .. 回应①句 could lead to a declin e ，实现句间衔接的同时传递\n“建议式解决办法飞其中 t h e for ecasted doom 回指①句内容； and may even see progress 则以 and 蕴含的\n递进之意以及 even 蕴藏的“意外之喜”正确做法带来的更大好处：经济甚至还有可能有所提振） 。 w h o 引\n导的定语从句以取舍结构 rath e r than 明示政策制定者应该采取的正确做法“重新聚焦于提高民生福祉”\n及应该摒弃的错误做法“仅仅忧心于 GDP 数值”，从而明确全文核心思想“政策制定者应改变关注重心、\n不应盲目追求 GDP 增长，而应努力改善民生、将经济收益回馈给人民” 。\n       E 深层解读】末两段与文酋两段实现首尾圆合： 首两段概述 If住 GDP 论的严 重缺陷及造成的不良影\nH向， 末两段具体明确缺陷并提出解决方案。\n\n                                            ； 二真题措辞＿＜ ： 1'\n 34. In the last two paragraphs, the author suggests that _ .   34. 最后两段中，作者 暗示             。\n\n\n\n\n [A] the UK is preparing for an econom ic boom                  [ A］英国 正为经济腾飞做准备\n\n [ BJ high GDP fo 陀s h adows an economic declin                 [BJ 高 GDP 值是经济下滑的预兆\n\n [CJ it is essential to consider factors beyond GDP             [CJ 考虑 GDP 以外的因素极为重要\n\n [DJ it requ ires caution to hand le econom ic issues           [DJ 处理经济问题需谨慎\n\n       ［ 精准定位 ］ 第六段指出 GDP 不足以衡量国家的整体发展状况，因为它无法衡量“环境质量、教育成\n果”等能提升民众 幸福感 的重要因素 。第 七段则给出应对建议：政策制定者不应 一 l床忧心 GDP ， 而应采\n取实际行动、努力提升社会福利 。 可见，考虑 GDP 以外的因素极为重要， ［ CJ 正 确 。\n       ［ 命题解密 〕 正确项 ［ CJ 是对第六段 it is no longer enough/ It does no include important factors ...和\n第七段 refocus efforts on improving well- being rath 巳r than simply worrying about GDP ...的概括改写。\n       [A］将第七段“预测显示英国经济将因脱欧遭受重 创” 篡改为与之完全相悖的“英国将迎来经济繁\n荣”。［ BJ 将第七段①句 a d ecl ine 和文中关键词 high GDP 之间强加因果关联 ： 实际并非“高 GDP 预示经济\n下滑”，而是“经济打击会导致日常服务下滑，从而影响国民幸福感，只求高 GDP 则无法避免这一厄运。\n[ DJ 将第七段 ②句“要重新努力‘提升福利’ 而非‘忧心 GDP 数 字’”偷换为 “要谨慎处理经济 问题” 。\n       ［ 技巧总结 ］ 本题借作者认可之观点考查末两段主旨 。 解答此类题时需注意： 1 ）否定词、否定句以及\n取舍关系词尤其体现文章观点，应作为重点关注对象； 2 ）干扰项常由细节信息篡改而来或把细节信息与\n文章高频词杂槟而得，应予以警惕。\n       具体来说，第六段完全否定同 no longer 、 否定句 it does not includ e 明确 GDP 局限、暗示对“关乎民\n众幸福感、生活质 量等民生 因素（ things that contribute to a person ’ s sense of well being ）”进行衡量之重\n要；第七段再度以取舍关系词 rat h er than 强调民生因素（ well- being ）的重要性及“ l准 GDP 论”的错误性，\n选项 ［ CJ 最为契合 。 ［ A ］ 、 ［ D J 由细节信息 forecasted doom 、 The sharp hit to growth 、 decline in the\neveryday serv i ces 篡改而来，［ BJ 将细节信息 The s harp hit to growth 与高频词 h i gh GDP 杂糕。\n\n\n  38",
+  "quality": {
+    "vision_line_count": 47,
+    "vision_character_count": 2125,
+    "pdf_text_character_count": 2517,
+    "nonempty": true
+  }
+}

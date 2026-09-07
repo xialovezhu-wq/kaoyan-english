@@ -1,0 +1,574 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P031",
+  "year": 2019,
+  "pdf_page": 31,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "剧的关系，而且该处也并非伊格曼的观点。",
+      "width": 0.36247335422977145,
+      "x": 0.05330490433500759,
+      "y": 0.9127906975294221
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "［技巧总结］人物观点题的解题关键是把握人物观点表达中的情感色彩表达词以及特定特殊句式。",
+      "width": 0.8464818797047445,
+      "x": 0.09381663933206257,
+      "y": 0.8938953495299189
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371107313437,
+      "text": "如本题，定位段中 far too complex to be understood（强调否定意义的t00...to...“太⋯⋯而不能⋯•⋯••”结",
+      "width": 0.8827292063414707,
+      "x": 0.05330491671199362,
+      "y": 0.8750000006927096
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "构）、let alone reproduced（常用在含否定意味的句子后表示进一步否定的let alone“更不要谈”结构）、no",
+      "width": 0.8848613951348068,
+      "x": 0.053304917482347634,
+      "y": 0.8546511627207981
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372353946456,
+      "text": "good theories explaining（绝对表达 no“没有”）、how you could ever...（反问表达“你怎么可能⋯•⋯？”）等",
+      "width": 0.8827292063414707,
+      "x": 0.05330491378022403,
+      "y": 0.8357558139078136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "均透簬出 David Eagleman 对人类理解意识以及机器复制意识（即人工智能）的否定态度。",
+      "width": 0.7547974101412548,
+      "x": 0.053304929044510965,
+      "y": 0.8154069770371863
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394769007937,
+      "text": "①",
+      "width": 0.025586353382542587,
+      "x": 0.1257995740976413,
+      "y": 0.7863372096649146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011836905261270347,
+      "text": "But that doesn't mean crucial ethical issues",
+      "width": 0.38805970761231406,
+      "x": 0.14925373216399213,
+      "y": 0.7875816992305177
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013087094998827098,
+      "text": "但这并不意味着与AI 有关的重要伦理",
+      "width": 0.3304904051797175,
+      "x": 0.5991471181990539,
+      "y": 0.7790697676591007
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013202993854198541,
+      "text": "involving Al aren't at hand. ② The coming use of",
+      "width": 0.4861407142683091,
+      "x": 0.053304917492710865,
+      "y": 0.7673202617425147
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946567,
+      "text": "问题尚未出现。例如，即将投入使用的自动",
+      "width": 0.36886992060977997,
+      "x": 0.5607675972004406,
+      "y": 0.7572674415701197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013596079707924869,
+      "text": "autonomous®",
+      "width": 0.10887320256736593,
+      "x": 0.05323930671028059,
+      "y": 0.748289169626516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "vehicles, for example, poses® thorny®",
+      "width": 0.3603411361489323,
+      "x": 0.17484009714408383,
+      "y": 0.7470588238162408
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313437,
+      "text": "驾驶汽车就带来了棘手的伦理问题。人类",
+      "width": 0.37100210940311606,
+      "x": 0.5586354092110218,
+      "y": 0.7383720933162561
+    },
+    {
+      "confidence": 1,
+      "height": 0.01045751665152761,
+      "text": "ethical",
+      "width": 0.0597014912259327,
+      "x": 0.05543710186393483,
+      "y": 0.7294117645176336
+    },
+    {
+      "confidence": 1,
+      "height": 0.011982633553299316,
+      "text": "questions.",
+      "width": 0.09178018112329055,
+      "x": 0.1129585236428987,
+      "y": 0.7280203112761894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011867305032568054,
+      "text": "3 Human drivers",
+      "width": 0.16631129698652683,
+      "x": 0.2217484054512994,
+      "y": 0.7294117645948789
+    },
+    {
+      "confidence": 1,
+      "height": 0.010457516651527499,
+      "text": "sometimes must",
+      "width": 0.14712152462774414,
+      "x": 0.3923241015454029,
+      "y": 0.729411764469184
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "驾驶员有时必须在瞬间作出决策。他们的",
+      "width": 0.37100213869061893,
+      "x": 0.5586353935118334,
+      "y": 0.7180232556105434
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014540583167979904,
+      "text": "make split-second® decisions. ④ Their reactions may be a",
+      "width": 0.4840085254749731,
+      "x": 0.05330489991354427,
+      "y": 0.7078431371286198
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488293816052,
+      "text": "反应可能是一种复杂的组合，包括在那一瞬",
+      "width": 0.37313432748395514,
+      "x": 0.5586353964659114,
+      "y": 0.700581395558536
+    },
+    {
+      "confidence": 1,
+      "height": 0.011906196245181078,
+      "text": "complex",
+      "width": 0.07046069476517514,
+      "x": 0.05538798975480865,
+      "y": 0.6902678323027782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013292293299257296,
+      "text": "combination of instant reflexes®",
+      "width": 0.2835820760013046,
+      "x": 0.12579957560986674,
+      "y": 0.6901960783827272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014825633927887605,
+      "text": "，input®from",
+      "width": 0.12587143500798492,
+      "x": 0.41147793012374956,
+      "y": 0.6888081133085868
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "间的瞬时本能反应、过往驾驶经验的输入及",
+      "width": 0.37100210940311595,
+      "x": 0.5607676066523863,
+      "y": 0.6802325587232328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013204894346349305,
+      "text": "past driving experiences, and what their eyes and ears tell",
+      "width": 0.48187633668163676,
+      "x": 0.05543710162567558,
+      "y": 0.6699346403201313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020048320994657587,
+      "text": "其眼睛耳朵的所见所闻。AI目前的“眼力”",
+      "width": 0.37786557715593505,
+      "x": 0.5584303503136696,
+      "y": 0.6593473217783516
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015032679738562038,
+      "text": "them in that moment. ⑤ AI “vision②\" today is not nearly",
+      "width": 0.4818763073941339,
+      "x": 0.055437114586515096,
+      "y": 0.6509803920196426
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "远不像人类眼力那样精密复杂。而且预测",
+      "width": 0.37100213869061893,
+      "x": 0.5586353930853941,
+      "y": 0.6424418601747709
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "as sophisticated® as that of humans. ⑥ And to anticipate®",
+      "width": 0.47761192980746153,
+      "x": 0.05543710176293597,
+      "y": 0.6307189539495053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016005472420087763,
+      "text": "所有可想象得到的驾驶情景是一个高难度",
+      "width": 0.37100213869061904,
+      "x": 0.5586353938103408,
+      "y": 0.6235294115911878
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011781805325177697,
+      "text": "every imaginable driving|",
+      "width": 0.2537313450320898,
+      "x": 0.05543710251060752,
+      "y": 0.6117647061869591
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013235293494330502,
+      "text": "situation is a difficult",
+      "width": 0.2302771804428833,
+      "x": 0.30703624602589324,
+      "y": 0.6117647060946307
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015624456467971282,
+      "text": "的编程难题。",
+      "width": 0.11117160526209735,
+      "x": 0.5606188893097498,
+      "y": 0.60265288806324
+    },
+    {
+      "confidence": 1,
+      "height": 0.014601382710575206,
+      "text": "programming\"problem.",
+      "width": 0.2004264348299169,
+      "x": 0.0554371057549064,
+      "y": 0.5915032680608306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20469082706034064,
+      "x": 0.36886993917771876,
+      "y": 0.5464052290485153
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315092971901477,
+      "text": "①autonomous ［o：'tonomos］ a. 自主的",
+      "width": 0.28571429408214366,
+      "x": 0.055437098886433424,
+      "y": 0.5215686277410909
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014622282514385132,
+      "text": "⑧sophisticated ［so fisuikettd」a. 复杂巧妙的",
+      "width": 0.3411513784339012,
+      "x": 0.5202558647702562,
+      "y": 0.5202614378791138
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014681182188146291,
+      "text": "② pose Lpauz」v. 造成，引起",
+      "width": 0.21748400375161198,
+      "x": 0.053304904414172745,
+      "y": 0.5013071893318062
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "⑨anticipate ［een'tisipert］v. 预料；预计（并作准备）",
+      "width": 0.3880597076123141,
+      "x": 0.5202558572457265,
+      "y": 0.5026143791862416
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014681182188146291,
+      "text": "③ thorny ［'0oin］a. 棘手的，麻烦的",
+      "width": 0.27505329154045705,
+      "x": 0.05330491302508059,
+      "y": 0.48401162837103595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "10programme ［'praugreem］v.（计算机）程序设计，编程",
+      "width": 0.4157782497881928,
+      "x": 0.5202558681496137,
+      "y": 0.48401162859968627
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014622282514385132,
+      "text": "④split-second ［ispltt'sekond］a. 一瞬间作出的，做得非",
+      "width": 0.41791043858152893,
+      "x": 0.053304912478958265,
+      "y": 0.4651162792794662
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "• 经典搭配",
+      "width": 0.10447760964538222,
+      "x": 0.5245202574640893,
+      "y": 0.46656976801493133
+    },
+    {
+      "confidence": 1,
+      "height": 0.012714912688810087,
+      "text": "常精确的",
+      "width": 0.0749764835994669,
+      "x": 0.05313009415235478,
+      "y": 0.4485844043733327
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013109894671471278,
+      "text": "①at hand 就在眼前，即将到来",
+      "width": 0.2324093838799709,
+      "x": 0.5202558647551104,
+      "y": 0.44767441896724036
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014555782741970447,
+      "text": "⑤ reflex ［ rifleks」n. 本能反应，反应能力",
+      "width": 0.32196162071886997,
+      "x": 0.05330490395293177,
+      "y": 0.42875817017333073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555783365286956,
+      "text": "②not nearly 远非，绝不是",
+      "width": 0.1982942313928293,
+      "x": 0.5202558668995343,
+      "y": 0.4287581696590259
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015032679738562149,
+      "text": "⑥ input ［'mnput］n. 输入",
+      "width": 0.18763325813864562,
+      "x": 0.055437101634301926,
+      "y": 0.4111111111478398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "③beyond one's capacity 超出某人的能力范围，力所不",
+      "width": 0.41364606099485657,
+      "x": 0.5223880539679996,
+      "y": 0.41111111088309726
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01329419316809155,
+      "text": "⑦vision ［'vsen］n. 视力，视觉；眼力",
+      "width": 0.2835820760013046,
+      "x": 0.0533049088010535,
+      "y": 0.39389534905444956
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013294193168091661,
+      "text": "能及（33题）",
+      "width": 0.09594882518453474,
+      "x": 0.5202558637190333,
+      "y": 0.3938953492579379
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015635593888027155,
+      "text": "，语篇分析",
+      "width": 0.09204784693507456,
+      "x": 0.42838972166894057,
+      "y": 0.3671822029798204
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768885843114909,
+      "text": "第五至末段为第三部分，聚焦“AI技术伦理问题”，论述其解决思路。",
+      "width": 0.5778251545442958,
+      "x": 0.09594882275450473,
+      "y": 0.3398692810237144
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01774775810491025,
+      "text": "第五段以自动驾驶汽车为例，说明当前 AI 技术（弱 AI）伦理问题。关键词：①crucial ethical issues；",
+      "width": 0.8422174435430663,
+      "x": 0.09808104822846689,
+      "y": 0.3209150327961743
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014667882482990002,
+      "text": "②thorny ethical questions。",
+      "width": 0.22601278821245951,
+      "x": 0.0554371004353481,
+      "y": 0.30232558172859414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "①句（段落主旨句）直指当前 AI 技术已经引发关键性伦理问题。双重否定表达 doesn't mean.••",
+      "width": 0.8400852547497302,
+      "x": 0.0959488543415527,
+      "y": 0.28343023306916304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "aren't at hand（at hand 意为“就在眼前，需马上处理的”）强化肯定语气“AI的道德问题已然显现，且迫在",
+      "width": 0.8848613951348069,
+      "x": 0.05330492116927015,
+      "y": 0.2645348843409655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "眉睫、亟待解决”，进而明确 But传递段际转折逻辑：虽然复制人类意识的强AI 尚未出现，但现阶段的弱",
+      "width": 0.8805970175481346,
+      "x": 0.05543710519181757,
+      "y": 0.24563953484669798
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "AI已引发诸多道德问题。",
+      "width": 0.21748400375161198,
+      "x": 0.055437104776646,
+      "y": 0.2267441864378965
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599407196044922,
+      "text": "其余各句以“自动驾驶汽车与人类驾驶员的本质区别”影射其引发诸多伦理问题，从而例证①句。",
+      "width": 0.8208954970346989,
+      "x": 0.09808104433979321,
+      "y": 0.20784313751594274
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "②句（旬群主旨句）指出自动驾驶汽车已经引发棘手伦理问题。for example 表明①句与②-⑥句的“提",
+      "width": 0.8400852547497302,
+      "x": 0.09808104700324431,
+      "y": 0.18888888907037915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "出论点—举例论证”关系。The coming use of autonomous vehicles（coming”即将发生的，就要来的”义同上",
+      "width": 0.8805970175481346,
+      "x": 0.057569302402194066,
+      "y": 0.16993464053518403
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "句 at hand）转承上文 AI发展现状“强AI依然很遥远”，以自动驾驶汽车之例说明弱AI已经或即将普及。",
+      "width": 0.8678038262131118,
+      "x": 0.05756931092329477,
+      "y": 0.15098039195396162
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "③④⑤⑥句分析自动驾驶汽车与人类驾驶员的本质区别。",
+      "width": 0.49253730993582057,
+      "x": 0.09808102930714299,
+      "y": 0.1320261439745275
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "③④句分析人类驾驶员的瞬时决策过程。两句以 in that moment（回指 sometimes）、Their reactions",
+      "width": 0.8422174435430662,
+      "x": 0.09808104366023658,
+      "y": 0.11307189511734062
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "（回指 make split-second decisions）构成衔接：前句引出偶发情形，后句解释情形细节。其中③句",
+      "width": 0.8827292063414708,
+      "x": 0.05543710889140286,
+      "y": 0.09447674414902363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017713557972627525,
+      "text": "sometimes must 暗示所遇情形的特点“偶发、紧急”，split-second decisions（split-second 意次 done very",
+      "width": 0.8848613951348069,
+      "x": 0.05543710501788445,
+      "y": 0.0738562092802012
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011795105653650606,
+      "text": "31",
+      "width": 0.0234541572673308,
+      "x": 0.8997867808368393,
+      "y": 0.05813953514483983
+    }
+  ],
+  "vision_ocr_text": "剧的关系，而且该处也并非伊格曼的观点。\n［技巧总结］人物观点题的解题关键是把握人物观点表达中的情感色彩表达词以及特定特殊句式。\n如本题，定位段中 far too complex to be understood（强调否定意义的t00...to...“太⋯⋯而不能⋯•⋯••”结\n构）、let alone reproduced（常用在含否定意味的句子后表示进一步否定的let alone“更不要谈”结构）、no\ngood theories explaining（绝对表达 no“没有”）、how you could ever...（反问表达“你怎么可能⋯•⋯？”）等\n均透簬出 David Eagleman 对人类理解意识以及机器复制意识（即人工智能）的否定态度。\n①\nBut that doesn't mean crucial ethical issues\n但这并不意味着与AI 有关的重要伦理\ninvolving Al aren't at hand. ② The coming use of\n问题尚未出现。例如，即将投入使用的自动\nautonomous®\nvehicles, for example, poses® thorny®\n驾驶汽车就带来了棘手的伦理问题。人类\nethical\nquestions.\n3 Human drivers\nsometimes must\n驾驶员有时必须在瞬间作出决策。他们的\nmake split-second® decisions. ④ Their reactions may be a\n反应可能是一种复杂的组合，包括在那一瞬\ncomplex\ncombination of instant reflexes®\n，input®from\n间的瞬时本能反应、过往驾驶经验的输入及\npast driving experiences, and what their eyes and ears tell\n其眼睛耳朵的所见所闻。AI目前的“眼力”\nthem in that moment. ⑤ AI “vision②\" today is not nearly\n远不像人类眼力那样精密复杂。而且预测\nas sophisticated® as that of humans. ⑥ And to anticipate®\n所有可想象得到的驾驶情景是一个高难度\nevery imaginable driving|\nsituation is a difficult\n的编程难题。\nprogramming\"problem.\n•词汇注释与难句分析\n①autonomous ［o：'tonomos］ a. 自主的\n⑧sophisticated ［so fisuikettd」a. 复杂巧妙的\n② pose Lpauz」v. 造成，引起\n⑨anticipate ［een'tisipert］v. 预料；预计（并作准备）\n③ thorny ［'0oin］a. 棘手的，麻烦的\n10programme ［'praugreem］v.（计算机）程序设计，编程\n④split-second ［ispltt'sekond］a. 一瞬间作出的，做得非\n• 经典搭配\n常精确的\n①at hand 就在眼前，即将到来\n⑤ reflex ［ rifleks」n. 本能反应，反应能力\n②not nearly 远非，绝不是\n⑥ input ［'mnput］n. 输入\n③beyond one's capacity 超出某人的能力范围，力所不\n⑦vision ［'vsen］n. 视力，视觉；眼力\n能及（33题）\n，语篇分析\n第五至末段为第三部分，聚焦“AI技术伦理问题”，论述其解决思路。\n第五段以自动驾驶汽车为例，说明当前 AI 技术（弱 AI）伦理问题。关键词：①crucial ethical issues；\n②thorny ethical questions。\n①句（段落主旨句）直指当前 AI 技术已经引发关键性伦理问题。双重否定表达 doesn't mean.••\naren't at hand（at hand 意为“就在眼前，需马上处理的”）强化肯定语气“AI的道德问题已然显现，且迫在\n眉睫、亟待解决”，进而明确 But传递段际转折逻辑：虽然复制人类意识的强AI 尚未出现，但现阶段的弱\nAI已引发诸多道德问题。\n其余各句以“自动驾驶汽车与人类驾驶员的本质区别”影射其引发诸多伦理问题，从而例证①句。\n②句（旬群主旨句）指出自动驾驶汽车已经引发棘手伦理问题。for example 表明①句与②-⑥句的“提\n出论点—举例论证”关系。The coming use of autonomous vehicles（coming”即将发生的，就要来的”义同上\n句 at hand）转承上文 AI发展现状“强AI依然很遥远”，以自动驾驶汽车之例说明弱AI已经或即将普及。\n③④⑤⑥句分析自动驾驶汽车与人类驾驶员的本质区别。\n③④句分析人类驾驶员的瞬时决策过程。两句以 in that moment（回指 sometimes）、Their reactions\n（回指 make split-second decisions）构成衔接：前句引出偶发情形，后句解释情形细节。其中③句\nsometimes must 暗示所遇情形的特点“偶发、紧急”，split-second decisions（split-second 意次 done very\n31",
+  "pdf_text_layer": "剧的关系，而且该处也并非伊格曼的观点 。\n     ［技巧总结］人物观点题的解题关键是把握人物观点表达中的情感色彩表达词以及特定特殊句式 。\n如本题，定位段中 far too comp lex to be understood （强调否定意义的 too ... to . . .“太……而不能……”结\n构）、 let a lone r e produced （常用在含否定意味的句子后表示进一步否定的 let a l o ne “更不要谈”结构）、 no\ngood theori es explaining （绝对表达 no“没有勺、 how you could ev巳r ... （反 问 表达“你怎么可能 …… ？”）等\n均透露出 David Eagleman 对人类理解意识以及机器复制意识 c ep 人工智能）的否定态度 。\n\n     V O But that doesn 't m ea n cru cia l ethical issues             但这并不意味着与 Al 有关的重要伦理\ninvolving Al aren ’ t at hand.      f} The coming use of\n                                                                  问题尚未出现 。 例如，即将投入使用的自动\nautonomous(    vehicles,   for   example,    poses® thorny③\n                                                                  驾驶汽车就带来了棘手的伦理问题 。 人类\neth ical questions.    @ Human drivers somet imes must\n                                                                  驾驶员有时必须在瞬间作出决策 。 他们的\nmake split-second@ decisions. OTheir react ions may be a\n                                                                  反应可能是一种复杂的组合，包括在那 一 瞬\ncomplex combination of ins tant reflexesaD , input® from\n                                                                  间的瞬时本能反应、过往驾驶经验的输入及\npast driving experiences, and w hat th eir eyes a nd ear s tell\n                                                                  其眼睛耳朵的所见所闻 。 AI 目 前的“眼 力 ”\nthem in t hat moment. 0AI “ vision( ” today is not near ly\n                                                                  远不像人类眼力那样精密复杂 。 而且预测\nas sophisticated® as that of humans. 0 And to anticipate®\n                                                                  所有可想象得到的驾驶情景是 一 个高难度\nevery    imaginabl e   driving   situation   is   a   difficult\n                                                                  的编程难题 。\nprogramming( pro bl em.\n\n\n\n                                        ：.：~：通牛羊辱与苹句分析：：~：：： rt\n( autonomous [ ;:,:'tonam;:is］ α 自主的                     ))   ( sophisticated [ df时 1ke1t1d ］ α．复杂巧妙 的\n( pose [ pauz］队 造成，引起                                    >    ( anticipate [ren't1s1pe1t] v. 预 料；预计’（并作准备）\n( thorny [ 'S;:,:111 ］ α ＊＊手的，麻烦的                        <    ⑩ pr吨ramn\n( split-second [ ,split 'sekand ］ α ． 一 瞬间作出的，做得非        ~    ·经典搭配\n\n常精确的                                                     !    ( at hand 就在眼前，目附到来\n( reflex [ 1ri:fleks] n. 本能反应，反应能力                       <    ( not n ea rl y 远非，绝不是\n( input [ 'input ］ η．输入                                  >    CD beyond one's capac ity 超 出某人的能力范 围，力所不\n( vision ［＇ 叩n］ η 视力，视觉；眼力                             { 能及（ 33 题〉\n                                               ： ： ~3董事惊：：－ ：：： ；／\n        第五至末段为第三部分，聚焦“ AI 技术伦理问题”，论述其解决恩路。\n        第五段以自动驾驶汽车为例，说明当前 AI 技术（弱 AI ）伦理问题。关键词：① crucial ethical issues;\n( thorny ethical questions 。\n     ①旬（段落主旨旬）直指当前 AI 技术已经引发关键性伦理问题。 双重否定表达 doesn’t mean.\naren ’ t at hand(at h and 意为“就在眼前，需马上处理的”）强 化 肯定语气“ A I 的 道德问题已然显现，且迫在\n眉睫、亟待解决”，进而明确 But 传递段际转折逻辑 ： 虽然复制人类意识的强 A I 尚 未出现，但现阶段的弱\nAI 已引发诸多道德问题 。\n        其余各旬以“自动驾驶汽车与人类驾驶员的本质区别”影射其引发诸多伦理问题，从而例证①旬。\n     ②旬（旬群主旨旬）指出自动驾驶汽车已经引发棘手伦理问题。 for example 表明①句与 ②－⑥ 句的“提\n出论点 一一举例论证”关系 。 The coming use of autonomous vehicl es(com ing“ e n 将发生的，就要来的”义 同上\n句 at ha nd ）转承上文 AI 发展现状“强 AI 依 然很遥远 ”，以自动 驾驶汽车之 例说明弱 AI 已 经或 即将普及 。\n     ③④⑤⑥旬分析自动驾驶汽车与人类驾驶员的本质区别。\n     ③④旬分析人类驾驶员的瞬时决策过程。 两句以 in that moment （回指 sometimes ）、 Their reactions\n（回指 make spli t- second d ec i sions ）构成衔接 ：前句引出偶 发情形，后句解释情形细节。其中③ 句\nsometimes must 暗示所遇情形的特点“偶发、紧急”， split-second decisions Csp lit-second 意为 d on e very\n                                                                                                         31",
+  "quality": {
+    "vision_line_count": 69,
+    "vision_character_count": 2266,
+    "pdf_text_character_count": 3594,
+    "nonempty": true
+  }
+}

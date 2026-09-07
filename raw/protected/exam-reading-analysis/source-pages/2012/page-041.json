@@ -1,0 +1,518 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P041",
+  "year": 2012,
+  "pdf_page": 41,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "Public-sector pay deals；正确项是对“backloaded”...adding to holidays and especially pensions...的概括。",
+      "width": 0.8792372841871422,
+      "x": 0.06144066894986144,
+      "y": 0.9142441864485236
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "［AJ利用②句 real gains come in. .. 和③句 repeatedly backloaded 设置干扰，但由③句后半句具体描",
+      "width": 0.8368643840760674,
+      "x": 0.10169493183643646,
+      "y": 0.8953488371424309
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "述可知，该内容实际指公共部门收人中有很大一部分是“间接获得”而非“非法获得”。［C］将原文“工资",
+      "width": 0.875,
+      "x": 0.06355932613498783,
+      "y": 0.8749999997553357
+    },
+    {
+      "confidence": 1,
+      "height": 0.017751557842578758,
+      "text": "增幅不大”夸大为“大幅增加”。［D］将“不断提高公务员原本就已经丰厚的假期和养老金/体现不公”改",
+      "width": 0.875,
+      "x": 0.0635593130561443,
+      "y": 0.8561046513518225
+    },
+    {
+      "confidence": 1,
+      "height": 0.019321004705491474,
+      "text": "为与之相悖的“公平调整”。",
+      "width": 0.229607924250246,
+      "x": 0.06322646576595531,
+      "y": 0.835613369893035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.022749634038389144,
+      "text": "［技巧总结］本段③句中副词 repeatedly、especially、already 承载作者语气态度，而且关键词",
+      "width": 0.8414485436359435,
+      "x": 0.09727702718897817,
+      "y": 0.8136378648334563
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946567,
+      "text": "backloaded 难以理解，同时句式结构又很复杂，这使得该句成为本题直接考点。解答关键：一、学会读题，",
+      "width": 0.8792372841871422,
+      "x": 0.06144067261334992,
+      "y": 0.7965116277401779
+    },
+    {
+      "confidence": 1,
+      "height": 0.017968217687669097,
+      "text": "抓住选项中的关键信息、明确区分选项方向；二、借助语法知识和语义逻辑理清长难句各部分关系，用",
+      "width": 0.8751206725608301,
+      "x": 0.06349317488239799,
+      "y": 0.7760976154100825
+    },
+    {
+      "confidence": 1,
+      "height": 0.02043950573291653,
+      "text": "“易理解信息”来解决或避开“难以理解的关键词”；三、学会从形容词、副词中抓取作者情感态度。",
+      "width": 0.8159470303368022,
+      "x": 0.0591852555434188,
+      "y": 0.7547966088738692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "解答本题时：首先，发现选项的区分点在于副词 illegally，indirectly，excessively，fairly。随后根据",
+      "width": 0.8368643840760674,
+      "x": 0.10169493357990396,
+      "y": 0.736601307187355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "题目直接定位到第四段③句，并判断句中 have repeatedly“backloaded”是解题关键，但旋即意识到",
+      "width": 0.875,
+      "x": 0.06355931273834772,
+      "y": 0.7180232565066631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "backloaded 一词成了解题的拦路虎。于是转而寻找其他替代信息、发现随后的现在分词短语 keeping..",
+      "width": 0.875,
+      "x": 0.06144068671610158,
+      "y": 0.697385620943985
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352935,
+      "text": "起解释作用，并从中得知信息“政治家们多次间接增加公务员薪酬”，［B］正确。最后将 repeatedly，",
+      "width": 0.877118642093571,
+      "x": 0.06355933033033295,
+      "y": 0.6771241828278205
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02100782955394076,
+      "text": "especially,already 以及上句强调形容词 real相联系，可得知作者是在说明“公务员收益的真相”。",
+      "width": 0.8094456796427719,
+      "x": 0.06137247797634936,
+      "y": 0.6549181750789217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014576683169096882,
+      "text": "Reform has been vigorously opposed®，",
+      "width": 0.34533898157017834,
+      "x": 0.18008474074739694,
+      "y": 0.6279069770871213
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "改革一直遭到强烈反对，最出名的或许是",
+      "width": 0.3474576236637493,
+      "x": 0.5868644114025885,
+      "y": 0.6189542486416277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664082122004873,
+      "text": "perhaps most notoriously® in education, where charter",
+      "width": 0.4555084577953542,
+      "x": 0.06355933611821252,
+      "y": 0.6075581399626058
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "教育部门，其中特许学校、专科院校以及教师",
+      "width": 0.3834745683742844,
+      "x": 0.5487288179769014,
+      "y": 0.5986928102998266
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014605182448243714,
+      "text": "schools, academies®",
+      "width": 0.1652542288976771,
+      "x": 0.06355932808294106,
+      "y": 0.5886627912707453
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0108413247501149,
+      "text": "and merit",
+      "width": 0.08702613015211266,
+      "x": 0.2372072749924348,
+      "y": 0.5897828260235474
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01336259280934049,
+      "text": "pay all faced drawn-out",
+      "width": 0.20550847235526742,
+      "x": 0.3220339028407278,
+      "y": 0.5869281046478378
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "绩效工资（制度）都面临旷日持久的战斗。尽",
+      "width": 0.3877118525614265,
+      "x": 0.5466101792913205,
+      "y": 0.578431372259379
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01338539248198467,
+      "text": "battles. ②Even though there is plenty of evidence that",
+      "width": 0.46398302616963855,
+      "x": 0.06355934017259585,
+      "y": 0.5683139538327926
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "管众多证据表明，教师素质是（影响教育水平",
+      "width": 0.3834745683742844,
+      "x": 0.5487288202408238,
+      "y": 0.5594771244298646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013334092906877149,
+      "text": "the quality of the teachers is the most important",
+      "width": 0.46398302616963855,
+      "x": 0.06355934017259585,
+      "y": 0.547712418485621
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "的）最重要可变因素，但教师工会还是一直抗",
+      "width": 0.38559321046785544,
+      "x": 0.5487288181241231,
+      "y": 0.5392156864370485
+    },
+    {
+      "confidence": 1,
+      "height": 0.015144047705955788,
+      "text": "variable®",
+      "width": 0.07651460807742054,
+      "x": 0.06131896783933101,
+      "y": 0.528765185625513
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014700181499805343,
+      "text": "，teachers' unions have fought against getting",
+      "width": 0.38983049465499764,
+      "x": 0.13559322117532627,
+      "y": 0.5274509806572594
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313437,
+      "text": "议对教师行业进行优胜劣汰。",
+      "width": 0.25211864209357104,
+      "x": 0.5466101736301212,
+      "y": 0.5188953493482329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013305593004413696,
+      "text": "rid of bad ones and promoting good ones.",
+      "width": 0.34322033947660724,
+      "x": 0.06355932489446466,
+      "y": 0.5084967320690437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019091047025194374,
+      "text": "词汇注释与难句分析•",
+      "width": 0.20338983026169638,
+      "x": 0.3877118657166095,
+      "y": 0.4692810457366292
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565282709458338,
+      "text": "①oppose ［o'pouz］w.反对，反抗",
+      "width": 0.23940677497223134,
+      "x": 0.06144067831543805,
+      "y": 0.44183006566369176
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013725490196078494,
+      "text": "• 经典搭配",
+      "width": 0.10593219931799036,
+      "x": 0.5233050878410047,
+      "y": 0.4444444445751018
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014624182383219386,
+      "text": "② notoriously Lnau'toriasli］ad. 出名地",
+      "width": 0.2711864209357109,
+      "x": 0.0614406912270597,
+      "y": 0.4228758172980702
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013170694214066692,
+      "text": "①charter schools（特许学校）",
+      "width": 0.22881354994446268,
+      "x": 0.5233050871464129,
+      "y": 0.4228758170512512
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01337589251449689,
+      "text": "③academy ［o keedami］1.私立中学，学院，学会",
+      "width": 0.3580508341316049,
+      "x": 0.06144068164535585,
+      "y": 0.4052287582978171
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322959388782774,
+      "text": "②merit pay（绩效工资）",
+      "width": 0.18644067895321448,
+      "x": 0.5254237301844098,
+      "y": 0.4039215686856297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014679282319312037,
+      "text": "④variable ［'vearobal］n. 可变的事物，可变的量",
+      "width": 0.3644067604123181,
+      "x": 0.061440690627174235,
+      "y": 0.38662790744080333
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790659985502,
+      "text": "S",
+      "width": 0.010593219567801238,
+      "x": 0.49576271214406553,
+      "y": 0.38226744224270814
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "③get rid of （摆脱）",
+      "width": 0.1483050775891952,
+      "x": 0.5254237314596397,
+      "y": 0.3849673200581061
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013725490196078494,
+      "text": "Even though there is plenty of evidence that the quality of the teachers is the most important variable，",
+      "width": 0.8368643840760674,
+      "x": 0.10381357133590692,
+      "y": 0.3470588235398431
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464888254801433,
+      "text": "teachers’ unions have fought against getting rid of bad ones and promoting good ones.",
+      "width": 0.6949152473274988,
+      "x": 0.06144069300291689,
+      "y": 0.3284883724359585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013446872686249,
+      "text": "句子主干：",
+      "width": 0.08063377496850399,
+      "x": 0.1270559946771682,
+      "y": 0.30650330788286817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860523099262,
+      "text": "teachers’unions have fought against",
+      "width": 0.33898305528946504,
+      "x": 0.22033897844636918,
+      "y": 0.30377906995647364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "getting rid of bad ones and",
+      "width": 0.2584745683742844,
+      "x": 0.5741525430904003,
+      "y": 0.30377907004981497
+    },
+    {
+      "confidence": 1,
+      "height": 0.013370192284677507,
+      "text": "主语",
+      "width": 0.03601694835051322,
+      "x": 0.31144067802283665,
+      "y": 0.28924418649994377
+    },
+    {
+      "confidence": 1,
+      "height": 0.013370192284677507,
+      "text": "谓语",
+      "width": 0.04025423617763374,
+      "x": 0.42796610243554756,
+      "y": 0.28924418649994377
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "并列的动名词结构做宾语",
+      "width": 0.19915254607455424,
+      "x": 0.6144067790548838,
+      "y": 0.28758169958761703
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0117647058823529,
+      "text": "promoting good ones",
+      "width": 0.1949152473274988,
+      "x": 0.2182203400015049,
+      "y": 0.27320261458897943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01333979313669642,
+      "text": "让步状语从旬",
+      "width": 0.11228813287866024,
+      "x": 0.1694915271782546,
+      "y": 0.25555555524708085
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "Even though there is plenty of evidence",
+      "width": 0.362288118318747,
+      "x": 0.10381356592007566,
+      "y": 0.23982558160504763
+    },
+    {
+      "confidence": 1,
+      "height": 0.0133891928429698,
+      "text": "同位语从句",
+      "width": 0.11864406643933012,
+      "x": 0.309322036059996,
+      "y": 0.22352941160912132
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01744186052309915,
+      "text": "个",
+      "width": 0.014830508304916223,
+      "x": 0.42584745760601644,
+      "y": 0.2252906978198458
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "that the quality of the teachersis the most important variable",
+      "width": 0.627118642093571,
+      "x": 0.10169492072076887,
+      "y": 0.20639534929088643
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013292293299257296,
+      "text": "5.导词",
+      "width": 0.059322033219665074,
+      "x": 0.09957627165287934,
+      "y": 0.19019607837303742
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906599855131,
+      "text": "主语",
+      "width": 0.03601694835051328,
+      "x": 0.28601694985369813,
+      "y": 0.19186046537739798
+    },
+    {
+      "confidence": 1,
+      "height": 0.013368292415843253,
+      "text": "系动词",
+      "width": 0.05508474539254454,
+      "x": 0.41525423734610056,
+      "y": 0.19186046553700775
+    },
+    {
+      "confidence": 1,
+      "height": 0.013368292415843253,
+      "text": "表语",
+      "width": 0.03813559408406264,
+      "x": 0.5868644067291552,
+      "y": 0.19186046547886815
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "功能注释：Even though 可视为让步逻辑词 though 的强调形式，用于连接“两个事实”，并强调“即便",
+      "width": 0.8368643840760676,
+      "x": 0.1016949161452292,
+      "y": 0.16993464044285578
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352935,
+      "text": "第一个事实（从句）客观存在，还是会出现与之相悖的第二个事实（主句）”，表明作者对主句行为者“无视",
+      "width": 0.877118642093571,
+      "x": 0.06144067018202813,
+      "y": 0.14967320283158025
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "事实、执拗/任意/强硬行事”（不同程度的）不满。从句中嵌套了修饰 evidence 的定语从句。",
+      "width": 0.7627118525614266,
+      "x": 0.06355932409004952,
+      "y": 0.12790697693321784
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "41",
+      "width": 0.027542372696272244,
+      "x": 0.900423728753088,
+      "y": 0.04052287568633606
+    }
+  ],
+  "vision_ocr_text": "Public-sector pay deals；正确项是对“backloaded”...adding to holidays and especially pensions...的概括。\n［AJ利用②句 real gains come in. .. 和③句 repeatedly backloaded 设置干扰，但由③句后半句具体描\n述可知，该内容实际指公共部门收人中有很大一部分是“间接获得”而非“非法获得”。［C］将原文“工资\n增幅不大”夸大为“大幅增加”。［D］将“不断提高公务员原本就已经丰厚的假期和养老金/体现不公”改\n为与之相悖的“公平调整”。\n［技巧总结］本段③句中副词 repeatedly、especially、already 承载作者语气态度，而且关键词\nbackloaded 难以理解，同时句式结构又很复杂，这使得该句成为本题直接考点。解答关键：一、学会读题，\n抓住选项中的关键信息、明确区分选项方向；二、借助语法知识和语义逻辑理清长难句各部分关系，用\n“易理解信息”来解决或避开“难以理解的关键词”；三、学会从形容词、副词中抓取作者情感态度。\n解答本题时：首先，发现选项的区分点在于副词 illegally，indirectly，excessively，fairly。随后根据\n题目直接定位到第四段③句，并判断句中 have repeatedly“backloaded”是解题关键，但旋即意识到\nbackloaded 一词成了解题的拦路虎。于是转而寻找其他替代信息、发现随后的现在分词短语 keeping..\n起解释作用，并从中得知信息“政治家们多次间接增加公务员薪酬”，［B］正确。最后将 repeatedly，\nespecially,already 以及上句强调形容词 real相联系，可得知作者是在说明“公务员收益的真相”。\nReform has been vigorously opposed®，\n改革一直遭到强烈反对，最出名的或许是\nperhaps most notoriously® in education, where charter\n教育部门，其中特许学校、专科院校以及教师\nschools, academies®\nand merit\npay all faced drawn-out\n绩效工资（制度）都面临旷日持久的战斗。尽\nbattles. ②Even though there is plenty of evidence that\n管众多证据表明，教师素质是（影响教育水平\nthe quality of the teachers is the most important\n的）最重要可变因素，但教师工会还是一直抗\nvariable®\n，teachers' unions have fought against getting\n议对教师行业进行优胜劣汰。\nrid of bad ones and promoting good ones.\n词汇注释与难句分析•\n①oppose ［o'pouz］w.反对，反抗\n• 经典搭配\n② notoriously Lnau'toriasli］ad. 出名地\n①charter schools（特许学校）\n③academy ［o keedami］1.私立中学，学院，学会\n②merit pay（绩效工资）\n④variable ［'vearobal］n. 可变的事物，可变的量\nS\n③get rid of （摆脱）\nEven though there is plenty of evidence that the quality of the teachers is the most important variable，\nteachers’ unions have fought against getting rid of bad ones and promoting good ones.\n句子主干：\nteachers’unions have fought against\ngetting rid of bad ones and\n主语\n谓语\n并列的动名词结构做宾语\npromoting good ones\n让步状语从旬\nEven though there is plenty of evidence\n同位语从句\n个\nthat the quality of the teachersis the most important variable\n5.导词\n主语\n系动词\n表语\n功能注释：Even though 可视为让步逻辑词 though 的强调形式，用于连接“两个事实”，并强调“即便\n第一个事实（从句）客观存在，还是会出现与之相悖的第二个事实（主句）”，表明作者对主句行为者“无视\n事实、执拗/任意/强硬行事”（不同程度的）不满。从句中嵌套了修饰 evidence 的定语从句。\n41",
+  "pdf_text_layer": "pub lic-sector pay dea l s ；正确项是对“ back loaded ”... adding to ho lidays and especia lly pensions . .. 的概括。\n     〔 A］利用 ② 句 rea l gains com e in . . . 和 ③ 句 repea t ed l y b ac k l oaded 设置干扰，但由③句后半句具体描\n述可知，该内容实际指公共部门收入中有很大 一部分是 “间接获 得 ”而非“非法获得” 。［ CJ 将原文“工资\n增幅不大”夸大为“大幅增加” 。［ DJ 将“不断提 高 公务员原本就已 经丰厚 的假期和养老 金／ 体现不公”改\n为与之相悖的“公平调 整”。\n     ［ 技巧总结］ 本段③句中副词 repeatedly 、 especia ll y 、 already 承载作者语气态度，而且关键词\nbackloaded 难以理解，同时句式结构 又很复杂，这使得该 句成为 本题直接考点。解答关键 ： 一、学会读 题，\n抓住选项中的关键信息、明确 区分选项方 向； 二、借 助语法知识和 语义 逻辑理 清长难 句各部分关系，用\n“易理解信息”来解决或避开“难以理解的关键同”； 三 、学会 从形 容词 、副词中抓取作 者情感态度。\n     解答本题时：首先，发现选项的区分点在于副词 il l ega l l y, indirectl y, excessively, fa i rly 。 随后根据\n题目直接定位到第四段③句，并判断句中 have rep eated l y “ b ac k l oaded ”是解题关键，但旋即意识到\nbackloaded 一词成了解题的拦路虎 。于是 转而寻找其他替代信息、发现随后的现在分词短语 keep i ng ...\n起解释作用 ，并 从中得知信息 “政治家 们 多次 间接 增 加公 务员薪酬 ”， ［ BJ 正 确 。最后 将 repeated l y,\nespecia lly, a l r ea dy 以及上句强调形 容 词 r ea l 相联系，可得知作 者是在说明“公务员收益 的 真 相” 。\n\n       V   0 国 R eform has been vigorou sly oppo创d① ，\n                                                                                                   改革一直遭到强烈反对，最出名的或许是\nperhaps most notoriously® in edu ca tion, where chart er\n                                                                                              教育部门，其中特许学校、专科院校以及教师\nschools, academies<:D and merit pay all faced drawn-out\n                                                                                              绩效工资（制度）都面临旷日持久的战斗。尽\nbattles. @Eve n though there is pl ent y of 巳v i d e n ce that\n                                                                                              管众多证据表明，教师素质是（影响教育水平\nt he quality of the teac hers is the mos t important\n                                                                                              的）最重要可变因素，但教师工会还是 一 直抗\nvariable(]) , teachers ' unions have fought aga inst getting\n                                                                                              议对教师行业进行优胜劣汰。\nrid of bad ones and promoting good ones.\n\n\n                                            ；；由i（注释与难旬分析..                                        '. .: fl\n                                                                                             典 阳叫HM\n                                                                                                   非如   达国\n                                                                                                               自\n                                                                                                                     U\n\n\n\n\n                                                                       t\n                                                                       ’ pq 创，，何\n                                                                               q屿y’\n                                                                                  啊’？明 圳 ，\n                                                                                                                   『HS\n( oppose [ a' pauz］ υ．反对 ，反抗\n\n\n                                                                                                                           ∞绩摆      咐卫）\n                                                                                                                                      校\n                                                                                             经 由 mmf\n                                                                                                                             h 效脱\n                                                                                                         Eao\n                                                                                                               UY\n( notoriously [nau 't:xriasli］叫． 出 名 地\n                                                                                                   rp·\n                                                                                                                                      学\n                                                                                                               ｛\n\n\n\n\n                                                                                                                   ift\n                                                                                                                   吨                  许 如\n( academy [a' k能dam1 ] n. 私立中学，学院，学会                                                                                 、\n\n\n\n\n                                                                                             ． ①②③\n                                                                                                             I\n® variable [ 'veariabaJ] n. 可变的事物，可变的量                                                             ll              rt 、、\n\n\n\n\n     Even though there is plenty of evidence that the quality of the teachers is the most important variable,\nteachers' unions have fought against getting rid of bad ones and promoting good ones.\n         句子主干 I teachers ’ unions have fouqht aqainst                                             qettinq rid of bad ones and\n                                   主语                   谓语                                                     并列的动名词结构做宾i吾\n\n\n\n\n               the aualitv of the        te achers     」豆＿            the most imoortant variable\n                                  ？五                 -:,;=-1.. .， 一                                       i五\n\n\n     功能注 释 ： Even though 可视为让 步 逻辑词 th o ugh 的强调形式，用于连接“两个 事实 ” ，并 强调“即便\n\n第一 个 事实 （从句）客观存在 ， 还是 会出 现 与 之相悖的第 二 个事实（主句）”，表明作者对主句行为者“无视\n事实 、执拗 ／任意 ／ 强硬行事”（不同程度的）不满。从句中嵌套了修饰 evidence 的定语从句 。\n\n\n\n\n                                                                                                                                            41",
+  "quality": {
+    "vision_line_count": 62,
+    "vision_character_count": 2036,
+    "pdf_text_character_count": 5865,
+    "nonempty": true
+  }
+}

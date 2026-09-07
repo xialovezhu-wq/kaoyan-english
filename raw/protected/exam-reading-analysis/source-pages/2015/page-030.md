@@ -1,0 +1,123 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2015-P030
+year: 2015
+pdf_page: 30
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2015 解析 PDF p30｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+sort out 的宾语，补充说明问题的具体内容。
+•语篇分析•次
+第七段为第三部分，提出作者建议：最高法院应就“数字信息”对第四修正案保护范围做出新的解
+释。关键词为：applies to digital information now。
+①句明确作者建议：不可全盘接受加州政府观点（判决警方无证搜查嫌疑人手机内容合法）。But转
+承上段末句假定情形“最高法院可能想要为警方留出更多余地”，引出作者强调的观点。California's
+argument回指第三、五段所述加州观点。swallow..whole 意为“轻信，全盘接受（不真实的说法、解释等）”。
+②③句解释理由：“破坏性新技术”有时要求“宪法保护范围的新运用”（即：要求最高法院对宪法作
+出新的解读）。
+②句直接点明理由（A demands B 句式强调需求关系）。New,disruptive technology（disruptive 这里
+强调“变革性”，总体中性、略带褒义）强调新技术的“破坏性，颠覆性”，与其伴随的是新的社会局面、新的
+社会问题。novel applications of the Constitution's protections（novel 意“不循常规的，新颖的”，带有明
+显褒义）则指出宪法保护范围应与时俱进，解决新的问题、提供新的保护。
+③句援引他人所作比较解释②句：正如20 世纪法官们“为私人轿车这一新生私人领域明确新规”，
+如今“必须使第四修正案适用于数字信息”。
+冒号前介绍比较对象（compares...with...）：将“21世纪数字信息爆炸及其可获取性”类比“20世纪
+汽车成生活所需”。explosion（激增，骤增）、accessibility（可达性，可用性）分别从“数量”及“可获取性”
+上说明当前数字信息的“破坏性、颠覆性”（契合上句 New,disruptive technology）。the establishment of
+...as a virtual necessity of life（establishment 意力“被接受，被承认”；a virtual necessity of life 为固定用
+法“生活之必需”）则从“给人们生活带来彻底改变”上说明汽车在20世纪的“破坏性”。
+冒号后明确比较结论（then、now 分别回应 in the 20th、in the 21st century）：当时法官不得不为私人
+轿车这一“新的私人领域”明确新规（即：明确什么情形下可以警方可以“车内搜查”）；如今法官们也必须
+明确第四修正案如何适用于数字信息（即：明确警方在什么情况下可以搜查数字信息）。sort out”解决，
+处理（难题或困烧）”）暗示“第四修正案适用于数字信息”问题非常棘手，但 must、now 强调问题必须立刻
+解决。
+【深层解读】回顾梳理第二至六段，可发现作者明晰的论证逻辑。作者整体观点为“呼吁最高法院
+更新对第四修正案保护范围的诠释，就‘保护数字隐私（警察是否可无证搜查嫌疑人手机内容）’为法律
+界提供指导原则（could and should provide updated guidelines... must sort out how the Fourth
+Amendment applies to digital information now）”：首先通过反驳加州观点指出“基本条件已经具备
+数字信息技术的影响已足够明显、足够多”（第二、三段）、且“现实层面非常必要—智能设备中储有人
+们大量隐私，且这些隐私急需法律保护”（第四段），最后指出“法律层面的必要性—宪法赋予了人们
+隐私文件免受无理搜查的权利，但实际却并未得到有效保护（第五、六段）；最后明确提出这符合立法原
+则—“就新的破坏性技术，对第四修正案保护范围作出新解读”已有先例（第七段）。
+•真题精解•以
+30. Orin Kerr's comparison is quoted to indicate that_
+30. 引用奥林•克尔的对比是为
+了表明
+-。
+［A］ the Constitution should be implemented flexibly
+［A］宪法应该灵活贯彻实施
+［B］ principles of the Constitution should never be altered
+［B］宪法的原则应永不更改
+［C］ California's argument violates principles of the Constitution
+［C］加州观点违反了宪法原则
+［D］ new technology requires reinterpretation of the Constitution
+［D］新技术需要宪法新解读
+［精准定位］根据 Orin Kerr's comparison定位至末段③句，该句类比指出：当初汽车成为生活必需
+30
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+sort out 的宾语，补充说明问题的具体内容 。
+
+                                                 ：·语算方玩： J
+      第七段为第三部分，提出作者建议：最高法院应就“数字信息”对第四修正案保护范围做出新的解
+释 。 关键词为： applies to digital information now 。
+      ①旬明确作者建议：不可全盘接受加州政府观点（判决警方无证搜查嫌疑人孚机内容合法 ）。 But 转
+承上段末句假定情形“最高法院可能想要为 警方 留出更多余地”，引出作者强调的观点。 California’s
+argument 囚指第 三 、五段所述加州观点 。 swallow.. . who l e 意为“轻信，全盘接受（不真实 的说法、解释等）” 。
+      ②③旬解释理由：“破坏性新技术”有时要求“宪法保护范围的新运用” （即：要求最高法院对宪法作
+出新的解读）。
+      ②旬直接点明理由 （ A demands B 旬式强调需求关系）。 New, di srupt ive techno l ogy(clisruptive 这里
+强调“变革性”，总体中性、略带褒义）强调新技术的“破坏性，颠 覆 性” ，与其 伴随的是新的社 会局 面 、 新的
+社会问题 。 nove l applications of t he Constitution ’ s protecti ons( no ve l 意为 “不循常规的 ，新颖 的”，带有明
+显褒义）则指出宪法保护范围应与时俱进，解决新的问题、提供新的保护 。
+      ③旬援引他人所作比较解释②旬：正如 20 世纪法官们“为私人轿车这一新生私人领域明确新规”，
+如今“必须使第四修正案适用于数字信息”。
+      冒号前介绍比较对象（ compares ... with . . . ） ： 将“ 21 世纪数字信息爆炸及其可获取性”类比“ 20 世纪
+汽车成为生活所需”。 exp losion （激增，骤增）、 access ibili ty （ 可达 4性 ，可 用性 ） 分别从 “数量 ”及“可获取性”
+上说明当前数字信息的“破坏性、颠覆性”（契合上句 New, disruptive t echno l ogy ）。 th e es ta bli shment of
+ . . as a virtua l necessity of l ife(es tabli s hm e nt 意为“被接受 ，被 承认”； a virtual necess ity of l ife 为固定用
+法“生活之必需”）则从“给人们生活带来彻底改变”上说明汽车在 20 世纪的“破坏性” 。
+      冒号后 明确比较结论（ th e n 、 now 分 别回 应 in th e 20th 、 in t he 21st ce ntury ）：当时法 官不 得不为私人
+轿车这 一 “新的私人领域”明确新规（即 ： 明确什么情形下可以 警方可 以“车内搜查”） ； 如今法官 们 也 必 须
+明确第四修正案如何适用 于数字信 息（即：明确 瞥方在 什么情况下可以搜查数字信息） 。 sort o u t “解决，
+处理（难题或困境） ") B音示“第 四修正 案适用于数字 ｛言息
+解决 。
+       【深层解读】回顾梳理第二至六段 ，可发现作者明晰的论证逻辑 。 作 者整 体观点为“呼吁 最高 法院
+ 更新对第四修正案保护范围的诠释，就‘保护数 字 隐私（警察是否可无证搜查嫌疑人手机内容）’为法律
+ 界提供指导原 则 （ cou ld and should provid e upda ted guidelines . . . must sort out how the Fourth
+ Amendment app li es to digit al i nformation 口ow ）＂ ： 首先通 过反驳加州｜ 观点指出“基本条件已经具备
+ 数 字信息 技术的 影 响已足够明显、足够 多”（第 二 、 三 段）、且“现实层面非常必要                                                智能设备中储有人
+ 们大 量隐私， 且这些隐私 急需法律保护”（第 四 段），最后指 出 “法律层 面的必要性 一一 宪法赋予了人 们
+ 隐私文件免受元理搜查的权利，但实际却并未得到有效保护（第五、六段）；最后明确提出这符合立法原
+ 则 一一“就新的破坏性技术，对第四修正案保护范围作出新解读”已有先例（第七段〉 。
+
+                                                  ： ：：~美题精：解：：＜： ；／
+  30 . O rin Kerr ’s comparison is quoted to indicate that                        30. 引用奥 林· 克尔的对比是为
+                                                                                  了 表明     。
+
+
+
+
+  [ A] t he Constitution shou ld be implemented fl exib ly                        [ A ］宪法 应该灵活贯彻实施
+
+  [BJ princip les of the Constitution s hou ld never be altered                   [ BJ 宪法的原则应永不更改
+
+  [ C] Ca lifornia ’ s argument violates principles of the Const itution          [CJ 加 州 观点违反了 宪法原 则
+
+  [DJ new techno logy requires r e int erpr巳 rat i o n of th巳 Co n st itut i on   [ DJ 新技 术需要宪法新解读
+
+       ［精准定位］ 根据 Orin Kerr 's comp ar i son 定位至末段③句，该句类 比指出：当初 汽车 成为生活必需
+
+ 30
+```

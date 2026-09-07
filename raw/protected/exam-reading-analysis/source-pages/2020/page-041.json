@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P041",
+  "year": 2020,
+  "pdf_page": 41,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017441860545765242,
+      "text": "［精准定位］第五段②句指出：当前法国数字服务税以及美国的反应给国际税收体系的未来走向打",
+      "width": 0.847133717638381,
+      "x": 0.08704885942213991,
+      "y": 0.9026162788840941
+    },
+    {
+      "confidence": 1,
+      "height": 0.02017301559448237,
+      "text": "上了问号，而据由①句可知，国际税收体制即为国际组织 OECD当前正在开展的一项工作，由此可知，",
+      "width": 0.8855878951701712,
+      "x": 0.05083375784614491,
+      "y": 0.8812692403145972
+    },
+    {
+      "confidence": 1,
+      "height": 0.019680470553311458,
+      "text": "OECD 目前的工作面临不确定的前景，故［C］正确。",
+      "width": 0.4335875409714719,
+      "x": 0.048630903913766496,
+      "y": 0.8632626426837313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372455943645,
+      "text": "L命题解密］正确项 is faced with uncertain prospects 是对②句中 raise questions about what the",
+      "width": 0.851380043841423,
+      "x": 0.0849256786896922,
+      "y": 0.8444767439864177
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016363636363636358,
+      "text": "future holds 的同义改写，题干中 the OECD's current work 是对②句 for 后引出的对象 the international",
+      "width": 0.8874734107484208,
+      "x": 0.04883229012472807,
+      "y": 0.82681818201839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019512634277343732,
+      "text": "tax system 的同义替换（两者为互指关系）—理清这一点也是解答本题的关键所在。",
+      "width": 0.7284205822234459,
+      "x": 0.04662891739777783,
+      "y": 0.8052004300349536
+    },
+    {
+      "confidence": 1,
+      "height": 0.019090909090909047,
+      "text": "［A］利用第三段“法国数字服务税实际反映了一个大趋势：许多国家都提出或实施了针对（美国科技",
+      "width": 0.8450106357006316,
+      "x": 0.08704882376327228,
+      "y": 0.7877272730423754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601479963822794,
+      "text": "巨头所提供的）数字服务的相关税收条款”以及本段①句“OECD 正在与131个国家协力以期探索一个",
+      "width": 0.8832271657091506,
+      "x": 0.04883228332680169,
+      "y": 0.7703488370797524
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860545765242,
+      "text": "各国都能达成共识的国际税收体系”推断出“OECD当前这项工作也是针对美国企业，美国企业势必抵",
+      "width": 0.8853503288106714,
+      "x": 0.04670913066594105,
+      "y": 0.7500000000219679
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02169159108942198,
+      "text": "制这项工作”，但与②句“美国也参与到 OECD这项工作中（美国不可能针对本国企业）”相悖，且文中自",
+      "width": 0.8834789357286819,
+      "x": 0.04657877607282999,
+      "y": 0.7277654978075947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860545765353,
+      "text": "始至终并未提到美国企业的看法或行为；［B］由②句 raise questions 扭曲而来，但它指向“前景疑问重重、",
+      "width": 0.8874734107484208,
+      "x": 0.04670916189401309,
+      "y": 0.7107558139131638
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017727272727272814,
+      "text": "十分不明朗”而非“被质疑，需重新调整”；［D］将②句列举对象“（项目所涉131个国家中包含）美国和法",
+      "width": 0.8853503288106715,
+      "x": 0.04670913540888902,
+      "y": 0.6931818184399401
+    },
+    {
+      "confidence": 1,
+      "height": 0.019090909090909047,
+      "text": "国”曲解为“目前只有这两个国家参与（还需更多国家参与）”。",
+      "width": 0.52016984655502,
+      "x": 0.04883227933395489,
+      "y": 0.6713636366384146
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860545765242,
+      "text": "［技巧总结］本题解答关键在善于透过选项分析题点真实指向。四个选项都真实传递某种评判性",
+      "width": 0.8471337176383809,
+      "x": 0.08492572077210442,
+      "y": 0.6540697674742104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609936627474695,
+      "text": "信息，其中［A］、［C］指向当前问题，［B］、［D］指向改善方向。换而言之，本题考查作者对 OECD当前工作",
+      "width": 0.8832271657091506,
+      "x": 0.046709128458739896,
+      "y": 0.6366279067433737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860545765353,
+      "text": "的一个评价。而回归定位段发现，唯有末句 but 后 raise questions about what the future holds 传递作者",
+      "width": 0.8811040026076297,
+      "x": 0.04883227913673737,
+      "y": 0.6162790695090941
+    },
+    {
+      "confidence": 1,
+      "height": 0.01757886713201351,
+      "text": "观点态度，故而可将正确项聚焦在此，从而锁定与之无论是指向、还是具体内容都相匹配的［C］。",
+      "width": 0.8132785228972739,
+      "x": 0.046660889639733014,
+      "y": 0.5973588041745698
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013181818181818183,
+      "text": "France's planned tax is a clear warning: Unless a",
+      "width": 0.4331210116122631,
+      "x": 0.11464967986265835,
+      "y": 0.5668181817132704
+    },
+    {
+      "confidence": 1,
+      "height": 0.014587737430225678,
+      "text": "法国拟征数字税是一个明确警告：除",
+      "width": 0.31634817732141374,
+      "x": 0.6093418309518198,
+      "y": 0.5581395349582762
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790645252576,
+      "text": "broad consensus",
+      "width": 0.14861995615857715,
+      "x": 0.048832274309246436,
+      "y": 0.5494186049496091
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790645252576,
+      "text": "can be reached",
+      "width": 0.15498937444483982,
+      "x": 0.21019109030765784,
+      "y": 0.5494186050101713
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139540932396,
+      "text": "on reforming the",
+      "width": 0.16772823130830805,
+      "x": 0.3800424639902197,
+      "y": 0.5479651161579834
+    },
+    {
+      "confidence": 1,
+      "height": 0.014756870703263703,
+      "text": "非能就改革国际税收体制达成广泛共识，",
+      "width": 0.3566879110133395,
+      "x": 0.5711252624975764,
+      "y": 0.5406976745585668
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01320295984094777,
+      "text": "international tax system, other nations are likely to follow",
+      "width": 0.5010615409688747,
+      "x": 0.046709149600488255,
+      "y": 0.5290697674552218
+    },
+    {
+      "confidence": 1,
+      "height": 0.014561310247941495,
+      "text": "否则其他国家可能会纷纷效仿，而美国企",
+      "width": 0.35456474791181847,
+      "x": 0.571125272310899,
+      "y": 0.5218023257649621
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013255813772028224,
+      "text": "suit, and American companies will face a cascade of",
+      "width": 0.4989384184492395,
+      "x": 0.04883227281713551,
+      "y": 0.5100000001269167
+    },
+    {
+      "confidence": 1,
+      "height": 0.014714587385004085,
+      "text": "业将面临来自数十个国家一连串的不同",
+      "width": 0.3524416253921834,
+      "x": 0.5711252569733047,
+      "y": 0.5027272728861634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014630020748485295,
+      "text": "different taxes from dozens of nations that will prove①",
+      "width": 0.49469213282808344,
+      "x": 0.04883228226961002,
+      "y": 0.4912790700236831
+    },
+    {
+      "confidence": 1,
+      "height": 0.016078224182128897,
+      "text": "税款，这些税费最后将变得繁重且高昂。",
+      "width": 0.34182589104835026,
+      "x": 0.5690021263866528,
+      "y": 0.48255813919353974
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018144246881658388,
+      "text": "burdensome®and costly®",
+      "width": 0.2064892992060235,
+      "x": 0.04641278428600094,
+      "y": 0.47204981178608985
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013282240954312408,
+      "text": ".［436 words］",
+      "width": 0.1252653953876901,
+      "x": 0.25265392755385485,
+      "y": 0.47363636378765583
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01889534863558684,
+      "text": "词汇注释与难句分析。",
+      "width": 0.20382164894266336,
+      "x": 0.37791932584713955,
+      "y": 0.43168604672145083
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014693446159362744,
+      "text": "①prove Lpruv］v. 证明是，结果是",
+      "width": 0.2696390557796397,
+      "x": 0.04458598890954326,
+      "y": 0.4068181816003844
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013298097523775976,
+      "text": "• 经典搭配",
+      "width": 0.11464968133479991,
+      "x": 0.5053078545767615,
+      "y": 0.4098837208273147
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014556025158275254,
+      "text": "②burdensome［'ba:dnsem］a.难以承担的；繁重的",
+      "width": 0.380042461638755,
+      "x": 0.046709130884444165,
+      "y": 0.38953488365013655
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014556025158275254,
+      "text": "①a cascade of 一连串的",
+      "width": 0.18259024112782585,
+      "x": 0.5138004219785498,
+      "y": 0.3895348839044971
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014725158431313279,
+      "text": "③ costly ［'kostl］ a. 花钱多的，昂贵的",
+      "width": 0.29299362669599816,
+      "x": 0.046709133543114005,
+      "y": 0.3720930234497628
+    },
+    {
+      "confidence": 1,
+      "height": 0.010846623507413056,
+      "text": "②follow",
+      "width": 0.06814976955981966,
+      "x": 0.515818958957884,
+      "y": 0.3746638975947033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013271670341491681,
+      "text": "suit 效仿某人；照着做",
+      "width": 0.17197452707493566,
+      "x": 0.5796178302841882,
+      "y": 0.37354651149591933
+    },
+    {
+      "confidence": 1,
+      "height": 0.016095714569091868,
+      "text": "语篇分析",
+      "width": 0.08072490387774528,
+      "x": 0.4330982694254278,
+      "y": 0.3473300496279371
+    },
+    {
+      "confidence": 1,
+      "height": 0.019117336273193453,
+      "text": "第六段为第三部分，点评法国数字服务税的警示意义：各国数字税或将纷至沓来，美国科技企业负",
+      "width": 0.8407643094975897,
+      "x": 0.08704883815991003,
+      "y": 0.31954545413471636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01889534863558684,
+      "text": "“税”前行。关键词为：①a clear warning； ②follow suit； ③a cascade of different taxes。",
+      "width": 0.7176220670659492,
+      "x": 0.04246284655195118,
+      "y": 0.2994186045630206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019874089847911502,
+      "text": "独句成段，冒号起分隔线作用，冒号前借判断句式 Ais B明确法国数字服务税的警示功能（a clear",
+      "width": 0.8473457174098238,
+      "x": 0.08692824376262895,
+      "y": 0.2807193245658669
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860545765242,
+      "text": "warning），胃号后详细解释其具体警示内容，其中 unless“除非⋯•，如果不•••”引出排除不良后果的条",
+      "width": 0.8811040026076297,
+      "x": 0.04883228010099768,
+      "y": 0.26308139521161344
+    },
+    {
+      "confidence": 1,
+      "height": 0.01909090909090916,
+      "text": "件：国际税收体制改革达成共识，即，众所支持的国际解决方案达成，但据由上段末句“前景疑问重重、十分",
+      "width": 0.8853503288106715,
+      "x": 0.04670913540888902,
+      "y": 0.2440909090567912
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860545765242,
+      "text": "不明朗”可知这一条件实属不易创建；句子重心实际落在主句 are likely to...and...（and 暗藏因果语义关",
+      "width": 0.8853503288106715,
+      "x": 0.04670913289827342,
+      "y": 0.22674418618060566
+    },
+    {
+      "confidence": 1,
+      "height": 0.017473572817715777,
+      "text": "联），强调法国数字税的不良影响：其他国家将很可能纷纷效仿法国，美国企业将不堪繁重税负而艰难前",
+      "width": 0.8832271657091506,
+      "x": 0.04670914107627086,
+      "y": 0.206363636628755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017727272727272814,
+      "text": "行；follow suit”效仿”、a cascade of”小瀑布般的”、dozens of”许多”从数量上强调效仿国家之多，美国企业面",
+      "width": 0.8832271657091506,
+      "x": 0.04670912441718718,
+      "y": 0.18727272701437947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01750000000000007,
+      "text": "临的数字税各异；burdensome and costly 明确税费高昂，将给美国企业带来沉重负担，进而影响其发展。",
+      "width": 0.8513800438414229,
+      "x": 0.04670913591722195,
+      "y": 0.1700000000645493
+    },
+    {
+      "confidence": 1,
+      "height": 0.017473572817715666,
+      "text": "【深层解读】本段独立句长且复杂，需借助标点符号、逻辑词、连接词、评注词进行理解：（1）借助冒号",
+      "width": 0.8471337176383811,
+      "x": 0.08280257398335716,
+      "y": 0.15116279076117056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02273034355857162,
+      "text": "判断全段“总一分”关联：先总说警示作用，再分述警示内容；（2）借助 Unless 判断冒号后“条件一结果”关",
+      "width": 0.8856703575621261,
+      "x": 0.044439665530337555,
+      "y": 0.12925678624859682
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01909090909090916,
+      "text": "联：只有找到国际性解决方案，不良影响才能解除，（3）借助and 明确“原因一结果”关联：多国效仿数字",
+      "width": 0.8853503288106715,
+      "x": 0.04670913319551333,
+      "y": 0.11181818208122396
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860545765242,
+      "text": "税一美国企业面临各式数字税；（4）借助 a cascade of、burdensome、costly 判断作者立意：法国数字税可能",
+      "width": 0.8832271657091506,
+      "x": 0.046709141880031814,
+      "y": 0.09447674429107089
+    },
+    {
+      "confidence": 1,
+      "height": 0.01466173388741232,
+      "text": "引发多国效仿，美国企业将不堪沉重税负。",
+      "width": 0.36305731915413064,
+      "x": 0.04670913598556732,
+      "y": 0.07545454510053251
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790645252576,
+      "text": "41",
+      "width": 0.02335456330725494,
+      "x": 0.8917197458410647,
+      "y": 0.04796511659403302
+    }
+  ],
+  "vision_ocr_text": "［精准定位］第五段②句指出：当前法国数字服务税以及美国的反应给国际税收体系的未来走向打\n上了问号，而据由①句可知，国际税收体制即为国际组织 OECD当前正在开展的一项工作，由此可知，\nOECD 目前的工作面临不确定的前景，故［C］正确。\nL命题解密］正确项 is faced with uncertain prospects 是对②句中 raise questions about what the\nfuture holds 的同义改写，题干中 the OECD's current work 是对②句 for 后引出的对象 the international\ntax system 的同义替换（两者为互指关系）—理清这一点也是解答本题的关键所在。\n［A］利用第三段“法国数字服务税实际反映了一个大趋势：许多国家都提出或实施了针对（美国科技\n巨头所提供的）数字服务的相关税收条款”以及本段①句“OECD 正在与131个国家协力以期探索一个\n各国都能达成共识的国际税收体系”推断出“OECD当前这项工作也是针对美国企业，美国企业势必抵\n制这项工作”，但与②句“美国也参与到 OECD这项工作中（美国不可能针对本国企业）”相悖，且文中自\n始至终并未提到美国企业的看法或行为；［B］由②句 raise questions 扭曲而来，但它指向“前景疑问重重、\n十分不明朗”而非“被质疑，需重新调整”；［D］将②句列举对象“（项目所涉131个国家中包含）美国和法\n国”曲解为“目前只有这两个国家参与（还需更多国家参与）”。\n［技巧总结］本题解答关键在善于透过选项分析题点真实指向。四个选项都真实传递某种评判性\n信息，其中［A］、［C］指向当前问题，［B］、［D］指向改善方向。换而言之，本题考查作者对 OECD当前工作\n的一个评价。而回归定位段发现，唯有末句 but 后 raise questions about what the future holds 传递作者\n观点态度，故而可将正确项聚焦在此，从而锁定与之无论是指向、还是具体内容都相匹配的［C］。\nFrance's planned tax is a clear warning: Unless a\n法国拟征数字税是一个明确警告：除\nbroad consensus\ncan be reached\non reforming the\n非能就改革国际税收体制达成广泛共识，\ninternational tax system, other nations are likely to follow\n否则其他国家可能会纷纷效仿，而美国企\nsuit, and American companies will face a cascade of\n业将面临来自数十个国家一连串的不同\ndifferent taxes from dozens of nations that will prove①\n税款，这些税费最后将变得繁重且高昂。\nburdensome®and costly®\n.［436 words］\n词汇注释与难句分析。\n①prove Lpruv］v. 证明是，结果是\n• 经典搭配\n②burdensome［'ba:dnsem］a.难以承担的；繁重的\n①a cascade of 一连串的\n③ costly ［'kostl］ a. 花钱多的，昂贵的\n②follow\nsuit 效仿某人；照着做\n语篇分析\n第六段为第三部分，点评法国数字服务税的警示意义：各国数字税或将纷至沓来，美国科技企业负\n“税”前行。关键词为：①a clear warning； ②follow suit； ③a cascade of different taxes。\n独句成段，冒号起分隔线作用，冒号前借判断句式 Ais B明确法国数字服务税的警示功能（a clear\nwarning），胃号后详细解释其具体警示内容，其中 unless“除非⋯•，如果不•••”引出排除不良后果的条\n件：国际税收体制改革达成共识，即，众所支持的国际解决方案达成，但据由上段末句“前景疑问重重、十分\n不明朗”可知这一条件实属不易创建；句子重心实际落在主句 are likely to...and...（and 暗藏因果语义关\n联），强调法国数字税的不良影响：其他国家将很可能纷纷效仿法国，美国企业将不堪繁重税负而艰难前\n行；follow suit”效仿”、a cascade of”小瀑布般的”、dozens of”许多”从数量上强调效仿国家之多，美国企业面\n临的数字税各异；burdensome and costly 明确税费高昂，将给美国企业带来沉重负担，进而影响其发展。\n【深层解读】本段独立句长且复杂，需借助标点符号、逻辑词、连接词、评注词进行理解：（1）借助冒号\n判断全段“总一分”关联：先总说警示作用，再分述警示内容；（2）借助 Unless 判断冒号后“条件一结果”关\n联：只有找到国际性解决方案，不良影响才能解除，（3）借助and 明确“原因一结果”关联：多国效仿数字\n税一美国企业面临各式数字税；（4）借助 a cascade of、burdensome、costly 判断作者立意：法国数字税可能\n引发多国效仿，美国企业将不堪沉重税负。\n41",
+  "pdf_text_layer": "cm•m~J MEa®1iJffiill:~mr~®•*•*•~i~®~&~M~~•i&f*•~**~~n\n_t T laJ % , rrff ffl EE CD 1iJ AJ ~ , IE ~ ffl. i& 1* ft!J l!P '1 IE ~ ffl ~ OECD ~ 1ro iE t£ :ff JI 89-J.'fli I fl: , EE .ilt AJ ~ ,\nOECD § lru 89 I fl: ffif ljffi IF ifu ~ 89 litr ~ , i& [ CJ iE ?ifD o\n       [ 'lfi;'IMNH!] iE iiJu J.'fli is faced with uncertain prospects ¾ X;J\"@ 1iJ i:p raise questions about what the\nfuture holds f.19jAJJ(~~ ,R31Ff E:fl the OECD's current work ¾»J@1ij for Fo5l ili f.19X.f~ the international\ntax system a{] fAJ Jl.~~CiW\"~'11L ffi ~. ) - J l l ! ~ i!-ti. -m HdOf. !al a<J ~ tle!r ;a: o                               *\n       [A]~Jm• =m\"t!ffilJJt~Bfl*ijt;g~~.&~ 7-1':k~~ :ilf~~*ffiHlill~~Mi7ttX.J-(~ffilf4tt\ne~FJr-{Jtl'f9)JJt:~Bll* a<Jffl~ffl.l&*~\" ~ i*aCD1iJ\"OECD iEtE ey 1311'- ffil                                   jJ 12,( Jt.§ ~~-1'-                   *t,)}\n*   ®~fi~:iismt~iJHm ffil ~~i&f*• \"ft~ ill \"OECD ~lru~J.Jiifp-mn:ttx.J-~ IE ie~ '~ ffilie~~~'~\ntfJi!J:D!Ifl:\" ,@ ey@1i)\"~ 00-lt!.~ eyi]J OECD l!~Ifl: i:p (~ffil ~AJi~ttX.f* ~{e:~)\"ffiit, liX i:p §\nMt ~~#*~itl~ ffil1i:':~l'f9~f! ~n-'1; [BJ EE ®1iJ raise questions ffi aiI W* ,{B 'Effi JP.J \"iru~- foJ ltm:,\n+?t~~ Wi\"W~~\"film~ ,~ltttrillJm\" ;[D]~@1i]Jtl~X;J\"~ \"(~ § J!fr7!P 1311'-ffil* i:p,fQ ~ 00 ~~                                                                         *)\nffil\"aiI ~ '1\" § fir .Rtf i!IW-1' IE*~ \"3 <i£~]!$ ffil *~~)\" o\n     [~~-~] *~m-~ma•~•MB~*fi~~-~ffiJP.Jo ~-t-B~--~*a¥MWfttt\nWf '~\" jt i:p[A] ,[C]ffi IP) ~filjfcij~, [BJ , [ D]ffi IP) &@:n IP.) ~ w-;;-z ·*N!~~fl:;ff X;J- OECD ~ntr I fl:\n                                                                                                         O\n\n\n\nf.19-1'-Wfft o W IID !1:J ~'UL-~~, llltf 3K 1iJ but Fo raise questions about what the future holds ft:ii fp ~\nxW. R-\\ ~ If , i& rrff iiJ ~ iE ifu J'fli ~ ~ t£ ~ , bl im tl!UE ~                       zx\n                                                                   i~ Rdt IPl , ~¾Ji «qJg $$ ffl ~ Be 89 [ CJ o\n.............................................................................................................................................................................................\n           Y.I France's planned tax is a clear warning: Unless a\n                                                                                                                        *~~~~~«~-+~~¥%:~\nbroad consensus can be reached on reforming the\n                                                                                                                ••a*•~~«~~~~~r~~~,\ninternational tax system, other nations are likely to follow\n                                                                                                                ~~~~~~~ ft½••~#,~A~¼\nsuit, and Ameriean companies will face a cascade of\ndifferent taxes from 'dozens of nations that w11l prove<D\n                                                                                                               A-~-·~-~+~~-~,~~~\n                                                                                                               ,ft .tl ' ~ ~ ~ f l. 15 ;It- :t ~, 41.- 1: J1. ilj !fi                  0\n\nburdensome(%) and costly~. [ 436 words]\n\n\n\n(Dprove [pru.'V] v. iiEl91~J~*~                                                              ~     e ~Rf!Dc\n® burdensome [ 1b3:dnsam] a. ~V,.C~fflf.19 ,~ffi:f.19                                        ~ <Da cascade of -it lif!l 89\n@ costly [ 1kostli] a. :lt-tla $ {f1] 1 Ea :ft {f1J                                          ~     ®follow suit ~{b-;JitA. 1 fl~~fMc\n\n                                                                            !::~:: ~jij    iJi:::~l:I\n       M*. Ji '1 M=- $ ~ , .~ i:ifi i1l lil ~                      *   ftll ~ ~ tr-J If~ :I >l. : 4S- 00 ~\n                                                                                                        ~ ~~~            *,~ ~,\n                                                                                                                     ~ 00 ~ ~ ~ ).11! 1n                *,\n\"~ \"l!trff O -~ itiffl '1 :©a clear warning; (i)follow suit ;@a cascade of different taxeso\n                                                                                                                                      * *\n       J!ll 1iJ nt Jl: , ii -iJ- ts ,t 1S1 ~ ~ ffl , I Ji} fir f{r !J!U *r 1U ~ A is B IYl rifft ~ ffil ~ Bfl ffl ~ If 71\\ :ro lla <a cl ear\n warning), jf-ij-Ji§'~fmf8¥~itA1*tfll\\ P-J !/J., ;it; ,:P unless\"~~!: '\"\"', ~O.*~ \"' ···\"51 ill t-lF~~ ~.Fo.* ~ 4k\n{4: : ml ~ $t ®: 1*$1J i3Jr1/i 12i nt3't iR , f!P , ~Yr~ ft:~ IE ~jfm tk: 1i ~ 12i ~ , {B ffl EH ..t & 3K 1iJ \"!fr ff: MlaJ '.i: ii , +?t\n~r!ijw:J\"iiJ~iX- ~{tf:~Jil~~itllt;1iJrffi:,C.,~~ti?:E3:.1U are likely to... and. .. (and Hffjl[z51.*if Jl.~\nJ0c) ,5.l~t!IEfl*ffl.f.19~ ~~Plfij :1tftB ffil~~~li iij\"j~~~~{jj~ IE ,~ !Eit~~~tl~ffi'.fflf!J. ii'il~ll~l3tr\nfr; follow suit\" 3'a{Ji\" ,a cascade of\"1j, • ~ JJi ~\", dozens of\" itf ~\"JA fl :I: ..t 51 ~ 3'a ,tJj IE ~ Z ~ , ~ ml it~ ffii\n11$ ~ ~     *ffl                                                                                                               *\n                  4f ~ J burdensome and costly ~ .fft ffl ft jij er; , ~ ~ ~ ffil it~ irf mffl: fA ffl , J! iffi ~ Pjaj jt; ~ Ji o\n      1~ ~ •~1 *li~lt 'Rl *il.: ~, 11fi 11J 4*a ~~ ~il*'liffl ,~ tiiffl, 1ifl~lffl utfr11.,w : <1)1tWJ, ~\n~Jli'r~Ei\" ,m.-~\"*~ :1e,m.i#.tfmf'Fffl ,.f:IJ.?t~ tfm r*J~; (2){1 !fJ Unless 1U1'rl ~ Ja\"*{lf-~~\"~\nl0c: ..R.~tliJJ Ii ~j·~-lk:-Jr• ,~ ~~P(ii]~~-~, (3){1 !fJ and f9l ill\" ffltfzsl-iit*''~~: ~ fi~#i'1*\nm---~ ~{e~ ffiillai.§~ fl*ffl , (4)ff lib a cascade of . . burdensome,costly ,o $i-~;1-Jt.: t! ffilfl*ffl iij\"ft~\ni3l ~~ ~3'&,fjj, ~ ~ 1e:~}!f~t1mmmf!t o\n                                                                                                                                                                                     41",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2178,
+    "pdf_text_character_count": 5947,
+    "nonempty": true
+  }
+}

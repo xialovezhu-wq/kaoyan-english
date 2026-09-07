@@ -1,0 +1,662 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P044",
+  "year": 2021,
+  "pdf_page": 44,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.025038118527510256,
+      "text": "学二、语篇分析",
+      "width": 0.1874971187643003,
+      "x": 0.06260296003321764,
+      "y": 0.9178342353383615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "I In the movies and on television, artificial intelligence",
+      "width": 0.43907562432261565,
+      "x": 0.10504201931628328,
+      "y": 0.898135818668401
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046606,
+      "text": "在影视剧中，人工智能通常被描绘为一",
+      "width": 0.3403361179006352,
+      "x": 0.6050420284866571,
+      "y": 0.8894806923792015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016234168041244446,
+      "text": "is typically\"depicted as something sinister® that will upend®",
+      "width": 0.47899158749736576,
+      "x": 0.06092436833114915,
+      "y": 0.8779069769486623
+    },
+    {
+      "confidence": 1,
+      "height": 0.016299971569076477,
+      "text": "种邪恶不祥之物，会颠覆我们的生活方式。",
+      "width": 0.38445377533605796,
+      "x": 0.5651260583141137,
+      "y": 0.8691860467887785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013360092706591331,
+      "text": "our way of life. When it comes to Al in business, we often",
+      "width": 0.48319325235767396,
+      "x": 0.060924374171303336,
+      "y": 0.8601864183276808
+    },
+    {
+      "confidence": 1,
+      "height": 0.01620126627732854,
+      "text": "每每谈及商业领域的人工智能，我们通常听",
+      "width": 0.38025208107538533,
+      "x": 0.5651260582228115,
+      "y": 0.8515312917267709
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "hear about it in relation to automation and the impending®",
+      "width": 0.4789915874973657,
+      "x": 0.060924380043333864,
+      "y": 0.8415446073868648
+    },
+    {
+      "confidence": 1,
+      "height": 0.016141268606985948,
+      "text": "到的是，它与自动化以及日益逼近的失业相",
+      "width": 0.3823529429059037,
+      "x": 0.5651260533789808,
+      "y": 0.8313953492342727
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "loss of jobs, but in what ways is Al changing companies and",
+      "width": 0.4831932523576741,
+      "x": 0.060924388264440146,
+      "y": 0.8226744191680049
+    },
+    {
+      "confidence": 1,
+      "height": 0.016272876297586225,
+      "text": "牵连。然而，在人工智能变革企业和经济大",
+      "width": 0.3781512486452312,
+      "x": 0.5672268993868682,
+      "y": 0.8139534887400867
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01471874653578753,
+      "text": "the larger economy that don't involve doom-and-gloom®",
+      "width": 0.4768907550672115,
+      "x": 0.06302520672759877,
+      "y": 0.8035952064959951
+    },
+    {
+      "confidence": 1,
+      "height": 0.01610643155724012,
+      "text": "环境的种种方式中，有哪些方式并不预示着",
+      "width": 0.38025208107538533,
+      "x": 0.5651260599875174,
+      "y": 0.794940079615464
+    },
+    {
+      "confidence": 1,
+      "height": 0.013385253962124422,
+      "text": "mass unemployment predictions？",
+      "width": 0.26050419155113497,
+      "x": 0.0630252125437603,
+      "y": 0.7848837206951326
+    },
+    {
+      "confidence": 1,
+      "height": 0.014660684786211187,
+      "text": "悲惨的大规模失业呢？",
+      "width": 0.19327730388310604,
+      "x": 0.5672268962097075,
+      "y": 0.7776162795408916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "I A recent survey of manufacturing and service",
+      "width": 0.4390756243226156,
+      "x": 0.10504202525991056,
+      "y": 0.7659883726200398
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "塔塔咨询服务公司近期针对制造业和服",
+      "width": 0.3424369797311537,
+      "x": 0.605042010911734,
+      "y": 0.7587209305583336
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "industries from Tata Consultancy Services found that",
+      "width": 0.4831932817580384,
+      "x": 0.06092437235627484,
+      "y": 0.7483355527580392
+    },
+    {
+      "confidence": 1,
+      "height": 0.016011596202215372,
+      "text": "务业的一项调查发现，当前企业更多地将人",
+      "width": 0.3823529429059038,
+      "x": 0.565126049639485,
+      "y": 0.7383488684588607
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014811645970046139,
+      "text": "companies currently use Al more often in computer-to-",
+      "width": 0.4789915874973658,
+      "x": 0.06302521682554676,
+      "y": 0.7281976750447676
+    },
+    {
+      "confidence": 1,
+      "height": 0.016209008055584118,
+      "text": "工智能应用于计算机对计算机的活动，而不",
+      "width": 0.38025208107538544,
+      "x": 0.5672269044412988,
+      "y": 0.7194767445540402
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403758,
+      "text": "computer activities than in automating human activities.",
+      "width": 0.47689075506721157,
+      "x": 0.06302521864986729,
+      "y": 0.7107558138796586
+    },
+    {
+      "confidence": 1,
+      "height": 0.016170299799242338,
+      "text": "是人类活动的自动化。以下是人工智能在不",
+      "width": 0.3823529429059038,
+      "x": 0.5651260543348631,
+      "y": 0.700399467438142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "Here are a few ways Al is aiding companies without",
+      "width": 0.48109241992751983,
+      "x": 0.06302522462132397,
+      "y": 0.6917443408742702
+    },
+    {
+      "confidence": 1,
+      "height": 0.014647137150466172,
+      "text": "取代员工的情况下为企业提供帮助的方式：",
+      "width": 0.3676470570940962,
+      "x": 0.5651260543486101,
+      "y": 0.6830892146856036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014784550698555776,
+      "text": "replacing®employees：",
+      "width": 0.1890756243226156,
+      "x": 0.0609243750760871,
+      "y": 0.6729651166629849
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669256,
+      "text": "词汇注释与难句分析",
+      "width": 0.1911764714529519,
+      "x": 0.3949579841264652,
+      "y": 0.6337209305015741
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100348,
+      "text": "①typically ［tpikli］ ad. 通常；一般",
+      "width": 0.2710084125026343,
+      "x": 0.060924367887338265,
+      "y": 0.6075581400060079
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "④impending ［Im'pendn］a.（不愉快的事）即将发生的",
+      "width": 0.41386554695967304,
+      "x": 0.5315126076276063,
+      "y": 0.6075581400018552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014771002427874547,
+      "text": "② sinister ［'sinista（r）］a. 邪恶的",
+      "width": 0.2478991675698459,
+      "x": 0.06092436331591747,
+      "y": 0.5898801599207687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317514513526252,
+      "text": "⑤doom-and-gloom a. 前景黯淡的",
+      "width": 0.25210083243015413,
+      "x": 0.5336134472303012,
+      "y": 0.5898801600069419
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "③upend ［ap'end］ v. 颠覆",
+      "width": 0.19537815101344233,
+      "x": 0.060924371499581326,
+      "y": 0.5725699067428387
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015996113280640434,
+      "text": "⑥replace ［ri'plers］ v.代替；取代",
+      "width": 0.25210083243015413,
+      "x": 0.5315126082597128,
+      "y": 0.571220930727732
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014683909486041813,
+      "text": "When it comes to Al in business, we often hear about it in relation to automation and the impending loss",
+      "width": 0.8529411418819244,
+      "x": 0.10294120672010187,
+      "y": 0.5392441861881785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018817490172608364,
+      "text": "of jobs, but in what ways is Al changing companies and the larger economy that don't involve doom-and-",
+      "width": 0.893005900300307,
+      "x": 0.0629381811384325,
+      "y": 0.5182332836347163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "gloom mass unemployment predictions？",
+      "width": 0.3214285672285194,
+      "x": 0.06302521224935599,
+      "y": 0.5013315582121963
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464982737555165,
+      "text": "结构切分：",
+      "width": 0.09247475919925637,
+      "x": 0.10082144485407628,
+      "y": 0.48104717968316746
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907124403758,
+      "text": "主句",
+      "width": 0.031512604053769266,
+      "x": 0.4285714292906423,
+      "y": 0.46511627905823005
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418575119248,
+      "text": "When",
+      "width": 0.042016806630040884,
+      "x": 0.1113445374412821,
+      "y": 0.4505813955331769
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.00880608768183766,
+      "text": "it",
+      "width": 0.012605041437755427,
+      "x": 0.1701680676739794,
+      "y": 0.4505813955248733
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01025957623112217,
+      "text": "comes to Al in business，",
+      "width": 0.16176469982933675,
+      "x": 0.19537815630907104,
+      "y": 0.44912790700967875
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "时间状",
+      "width": 0.05252100553126693,
+      "x": 0.36344537893079515,
+      "y": 0.44912790683023995
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01335235156327208,
+      "text": "we often hear about it in relation to automation and the impending loss of jobs",
+      "width": 0.5189075506721159,
+      "x": 0.4369747896061691,
+      "y": 0.4474034618631998
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "分句1：",
+      "width": 0.052521005531266936,
+      "x": 0.05042017015978668,
+      "y": 0.4387483358660843
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "引导词 主语 谓语",
+      "width": 0.13865545489654835,
+      "x": 0.10714286199500311,
+      "y": 0.4300932089796722
+    },
+    {
+      "confidence": 1,
+      "height": 0.01334267449918658,
+      "text": "宾语",
+      "width": 0.03571428361425971,
+      "x": 0.28991596709518114,
+      "y": 0.4314247670522853
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046606,
+      "text": "语从句",
+      "width": 0.05252100553126693,
+      "x": 0.3634453792984422,
+      "y": 0.4287616511273298
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "主语",
+      "width": 0.03361344383401449,
+      "x": 0.42857142962360906,
+      "y": 0.43142476705003785
+    },
+    {
+      "confidence": 1,
+      "height": 0.014674232421956201,
+      "text": "谓语",
+      "width": 0.03571428361425977,
+      "x": 0.5000000007611475,
+      "y": 0.43009320923628
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "宾语",
+      "width": 0.033613443834014434,
+      "x": 0.5651260514723486,
+      "y": 0.43142476705003785
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "定语",
+      "width": 0.035714283614259656,
+      "x": 0.7436974795951811,
+      "y": 0.4314247669046891
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014832935384046841,
+      "text": "分句2：",
+      "width": 0.052521005531266936,
+      "x": 0.05042017010726569,
+      "y": 0.3921438082363987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010652463064688922,
+      "text": "but",
+      "width": 0.025210082875510867,
+      "x": 0.1239495807261101,
+      "y": 0.39946737709892666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008957049500608938,
+      "text": "in what ways",
+      "width": 0.08613445304032696,
+      "x": 0.15966386677815583,
+      "y": 0.4011627908591757
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010652463064689033,
+      "text": "IS",
+      "width": 0.014705882136761994,
+      "x": 0.26050420191131096,
+      "y": 0.39946737706864566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "AI",
+      "width": 0.018907563534775185,
+      "x": 0.30672268869829866,
+      "y": 0.3994673770163871
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "changing",
+      "width": 0.06092436832729331,
+      "x": 0.411764707538034,
+      "y": 0.3981358189801114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "companies and the larger economy",
+      "width": 0.22268907550672123,
+      "x": 0.5672268945295523,
+      "y": 0.39813581915798835
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "连接词",
+      "width": 0.05042016575102172,
+      "x": 0.10924369827695012,
+      "y": 0.38215712408267966
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016098689778984432,
+      "text": "状语个",
+      "width": 0.050420165751021734,
+      "x": 0.186974791284153,
+      "y": 0.3821571240124212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "be动词主语 现在分词（与be动词构成谓语）",
+      "width": 0.3214285672285193,
+      "x": 0.2457983241063285,
+      "y": 0.38215712411693825
+    },
+    {
+      "confidence": 1,
+      "height": 0.014658749500381374,
+      "text": "宾语",
+      "width": 0.033613443834014545,
+      "x": 0.6659663872216482,
+      "y": 0.380813953690601
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688268,
+      "text": "定语从句修饰ways",
+      "width": 0.13655462246639422,
+      "x": 0.0945378161827693,
+      "y": 0.3619186045323419
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010261511834420145,
+      "text": "that",
+      "width": 0.031512604053769266,
+      "x": 0.14075630262122463,
+      "y": 0.34593023248206245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "don't involve doom-and-gloom mass unemployment predictions？",
+      "width": 0.44327728918292386,
+      "x": 0.20798320045405636,
+      "y": 0.3428761649787906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014753583585533359,
+      "text": "引导词作主语 谓语",
+      "width": 0.1701680589503176,
+      "x": 0.09873950163828653,
+      "y": 0.32412790744786846
+    },
+    {
+      "confidence": 1,
+      "height": 0.014753584220469795,
+      "text": "宾语",
+      "width": 0.05042016575102176,
+      "x": 0.4537815142673462,
+      "y": 0.32412790738972885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01617223508507215,
+      "text": "功能注释：本句可分为两个并列分句。分句1中时间状语从句 When it comes to...引出话题“商业",
+      "width": 0.8529411418819244,
+      "x": 0.10084036195819746,
+      "y": 0.3035952065527482
+    },
+    {
+      "confidence": 1,
+      "height": 0.01604836917272745,
+      "text": "领域的人工智能”，主句介绍人们对此的刻板印象。分句2中主句为特殊疑问句，转而就该刻板印象提",
+      "width": 0.8928571344570387,
+      "x": 0.06092438032550219,
+      "y": 0.28488372129822614
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016209008055584118,
+      "text": "出质疑，其中嵌套定语从句修饰 ways。",
+      "width": 0.32983192634950026,
+      "x": 0.06092437021110424,
+      "y": 0.26431424742671294
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.021177185835755674,
+      "text": "•语篇分析•炎",
+      "width": 0.1598810772905001,
+      "x": 0.43056366417674713,
+      "y": 0.2379579191046305
+    },
+    {
+      "confidence": 1,
+      "height": 0.01615288095690126,
+      "text": "第一、二段引出话题：人工智能对企业的助益。",
+      "width": 0.3991596611478655,
+      "x": 0.10084034148489074,
+      "y": 0.21220930263543547
+    },
+    {
+      "confidence": 1,
+      "height": 0.01622642626298887,
+      "text": "第一段设问：商业领域的人工智能可否既助益企业，又不取代员工？",
+      "width": 0.5777310939193461,
+      "x": 0.100840341170579,
+      "y": 0.19307589909576173
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599417799481062,
+      "text": "①句铺陈人们对人工智能的刻板印象。In...movies...television...typically depicted as 点明人们",
+      "width": 0.8529411418819244,
+      "x": 0.10084036195819746,
+      "y": 0.17441860501915651
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "刻板印象的来源：大众传媒的舆论导向；sinister、upend 强调人们眼中的人工智能邪恶不祥、破坏力强。",
+      "width": 0.8949579668871929,
+      "x": 0.060924386850521,
+      "y": 0.15552325619786833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600966091638567,
+      "text": "②句过渡到人们对商业领域人工智能的刻板印象，并由此抛出问题。When it comes to Al in business 将",
+      "width": 0.8907563020268846,
+      "x": 0.060924363632416066,
+      "y": 0.13515312943405922
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01621094334141393,
+      "text": "全文关注点由上句“人工智能”缩窄至“商业领域的人工智能”；often hear about it in relation to... 承上",
+      "width": 0.8907563020268846,
+      "x": 0.06092437241092738,
+      "y": 0.11627906986290626
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0161683638784762,
+      "text": "typically depicted as 引出人们对商业领域人工智能的刻板印象：带来自动化和日益逼近的失业；in what",
+      "width": 0.8970587993173471,
+      "x": 0.05882354406506587,
+      "y": 0.09720372864960569
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014720682456553669,
+      "text": "ways...changing...don't involve...unemployment 设问引题。",
+      "width": 0.5315126040537692,
+      "x": 0.0630252193666725,
+      "y": 0.07848837223469007
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "44",
+      "width": 0.023109243095265658,
+      "x": 0.07352941187673692,
+      "y": 0.05792276957956699
+    }
+  ],
+  "vision_ocr_text": "学二、语篇分析\nI In the movies and on television, artificial intelligence\n在影视剧中，人工智能通常被描绘为一\nis typically\"depicted as something sinister® that will upend®\n种邪恶不祥之物，会颠覆我们的生活方式。\nour way of life. When it comes to Al in business, we often\n每每谈及商业领域的人工智能，我们通常听\nhear about it in relation to automation and the impending®\n到的是，它与自动化以及日益逼近的失业相\nloss of jobs, but in what ways is Al changing companies and\n牵连。然而，在人工智能变革企业和经济大\nthe larger economy that don't involve doom-and-gloom®\n环境的种种方式中，有哪些方式并不预示着\nmass unemployment predictions？\n悲惨的大规模失业呢？\nI A recent survey of manufacturing and service\n塔塔咨询服务公司近期针对制造业和服\nindustries from Tata Consultancy Services found that\n务业的一项调查发现，当前企业更多地将人\ncompanies currently use Al more often in computer-to-\n工智能应用于计算机对计算机的活动，而不\ncomputer activities than in automating human activities.\n是人类活动的自动化。以下是人工智能在不\nHere are a few ways Al is aiding companies without\n取代员工的情况下为企业提供帮助的方式：\nreplacing®employees：\n词汇注释与难句分析\n①typically ［tpikli］ ad. 通常；一般\n④impending ［Im'pendn］a.（不愉快的事）即将发生的\n② sinister ［'sinista（r）］a. 邪恶的\n⑤doom-and-gloom a. 前景黯淡的\n③upend ［ap'end］ v. 颠覆\n⑥replace ［ri'plers］ v.代替；取代\nWhen it comes to Al in business, we often hear about it in relation to automation and the impending loss\nof jobs, but in what ways is Al changing companies and the larger economy that don't involve doom-and-\ngloom mass unemployment predictions？\n结构切分：\n主句\nWhen\nit\ncomes to Al in business，\n时间状\nwe often hear about it in relation to automation and the impending loss of jobs\n分句1：\n引导词 主语 谓语\n宾语\n语从句\n主语\n谓语\n宾语\n定语\n分句2：\nbut\nin what ways\nIS\nAI\nchanging\ncompanies and the larger economy\n连接词\n状语个\nbe动词主语 现在分词（与be动词构成谓语）\n宾语\n定语从句修饰ways\nthat\ndon't involve doom-and-gloom mass unemployment predictions？\n引导词作主语 谓语\n宾语\n功能注释：本句可分为两个并列分句。分句1中时间状语从句 When it comes to...引出话题“商业\n领域的人工智能”，主句介绍人们对此的刻板印象。分句2中主句为特殊疑问句，转而就该刻板印象提\n出质疑，其中嵌套定语从句修饰 ways。\n•语篇分析•炎\n第一、二段引出话题：人工智能对企业的助益。\n第一段设问：商业领域的人工智能可否既助益企业，又不取代员工？\n①句铺陈人们对人工智能的刻板印象。In...movies...television...typically depicted as 点明人们\n刻板印象的来源：大众传媒的舆论导向；sinister、upend 强调人们眼中的人工智能邪恶不祥、破坏力强。\n②句过渡到人们对商业领域人工智能的刻板印象，并由此抛出问题。When it comes to Al in business 将\n全文关注点由上句“人工智能”缩窄至“商业领域的人工智能”；often hear about it in relation to... 承上\ntypically depicted as 引出人们对商业领域人工智能的刻板印象：带来自动化和日益逼近的失业；in what\nways...changing...don't involve...unemployment 设问引题。\n44",
+  "pdf_text_layer": "奢二、语篇分析\n        I In the movies and on television, artificial intelligence\n                                                                        在影视剧中，人工智能通常被描绘为一\n is typically® depicted as something sinister0 that will upend③\n                                                                      种邪恶不祥之物，会颠覆我们的生活方式。\n our way of life. When it comes to Al in business, we often\n                                                                      每每谈及商业领域的人工智能，我们通常听\n hear about it in relation to automation and the impending®\n                                                                      到的是，它与自动化以及日益逼近的失业相\n loss of jobs 9 but in what ways is Al changing companies and\n                                                                      牵连。然而，在人工智能变革企业和经济大\n the larger economy that don't involve doom-and-gloom1\n                                                                      环境的种种方式中，有哪些方式并不预示着\n mass unemployment predictions?\n                                                                      悲惨的大规模失业呢？\n       II A recent survey of manufacturing and service\n                                                                        塔塔咨询服务公司近期针对制造业和服\n industries from Tata Consultancy Services found that\n                                                                      务业的一项调查发现，当前企业更多地将人\n companies currently use Al more often in computer-to-\n                                                                       工智能应用于计算机对计算机的活动，而不\n computer activities than in automating human activities・\n                                                                      是人类活动的自动化。以下是人工智能在不\n Here are a few ways Al is aiding companies without\n                                                                      取代员工的情况下为企业提供帮助的方式：\n replacing⑥ employees：\n\n                                            •词汇注释与难句分析・丛\n\n (Dtypically「tipikli] ad.通常；一般                               》   ©impending [im'pendiO] a.（不愉快的事）即将发生的\n ② sinister Usinisto(r)] a・邪恶的                               ?   ⑤doom-and-gloom a.前景黯淡的\n ③ upend [Append]卩•颠覆                                        《   ©replace [ri1 pleis]卩・代替；取代\n\n       When it comes to Al in business, we often hear about it in relation to automation and the impending loss\n of jobs, but in what ways is Al changing companies and the larger economy that don，t involve doom-and-\n gloom mass unemployment predictions?\n       结构切分：\n                                                  主句\n八—\" When it comes to Al in business,时间状            we often hear about it in relation to automation and the impending loss ofjobs\n分句1： |耳隔圭语 谓语             宾语      |语从句'               ~為\n\n         but in what ways is Al changing companies and the larger economy\n        连鬲司—状语f bell词寻 现在分词(与be动词构成谓语)                食痔—\n       定语从句修饰ways\n          that don5t involve doom-and-gloom mass unemployment predictions?\n       引导词作主语            谓语                           宾语\n       功能注释：本句可分为两个并列分句。分句1中时间状语从句When it comes to. . •引出话题“商业\n 领域的人工智能”，主句介绍人们对此的刻板印象。分句2中主句为特殊疑问句，转而就该刻板印象提\n 出质疑，其中嵌套定语从句修饰wayso\n                                                  「•语篇分析「必\n\n       第一、二段引出话题：人工智能对企业的助益。\n       第一段设问：商业领域的人工智能可否既助益企业，又不取代员工？\n       ①句铺陈人们对人工智能的刻板印象o In. . . movies. . . television. . . typically depicted as点明人们\n 刻板印象的来源：大众传媒的舆论导向；sinister、upend强调人们眼中的人工智能邪恶不祥、破坏力强。\n ②句过渡到人们对商业领域人工智能的刻板印象，并由此抛出问题。When it comes to Al in business将\n 全文关注点由上句\"人工智能\"缩窄至\"商业领域的人工智能”；often hear about it in relation to...承上\n typically depicted as引出人们对商业领域人工智能的刻板印象：带来自动化和日益逼近的失业；in what\n ways. . . changing. . . don't involve. . . unemployment 设问弓I 题。\n  44",
+  "quality": {
+    "vision_line_count": 80,
+    "vision_character_count": 2243,
+    "pdf_text_character_count": 3578,
+    "nonempty": true
+  }
+}

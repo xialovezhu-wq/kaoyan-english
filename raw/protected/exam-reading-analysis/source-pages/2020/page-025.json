@@ -1,0 +1,382 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P025",
+  "year": 2020,
+  "pdf_page": 25,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.018895348273690993,
+      "text": "②句递进，提出解决办法：对行业垄断态势进行权力再平衡。In both cases 复词偏指，重点实际落于",
+      "width": 0.8396624136662137,
+      "x": 0.10759496050163278,
+      "y": 0.8982558143200343
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "本文焦点“科学出版业”上，强调根本解决之策；与互联网断局面亟需打破一样，科学出版业也需要打",
+      "width": 0.8797468303534667,
+      "x": 0.06751055003951134,
+      "y": 0.8806715062346921
+    },
+    {
+      "confidence": 1,
+      "height": 0.016030578994058575,
+      "text": "破垄断，让权力重新平衡，以真正释放科研生产力。",
+      "width": 0.4303797544698,
+      "x": 0.06962025365117591,
+      "y": 0.8619186045046925
+    },
+    {
+      "confidence": 1,
+      "height": 0.017452412205469336,
+      "text": "【深层解读】本段彻底解开作者论述之“谜”：前三段展现问题之艰，第四至六段看似开始介绍问题的",
+      "width": 0.8396624136662137,
+      "x": 0.10548524755507878,
+      "y": 0.8430127041876421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "应对办法，但字里行间却流露作者的“不认同”态度，直至末段以 we need a rebalancing of power 明确：要",
+      "width": 0.8755274434648799,
+      "x": 0.06962025076605317,
+      "y": 0.823956443055152
+    },
+    {
+      "confidence": 1,
+      "height": 0.017455049954395396,
+      "text": "实现科研文献的互助共享，绝不能依靠“违法的绝对免费”，也不能隔靴搔痒、只调整表面模式.而是要对",
+      "width": 0.8776371369091732,
+      "x": 0.06751053669309291,
+      "y": 0.8037790697696793
+    },
+    {
+      "confidence": 1,
+      "height": 0.018168348149682156,
+      "text": "行业进行彻底变革，打破垄断，如此才能真正推动科学发展。",
+      "width": 0.50866956547472,
+      "x": 0.06741116409957504,
+      "y": 0.7833757869148739
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01928444393317197,
+      "text": "•真题精解•",
+      "width": 0.11827343725875428,
+      "x": 0.430314759148978,
+      "y": 0.7556194060219323
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01454279686707971,
+      "text": "30. Which of the following characterizes the scientific",
+      "width": 0.4725738243937335,
+      "x": 0.07805908330242993,
+      "y": 0.7281976749742949
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "30. 下列哪项是科学出版模式的特征？",
+      "width": 0.3312236197852334,
+      "x": 0.5654008449333328,
+      "y": 0.7164246824392546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014579727948252907,
+      "text": "Publishing model？",
+      "width": 0.14767932514899335,
+      "x": 0.07805907252571428,
+      "y": 0.7078039925716384
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842035,
+      "text": "［A］ Trial subscription is offered.",
+      "width": 0.2784810022246068,
+      "x": 0.08016878622946862,
+      "y": 0.6860254081431016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "［A］ 提供试用订阅。",
+      "width": 0.17299576710335351,
+      "x": 0.5675105564483232,
+      "y": 0.6831395351185165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "［B］ Labour triumphs over status.",
+      "width": 0.28481012276510004,
+      "x": 0.07805907719867351,
+      "y": 0.6613372095821277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010975,
+      "text": "［B］劳动战胜了社会地位。",
+      "width": 0.22995781176017993,
+      "x": 0.5675105475130183,
+      "y": 0.6597096189673881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842257,
+      "text": "［C］ Costs are well controlled.",
+      "width": 0.25105484672214673,
+      "x": 0.07805907041529805,
+      "y": 0.6365698730857154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033814,
+      "text": "［C］ 成本得到了很好的控制。",
+      "width": 0.25105484672214673,
+      "x": 0.5675105544606566,
+      "y": 0.6351744184254773
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014561261974964657,
+      "text": "LDJ The few feed on the many.",
+      "width": 0.27215190178792,
+      "x": 0.07594936891089223,
+      "y": 0.6075317606161474
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107078039927503,
+      "text": "［D］少数依靠多数而发展壮大。",
+      "width": 0.2700421882398202,
+      "x": 0.5675105537000616,
+      "y": 0.6088929221331902
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606223371197657,
+      "text": "［精准定位］末段①句指出，（众多科学家）付出免费劳动，而赚取巨额利润的却是控制行业的少数大",
+      "width": 0.8396624136662139,
+      "x": 0.10548525486068447,
+      "y": 0.5828488371417356
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362237,
+      "text": "公司，由此可知，科学出版业中，少数（大公司）以多数（科学家的免费劳动）为食，从而发展壮大。［D］正确。",
+      "width": 0.8776371369091732,
+      "x": 0.06962025888718533,
+      "y": 0.5639534884615398
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511917,
+      "text": "［命题解密］本题考查所讨论话题“科学出版模式”的特点，正确项是对第七段①句的合理概括。",
+      "width": 0.8037974642827733,
+      "x": 0.10548522431958404,
+      "y": 0.5449183300301297
+    },
+    {
+      "confidence": 1,
+      "height": 0.020457844119755708,
+      "text": "［A］与文义不符，本文开篇即指出科学出版业一本万利，依靠大学图书馆的高昂订阅费获取暴利，随",
+      "width": 0.8398886216958993,
+      "x": 0.10747389719042257,
+      "y": 0.5240715471759669
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860344362237,
+      "text": "后介绍当前出现的一些新的出版模式，要么非法，要么换汤不换药，反而更加重科研经济负担，并未提及",
+      "width": 0.8776371369091731,
+      "x": 0.06962026108127801,
+      "y": 0.5058139536577608
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019859386658711786,
+      "text": "“试用订阅（Trial subscription）”；［B］源于第七段首句 labour is provided free in exchange for the hope of",
+      "width": 0.8841257610496953,
+      "x": 0.06744923307375754,
+      "y": 0.48453620282947596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "status，但该句说明科学家处于弱势，只能用劳动来换取社会地位，而非其劳动战胜了社会地位；LCJ曲解",
+      "width": 0.8776371369091732,
+      "x": 0.06962025888718533,
+      "y": 0.46642468277355686
+    },
+    {
+      "confidence": 1,
+      "height": 0.02135188004066213,
+      "text": "第六段④句，该句指出“论文准备费（即成本）”在持续增加，而非“成本得到了很好的控制”。",
+      "width": 0.766027317373806,
+      "x": 0.06949154240471074,
+      "y": 0.4453428350187524
+    },
+    {
+      "confidence": 1,
+      "height": 0.021135752516952544,
+      "text": "［技巧总结］本题形为细节题，实为主旨大意题，考查对文章主题的把握。应在把握文章主旨的前提",
+      "width": 0.8420359494657855,
+      "x": 0.10535710479426816,
+      "y": 0.4258319327555028
+    },
+    {
+      "confidence": 1,
+      "height": 0.02124684778618502,
+      "text": "下，结合具体内容确定正确答案。由文章前六段可知，本文旨在批判科学出版业盈利模式不合理，第七",
+      "width": 0.8758038305953557,
+      "x": 0.07159454573915461,
+      "y": 0.40625017724849344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01798828890016413,
+      "text": "段首句高度总结，直言科学出版业 labour is provided free.. while huge",
+      "width": 0.6182914402173912,
+      "x": 0.07165250966547365,
+      "y": 0.38766102041240114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "profits are made by a few big",
+      "width": 0.2573839672626399,
+      "x": 0.6919831175641795,
+      "y": 0.39382940087910423
+    },
+    {
+      "confidence": 1,
+      "height": 0.021062795566344272,
+      "text": "firms，因此［D］与文章主旨一致，且为对第七段①句的准确概括。［A］曲解文义；［B］与［C］皆为正面评",
+      "width": 0.8779491479846014,
+      "x": 0.06948167153650316,
+      "y": 0.36886612225732685
+    },
+    {
+      "confidence": 1,
+      "height": 0.019056261343012748,
+      "text": "价，不符合文章“批评科学出版业由少数巨头垄断、利用科研成果坐收暴利”的情感态度。",
+      "width": 0.746835419625947,
+      "x": 0.06962025553512802,
+      "y": 0.3502722318920467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017063982041042203,
+      "text": "Text 3",
+      "width": 0.08060724210676312,
+      "x": 0.3499917383602884,
+      "y": 0.27271800882984454
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010975,
+      "text": "董事会性别配额制强化特权",
+      "width": 0.29535865029798664,
+      "x": 0.4493670853995299,
+      "y": 0.27450090781110625
+    },
+    {
+      "confidence": 1,
+      "height": 0.011796733212341204,
+      "text": "原文外教朗读",
+      "width": 0.09704641108456336,
+      "x": 0.8227848103648914,
+      "y": 0.25725952813402764
+    },
+    {
+      "confidence": 1,
+      "height": 0.02223069351943996,
+      "text": "一、文章总体分析",
+      "width": 0.1920847534662179,
+      "x": 0.10543441561836209,
+      "y": 0.21344860654896813
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014674692102006448,
+      "text": "本文选自 The Boston",
+      "width": 0.18565400818433997,
+      "x": 0.1118143479753405,
+      "y": 0.19040697728534128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "Globe《波士顿环球报》2019.08.05 文章 Corporate gender quotas reinforce",
+      "width": 0.6518987321413867,
+      "x": 0.30168777124998164,
+      "y": 0.19186046526386535
+    },
+    {
+      "confidence": 1,
+      "height": 0.026053738464244747,
+      "text": "privilege（董事会性别配额制强化特权）。这是一篇典型的批驳型文章，作者核心观点为，美国各州纷纷",
+      "width": 0.8781552522078804,
+      "x": 0.07146796025290711,
+      "y": 0.16807133928944418
+    },
+    {
+      "confidence": 1,
+      "height": 0.021344128624280923,
+      "text": "提议的“董事会性别配额制”往往是一种虚伪的道德信号：让法案发起人自我感觉良好，让最有特权者受",
+      "width": 0.8758167774466814,
+      "x": 0.07369115279664122,
+      "y": 0.15178013109867028
+    },
+    {
+      "confidence": 1,
+      "height": 0.024384706292957303,
+      "text": "益，却无助于普通女性。文章整体脉络：提出全文观点并举例麻州法案（第一至三段）—以加州法规为",
+      "width": 0.8760136339190135,
+      "x": 0.07359135207310467,
+      "y": 0.13053651452218495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.022674406505106992,
+      "text": "例质疑此类政策的合宪性（第四、五段）——指出此类政策并无实施必要（第六、七段）—揭示此类政策",
+      "width": 0.8779848523447793,
+      "x": 0.07366692714580622,
+      "y": 0.11140816087216565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "的多种负面影响（第八、九段）——重申主旨（第十段）。",
+      "width": 0.459915583312747,
+      "x": 0.0738396812972129,
+      "y": 0.09437386600955855
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394825570136,
+      "text": "25",
+      "width": 0.023206751023042482,
+      "x": 0.9135021099104197,
+      "y": 0.046511628037796404
+    }
+  ],
+  "vision_ocr_text": "②句递进，提出解决办法：对行业垄断态势进行权力再平衡。In both cases 复词偏指，重点实际落于\n本文焦点“科学出版业”上，强调根本解决之策；与互联网断局面亟需打破一样，科学出版业也需要打\n破垄断，让权力重新平衡，以真正释放科研生产力。\n【深层解读】本段彻底解开作者论述之“谜”：前三段展现问题之艰，第四至六段看似开始介绍问题的\n应对办法，但字里行间却流露作者的“不认同”态度，直至末段以 we need a rebalancing of power 明确：要\n实现科研文献的互助共享，绝不能依靠“违法的绝对免费”，也不能隔靴搔痒、只调整表面模式.而是要对\n行业进行彻底变革，打破垄断，如此才能真正推动科学发展。\n•真题精解•\n30. Which of the following characterizes the scientific\n30. 下列哪项是科学出版模式的特征？\nPublishing model？\n［A］ Trial subscription is offered.\n［A］ 提供试用订阅。\n［B］ Labour triumphs over status.\n［B］劳动战胜了社会地位。\n［C］ Costs are well controlled.\n［C］ 成本得到了很好的控制。\nLDJ The few feed on the many.\n［D］少数依靠多数而发展壮大。\n［精准定位］末段①句指出，（众多科学家）付出免费劳动，而赚取巨额利润的却是控制行业的少数大\n公司，由此可知，科学出版业中，少数（大公司）以多数（科学家的免费劳动）为食，从而发展壮大。［D］正确。\n［命题解密］本题考查所讨论话题“科学出版模式”的特点，正确项是对第七段①句的合理概括。\n［A］与文义不符，本文开篇即指出科学出版业一本万利，依靠大学图书馆的高昂订阅费获取暴利，随\n后介绍当前出现的一些新的出版模式，要么非法，要么换汤不换药，反而更加重科研经济负担，并未提及\n“试用订阅（Trial subscription）”；［B］源于第七段首句 labour is provided free in exchange for the hope of\nstatus，但该句说明科学家处于弱势，只能用劳动来换取社会地位，而非其劳动战胜了社会地位；LCJ曲解\n第六段④句，该句指出“论文准备费（即成本）”在持续增加，而非“成本得到了很好的控制”。\n［技巧总结］本题形为细节题，实为主旨大意题，考查对文章主题的把握。应在把握文章主旨的前提\n下，结合具体内容确定正确答案。由文章前六段可知，本文旨在批判科学出版业盈利模式不合理，第七\n段首句高度总结，直言科学出版业 labour is provided free.. while huge\nprofits are made by a few big\nfirms，因此［D］与文章主旨一致，且为对第七段①句的准确概括。［A］曲解文义；［B］与［C］皆为正面评\n价，不符合文章“批评科学出版业由少数巨头垄断、利用科研成果坐收暴利”的情感态度。\nText 3\n董事会性别配额制强化特权\n原文外教朗读\n一、文章总体分析\n本文选自 The Boston\nGlobe《波士顿环球报》2019.08.05 文章 Corporate gender quotas reinforce\nprivilege（董事会性别配额制强化特权）。这是一篇典型的批驳型文章，作者核心观点为，美国各州纷纷\n提议的“董事会性别配额制”往往是一种虚伪的道德信号：让法案发起人自我感觉良好，让最有特权者受\n益，却无助于普通女性。文章整体脉络：提出全文观点并举例麻州法案（第一至三段）—以加州法规为\n例质疑此类政策的合宪性（第四、五段）——指出此类政策并无实施必要（第六、七段）—揭示此类政策\n的多种负面影响（第八、九段）——重申主旨（第十段）。\n25",
+  "pdf_text_layer": "@'Al ii ilt , t! WM ,R !11' 5i : x-t fr~~ !Jf ~ t/J- ilt fr fJi -tJ ~ ift. ftrO In both cases ~~ii ffi , ffl: ~ ~ ~ ~                           r\n*Xtt~\"~~ tl1 Ji&~\" J: ,5.iifGH*~fWfrR:Z'.Jft: ~S:~ ~ ~$r fiu (ftj ~ fltrit-f-t, ~$ ili ~~-m~~tr\n-~    ~ t il:txJJ ffi:lfrlJZ-{$j t ~-.iE~~~~~;u= jJ                    0\n\n\n\n     (~!ii Mill #t2:WJ$;tm7ffF~~~z\"~\" : lfrf =~NtJ.m l'SJJN!z~& ,ffi cm~*~~f~7f P.ts1f-tB faJB!a<J\n~:t-j\"#}f!;, ffi. ~ !I! frfaJ!p mi:iifF# 89\"~iA. ~ \"~.ll ,                 ir~*~ ~ we need a rebalancing of power ~ ?iffi: Ji\n~~~Hiff xmt1¥-J~W1~* ,~~~{&~'!:d?~ l'f.J~~11k.J!\" ,-m~~lllfiftt.1~, .R JI m~ oomj\\ . iffl :I!~ ~if\nfr .illd1r :fr ffiJ ~ ~ 1fi , tr lit~~ , :tza .tlt ;t fltli iE ft i;J '4 $~JI                 o\n\n\n                                                      r·~--i -iiiffiif -~-!~,!\n                                                      .... ............ . ...... . .............\n                                                                                         ,~\n\n\n\n\n 30. Which of the following characterizes the scientific\n                                                                                              ~-~~~~-M~W~ffi~~-~?\n publishing model?\n [A] Trial subscription is offered.                                                           [ A] ~~~ffllTl)a] o\n [BJ Labour triumphs over status.                                                             [ BJ 9!{i;J&iJltTt±~:imul o\n [ CJ Costs are well controlled.                                                              [ CJ 1t*~¥1JT~lt~fag~$1L\n [DJ The few feed on the many.                                                                [ DJ 1,,-f'l,f& 3 $ J!I mi.~ JI )It :k o\n\n      [ ffl *~fit] *EiCD1iJffi ili, <~$'4~~) 1-t ili ~Jr 9!i i;1J, ffil lfUlk e tMlO ~FJ a<J¾.I ¾t£$1J fi .ill!. 89 ~~:k\n0u.J, EE JttiiJ~ ,~$ t:f:Llt&.ill!. i:p ,~~<:k0 ~) ~$fi<~~~09:fR.fli9!ii;fJ) 1-1~ ,lA iffl£m!tt* [D]iE~\n                                                                                                                                  *\n                                                                                                                                         o            o\n\n\n      cltri lffi ~ ~ J*:JI~•        P,lr it~i! ~\" ~ ~ ::e Jl& m~\" a<J !Wt ,e: ,iE roe~ I! x.t ffi -t ~ © 1iJ 89 111H1 r& o\n      [AJ~xJl~~            '*~*•apm ilif4~ mX&it-*nl!J ,-f&8:k~m ~ffil'f.J~ l!filTOO !!J!~~5*1J, ~\n.Fc:1r ~ ~ lru tl:i ~ l'f.J-~ !fr l'f.J tl:i Xii #t :it , ~ ~ ~F ~ , ~ ~ ~ ~ ~ ~ ~ , Ji ii'ff J! 1JD ffi: ~ iJf t2 ~ 1h. ffl , # t1l El.     *\n\"it}fl iT 00 (Trial subscription)\"; [B]~Ffffi-t ~)l 1iJ labour is provided free in exchange for the hope of\nstatus,{a if<1iJiM.~*-4~*~ rJi~!1}, R fmffl 9.f~*~~t±~:itf!in:, iffi=IFJt9!f i;J ~lit Ttt~iti?.-u'l; [ CJ fffl ~\nffi1'@:©1iJ, ~1:iJffi tl:i \"i-e::tifE~11 ( llP $;*)\"?£~~*1JD , fm=IF\" $;*~i¥tl 7 qi-Jff 89~$tl\" o\n     ca~a•J*~~~~~~,~~$i*·~,~-~x•~~~rewo~~rewx•~i~lru-\n~ , ~*A~~~ rif9 ~ .IE rif9 ~ ~ o            EH X ft f,J 1' ~ ilJ iii , * ::t i ~ ffl: ~J ~ ~ tl:i X& ~ ~l!J ffi ~~it JI, ffi-t\nti 1t1iJ 1IJj J.l ,~!ti, 1f.-;;- ~ ~ ili Jl& .ill!. labour is provided free... while huge profits are made by a few big\nfirms,~ Jtt[D]~ X~ :£ i-~, .§. 1-J x.tffi-t Ei<D1iJ 89 tit roe ffi r& [A] dB 1m X .>l; [BJ 5i [ C] ~ 19 iE 00 W\n                                                                                                    o\n\n\nfft' ,~~~x•\"ttt-W~~m,w~ m1,,-Jxe ~~ftfr ,llLffl~ilf lt*~i&JJl!J\"agffl~~lf o\n\n\n\n\n      *X~ El The Boston Globe (( ~ ± ~ffi. ~ 3* ffl. »2019. 08. 05 jt # Corporate gender quotas re\"miorce\nprivil~ge(li$~tt§Jtllc~$1Bi {t~;fJO o ~!!--Am! 89ffl:~ ~>C., fF =If~ ,t, xtY.~ 1-J., ~ ® *1-M i,ti,t\ntli:SL (J(J\"JI$~ttJJUnc•ffill \"tttt~-flf Em1'.J (J(JiltlHtf % :iJ:~~~~.A. ~ ~~it li-M-, iJ::il~~tx#~\n~ ,iP xftb-r :&ii :tz:tt o x • m1* ~~ :~ m~ x %¥.~if*~J •#I~~< m- ~ =m: ) - ~ :ba ffl ~ ~ ~\n~JmtRJlt~ittm ~it~tt<ffi fill .. nfi)-ffi mJlt~~-*~~ms~,~ <ffi* ,-t ~)-•~Jlt~am\n89$ffitft 00~~(-/'\\ ,jt.fi:)-ffi:~ ± ri<•+m:)                                   0\n\n\n\n\n                                                                                                                                                 25",
+  "quality": {
+    "vision_line_count": 45,
+    "vision_character_count": 1623,
+    "pdf_text_character_count": 4198,
+    "nonempty": true
+  }
+}

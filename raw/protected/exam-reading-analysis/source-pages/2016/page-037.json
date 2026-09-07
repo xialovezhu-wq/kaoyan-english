@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P037",
+  "year": 2016,
+  "pdf_page": 37,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "【深层解读】初读可能会将本段研究发现（The study found that....）与第五段研究结论（the study",
+      "width": 0.8461538010961492,
+      "x": 0.08760686859722436,
+      "y": 0.9156976743610037
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "concludes that）混淆，从而对本段用意迷惑不解，但细读发现本段主要介绍“客观发现”，并着墨颇多“排",
+      "width": 0.884615380109615,
+      "x": 0.04700854041527817,
+      "y": 0.8950456326079301
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "除研究干扰”，可见本段旨在论证研究的严谨，为最终得出结论（论证其开篇论点）铺垫。",
+      "width": 0.7393162117809801,
+      "x": 0.04914532210096268,
+      "y": 0.8735332465001957
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018028910809732013,
+      "text": "• 真题精解•",
+      "width": 0.12410831268369127,
+      "x": 0.4144415710922421,
+      "y": 0.8470901959367958
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "33. The expression “more lenient” （Para. 4） is closest",
+      "width": 0.44017093241100347,
+      "x": 0.059829068110737495,
+      "y": 0.8181225556423257
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018067215691955574,
+      "text": "33. more lenient 这一表达（第四段）的含义最接",
+      "width": 0.41262776380308297,
+      "x": 0.5084430897138702,
+      "y": 0.8152356745972791
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011828780640523728,
+      "text": "in meaning to",
+      "width": 0.11324786224658111,
+      "x": 0.09615384778696585,
+      "y": 0.7992177311756442
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395175342014,
+      "text": "近",
+      "width": 0.01923076937157453,
+      "x": 0.5534188032415631,
+      "y": 0.7979651164592559
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907236987034,
+      "text": "-。",
+      "width": 0.01709401721917736,
+      "x": 0.6282051282493856,
+      "y": 0.7950581392594135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907236987034,
+      "text": "［A less controversial",
+      "width": 0.18803418941095099,
+      "x": 0.05982906070762988,
+      "y": 0.7761627906402274
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014648585462508024,
+      "text": "LAJ较不具有争议的",
+      "width": 0.19017093241100347,
+      "x": 0.5085470105252675,
+      "y": 0.7731421118792242
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011804144882938239,
+      "text": "LB more effective",
+      "width": 0.15811965561645275,
+      "x": 0.059829063057158224,
+      "y": 0.7483702738881716
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014561413786091104,
+      "text": "［B］ 更加有效的",
+      "width": 0.1431623960410794,
+      "x": 0.5128205123159988,
+      "y": 0.7470664930687225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01324815824725012,
+      "text": "LC」 more lasting",
+      "width": 0.14316238139732787,
+      "x": 0.05982906802640723,
+      "y": 0.7194767440547709
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014551938590356972,
+      "text": "［C］ 更加持久的",
+      "width": 0.14316239604107928,
+      "x": 0.5128205131706997,
+      "y": 0.7194767445623376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013335329301975785,
+      "text": "［D］ less severe",
+      "width": 0.13461538010961493,
+      "x": 0.057692307772827946,
+      "y": 0.693313953793143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "［D］ 较不严厉的",
+      "width": 0.14743589668493573,
+      "x": 0.508547007693857,
+      "y": 0.6916558021140673
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "［精准定位］第四段①句（考查词所在句）指出：研究发现CSR 计划最全面的企业往往会获得",
+      "width": 0.7863247627946557,
+      "x": 0.08547009798301398,
+      "y": 0.6627906980081053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "的处罚。②句进一步指出，研究排除了“由于企业的政治影响力，而非其CSR 立场使它们获得宽大处",
+      "width": 0.8824786224658109,
+      "x": 0.04914531297649603,
+      "y": 0.6424418604656549
+    },
+    {
+      "confidence": 1,
+      "height": 0.01893514449158107,
+      "text": "理”的可能：为政治活动捐款更多的企业受到的罚款并不更低。可见，more lenient 大概含义为“较轻的",
+      "width": 0.880341864822007,
+      "x": 0.049145314298398086,
+      "y": 0.62059973908577
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "处罚，较低的罚款”，［D］正确。",
+      "width": 0.2542734860001049,
+      "x": 0.049145308730716736,
+      "y": 0.6016949152117099
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "［命题解密］［D］ less severe 正确解读②句对①句的补充解释逻辑，体现 more lenient penalties 与",
+      "width": 0.8418803443835472,
+      "x": 0.0876068404150639,
+      "y": 0.5813953485361492
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014572783896633967,
+      "text": "lower fines 的同义关系。",
+      "width": 0.2094017072739848,
+      "x": 0.047008549817423494,
+      "y": 0.5610465119557485
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "［A］从第四段②句 ruled out... that it was firm's political influence（排除了企业的政治影响力因素",
+      "width": 0.8418803443835472,
+      "x": 0.0876068303418039,
+      "y": 0.5404172100673879
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "的干扰）推出“处罚较为公正、较不具争议性”，但这里为研究方法，与“被诉企业的受罚情况”无关。［B］",
+      "width": 0.8824786224658109,
+      "x": 0.04914529784829115,
+      "y": 0.5202086052575995
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013231102770590253,
+      "text": "将第四段②句 it was firm’s political influence, rather than their CSR stand, that accounted for the",
+      "width": 0.882478622465811,
+      "x": 0.051282052041667366,
+      "y": 0.5013037807000749
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "leniency 曲解为“政治处罚比CSR处罚更为有效”，从而设置干扰 more effective，但由上文可知，CSR 会",
+      "width": 0.882478622465811,
+      "x": 0.047008545711539014,
+      "y": 0.47965116261681773
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "给企业带来“收益”，而不是“惩罚”。［C］利用第二段末句以及第三段所体现的 halo effect（光环效应）的",
+      "width": 0.8803418648220069,
+      "x": 0.049145300617079585,
+      "y": 0.45930232540751537
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "性质“更加扩散、持久”设置干扰 more lasting，但所考词修饰的是 penalties（惩罚）。",
+      "width": 0.6965811760549124,
+      "x": 0.049145315213284455,
+      "y": 0.4387222943774518
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "［技巧总结］本题就“研究发现”中的关键词设置词义推断题。对于此类题目，除了常规的词义推断",
+      "width": 0.8440171020273513,
+      "x": 0.08760684204187978,
+      "y": 0.4185136896572952
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "方法“通过判断句间关系在上下文中寻找所考词汇的同义词、近义词、上下义词或者反义词”之外，还必",
+      "width": 0.8824786224658109,
+      "x": 0.04914531297649603,
+      "y": 0.398255813954027
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "须要结合“研究目的”、“研究对象”、“研究结论”等来理解，正确项应能在其间形成顺滑一致的逻辑关系。",
+      "width": 0.878205107178203,
+      "x": 0.04914531593165549,
+      "y": 0.37790697667412665
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631052708532532,
+      "text": "如本题的解答，通过判断第四段①②句间为补充解释关系，得知 leniency 与 lower fines 同义，基本确",
+      "width": 0.8397435867397434,
+      "x": 0.08974358524734452,
+      "y": 0.3572359845711127
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "定［D］正确。再结合研究目的（区分CSR的三种效应、验证光环效应的影响）、研究方式（研究美国的行",
+      "width": 0.8846153801096149,
+      "x": 0.04914529464604732,
+      "y": 0.3357235984779132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "贿诉讼案例）以及第一段便已经明确的研究结论（CSR的光环效应能使企业在被诉时受益），可推知研究",
+      "width": 0.882478622465811,
+      "x": 0.049145311505698376,
+      "y": 0.3168187744873061
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "发现（考查词所在句内容）：CSR 计划最全面的企业在被诉时受罚较轻，确定［D］为答案。而其他三项则",
+      "width": 0.882478622465811,
+      "x": 0.04914531518269255,
+      "y": 0.29651162789661434
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458036417755959,
+      "text": "无法在其间建立顺滑的逻辑关系，故排除。",
+      "width": 0.3611111046027771,
+      "x": 0.04914530540872534,
+      "y": 0.276162791025516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01461447450918818,
+      "text": "V 1 In all, the study concludes that whereas®",
+      "width": 0.4444444184111085,
+      "x": 0.091880362304417,
+      "y": 0.244186047009043
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "总之，研究结论力，尽管检察官应该只",
+      "width": 0.3247863125206184,
+      "x": 0.6004273533123403,
+      "y": 0.23663624518280335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013320169361815792,
+      "text": "prosecutors should only evaluate a case based on its",
+      "width": 0.48931621178098006,
+      "x": 0.05128207320495129,
+      "y": 0.2235984352752739
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "根据案情本身特征来评判，但他们似乎的",
+      "width": 0.36538461989038507,
+      "x": 0.5598290545313033,
+      "y": 0.21642764035848017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014633424900656666,
+      "text": "merits, they do seem to be influenced by a company’s",
+      "width": 0.48931621178098006,
+      "x": 0.05128207320495129,
+      "y": 0.20338983065812977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "确会受到公司 CSR记录的影响。“我们估",
+      "width": 0.3632478622465811,
+      "x": 0.5619658094393876,
+      "y": 0.1962190351317572
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "record in CSR. ②\"We estimate that either eliminating",
+      "width": 0.4764957244931622,
+      "x": 0.051282060224928594,
+      "y": 0.18313953528423677
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "计，无论是消除重大劳动权益纠纷，如童",
+      "width": 0.3653846198903852,
+      "x": 0.5619658142802347,
+      "y": 0.17587209301289342
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "substantial® labour-rights concern, such as child labour，",
+      "width": 0.489316241068483,
+      "x": 0.04914529439631405,
+      "y": 0.16279069815972125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "工，还是将企业捐赠提高约20%，通常都能",
+      "width": 0.3653846198903852,
+      "x": 0.5619658133667732,
+      "y": 0.15552325578542225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014663745402668127,
+      "text": "or increasing corporate giving by about 20% result in fines",
+      "width": 0.48931621178098006,
+      "x": 0.05128207320495129,
+      "y": 0.14244186081718258
+    },
+    {
+      "confidence": 1,
+      "height": 0.014610684679571051,
+      "text": "使罚款比对行贿外国官员的常规处罚低",
+      "width": 0.36752134824668603,
+      "x": 0.5598290731416142,
+      "y": 0.13662790736757002
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015287916539079127,
+      "text": "that generally are 40% lower than the typical punishment",
+      "width": 0.4894826819480266,
+      "x": 0.05119077983711884,
+      "y": 0.12188929642800383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01801903462316723,
+      "text": "40%，”一位研究者说道。",
+      "width": 0.21202945526181627,
+      "x": 0.5596257474324219,
+      "y": 0.11473803455299136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "for bribing foreign officials， \" says one researcher.",
+      "width": 0.41880341454796965,
+      "x": 0.05128205426447667,
+      "y": 0.10299869647574122
+    },
+    {
+      "confidence": 1,
+      "height": 0.011815514993481102,
+      "text": "37",
+      "width": 0.02350427367636887,
+      "x": 0.8931623928804766,
+      "y": 0.06249999979720422
+    }
+  ],
+  "vision_ocr_text": "【深层解读】初读可能会将本段研究发现（The study found that....）与第五段研究结论（the study\nconcludes that）混淆，从而对本段用意迷惑不解，但细读发现本段主要介绍“客观发现”，并着墨颇多“排\n除研究干扰”，可见本段旨在论证研究的严谨，为最终得出结论（论证其开篇论点）铺垫。\n• 真题精解•\n33. The expression “more lenient” （Para. 4） is closest\n33. more lenient 这一表达（第四段）的含义最接\nin meaning to\n近\n-。\n［A less controversial\nLAJ较不具有争议的\nLB more effective\n［B］ 更加有效的\nLC」 more lasting\n［C］ 更加持久的\n［D］ less severe\n［D］ 较不严厉的\n［精准定位］第四段①句（考查词所在句）指出：研究发现CSR 计划最全面的企业往往会获得\n的处罚。②句进一步指出，研究排除了“由于企业的政治影响力，而非其CSR 立场使它们获得宽大处\n理”的可能：为政治活动捐款更多的企业受到的罚款并不更低。可见，more lenient 大概含义为“较轻的\n处罚，较低的罚款”，［D］正确。\n［命题解密］［D］ less severe 正确解读②句对①句的补充解释逻辑，体现 more lenient penalties 与\nlower fines 的同义关系。\n［A］从第四段②句 ruled out... that it was firm's political influence（排除了企业的政治影响力因素\n的干扰）推出“处罚较为公正、较不具争议性”，但这里为研究方法，与“被诉企业的受罚情况”无关。［B］\n将第四段②句 it was firm’s political influence, rather than their CSR stand, that accounted for the\nleniency 曲解为“政治处罚比CSR处罚更为有效”，从而设置干扰 more effective，但由上文可知，CSR 会\n给企业带来“收益”，而不是“惩罚”。［C］利用第二段末句以及第三段所体现的 halo effect（光环效应）的\n性质“更加扩散、持久”设置干扰 more lasting，但所考词修饰的是 penalties（惩罚）。\n［技巧总结］本题就“研究发现”中的关键词设置词义推断题。对于此类题目，除了常规的词义推断\n方法“通过判断句间关系在上下文中寻找所考词汇的同义词、近义词、上下义词或者反义词”之外，还必\n须要结合“研究目的”、“研究对象”、“研究结论”等来理解，正确项应能在其间形成顺滑一致的逻辑关系。\n如本题的解答，通过判断第四段①②句间为补充解释关系，得知 leniency 与 lower fines 同义，基本确\n定［D］正确。再结合研究目的（区分CSR的三种效应、验证光环效应的影响）、研究方式（研究美国的行\n贿诉讼案例）以及第一段便已经明确的研究结论（CSR的光环效应能使企业在被诉时受益），可推知研究\n发现（考查词所在句内容）：CSR 计划最全面的企业在被诉时受罚较轻，确定［D］为答案。而其他三项则\n无法在其间建立顺滑的逻辑关系，故排除。\nV 1 In all, the study concludes that whereas®\n总之，研究结论力，尽管检察官应该只\nprosecutors should only evaluate a case based on its\n根据案情本身特征来评判，但他们似乎的\nmerits, they do seem to be influenced by a company’s\n确会受到公司 CSR记录的影响。“我们估\nrecord in CSR. ②\"We estimate that either eliminating\n计，无论是消除重大劳动权益纠纷，如童\nsubstantial® labour-rights concern, such as child labour，\n工，还是将企业捐赠提高约20%，通常都能\nor increasing corporate giving by about 20% result in fines\n使罚款比对行贿外国官员的常规处罚低\nthat generally are 40% lower than the typical punishment\n40%，”一位研究者说道。\nfor bribing foreign officials， \" says one researcher.\n37",
+  "pdf_text_layer": "【 深层解读 】 初 读 可能 会 将 本 段研 究发 现 （ T he stu dy fou nd t ha t, ... ） 与第五 段研 究结 论（ t he s tudy\nco ncludes t h a t ） 棍淆，从而对 本 段用 意迷惑 不解 ， 但细读发现本段 主要 介 绍 “ 客 观 发 现” ，并着墨 颇 多 “排\n除研 究干 扰”，可见 本 段旨 在 论证研 究 的 严谨， 为 最终 得出结论（论证 其 开 篇 论 点） 铺垫 。\n\n                                                        ；？真题：精辟＜ ii\n 33 . The expression “ more lenient\" ( Pa ra. 4 ) is closest            33. more l en ien t 这一表达（第四段）的含义 最 接\n       in meaning to 一一一一·                                                   近      。\n\n\n\n\n [ A] less contro ve rsia l                                             [ A ］较不具有争 议的\n\n [ BJ more eff ec tive                                                  [ BJ 更 加 有效 的\n\n [CJ more lasting                                                       [ CJ 更 加 持久 的\n\n [ DJ less severe                                                       [ DJ 较不 严厉 的\n\n      〔 精准定位 ］ 第 四 段① 句 （考查 词所 在 句）指出：研 究 发现 CSR 计划 最全 面的企业 往往会获得\n的处罚 。② 句进 一 步指出，研 究 排 除了 “ 由于企业的政治影响力，而非 其 CSR 立 场使它 们 获得宽大 处\n理”的可能：为政治活动捐 款更多 的 企 业 受 到的罚 款 并不更低 。 可见 ， mor e l eni e nt 大概 含 义为“ 较 轻的\n处罚，较低的罚款”， ［ DJ 正确 。\n      ［ 命题解密 ］ [ DJ less seve re 正确解 读② 句对 ① 句的补充解 释 逻 辑 ，体现 mor e leni ent p e n a l t i es 与\nlower fin es 的同义 关系 。\n      [ A］ 从 第 四段 ②句 rul ed out . .. that it was firm' s poli t ica l infl u e n ce （ 排除了企业的政 治影 响力因 素\n的 干 扰 ） 推出 “ 处罚 较为公正 、 较不具争 议性” ， 但这 里为 研究方 法 ， 与 “被诉企业的 受 罚 情 况”无 关。［ BJ\n将 第 四段 ② 句 it           was fi rm 's po lit ica l infl uence , rat her than t heir CSR stand, tha t acco unted for t he\nl e ni e n cy 曲解为 “ 政 治 处罚比 CSR 处 罚 更为有效 ” ， 从而设 置干 扰 m o r e eHec ti 町，但 由 上文 可知， CSR 会\n给 企业带 来“ 收 益 ” ， 而 不是“ 惩罚 ” 。［ CJ 利用 第二 段 末 句以 及第 三 段所体现的 h a l o e ffect （ 光 环效应） 的\n性质 “更 加扩散 、持久 ”设置干 扰 m o r e las t i n g ，但所 考 词修饰的 是 p e n a l t i es （惩 罚 ）。\n      ［ 技巧总结 ］ 本 题 就“ 研 究发 现 ” 中的 关键 词设 置 词义推断 题 。 对 于 此 类题目， 除了 常 规的词义推断\n方法“通过判断句间 关系在上 下 文中寻找 所 考 词汇的同义词、近 义 同、 上 下 义 词 或者反义 词 ” 之外，还必\n须 要结 合 “ 研 究 目的”、 “ 研 究 对 象 ” 、 “研 究结 论” 等来 理解，正确项 应 能 在其 间 形成 顺 滑 一 致 的 逻辑关系 。\n      如 本 题的 ffl'I' 答， 通过判断第 四 段①② 句间为补充解释 关 系 ， 得知 l e ni e n cy 与 l o w e r fines 同义， 基本 确\n定［ DJ 正确 。再结合 研 究目 的（ 区 分 CSR 的 三 种 效 应、验证光环 效应 的 影 响 ） 、 研 究方式（ 研 究美 国的行\n贿诉讼 案 例）以及 第一段 便已 经 明确的研 究结 论（ CSR 的光环 效应 能使 企 业 在 被诉时 受益）， 可推知研 究\n发 现 （考查 同所在句内 容 ） , CSR 计划 最全面 的企 业 在 被诉时 受 罚较 轻 ，确 定［ DJ 为 答案。 而 其 他 三 项 则\n无 法 在 其 间 建立 JI顶 滑 的边辑 关系， 故排除 。\n\n\n      V O In a ll , t he study conclud es t hat                  w hereas①\n                                                                                 总之，研究 结 论为，尽 管 检 察 官应该只\nprosec utors s hou ld only eva luate a case ba sed on its\n                                                                             根据 案 情本身特征来评判 ， 但他们似乎 的\nmerits , th ey do seem to be infl uenced by a company ’ s\n                                                                             确会 受 到公司 CSR 记录的 影 响 。 “我 们估\nrecord in CSR. @“ W e esti ma te t ha t eit her eliminating( a\n                                                                             计，无论 是 消除 重 大 劳 动权 益 纠纷，如童\nsubstantia lCD labour- rig h ts co口 cern, s uch as child labour,\n                                                                             工 ， 还是 将 企 业 捐赠提高 约 20 % ， 通常都能\nor in creas ing corpora te giving by a bo ut 20 % res ult in fi nes          使 罚 款 比对行贿外国官员的 常 规处罚低\nthat genera lly ar e 40 % lowe r t han the t ypica l puni shm ent\n                                                                             40 % ， ” 一 位 研 究者说道 。\nfor bri bing fo reign o ffi c i a l 日，” says one r esea τ c h e r.\n\n\n                                                                                                                  37",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 1964,
+    "pdf_text_character_count": 3591,
+    "nonempty": true
+  }
+}

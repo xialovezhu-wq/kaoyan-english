@@ -1,0 +1,125 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2017-P017
+year: 2017
+pdf_page: 17
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2017 解析 PDF p17｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+［D］ an unreasonable price for enrollment
+LD］ 加入费用不合理
+［精准定位］第六段首句指出，预检计划远未达到预期目标，一大问题在于 sticker shock，由④句“即
+将进行的改革将使价格降至合理水平”反推出 sticker shock 意为“价格过高”，因此［D］正确。
+［命题解密］正确项［DJan unreasonable price for enrollment 概括了第六段中 sticker shock、$85 every
+five years、 price tag、bring the price to a more reasonable level、finance PreCheck enrollment、cut costs 共同说明
+的问题“预检计划标价过高”，题干 one problem 呼应第六段①句 one big reason、③句 fatal flaw。
+［A］干扰来自①句前半句事实“参加预检的实际人数远未达到预期目标”，但选项中 reduction 涉及
+“由大到小”的过程，③句表明预检一开始就有着致命弱点，故“规模由大到小”无从谈起。
+［B］由③句“预检标价过高从一开始就很致命”而来，但末句建议“国会应预检提供资金以降低价
+格”侧面表明，该项目价格高源于成本太高，而并非是谁指导有误。
+［C］从⑤句 Congress should... 反向推出“国会不支持预检项目”，但④句 Upcoming reforms
+might...more reasonable 暗示国会有其作为，作者只是认为它做得不够，建议其立即采取直接行动。
+［技巧总结］事实细节题需结合题干和选项定位至原文对应位置，根据原文内容确定正确项，再对
+比选项与原文内容一一排除干扰项，干扰项通常歪曲原文细节，过度推断，或主观臆断。解答本题时，首
+先要根据题干关键词 problem with PreCheck program 定位至第六段，该段指出预检计划的致命缺陷是
+“价格过高”，可确定［D］为正确项。［A］将原文的“数量落差”曲解“规模缩小”，［B］主观臆断出“TSA
+指导不当”，［C］由作者敦促国会采取行动而过度引申出“国会不愿支持预检计划”。
+MI
+① The TSA cannot continue diverting®
+resources
+大多数旅客在不必要的排队中受苦之
+into underused® PreCheck
+lanes while
+most
+of the
+际，TSA不该继续将资源投入未充分利用
+traveling public® suffers in unnecessary lines. ② It is long
+的预检通道。早就该让预检计划发挥作用。
+past time to make the program work. ［438 words］
+•词汇注释与难句分析，
+①divert ［dar vatt］w. 改变（资金、材料等）的用途
+③public ［'pAblik］n.（有共同兴趣、参加共同活动的）
+② underused ［isndo juzd］a. 未充分利用的
+一群人
+•语篇分析。
+第七段总结建议措施，敦促预检计划的切实落实。关键词为：long past time。
+①句先行否定 TSA 当前做法。cannot（=shouldn’”不该或不可以⋯•⋯••”）直接否定 TSA 现行做法，
+diverting resources into... 暗示 TSA 在安检通道方面关注过多，牺牲了在其他方面该有的投人，
+underused 回应上段所述“预检人数远低于预期”的问题，表明TSA不妥的直接原因：预检通道乏人问
+津，竟还在上面浪费过多资源；时间状语从句while..补充TSA 不妥的根本原因：无视普通通道里苦苦
+排队的旅客，unnecessary 表明这一情况本可以避免，与 suffers一同传达作者对于旅客的同情。
+②句随后重申可行性办法：抓紧让预检计划发挥效用。It is long past time to...（意为“早就该做某
+事”）呼应第五段 is supposed to be a win-win...以及上段围绕“预检计划一直存在致命问题”的说明，突
+显问题的当务之急是让预检计划发挥作用，即让更多人参与计划，从而使预检（快速）通道得以充分利
+用，缓解旅客候机时间过长的窘境。
+【深层解读】从第五段起作者开始对问题提出建议，引人“预检计划（PreCheck）”，并一直围绕该计划
+及其缺陷进行说明，本段句首突然转至 TSA，重点似乎在于指责 TSA利用资源不当，呼吁其停止对“预
+检通道”的资源投人，但 while most...suffers in. .. 以及末句 It is long past time to...表明首句更深意图
+在于让 TSA 关注当前核心问题：太多旅客根本就用不上本能发挥作用的预检通道，当务之急不是在通
+道上做文章，而是先要落实项目，节省不必要的开支从而尽可能降价，以鼓励更多人加入计划。至此，本
+段与前两段内容接合，圆满结束作者对“安检费时问题”的呼呼：无论国会还是计划的执行方（TSA），都
+17
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+[DJ a n unreasonab le price for enrollment                         [ DJ 加入费用不合理
+
+     ［精准定位］ 第六段首句指出，预检计划远未达到预期目标， 一 大问题在于 st i cker s h oc k ，由 ④ 句“即
+将进行的改革将使价格降至合理水平”反推出 sticker shock 意为“价格过高”，因此［ DJ 正确 。
+     ［命题解密］ 正确项［ D]an unreasonable price fo r enrollment 概括了第六段中 sti cker shock 、$ 85 every
+five years 、 pri ce tag 、 bring the price to a more reasonable level_ fi nance PreCheck enrollment, cut cos ts 共同说明
+的问题“预检计划标价过高 ” ，题干 one problem 呼应第六段 ①句 one big reason 、 ③句 fata l flaw o
+     〔 A］干 扰来自 ①句 前半句 事实“参 加预检的实际人数远未达到预期目标”，但选项中 reduction 涉及
+“由大到小”的过程， ③ 句表明预检一开始就有着致命弱点，故“规模由大到小”元从谈起 。
+     [ BJ 由 ① 句“预检标价过高从 一 开始就很致命”而来，但末句建议“国会应为预检提供资金以降低价
+格”侧面表明，该项目价格高源于成本太高，而并非是谁指导有误 。
+     [CJ 从⑤句 Congress shou ld ...反向推出“国会不支持预检项目”，但 ④句 Up comi ng reforms
+m ight . . . more r easo na b l e 暗示国会有其 作为，作者只是认为它做得不够，建议其立即采取 直接行动。
+     ［技巧总结］ 事实 细节题需结 合题干 和选项定位至原文对应位 置，根据原文 内容确 定正 确项，再对
+比选项与原文内容 一一 排除干扰 1页，干扰项通常歪 曲 原文细节，过 JJr 推断，或主观臆断 。 解答本题时，首
+先要根据题干关键词 prob l em wit h PreCheck program 定位至第六段，该段指出预检计划的致命缺陷 是
+“价格过高”，可确定 ［ DJ 为正确项 。〔 A］ 将原文的“数 量落差 ”曲解为“规模缩小”，［ BJ 主 观臆断出“ TSA
+指导不当”， ［ CJ 由 作者敦促国会采取行动而过度引申出“国会不愿支持预检计划” 。
+
+     回 O Th e TSA cannot continue d iverting(       reso urces
+                                                                         大多数旅客在不必要的排队中受苦之
+into underused(     PreCheck    lanes   while   most of t he
+                                                                   际， TSA 不该继续将资源投入未充分利用
+traveling public( s uffers in unnecessa ry li nes. @ It is long
+                                                                   的预检通道 。 早就该让预检计划发猝作用 。
+past time to make t he program work. [ 438 words]
+
+
+                                        c~·－词汇注辞呈难句：分析：＜ fl
+( di vert [ da11v3:t] v. 改变（资金、材料等）的用途                   \\   @ public [ 'pAbhk] n. （有共同兴趣、 参 加共同活动的）
+( underused [ ,Anda1j 皿d］ α ．未充分利用的                      I>       一 群人
+
+                                                ： ： •：：阳分析：＜ 1'
+     第七段总结建议措施，敦促预检计划的切实落实 。 关键词为： long past time 。
+     ① 旬先行否定 TSA 当前做法。 ca nn ot(= sho uldn ’ t“不该或不可以 … …”） 直接否定 TSA 现行做法 ，
+diverting reso urces into ...暗示 TSA 在安检通道方面关注过 多 ，牺牲了在 其 他 方面眩有的投入，
+und e rused 回应上段所述“预检人数远低于预期”的问题，表明 TSA 不妥的 直接原因 ： 预检通道乏人问
+津 ， 竟还在上 面浪 费 过多资源；时间状 语 从句 wh il e...补充 TSA 不 妥 的根本原因：无视 普通通道里苦苦
+排队的旅客， unn ecessary 表 明这 一 情况本可以避免，与 suffers 一 同传达作者对于旅客的同情 。
+     ② 旬随后重申可行性办法：抓紧让预检计划发挥效用。 I t is long past tim巳 to . .. （意为“早就该 做 某
+事 ”） 11于应第五段 is supposed to be a win- win . . .以及上段围绕“预检计划 一直 存在致命问题”的说明，突
+显问题的当务之急是让预检计划发挥作用，即让更多人参与计划，从而使预检（快速〉通道得以充分利
+用，缓解旅客候机时间过长的窘境 。
+     E 深层解读】 从第五段起作 者开始 对问题提出建议，引人“预检计划（ PreCh ec k ）＂，并 一直围 绕该计划
+及其缺陷进行说明，本段句首突然转至 TSA ，重点似乎在于指 责’ TSA 利用资源不 当 ， H乎 u于 其 停止对“预
+检通道”的资源投入，但 wh il e most ... s uffers in . ..以及末句 I t is long pas t time to ... 表 明 首句更深意图
+在于让 TSA 关注当前核心问题：太多旅客根本就用不上本能发挥作用的预检通道， 当务之急 不是在通
+道上做文章，而是先要落实项目，节省不必要的开支从而尽可能降价，以鼓励更 多 人加入计划 。 至 此， 本
+段与前两段内容接合，圆满结束作 者 对“安检费时问题”的呼吁：无论因 会 还是计划的执行 为·c TSA ），都
+                                                                                                              17
+```

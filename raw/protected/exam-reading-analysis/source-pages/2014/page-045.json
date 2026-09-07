@@ -1,0 +1,494 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P045",
+  "year": 2014,
+  "pdf_page": 45,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017441859998201026,
+      "text": "第三至七段介绍最主要的考古遗址发现途径“仔细搜寻”，其中第三段举例说明过去的考古方法，第",
+      "width": 0.8414376211349077,
+      "x": 0.08668076823804288,
+      "y": 0.915697674434039
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "四至七段介绍现在的考古新方法、新技术。",
+      "width": 0.35940803147823874,
+      "x": 0.04862579758011948,
+      "y": 0.8953488376469791
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02416415967439345,
+      "text": "学.语篇分析",
+      "width": 0.16728261604162925,
+      "x": 0.0484939982555857,
+      "y": 0.8643714083038414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394998650797,
+      "text": "［A］① Some archaeological\" sites have always been",
+      "width": 0.45243128049419307,
+      "x": 0.08879493623281881,
+      "y": 0.8372093025188432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014733781940058588,
+      "text": "LA］有些考古遗址一直都很容易被观",
+      "width": 0.3234672107915769,
+      "x": 0.6004228468505117,
+      "y": 0.8282894739611604
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018254570584548158,
+      "text": "easily observable— for example, the Parthenon® in",
+      "width": 0.49285286505103565,
+      "x": 0.048480142367532286,
+      "y": 0.813430720908784
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609547075472384,
+      "text": "测到，如希腊雅典的帕提侬神庙、埃及的吉",
+      "width": 0.3572938707139758,
+      "x": 0.5644820307106653,
+      "y": 0.8065789472669017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015131578947368385,
+      "text": "Athens, Greece; the pyramids® of Giza in Egypt; and the",
+      "width": 0.49048623271372127,
+      "x": 0.050739970493033665,
+      "y": 0.794736842396523
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052655,
+      "text": "萨金字塔、英格兰南部的巨石阵。但这些",
+      "width": 0.35729387071397567,
+      "x": 0.564482031254308,
+      "y": 0.7861842103425234
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014626683059491663,
+      "text": "megaliths® of Stonehenge® in southern England. ② But",
+      "width": 0.49471455424224736,
+      "x": 0.046511643668164585,
+      "y": 0.7761627909253314
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052544,
+      "text": "遗址都属于特例。多数考古遗址是经过仔",
+      "width": 0.3615221922425018,
+      "x": 0.5623678715531677,
+      "y": 0.7657894738005459
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013402692895186474,
+      "text": "these sites are exceptions to the norm.",
+      "width": 0.4059196559862159,
+      "x": 0.04862579589695544,
+      "y": 0.7543604650733491
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013310797590958434,
+      "text": "③ Most",
+      "width": 0.06563557884245541,
+      "x": 0.47563886983784975,
+      "y": 0.7542457638656651
+    },
+    {
+      "confidence": 1,
+      "height": 0.014749082138663772,
+      "text": "细搜寻才被勘定的，而许多其他一些考古",
+      "width": 0.35729387071397567,
+      "x": 0.564482031254308,
+      "y": 0.7470930233242794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014672583027889763,
+      "text": "archaeological sites have been located® by means of careful",
+      "width": 0.492600422709381,
+      "x": 0.04862578794763515,
+      "y": 0.7340116277761066
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016447368421052655,
+      "text": "遗址则是偶然间被发现的。奥杜威峡谷，",
+      "width": 0.35940803147823874,
+      "x": 0.5644820317238827,
+      "y": 0.7249999998375813
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013310892958390053,
+      "text": "searching, while many others have been discovered by",
+      "width": 0.492600422709381,
+      "x": 0.04862579779964351,
+      "y": 0.713662790945442
+    },
+    {
+      "confidence": 1,
+      "height": 0.014657282829284801,
+      "text": "一处位于坦桑尼亚的史前人类遗址，是在",
+      "width": 0.35940803147823874,
+      "x": 0.5623678613750457,
+      "y": 0.7063953487499437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580783091093341,
+      "text": "accident. ④Olduvai Gorge, an early hominid®",
+      "width": 0.4291754536245061,
+      "x": 0.048625810996062405,
+      "y": 0.6933139536191298
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011842105263157876,
+      "text": "site in",
+      "width": 0.0634249471613274,
+      "x": 0.47780126743413553,
+      "y": 0.6947368423585503
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014611382860886368,
+      "text": "1911年被一个确实掉进这条深谷的捕蝶",
+      "width": 0.3615221922425018,
+      "x": 0.5623678709506307,
+      "y": 0.6860465116859903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488375011247,
+      "text": "Tanzania, was found by a butterfly hunter who literally®",
+      "width": 0.49048623271372127,
+      "x": 0.04862579724426719,
+      "y": 0.6729651162160291
+    },
+    {
+      "confidence": 1,
+      "height": 0.017763157894736814,
+      "text": "人发现的。上千件阿芝特克手工艺品则是",
+      "width": 0.3615221922425018,
+      "x": 0.5623678656916455,
+      "y": 0.6625000001905276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013310892958390053,
+      "text": "fell into its deep valley in 1911. 6 Thousands of Aztec",
+      "width": 0.492600422709381,
+      "x": 0.04862579779964351,
+      "y": 0.651162790945442
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013203794077823017,
+      "text": "在20世纪70年代开凿墨西哥城地铁期间",
+      "width": 0.35940803147823874,
+      "x": 0.5623678622735656,
+      "y": 0.6453488373117211
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013264993617409182,
+      "text": "artifacts came to light during the digging of the Mexico",
+      "width": 0.492600422709381,
+      "x": 0.04862579779964351,
+      "y": 0.6308139537361397
+    },
+    {
+      "confidence": 1,
+      "height": 0.01668283060977349,
+      "text": "为人所知的。",
+      "width": 0.1101466284857856,
+      "x": 0.5643770042004664,
+      "y": 0.6217457937892377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01321909364901086,
+      "text": "City subway in the 1970s.",
+      "width": 0.217758982574346,
+      "x": 0.04862579409866213,
+      "y": 0.6104651166176804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014703182170265672,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.21987314333860902,
+      "x": 0.37632135919750304,
+      "y": 0.5710526318704883
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014580783718510792,
+      "text": "①archaeological ［a:ki'lpdsikol］a. 考古学的，考古的",
+      "width": 0.40803381675047895,
+      "x": 0.046511637158587096,
+      "y": 0.5421052629893943
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014580783091093341,
+      "text": "⑥locate ［lau kett］v. 找出……的准",
+      "width": 0.2896405801005747,
+      "x": 0.5137420764401989,
+      "y": 0.5421052632897769
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014626683059491552,
+      "text": "②Parthenon ［'pa:0man］n. 帕提侬神庙",
+      "width": 0.30232557391754966,
+      "x": 0.046511628622620566,
+      "y": 0.5217105261992856
+    },
+    {
+      "confidence": 1,
+      "height": 0.013310893585807282,
+      "text": "确位置",
+      "width": 0.0549682858346523,
+      "x": 0.513742073277177,
+      "y": 0.5230263156140995
+    },
+    {
+      "confidence": 1,
+      "height": 0.009210526315789336,
+      "text": "知识补充",
+      "width": 0.06131077908921512,
+      "x": 0.8350951397630034,
+      "y": 0.5230263158694437
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015131578947368385,
+      "text": "③pyramid ［'prramd］ n. 金字塔",
+      "width": 0.24947146711678342,
+      "x": 0.046511621656548444,
+      "y": 0.5026315787287831
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015131578947368385,
+      "text": "⑦by means of 通过⋯•⋯的方法",
+      "width": 0.23678645868411008,
+      "x": 0.513742075837649,
+      "y": 0.5026315786803334
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015131578947368385,
+      "text": "④mcgalith ［' megl:6」n. （尤指史前做石碑用的）巨石",
+      "width": 0.4038054952219528,
+      "x": 0.04651162742073606,
+      "y": 0.4822368421058253
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014672583027889874,
+      "text": "⑧hominid ［'hominid］ a. 人科的",
+      "width": 0.24947146711678347,
+      "x": 0.5137420692957309,
+      "y": 0.4840116277106996
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317319430802999,
+      "text": "⑤ Stonchenge ［istaun'hend3］n.（英国 Salisbury 平原",
+      "width": 0.41649048903892777,
+      "x": 0.048625788540789854,
+      "y": 0.46511627908134323
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488375011247,
+      "text": "⑨literally ［'litoral］ ad. 按照原义，根据字面意思",
+      "width": 0.37632134682373986,
+      "x": 0.511627905393627,
+      "y": 0.46511627898250185
+    },
+    {
+      "confidence": 1,
+      "height": 0.013249694046221228,
+      "text": "上的）史前巨石柱",
+      "width": 0.13319239123114224,
+      "x": 0.05073995755567623,
+      "y": 0.4460526314327554
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014771568147759706,
+      "text": "•语篇分析",
+      "width": 0.10155135553001898,
+      "x": 0.410112272509539,
+      "y": 0.41848630900988293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016049570786325518,
+      "text": "［A］段介绍考古遗址的三种发现途径。Some.•Most...while many others...列举三种途径。",
+      "width": 0.7843551928056154,
+      "x": 0.08456658310741084,
+      "y": 0.3894736845196992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859998201026,
+      "text": "①句介绍途径一：简单的肉眼观测。句子先以高频度副词 always 与 easily observable 相连，强调有",
+      "width": 0.8414376211349078,
+      "x": 0.08668075958758505,
+      "y": 0.36627906995244974
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859998201026,
+      "text": "些考古遗址位置显而易见、可直接肉眼观测而无需费吹灰之力；后以事例表达词 for example 举例说明。",
+      "width": 0.8837208948829621,
+      "x": 0.048625820370358015,
+      "y": 0.3444767446375274
+    },
+    {
+      "confidence": 1,
+      "height": 0.017763157894736814,
+      "text": "句中 Some 暗示有其他情况的出现，即并非所有考古遗址都可肉眼观测。",
+      "width": 0.6131077908921516,
+      "x": 0.0486258141522328,
+      "y": 0.32236842131459686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739463,
+      "text": "②至⑤句介绍途径二、三：仔细搜寻、偶然发现。But 实现意群间转折关联（exceptions VS the norm）。",
+      "width": 0.8435518111305675,
+      "x": 0.0866807610837647,
+      "y": 0.305232558599014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019201346447593193,
+      "text": "②句转承①句指出可观测遗址实属“例外”，启下“常规路径”。exceptions to the norm 借回指词",
+      "width": 0.8435517526677743,
+      "x": 0.08668078216505586,
+      "y": 0.28343023279086643
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016003671445344647,
+      "text": "these sites 明示首句所述实为“例外”，并借首句Some 暗示大多数考古遗址并不易被观测。",
+      "width": 0.765327658233058,
+      "x": 0.04862581912871404,
+      "y": 0.2616279074144209
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859998201026,
+      "text": "③句进而明确两种“常规”路径（即路径二、三）。并列对比词 while 将 Most 与 many others 相连，引",
+      "width": 0.8435517526677742,
+      "x": 0.0866807748500454,
+      "y": 0.24273255828578333
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739352,
+      "text": "出两种占比较重的常规路径；双重对比located（to find the exact position of sb/sth”找出⋯⋯准确位置，勘",
+      "width": 0.8816067633500958,
+      "x": 0.0486257849845717,
+      "y": 0.2209302328795374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014596083289698525,
+      "text": "定”）VS discovered （to find sb/sth that was hidden or that you did not expect to find”（出乎意料地）发",
+      "width": 0.8794925733544361,
+      "x": 0.050739985556749065,
+      "y": 0.2019736844090011
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739463,
+      "text": "现”）、by means of careful searching VS by accident 突出强调两种常规路径的区别：仔细搜寻（可能历经多",
+      "width": 0.8816067633500957,
+      "x": 0.04862578645391631,
+      "y": 0.17877907010579697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014596083289698525,
+      "text": "年）VS偶然发现（猛然间）。",
+      "width": 0.23255813715558396,
+      "x": 0.04862579632707056,
+      "y": 0.1584302325435485
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019155446479195093,
+      "text": "④⑤句例证途径三“偶然发现”。found by a butterfly hunter, came to light during the digging of the...",
+      "width": 0.8435517526677742,
+      "x": 0.08668079172108108,
+      "y": 0.1380813953780755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859998201137,
+      "text": "subway 强调考古遗址发现的偶然性及意外性，其中 literally“按照原义，根据字面意思”强调“真真切切地、",
+      "width": 0.8858350848786218,
+      "x": 0.048625809014177186,
+      "y": 0.11627907000089943
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739352,
+      "text": "确确实实是在不小心掉进深谷时偶然发现的遗址”。",
+      "width": 0.4312896436201658,
+      "x": 0.050739960515498374,
+      "y": 0.09593023299581627
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859998201026,
+      "text": "【路标词解析】本段介绍三种考古遗址的发现途径，其中第一三种都列举具体事例加以说明，唯有",
+      "width": 0.8435517526677742,
+      "x": 0.08668078378767738,
+      "y": 0.07558139536427155
+    },
+    {
+      "confidence": 1,
+      "height": 0.013188494506635173,
+      "text": "45",
+      "width": 0.0232558140809509,
+      "x": 0.8921775898094187,
+      "y": 0.05657894730955071
+    }
+  ],
+  "vision_ocr_text": "第三至七段介绍最主要的考古遗址发现途径“仔细搜寻”，其中第三段举例说明过去的考古方法，第\n四至七段介绍现在的考古新方法、新技术。\n学.语篇分析\n［A］① Some archaeological\" sites have always been\nLA］有些考古遗址一直都很容易被观\neasily observable— for example, the Parthenon® in\n测到，如希腊雅典的帕提侬神庙、埃及的吉\nAthens, Greece; the pyramids® of Giza in Egypt; and the\n萨金字塔、英格兰南部的巨石阵。但这些\nmegaliths® of Stonehenge® in southern England. ② But\n遗址都属于特例。多数考古遗址是经过仔\nthese sites are exceptions to the norm.\n③ Most\n细搜寻才被勘定的，而许多其他一些考古\narchaeological sites have been located® by means of careful\n遗址则是偶然间被发现的。奥杜威峡谷，\nsearching, while many others have been discovered by\n一处位于坦桑尼亚的史前人类遗址，是在\naccident. ④Olduvai Gorge, an early hominid®\nsite in\n1911年被一个确实掉进这条深谷的捕蝶\nTanzania, was found by a butterfly hunter who literally®\n人发现的。上千件阿芝特克手工艺品则是\nfell into its deep valley in 1911. 6 Thousands of Aztec\n在20世纪70年代开凿墨西哥城地铁期间\nartifacts came to light during the digging of the Mexico\n为人所知的。\nCity subway in the 1970s.\n•词汇注释与难句分析。\n①archaeological ［a:ki'lpdsikol］a. 考古学的，考古的\n⑥locate ［lau kett］v. 找出……的准\n②Parthenon ［'pa:0man］n. 帕提侬神庙\n确位置\n知识补充\n③pyramid ［'prramd］ n. 金字塔\n⑦by means of 通过⋯•⋯的方法\n④mcgalith ［' megl:6」n. （尤指史前做石碑用的）巨石\n⑧hominid ［'hominid］ a. 人科的\n⑤ Stonchenge ［istaun'hend3］n.（英国 Salisbury 平原\n⑨literally ［'litoral］ ad. 按照原义，根据字面意思\n上的）史前巨石柱\n•语篇分析\n［A］段介绍考古遗址的三种发现途径。Some.•Most...while many others...列举三种途径。\n①句介绍途径一：简单的肉眼观测。句子先以高频度副词 always 与 easily observable 相连，强调有\n些考古遗址位置显而易见、可直接肉眼观测而无需费吹灰之力；后以事例表达词 for example 举例说明。\n句中 Some 暗示有其他情况的出现，即并非所有考古遗址都可肉眼观测。\n②至⑤句介绍途径二、三：仔细搜寻、偶然发现。But 实现意群间转折关联（exceptions VS the norm）。\n②句转承①句指出可观测遗址实属“例外”，启下“常规路径”。exceptions to the norm 借回指词\nthese sites 明示首句所述实为“例外”，并借首句Some 暗示大多数考古遗址并不易被观测。\n③句进而明确两种“常规”路径（即路径二、三）。并列对比词 while 将 Most 与 many others 相连，引\n出两种占比较重的常规路径；双重对比located（to find the exact position of sb/sth”找出⋯⋯准确位置，勘\n定”）VS discovered （to find sb/sth that was hidden or that you did not expect to find”（出乎意料地）发\n现”）、by means of careful searching VS by accident 突出强调两种常规路径的区别：仔细搜寻（可能历经多\n年）VS偶然发现（猛然间）。\n④⑤句例证途径三“偶然发现”。found by a butterfly hunter, came to light during the digging of the...\nsubway 强调考古遗址发现的偶然性及意外性，其中 literally“按照原义，根据字面意思”强调“真真切切地、\n确确实实是在不小心掉进深谷时偶然发现的遗址”。\n【路标词解析】本段介绍三种考古遗址的发现途径，其中第一三种都列举具体事例加以说明，唯有\n45",
+  "pdf_text_layer": "第 三 至七 段介绍 最主要 的 考古遗址发 现途 径“仔 细搜 寻 ” ，其 中 第 三 段 举 例说明过 去 的 考古方法，第\n四 至七段 介 绍 现在的 考古新方法、新技术。\n\n\n牙 医撞撞金组\n       [ A ] 0 Some archaeological (           sites have a lways been\n                                                                                                 [A］有些考古遗址 一 直都很容易被观\n巳as d y obser va bl e -       fo r exa mp le,      t h巳 Parthenon®            in\n                                                                                       测到，如希腊雅典的中自提依神庙、埃及的吉\nA thens, Greece; the pyramids® of G iza in Eg ypt; a nd th e\n                                                                                       萨金字塔、英格兰南部的巨石阵 。 但这些\nmegaliths<ll of Stonehenge(        in so uth ern England.               f} But\n                                                                                       遗址都属于特例 。 多数考古遗址是经达仔\nt hes e    s ites   are   exception s     to    t he   no rm.       @Most\n                                                                                       细搜寻才被勘定的，而许多其他 一 些考古\narchaeo logica l sites have been located® by means o俨 ca reful\n                                                                                       遗址则是偶然间被发现的。奥杜威峡谷，\nsea rching, w h il e m any ot h 巳rs have been discovered by\n                                                                                       一 处位于坦桑尼亚的史前人类遗址，是在\nacc id e n t.   。。l du va i Go rge,     a n ea rl y hominid(        site in\n                                                                                       1911 年被一个确实掉进这条深谷 l的1 捕蝶\nT a nza ni a, was found by a bu tt erfl y hunter w ho literally®\n                                                                                       人发现的 。 上千件阿芝特克手工艺品则是\nfell in to it s deep va ll ey in 19 11.        0 Thousands of A ztec                   在 20 世纪 70 年代开凿墨西哥城地铁期 间\nart ifacts came to light duri ng th e digging of th e Me xico\n                                                                                       为人所知的 。\nCit y s ubway l 口 th e 1970s.\n\n                                                                  释 …\n                                                                                   分 －\n                                                                                                  J\n                                                                        …\n                                                                        与…\n                                                                         难 …\n                                                                                         析\n                                                                               旬 …\n                                                       词\n                                                       一\n\n\n                                                       …   广L …   注 …    …     …         …\n\n\n\n( archaeological [ a:k1a' Jod31ka！ ］ α ． 考 古 学 的，考古的                         ( locate [ Jau'ke1t] v. 找出 …… 的准\n( Parthenon [ 1pa:8man] n. 帕提侬丰I 卡庙                                          确位 置\n\n( pyramid [' prram1d] n. 金字塔                                                 ( by means of 通过……的方 法\n( megali th [ 1mega!I8] n . （尤指史前做石碑用的）巨石                                    ( hominid [ 1 homm1d ］ α ．人科 的\n( Stonehenge [ ,staun' hend3] n . （英国 Sa li s bL町 平原                               iter ally [\n上的）史前巨石柱\n\n\n                                                       ； 开震分析＜ itl\n       [A ］段介绍考古遗址的三种发现途径。 Some ... Most. .. while many others . . .列举三种途径 。\n\n       ①旬介绍途径一：简单的肉眼观测。 句子先以 高 频度副词 a l ways 与 eas i l y observab l e 相连，强调有\n些考古遗 址 位置 显而易见、可 直接肉眼观 测而无 需琪’吹灰之力；后以 事 例 表达词 for e xamp l e 举 例说明 。\n句中 Som e ll音示有其 他 情况的出现 ，自II 并 非所 有考古遗 址都可肉眼观测 。\n       ②至⑤旬介绍途径二、三：仔细搜寻 、 偶然发现。 But 实现意群间转折关联（ exceptions VS the norm ）。\n       ②旬转承①旬指出可观测遗址实属“例外”，启下“常规路径”。 e xc e ptions to the norm 借回指同\nt hese s it es 明 示首句 所述 实为“ 例外 ”，并借首句 Som 巳 H音示大多 数 考古 遗址 并不易 被观测 。\n       ③旬进而明确两种“常规”路径（即路径二、三）。 并 列对比词 w hi l e ~夺 Most 与 ma ny othe r s 相连，引\n出两种占 比 较重 的 常规路径；双 重 对比 l ocated( to fi nd the exact pos ition of s b/ s th“找出 ……准确 位置 ，勘\n定勺 vs di 日cove red ( to find s b/ s th that was hidd en o r that yo u did not expect to fii叫 “（ 出乎 意料 地 ）发\n现”） 、 b y mea ns of careful searching VS by accident 突 出强调两种常规路 径 的 区 别：仔细搜 寻 （可能历 经多\n年） VS 偶然发现（猛然间） 。\n       ④⑤旬例证途径三“偶然发现” 。 fo und by a butterfly hunter, came to light during the digging of the.\ns ubway 强 调 考古遗址发现的偶然性及 意 外性 ，其 中 l itera lly“按照原义，根据字面意思”强 调“ 真真切切 地、\n确确 实实是在 不 小心 掉进深谷 fl才偶 然发现 的遗址” 。\n       E 路标词解析】 本段介绍 二种 考 古遗 址的 发 现途 径，其 中第 一三 种 都列举具 体 事 例 加 以说明 ， 唯 有\n                                                                                                                  45",
+  "quality": {
+    "vision_line_count": 59,
+    "vision_character_count": 2130,
+    "pdf_text_character_count": 4702,
+    "nonempty": true
+  }
+}

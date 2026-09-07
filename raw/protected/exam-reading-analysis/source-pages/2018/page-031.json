@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P031",
+  "year": 2018,
+  "pdf_page": 31,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.01497395833333326,
+      "text": "用意无疑值得肯定。",
+      "width": 0.1709401653187485,
+      "x": 0.055555560075668434,
+      "y": 0.921223958145625
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "②③句转而明确作者观点：AI 技术用于医疗潜力巨大，但也会加剧科技巨头垄断。leading 表明",
+      "width": 0.8376068466011135,
+      "x": 0.09615383467665133,
+      "y": 0.9010416667481691
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "DeepMind 公司特点：处于 AI技术前沿，影响力巨大；The potential... applied to healthcare（其中 this",
+      "width": 0.8846153756211087,
+      "x": 0.053418796858249365,
+      "y": 0.8821614584884341
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "work 回指“AI 技术成果”）揭示首句协议内容：AI 技术应用于医疗服务；..is very great, but it could",
+      "width": 0.8846153756211087,
+      "x": 0.05341881897363339,
+      "y": 0.8645833331856916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "also lead to...突出强调这一积极事态之下的问题所在：巨头垄断之势或进一步加剧。",
+      "width": 0.7243589788561123,
+      "x": 0.053418808413824063,
+      "y": 0.845703125100978
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017653827245036724,
+      "text": "④句继而引出事件：NHS 下属的皇家自由信托医院将患者信息交予 DeepMind 被判违法。It is..",
+      "width": 0.8354700899672235,
+      "x": 0.09615385434865299,
+      "y": 0.8268229167169642
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "that...强调句式凸显状语 against that background（against 表示“在⋯⋯背景之下”），既衔接上下文，更要表明",
+      "width": 0.8803418623533286,
+      "x": 0.0534188036096607,
+      "y": 0.8095930230965048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "上述背景“发展迅猛的 AI 技术已进军医疗领域，而利好背后也存隐忧”关乎主旨，极其关键。that 后为核心事",
+      "width": 0.8803418623533286,
+      "x": 0.05555555574641278,
+      "y": 0.7906976742883653
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01814764241377509,
+      "text": "件；其中 verdict against. ..引出“违法方”，damning（谴责的，足以定罪的）强调违法事实清楚，不容辩驳；which 定",
+      "width": 0.8783273514203185,
+      "x": 0.055495325953417086,
+      "y": 0.7716398262172585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017744670311609867,
+      "text": "语从句说明案情原委，展现裁定依据，其中 on the basis of a vague agreement. .先抛出总印象：交易协议不清不",
+      "width": 0.8824786189872186,
+      "x": 0.05341881633972388,
+      "y": 0.7526041665355654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01772952949007356,
+      "text": "楚、有规避重点问题之嫌，嵌套的 which 从句进而解释 vague 内涵，far too（极其、非常）修饰 little，再一起限定",
+      "width": 0.8824786189872187,
+      "x": 0.05341881433117692,
+      "y": 0.7337239585198925
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "account（深思熟虑、考虑），昭示协议对“病人隐私权”的忽视程度，明确医院罪责。",
+      "width": 0.643162402156669,
+      "x": 0.053418804281352,
+      "y": 0.7165697673673381
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "注：the Royal Free hospital trust 常被外界称为“皇家自由信托医院”，但这里的 Free 实为“免费、公",
+      "width": 0.8397436032350035,
+      "x": 0.09401708027352393,
+      "y": 0.6976744184574545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "费”之意；trust 应与我们通常说的金融领域法律行为区别开来，hospital trust 指的是“医疗联合体”，英国",
+      "width": 0.8782051057194384,
+      "x": 0.05555557633365666,
+      "y": 0.6802325582527549
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969928,
+      "text": "及其卫生行政部门为适应医疗服务市场的发展，组织单个的、分散的医院形成医院托拉斯，其仍属于公",
+      "width": 0.8803418623533286,
+      "x": 0.053418814079745955,
+      "y": 0.6598837209435224
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "立部门，作为独立的法人实体存在，其在资金、管理和人事等的决策上拥有较大的自主权。政府对医院",
+      "width": 0.8803418623533286,
+      "x": 0.05341880507689715,
+      "y": 0.6424418603179196
+    },
+    {
+      "confidence": 1,
+      "height": 0.01772952949007367,
+      "text": "的管办职能进行分离，利于政府及医疗机构等各司其职。",
+      "width": 0.48076921952638596,
+      "x": 0.05341881387462746,
+      "y": 0.6235465120336385
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "【深层解读】文首句虽然表明了对两方协作意图的赞赏，但 start by acknowledging...（先承认）实际",
+      "width": 0.8418803014061003,
+      "x": 0.09188035510179321,
+      "y": 0.6061046510155941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017608405401309257,
+      "text": "暗示作者“欲抑先扬”，即“协议造成的威胁（the dangers）”可能才是文章焦点。段落前三句话虽然是末句",
+      "width": 0.8803418623533286,
+      "x": 0.053418813054104904,
+      "y": 0.5872093026877085
+    },
+    {
+      "confidence": 1,
+      "height": 0.014640867089231735,
+      "text": "事件的背景，但内容夹叙夹议，作者态度占据大半，加之末句对这一背景的强调，可以推测首句暗含的作",
+      "width": 0.8803418623533286,
+      "x": 0.05341881870123559,
+      "y": 0.5696614583153161
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "者态度，也即③句明示的观点“AI虽好，但必须慎重应对其副作用—加剧科技垄断”很可能为全文主",
+      "width": 0.8803418623533286,
+      "x": 0.05341881714954648,
+      "y": 0.55078125028974
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "旨，而作者意在通过最新热议事件切人，论证这一主旨。",
+      "width": 0.4679487089544421,
+      "x": 0.05555556473218063,
+      "y": 0.5319010418689099
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "• 真题精解",
+      "width": 0.10470085582513922,
+      "x": 0.41452991484027946,
+      "y": 0.5071614585913895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906312545067,
+      "text": "31.What is true of the agreement between the NHS",
+      "width": 0.46153843905277186,
+      "x": 0.06410258303771639,
+      "y": 0.47819767484760345
+    },
+    {
+      "confidence": 1,
+      "height": 0.01017441848913836,
+      "text": "and",
+      "width": 0.032051280083784106,
+      "x": 0.5320512832219968,
+      "y": 0.47965116297563426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "31. 关于 NHS 和 DeepMind 之间的协议",
+      "width": 0.341880330637497,
+      "x": 0.5811965839690009,
+      "y": 0.476562500100595
+    },
+    {
+      "confidence": 1,
+      "height": 0.01017441848913836,
+      "text": "DeepMind？",
+      "width": 0.09188033794534617,
+      "x": 0.09829059949242663,
+      "y": 0.46075581395068277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013417243957519531,
+      "text": "哪项正确？",
+      "width": 0.09198273552788627,
+      "x": 0.6131966657683869,
+      "y": 0.45913440120198057
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01171875,
+      "text": "［A］ It caused conflicts among tech giants.",
+      "width": 0.3525640845755508,
+      "x": 0.06623932964064333,
+      "y": 0.4374999997112178
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "［A］它导致了科技巨头之间的冲突。",
+      "width": 0.3141025528597192,
+      "x": 0.5811965899590292,
+      "y": 0.4345930231837142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01326308151086164,
+      "text": "［B］ It failed to pay due attention to patients' rights.",
+      "width": 0.43803417454277416,
+      "x": 0.0662393267510487,
+      "y": 0.4140625000624437
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "［B］它未对患者权利给予应有的重视。",
+      "width": 0.33119657669944325,
+      "x": 0.5811965867571159,
+      "y": 0.41133720923022576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906312545067,
+      "text": "LC It fell short of the latter's expectations.",
+      "width": 0.37179486504916487,
+      "x": 0.06410257212285338,
+      "y": 0.39098837242512274
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "［C］它米达到后者的期望。",
+      "width": 0.23290597616027597,
+      "x": 0.5811965868984944,
+      "y": 0.38802083323235526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011824733267227772,
+      "text": "［D］ It put both sides into a dangerous situation.",
+      "width": 0.40598288349721623,
+      "x": 0.06623933424854264,
+      "y": 0.36773255847163444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "［D］它将双方置于危险境地。",
+      "width": 0.2521367566338901,
+      "x": 0.5811965814266445,
+      "y": 0.36458333359218376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "［精准定位］根据题干 agreement 定位至首段末句中 which 定语从句部分：NHS 下属的皇家自由信",
+      "width": 0.8418803014061004,
+      "x": 0.09188035159395871,
+      "y": 0.34156976722804555
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "托医院把数据交由 DeepMind 负责是基于一项不明确的协议，协议远没有对患者权利及其隐私权期望进",
+      "width": 0.8803418623533285,
+      "x": 0.053418813801968175,
+      "y": 0.32267441838477995
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "行考虑，可见［B］符合文义。",
+      "width": 0.23290597616027597,
+      "x": 0.05341880912071668,
+      "y": 0.30523255839943886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "［命题解密］正确项［B同义替换原文 took far too little account of the patients' rights。",
+      "width": 0.7350427035627695,
+      "x": 0.09188036675493985,
+      "y": 0.28633720901583626
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "［A］将③句“会使权力更加集中于科技巨头（further concentration of power in the tech giants）”曲解",
+      "width": 0.8418803014061003,
+      "x": 0.09188037141233416,
+      "y": 0.2688802081288929
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "为“导致科技巨头之间的冲突（conflicts among tech giants）”。［C］将末句“协议远未考虑患者的隐私权",
+      "width": 0.8803418623533286,
+      "x": 0.05341881870123559,
+      "y": 0.24999999998603972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "期望（the patients'...and their expectations）”张冠李戴成“协议未达到 DeepMind 的期待（the latter’s",
+      "width": 0.8846153756211087,
+      "x": 0.053418816762095096,
+      "y": 0.23242187494262667
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "expectations）”。［D］误解首句信息 the dangers of the deal between...（协议带来的威胁），并把末句信息",
+      "width": 0.8824786189872187,
+      "x": 0.05128204699677546,
+      "y": 0.21354166675980257
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "“委员会专员裁定⋯⋯违法（verdict against）”、“协议不明确、忽视患者权益”相关联，主观推出“协议危及",
+      "width": 0.8824786189872186,
+      "x": 0.051282065014937574,
+      "y": 0.19466145833448267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "双方”，但“被判违法” “陷入危险”，其次只有NHS一方被判违法。",
+      "width": 0.5705127935299928,
+      "x": 0.05341882261534535,
+      "y": 0.17708333311665092
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "［技巧总结］本题聚焦 agreement，考查相关信息正误，可知该词意义重大，因此除“定位并比对信息”",
+      "width": 0.8440170580399905,
+      "x": 0.09188036668869408,
+      "y": 0.15988372097683434
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "之外，还应刻意思考它在文中“为何重要、起什么作用”，命题人常会基于此设置正确项。如本题，可首先",
+      "width": 0.8803418623533286,
+      "x": 0.05341881870123559,
+      "y": 0.1409883720790629
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "定位至④句，It is against that background that...强调句式暗示前三句实为背景铺垫，本句事件才是段",
+      "width": 0.8803418623533286,
+      "x": 0.05341880967803662,
+      "y": 0.1220930230092957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "落核心信息，即“裁定 NHS 违法”（verdict against）；而 agreement 位于 which 定语从句中，两个修饰成分",
+      "width": 0.8803418623533286,
+      "x": 0.05341881949997372,
+      "y": 0.10465116283729936
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "vague 以及 which took far little... 负面指向明显，可知“agreement 有问题、无视患者权益”是事件的导火",
+      "width": 0.8824786189872187,
+      "x": 0.05128204920297199,
+      "y": 0.08575581376510966
+    },
+    {
+      "confidence": 1,
+      "height": 0.011915576333800915,
+      "text": "31",
+      "width": 0.023504273644809004,
+      "x": 0.8952991453967653,
+      "y": 0.06686046551067104
+    }
+  ],
+  "vision_ocr_text": "用意无疑值得肯定。\n②③句转而明确作者观点：AI 技术用于医疗潜力巨大，但也会加剧科技巨头垄断。leading 表明\nDeepMind 公司特点：处于 AI技术前沿，影响力巨大；The potential... applied to healthcare（其中 this\nwork 回指“AI 技术成果”）揭示首句协议内容：AI 技术应用于医疗服务；..is very great, but it could\nalso lead to...突出强调这一积极事态之下的问题所在：巨头垄断之势或进一步加剧。\n④句继而引出事件：NHS 下属的皇家自由信托医院将患者信息交予 DeepMind 被判违法。It is..\nthat...强调句式凸显状语 against that background（against 表示“在⋯⋯背景之下”），既衔接上下文，更要表明\n上述背景“发展迅猛的 AI 技术已进军医疗领域，而利好背后也存隐忧”关乎主旨，极其关键。that 后为核心事\n件；其中 verdict against. ..引出“违法方”，damning（谴责的，足以定罪的）强调违法事实清楚，不容辩驳；which 定\n语从句说明案情原委，展现裁定依据，其中 on the basis of a vague agreement. .先抛出总印象：交易协议不清不\n楚、有规避重点问题之嫌，嵌套的 which 从句进而解释 vague 内涵，far too（极其、非常）修饰 little，再一起限定\naccount（深思熟虑、考虑），昭示协议对“病人隐私权”的忽视程度，明确医院罪责。\n注：the Royal Free hospital trust 常被外界称为“皇家自由信托医院”，但这里的 Free 实为“免费、公\n费”之意；trust 应与我们通常说的金融领域法律行为区别开来，hospital trust 指的是“医疗联合体”，英国\n及其卫生行政部门为适应医疗服务市场的发展，组织单个的、分散的医院形成医院托拉斯，其仍属于公\n立部门，作为独立的法人实体存在，其在资金、管理和人事等的决策上拥有较大的自主权。政府对医院\n的管办职能进行分离，利于政府及医疗机构等各司其职。\n【深层解读】文首句虽然表明了对两方协作意图的赞赏，但 start by acknowledging...（先承认）实际\n暗示作者“欲抑先扬”，即“协议造成的威胁（the dangers）”可能才是文章焦点。段落前三句话虽然是末句\n事件的背景，但内容夹叙夹议，作者态度占据大半，加之末句对这一背景的强调，可以推测首句暗含的作\n者态度，也即③句明示的观点“AI虽好，但必须慎重应对其副作用—加剧科技垄断”很可能为全文主\n旨，而作者意在通过最新热议事件切人，论证这一主旨。\n• 真题精解\n31.What is true of the agreement between the NHS\nand\n31. 关于 NHS 和 DeepMind 之间的协议\nDeepMind？\n哪项正确？\n［A］ It caused conflicts among tech giants.\n［A］它导致了科技巨头之间的冲突。\n［B］ It failed to pay due attention to patients' rights.\n［B］它未对患者权利给予应有的重视。\nLC It fell short of the latter's expectations.\n［C］它米达到后者的期望。\n［D］ It put both sides into a dangerous situation.\n［D］它将双方置于危险境地。\n［精准定位］根据题干 agreement 定位至首段末句中 which 定语从句部分：NHS 下属的皇家自由信\n托医院把数据交由 DeepMind 负责是基于一项不明确的协议，协议远没有对患者权利及其隐私权期望进\n行考虑，可见［B］符合文义。\n［命题解密］正确项［B同义替换原文 took far too little account of the patients' rights。\n［A］将③句“会使权力更加集中于科技巨头（further concentration of power in the tech giants）”曲解\n为“导致科技巨头之间的冲突（conflicts among tech giants）”。［C］将末句“协议远未考虑患者的隐私权\n期望（the patients'...and their expectations）”张冠李戴成“协议未达到 DeepMind 的期待（the latter’s\nexpectations）”。［D］误解首句信息 the dangers of the deal between...（协议带来的威胁），并把末句信息\n“委员会专员裁定⋯⋯违法（verdict against）”、“协议不明确、忽视患者权益”相关联，主观推出“协议危及\n双方”，但“被判违法” “陷入危险”，其次只有NHS一方被判违法。\n［技巧总结］本题聚焦 agreement，考查相关信息正误，可知该词意义重大，因此除“定位并比对信息”\n之外，还应刻意思考它在文中“为何重要、起什么作用”，命题人常会基于此设置正确项。如本题，可首先\n定位至④句，It is against that background that...强调句式暗示前三句实为背景铺垫，本句事件才是段\n落核心信息，即“裁定 NHS 违法”（verdict against）；而 agreement 位于 which 定语从句中，两个修饰成分\nvague 以及 which took far little... 负面指向明显，可知“agreement 有问题、无视患者权益”是事件的导火\n31",
+  "pdf_text_layer": "用意无疑值得 肯定。\n     ②③ 旬转而明确作者观点： Al 技术用于医疗潜力巨大，但也会加剧科技巨头垄断。 l ea ding 表 明\nDeep M ind 公司特点：处于 AI 技术前沿， 影 H向力 巨大 ； Th e potentia l. . . app lied to hea lthcare （其中 this\nwork 回指 “ A I 技术成果”）揭示首句协议内容 ： A I 技术应用于医疗服务；. .. is very grea t, but it cou ld\na lso lead to . . . 突 出强调这 一 积极事态之下的 问 题所在：巨头垄断之势或进 一 步加剧 。\n     ④ 旬继而引出事件： NHS 下属的皇家自由信托医院将患者信息交予 Deep Mind 被判违法 。 I t is . ..\nthat . .. 强调句式凸显状语 against that backgrouncl (against 表示“在……背景之下勺，既衔接上下文，更要表明\n上述背景“发展迅猛的 AI 技 术已进军医疗领域， 而利好背后也存隐忧”关乎主 旨，极其关键。 that 后为核心 事\n件； 其中 verdi ct against ...引出 “违法方”， damning（植责 的，足以定罪的）强调违法事实清楚 ，不容辩驳； whi ch 定\n语从句说明案情原委，展 现裁定依据，其中 on the basis of a vag ue agreement . . .先抛出总印象：交 易 协议不清不\n楚、有规避重点 问题之嫌， 嵌套的 whi ch 从句进而解释 vague 内涵 ， far too （极其、非常）修饰 li tt le ，再一 起限定\naccount （深思熟虑、考虑），昭示协议对“病人隐私权”的忽视程度，明确医院罪责 。\n     注： the R oyal Free hospita l trust 常被外界称为“皇家自由信托医院”，但这里的 Fr ee 实 为“免费、公\n费”之 意 ； trust 应与我 们 通常说的金融领域法律行为区别开来， h os pital tru st 指的 是“医疗 联合体”，英国\n及其卫生行政部门为适应医疗服务市场的发展，组织单个的、分散的医院形成医院托拉斯，其仍属于公\n立部门 ， 作为独 立的法人实体存在，其在资金 、 管理和人事等 的决 策上 拥 有较大 的自 主权。 政府对 医 院\n的 管 办 I{只能进行分离 ， 利 于政府及医疗 机构 等各司其职 。\n     【深层解读】 文首句虽然表明了对两方协作意图 的 赞赏，但 start by ac know ledging ... （先承认）实际\n暗示作者“欲抑 先扬”，目｜］ “协议造成的威胁（ the dangers ）”可能才是文章焦点 。 段落 前 三 句话虽然是末句\n事件的背景，但内容夹叙夹议，作者态度占据大半，加之末句对这 一 背 景 的强调 ， 可以推测首句暗 含 的作\n者态度，也即 ③ 句明示的观点“ A l 虽好，但必须慎重应对其副 作用 一一 加剧科技垄断”很可能为 全文主\n旨，而作 者意在通过最新热议事件切入 ，论证 这一主旨 。\n\n                                                   ：－草草精解：－ ：：： ；／\n 31. What is true of the agreement between the NHS and               31. 关 于 N HS 和 Dee p Mind 之间的协议\n     DeepMind?                                                         即项正确？\n\n [ A] It caused co nfli cts amo ng tech gia 口 ts.                    [A ］ 它导 致了科技巨头之 间的冲 突。\n\n [ BJ I t fai led to pay clue atte nti on to pati ents ' rights.     [ BJ 它未对患者权利给予应有的重视 。\n\n [ C] It fell short of th巳 latter 's expectat ions .                 [CJ 它未 达到后者的期望 。\n\n [DJ It put bot h si des in to a dangero us s i t 川 tion .           [ DJ 它将双方置于危险境 地 。\n\n     ［精准定位］ 根据题干 agreement 定位至首段末句中 w hi c h 定语从句部分 ： N HS 下 属 的 皇家自 由信\n托 医院把数据交由 De ep M i nd 负责是基于 一 项不明确的协议，协议远没有对患者权 利 及其隐私权期望进\n行考虑，可见 ［ BJ 符 合文义 。\n     ［命题解密］ 正确项 ［ BJ 同义替换原文 took far too littl e acco unt o f t he patients ’ rights 。\n     [A ］ 将 ③ 句“会使权力更加集中 子科技巨头（ further concentrati on of power in the tech giants )” Jl1Jf(Jlf\n为“导致科技 巨头之 间的冲 突（ con fli cts amo ng tech g i a nt s ）” 。［ CJ 将末句“协以远 未考虑患者 的隐私权\n期 望（ the pati ents' .. . an d the ir ex p ec t at i o ns ）”张冠李戴成 “协议 未达 到 D eep Mind 的期待（ th e lat ter ’ 5\nexpectations ）” 。［ DJ 误解首句信息 the da ngers o f t he dea l betwee n ... （协议带来 的威胁）， 并 把 末句信息\n“委员会 专员裁定 …… 违法（ ve rdi ct aga in st ）” 、 “ 协议不明确、忽视患 者权益” 相 关联，主 观推出“协议危及\n双方”，但“被判违 法”手“陷入危险”，其次只有 N HS 一 方被判违法 。\n     ［技巧总结］ 本题聚焦、 ag reeme nt ，考查 相 关信息 正误，可知该词意义重大，因 此 除“定位并比对信息”\n之外，还应刻 意思考它在文中“为 何 重要、 起什么作用”，命题人常会基于此设置正确项。如本题，可首先\n定位至 ④ 句 ， I t is aga in st that background that. ..强调句式暗示前 三 句 实为背景 铺垫， 本句事 件才 是 段\n落核心信息 ， 即“ 裁定 N H S 违法”（ verdi ct aga in st ） ；而 agree m e nt 位 于 w hi c h 定语 从句中，两个修饰成 分\nvag u e 以及 whi c h too k far li t tl e ... 负面指向明显 ，可知“ agreeme nt 有 问题、无视患者权益”是 事 件的导火\n                                                                                                     31",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 2427,
+    "pdf_text_character_count": 3180,
+    "nonempty": true
+  }
+}

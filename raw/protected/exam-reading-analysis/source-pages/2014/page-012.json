@@ -1,0 +1,422 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P012",
+  "year": 2014,
+  "pdf_page": 12,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01335309284185271,
+      "text": "［B］ to accept the government's restrictions on the allowance",
+      "width": 0.5042553313390505,
+      "x": 0.07659574362834701,
+      "y": 0.9127906980079379
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660282384336365,
+      "text": "［B］接受政府对津贴的限制",
+      "width": 0.23829786804900777,
+      "x": 0.5978723449542195,
+      "y": 0.912790698123943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01328849293827239,
+      "text": "LC」 to register for an allowance from the government",
+      "width": 0.45319147219603084,
+      "x": 0.07446808911475067,
+      "y": 0.8849673205072781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "［C］登记领取政府津贴",
+      "width": 0.19999998830744137,
+      "x": 0.5978723487718112,
+      "y": 0.8849673202761293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013269493626613227,
+      "text": "［D］ to attend a governmental job-training program",
+      "width": 0.4255319061863925,
+      "x": 0.0765957443004209,
+      "y": 0.8588235295028035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014576683169096882,
+      "text": "［D］参加政府工作培训项目",
+      "width": 0.23829786804900777,
+      "x": 0.5978723449542195,
+      "y": 0.8575163397825416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "［精准定位］由所考词所在句“失业最初几天应该用于找工作，而不是指望 sign on”可知：sign on 是",
+      "width": 0.8425531496946839,
+      "x": 0.10212768749308343,
+      "y": 0.8299418604194415
+    },
+    {
+      "confidence": 1,
+      "height": 0.01773825813742247,
+      "text": "“找工作”的对立面。再结合上句“求职者需要经过七天的等待期才能申请津贴”及下句“之所以这样做，",
+      "width": 0.8851063461596025,
+      "x": 0.06170213500530552,
+      "y": 0.8078431372404062
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "是要帮助人们远离救济”，可确定 sign on 指“登记领取政府津贴”，［C］正确。",
+      "width": 0.640425524949114,
+      "x": 0.0659574556282798,
+      "y": 0.7892441859281625
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［命题解密】正确项［C］体现了 sign on 和 looking for work、 stay off benefits、get into work faster 之",
+      "width": 0.8404255132565553,
+      "x": 0.10212766049938206,
+      "y": 0.7686274509512833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "间的对立，以及与 the jobseeker's allowance 的同向。",
+      "width": 0.44468083874932646,
+      "x": 0.06595744751363479,
+      "y": 0.7483660129383481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "［A］为第一段②句 they should report weekly 暗示信息，但这和“找工作”为同向关系，而非对立关",
+      "width": 0.8404255132565553,
+      "x": 0.10425533548165132,
+      "y": 0.7281045751902027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "系。［B］ the government's restrictions on the allowance 与第二段②句同义，但“接受这种限制",
+      "width": 0.8787233783824233,
+      "x": 0.065957464549923,
+      "y": 0.7078431370958405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017728758169934578,
+      "text": "（accept...）”无法和“找工作”构成对立。［D］ a governmental job-training program 源自第二段④help",
+      "width": 0.8829787097214739,
+      "x": 0.0638297830381994,
+      "y": 0.6874999998983342
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "those on benefits get into work faster，但选项无法和 the jobseeker's allowance 建立联系。",
+      "width": 0.7531914838885897,
+      "x": 0.06595744856634349,
+      "y": 0.6671511628201199
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "［技巧总结］本题就“涉及复杂关系的内容（第二段）”命制词义推断题，解题关键是通过多条线索（因",
+      "width": 0.8425531496946839,
+      "x": 0.10212768889733878,
+      "y": 0.6468023255236082
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "果、转折标记，取舍结构、语义逻辑等）找到上下文中的同义/近义/上下义关系。",
+      "width": 0.6680850909587525,
+      "x": 0.06595746287168743,
+      "y": 0.6261437909039833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664082122004873,
+      "text": "具体看本题：一，借助 should be spent...，not... 可判断：looking to sign on 和 looking for work 为对",
+      "width": 0.8382978183556333,
+      "x": 0.10638299174416954,
+      "y": 0.6075581398778189
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "立关系。二，借助②③句 seven-day 和 Those first few days 的同指关系可判断：looking to sign on 和 the",
+      "width": 0.8808510732833452,
+      "x": 0.06595744942215703,
+      "y": 0.5856209150932418
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "jobseeker's allowance 直接相关。三，借助③④间紧密逻辑可知 stay off benefits /get into work faster 和",
+      "width": 0.8851063461596025,
+      "x": 0.06170215492019858,
+      "y": 0.5653594768489598
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "looking for work 同向，和 looking to sign on 反向。综合三条线索可知［C］正确。",
+      "width": 0.6787233900749821,
+      "x": 0.06382980280825347,
+      "y": 0.54505814000957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0117647058823529,
+      "text": "23. What prompted the chancellor to develop his scheme？",
+      "width": 0.4468085044188518,
+      "x": 0.07659575151397834,
+      "y": 0.5202614378941968
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "23.促使财相生成其计划的动因是什么？",
+      "width": 0.331914879809851,
+      "x": 0.5702127694035852,
+      "y": 0.5174418607581166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01176470588235301,
+      "text": "LA A desire to secure a better life for all.",
+      "width": 0.35957444581948933,
+      "x": 0.07659576180656719,
+      "y": 0.49411764701037386
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "［A］为所有人创造更好生活的愿望。",
+      "width": 0.31276594724691686,
+      "x": 0.5702127741850522,
+      "y": 0.4895424833702552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315092971901477,
+      "text": "LB」 An eagerness to protect the unemployed.",
+      "width": 0.37872340761382006,
+      "x": 0.07659574678883456,
+      "y": 0.4651162794032868
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "［B」为失业者提供保护的渴望。",
+      "width": 0.27021275078199825,
+      "x": 0.5702127762472987,
+      "y": 0.4620915034854489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013334092906877149,
+      "text": "［C］ An urge to be generous to the claimants.",
+      "width": 0.38085104405194864,
+      "x": 0.07659575933040856,
+      "y": 0.4389534886438391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016120399524963025,
+      "text": "［C］对申请人表示慷慨的冲动。",
+      "width": 0.27054747950528324,
+      "x": 0.5700541343853605,
+      "y": 0.4359744422952673
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01330749349656446,
+      "text": "LD」 A passion to ensure fairness for taxpayers.",
+      "width": 0.39787234017675405,
+      "x": 0.07446809020417604,
+      "y": 0.4111111108465151
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "［D］确保对纳税人公平的热情。",
+      "width": 0.2723404164515236,
+      "x": 0.5702127739018977,
+      "y": 0.4084302330328259
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02005125432232624,
+      "text": "［精准定位］根据题干设问直接定位至第二段⑧句（What motivated him...）。该句指出，激励奥斯",
+      "width": 0.8406620537184207,
+      "x": 0.10200175957734095,
+      "y": 0.3800601045872878
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313437,
+      "text": "本制定其计划的是对“基本公平”的热情：保护纳税者，控制开支，确保只有最应资助的申请者才能领到",
+      "width": 0.8787233783824233,
+      "x": 0.06382978918644816,
+      "y": 0.36337209346160493
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "补贴。可见，［D］符合文意。",
+      "width": 0.23191488565613028,
+      "x": 0.0659574527215802,
+      "y": 0.3444444444275654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "［命题解密］正确项是对第二段⑧句的概括：passion 近义替換 zeal,ensure fairness for taxpayers 概",
+      "width": 0.8425532081574773,
+      "x": 0.10212765650636775,
+      "y": 0.3254901960604586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013282793331769516,
+      "text": "括“fundamental fairness”",
+      "width": 0.21276595309319624,
+      "x": 0.0659574516448912,
+      "y": 0.309593023672909
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013231493756661994,
+      "text": "Protecting the taxpayer..。",
+      "width": 0.2340425513256555,
+      "x": 0.3021276566066759,
+      "y": 0.30653594774121407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013370192907994016,
+      "text": "LAJ源自第二段⑦句 the socially concerned chancellor, trying to change lives for the better...，但这",
+      "width": 0.8382978183556334,
+      "x": 0.10425533216970154,
+      "y": 0.2892441863122016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "是表象（体现于 On first hearing），并非真正动机。［B］源自第二段④句 help people stay off benefits and",
+      "width": 0.8808510732833453,
+      "x": 0.0659574508902421,
+      "y": 0.26862745106756236
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014705881729624615,
+      "text": "hclp those on benefits get into work faster，但这是奥斯本自己说辞，并非其真正动因。［C］对第二段⑧句",
+      "width": 0.8808510732833452,
+      "x": 0.06382979131577399,
+      "y": 0.2500000004785943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "only the most deserving claimants received their benefits 反向干扰：新政明显是对失业金申请者“更小",
+      "width": 0.8787233783824234,
+      "x": 0.06382980287261808,
+      "y": 0.23110465087244547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "气”，而不是“更大方”。",
+      "width": 0.18936170380691,
+      "x": 0.06595744780399174,
+      "y": 0.21220930251461323
+    },
+    {
+      "confidence": 1,
+      "height": 0.019104346730350663,
+      "text": "［技巧总结］本题考查奥斯本实施新政的“真正动机”。解题关键在于：将文中信息分类、识别“表象”",
+      "width": 0.8446808445956058,
+      "x": 0.10212767125538841,
+      "y": 0.1933139536916646
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "和“真相”。具体来看，解题关键在于将第二段信息分类：①②③④句介绍新政规定及奥斯本口中的“日",
+      "width": 0.8765957419442947,
+      "x": 0.06382978124061874,
+      "y": 0.1758169937399019
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013318893332886494,
+      "text": "的”（“...\"he claimed\"..",
+      "width": 0.21276595309319624,
+      "x": 0.06808511210588404,
+      "y": 0.159883721244372
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "”）⑤⑥句作者发起质疑（Help? Really？）—⑦句作者说明表象（On first hear-",
+      "width": 0.6680850909587525,
+      "x": 0.2765957440419007,
+      "y": 0.1568627450872162
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "ing）一⑧句说明真正动机（What motivated him,we were to understand,was...）。随后可排除来自于",
+      "width": 0.8808510732833453,
+      "x": 0.06170212829449748,
+      "y": 0.13660130736302145
+    },
+    {
+      "confidence": 1,
+      "height": 0.019238898333381216,
+      "text": "“奥斯本说辞”及“表象”的［A］、［B］，留下来自“真正动机”的［C］、［D］。最后将两选项与⑧句仔细比对，",
+      "width": 0.8832036745502575,
+      "x": 0.06158607756396331,
+      "y": 0.1178610195482015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01901253718955842,
+      "text": "排除与文意相反的［C］，确定与文意相符的LDJ。",
+      "width": 0.4066573102812201,
+      "x": 0.06369924578390525,
+      "y": 0.09878310150445202
+    },
+    {
+      "confidence": 1,
+      "height": 0.011863504671582925,
+      "text": "12",
+      "width": 0.02340425476717309,
+      "x": 0.07872340469848031,
+      "y": 0.06395348862283001
+    }
+  ],
+  "vision_ocr_text": "［B］ to accept the government's restrictions on the allowance\n［B］接受政府对津贴的限制\nLC」 to register for an allowance from the government\n［C］登记领取政府津贴\n［D］ to attend a governmental job-training program\n［D］参加政府工作培训项目\n［精准定位］由所考词所在句“失业最初几天应该用于找工作，而不是指望 sign on”可知：sign on 是\n“找工作”的对立面。再结合上句“求职者需要经过七天的等待期才能申请津贴”及下句“之所以这样做，\n是要帮助人们远离救济”，可确定 sign on 指“登记领取政府津贴”，［C］正确。\n［命题解密】正确项［C］体现了 sign on 和 looking for work、 stay off benefits、get into work faster 之\n间的对立，以及与 the jobseeker's allowance 的同向。\n［A］为第一段②句 they should report weekly 暗示信息，但这和“找工作”为同向关系，而非对立关\n系。［B］ the government's restrictions on the allowance 与第二段②句同义，但“接受这种限制\n（accept...）”无法和“找工作”构成对立。［D］ a governmental job-training program 源自第二段④help\nthose on benefits get into work faster，但选项无法和 the jobseeker's allowance 建立联系。\n［技巧总结］本题就“涉及复杂关系的内容（第二段）”命制词义推断题，解题关键是通过多条线索（因\n果、转折标记，取舍结构、语义逻辑等）找到上下文中的同义/近义/上下义关系。\n具体看本题：一，借助 should be spent...，not... 可判断：looking to sign on 和 looking for work 为对\n立关系。二，借助②③句 seven-day 和 Those first few days 的同指关系可判断：looking to sign on 和 the\njobseeker's allowance 直接相关。三，借助③④间紧密逻辑可知 stay off benefits /get into work faster 和\nlooking for work 同向，和 looking to sign on 反向。综合三条线索可知［C］正确。\n23. What prompted the chancellor to develop his scheme？\n23.促使财相生成其计划的动因是什么？\nLA A desire to secure a better life for all.\n［A］为所有人创造更好生活的愿望。\nLB」 An eagerness to protect the unemployed.\n［B」为失业者提供保护的渴望。\n［C］ An urge to be generous to the claimants.\n［C］对申请人表示慷慨的冲动。\nLD」 A passion to ensure fairness for taxpayers.\n［D］确保对纳税人公平的热情。\n［精准定位］根据题干设问直接定位至第二段⑧句（What motivated him...）。该句指出，激励奥斯\n本制定其计划的是对“基本公平”的热情：保护纳税者，控制开支，确保只有最应资助的申请者才能领到\n补贴。可见，［D］符合文意。\n［命题解密］正确项是对第二段⑧句的概括：passion 近义替換 zeal,ensure fairness for taxpayers 概\n括“fundamental fairness”\nProtecting the taxpayer..。\nLAJ源自第二段⑦句 the socially concerned chancellor, trying to change lives for the better...，但这\n是表象（体现于 On first hearing），并非真正动机。［B］源自第二段④句 help people stay off benefits and\nhclp those on benefits get into work faster，但这是奥斯本自己说辞，并非其真正动因。［C］对第二段⑧句\nonly the most deserving claimants received their benefits 反向干扰：新政明显是对失业金申请者“更小\n气”，而不是“更大方”。\n［技巧总结］本题考查奥斯本实施新政的“真正动机”。解题关键在于：将文中信息分类、识别“表象”\n和“真相”。具体来看，解题关键在于将第二段信息分类：①②③④句介绍新政规定及奥斯本口中的“日\n的”（“...\"he claimed\"..\n”）⑤⑥句作者发起质疑（Help? Really？）—⑦句作者说明表象（On first hear-\ning）一⑧句说明真正动机（What motivated him,we were to understand,was...）。随后可排除来自于\n“奥斯本说辞”及“表象”的［A］、［B］，留下来自“真正动机”的［C］、［D］。最后将两选项与⑧句仔细比对，\n排除与文意相反的［C］，确定与文意相符的LDJ。\n12",
+  "pdf_text_layer": "[ BJ to accept th e government ’ s restrictions on the allowance        [ BJ 接受政府对津贴的限制\n\n [ C] to reg is ter fo r an a llowance from the gove rnment              [ CJ 登 记 领取 政府 津 贴\n\n [ DJ to atte nd a governmenta l job-traini 吨 program                    [ DJ 参 加政府 工作培训项目\n\n       ［精准定位］ 由所 考词 所在句 “失 业 最初 几 天应该 用 于找工作， 而 不是指望 s ign o n”可知 ： s i g n o n 是\n“找工作”的对立面。再结合上句“求 职 者需要经 过七 天的等待期才能申请津贴”及下句“之所 以 这样做，\n是要帮助人们远离救济”，可确定 s ign on 指“登 记领取政 府津贴”，［ CJ 正确。\n       ［命题解密］ 正确项［ CJ 体 现 了 sign o n 和 looking for wo rk 、 stay off benefits 、 get into wo rk fast e r 之\n间的对 立，以及与 t h e jobseeker 's allowance 的同向。\n       [ A ］为第一段② 句 th ey s hou ld report wee kl y 暗示信息 ，但 这 和“找 工作”为 同向 关系、而 非对 立关\n系 。 ［ BJ t he government ’ s restrictions on the a ll owance 与第二段②句同义，但“接受这种限 制\n( accept . . . ）”无法 和“找工作”构成对立 。［ D J a governm ental job- t ra ining program 源自第二段 ④ h e lp\nthose on benefits get into wo rk faster ，但选项无法和 the jo bseeker's a l l owance 建立联系 。\n       ［ 技巧总结］ 本题就“涉及复杂关系的 内 容（第二段）”命 制词义推断 题， f(f,｛， 题关键是通过多条线索（因\n果、转 折标记，取 舍结构、语义 逻辑等）找到七下文中的同义 ／ 近义 ／ 上下义关系 。\n       具体看本题：一，借助 s h ou l d be spent . .              , not. ..可判断： l oo kin g to 8明1 on 和 l oo king fo r wo rk 为对\n立关系。 二 ，借助②①句 seve n- day 和 Those fi rs t few da ys 的同指 关系可 判断： l oo k i ng to sign on 和l th e\njobseeker' s a l l owance 直接 相 关。 三 ， 借助 ③④ 间紧密逻辑可知 s t ay off benefits / get into work fast e r 矛II\nlooking for wo rk 同向，和l looking to s ign o n 反向。综合 三 条线索可知［ CJ 正确。\n\n 23. What prompted the chancellor to develop his scheme?             23. 促使财相生 成 其计 划 的 动因是什 么？\n\n [A] A des ire to sec ure a bet ter li fe for a ll.                  〔 A］为所有 人创造 更好生活 的愿 望。\n\n [BJ An eage rn ess to protect the un emp loyed.                     [BJ 为失业者提供保护的渴望 。\n\n [ C] A n urge to be genero us to the claimants .                    [CJ 对 申请人 表示慷 慨的冲动 。\n\n [ DJ A passion to ens ure fa irness for taxpaye rs.                 [ DJ 确保对纳税人公平的热情 。\n\n       ［精准定位］ 根据题干设 问 直接 定位 至第二 段 ＠ 句（ What moti vated him .. . ） 。 i亥句指 出， 激励奥斯\n本刊jlj 定其计划的是对“基本公平”的热情 ：保护纳税 者，控 制开 支 ， 确保只有最应资助的申请者才能领到\n补贴 。 可见， ［ DJ 利合文意 。\n       ［命题解密］ 正确项是对第 二 段 ③ 句的概括： passion 近义替换 zea l , e ns ur巳 fairness for taxpaye rs 概\n括“ fund a m e nt a l fairness ” -   protecting the ta xpaye r. ..\n       [ A ］ 源 ！斗第 二 段 ⑦ 句 t h e socia ll y concerned cha ncellor , trying to change lives fo r th e better. ..，但这\n是表象（体 现 于 O n first h ea rin g ），并非真正动机。［ BJ 源自第二段 ④ 句 h e lp peopl e s tay off bene fi ts and\nhe lp t hose on benefit s ge t into wor k fast 町，但这是奥斯本自己出辞，并非其 真 正动因 。 ［ CJ 对第 二 段③句\n。川 y the most deserving cla imant s received their b e nefit s 反 向干扰：新政明 显是对失 业 金 申请者“更小\n气” ，而 不是“更大方” 。\n       ［技巧总结］ 本题考查奥斯本实施新政的“真正动 机” 。 解题关键在于：将文中信息分类、识另lj “ 表象”\n幸II “真相” 。 具 体来 看，解题关键在 于将第 二段信 息分类： ①②③④ 句介绍新政规定及奥斯本口中的“目\n的”（ “ ．．   ” h e c l a im e d“． ．． ”） 一 ⑤＠ 句作者·发起质疑（ Help ? R ea ll y ？） －⑦ 句作者说明表象（ On firs t hea r              >\n\n\n\n\ning)    ③ 句说明 真正动 机（ What moti va ted him , we were to unders tand, was ... ） 。 随后可排除来向于\n“奥斯本说醉”及“表象”的［ A ］、［町，留下来自“真正动 机”的 ［ CJ 、［ DJ 。 最后将两选项与 ③ 句仔细比对，\n排 除与文意相反的［ CJ ，确定与文意相符的［ DJ 。\n\n\n  12",
+  "quality": {
+    "vision_line_count": 50,
+    "vision_character_count": 2366,
+    "pdf_text_character_count": 3046,
+    "nonempty": true
+  }
+}

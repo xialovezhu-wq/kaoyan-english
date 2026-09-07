@@ -1,0 +1,606 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P013",
+  "year": 2021,
+  "pdf_page": 13,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "结构切分：",
+      "width": 0.09243697238106259,
+      "x": 0.09243697676465078,
+      "y": 0.9331395352918607
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008720930025834739,
+      "text": "I",
+      "width": 0.01470588213676205,
+      "x": 0.140756302874196,
+      "y": 0.917151162942509
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.007267441476550118,
+      "text": "1S",
+      "width": 0.012605041437755427,
+      "x": 0.2016806724743996,
+      "y": 0.9171511630553296
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "all very well train operators trumpeting the improvements",
+      "width": 0.3592436979731154,
+      "x": 0.23949580166470275,
+      "y": 0.9141145142900569
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "定语",
+      "width": 0.035714283614259656,
+      "x": 0.6113445391627581,
+      "y": 0.9154460720211002
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "they are making to the network",
+      "width": 0.21428570168555816,
+      "x": 0.6554621876025991,
+      "y": 0.9141145142028476
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013373640977272783,
+      "text": "分句1：",
+      "width": 0.05042016575102172,
+      "x": 0.05252101013919501,
+      "y": 0.9040697677508538
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317515148462578,
+      "text": "形式主语 系动词",
+      "width": 0.12184873665458663,
+      "x": 0.10924369788419129,
+      "y": 0.8968023253341829
+    },
+    {
+      "confidence": 1,
+      "height": 0.013317514513526252,
+      "text": "表语",
+      "width": 0.044117646410286065,
+      "x": 0.2457983191005292,
+      "y": 0.8968023259994002
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "真正的主语",
+      "width": 0.08193277347983657,
+      "x": 0.40126050333361113,
+      "y": 0.8981358191012354
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317514513526252,
+      "text": "从句",
+      "width": 0.033613443834014434,
+      "x": 0.613445378958343,
+      "y": 0.8968023255279814
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "主语",
+      "width": 0.033613443834014434,
+      "x": 0.6533613449737492,
+      "y": 0.8981358191157702
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "谓语",
+      "width": 0.035714283614259656,
+      "x": 0.7163865561182903,
+      "y": 0.8981358186116479
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696439,
+      "text": "状语",
+      "width": 0.033613443834014434,
+      "x": 0.8088235299437372,
+      "y": 0.8981358190126396
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013360093976463983,
+      "text": "分句2：",
+      "width": 0.05042016575102172,
+      "x": 0.05252100998163198,
+      "y": 0.8601864178502058
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "but passengers should be able to expect a basic level of service for the substantial sums",
+      "width": 0.5504201547258851,
+      "x": 0.1176470723744522,
+      "y": 0.8661784285901095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011639519474319071,
+      "text": "定语",
+      "width": 0.033613443834014545,
+      "x": 0.6806722695815921,
+      "y": 0.8691860464765578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "they",
+      "width": 0.033613443834014434,
+      "x": 0.7226890761082029,
+      "y": 0.8661784285233161
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "are now paying",
+      "width": 0.1092436906230243,
+      "x": 0.7605042069293841,
+      "y": 0.8661784285779971
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01030796155154945,
+      "text": "to travel",
+      "width": 0.0693277274482742,
+      "x": 0.8676470594901486,
+      "y": 0.8691860464052699
+    },
+    {
+      "confidence": 1,
+      "height": 0.013346545705782642,
+      "text": "连词",
+      "width": 0.03361344383401449,
+      "x": 0.11134453882729048,
+      "y": 0.8488372092125744
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "主语",
+      "width": 0.05252100553126693,
+      "x": 0.14705882409010887,
+      "y": 0.8501997334037105
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "谓语",
+      "width": 0.03361344383401449,
+      "x": 0.3487394962342532,
+      "y": 0.8501997333940206
+    },
+    {
+      "confidence": 1,
+      "height": 0.01319252476393773,
+      "text": "原因状语",
+      "width": 0.06517271361599075,
+      "x": 0.5693043999594511,
+      "y": 0.8502351330403366
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014627841436434363,
+      "text": "从句 主语",
+      "width": 0.07566762935219473,
+      "x": 0.6806535805756296,
+      "y": 0.8487907302988633
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696328,
+      "text": "谓语",
+      "width": 0.033613443834014545,
+      "x": 0.7983193287432568,
+      "y": 0.8501997334362388
+    },
+    {
+      "confidence": 1,
+      "height": 0.013656522240365732,
+      "text": "目的状语",
+      "width": 0.06327071584947763,
+      "x": 0.8759276668365927,
+      "y": 0.8500031341518701
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01624771567698957,
+      "text": "功能注释：分句1 主干为 It is all very well，其中It 为形式主语，真正的主语为独立主格结构 train",
+      "width": 0.8529411418819244,
+      "x": 0.0945378430821468,
+      "y": 0.8282290282682435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599417799481062,
+      "text": "operators trumpeting the improvements（逻辑主语＋V-ing＋宾语）；they are making...为定语从句（作宾",
+      "width": 0.8907563020268847,
+      "x": 0.05252100122745411,
+      "y": 0.8095872169496957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01622642626298887,
+      "text": "语的引导词 that/which 被省略），修饰 the improvements。分句2内嵌定语从句 they are now paying...",
+      "width": 0.8886554695967305,
+      "x": 0.052521013583987565,
+      "y": 0.7906976747284588
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01615288095690126,
+      "text": "（作宾语的that/which 被省略），修饰 the substantial sums。两分句以转折连词but 衔接，强调运营商所",
+      "width": 0.8928571344570387,
+      "x": 0.05252102153198466,
+      "y": 0.7716378165239424
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606772330089823,
+      "text": "称的改善只是自吹自擂，乘客获得的铁路服务实际非常糟糕。",
+      "width": 0.5273109391934611,
+      "x": 0.05252100626461401,
+      "y": 0.7529069770540402
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01714101580582983,
+      "text": "•语篇分析•",
+      "width": 0.1263465660844924,
+      "x": 0.42001999584451793,
+      "y": 0.7276213525659428
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017623788348526848,
+      "text": "第三段指出，乘客虽然支付了高昂票价，却未能获得基本的服务。关键词：should be able to expect a",
+      "width": 0.8529411418819244,
+      "x": 0.09453783189517227,
+      "y": 0.7003994674767264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "basic level of service。",
+      "width": 0.17857141807129848,
+      "x": 0.05462185689572322,
+      "y": 0.6830892145319514
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630384277567254,
+      "text": "①②句指出，乘客虽然支付了高昂费用，却未能获得基本的服务（铁路罢工频发，出行受到严重影响）。",
+      "width": 0.8508403094517702,
+      "x": 0.09243698104092164,
+      "y": 0.6627906979091758
+    },
+    {
+      "confidence": 1,
+      "height": 0.01619739507073248,
+      "text": "①句指出事实情形：（票价涨幅最大的）东南部通勤者并未逃脱罢工的影响。those commuters 回指",
+      "width": 0.8529411418819244,
+      "x": 0.09243698142248348,
+      "y": 0.6451398138454308
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01602320918706701,
+      "text": "上段末句“东南部的通勤者”；experienced some of the worst rail strikes 强调罢工极为严重，对通勤者影",
+      "width": 0.8886554107960019,
+      "x": 0.05672271495388976,
+      "y": 0.6264534884675576
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627674686924596,
+      "text": "响巨大。However、also 暗含之意：票价涨幅最大的通勤者也未能逃脱最严重罢工的影响，看来“多付费，",
+      "width": 0.8928571344570387,
+      "x": 0.054621861868119084,
+      "y": 0.6075581398447378
+    },
+    {
+      "confidence": 1,
+      "height": 0.016102560985580494,
+      "text": "享受更好的服务”的逻辑并不成立。",
+      "width": 0.30252098715603926,
+      "x": 0.05462186099130806,
+      "y": 0.5885486017096526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01611804390715532,
+      "text": "②句直接批驳铁路运营商：乘客支付高价，却连最基本的出行需求都未得到满足。It is all very well",
+      "width": 0.8550419743120785,
+      "x": 0.0945378470613974,
+      "y": 0.5697674422466273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016261263947671023,
+      "text": "train operators...but passengers should... （It is all very well 意为“某人大可做某事”）形成“让步一转",
+      "width": 0.8928571344570387,
+      "x": 0.05252100144269944,
+      "y": 0.5505992007824458
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014676167707786125,
+      "text": "折”逻辑，将“运营商的大肆吹嘘”与“通勤者的糟糕体验”作对比；trumpeting the improvements vs should",
+      "width": 0.8928571344570387,
+      "x": 0.054621859317098814,
+      "y": 0.5332889482704252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "be able to expect a basic level of service 和 expect a basic level of service vs （paying） substantial sums 形",
+      "width": 0.8886554695967306,
+      "x": 0.056722692775164,
+      "y": 0.515978694951299
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017619917141930896,
+      "text": "成两重对比，凸显巨大落差，强烈谴责运营商：你们大可吹嘘“改善了铁路网”（trumpet 意为“鼓吹，吹",
+      "width": 0.8907563020268846,
+      "x": 0.05462184394454107,
+      "y": 0.49400798941006663
+    },
+    {
+      "confidence": 1,
+      "height": 0.016054175665153103,
+      "text": "嘘”，暗示违背事实）；但起码应该为花了大价钱的乘客提供最基本的服务/满足他们的基本出行需求，而",
+      "width": 0.8907563020268847,
+      "x": 0.05462183885000332,
+      "y": 0.4752906977698832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016307713347332053,
+      "text": "实际上并没有（should be able to 意为“本应能够，实际却并没有”）。",
+      "width": 0.575630261489192,
+      "x": 0.05462184884223865,
+      "y": 0.4563953491446411
+    },
+    {
+      "confidence": 1,
+      "height": 0.016071593872557965,
+      "text": "③④句再次表明作者观点：受罢工严重影响的乘客理应得到补偿（而不是面临继续涨价）。",
+      "width": 0.7668067182419616,
+      "x": 0.09453781095955145,
+      "y": 0.437416777864584
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016149010385241525,
+      "text": "两句以 However 形成“让步一转折”逻辑，语义重点在后。③句先指出罢工责任在于工会，并非直接",
+      "width": 0.8487394770216161,
+      "x": 0.09663866642616674,
+      "y": 0.4186046512582553
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016280617440905587,
+      "text": "在于运营商（rest on 意“依赖于，在于”），④句转而指出即便如此，乘客完全有理由因其受到的影响获",
+      "width": 0.8928571344570387,
+      "x": 0.054621864100261784,
+      "y": 0.4011627910838367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "得赔偿（there is a strong case 意“有足够的理由”）：虽然运营商并非罢工的直接责任者，但乘客遭受损",
+      "width": 0.8928571344570388,
+      "x": 0.05462185312337133,
+      "y": 0.38081395347707236
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013336868641697142,
+      "text": "失，理应获得赔偿（those who have been worst affected by industrial action/the disruption they have",
+      "width": 0.8928571344570387,
+      "x": 0.05672268434711098,
+      "y": 0.3648255811602489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01625739274107496,
+      "text": "suffered 和 receive compensation 形成合理逻辑“消费者蒙受损失——理应获得赔偿”）。",
+      "width": 0.743697443908809,
+      "x": 0.0546218724783685,
+      "y": 0.344207723254788
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01745734360818052,
+      "text": "【深层解读】1.本段理解难点在于，②③④句不仅存在两重“让步一转折”逻辑（It is all very well...",
+      "width": 0.8550419743120785,
+      "x": 0.09243699811181783,
+      "y": 0.32556591221707276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014763261284555074,
+      "text": "but... 和... However...），还存在两重“虚实”（passengers should be able to expect... 和 those...",
+      "width": 0.8886554107960019,
+      "x": 0.0567227258782593,
+      "y": 0.30813953526763593
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01616255802098665,
+      "text": "should...），阅读关键在于抓住语义重点，并分清其中虚实（should“应当⋯•⋯”表示“实际未⋯••••”）。",
+      "width": 0.848739477021616,
+      "x": 0.05462186661524223,
+      "y": 0.2876165114656709
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605804623681284,
+      "text": "2.第二、三段以 However 转折，对“火车运营商屡次调涨票价”这一影响重大的争议事件进行全面分",
+      "width": 0.8529411418819244,
+      "x": 0.09453782632794545,
+      "y": 0.2688953490598541
+    },
+    {
+      "confidence": 1,
+      "height": 0.016189653927413228,
+      "text": "析：第二段先从政府立场指出，上调票价有其合理之处；第三段则从消费者角度指出，乘客虽然支付了高",
+      "width": 0.8928571344570388,
+      "x": 0.0567227022042535,
+      "y": 0.2514534887400868
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606772330089834,
+      "text": "昂票价，却未能获得基本的服务，运营商持续涨价根本不合理。",
+      "width": 0.5357142689140776,
+      "x": 0.056722702832877094,
+      "y": 0.23102529967413143
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0221962909723884,
+      "text": "真题精解•以",
+      "width": 0.15347785435200656,
+      "x": 0.4306140124672546,
+      "y": 0.20474487769300465
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "23.It is indicated in Paragraph 3 that train operators",
+      "width": 0.4201680442501355,
+      "x": 0.06722690644636076,
+      "y": 0.1770972036090791
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008827377095838362,
+      "text": "！•",
+      "width": 0.016806721917007272,
+      "x": 0.5420168068286112,
+      "y": 0.17576564595971467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "23.第三段内容暗示火车运营商",
+      "width": 0.27521007736294256,
+      "x": 0.5903361356252514,
+      "y": 0.1744186046834676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "-。",
+      "width": 0.016806721917007272,
+      "x": 0.9222689080541014,
+      "y": 0.17441860448043378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013356222134931706,
+      "text": "［A］ are offering compensation to commuters",
+      "width": 0.3823529429059038,
+      "x": 0.06722689467099759,
+      "y": 0.15379494023776108
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014809710684216326,
+      "text": "［A］ 正向通勤者提供赔偿",
+      "width": 0.22689075506721157,
+      "x": 0.5903361322353018,
+      "y": 0.1537949400219849
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013402672169529173,
+      "text": "［B］ are trying to repair relations with the unions",
+      "width": 0.42016804425013543,
+      "x": 0.06722690924748106,
+      "y": 0.1304926762193941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014856160083877357,
+      "text": "［B］正努力修复与工会的关系",
+      "width": 0.26260502398128915,
+      "x": 0.59033614084549,
+      "y": 0.13049267665430064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "［C］ have failed to provide an adequate service",
+      "width": 0.3928571344570388,
+      "x": 0.0651260480726013,
+      "y": 0.10755813993471997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014780679491959936,
+      "text": "［C］未能提供合格的服务",
+      "width": 0.22268907550672112,
+      "x": 0.5903361322886563,
+      "y": 0.1058588549497066
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "［D］ have suffered huge losses owing to the strikes",
+      "width": 0.4348739300619431,
+      "x": 0.06512606252505085,
+      "y": 0.08430232627192946
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014827129526557403,
+      "text": "［D］已因罢工遭受重大损失",
+      "width": 0.24579832043950955,
+      "x": 0.5903361363558755,
+      "y": 0.08255659110696956
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696439,
+      "text": "13",
+      "width": 0.02310924309526563,
+      "x": 0.9117647063485256,
+      "y": 0.05659121170178838
+    }
+  ],
+  "vision_ocr_text": "结构切分：\nI\n1S\nall very well train operators trumpeting the improvements\n定语\nthey are making to the network\n分句1：\n形式主语 系动词\n表语\n真正的主语\n从句\n主语\n谓语\n状语\n分句2：\nbut passengers should be able to expect a basic level of service for the substantial sums\n定语\nthey\nare now paying\nto travel\n连词\n主语\n谓语\n原因状语\n从句 主语\n谓语\n目的状语\n功能注释：分句1 主干为 It is all very well，其中It 为形式主语，真正的主语为独立主格结构 train\noperators trumpeting the improvements（逻辑主语＋V-ing＋宾语）；they are making...为定语从句（作宾\n语的引导词 that/which 被省略），修饰 the improvements。分句2内嵌定语从句 they are now paying...\n（作宾语的that/which 被省略），修饰 the substantial sums。两分句以转折连词but 衔接，强调运营商所\n称的改善只是自吹自擂，乘客获得的铁路服务实际非常糟糕。\n•语篇分析•\n第三段指出，乘客虽然支付了高昂票价，却未能获得基本的服务。关键词：should be able to expect a\nbasic level of service。\n①②句指出，乘客虽然支付了高昂费用，却未能获得基本的服务（铁路罢工频发，出行受到严重影响）。\n①句指出事实情形：（票价涨幅最大的）东南部通勤者并未逃脱罢工的影响。those commuters 回指\n上段末句“东南部的通勤者”；experienced some of the worst rail strikes 强调罢工极为严重，对通勤者影\n响巨大。However、also 暗含之意：票价涨幅最大的通勤者也未能逃脱最严重罢工的影响，看来“多付费，\n享受更好的服务”的逻辑并不成立。\n②句直接批驳铁路运营商：乘客支付高价，却连最基本的出行需求都未得到满足。It is all very well\ntrain operators...but passengers should... （It is all very well 意为“某人大可做某事”）形成“让步一转\n折”逻辑，将“运营商的大肆吹嘘”与“通勤者的糟糕体验”作对比；trumpeting the improvements vs should\nbe able to expect a basic level of service 和 expect a basic level of service vs （paying） substantial sums 形\n成两重对比，凸显巨大落差，强烈谴责运营商：你们大可吹嘘“改善了铁路网”（trumpet 意为“鼓吹，吹\n嘘”，暗示违背事实）；但起码应该为花了大价钱的乘客提供最基本的服务/满足他们的基本出行需求，而\n实际上并没有（should be able to 意为“本应能够，实际却并没有”）。\n③④句再次表明作者观点：受罢工严重影响的乘客理应得到补偿（而不是面临继续涨价）。\n两句以 However 形成“让步一转折”逻辑，语义重点在后。③句先指出罢工责任在于工会，并非直接\n在于运营商（rest on 意“依赖于，在于”），④句转而指出即便如此，乘客完全有理由因其受到的影响获\n得赔偿（there is a strong case 意“有足够的理由”）：虽然运营商并非罢工的直接责任者，但乘客遭受损\n失，理应获得赔偿（those who have been worst affected by industrial action/the disruption they have\nsuffered 和 receive compensation 形成合理逻辑“消费者蒙受损失——理应获得赔偿”）。\n【深层解读】1.本段理解难点在于，②③④句不仅存在两重“让步一转折”逻辑（It is all very well...\nbut... 和... However...），还存在两重“虚实”（passengers should be able to expect... 和 those...\nshould...），阅读关键在于抓住语义重点，并分清其中虚实（should“应当⋯•⋯”表示“实际未⋯••••”）。\n2.第二、三段以 However 转折，对“火车运营商屡次调涨票价”这一影响重大的争议事件进行全面分\n析：第二段先从政府立场指出，上调票价有其合理之处；第三段则从消费者角度指出，乘客虽然支付了高\n昂票价，却未能获得基本的服务，运营商持续涨价根本不合理。\n真题精解•以\n23.It is indicated in Paragraph 3 that train operators\n！•\n23.第三段内容暗示火车运营商\n-。\n［A］ are offering compensation to commuters\n［A］ 正向通勤者提供赔偿\n［B］ are trying to repair relations with the unions\n［B］正努力修复与工会的关系\n［C］ have failed to provide an adequate service\n［C］未能提供合格的服务\n［D］ have suffered huge losses owing to the strikes\n［D］已因罢工遭受重大损失\n13",
+  "pdf_text_layer": "结构切分:\n       It is all very well train operators trumpeting the improvements ，定语 they are making to the network,\n分句1: 形衣王语系疝词     表语                     真正的主语                           从句主语        谓语           状语\n\n       but passengers should be able to expect a basic level of service for the substantial sums ＜定语 they are now paying to travel.\n       连词主语                                谓语                                    原因状语             从句 主语        谓语        目的状语\n     功能注释：分句1主干为It is all very well,其中It为形式主语，真正的主语为独立主格结构train\noperators trumpeting the improvementsC逻辑主语 + V-ing+ 宾语）;they are making...为定语从句（作宾\n语的引导词that/which被省略），修饰the improvementso分句2内嵌定语从句they are now paying...\n（作宾语的that/which被省略），修饰the substantial sumso两分句以转折连词but衔接，强调运营商所\n称的改善只是自吹自擂，乘客获得的铁路服务实际非常糟糕。\n                                                    [•语篇分析・]/\n\n     第三段指出，乘客虽然支付了高昂票价，却未能获得基本的服务。关键词:should be able to expect a\nbasic level of serviceo\n     ①②句指出，乘客虽然支付了高昂费用，却未能获得基本的服务（铁路罢工频发，出行受到严重影响）。\n  ① 句指出事实情形：（票价涨幅最大的）东南部通勤者并未逃脱罢工的影响。 those commuters 回指\n上段末句\"东南部的通勤者”；experienced some of the worst rail strikes强调罢工极为严重，对通勤者影\n响巨大。However、als。暗含之意：票价涨幅最大的通勤者也未能逃脱最严重罢工的影响，看来“多付费，\n享受更好的服务”的逻辑并不成立。\n     ② 句直接批驳铁路运营商：乘客支付高价，却连最基本的出行需求都未得到满足。It is all very well\ntrain operators. . . but passengers should. . . （It is all very well 意为\"某人大可做某事\"）形成\"让步一转\n折\"逻辑，将\"运营商的大肆吹嘘\"与\"通勤者的糟糕体验\"作对比‘trumpeting the improvements vs should\nbe able to expect a basic level of service 和 expect a basic level of service vs （paying） substantial sums 形\n成两重对比，凸显巨大落差，强烈谴责运营商：你们大可吹嘘•'改善了铁路网” （trumpet意为“鼓吹，吹\n嘘”，暗示违背事实）；但起码应该为花了大价钱的乘客提供最基本的服务/满足他们的基本出行需求，而\n实际上并没有（should be able to意为“本应能够，实际却并没有”）。\n  ③④句再次表明作者观点：受罢工严重影响的乘客理应得到补偿（而不是面临继续涨价）。\n  两句以However形成“让步一转折”逻辑，语义重点在后。③句先指出罢工责任在于工会，并非直接\n在于运营商（rest on意为“依赖于，在于”），④句转而指出即便如此，乘客完全有理由因其受到的影响获\n得赔偿（there is a strong case意为\"有足够的理由\"）：虽然运营商并非罢工的直接责任者，但乘客遭受损\n失，理应获得赔偿 （those who have been worst affected by industrial action/ the disruption they have\nsuffered和receive compensation形成合理逻辑\"消费者蒙受损失                                            理应获得赔偿\"）。\n    【深层解读】1.本段理解难点在于，②③④句不仅存在两重“让步一转折”逻辑（It is all very well...\nbut...和...However...）,还存在两重\"虚实\"（passengers should be able to expect...和 those...\nshould...）,阅读关键在于抓住语义重点，并分清其中虚实（should“应当……”表示“实际未……”）。\n   第二 、三段以However转折，对“火车运营商屡次调涨票价”这一影响重大的争议事件进行全面分\n  2.\n析：第二段先从政府立场指出，上调票价有其合理之处；第三段则从消费者角度指出，乘客虽然支付了高\n昂票价，却未能获得基本的服务，运营商持续涨价根本不合理。\n                                                    ；•真题精解• '、也\n\n\n 23. It is indicated in Paragraph 3 that train operators                ・      23.第三段内容暗示火车运营商                                   O\n\n\n\n  [A] are offering compensation to commuters                                   [A]正向通勤者提供赔偿\n [B] are trying to repair relations with the unions                            [B]正努力修复与工会的关系\n [C] have failed to provide an adequate service                                [C]未能提供合格的服务\n [D] have suffered huge losses owing to the strikes                            [D]已因罢工遭受重大损失\n\n                                                                                                                               13",
+  "quality": {
+    "vision_line_count": 73,
+    "vision_character_count": 2418,
+    "pdf_text_character_count": 3084,
+    "nonempty": true
+  }
+}

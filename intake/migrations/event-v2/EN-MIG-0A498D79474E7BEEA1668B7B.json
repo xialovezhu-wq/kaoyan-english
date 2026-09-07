@@ -1,0 +1,138 @@
+{
+  "schema_version": "english_capture_migration_receipt_v1",
+  "migration_id": "EN-MIG-0A498D79474E7BEEA1668B7B",
+  "content_address": "0a498d79474e7beea1668b7b35c18da97cbf52aa26525d6816426d49775770d5",
+  "migration_version": "english_capture_decision_enum_v1_to_v2",
+  "created_at": "2026-08-06T07:49:10Z",
+  "source_event_id": "EVT-20260806-507660196D4F941D",
+  "source_event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-06/EVT-20260806-507660196D4F941D.json",
+  "source_event_file_sha256": "70e5b36bdc856a9dfd8c22115af15ecfb032fffda6cfb9715b59741df8be81b5",
+  "source_event_object_sha256": "a1e77c8dbb1fc22bdd63308f0c107cf4bc62c36d8e78e9fb7c4859026c364638",
+  "source_schema_version": "english_capture_event_v1",
+  "mappings": [
+    {
+      "from": "长期库候选",
+      "to": "long_term_candidate"
+    }
+  ],
+  "effective_event": {
+    "schema_version": "english_capture_event_v2",
+    "event_id": "EVT-20260806-507660196D4F941D",
+    "event_type": "sentence_captured",
+    "article": {
+      "article_id": "RAW-ARTICLE-20260710-001",
+      "source_article": "articles/2026-07-10-2011-english-i-text-4.md",
+      "source_id": "RAW-ARTICLE-20260710-001",
+      "source_hash": "455ef9a81527a0b6aad26db4c6e09f37ec5bf0f3ec84642f6d6d69d13ce5dfc9",
+      "reference_id": "EXAM-READING-2011-T4",
+      "title": "2011 English I Text 4"
+    },
+    "source": {
+      "sentence_id": "Q37-C",
+      "source_sentence": "news about pregnant celebrities is entertaining.",
+      "source_kind": "option",
+      "sentence_hash": "3085f5d215494635c30901844f589c6f7a4d6b3c3ad3ed33a8822417b059e6d4"
+    },
+    "learning": {
+      "first_translation": "说的是关于一个明星的新闻。明星前面也有一个形容词pregnant（好像是 entertaining这个词我也不知道什么意思 相关的词），具体指关于什么的新闻我没太看懂。",
+      "user_evidence_verbatim": "C 选项这个“怀孕的”，我没翻译出来。然后这个“有娱乐性的”、“有趣的”，我也没翻译出来。",
+      "user_evidence": [
+        "unknown"
+      ],
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "evidence_origin": "live_user",
+      "answer_protection": "practice_safe",
+      "hint_level": 5,
+      "translation": "关于怀孕明星的新闻很有趣，具有娱乐性。",
+      "explanation": "pregnant 修饰 celebrities，表示怀孕的明星；entertaining 是表语，表示有趣的、具有娱乐性的。",
+      "first_breakpoint": "未识别 pregnant 和 entertaining，因而没有分清名词修饰语与表语。",
+      "restatement": ""
+    },
+    "candidates": [
+      {
+        "item": "pregnant",
+        "candidate_type": "单词",
+        "meaning": "怀孕的",
+        "usage": "pregnant celebrities 表示怀孕的明星。",
+        "review_note": "pregnant 是 celebrities 的前置定语。",
+        "decision": "long_term_candidate",
+        "reason": "用户明确未识别，直接影响选项理解。",
+        "source_signal_ids": [
+          "SIG-F4B2553AA84F5F4E"
+        ]
+      },
+      {
+        "item": "entertaining",
+        "candidate_type": "单词",
+        "meaning": "有趣的；具有娱乐性的",
+        "usage": "在 news ... is entertaining 中作表语，评价新闻具有娱乐性。",
+        "review_note": "entertaining 表示令人感到有趣，不是 entertained。",
+        "decision": "long_term_candidate",
+        "reason": "用户明确未识别，直接影响选项理解。",
+        "source_signal_ids": [
+          "SIG-BAEB752DE5F33946"
+        ]
+      }
+    ],
+    "idempotency_key": "2026-08-06-q37-c-option-language-v1",
+    "request_sha256": "11fc63872d93c300c332185254dd0d8ef806c6736efa4b5519aea17f13942bd6",
+    "occurred_at": "2026-08-06T06:34:51Z",
+    "producer": {
+      "role": "foreground_producer",
+      "name": "english_learning_pipeline",
+      "version": "0.1.0"
+    },
+    "formal_write_count": 0,
+    "formal_writeback": "none",
+    "observed_signals": [
+      {
+        "signal_id": "SIG-F4B2553AA84F5F4E",
+        "signal_type": "vocabulary",
+        "canonical_term": "pregnant",
+        "surface_form": "pregnant",
+        "knowledge_state": "unknown",
+        "provenance": "explicit_capture_candidate",
+        "evidence_refs": [
+          "learning.user_evidence_verbatim",
+          "source.source_sentence"
+        ]
+      },
+      {
+        "signal_id": "SIG-BAEB752DE5F33946",
+        "signal_type": "vocabulary",
+        "canonical_term": "entertaining",
+        "surface_form": "entertaining",
+        "knowledge_state": "unknown",
+        "provenance": "explicit_capture_candidate",
+        "evidence_refs": [
+          "learning.user_evidence_verbatim",
+          "source.source_sentence"
+        ]
+      }
+    ],
+    "source_signal_ids": [
+      "SIG-F4B2553AA84F5F4E",
+      "SIG-BAEB752DE5F33946"
+    ],
+    "capture_coverage": {
+      "schema_version": "english_capture_coverage_v2",
+      "declared_signal_count": 2,
+      "covered_signal_count": 2,
+      "signals": [
+        {
+          "signal_id": "SIG-F4B2553AA84F5F4E",
+          "terminal_status": "candidate"
+        },
+        {
+          "signal_id": "SIG-BAEB752DE5F33946",
+          "terminal_status": "candidate"
+        }
+      ]
+    }
+  },
+  "effective_event_sha256": "b34a07b978b75013521a4d99d69c87d4cad53d9717cb1efcf58f3514b9b10e08",
+  "model_call_count": 0,
+  "formal_write_count": 0
+}

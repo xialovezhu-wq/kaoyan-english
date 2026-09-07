@@ -1,0 +1,142 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2012-P043
+year: 2012
+pdf_page: 43
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2012 解析 PDF p43｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+【深层解读】一、联系第四、五段可搭建语义跳板，推知①句 the cost to everyone else 具体内涵：不合理
+的公务员薪酬制度体现分配不公、增大税收支出、造成政府部门效率低下等；不合理的教育体制使得素
+质低下教师被留用、素质高的教师积极性被打击，严重影响莘莘学子前程、国家未来发展前程等。二、本
+段实际含有两条主线：1.①句从句部分和③句侧重批判当前体制：既损害了其他所有人的利益，也损害
+「许多公务员自身的利益：2.①句主句部分和②句侧重谴责工会：政治家决心改革不合理体制，工会却
+坚决抵制改革。
+•真题精解•必
+39. The example of the unions in Wisconsin shows that unions
+39.威斯康辛州工会的例子表明工会
+。
+LA」 often run against the current political system
+［A］经常违背现行政治体制
+［B］ can change people's political attitudes
+［B］能够改变人们的政治态度
+［C］ may be a barrier to public-sector reforms
+［C］可能成为公共部门改革的障碍
+［D］ are dominant in the government
+［D］在政府内占据主导地位
+［精准定位］根据题干关键词 Wisconsin 定位到第六段，该段实际接续第五段（段落主旨句①句）文
+意“公共部门改革遭到工会强烈反对”：段首指出由于当前不合理体制的代价越来越明显，政治家们已开
+始采取强硬措施（进行改革），随后提及威斯康辛州各工会集结大批支持者反对州长（政治家之一）。可
+见，作者意在借此例说明工会阻碍了应有的公共部门改革。LC］正确。
+L命题解密」第六段承接第五段而来，因此第六段中事例论证实际是出现于第五段首句的观点。
+［C］是第五段首句 Reform has been vigorously opposed（by the trade unions）的同义改写。
+［A］将第六段②句渗透之意一“工会反对意在改革现行体制的州长，以维护现有体制”反向曲解
+“工会反对现行政治体制”，［B］、［D］将该句渗透之意二“工会召集成千上万的支持者反对强硬的州长”分
+别曲解力“工会能够改变人们的政治态度”、“工会在政府内占据主导地位”。
+［技巧总结］面对“事例写作目的题”，考生应：理清行文脉络、区分论点论据，体味事例以点带面的性
+质。具体解答思路为：①圈定“事例范围”并将其做为一个整体加以理解，并从上下文中寻找作者“观点
+结论”或“意在说明的现象”，注意搜索范围不是“段”，而是“意群”（有时需跨段寻找）；②注意正确项特
+征：不仅能完整概括事例，还需明显大于事例本身，且能和上下文顺滑衔接，成为一体。③了解干扰项设
+置方式：直接摘取文中细枝末节；歪曲事例中具体细节；扭曲论点（事例说明对象）。
+具体到本题为：先根据关键词 the unions in Wisconsin 定位到第六段②句，并进而将事例讲述范围打
+大到①②句，将事例本身大致概括为“威斯康辛州工会集合力量反对州长行动”。然后向上段寻找论点/
+事例说明对象，发现明显观点句为 Reforms has been vigorously opposed （by unions），而［C］（unions） may
+be a barrier to public sector reforms 和该句近义，且体现了事例以点带面的性质，故很可能是正确项。而
+［A］、［B］、［D］均歪曲事例中具体细节（直接反向干扰、偷换因果关系、夸大其词），故将其排除。
+①" John Donahue at Harvard's Kennedy School
+哈佛大学肯尼迪学院的约翰•唐纳
+points out that the norms® of culture in Western civil services
+修指出，西方公务员文化标准适合那些寻
+suit those who want to stay put but is bad for high achievers. （
+②
+求安稳的人，却不利于那些追求事业高成
+The only American public-sector workers who earn well above
+者。美国公共部门雇员中，只有大学体育
+$250,000 a year are university sports coaches and the president
+教练和总统的年收入远超25 万美元。银
+of the United States.
+③ Bankers' fat pay packets have attracted
+行家的丰厚收入一直饱受指摘，但是不奖
+much criticism，四but
+a public-sector system
+that does not
+励事业高成者的公共部门体制或许才是
+reward high achievers may be a much bigger problem for
+美国面临的更大问题。
+America.［435 words］
+43
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+【深层解读】－、联系第四、五段可搭建语义跳板，推知 ① 旬 the cost to everyone else 具体内涵： 不合理
+的公务员薪酬制度体现分配 不公、增大税 收 支 出、造成政府部门效 率 低下 等；不合理 的教育体制使得 素
+质低下教师被留用、素质高的教师积极性被打击，严重影响莘莘学子前程、国家未来发展前程等。 二、本
+段实际含有两条主线： 1. ①句 从句部分和 ③句 侧 重 批判当前体制：既损 害了其 他所有人的利益，也损害
+了许多公务员自身的利益； 2. ①句主句部分手11 ②句侧重谴责工会 ： 政治家决心改革不合理体制，工会却
+坚决抵制改革。
+
+                                             ： ·真题精解.         :fl
+ 39 . The example of the unions in Wisconsin shows that unions       39 . 威斯 康辛肉’｜工会的 例 子 表 明工 会
+                                                                             。
+
+
+
+
+ [A] often run against the current po litical system                 [A ］经常违背现行政治体制
+
+ [BJ can change people's politica l att itudes                       [BJ 能够改变 人们的政治态度
+
+ [CJ may b巳 a barrier to pub lic-sector reforms                      [CJ 可能成为公共部门改革的障碍
+
+ [DJ are dominant in the government                                  [DJ 在政府 内占据主导地位
+
+    ［精准定位］ 根据题干关键词 W i sco n sin 定位到第六段，该段实际接续第五段（段落主旨句①句）文
+意“公共部门改革遭到工会强烈反对”：段首指出由于当前不合理体制的代价越来越明显，政治家们已开
+始采取强硬措施（进行改革），随后提及威斯康辛州各工会集结大批支持者反对州长（政治家之 一 ）。可
+见，作者 意在借 此例说明 工会 阻碍了应有的公共部门改 革。［ CJ 正确。
+    ［命题解密］ 第六段承接第五段而来，因此第六段中事例论证实际是出现于第五段首句的观点。
+[CJ 是第五段首句 Reform has been vigorously opposed( by the trade unions ）的同义改写 。
+     [A］将第六段②句渗透之意一“工会反对意在改革现行体 制的州长，以维护现有体制”反向曲解为
+“工会反对现行政治体制”，［町、［ DJ 将该句渗透之意二“工会召集成千上万的支持者反对强硬的州长”分
+别曲解为“ 工会能够改变人们的政治态度”、“工会在政府内占据主导 地位” 。
+    ［技巧总结］ 面对“事例写作目的题”，考生应 ： 理清行文脉络、区分论点论据，体味事例以点带面的性
+质。具体解答思路为：①圈定“事例市围”并将其做为一个整体加以理解，并从上下文中寻找作者“观点
+结论”或“意在说明的现象”，注意搜索’范罔不是“段”，而是“意群”（有时需跨段寻找）；②注意正确项特
+征：不仅能完整概括事例，还需明显大于事例本身，且能和上下文顺滑衔接，成为一体 。③ 了解干扰项设
+置方式 ： 直接摘取文 中细校末节； 歪 曲 事例中具体细节 ；扭曲论点（ 事例说明对象）。
+     具体到本题为 ： 先根据关键词 the unions in Wi scor i n 定位到 第六段②句，并进 而将 事例讲 述范围扩
+大到①②句，将事例本身大致概括为“威斯康辛州工会集合力 量 反对州长行动，， 。 然后向上段寻找论点／
+事例说明对象’发现明显观点句为 Reforms has been vigorously opposed ( by L』ni ons ），而［ C] ( un ions) may
+be a barrier to publi c sector refo rm s 和该句 近义 ，且体现了事例以点带面的性质，故很可 能是正确项 。 而
+[A］、［町、［ D〕 均歪曲事例中具体细节（直接反向干扰、偷换因果关系、夸大其词儿故将其排除。
+
+      咀＠ 国 John Donahue at Harvard ’ s Kennedy Schoo l
+                                                                      哈佛大学肯尼迪学院的约翰 · 唐纳
+points out that the normsCD of culture in Western civi l services   修指出，西方公务员文化标准适合那些寻
+suit those who want to stay put but is bad for high achievers. 8
+                                                                    求安稳的人，却不利于那些追求事业高成
+The only American pub l i 仑 secto r workers who earn well above
+                                                                    者 。 美国公共部门雇员中，只有大学体育
+$ 250,000 a year are university sports coaches and the president    教练和总统的年收入远超 25 万美 元 。 银
+of the Ur ited States. @Bankers ’ fat pay packets have att racted
+                                                                    行家的丰厚收入 一 直饱受指摘，但是不奖
+much cri丁icism ， 因 but a public-sector system     that does not
+                                                                    励事业高成者的公共部门体制或许才是
+reward high achievers may be a much bigger problem for
+                                                                    美国面临的更大问题 。
+America. [ 435 words]
+
+
+
+                                                                                              43
+```

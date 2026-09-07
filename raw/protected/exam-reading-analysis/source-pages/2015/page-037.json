@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P037",
+  "year": 2015,
+  "pdf_page": 37,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "【命题解密】题干＋［D］是对 Parmigiani 观点的同义转述和改写，set an example for 对应第四段③句",
+      "width": 0.8436830373910758,
+      "x": 0.08779445860638935,
+      "y": 0.9229651159780096
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "中 model their approach after，是变换角度的合理转述。",
+      "width": 0.4668094048133263,
+      "x": 0.049250549627597943,
+      "y": 0.9026162787687072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "［A］利用②句“Parmigiani 对《科学》此举的赞美（novel、unique）”臆造而来，但由③句可知“Parmigiani认",
+      "width": 0.8458243736853966,
+      "x": 0.08779445274509608,
+      "y": 0.8820078226883452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "为其他期刊可能会效仿《科学》，也即对同行带来积极影响”；［B］利用②③句 have a lasting impact、through a",
+      "width": 0.8865096459021935,
+      "x": 0.04925053923305722,
+      "y": 0.8617992175003251
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "larger group 干扰，但与③句文意相悖；LC］错将③句 publications“发行物，出版物、刊物”所指的“文章/论文”",
+      "width": 0.8865096459021936,
+      "x": 0.04710920656353559,
+      "y": 0.8415697672074185
+    },
+    {
+      "confidence": 1,
+      "height": 0.017618276305117808,
+      "text": "曲解为“发行量”，该句意指《科学》新举措会提升文章质量，而未提及对期刊发行量的影响。",
+      "width": 0.7538767887995794,
+      "x": 0.049189513937323646,
+      "y": 0.8211930825710807
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "【技巧总结】事实细节题的正确项往往是对原文信息的同义改写、总结概括、或合理引申，本题关键",
+      "width": 0.8436830960787259,
+      "x": 0.08779443229101323,
+      "y": 0.8008720930154888
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "在于识别出 set an example for 是对第四段③句中 model their approach after 的同义转述。干扰项的常",
+      "width": 0.8822269733135517,
+      "x": 0.049250546391047034,
+      "y": 0.7803129071982637
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "见设置方式有偷换概念（如［C］）、反向干扰（如［A］、［B］）等。",
+      "width": 0.5096359839806189,
+      "x": 0.049250535589990214,
+      "y": 0.7601043023182235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013117401043470478,
+      "text": "① John loannidis, a physician who studies",
+      "width": 0.3961456005389874,
+      "x": 0.1370449777015983,
+      "y": 0.7281616686917296
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013098450652001992,
+      "text": "专攻研究方法论的医师约翰•约安尼",
+      "width": 0.3319057758037861,
+      "x": 0.595289085438578,
+      "y": 0.7209302327175615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580364177559701,
+      "text": "research methodology®",
+      "width": 0.18843683096078728,
+      "x": 0.049250538124174445,
+      "y": 0.7092568450633974
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015562558578232633,
+      "text": "，says that the policy is “a most",
+      "width": 0.2979683509239784,
+      "x": 0.23538104175194535,
+      "y": 0.707486375213912
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "季斯说，该规定是“最令人欣慰的一步迈",
+      "width": 0.368308346088116,
+      "x": 0.5567451816668628,
+      "y": 0.7005813950477771
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "welcome step forward”",
+      "width": 0.20128479003906247,
+      "x": 0.051391869577185265,
+      "y": 0.6889534888210584
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696884,
+      "text": "and “long overduc®”. ② \"Most",
+      "width": 0.278372573852539,
+      "x": 0.2548179910894337,
+      "y": 0.6889534885788104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629915697478257,
+      "text": "进”，它“老早就应该出台”。“大部分期刊在",
+      "width": 0.3704496823824369,
+      "x": 0.5546038495118508,
+      "y": 0.6799217732984191
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013272793383144466,
+      "text": "journals are weak in statistical review, and this damages",
+      "width": 0.48608134343073917,
+      "x": 0.04710921340240371,
+      "y": 0.6686046510315151
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "统计审查方面都很薄弱，这种情况有损发表",
+      "width": 0.37259098933293266,
+      "x": 0.5546038602738824,
+      "y": 0.6610169490468762
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095175953,
+      "text": "the quality of what they Publish. ⑧1 think that, for the",
+      "width": 0.48608137277456437,
+      "x": 0.04710921059701472,
+      "y": 0.6479791393361438
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771945,
+      "text": "内容的质量。我认为，对于当前大部分科研",
+      "width": 0.3704496823824369,
+      "x": 0.5567451782680963,
+      "y": 0.639504563116559
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "majority of scientific papers nowadays, statistical review",
+      "width": 0.48394003648024336,
+      "x": 0.04925053336587421,
+      "y": 0.6290743154969987
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "论文来说，统计审查比专家评审要更为关",
+      "width": 0.37259098933293266,
+      "x": 0.5546038675926342,
+      "y": 0.621903520339111
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "is more essential than expert review，\" he says. ④But he",
+      "width": 0.4839400364802433,
+      "x": 0.049250540931898165,
+      "y": 0.6101694914640552
+    },
+    {
+      "confidence": 1,
+      "height": 0.017701479726540237,
+      "text": "键，”他说道。不过他也指出，生物医学类期",
+      "width": 0.37259098933293266,
+      "x": 0.5546038675926342,
+      "y": 0.6002906978627565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "noted that biomedical® journals such as Annals of",
+      "width": 0.4796573638916017,
+      "x": 0.051391874299738086,
+      "y": 0.5899608867914619
+    },
+    {
+      "confidence": 1,
+      "height": 0.014593629202911074,
+      "text": "刊，像《内科学年鉴》、《美国医学协会杂志》以",
+      "width": 0.37259098933293266,
+      "x": 0.5546038666611568,
+      "y": 0.5827900914818444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011792774772395376,
+      "text": "Internal Medicine,the Journal of the American Medical",
+      "width": 0.4817987001859224,
+      "x": 0.049250538022670515,
+      "y": 0.571056062508889
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "及《柳叶刀》等都对统计审查格外重视。",
+      "width": 0.32334045997032757,
+      "x": 0.5567451908071274,
+      "y": 0.561046511570306
+    },
+    {
+      "confidence": 1,
+      "height": 0.013106030932927615,
+      "text": "Association and The Lancet pay strong",
+      "width": 0.3618843665489784,
+      "x": 0.05139186311202045,
+      "y": 0.5508474575159352
+    },
+    {
+      "confidence": 1,
+      "height": 0.01045735905036771,
+      "text": "attention",
+      "width": 0.07716814921452447,
+      "x": 0.42394269070382845,
+      "y": 0.5521841114059447
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.009126466753585527,
+      "text": "tO",
+      "width": 0.023554603870098334,
+      "x": 0.5096359746174134,
+      "y": 0.5521512385766891
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "statistical review.",
+      "width": 0.14775160275972807,
+      "x": 0.04925053448737377,
+      "y": 0.5319426336273972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.21627408541165866,
+      "x": 0.36616702664641904,
+      "y": 0.4895697524525554
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441071307643607,
+      "text": "①methodology ［medo'dplads］］n. 方法学；方法论",
+      "width": 0.35152637775127704,
+      "x": 0.04905833125860993,
+      "y": 0.4632242370212347
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015143866955534602,
+      "text": "•经典搭配",
+      "width": 0.10296778312096222,
+      "x": 0.5159679277105648,
+      "y": 0.46335829901278003
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014665640317476747,
+      "text": "②overdue ［auva dju.］a. 过期未完成的，迟到的；未兑现",
+      "width": 0.4175588754507211,
+      "x": 0.049250545036952025,
+      "y": 0.4462209306233842
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013361859974370005,
+      "text": "①long overdue（姗姗来迟，某事早该发生）",
+      "width": 0.314775144136869,
+      "x": 0.5117773062238569,
+      "y": 0.4462209302647999
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "的；早应完成的；期待已久的",
+      "width": 0.21199142749492939,
+      "x": 0.04925054069579009,
+      "y": 0.42877907014373295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014656165121742504,
+      "text": "②for the majority of（对绝大多数⋯⋯而言）",
+      "width": 0.32762313255896935,
+      "x": 0.5139186231637702,
+      "y": 0.427325581640826
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395175341903,
+      "text": "③biomedical ［barau medikal」a.（有关）生物医学的",
+      "width": 0.3704496823824369,
+      "x": 0.04925053618718472,
+      "y": 0.4113372094617477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0117397140492983,
+      "text": "③pay strong attention to（格外重视）",
+      "width": 0.2698072873629057,
+      "x": 0.5160599564470267,
+      "y": 0.4113372092594134
+    },
+    {
+      "confidence": 1,
+      "height": 0.017784332514120038,
+      "text": "语篇分析",
+      "width": 0.08580383154062121,
+      "x": 0.43247281717481234,
+      "y": 0.37046829894472244
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "第五段介绍医师约安尼季斯对新举措的评价。关键词为：most welcome。",
+      "width": 0.5952890836275541,
+      "x": 0.08993576392498082,
+      "y": 0.34289439343831163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016308632170516812,
+      "text": "①句总述医师约安尼季斯对新举措的看法：令人欣慰的一次进步。a most welcome step forward",
+      "width": 0.8436830960787259,
+      "x": 0.08993574786152414,
+      "y": 0.3226744184515352
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "（welcome 意“令人欣慰的、满意的”；forward 意“向前地”）以及 long overdue（overdue 指“早该发生的；",
+      "width": 0.8843683096078725,
+      "x": 0.04925054102047486,
+      "y": 0.30508474580424005
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "早应完成的”）表明约安尼季斯对新举措的强烈支持，认为新举措早该出台。",
+      "width": 0.627408951979417,
+      "x": 0.05139189159594437,
+      "y": 0.2834302324387654
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "②③④句引证①句，说明约安尼季斯赞成新举措的原因。",
+      "width": 0.4732333843524639,
+      "x": 0.08993577508286858,
+      "y": 0.2630813952912363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "②句指出现状：大多数期刊统计审查薄弱，损害发表论文的质量。Most journals are weak in statistical",
+      "width": 0.8458243736853966,
+      "x": 0.08993578735430367,
+      "y": 0.24418604651216658
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "review 表明统计审查薄弱为期刊界总体态势；damages the quality of what they publish 与前三段信息“数据",
+      "width": 0.8843683096078726,
+      "x": 0.04710919602582843,
+      "y": 0.22674418624111659
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "问题导致发表内容不可复制”相呼应，即“发表内容面临质量危机”。",
+      "width": 0.558886483999399,
+      "x": 0.04925055373905849,
+      "y": 0.2063953487214688
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "③句引出结论：对大部分发表论文来说，统计审查比专家评审更关键。比较级形式 more essential",
+      "width": 0.8458243736853966,
+      "x": 0.08993578735430367,
+      "y": 0.18578878767219442
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "（essential 意力“至关重要的”）明确安尼季斯观点：统计审查比同行评审更关键，其中the majority of",
+      "width": 0.8865096459021935,
+      "x": 0.04925053775554121,
+      "y": 0.16688396341753697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "scientific papers nowadays 与②句 Most journals 呼应，expert review 实指首段提及的 peer-review。",
+      "width": 0.7880085284893329,
+      "x": 0.051391870944484504,
+      "y": 0.14797913966713738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "④句做出让步：生物医学类期刊非常重视统计审查。note 为观点引出词，意力 to mention sth because it",
+      "width": 0.8458243736853966,
+      "x": 0.08993578735430367,
+      "y": 0.12777053456511522
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "is important or interesting”特别提到；指出”；such as...列举统计审查严格的生物医学类期刊。",
+      "width": 0.7730192331167367,
+      "x": 0.049250562478034034,
+      "y": 0.1088657104449623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "【深层解读】本段引证人物2对 SBORE 的积极评价：借助关键词句 the policy、most welcome step",
+      "width": 0.8479657099797175,
+      "x": 0.08779445541699332,
+      "y": 0.08865710589564757
+    },
+    {
+      "confidence": 1,
+      "height": 0.011734028683181186,
+      "text": "37",
+      "width": 0.02569593099447398,
+      "x": 0.892933619299337,
+      "y": 0.06975228186285809
+    }
+  ],
+  "vision_ocr_text": "【命题解密】题干＋［D］是对 Parmigiani 观点的同义转述和改写，set an example for 对应第四段③句\n中 model their approach after，是变换角度的合理转述。\n［A］利用②句“Parmigiani 对《科学》此举的赞美（novel、unique）”臆造而来，但由③句可知“Parmigiani认\n为其他期刊可能会效仿《科学》，也即对同行带来积极影响”；［B］利用②③句 have a lasting impact、through a\nlarger group 干扰，但与③句文意相悖；LC］错将③句 publications“发行物，出版物、刊物”所指的“文章/论文”\n曲解为“发行量”，该句意指《科学》新举措会提升文章质量，而未提及对期刊发行量的影响。\n【技巧总结】事实细节题的正确项往往是对原文信息的同义改写、总结概括、或合理引申，本题关键\n在于识别出 set an example for 是对第四段③句中 model their approach after 的同义转述。干扰项的常\n见设置方式有偷换概念（如［C］）、反向干扰（如［A］、［B］）等。\n① John loannidis, a physician who studies\n专攻研究方法论的医师约翰•约安尼\nresearch methodology®\n，says that the policy is “a most\n季斯说，该规定是“最令人欣慰的一步迈\nwelcome step forward”\nand “long overduc®”. ② \"Most\n进”，它“老早就应该出台”。“大部分期刊在\njournals are weak in statistical review, and this damages\n统计审查方面都很薄弱，这种情况有损发表\nthe quality of what they Publish. ⑧1 think that, for the\n内容的质量。我认为，对于当前大部分科研\nmajority of scientific papers nowadays, statistical review\n论文来说，统计审查比专家评审要更为关\nis more essential than expert review，\" he says. ④But he\n键，”他说道。不过他也指出，生物医学类期\nnoted that biomedical® journals such as Annals of\n刊，像《内科学年鉴》、《美国医学协会杂志》以\nInternal Medicine,the Journal of the American Medical\n及《柳叶刀》等都对统计审查格外重视。\nAssociation and The Lancet pay strong\nattention\ntO\nstatistical review.\n•词汇注释与难句分析•\n①methodology ［medo'dplads］］n. 方法学；方法论\n•经典搭配\n②overdue ［auva dju.］a. 过期未完成的，迟到的；未兑现\n①long overdue（姗姗来迟，某事早该发生）\n的；早应完成的；期待已久的\n②for the majority of（对绝大多数⋯⋯而言）\n③biomedical ［barau medikal」a.（有关）生物医学的\n③pay strong attention to（格外重视）\n语篇分析\n第五段介绍医师约安尼季斯对新举措的评价。关键词为：most welcome。\n①句总述医师约安尼季斯对新举措的看法：令人欣慰的一次进步。a most welcome step forward\n（welcome 意“令人欣慰的、满意的”；forward 意“向前地”）以及 long overdue（overdue 指“早该发生的；\n早应完成的”）表明约安尼季斯对新举措的强烈支持，认为新举措早该出台。\n②③④句引证①句，说明约安尼季斯赞成新举措的原因。\n②句指出现状：大多数期刊统计审查薄弱，损害发表论文的质量。Most journals are weak in statistical\nreview 表明统计审查薄弱为期刊界总体态势；damages the quality of what they publish 与前三段信息“数据\n问题导致发表内容不可复制”相呼应，即“发表内容面临质量危机”。\n③句引出结论：对大部分发表论文来说，统计审查比专家评审更关键。比较级形式 more essential\n（essential 意力“至关重要的”）明确安尼季斯观点：统计审查比同行评审更关键，其中the majority of\nscientific papers nowadays 与②句 Most journals 呼应，expert review 实指首段提及的 peer-review。\n④句做出让步：生物医学类期刊非常重视统计审查。note 为观点引出词，意力 to mention sth because it\nis important or interesting”特别提到；指出”；such as...列举统计审查严格的生物医学类期刊。\n【深层解读】本段引证人物2对 SBORE 的积极评价：借助关键词句 the policy、most welcome step\n37",
+  "pdf_text_layer": "E 命题解密】题干 ＋ ［ DJ 是对 Pa rmi g i ani 观点的 同义转述和改 写， s e t a n exampl e for 对应第四段 ③ 句\n中 mod e l their approach after ，是变换角度的合理转述 。\n     〔 A ］ 利用 ② 句“ Parmigi a ni 对《 科学 》此举 的 赞美（ novel 、 unique ）”臆造 而 来，但 由 ③ 句可知l “ Pa rmigiani 认\n为其他期刊可能会效仿《 科学》， 也即对同行带来积极 影 响”； ［ BJ 利用 ② ①句 have a las ting impact 、 through a\nlarger group 干扰，但与③句文意相悖；［ C〕错将③句 publicati ons“发行物，出版物、刊物”所指的“文章／论文”\n曲解为“发行量 ”，该句意指《 科 学 》新举措会提升文章质 量 ，而未提及对期 刊 发行 量 的影响 。\n     【技巧总结】 事实细 节题的正确项 往往是对原文信息的 同义改 写 、总 结概括 、 或合理 引申，本题 关键\n在于识别出 set an example for 是对第 四段 ③句中 m ode l their approach aft e r 的同义转述 。 干扰项的常\n见设 置方式有 偷换概念（如 ［ C］ ）、反向干扰（如 ［ A] , [ B］ ）等 。\n\n\n       V O J ohn Ioannidi s, a physician w ho studi es                  专攻研究方法论的医师约翰 · 约安尼\nr esearch methodology(   ,   says that the policy is “ a mos t\n                                                                    季斯说，该规定是“最令人欣慰的 一 步迈\nwelcome step forward\" and “ long overdue® ”-@ “ Mos t\n                                                                    进飞它“老早就应该出台” 。 “大部分期 刊 在\njourna ls ar e wea k in stati sti ca l r eview, and this dam ages\n                                                                    统计审查方面都很薄弱，这种情况有损发表\nthe qua lit y of what they publi s h. @I think t hat , for th e\n                                                                    内容的质量 。 我认为，对于当前大部分科研\nmajority of scientific papers nowadays , stati st ica l r eview\n                                                                    论文来说，统计审查比专家许审要更为关\nis more essentia l than expert review J ’ he says . 。 But he\n                                                                    键 ，”他说道 。 不过他也指出，生物医学类期\nnoted that biomedical<:D journa ls      s uch as A叮叮αls of\n                                                                    刊，像《 内科学年鉴 》 、《 美国医学协会杂志 》 以\nInt eγn a l Medic i 肘， th 巳 ］ ournal of th e American M edical\n                                                                    及《 柳叶刀 》 等都对统计审查格外重视 。\nAssociat io n and Th e Lan cet      pay st rong attention to\nstatistica l r eview.\n\n                                                    -L   难               J\n                                              …\n                                              词 …\n                                                         ·\n                                                         …\n                                                         与－    旬    析\n                                                                    分\n                                                         …\n                                                         释 …\n                                                    -    注\n                                                         … －\n\n\n( methodology [ m由1dolad31 ］ η．方法 学 ；方法论                   $   ·经典搭配\n②overd叫叫dju:] a. 过期 未完成的，迟到的；未兑现                           !   ( long o叫1e（姗姗来迟某事早该发生 ）\n的； 早应完成的 ；期待已久的\n③bi叫阳I ［叫m础ka！］ α （有关）生 物 医学的                             :$   ( for t he m句ority of （对绝大多数 ……而 言 ）\n                                                               ( pay st叫 attenti…（格外重视）\n\n\n                                                ： ．语篇分析. :;/\n     第五段介绍医师约安尼季斯对新举措的评价。关键词为： most welcome。\n     ① 旬总述医师约安尼季斯对新举措的看法：令人欣慰的一次进步。 a most welcome step forward\n(welcome 意为“令人欣慰的、满意的”； forward 意为“向前地”）以及 long overdu e ( ove rdu e 指“早该发生 的；\n早应完成的”）表明约安尼季斯对新举措的强烈支持，认为新举措早该出台 。\n     ②③④ 旬引证 ① 旬，说明约安尼季斯赞成新举措的原因。\n     ② 旬指出现状：大多数期刊统计审查薄弱，损害发表论文的质量。 Mos t journal s are weak in statistical\nreview 表明统计审查薄弱为期刊界总体态势； damages the quality of what they publish 与前 三 段信息“数据\n问题导致发 表 内容不可 复 制”相呼 应， 即 “发表 内 容面 临质 量危机” 。\n     ③ 旬引出结论：对大部分发表论文来说，统计审查比专家评审更关键。 比 较级形式 more essenti al\n( essenti a l 意为“至关重要 的 ”）明确安尼季斯观点 ： 统计审 查 比同行 评审更关键，其中 the majority of\nscientific paper s nowadays 与 ② 句 Most journa ls 呼应， exp ert review 实指首段提及的 peer- review 。\n     ④ 旬做出让步：生物医学类期刊非常重视统计审查。 note 为 观点引出词， 意为 to mention sth because it\nis important or interesting“特别提到；指出”； s uch as ...列 举统计审查严格的生 物 医学类期 刊 。\n     E 深层解读】本段引证人物 2 对 SBoRE 的积极评价： 借助 关键同句 th e po li cy 、 most welcome step\n\n                                                                                                      37",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2271,
+    "pdf_text_character_count": 4123,
+    "nonempty": true
+  }
+}

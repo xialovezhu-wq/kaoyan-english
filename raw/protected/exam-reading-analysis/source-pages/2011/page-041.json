@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P041",
+  "year": 2011,
+  "pdf_page": 41,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283861,
+      "text": "LB」 ambiguous",
+      "width": 0.12765956885983987,
+      "x": 0.05744681259135663,
+      "y": 0.9113372092441953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "［B］模棱两可的",
+      "width": 0.1382978735867022,
+      "x": 0.49574467961622337,
+      "y": 0.9095674966871401
+    },
+    {
+      "confidence": 1,
+      "height": 0.013395714416103877,
+      "text": "［C］ compensatory",
+      "width": 0.1531914914180587,
+      "x": 0.05744680901437488,
+      "y": 0.8837209301453592
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "［C］ 具有补偿性的",
+      "width": 0.1595744683966756,
+      "x": 0.49574468202506644,
+      "y": 0.8820445607256433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664421231531,
+      "text": "LDJ misleading",
+      "width": 0.12978723273396264,
+      "x": 0.05531915051751716,
+      "y": 0.8545216254669624
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664421856481424,
+      "text": "LD］具有误导性的",
+      "width": 0.1595744683966756,
+      "x": 0.49574468183509685,
+      "y": 0.8545216248835402
+    },
+    {
+      "confidence": 1,
+      "height": 0.01602456641540928,
+      "text": "［精准定位］第四段指出名人杂志传达的为人父母形象非常不现实：事实上为人父母者不如无子女",
+      "width": 0.8446808154203155,
+      "x": 0.08085108693079958,
+      "y": 0.8269986896220054
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864445,
+      "text": "夫妻幸福，单亲父母最不幸福（因为养育子女需要付出巨大艰辛）；而媒体传达的却是“明星单亲妈妈独",
+      "width": 0.8829786772920165,
+      "x": 0.04468088515718292,
+      "y": 0.8052325586954573
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "自抚养孩子简直是小菜一碟”。可见，名人杂志的信息具有误导性，［D］正确。",
+      "width": 0.6489361490260617,
+      "x": 0.04893618729547975,
+      "y": 0.7834302330086852
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01769331585845335,
+      "text": "［命题解密］正确项［D结合②③句，对第四段①句关键词 hugely unrealistic 同义改写。",
+      "width": 0.7404255052445717,
+      "x": 0.08085108636707565,
+      "y": 0.7614678899082397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［A］对③句 raising a kid...is a piece of cake 断章取义，认为这一信息“令人宽慰”，但这是名人杂志",
+      "width": 0.840425516959573,
+      "x": 0.08510639476489426,
+      "y": 0.742463958178991
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "本身宣扬的内容，并非段中对它的评价“极度失实（hugely unrealistic）”。［B］将②③句“说明名人杂志宣",
+      "width": 0.8829786772920166,
+      "x": 0.04468088294973629,
+      "y": 0.7208387941315616
+    },
+    {
+      "confidence": 1,
+      "height": 0.016045521002453267,
+      "text": "扬信息和现实育儿情形并不一致”误解为“说明名人杂志模棱两可，可以做出不同的解读”。［C］将②③",
+      "width": 0.8829787358670226,
+      "x": 0.04468083747429022,
+      "y": 0.7005242465144914
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185956402511,
+      "text": "句所述“现实情形”和“名人杂志信息”之间的“不一致、相悖关系”曲解为“补充、补偿关系”。",
+      "width": 0.7680850916769134,
+      "x": 0.04680852567218146,
+      "y": 0.6787790702179874
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185956402511,
+      "text": "［技巧总结］本题考查对文章段落信息的概括能力。解题时需：一、借助逻辑词等把握句间关系，重",
+      "width": 0.8468084939381898,
+      "x": 0.0808510725202667,
+      "y": 0.6569767444621735
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "点关注段落主旨句；二、通过带有强烈情感态度的形容词、强调副词、以及词汇重复等把握语义重点。",
+      "width": 0.8489361724560641,
+      "x": 0.046808520128350725,
+      "y": 0.6363040631602759
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "如解答本题时，可以借助②句 According to several studies... ③句 No shock there,considering...意",
+      "width": 0.840425516959573,
+      "x": 0.08723405813723464,
+      "y": 0.6159895152465014
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "识到所考段三句“层层剥茧”的结构，②③句是对①句的论证，故①句为主要线索。具体看①句发现，",
+      "width": 0.8829786772920166,
+      "x": 0.04680854255080005,
+      "y": 0.5956749672309827
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453462,
+      "text": "其强调点在于强调副词 hugely、especially 所凸显的媒体宣扬的为人父母形象的“失实（unrealistic）”。",
+      "width": 0.848936172456064,
+      "x": 0.044680856626577815,
+      "y": 0.574049803146006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011839357928554728,
+      "text": "① It's hard to imagine that many people are",
+      "width": 0.37659572960090265,
+      "x": 0.11489361828465523,
+      "y": 0.5419397119067073
+    },
+    {
+      "confidence": 1,
+      "height": 0.014687281292356635,
+      "text": "难以想象有很多人会愚钝到仅仅因为瑞茜",
+      "width": 0.3680851033919146,
+      "x": 0.5531914931577662,
+      "y": 0.5347313235768179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013258556550952205,
+      "text": "dumb\" enough to want children just because Reese",
+      "width": 0.4361702009263286,
+      "x": 0.046808523827615627,
+      "y": 0.5216251639093583
+    },
+    {
+      "confidence": 1,
+      "height": 0.014652991513593339,
+      "text": "和安吉莉娜让“要孩子”看起来如此令人向往就",
+      "width": 0.41702126999047806,
+      "x": 0.5063829855012147,
+      "y": 0.5144167761462788
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017118026513415874,
+      "text": "and Angelina make it look so glamorous®",
+      "width": 0.37700086362988844,
+      "x": 0.04662767474254644,
+      "y": 0.4989598319386619
+    },
+    {
+      "confidence": 1,
+      "height": 0.00917431192660556,
+      "text": "most",
+      "width": 0.04255318961994664,
+      "x": 0.4468085118921543,
+      "y": 0.5026212319427044
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864445,
+      "text": "决定身体力行：大多数成年人都明白，要孩子不",
+      "width": 0.41489362076010683,
+      "x": 0.5063829727050531,
+      "y": 0.49273255853193987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013140449673913923,
+      "text": "adults understand that a baby is not a haircut.",
+      "width": 0.3978723390546275,
+      "x": 0.04680851530247342,
+      "y": 0.479651162674429
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371162864556,
+      "text": "②",
+      "width": 0.03404255242814491,
+      "x": 0.4531914900837999,
+      "y": 0.479651163386591
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "像理发（那么简单）。但思考一下这个问题也很",
+      "width": 0.41702126999047806,
+      "x": 0.5063829861962503,
+      "y": 0.47093023312496307
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013174738827726573,
+      "text": "But it's interesting to wonder if the images we see",
+      "width": 0.44042552867457413,
+      "x": 0.04893617623718095,
+      "y": 0.4593023254941965
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "有趣：我们每周看到的“毫无压力、提升幸福感”",
+      "width": 0.4191489192208494,
+      "x": 0.5063829913895752,
+      "y": 0.4520348843168235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882761704004,
+      "text": "every week of stress-free, happiness-enhancing®",
+      "width": 0.4382978501566998,
+      "x": 0.04680851625143743,
+      "y": 0.4389534887063573
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016032185810734068,
+      "text": "的人父母形象也许是在以某种细微的、潜意识",
+      "width": 0.41702126999047806,
+      "x": 0.5063829861962503,
+      "y": 0.43023255870635846
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01469680616146296,
+      "text": "parenthood aren't in some small, subconscious way",
+      "width": 0.4425531779049454,
+      "x": 0.04680851374256279,
+      "y": 0.4171511625484612
+    },
+    {
+      "confidence": 1,
+      "height": 0.014612987188336701,
+      "text": "的方式造成我们自己对实际体验的不满。就像",
+      "width": 0.41702126999047806,
+      "x": 0.5063829861962503,
+      "y": 0.4113372092441976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327760691411528,
+      "text": "contributing to our own dissatisfactions with the",
+      "width": 0.4425531779049454,
+      "x": 0.04680851189859131,
+      "y": 0.39825581369550456
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "我们中有少部分人曾希望剪一个“瑞秋”发型使",
+      "width": 0.41702126999047806,
+      "x": 0.5063829861962503,
+      "y": 0.390988372630777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01612845504580751,
+      "text": "actual experience,in the same way that a small part",
+      "width": 0.4448994290577016,
+      "x": 0.04669121515471291,
+      "y": 0.3756097714770953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014681566120912648,
+      "text": "自己看起来有那么一点像珍妮弗•安妮斯顿。",
+      "width": 0.3978723390546275,
+      "x": 0.5063829833875799,
+      "y": 0.3706395347383836
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013346185221740803,
+      "text": "of us hoped getting",
+      "width": 0.16170211762704684,
+      "x": 0.04680851389924257,
+      "y": 0.35755813956759763
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013346185846691228,
+      "text": "“the Rachel\" might make us look",
+      "width": 0.28085104563414703,
+      "x": 0.2085106438850542,
+      "y": 0.35755813938591163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "just a little bit like Jennifer Aniston. ［450 words］",
+      "width": 0.42978722394771174,
+      "x": 0.04255320190912271,
+      "y": 0.3355176934030666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019064890135318868,
+      "text": "词汇注释与难句分析",
+      "width": 0.19999999414249942,
+      "x": 0.3723404304606652,
+      "y": 0.2948885978734367
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015072083879423381,
+      "text": "①dumb ［dnm］a.愚钝",
+      "width": 0.174468086228032,
+      "x": 0.04680850862357268,
+      "y": 0.2686762778796514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015244795173055103,
+      "text": "• 经典搭配",
+      "width": 0.11083379588063069,
+      "x": 0.5062852304614067,
+      "y": 0.26854039292468623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014744429257094183,
+      "text": "②glamorous ［'gleemars］a.富有魅力的，诱人的",
+      "width": 0.36382977564366903,
+      "x": 0.04680851188561241,
+      "y": 0.2500000004069387
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283861,
+      "text": "①in a small way（以细微的方式）",
+      "width": 0.25744678695005097,
+      "x": 0.5106383043618541,
+      "y": 0.25145348820737345
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014635847249162337,
+      "text": "③happiness-enhancing a.幸福感的提升",
+      "width": 0.2851063733823926,
+      "x": 0.046808513060576755,
+      "y": 0.23110465094477883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013325231259647241,
+      "text": "②contribute to（增加、增进）",
+      "width": 0.2170212758479787,
+      "x": 0.5106382955334575,
+      "y": 0.23110465097748134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "But it's interesting to wonder if the images we sce every week of stress-free,happiness-enhancing",
+      "width": 0.8446808154203155,
+      "x": 0.08723406565420389,
+      "y": 0.1959370901854357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "parenthood aren't in some small,subconscious way contributing to our own dissatisfactions with the actual",
+      "width": 0.8851063558098907,
+      "x": 0.04680852421083388,
+      "y": 0.17562254267853294
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021689231242608575,
+      "text": "experience, in the same way that a small part of us hoped getting \"the Rachel” might make us look just a",
+      "width": 0.8853622700110965,
+      "x": 0.046670619803124376,
+      "y": 0.15291332035010619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014715855899675834,
+      "text": "little bit like Jennifer Aniston.",
+      "width": 0.25106383925893716,
+      "x": 0.04680850769575934,
+      "y": 0.13499344661277102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "结构切分：",
+      "width": 0.09148935621851008,
+      "x": 0.08723404438010669,
+      "y": 0.11598951501394206
+    },
+    {
+      "confidence": 1,
+      "height": 0.01314997454302036,
+      "text": "41",
+      "width": 0.023404255023158238,
+      "x": 0.8914893620172962,
+      "y": 0.04062909542789961
+    }
+  ],
+  "vision_ocr_text": "LB」 ambiguous\n［B］模棱两可的\n［C］ compensatory\n［C］ 具有补偿性的\nLDJ misleading\nLD］具有误导性的\n［精准定位］第四段指出名人杂志传达的为人父母形象非常不现实：事实上为人父母者不如无子女\n夫妻幸福，单亲父母最不幸福（因为养育子女需要付出巨大艰辛）；而媒体传达的却是“明星单亲妈妈独\n自抚养孩子简直是小菜一碟”。可见，名人杂志的信息具有误导性，［D］正确。\n［命题解密］正确项［D结合②③句，对第四段①句关键词 hugely unrealistic 同义改写。\n［A］对③句 raising a kid...is a piece of cake 断章取义，认为这一信息“令人宽慰”，但这是名人杂志\n本身宣扬的内容，并非段中对它的评价“极度失实（hugely unrealistic）”。［B］将②③句“说明名人杂志宣\n扬信息和现实育儿情形并不一致”误解为“说明名人杂志模棱两可，可以做出不同的解读”。［C］将②③\n句所述“现实情形”和“名人杂志信息”之间的“不一致、相悖关系”曲解为“补充、补偿关系”。\n［技巧总结］本题考查对文章段落信息的概括能力。解题时需：一、借助逻辑词等把握句间关系，重\n点关注段落主旨句；二、通过带有强烈情感态度的形容词、强调副词、以及词汇重复等把握语义重点。\n如解答本题时，可以借助②句 According to several studies... ③句 No shock there,considering...意\n识到所考段三句“层层剥茧”的结构，②③句是对①句的论证，故①句为主要线索。具体看①句发现，\n其强调点在于强调副词 hugely、especially 所凸显的媒体宣扬的为人父母形象的“失实（unrealistic）”。\n① It's hard to imagine that many people are\n难以想象有很多人会愚钝到仅仅因为瑞茜\ndumb\" enough to want children just because Reese\n和安吉莉娜让“要孩子”看起来如此令人向往就\nand Angelina make it look so glamorous®\nmost\n决定身体力行：大多数成年人都明白，要孩子不\nadults understand that a baby is not a haircut.\n②\n像理发（那么简单）。但思考一下这个问题也很\nBut it's interesting to wonder if the images we see\n有趣：我们每周看到的“毫无压力、提升幸福感”\nevery week of stress-free, happiness-enhancing®\n的人父母形象也许是在以某种细微的、潜意识\nparenthood aren't in some small, subconscious way\n的方式造成我们自己对实际体验的不满。就像\ncontributing to our own dissatisfactions with the\n我们中有少部分人曾希望剪一个“瑞秋”发型使\nactual experience,in the same way that a small part\n自己看起来有那么一点像珍妮弗•安妮斯顿。\nof us hoped getting\n“the Rachel\" might make us look\njust a little bit like Jennifer Aniston. ［450 words］\n词汇注释与难句分析\n①dumb ［dnm］a.愚钝\n• 经典搭配\n②glamorous ［'gleemars］a.富有魅力的，诱人的\n①in a small way（以细微的方式）\n③happiness-enhancing a.幸福感的提升\n②contribute to（增加、增进）\nBut it's interesting to wonder if the images we sce every week of stress-free,happiness-enhancing\nparenthood aren't in some small,subconscious way contributing to our own dissatisfactions with the actual\nexperience, in the same way that a small part of us hoped getting \"the Rachel” might make us look just a\nlittle bit like Jennifer Aniston.\n结构切分：\n41",
+  "pdf_text_layer": "[BJ ambig uous                                                     [BJ 模棱两可 的\n\n [ CJ com pensator y                                                [CJ 具有 补 偿 性的\n\n [ DJ mis leading                                                   [ DJ 具有误 导性的\n\n    ［精准定位］ 第 四 段指出名人杂志传达 的 为人父母形象非常不 现 实 ： 事实 上 为 人 父母者不 如 无子女\n夫妻幸福，单亲父母最不幸福（因为养育子女需要 付出 巨大艰辛） ；而 媒体传达 的却 是“明星单亲妈妈 独\n自 抚 养孩子简直是 小 菜一碟”。可 见 ，名人杂志 的 信 息 具有误导 性 ，［ DJ 正确。\n    ［命题解密］ 正确项［ DJ 结合②③句，对第四段①句关键词 hu ge l y u nr ea li sti c 同 义改写 。\n     [A］对③句 ra i s ing a kid ... is a pi ece of ca k e 断 章取义，认为这一信息“令人宽慰”，但这是名 人 杂志\n本身宣 扬 的 内 容，并非段中对它的评 价 “极度失实（ huge ly unr ea li s ti c ）”。〔 BJ 将②③句“说明名 人 杂志宣\n扬信息 和现 实育 儿 情形并不 一 致”误解为“ 说 明名人杂志模棱两 可 ， 可以 做 出 不 同的 解读” 。 ［ CJ 将②③\n句 所述 “ 现 实情形” 和 “名人杂志信息”之 间的 “不 一 致 、相 悖关系” 曲 解为“ 补 充 、补 偿关系” 。\n    ［技巧总结］ 本题考查对文章段落信息 的 概括 能 力 。 解题 时 需 ： 一 、 借 助 逻辑 同 等 把 握句 间 关系，重\n点关注段落主旨句；二、通 过 带有强烈情感态度 的 形容词、强调 副词 、 以 及词汇重复等 把 握语义重点。\n     如 解答本题 时 ， 可以 借 助 ②句 According to several st udi es . .. ③句 No s hock there, considerin g ... 意\n识到所 考段 三 句 为“层层剥茧” 的 结构，②③句是对①句 的 论 证 ， 故 ① 句 为主要线索。具体看① 句 发 现 ，\n其强 调 点在于强 调副同 hu ge l y 、 espec i a ll y 所 凸显 的 媒 体 宣扬 的 为 人 父母形象 的 “失实（ unr ea li s ti c ） ” 。\n\n\n     V Oit ’ s hard to imag ine t hat many people are                    难以想象有很多人会愚钝到仅仅因为鸡荡\ndumb( enough to wa nt c hild re凡 ju s t beca use R eese\n                                                                     和安吉莉娜让“要孩子”看起来如此令人向往就\nand Angelina m ake it loo k so glamorous(           :   most\n                                                                     决定身体力行：大多数成年人都明白，要孩子不\nadult s und erstand t hat a baby is not a haircut. @ Iii!\n                                                                     像理发（那么简单）。但思考 一 下这个问题也很\nBut it ’ s int eresting to wo nder if the images we see\n                                                                     有趣：我们每周看到的“毫无压力、提升幸福感”\ne v巳ry   wee k of   s t ress fr时 ，   happiness- enhancing:il\n                                                                     的为人父母形象也许是在以某种细微的、潜意识\nparenthood are n ' t in some sma ll , s ub co nscious way\n                                                                     的方式造成我们自己对实际体验的不满 。 就像｜\ncontributing to o ur own di ssatisfactions w it h t he\n                                                                     我们中有少部分人曾希望剪 一 个“瑞秋”发型伎｜\nactua l expe ri 巳n ee, in th e same way t hat a sma ll par t\n                                                                     自己看起来有那么一点像珍妮弗·安妮斯顿 。\nof us hoped get ting “ t he Rac hel” m ig ht ma ke us look\njust a littl e bit like Jen11 ifer Ani s ton. [ 450 words]\n\n\n                                         ：：：~：：词汇注释当难句分析： ~ ：： Ji\n( dumb [dAm ］ α．恩钝                                             \\,    .经典搭配\n( glamorous [ 1g l re m aras］ α ．富有魅力的 ， 诱人的                 !(       in a s盯m l\n③ happiness-enhancing α．幸福感的提 .fl-                           i ( car\n     But it’s interesting to wonder if the images we see every week of stress-free , happiness-enhancing\nparenthood aren ’ t in some small , subconscious way contributing to our own dissatisfactions with the actual\nexperience , in the same way that a small part of us hoped getting “ the Rachel ” might make us look just a\nlittle bit like Jennifer Aniston.\n     结构切分：\n\n\n\n\n                                                                                                        41",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 1990,
+    "pdf_text_character_count": 3349,
+    "nonempty": true
+  }
+}

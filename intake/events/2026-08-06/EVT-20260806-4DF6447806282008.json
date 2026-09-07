@@ -1,0 +1,67 @@
+{
+  "schema_version": "english_capture_event_v1",
+  "event_id": "EVT-20260806-4DF6447806282008",
+  "event_type": "sentence_captured",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260710-001",
+    "source_article": "articles/2026-07-10-2011-english-i-text-4.md",
+    "source_id": "RAW-ARTICLE-20260710-001",
+    "source_hash": "455ef9a81527a0b6aad26db4c6e09f37ec5bf0f3ec84642f6d6d69d13ce5dfc9",
+    "reference_id": "EXAM-READING-2011-T4",
+    "title": "2011 English I Text 4"
+  },
+  "source": {
+    "sentence_id": "Q37-D",
+    "source_sentence": "having children is highly valued by the public.",
+    "source_kind": "option",
+    "sentence_hash": "1de84d8e79d69502952319dccc07a6d32652a9b7b48ab3dace250cb1eba0b6c9"
+  },
+  "learning": {
+    "first_translation": "说她有一个孩子，而这个孩子对公众来说是非常有价值的。",
+    "user_evidence_verbatim": "D 选项，它是动名词做主语，是“生孩子这个事情应当受到公众的高度重视”，我翻译错了是吧？这几个问题都要快速入库。",
+    "user_evidence": [
+      "mistranslated",
+      "structure_trap"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "生孩子这件事受到公众的高度重视。",
+    "explanation": "having children 是动名词短语作主语；is highly valued by 是被动结构，表示受到……高度重视。原句没有“应当”的情态含义。",
+    "first_breakpoint": "没有把 having children 整体识别为主语，并把被动结构误解为孩子本身对公众有价值。",
+    "restatement": ""
+  },
+  "candidates": [
+    {
+      "item": "V-ing phrase as subject",
+      "candidate_type": "句型",
+      "meaning": "动名词短语作主语，表示某种行为或事情",
+      "usage": "having children 整体作主语，表示生孩子这件事。",
+      "review_note": "先圈出 having children，再寻找有限谓语 is。",
+      "decision": "长期库候选",
+      "reason": "用户发生主语边界与句法角色误判。"
+    },
+    {
+      "item": "be highly valued by",
+      "candidate_type": "词组",
+      "meaning": "受到……的高度重视",
+      "usage": "is highly valued by the public 表示受到公众高度重视，不表示事物对公众很值钱。",
+      "review_note": "被动语态只陈述受到重视，不自动带有“应当”。",
+      "decision": "长期库候选",
+      "reason": "用户误译被动含义，并在修正中额外加入“应当”。"
+    }
+  ],
+  "idempotency_key": "2026-08-06-q37-d-option-structure-v1",
+  "request_sha256": "8ecb6af3cc0947f041335742a3dfdccb5ab401d1232f09f72ac3e1b6f5a14f9c",
+  "occurred_at": "2026-08-06T06:34:52Z",
+  "producer": {
+    "role": "foreground_producer",
+    "name": "english_learning_pipeline",
+    "version": "0.1.0"
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none"
+}

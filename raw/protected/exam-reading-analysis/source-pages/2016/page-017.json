@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P017",
+  "year": 2016,
+  "pdf_page": 17,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017721487398869695,
+      "text": "具体措施，可见，丹麦正在制定新标准，［D］正确。",
+      "width": 0.41388170381158707,
+      "x": 0.036143609580225076,
+      "y": 0.9098386415290024
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "L命题解密」正确项LD」是对第五段②句 In Denmark•.it is trying to set voluntary standards 以及",
+      "width": 0.842217456335309,
+      "x": 0.0746268865267306,
+      "y": 0.8909883725131411
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "第六段内容的高度概括。",
+      "width": 0.21321960975383888,
+      "x": 0.03624734011241953,
+      "y": 0.8706395347824414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017715101142464995,
+      "text": "［A］将第四段信息“法国的法令存在明显不足”夸大力“法国的法令已经失败（have already failed）”。",
+      "width": 0.8443496528713182,
+      "x": 0.07462688982233637,
+      "y": 0.8485639683635232
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "［BJ利用第五段①句 The fashion industry knows it has an inherent problem 干扰，但 are getting worse 为",
+      "width": 0.8805969939834769,
+      "x": 0.03624735403171553,
+      "y": 0.829634464795679
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017635405841757712,
+      "text": "杜撰内容，与②句“时尚业正在制定行业标准解决其固有问题”相悖。［C］对第五段②句 models...peer",
+      "width": 0.8827291905194863,
+      "x": 0.036247340134713146,
+      "y": 0.8093994779810909
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "pressure 断章取义，将“时尚业针对模特雇佣制定了（更多依靠同侪压力作用的）自愿标准”改为“模特不",
+      "width": 0.880596993983477,
+      "x": 0.036247351515724155,
+      "y": 0.7904699740498747
+    },
+    {
+      "confidence": 1,
+      "height": 0.016318537859007942,
+      "text": "再受同侪压力影响”。",
+      "width": 0.18123667632939716,
+      "x": 0.03624733486301996,
+      "y": 0.7702349870905766
+    },
+    {
+      "confidence": 1,
+      "height": 0.019482907676198757,
+      "text": "［技巧总结］题干关键词 fashion industry 遍布全篇，且选项涉及的内容范围很大（第四、五、六段），",
+      "width": 0.8445604697041128,
+      "x": 0.07452025902437685,
+      "y": 0.7481018278246907
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "可先划定各选项关键词（在文中出现的名词或其变体），分别回原文进行定位一再将选项信息与原文比",
+      "width": 0.8805969939834769,
+      "x": 0.036247334218283064,
+      "y": 0.7296511631018039
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797907034971069,
+      "text": "较，判断正误：正确项往往是对原文主要信息的恰当概括和合理推理。本题中，利用 in Denmark、",
+      "width": 0.8828452976270654,
+      "x": 0.03619134900337015,
+      "y": 0.707344921342634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "standards 将［D］定位至五、六段；利用 The French measures, failed 将［A］定位至第四段，利用 inherent",
+      "width": 0.8827291905194864,
+      "x": 0.03624735386605627,
+      "y": 0.6886422978964105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "problems 将［B］定位至第五段①句；利用 models、peer pressure 将［C］定位至第五段②句。随后对比发现",
+      "width": 0.8805969939834771,
+      "x": 0.03624733893576686,
+      "y": 0.66840731071286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "［D］New standards are being set 概括第五段 is trying to set voluntary standards 以及第六段内容。",
+      "width": 0.8294242771192528,
+      "x": 0.036247360081098225,
+      "y": 0.6481723237052852
+    },
+    {
+      "confidence": 1,
+      "height": 0.013259760704737666,
+      "text": "24.",
+      "width": 0.031982940732290924,
+      "x": 0.046908315952262525,
+      "y": 0.6233681463018312
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013259760704737777,
+      "text": "A designer is most likely to be rejected by CFW",
+      "width": 0.44776118486777117,
+      "x": 0.07675905895204213,
+      "y": 0.6233681460111336
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565243733458466,
+      "text": "24.某位设计师遭到CFW 拒绝最可能是",
+      "width": 0.3646055491948036,
+      "x": 0.541577826063579,
+      "y": 0.6220626629830517
+    },
+    {
+      "confidence": 1,
+      "height": 0.01017441824273102,
+      "text": "for",
+      "width": 0.02558635295122519,
+      "x": 0.08742004278522608,
+      "y": 0.6061046515133244
+    },
+    {
+      "confidence": 1,
+      "height": 0.013145910541942918,
+      "text": "因为",
+      "width": 0.038379530340318935,
+      "x": 0.5799573566391614,
+      "y": 0.6031331591099749
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906918836972,
+      "text": "-。",
+      "width": 0.019189765170159467,
+      "x": 0.673773987542852,
+      "y": 0.6002906977905815
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0130927799264694,
+      "text": "［A］ pursuing perfect physical conditions",
+      "width": 0.3411513872987009,
+      "x": 0.046908318290948006,
+      "y": 0.5770234989987042
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043444,
+      "text": "［A］追求完美的身体状况",
+      "width": 0.2217483958978762,
+      "x": 0.5415778251320855,
+      "y": 0.5755813955145945
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013187655580884194,
+      "text": "［B］ caring too much about models'character",
+      "width": 0.3795308957154724,
+      "x": 0.04690833087360697,
+      "y": 0.5522193210296091
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043333,
+      "text": "［B］过于在意模特的性格",
+      "width": 0.21748400282585756,
+      "x": 0.5415778293706534,
+      "y": 0.5508720934433737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458801364151674,
+      "text": "［C］ showing little concern for health factors",
+      "width": 0.3752665026434537,
+      "x": 0.04690833275787492,
+      "y": 0.526109660478094
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458801364151685,
+      "text": "［C］几乎不关心健康因素",
+      "width": 0.21961619936186694,
+      "x": 0.541577830020559,
+      "y": 0.526109660487784
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013229400619825582,
+      "text": "［D］",
+      "width": 0.0362473338043096,
+      "x": 0.04477612013713854,
+      "y": 0.5013054829855806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013229400619825582,
+      "text": "setting a high age threshold for models",
+      "width": 0.3326226011546636,
+      "x": 0.08315564483844669,
+      "y": 0.5013054828402317
+    },
+    {
+      "confidence": 1,
+      "height": 0.013229400619825582,
+      "text": "［D］对模特的年龄设置高门槛",
+      "width": 0.2601279189303459,
+      "x": 0.5415778334376598,
+      "y": 0.5013054829855806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "［精准定位］根据题干关键词CFW定位至第六段。②至④句具体指出丹麦时尚业的做法：在《丹麦",
+      "width": 0.8400852597992995,
+      "x": 0.07462688494576593,
+      "y": 0.4738372092682698
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043444,
+      "text": "时尚道德宪章》中声明为时尚业对身材典范的影响负责，并拒绝违反宪章的设计师参加哥本哈根时装周",
+      "width": 0.8784647974474675,
+      "x": 0.03624733809218667,
+      "y": 0.4549418607398852
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964668,
+      "text": "（CFW）。因此，不关注健康因素的设计师可能会被CFW拒之门外，［C］正确。",
+      "width": 0.658848612701299,
+      "x": 0.03411513104274091,
+      "y": 0.43313953533590344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014606988772399743,
+      "text": "［命题解密］正确项［C］ showing little concern for health factors 是结合第六段①句 rules and",
+      "width": 0.8443496528713182,
+      "x": 0.07462688635751775,
+      "y": 0.4142441864666295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013267350881591478,
+      "text": "sanctions regarding...health...of models 以及 ② take responsibility for the impact the fashion industry",
+      "width": 0.8827291905194864,
+      "x": 0.03624733400464943,
+      "y": 0.3953488373066578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "has on body ideals，对③句 to deny access for designers 做出的合理推断。",
+      "width": 0.6183368785171216,
+      "x": 0.03411515056020232,
+      "y": 0.3733681463841292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "［A］利用第六段①②句中 health、body ideals 形成干扰，但选项中 physical conditions 指“身体状况”，",
+      "width": 0.842217456335309,
+      "x": 0.0746268865267306,
+      "y": 0.35313315939212764
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017673356103523608,
+      "text": "并非文中遭抵制的“超瘦身材（时尚界所认可的完美体形）”。［B］把第六段①句 characteristics of models",
+      "width": 0.8827291905194864,
+      "x": 0.036247346637911376,
+      "y": 0.33284883703470947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "偷换为 models' character，但前者 characteristics 意为“特征”，后者character 则指“性格”。［D］利用第六",
+      "width": 0.8784647974474676,
+      "x": 0.03624735168747529,
+      "y": 0.313953488328953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "段①句 age...of models 干扰，但并未指出设计师会对模特年龄设置高门槛（setting a high age threshold",
+      "width": 0.8805969939834771,
+      "x": 0.03624733893576686,
+      "y": 0.2936046509743019
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "for），更无法推知设计师会因此被时装周拒之门外。",
+      "width": 0.4349680056517151,
+      "x": 0.034115140670944205,
+      "y": 0.2732558137771117
+    },
+    {
+      "confidence": 1,
+      "height": 0.01773787105052338,
+      "text": "［技巧总结］本题容易定位，但难点在于：选项均与原文非常相似，真假难辨。解决此类题目既要抓",
+      "width": 0.842217456335309,
+      "x": 0.07249468363938173,
+      "y": 0.25261096633337166
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "“小”，又要抓“大”：既要仔细对比，辨别选项中概念关系等和原文内容的细微差异；又要考虑文章总体观",
+      "width": 0.880596993983477,
+      "x": 0.03411514025772865,
+      "y": 0.23401162777662732
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "点、借其作为推理判断的标准。判断选项的过程中要注意：轻形（文字）似，重神（含义）似。［A］perfect",
+      "width": 0.8827291905194863,
+      "x": 0.03624735239484095,
+      "y": 0.21344647527086125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015013054830287254,
+      "text": "physical conditions 和 body ideals 貌似相同，实则反义；［B］中的 models’ character（模特性格）与原文",
+      "width": 0.880596993983477,
+      "x": 0.03624735623320794,
+      "y": 0.1945169714244318
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014671503719399515,
+      "text": "characteristics of models 也形近义远；［DJ中 age... for models 与文中 age...of models 非常相似，但",
+      "width": 0.8784647974474675,
+      "x": 0.03624733809218667,
+      "y": 0.17428198423257568
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "setting a high threshold是原文无法推知的信息。且从五、六段乃至全文来看，丹麦时尚业的举措在于呼",
+      "width": 0.880596993983477,
+      "x": 0.03411514025772865,
+      "y": 0.15404699731624338
+    },
+    {
+      "confidence": 1,
+      "height": 0.017715101142464995,
+      "text": "呼重视健康，向大众传达健康美，而“模特性格、年龄”显然与主线无关，只有［C］既与文中细节一致，又契",
+      "width": 0.8784647974474676,
+      "x": 0.036247345370082784,
+      "y": 0.13372093045040723
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "合主线。",
+      "width": 0.0724946676086192,
+      "x": 0.03624733643023197,
+      "y": 0.11337209292197625
+    },
+    {
+      "confidence": 1,
+      "height": 0.011851812467251421,
+      "text": "17",
+      "width": 0.023454156415215754,
+      "x": 0.8784648197401533,
+      "y": 0.05668604657691867
+    }
+  ],
+  "vision_ocr_text": "具体措施，可见，丹麦正在制定新标准，［D］正确。\nL命题解密」正确项LD」是对第五段②句 In Denmark•.it is trying to set voluntary standards 以及\n第六段内容的高度概括。\n［A］将第四段信息“法国的法令存在明显不足”夸大力“法国的法令已经失败（have already failed）”。\n［BJ利用第五段①句 The fashion industry knows it has an inherent problem 干扰，但 are getting worse 为\n杜撰内容，与②句“时尚业正在制定行业标准解决其固有问题”相悖。［C］对第五段②句 models...peer\npressure 断章取义，将“时尚业针对模特雇佣制定了（更多依靠同侪压力作用的）自愿标准”改为“模特不\n再受同侪压力影响”。\n［技巧总结］题干关键词 fashion industry 遍布全篇，且选项涉及的内容范围很大（第四、五、六段），\n可先划定各选项关键词（在文中出现的名词或其变体），分别回原文进行定位一再将选项信息与原文比\n较，判断正误：正确项往往是对原文主要信息的恰当概括和合理推理。本题中，利用 in Denmark、\nstandards 将［D］定位至五、六段；利用 The French measures, failed 将［A］定位至第四段，利用 inherent\nproblems 将［B］定位至第五段①句；利用 models、peer pressure 将［C］定位至第五段②句。随后对比发现\n［D］New standards are being set 概括第五段 is trying to set voluntary standards 以及第六段内容。\n24.\nA designer is most likely to be rejected by CFW\n24.某位设计师遭到CFW 拒绝最可能是\nfor\n因为\n-。\n［A］ pursuing perfect physical conditions\n［A］追求完美的身体状况\n［B］ caring too much about models'character\n［B］过于在意模特的性格\n［C］ showing little concern for health factors\n［C］几乎不关心健康因素\n［D］\nsetting a high age threshold for models\n［D］对模特的年龄设置高门槛\n［精准定位］根据题干关键词CFW定位至第六段。②至④句具体指出丹麦时尚业的做法：在《丹麦\n时尚道德宪章》中声明为时尚业对身材典范的影响负责，并拒绝违反宪章的设计师参加哥本哈根时装周\n（CFW）。因此，不关注健康因素的设计师可能会被CFW拒之门外，［C］正确。\n［命题解密］正确项［C］ showing little concern for health factors 是结合第六段①句 rules and\nsanctions regarding...health...of models 以及 ② take responsibility for the impact the fashion industry\nhas on body ideals，对③句 to deny access for designers 做出的合理推断。\n［A］利用第六段①②句中 health、body ideals 形成干扰，但选项中 physical conditions 指“身体状况”，\n并非文中遭抵制的“超瘦身材（时尚界所认可的完美体形）”。［B］把第六段①句 characteristics of models\n偷换为 models' character，但前者 characteristics 意为“特征”，后者character 则指“性格”。［D］利用第六\n段①句 age...of models 干扰，但并未指出设计师会对模特年龄设置高门槛（setting a high age threshold\nfor），更无法推知设计师会因此被时装周拒之门外。\n［技巧总结］本题容易定位，但难点在于：选项均与原文非常相似，真假难辨。解决此类题目既要抓\n“小”，又要抓“大”：既要仔细对比，辨别选项中概念关系等和原文内容的细微差异；又要考虑文章总体观\n点、借其作为推理判断的标准。判断选项的过程中要注意：轻形（文字）似，重神（含义）似。［A］perfect\nphysical conditions 和 body ideals 貌似相同，实则反义；［B］中的 models’ character（模特性格）与原文\ncharacteristics of models 也形近义远；［DJ中 age... for models 与文中 age...of models 非常相似，但\nsetting a high threshold是原文无法推知的信息。且从五、六段乃至全文来看，丹麦时尚业的举措在于呼\n呼重视健康，向大众传达健康美，而“模特性格、年龄”显然与主线无关，只有［C］既与文中细节一致，又契\n合主线。\n17",
+  "pdf_text_layer": "具体措施，可见，丹麦正在制定新标准，〔 D］正确。\n     ［命题解密 ］ 正确项 ［ DJ 是对第五段②句 In Denmark ... it is trying to se t voluntary s ta nd a rd s 以及\n第六段内容的高度概括。\n     [A］将第 四段信 息“法国 的法 令存在 明显不足” 夸大为“法国 的法 令已经失败（ have already fai l ed ）” 。\n[ BJ 利用第 五段①句 T h e fash ion indu stry knows it ha s an inher ent probl e m 干扰 ，但 a r e getting worse 为\n杜撰内 容 ， 与②句“ 时尚业正在制 定行 业标 准解决其固有 问题”相悖 。［ C J 对第五段②句 mode l s ... peer\npress ure 断 章 取义，将“时尚业针对模特雇佣制定了（ 更多 依 靠 同侨 压力作用的）自愿标准”改为“模 特不\n再受同侨压力影响飞\n     ［技巧总结 ］ 题干关键词 fashion indu stry 遍布全篇，且选项涉及 的内 容范围很大（第 四 、五、六段） ，\n可先划定各选项关键同（在文中出现的名词或其变体），分别回原文进行定位→再将选项信息与原文比\n较，判断正误：正确项往往是对原文主要信息的恰当概括和合理推理 。 本题中， 利用 in Denmark 、\nsta ndard s 将［ DJ 定位至五 、 六段 ；利用 Th e French m eas ures, failed 将［ A］ 定位至第 四 段，利用 inh e r e nt\nprob l e m s 将［ BJ 定位至第五段①句；利用 mode l s 、 peer pressur e 将［ C〕 定位至第五段②句 。 随后对比发现\n[ DJ New sta ndards are being set 概括第五段 i s tr ying to set vo luntary sta nd a rd s 以及 第六段 内 容 。\n\n 24. A designer is most likely to be rejected by CFW               24. 某位设计师遭到 CFW 拒绝最 可能是\n      for                                                                因为           。\n\n\n\n\n [ A] pursuing perfect physical conditions                          [ A］追求完美的身体状况\n\n [BJ caring too much about models ’ character                       [BJ 过于在意模特的性格\n\n [ CJ showing littl e concern for heal th factors                   [CJ 几 乎不关 心 健康因素\n\n [ DJ setting a high age t hreshold for mode ls                     [ DJ 对模特 的 年龄设置高 门槛\n\n     ［精准定位］ 根据题干关键词 CFW 定位至第六段。②至④句具体指出丹麦时尚业的做法：在《丹麦\n时尚道 德宪章 》 中声明为时尚业对身材典范的影响负责，并拒绝违反宪章的设计师参加哥本哈根时装周\nCCFW ） 。 因此，不关注健康因素的设计师可能会被 CFW 拒之门外， ［ CJ 正确 。\n     ［ 命题解密 ］ 正确项［ C J s how ing little concern for hea lth fac tors 是结合第六段 ① 句 rul 巳sand\nsanction s regarding ... heal t h. . of mod e l s 以及 ② tak e respons ibili ty for t he im pact the fa s hion indus try\nhas on body id ea l s ，对③ 句 t o deny access for designers 做出的合理推断 。\n     [A］ 利用 第六段① ② 句中 h ea l th 、 body idea ls 形成干 扰，但选项中 ph ys i ca l co nditi ons 指“身体 状况”，\n并非文中遭抵制的“超瘦身材（时尚界所认可的完美体形）” 。 ［ BJ 把 第六段 ① 句 c h aracter i st i c s of models\n偷换为 mod e l s' character ，但前者 characteristics 意为“特征”，后者 character 则指“性格” 。［ DJ 利用第六\n段①句 age .. . of m o d e l s 干扰 ，但并 未指出设 计师 会对模特年龄设置高 门槛 （ setting a hig h age threshold\nfor ），更无法推知设计师 会因 此被时装周拒之门外 。\n     ［ 技巧总结］ 本题容易定位，但难点在于：选项均与原文非常相似，真假邓伞辨 。 解决此类题目既要抓\n“小”，又要抓“大”：既要仔细对比，辨别选项中概念关系等和原文内容的细微差异；又要考虑文章总体观\n点、借其作为推理判断的标准。判断选项的过程中要注意：轻形（文字）似，童和jl( 含义）似 。 ［ A] perfect\nphysical cond iti ons 和 body id ea l s 貌 似相同， 实 则 反义；［ BJ 中的 mod e l s' characte r （模特性格）与原文\ncharacteri stics of model s 也 形 近义远； ［ D J 中 ag e . .. for mod e l s 与文中 ag e . . . of mo d e l s 非常 相似，但\nsetting a high threshold 是原文无法推知的信息。且从五、六段乃至全文来看，丹麦时尚业的举措在于呼\n吁重视健康，向大众传达健康美，而“模特性格、年龄”显然与主线无关，只有 ［ CJ 既与文中细节 一 致，又契\n合主线。\n\n\n\n\n                                                                                                                 17",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 2168,
+    "pdf_text_character_count": 2827,
+    "nonempty": true
+  }
+}

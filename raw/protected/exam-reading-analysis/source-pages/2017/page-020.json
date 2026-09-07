@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P020",
+  "year": 2017,
+  "pdf_page": 20,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017708206676063765,
+      "text": "上文古代情形的铺垫，强调今日转折情形“如今夏威夷社会却对天文学发起攻击”。",
+      "width": 0.6957446569683908,
+      "x": 0.0723404424428562,
+      "y": 0.9168848167021173
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02360016887724714,
+      "text": "•真題精解•泌",
+      "width": 0.16035058032507182,
+      "x": 0.4340008042700135,
+      "y": 0.8855156815541548
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0133705707120646,
+      "text": "26. Queen Liliuokalani's remark in Paragraph 1 indicates",
+      "width": 0.5191489033315373,
+      "x": 0.08085107159664302,
+      "y": 0.8590116282261994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062853,
+      "text": "26.第一段中利留卡拉尼女王的言论",
+      "width": 0.32553191203267173,
+      "x": 0.6148936151964303,
+      "y": 0.8560209423647521
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942348,
+      "text": "表明",
+      "width": 0.04042553079539335,
+      "x": 0.6531914895757076,
+      "y": 0.8383507850285001
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790628003818,
+      "text": "LA her conservative view on the historical role of astronomy",
+      "width": 0.5170212668934088,
+      "x": 0.08297873342563596,
+      "y": 0.8125000003774228
+    },
+    {
+      "confidence": 1,
+      "height": 0.01471752021949324,
+      "text": "［A］她对天文学历史作用的保守看法",
+      "width": 0.3234042463631466,
+      "x": 0.6148936174567247,
+      "y": 0.8108638746212283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279252027341815,
+      "text": "［B］ the importance of astronomy in ancient Hawaiian society",
+      "width": 0.5127659355543581,
+      "x": 0.08297873947813993,
+      "y": 0.7846858639034355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "［B］天文学在古代夏威夷社会的重要性",
+      "width": 0.3234042463631466,
+      "x": 0.61702128479715,
+      "y": 0.7833769635361253
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013149883734618117,
+      "text": "LC］ the regrettable decline of astronomy in ancient times",
+      "width": 0.4808510382056693,
+      "x": 0.08297874222695246,
+      "y": 0.7571989531372929
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "［C］天文学在古代令人惜的衰落",
+      "width": 0.29787234602303336,
+      "x": 0.6170212703395472,
+      "y": 0.7558139537675028
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013149884358750641,
+      "text": "［D］ her appreciation of star watchers' feats in her time",
+      "width": 0.46808510265131104,
+      "x": 0.08085106129845814,
+      "y": 0.7296511629645714
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "［D］她对其时代观星师功勋的赞赏",
+      "width": 0.29787234602303336,
+      "x": 0.6170212703395472,
+      "y": 0.7281976746977353
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "［精准定位］①句直引利留卡拉尼女王之言“古代夏威夷人都是天文学家”，②句随后解释“古代夏威",
+      "width": 0.8425532081574773,
+      "x": 0.10851062394557758,
+      "y": 0.7020348835031087
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860668322207,
+      "text": "夷社会观星师极受尊敬”。借由两句间“观星师与天文学家、天文学与天文学家、受尊敬与受重视”的语",
+      "width": 0.8787233783824233,
+      "x": 0.07234044493999392,
+      "y": 0.6816860465553738
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601881194489163,
+      "text": "义关联可推断，女王之言实质表明了天文学家在古代夏威夷社会中的重要性，［B］正确。",
+      "width": 0.7404254898714381,
+      "x": 0.07021277957491945,
+      "y": 0.6613372091426437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "［命题解密］正确项［B是对①②句的合理推断，其中 the importance 对应 the most esteemed。",
+      "width": 0.7957446803535081,
+      "x": 0.10638298891899031,
+      "y": 0.642441860925933
+    },
+    {
+      "confidence": 1,
+      "height": 0.01454249352060688,
+      "text": "［A］conservative 利用惯性思维制造干扰，与①②句传达的女王对“古代天文学家备受重视，即天文",
+      "width": 0.8404255132565553,
+      "x": 0.11063831245416902,
+      "y": 0.6235465115118903
+    },
+    {
+      "confidence": 1,
+      "height": 0.017746256284064676,
+      "text": "学在古代有重要作用”毫无保留的肯定态度相悖。［C］将③④句暗含之今日情形“夏威夷天文学地位衰",
+      "width": 0.8808510732833453,
+      "x": 0.07021275242215728,
+      "y": 0.6014397902710267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "落（decline）”偷换女王之言所表古代情形。［D］利用②句 Star watchers、the most esteemed 过度推导",
+      "width": 0.880851014820552,
+      "x": 0.07021277945142641,
+      "y": 0.5828488376337819
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0177690845509475,
+      "text": "出“观星师因技艺高超、功勋卓著受到女王的赞赏”，且 in her time（女王所处时代）与①句引言中 ancient、",
+      "width": 0.880851014820552,
+      "x": 0.07234046099397906,
+      "y": 0.5621727751736161
+    },
+    {
+      "confidence": 1,
+      "height": 0.019030635893656944,
+      "text": "were 等词表明的信息“在女王生活时代之前的古代时期”明显相悖。",
+      "width": 0.5747477798169601,
+      "x": 0.07011431138766482,
+      "y": 0.5420832992929825
+    },
+    {
+      "confidence": 1,
+      "height": 0.019100815837920004,
+      "text": "［技巧总结］本题就“引语处”设题，考查“引语所暗含之意”。解答此类题时，要点面结合：先理解引",
+      "width": 0.842553149694684,
+      "x": 0.10851065286542406,
+      "y": 0.5215968588749353
+    },
+    {
+      "confidence": 1,
+      "height": 0.014618592112476292,
+      "text": "语本身（点），再根据引语关键词在上下文搜索近/同/反义表达以对其进一步解读（面），最后结合点面信",
+      "width": 0.8808510732833453,
+      "x": 0.07021275242215728,
+      "y": 0.5043604654935808
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317517,
+      "text": "息推断正确答案。以本题为例，由引语本身可知“古代夏威夷人个个都对天文学感兴趣，都懂得天文学",
+      "width": 0.8787233783824233,
+      "x": 0.07234044396038394,
+      "y": 0.4840116278435883
+    },
+    {
+      "confidence": 1,
+      "height": 0.01775386570635895,
+      "text": "知识”，再由关键词复现（Star watchers/astronomers）搜索至②句，可进一步推知“古代夏威夷社会特别",
+      "width": 0.8787233783824234,
+      "x": 0.07234044087261807,
+      "y": 0.4633507853836162
+    },
+    {
+      "confidence": 1,
+      "height": 0.018616744985131106,
+      "text": "重视观星师（即天文学家）”，结合此两点即可判断［B］的正确性。",
+      "width": 0.5407003351555016,
+      "x": 0.07221600077975472,
+      "y": 0.4432521789103364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013256422512194277,
+      "text": "II ①At issue is the TMT's planned location on Mauna",
+      "width": 0.44893617008837705,
+      "x": 0.11489362157283267,
+      "y": 0.4127906981099203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013324911057637001,
+      "text": "争论的焦点是TMT规划选址位于莫",
+      "width": 0.3191489442554927,
+      "x": 0.6276595727050804,
+      "y": 0.40552325627852503
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014626202158902979,
+      "text": "Kea, a dormant® volcano worshiped® by some Hawaiians",
+      "width": 0.49361703222282094,
+      "x": 0.07234042828575239,
+      "y": 0.39244186090055744
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "纳克亚山：一座休眠火山，被许多夏威夷人",
+      "width": 0.359574475050886,
+      "x": 0.5872340416386908,
+      "y": 0.38350785319590364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378180134358875,
+      "text": "as the piko, that connects the Hawaiian Islands to the",
+      "width": 0.493617032222821,
+      "x": 0.07234041296660405,
+      "y": 0.3720930238657343
+    },
+    {
+      "confidence": 1,
+      "height": 0.014687080657919016,
+      "text": "尊奉为连接夏威夷群岛与众天神的脐带。",
+      "width": 0.36170211148901465,
+      "x": 0.5872340470214502,
+      "y": 0.3632198955926863
+    },
+    {
+      "confidence": 1,
+      "height": 0.01381645027879641,
+      "text": "heavens.",
+      "width": 0.07610847940846878,
+      "x": 0.07138352911485203,
+      "y": 0.351382683319191
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790628003818,
+      "text": "② But Mauna Kea is also home to some of the",
+      "width": 0.41063827573111233,
+      "x": 0.15531916411316724,
+      "y": 0.3531976747960275
+    },
+    {
+      "confidence": 1,
+      "height": 0.014626202158902979,
+      "text": "但是，莫纳克亚山也是多台国际顶尖望远",
+      "width": 0.359574475050886,
+      "x": 0.5872340426660463,
+      "y": 0.3429319370277488
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013324911057637001,
+      "text": "world's most powerful telescopes. ⑧ Rested in the Pacific",
+      "width": 0.49361703222282083,
+      "x": 0.07234041388858961,
+      "y": 0.3311518326456694
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860668322096,
+      "text": "镜坐落之地。高栖于太平洋中，莫纳克亚",
+      "width": 0.359574475050886,
+      "x": 0.5872340400703016,
+      "y": 0.3212209303053738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013264032558620853,
+      "text": "Ocean,Mauna Kea's peak rises above the bulk of our",
+      "width": 0.49361703222282094,
+      "x": 0.07234042828575239,
+      "y": 0.310863874050451
+    },
+    {
+      "confidence": 1,
+      "height": 0.013195543389045827,
+      "text": "山顶峰高耸于地球大部分稠密的大气层之",
+      "width": 0.35744680938136075,
+      "x": 0.5893617042454898,
+      "y": 0.3036649214080106
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013203153435472403,
+      "text": "planet's dense atmosphere, where conditions",
+      "width": 0.42978720829404626,
+      "x": 0.07234044556928862,
+      "y": 0.290575915964297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010471203876415425,
+      "text": "allow",
+      "width": 0.04680850953434623,
+      "x": 0.5170212763675787,
+      "y": 0.2918848169666409
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882850047892,
+      "text": "上，那里的条件使得望远镜能够获取无比",
+      "width": 0.359574475050886,
+      "x": 0.5872340360703017,
+      "y": 0.28197674447613885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837113505258,
+      "text": "telescopes to obtain images of unsurpassed® clarity.",
+      "width": 0.4297872082940464,
+      "x": 0.0702127859238986,
+      "y": 0.2688953490497218
+    },
+    {
+      "confidence": 1,
+      "height": 0.016003591852038257,
+      "text": "清晰的图像。",
+      "width": 0.11276595893947561,
+      "x": 0.5872340427465742,
+      "y": 0.2601744184716166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019176915053921828,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.22340425220942595,
+      "x": 0.38085106315060624,
+      "y": 0.21511627890996443
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047781,
+      "text": "①dormant ［'do:mont］a. 休眠的，暂停活动的",
+      "width": 0.3468085102651311,
+      "x": 0.07021276680892381,
+      "y": 0.1904069773613133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013232632457273796,
+      "text": "• 经典搭配",
+      "width": 0.10429575251436785,
+      "x": 0.5361499968281467,
+      "y": 0.19033135857362782
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01458054250447538,
+      "text": "②worship ［'w3.hp］v. 崇敬，崇拜（上帝或神）",
+      "width": 0.351063812372785,
+      "x": 0.07021277586147985,
+      "y": 0.17146596850630424
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884098312606,
+      "text": "①be at issue（讨论/问题的焦点；在争论中，有分歧的）",
+      "width": 0.41702127273968803,
+      "x": 0.536170218169163,
+      "y": 0.17005813941886705
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013355351243343638,
+      "text": "③unsurpassed ［ansa passt］c. 无比的，卓绝的，出类拔",
+      "width": 0.4170212727396881,
+      "x": 0.07021277136065236,
+      "y": 0.15379581124024366
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011901862334206537,
+      "text": "②be home to（是⋯⋯的所在地）",
+      "width": 0.24893615254953905,
+      "x": 0.538297883246507,
+      "y": 0.1537958118087196
+    },
+    {
+      "confidence": 1,
+      "height": 0.013241203043473315,
+      "text": "萃的",
+      "width": 0.036170210418116536,
+      "x": 0.0893617031686013,
+      "y": 0.13662790720512386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790628003818,
+      "text": "③be rested in（坐落于，处于）",
+      "width": 0.23404255132565555,
+      "x": 0.5382978761988744,
+      "y": 0.1351744190256785
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011780104712041828,
+      "text": "④deem ［di:m］v. 视作，认（27题）",
+      "width": 0.2851063812372785,
+      "x": 0.07234042355157357,
+      "y": 0.11910994758583959
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942459,
+      "text": "④the bulk of sth（主体，大部分）",
+      "width": 0.2531914838885896,
+      "x": 0.536170216800386,
+      "y": 0.11452879611612521
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013241202419340903,
+      "text": "⑤implication ［impi'kerjon］n. 含义，暗示（27题）",
+      "width": 0.3872340410605244,
+      "x": 0.07234043111867386,
+      "y": 0.10013089026652355
+    },
+    {
+      "confidence": 1,
+      "height": 0.011810544273616053,
+      "text": "20",
+      "width": 0.02340425476717309,
+      "x": 0.08510638344974678,
+      "y": 0.06086387405535654
+    }
+  ],
+  "vision_ocr_text": "上文古代情形的铺垫，强调今日转折情形“如今夏威夷社会却对天文学发起攻击”。\n•真題精解•泌\n26. Queen Liliuokalani's remark in Paragraph 1 indicates\n26.第一段中利留卡拉尼女王的言论\n表明\nLA her conservative view on the historical role of astronomy\n［A］她对天文学历史作用的保守看法\n［B］ the importance of astronomy in ancient Hawaiian society\n［B］天文学在古代夏威夷社会的重要性\nLC］ the regrettable decline of astronomy in ancient times\n［C］天文学在古代令人惜的衰落\n［D］ her appreciation of star watchers' feats in her time\n［D］她对其时代观星师功勋的赞赏\n［精准定位］①句直引利留卡拉尼女王之言“古代夏威夷人都是天文学家”，②句随后解释“古代夏威\n夷社会观星师极受尊敬”。借由两句间“观星师与天文学家、天文学与天文学家、受尊敬与受重视”的语\n义关联可推断，女王之言实质表明了天文学家在古代夏威夷社会中的重要性，［B］正确。\n［命题解密］正确项［B是对①②句的合理推断，其中 the importance 对应 the most esteemed。\n［A］conservative 利用惯性思维制造干扰，与①②句传达的女王对“古代天文学家备受重视，即天文\n学在古代有重要作用”毫无保留的肯定态度相悖。［C］将③④句暗含之今日情形“夏威夷天文学地位衰\n落（decline）”偷换女王之言所表古代情形。［D］利用②句 Star watchers、the most esteemed 过度推导\n出“观星师因技艺高超、功勋卓著受到女王的赞赏”，且 in her time（女王所处时代）与①句引言中 ancient、\nwere 等词表明的信息“在女王生活时代之前的古代时期”明显相悖。\n［技巧总结］本题就“引语处”设题，考查“引语所暗含之意”。解答此类题时，要点面结合：先理解引\n语本身（点），再根据引语关键词在上下文搜索近/同/反义表达以对其进一步解读（面），最后结合点面信\n息推断正确答案。以本题为例，由引语本身可知“古代夏威夷人个个都对天文学感兴趣，都懂得天文学\n知识”，再由关键词复现（Star watchers/astronomers）搜索至②句，可进一步推知“古代夏威夷社会特别\n重视观星师（即天文学家）”，结合此两点即可判断［B］的正确性。\nII ①At issue is the TMT's planned location on Mauna\n争论的焦点是TMT规划选址位于莫\nKea, a dormant® volcano worshiped® by some Hawaiians\n纳克亚山：一座休眠火山，被许多夏威夷人\nas the piko, that connects the Hawaiian Islands to the\n尊奉为连接夏威夷群岛与众天神的脐带。\nheavens.\n② But Mauna Kea is also home to some of the\n但是，莫纳克亚山也是多台国际顶尖望远\nworld's most powerful telescopes. ⑧ Rested in the Pacific\n镜坐落之地。高栖于太平洋中，莫纳克亚\nOcean,Mauna Kea's peak rises above the bulk of our\n山顶峰高耸于地球大部分稠密的大气层之\nplanet's dense atmosphere, where conditions\nallow\n上，那里的条件使得望远镜能够获取无比\ntelescopes to obtain images of unsurpassed® clarity.\n清晰的图像。\n•词汇注释与难句分析。\n①dormant ［'do:mont］a. 休眠的，暂停活动的\n• 经典搭配\n②worship ［'w3.hp］v. 崇敬，崇拜（上帝或神）\n①be at issue（讨论/问题的焦点；在争论中，有分歧的）\n③unsurpassed ［ansa passt］c. 无比的，卓绝的，出类拔\n②be home to（是⋯⋯的所在地）\n萃的\n③be rested in（坐落于，处于）\n④deem ［di:m］v. 视作，认（27题）\n④the bulk of sth（主体，大部分）\n⑤implication ［impi'kerjon］n. 含义，暗示（27题）\n20",
+  "pdf_text_layer": "上文古代情形的铺垫，强调今日转折情形“如今夏威夷社会却对天文学发起攻击”。\n\n                                                  ：ι 事题精华：：~ ： ： ；／\n  26.      Queen Liliuokalani ’s remark in Paragraph 1 indicates               26 . 第一段中利留卡拉尼女王的言论\n                                                                                     表明   。\n\n\n\n\n  <A] her cons ervative vi ew on the histori ca l rol e of astronomy           [A］ 她对 天文学历史作用的保守看法\n\n  [ BJ th e importa nce of astronomy in ancient Hawaiian society               [BJ 天文学在古代夏威夷社会的重要性\n\n  [ CJ th e regr ettable declin e of astronomy in ancient times                 [CJ 天文学在古代令人惋惜的衰落\n\n  [ DJ her appreciat ion of star watch ers ’ feats in h巳r time                  [DJ 她对其 时代观 星 师功勋的赞赏\n\n        ［ 精准定位 ］ ① 句直引利留卡拉尼女 王之言“ 古代夏威夷人都是天文学家”，②句随后解释“古代夏威\n夷社会观星 师极 受尊敬”。借由 两句间“观 星 师与天文学家、天文学与天文学家、受尊敬与受重视”的语\n义关联可推断，女王之言实质表明了天文学家在古代夏威夷社会中的重要性，［ BJ 正确。\n        ［ 命题解密 ］ 正确项［ BJ 是对①②旬的合理 t1t 断，其中 the importance 对应 the most esteemed 。\n        [ A] cons er vativ e 利用惯性思维制造干扰，与①②句传达的女王对“古代天文学家备受重视，即天文\n学在古 代有 重要作用”毫无保留 的肯定态度相悖 。 ［ CJ 将③④句暗含之今日情形“夏威夷天文学地位衰\n落（ d e clin e ） ”偷换为女 王 之 言 所表古代情形 。［ DJ 利用 ② 句 Star watchers 、 the most esteemed 过度推导\n出“观 星 师 因技艺高超、功勋卓著受到女王的赞赏”，且 in her time （女王所处时代）与①句引言中 anci ent 、\nw e r e 等词表 明的信息“在女 王生 活时代之前的古代时期”明显相悖。\n        ［技巧总结］ 本题 就“引 语处”设 题，考 查“寻 ｜ 语所暗含之意” 。 解答 此 类题时，要点面结合：先理解 引\n语本身（点），再根据引 i吾关键同在上下文搜索近 ／ 同 ／反义表达以对其进 一 步解读（面），最后结合点面信\n息推断正确答案 。 以本题为例，由引语本身可知“古代夏威夷人个个都对天文学感兴趣，都懂得天文学\n知识 ”，再 由 关键 词 复 现（ Star watc hers/ astronomers ）搜索至 ② 句，可进 一 步推知“古代夏威夷社会特别\n重视 观 星 师（即 天文学家） ”， 结合 此两点即可判断［町的正确性 。\n\n\n             0 At iss ue is the TMT' s planned locat ion on Mauna               争论的焦点是 TMT 规划选址位于莫\nKea, a dormant(          volcano worshiped® by som e Hawaiians\n                                                                              纳克亚山：一座休眠火山，被许多夏威夷人\nas th e ρ iko, th at connects th e Hawaii an Is lands to the\n                                                                              尊奉为连接夏威夷群岛与众天神的脐带 。\nheavens . @ But Mauna K ea is a lso home to some of the\n                                                                              但是，莫纳克亚山也是多台国际顶尖望远\nworld ’ s mos t pow erful telescopes. @) Res ted in the Pacific\n                                                                              镜坐落之地 。 高栖于太平洋中，莫纳克亚\nOc ean, Ma una Kea ’ s peak ri ses above th e bulk of o ur\n                                                                              山顶峰高耸于地球大部分稠密的大气层之\np l an 巳1： ’ s   dense   atmosphere ,    where   co nditions        a llow\n                                                                              上，那里的条件使得望远镜能够获取元比\ntelescopes to o bta in images of unsurpassed® clarity.\n                                                                              清晰的图像 。\n\n\n\n                                            ； 二 词注注释与难句分析.                     iii\n( dormant [ 1d;:i:m 0 nt ］ α ．休 11民的，暂停活动的                     \\\\     ·经典搭配\n( worship [ 'w3:J1p] v. 崇敬， 崇拜（ 上帝或神）\n( unsurpassed [ I\\ ns;:,' pa :st J α 无比的，卓绝的， 11 ： 类拔\n                                                               !(        be at i ss川叫的焦点；向中叫的）\n                                                                      ( be home to （是 ……的所在地）\n   萃的\n( deem [ di:m］ υ．视作，认为（ 27 题）\n                                                               !(        be\n                                                               ；④ 川川 sth （主体大部分）\nG:l implication [ 1mpl11ke1J0n] 11.   含义， H音示（ 27 题）\n\n\n\n   20",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 1983,
+    "pdf_text_character_count": 3442,
+    "nonempty": true
+  }
+}

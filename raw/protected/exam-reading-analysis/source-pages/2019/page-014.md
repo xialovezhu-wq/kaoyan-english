@@ -1,0 +1,134 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2019-P014
+year: 2019
+pdf_page: 14
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2019 解析 PDF p14｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+invest in long-term research or to build up customer loyalty.
+结构切分：
+Transient investors can hinder a fim's efforts
+1后置定语
+to invest in long-term research or to build up customer loyalty
+主语
+谓语
+宾语
+to..or to..并列结构
+定语从句
+who
+demand high quarterly profits from companies
+引导词 谓语
+宾语
+状语
+功能注释：句子主干力 Transient investors can hinder a firm's efforts,who 定语从句说明 Transient
+investors 行为倾向，后置定语详述“（被短暂投资者所阻碍的）两大长期投资方向”。
+•语篇分析•》
+第三、四段说明“短期主义加重”的具体表现、消极影响，以及助长因素。
+第三段说明“短期主义加重”的具体表现及消极影响。关键词为：quarterly capitalism。
+①句介绍具体表现：投资者平均持股时间锐减。he notes（note 指“特别提到”）浅层承上引出
+Haldane 重要发现，深层引出对“短期主义现象加剧”的典型例证；seven years -> seven months 巨大落差
+表明持股时间锐减、短期主义加剧；in both the United States and Britain 强调“短期主义”乃多国现象。
+②句明确消极影响：有碍企业投资长期研究以及增进客户忠诚。Transient investors 概指①句，辅以
+从句 who demand high quarterly profits...彰显其“追求短期利益”的本质。a firm's efforts to invest in
+long-term research or to build up customer loyalty（cfforts 兼具“努力”和“有组织的活动”之意）则关乎企
+业长远发展乃至生死存亡。hinder 一词表明二者关系，展现短期主义之害。
+③句为其冠名：季度资本主义（quarterly capitalism）。 This has been dubbed ...（这已被称⋯…）
+为典型的引出“公认称谓”句式；被动完成时表明此现象早已引发广泛关注。
+第四段补充指出数字技术助长短线思维、并重申其负面影响。关键词为：new digital technologies。
+①句明确指出加重投资者短期思维的因素：数字技术。have allowed、and thus 标示两重因果：数字
+技术广泛应用一股票交易更迅速、信息使用更快捷一金融市场中注意力的时间跨度更短”。
+②句再度强调如今短线思维的盛行及危害。predominance 凸显短期主义之“盛”，暗示长期思维之
+“弱”；at the expense of long-term investing 复现第三段②句 hinder...invest in long-term research，强调
+短期主义之“害”。
+【深层解读】第三、四段以 In addition 紧密相接，引入加重短线思维的外部因素“数字技术”。两段中
+以数字/形容词 dropped from seven years to seven months（从7年跌至7月）、transient（短暂的，转瞬即逝
+的）、quarterly（季度的，每3个月的）、shorter/short-term 凸显如今短期主义之“短”；以带强烈画面感的
+名词 predominance 凸显短期主义之“盛”；to invest in long-term research（投资长期研究）、to build up
+customer loyalty（建立客户忠诚）则以点带面说明长期投资（long-term investing）之“重”，并借 can
+hinder、at the expense of 强调短期主义之“害”。
+•真题精解•必
+23.
+It is argued that the influence of transient
+23.文章认为，短暂型投资对上市公司的影响
+investment on public companies can be
+可能是
+。
+［A］ indirect
+［A］ 间接的
+［B］ adverse
+［B］ 不利的
+［C］ minimal
+［C］ 极小的
+［D］ temporary
+［D］暂时的
+14
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+invest in long-term research or to build up customer loyalty.
+       结构切分 ：
+                                                           to invest in long-tenn research or to build up customer loyalty
+             主语            谓ill       宾诏                                        to ... or Lo .. .3i二男！J 结构
+             瓦一
+                  定i否从句
+        who demand high quarterly pro自ts   仕om companies
+
+       引导词谓语                 宾语                状i百
+
+
+       功能注释： 句子主干为 Tra n s i e nt in vestors can hind er a firm ’ s efforts, wh o 定语 从句民明 Trans i e nt
+mvesto rs 行为 倾向 ，后置定语详述“（被短暂投资者所阻碍的）两大长期投资方向” 。
+
+                                                ；·语意分析：二 J
+       第三、四段说明“短期主义加重”的具体表现、消极影晌，以及助长因素。
+       第三段说明“短期主义加童”的具体表现及消极影晌。关键词为： quarterly capitalism 。
+       ① 旬介绍具体表现：投资者平均持股时间锐减。 h e notes ( note 指“特别提到勺浅层承上引出
+H a lda n e 重要发现，深层 引出对“ 短期主义现象力I] 剧”的典型例证； se v e n years •                                         seven month s 巨大落差
+表明持股 时间锐 减、短期主义 加剧； in both th e United Sta tes and Brita in 强调 “ 短期主义”乃多国 现 象 。
+       ② 旬明确消极影晌：有碍企业投资长期研究以及增进客户忠诚。 Tr a nsient in ves t ors 概 指 ①句 ，辅以
+从句 who demand high quarterly profits ...彰显其“追求短期利益”的本质 。 a firm ’ s effort s t o invest in
+long- term research or to build up customer l oya lt y (e fforts 兼具“努力”和“有组织的活动”之意） 则 关 乎企
+业长远 发展乃至生死存亡 。 hind e r 一 词表明 二 者关系，展现短期主义之 害。
+       ③ 旬为其冠名：季度资本主义（ quarterly capitalism ） 。 This has been dubbed ... （这巳被称为 …… ）
+为典型的引出“公认称谓”句式；被动完成时表明此现象早已引发广泛关注 。
+       第四段补充指出数字技术助长短线思维、并重申其负面影晌。关键词为： new digital technologies 。
+       ① 旬明确指出加重投资者短期思维的因素：数字技术。 h av e a ll owed 、 a nd thus 标示两重因果 ： 数字
+技术 广泛应用→ 股 票交易更迅速、信息使用更快捷→ 金 融市场中注意力的 时间 跨度更短” 。
+       ② 旬再度强调如今短线恩维的盛行及危害。 pr edom in ance 凸显短期主义之“盛”，暗示长期思维之
+“弱”； at the ex pense of long- term invest ing 复现第 三 段 ② 句 h in der . . . invest in long- t e rm research ，强调
+短期主义之“害” 。
+       E 深层解读】 第 三 、四段以 In addit i on 紧密相 J盏，引人 加 重短线思维的外部因素 “数字技术”。两段中
+以数 字 ／形容词 dropped from seve n years to seven mont h s （从 7 年跌至 7 月）、 tra n s i e nt （短暂 的，转瞬即逝
+的）、 quarte rl y （季度 的 ，每 3 个月的 ）、 s ho rt er/ s hort- t：巳rm 凸显如今短期主义之“短”；以带强烈画面感的
+名同 predominance 凸显短期主义之“盛 ”； to invest in long- term researc h （投资民期 研 究）、 to build up
+customer loya lt y （建立客户忠 诚）则以点带 回说明长期投资（ longterm in vest ing ）之“重”，并借 can
+hind e r 、 at the ex pense o f 强调 短期主义之 “害”。
+
+                                                ；·．：要题；精解：；： J
+ 23.    It   is   argued   that   the influence of    transient   23 . 文 章认为，短暂型投资 对上市公司的影响
+ investment on public companies can be 一一一一·                      可能是                 。
+
+
+
+
+ [ A] indirect                                                    [ A］ 间 接 的
+
+ [ BJ adverse                                                     [ BJ 不利的
+
+ [CJ minima l                                                     〔 C］ 极小 的
+
+ [ DJ t empor ar y                                                [ DJ 暂时的
+
+  14
+```

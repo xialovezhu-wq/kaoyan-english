@@ -1,0 +1,606 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P021",
+  "year": 2014,
+  "pdf_page": 21,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.016007421526027632,
+      "text": "［精准定位］第三段③句介绍当前法律教育体制：先要攻读四年非法律专业学士学位，后才可进人",
+      "width": 0.8425531954774472,
+      "x": 0.08936170715489328,
+      "y": 0.9171511627398383
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604743,
+      "text": "法学院攻读法律，最后还得花重金通过律师资格考试；④句指出这种教育体制的后果：给法学院学生带",
+      "width": 0.8808510573491483,
+      "x": 0.04893616611266002,
+      "y": 0.8997093021075697
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "来巨大债务危机。换言之，③句所言三个因素为本题题干考查对象，而唯有［D］切合其中之一，故正确。",
+      "width": 0.8723404018526572,
+      "x": 0.04893617332899069,
+      "y": 0.879360465508684
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372412765295,
+      "text": "［命题解密］正确项对应第三段③句中 a four-year undergraduate degree in some unrelated subject。",
+      "width": 0.8361702184988303,
+      "x": 0.08936170622930807,
+      "y": 0.859011627783443
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014689186141187749,
+      "text": "［A］由④句 undergraduate debts“本科债务”捏造出“本科学费更高”，而文中并未对比本科教育与法律",
+      "width": 0.8425531954774472,
+      "x": 0.08936170715489328,
+      "y": 0.8414154652396146
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "教育费用高低；［B］由③句 law schools authorized by the American Bar Association 衍生出“接受专业协会的",
+      "width": 0.8808510573491483,
+      "x": 0.048936173027553535,
+      "y": 0.8211009175220126
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "培训”，而文意实为“在美国律师协会许可的法学院学习”；［C］由③句 for the bar exam“参加律考”衍生出",
+      "width": 0.8808510573491481,
+      "x": 0.04893617974487868,
+      "y": 0.8020969856994997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453462,
+      "text": "“经得律师协会的准入许可”，而文意实为“律师资格考试费用高昂（而非准人许可）推高法律教育费用”。",
+      "width": 0.863829746356166,
+      "x": 0.0468085397155339,
+      "y": 0.781782437556802
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［技巧总结］借题干隐性因果表达词 adds to 可知本题亦考查因果关联（解题思路同26）。解答步骤如",
+      "width": 0.840425516959573,
+      "x": 0.08936171485797943,
+      "y": 0.7627785061830029
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372412765295,
+      "text": "下：首先根据题干关键词定位至第三段，尔后搜寻到④句中因果表达词leaves，然后再沿着其前 This（回指",
+      "width": 0.878723378831274,
+      "x": 0.05106383622266089,
+      "y": 0.7441860462790825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014552028900986391,
+      "text": "③句内容）搜索至③句中发现句中实含三个因素（A then B and C），最后将三个因素与选项一一匹配可知",
+      "width": 0.8808510573491483,
+      "x": 0.04893616611266002,
+      "y": 0.7252906974564068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859564024997,
+      "text": "［D］对应 A。捷径：本题题干中 adds to 意表此题考查“增加的法律教育费用”，因此可先剔除与正常法律教",
+      "width": 0.8829786772920165,
+      "x": 0.04893620430611909,
+      "y": 0.7049418609883363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "育费用挂钩的选项，DJ中 another major 展示了这一深层含义，并对应③句中 unrelated subject。",
+      "width": 0.7872340226127639,
+      "x": 0.05106384762978816,
+      "y": 0.6860465114825697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604743,
+      "text": "N ① Reforming the system would help both lawyers",
+      "width": 0.4446808564228197,
+      "x": 0.08936170389497307,
+      "y": 0.6526162789825697
+    },
+    {
+      "confidence": 1,
+      "height": 0.014548217953423204,
+      "text": "改革这个体制对律师及其委托人都有",
+      "width": 0.33829786772920156,
+      "x": 0.5893617086619949,
+      "y": 0.6467889909419636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011808878472404416,
+      "text": "and their customers.",
+      "width": 0.1872340401852657,
+      "x": 0.04893616827616157,
+      "y": 0.6349934471283616
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014715855899675723,
+      "text": "②图 Sensible®ideas have been",
+      "width": 0.27872339640377575,
+      "x": 0.25319149092577176,
+      "y": 0.6349934467165917
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604743,
+      "text": "益。切实可行的建议早已存在很长一段时",
+      "width": 0.3702127526222858,
+      "x": 0.5553191593058783,
+      "y": 0.6264534883139651
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013228077094801671,
+      "text": "around® for a long time, but the state-level bodies®that",
+      "width": 0.48510636752489195,
+      "x": 0.04893618602478773,
+      "y": 0.6146788991794623
+    },
+    {
+      "confidence": 1,
+      "height": 0.014622512057443027,
+      "text": "间，但各州行业管理机构太过保守不愿推",
+      "width": 0.3702127526222858,
+      "x": 0.5553191524973677,
+      "y": 0.6074705111983594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013136638726350736,
+      "text": "govern the profession have been too conservative",
+      "width": 0.4553191318621791,
+      "x": 0.04893618633841376,
+      "y": 0.5930232563807747
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007522707372942916,
+      "text": "10",
+      "width": 0.021276594809973237,
+      "x": 0.510638298259907,
+      "y": 0.5956749671637519
+    },
+    {
+      "confidence": 1,
+      "height": 0.016041710679840393,
+      "text": "行。建议之一是，允许学生在本科阶段就修",
+      "width": 0.37234040185265715,
+      "x": 0.5531914965470759,
+      "y": 0.5871559632191791
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "implement\"them.",
+      "width": 0.15531914064843,
+      "x": 0.046808514973657324,
+      "y": 0.5726744186046626
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317092850511381,
+      "text": "③One idea is to allow people to study",
+      "width": 0.32978721223271057,
+      "x": 0.2021276649829357,
+      "y": 0.5726744190261237
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "读法律。另一建议是，让学生在法学院学习",
+      "width": 0.3702127526222859,
+      "x": 0.5531914923271551,
+      "y": 0.5681520317309188
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013205218283876996,
+      "text": "law as an undergraduate degree.",
+      "width": 0.28936170113063825,
+      "x": 0.04893617360489362,
+      "y": 0.5523255812790802
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395610444302,
+      "text": "④",
+      "width": 0.025531913405874185,
+      "x": 0.3510638308502544,
+      "y": 0.5523255813553882
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011795543905635641,
+      "text": "Another is to let",
+      "width": 0.15531914064843005,
+      "x": 0.3787234109878416,
+      "y": 0.5537352556282529
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "两年后就参加律师资格考试。如果律师资",
+      "width": 0.3702127526222858,
+      "x": 0.5553191570505592,
+      "y": 0.54783748358822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013239507437689868,
+      "text": "students sit for the bar after only two years of law",
+      "width": 0.48297871829452077,
+      "x": 0.048936178804867086,
+      "y": 0.5319767441097487
+    },
+    {
+      "confidence": 1,
+      "height": 0.014692995838850198,
+      "text": "格考试对一名准律师而言真是一个足够严",
+      "width": 0.3702127526222858,
+      "x": 0.5553191586888571,
+      "y": 0.5305232557412907
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014584412581017614,
+      "text": "school. ⑤If the bar exam is truly a stern® enough test for",
+      "width": 0.48510636752489195,
+      "x": 0.04893618602478773,
+      "y": 0.5116279074563572
+    },
+    {
+      "confidence": 1,
+      "height": 0.01603790035722774,
+      "text": "格的测试的话，那就应该允许那些有能力提",
+      "width": 0.3702127526222859,
+      "x": 0.5553191577739633,
+      "y": 0.5101744192296143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013308085745315279,
+      "text": "a would-be lawyer, those who can sit it earlier should be",
+      "width": 0.48510636752489195,
+      "x": 0.04893618602478773,
+      "y": 0.4912790702858135
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "前参加考试的人提前参加考试。无需额外",
+      "width": 0.3702127526222859,
+      "x": 0.5553191571640343,
+      "y": 0.48951507199424416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283972,
+      "text": "allowed to do so.",
+      "width": 0.14680849979569038,
+      "x": 0.04893617808087813,
+      "y": 0.4709302324418697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013499601171650943,
+      "text": "⑥ Students who do not need the extra",
+      "width": 0.3321158615961642,
+      "x": 0.199915310995401,
+      "y": 0.470616392066732
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604854,
+      "text": "培训的学生便能将其巨债之山削减三分",
+      "width": 0.37234043114016013,
+      "x": 0.5531914834547427,
+      "y": 0.4723837207122208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013323325785865592,
+      "text": "training could cut their debt mountain by a third.",
+      "width": 0.4148936207601068,
+      "x": 0.04893617352952096,
+      "y": 0.4488859766886879
+    },
+    {
+      "confidence": 1,
+      "height": 0.01454440888071118,
+      "text": "之一。",
+      "width": 0.051063830472686256,
+      "x": 0.5553191482033731,
+      "y": 0.45203488369671696
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22127658895247276,
+      "x": 0.36170213047057215,
+      "y": 0.40235910889377935
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014622512057443027,
+      "text": "①sensible ［'sensibal］a. 明智的，合理的，实际的",
+      "width": 0.37021275262228587,
+      "x": 0.04680851422077202,
+      "y": 0.3779069765503992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013169023031332272,
+      "text": "①for a long time（一段时间）",
+      "width": 0.2212765889524727,
+      "x": 0.5148936167294376,
+      "y": 0.37936046558620107
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283972,
+      "text": "②around［o'raond］ ad.存在着",
+      "width": 0.23617020678382913,
+      "x": 0.04893617714000018,
+      "y": 0.3633720929554355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580602883355165,
+      "text": "②state-level body（州级机构）",
+      "width": 0.2276595659310895,
+      "x": 0.5148936230131785,
+      "y": 0.360419397407331
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013378570151672764,
+      "text": "③body ［'bpdi］n. 团体，机构",
+      "width": 0.22553191670071826,
+      "x": 0.046808507479428156,
+      "y": 0.3427260810983168
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013378570151672764,
+      "text": "③to0 conservative to...（太过保守以至于不能⋯⋯）",
+      "width": 0.40425531603324427,
+      "x": 0.5148936214666605,
+      "y": 0.3427260812145959
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013212838304152208,
+      "text": "④implement ［'Implmont］v. 实施，落实",
+      "width": 0.3085106320664887,
+      "x": 0.04893617553210517,
+      "y": 0.32558139529070806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013212838304152208,
+      "text": "④sit for the bar（参加律师资格考试）",
+      "width": 0.28723405190026696,
+      "x": 0.5148936143994105,
+      "y": 0.32558139529070806
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013226172870920982,
+      "text": "⑤stern ［st3:n］a. 严厉的，严格的",
+      "width": 0.2553191377196797,
+      "x": 0.04893617422526657,
+      "y": 0.30799475742885063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013226172870920982,
+      "text": "⑤a would-be lawyer（想要成为律师的人）",
+      "width": 0.32127658602372244,
+      "x": 0.5127659582913303,
+      "y": 0.3079947574379349
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015072083879423381,
+      "text": "⑥cut... by a third（将⋯⋯減三分之一）",
+      "width": 0.32978721223271057,
+      "x": 0.5085106450804533,
+      "y": 0.2889908259714783
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013655531297036227,
+      "text": "• 经典搭配",
+      "width": 0.10653131525255669,
+      "x": 0.05098966258729539,
+      "y": 0.28168967627887376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314806906923871,
+      "text": "Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have",
+      "width": 0.8446808154203155,
+      "x": 0.08936171150260831,
+      "y": 0.2529069765697779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013148068444288286,
+      "text": "been too conservative to implement them.",
+      "width": 0.33617018921132735,
+      "x": 0.05106384355036459,
+      "y": 0.23394495409935556
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882761704004,
+      "text": "分甸1 Sensible ideas have been around",
+      "width": 0.34893617245606406,
+      "x": 0.09361702451664868,
+      "y": 0.21220930287786888
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016207974985105178,
+      "text": "for a long time，",
+      "width": 0.1404788553600348,
+      "x": 0.4382712088626013,
+      "y": 0.20919252411444034
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604854,
+      "text": "主语",
+      "width": 0.03829787285451469,
+      "x": 0.1999999994450831,
+      "y": 0.19331395348838365
+    },
+    {
+      "confidence": 1,
+      "height": 0.013108065368932276,
+      "text": "系动词",
+      "width": 0.059574467664487984,
+      "x": 0.2978723400400964,
+      "y": 0.1933139532848941
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604854,
+      "text": "表语",
+      "width": 0.04255318961994664,
+      "x": 0.39361702247726077,
+      "y": 0.19331395341570934
+    },
+    {
+      "confidence": 1,
+      "height": 0.013108064743981962,
+      "text": "状语",
+      "width": 0.0510638304726862,
+      "x": 0.47234042476365695,
+      "y": 0.1933139532970065
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534884011604854,
+      "text": "that govern the profession",
+      "width": 0.21914892507834993,
+      "x": 0.20000000335444212,
+      "y": 0.16569767415698833
+    },
+    {
+      "confidence": 1,
+      "height": 0.01469109036506866,
+      "text": "定语从句",
+      "width": 0.087234043114016,
+      "x": 0.2085106391078856,
+      "y": 0.1480996069024112
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372412765406,
+      "text": "分句2",
+      "width": 0.059574467664488,
+      "x": 0.09574468148690495,
+      "y": 0.13081395340117552
+    },
+    {
+      "confidence": 1,
+      "height": 0.013353805242016015,
+      "text": "but",
+      "width": 0.03191489221495997,
+      "x": 0.16382978765847747,
+      "y": 0.13081395348838243
+    },
+    {
+      "confidence": 1,
+      "height": 0.013203313435045771,
+      "text": "the state-level bodies",
+      "width": 0.17234042235390926,
+      "x": 0.20638297887623688,
+      "y": 0.1277850587282191
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017714269820547024,
+      "text": "have been too conservative to implement them.",
+      "width": 0.3957446605367533,
+      "x": 0.3978723545401339,
+      "y": 0.12645348890984798
+    },
+    {
+      "confidence": 1,
+      "height": 0.01455583859864884,
+      "text": "连词",
+      "width": 0.04042552940676172,
+      "x": 0.1617021293178957,
+      "y": 0.11191860459303482
+    },
+    {
+      "confidence": 1,
+      "height": 0.013245222609133744,
+      "text": "主语",
+      "width": 0.040425529406761695,
+      "x": 0.2659574484615127,
+      "y": 0.11191860435684187
+    },
+    {
+      "confidence": 1,
+      "height": 0.01455583859864884,
+      "text": "系动词",
+      "width": 0.057446807451303095,
+      "x": 0.41276595833551866,
+      "y": 0.11191860457849989
+    },
+    {
+      "confidence": 1,
+      "height": 0.014555837973698416,
+      "text": "表语",
+      "width": 0.040425529406761695,
+      "x": 0.6106382987806617,
+      "y": 0.11191860531246178
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014733000164106946,
+      "text": "功能注释：本句由 but 连接的两个并列分句组成，第一个分句的主干力 Sensible ideas have been",
+      "width": 0.8446808154203155,
+      "x": 0.0893617269884237,
+      "y": 0.0901162789971045
+    }
+  ],
+  "vision_ocr_text": "［精准定位］第三段③句介绍当前法律教育体制：先要攻读四年非法律专业学士学位，后才可进人\n法学院攻读法律，最后还得花重金通过律师资格考试；④句指出这种教育体制的后果：给法学院学生带\n来巨大债务危机。换言之，③句所言三个因素为本题题干考查对象，而唯有［D］切合其中之一，故正确。\n［命题解密］正确项对应第三段③句中 a four-year undergraduate degree in some unrelated subject。\n［A］由④句 undergraduate debts“本科债务”捏造出“本科学费更高”，而文中并未对比本科教育与法律\n教育费用高低；［B］由③句 law schools authorized by the American Bar Association 衍生出“接受专业协会的\n培训”，而文意实为“在美国律师协会许可的法学院学习”；［C］由③句 for the bar exam“参加律考”衍生出\n“经得律师协会的准入许可”，而文意实为“律师资格考试费用高昂（而非准人许可）推高法律教育费用”。\n［技巧总结］借题干隐性因果表达词 adds to 可知本题亦考查因果关联（解题思路同26）。解答步骤如\n下：首先根据题干关键词定位至第三段，尔后搜寻到④句中因果表达词leaves，然后再沿着其前 This（回指\n③句内容）搜索至③句中发现句中实含三个因素（A then B and C），最后将三个因素与选项一一匹配可知\n［D］对应 A。捷径：本题题干中 adds to 意表此题考查“增加的法律教育费用”，因此可先剔除与正常法律教\n育费用挂钩的选项，DJ中 another major 展示了这一深层含义，并对应③句中 unrelated subject。\nN ① Reforming the system would help both lawyers\n改革这个体制对律师及其委托人都有\nand their customers.\n②图 Sensible®ideas have been\n益。切实可行的建议早已存在很长一段时\naround® for a long time, but the state-level bodies®that\n间，但各州行业管理机构太过保守不愿推\ngovern the profession have been too conservative\n10\n行。建议之一是，允许学生在本科阶段就修\nimplement\"them.\n③One idea is to allow people to study\n读法律。另一建议是，让学生在法学院学习\nlaw as an undergraduate degree.\n④\nAnother is to let\n两年后就参加律师资格考试。如果律师资\nstudents sit for the bar after only two years of law\n格考试对一名准律师而言真是一个足够严\nschool. ⑤If the bar exam is truly a stern® enough test for\n格的测试的话，那就应该允许那些有能力提\na would-be lawyer, those who can sit it earlier should be\n前参加考试的人提前参加考试。无需额外\nallowed to do so.\n⑥ Students who do not need the extra\n培训的学生便能将其巨债之山削减三分\ntraining could cut their debt mountain by a third.\n之一。\n•词汇注释与难句分析•\n①sensible ［'sensibal］a. 明智的，合理的，实际的\n①for a long time（一段时间）\n②around［o'raond］ ad.存在着\n②state-level body（州级机构）\n③body ［'bpdi］n. 团体，机构\n③to0 conservative to...（太过保守以至于不能⋯⋯）\n④implement ［'Implmont］v. 实施，落实\n④sit for the bar（参加律师资格考试）\n⑤stern ［st3:n］a. 严厉的，严格的\n⑤a would-be lawyer（想要成为律师的人）\n⑥cut... by a third（将⋯⋯減三分之一）\n• 经典搭配\nSensible ideas have been around for a long time, but the state-level bodies that govern the profession have\nbeen too conservative to implement them.\n分甸1 Sensible ideas have been around\nfor a long time，\n主语\n系动词\n表语\n状语\nthat govern the profession\n定语从句\n分句2\nbut\nthe state-level bodies\nhave been too conservative to implement them.\n连词\n主语\n系动词\n表语\n功能注释：本句由 but 连接的两个并列分句组成，第一个分句的主干力 Sensible ideas have been",
+  "pdf_text_layer": "［精准定位］ 第 三 段③句介绍当前法律教育体制：先要攻读四年非法律专业学土学位，后才可进入\n法学 院 攻 i卖法律，最后还得 花 重金通 过 律 师 资 格考试； ④句 指出这种 教育 体制的 后果 ：给 法学院学生带\n来巨大债务危 机 。 换 言之，③ 句所 言 三 个因 素为本题题干考查 对象，而 I惟有 ［ DJ 切合其中之一 ，故正确 。\n       ［命题解密］ 正确项对应 第 三 段③句中 a four- year und ergrad uat e degree in so me unr巳l ated s ubj ect 。\n       [ A］由④句 und e rg ra duat e d ebts“本 科债 务”捏造出“ 本 科 学费更高” ，而文中并 未对 比本科教 育与法律\n教育费用高低； ［ BJ 由 ③ 句 law schools authorized by the American Bar Association 衍生出“接受专业协会的\n培 训 ”，而文意实为“在美国律师协会许可的法学院学习”； ［ CJ 由③句 for the bar exam “参加 律考” 衍生 H:\\\n“经得律师协会的准入许可”，而文意实为“律师资格考试费用高昂（而非准入许可） 11七 离 法律教 育费 用” 。\n       ［ 技巧总结］ 借题干隐性因果表达词 adds to 可失日 本题亦考查因果关联（解题思路同 26 ） 。 解答步骤如\n下：首先根据题干关键’词 定位至第 气 段，尔后搜 寻 到 ④句 中因果表达词 l eaves ，然 后再沿着其前 Thi s （ 回指\n① 句内容）搜 索’至③ 句中 发 现句中 实含 三 个因 素（ A then Band C） ，最后 将 三 个因 素与 选项 一一 匹配可知｜\n[ DJ 对应 A ， 捷 径： 本题题干仨，习 日dds to 意表 此题考查“增 加的法律教 育费 用” ，因 此可先剔除 与正常法律教\n育费 用 挂钩 的选项 ，［ DJ 中 another maj o r 展示了这一深层含义，并 对 应③句 中 unre l ated subj ect ,\n\n\n      且J OReform ing th e system wou ld he lp both l awy 巳 r s\nand t heir cus tome rs.       ＠ 因 Sensible① id eas have been\n                                                                        益 。 切实可行的建议早已存在很长一段时\naround® for a long time, but th e s tate- leve l bodies® that           间，但各州行业管理机构太过保守不愿推\ngovern th e profess ion have bee n too conservative to                  行 。 建议之一是，允许学生在本科阶段就修\nimplement( t hem. @On e idea is to a llo w peop le to study             读法律 。 另一建议 是， 让学生在法学院学习\nlaw as an und ergradu a te d eg r ee .     。 An ot h e r   is t o let   两年后就 参 加律师资格考试 。 如果律师资\ns tud e nt s 吕 it   for the ba r after only two years of law            格考试对一名准律师而言真是一个足够严\nsc hool. 。 If th e bar exa m is truly a stern( enough test for          格的测试的话，那就应该允许那些有能力提\na wo uld- be lawye r , those who ca n s it it earli er s ho uld be      前参加考试的人提前 参 加考试 。 元需额外\n\na llowed to do so.       0 Students who do not need the extra           培训的学生便能将其巨债之山削减三分\n\ntra ining could cut th eir debt mounta in by a th ird.\n\n\n\n                                            ： ·词汇注窍生难句分析二；： J\n( sensible [ ' se ns1bcil ］ α ．明智的，合理的，实际的                         ( for a long tim e （一 段时间 ）\n( around [ci ' raund］ 叫 ． 存在着                                      ( state level b o dyO,H 级机构）\n( body [' bod1 ] 11. 团体，机构                                         ( too conser va tivE\n( implement [' 1mpl1mcint] v . 实 施， 落实                             ④日 it for the bar （ 参 加律师 资 格考试）\n( stern [st3: n ］ α 严厉的，严格的                                        ®a would-be l awye r （想 要成为律 师的人 ）\n                                                                   ( cut ... by a third （将……削减 三 分之 一 ）\n．经典搭配\n\n      Sensible ideas have been around for a long time, but the state-le刊l bodies that govern the profession have\nbeen too conservative to implement them.\n                    Se 1sible ideas have b巳en around for a long time,\n                        主语          系 29］ 同表语                 状语\n\n                         that gov 巳m th 巳 profession\n                         定语从句\n                         the state-level bodies   have been      too conservative to implement them.\n                    连词          主语                 系动 词                         表语\n      功能注释 ： 本 句由 but 连接的两 个并列分句组成 ，第一 个分句的主干 为 Se n s ib l e ideas ha ve been\n\n                                                                                                           21",
+  "quality": {
+    "vision_line_count": 73,
+    "vision_character_count": 2250,
+    "pdf_text_character_count": 3353,
+    "nonempty": true
+  }
+}

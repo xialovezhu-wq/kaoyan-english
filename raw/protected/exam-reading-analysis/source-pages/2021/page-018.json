@@ -1,0 +1,574 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P018",
+  "year": 2021,
+  "pdf_page": 18,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.016071593872557965,
+      "text": "计划）之间的因果关联，may（可能）虽似将这种强因果关联予以了弱化，却也暗示两者之间的强相关性，",
+      "width": 0.8928571344570387,
+      "x": 0.05882353773471583,
+      "y": 0.9374167777252914
+    },
+    {
+      "confidence": 1,
+      "height": 0.017602498934526034,
+      "text": "同时将语义重点落脚到了 B，预示后文将围绕印尼扶贫计划展开。",
+      "width": 0.5609243756773844,
+      "x": 0.06092437374218995,
+      "y": 0.9171511627793979
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017561855392354442,
+      "text": "【深层解读】本文为典型的观点引出型开篇方式，借由上下义词（has slowed、turnaround） 与显性因",
+      "width": 0.8529411418819244,
+      "x": 0.09663867217878577,
+      "y": 0.89813581903755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016112237414729558,
+      "text": "果逻辑词（One reason）直接为两个看似毫无关联的概念搭建起因果关联，从而引出全文主旨：扶贫计划",
+      "width": 0.8907563020268846,
+      "x": 0.05882352223585748,
+      "y": 0.8793604653510363
+    },
+    {
+      "confidence": 1,
+      "height": 0.014813581255876063,
+      "text": "也许有助于降低森林砍伐率，有利于环境保护。",
+      "width": 0.40336132600817376,
+      "x": 0.06092438304633324,
+      "y": 0.860186418360209
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013340739848293093,
+      "text": "④In 2007, Indonesia started phasing in a program",
+      "width": 0.424369738510808,
+      "x": 0.12815126944207494,
+      "y": 0.8282290277995976
+    },
+    {
+      "confidence": 1,
+      "height": 0.014850354226387918,
+      "text": "2007年，印度尼西亚开始逐步实施一项",
+      "width": 0.3298319263495002,
+      "x": 0.613445379073149,
+      "y": 0.8209054594885343
+    },
+    {
+      "confidence": 1,
+      "height": 0.010302155376591737,
+      "text": "that",
+      "width": 0.04201680663004087,
+      "x": 0.0588235301583689,
+      "y": 0.8109187748654252
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00872673620079234,
+      "text": "gIes",
+      "width": 0.04201680663004087,
+      "x": 0.10504201664296275,
+      "y": 0.8095872170970086
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010180225067545012,
+      "text": "money to",
+      "width": 0.08403361326008174,
+      "x": 0.15546218580693388,
+      "y": 0.8095872169477278
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011633713616829522,
+      "text": "its poorest",
+      "width": 0.11344537753360578,
+      "x": 0.23739495675140448,
+      "y": 0.8095872168833568
+    },
+    {
+      "confidence": 1,
+      "height": 0.010901126023456387,
+      "text": "residents",
+      "width": 0.08421187501881627,
+      "x": 0.3486503664116126,
+      "y": 0.8106831579548524
+    },
+    {
+      "confidence": 1,
+      "height": 0.010302155059123685,
+      "text": "under certain",
+      "width": 0.11974789687434145,
+      "x": 0.43277310839056055,
+      "y": 0.8109187750375445
+    },
+    {
+      "confidence": 1,
+      "height": 0.014707134185872217,
+      "text": "重大计划：在特定条件下向最贫困的居民提",
+      "width": 0.3676470570940963,
+      "x": 0.5777310978972794,
+      "y": 0.8008720934798452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014831000098217029,
+      "text": "conditions, such as requiring people to keep kids in school",
+      "width": 0.4915966114786549,
+      "x": 0.06092438473686298,
+      "y": 0.7889480695275579
+    },
+    {
+      "confidence": 1,
+      "height": 0.016218684484733292,
+      "text": "供资金，比如要求人们让孩子接受教育或接",
+      "width": 0.3697478895242504,
+      "x": 0.5756302546076227,
+      "y": 0.7802929429670405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "or get regular①medical care.",
+      "width": 0.25000000000000006,
+      "x": 0.060924372247899115,
+      "y": 0.7703062581302795
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "② Called conditional®",
+      "width": 0.1848739447621252,
+      "x": 0.3235294172547916,
+      "y": 0.7716378160855775
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "cash",
+      "width": 0.04621848619053126,
+      "x": 0.5063025220307847,
+      "y": 0.7716378162468476
+    },
+    {
+      "confidence": 1,
+      "height": 0.017455407687414493,
+      "text": "受常规医疗保健。这类被称为有条件现金",
+      "width": 0.3676470570940962,
+      "x": 0.5777310954287921,
+      "y": 0.7601744190293979
+    },
+    {
+      "confidence": 1,
+      "height": 0.013404607455359097,
+      "text": "transfers®",
+      "width": 0.08403361326008174,
+      "x": 0.05882353029222803,
+      "y": 0.7529069773802142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01523740821767261,
+      "text": "or CCTs, these social assistance®",
+      "width": 0.283995641219593,
+      "x": 0.1489844124878735,
+      "y": 0.750830815717477
+    },
+    {
+      "confidence": 1,
+      "height": 0.008866085352180142,
+      "text": "programs are",
+      "width": 0.1113445377533605,
+      "x": 0.44117647050171815,
+      "y": 0.751453488449805
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "转移（CCTs）的社会援助计划旨在減少不平",
+      "width": 0.3676470570940962,
+      "x": 0.5756302503395065,
+      "y": 0.7427325584611575
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046595,
+      "text": "designed to reduce inequality®and break the cycle of",
+      "width": 0.493697443908809,
+      "x": 0.060924387446856,
+      "y": 0.7310252998693163
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669478,
+      "text": "等，打破贫困的恶性循环。它们已经在全世",
+      "width": 0.3697478895242504,
+      "x": 0.5756302577588832,
+      "y": 0.7209302325468396
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01627481158341615,
+      "text": "poverty. ⑧ They're",
+      "width": 0.17647058564114432,
+      "x": 0.058823532914721886,
+      "y": 0.7107558142669762
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "already used in dozens of countries",
+      "width": 0.3193277347983653,
+      "x": 0.2331932714663637,
+      "y": 0.7122093027072491
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "界几十个国家得到应用。在印度尼西亚，这",
+      "width": 0.3676470570940962,
+      "x": 0.5756302555916073,
+      "y": 0.7034883725599947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013430454442091566,
+      "text": "worldwide.",
+      "width": 0.0946378836512336,
+      "x": 0.06087433391026068,
+      "y": 0.6916859354911578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "4 In Indonesia, the program has",
+      "width": 0.30882351384686596,
+      "x": 0.16806723982026434,
+      "y": 0.693075898702388
+    },
+    {
+      "confidence": 1,
+      "height": 0.015287353576578955,
+      "text": "provided",
+      "width": 0.07741085780149248,
+      "x": 0.47608876425761215,
+      "y": 0.6912945048650108
+    },
+    {
+      "confidence": 1,
+      "height": 0.014707134185872217,
+      "text": "一扶贫计划提供了充足的食物和药品，大大",
+      "width": 0.3697478895242503,
+      "x": 0.573529411960564,
+      "y": 0.6844207723342826
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014784550698555887,
+      "text": "enough food and medicine to substantially® reduce severe\"",
+      "width": 0.48739494661834654,
+      "x": 0.060924369337885635,
+      "y": 0.6729651165539732
+    },
+    {
+      "confidence": 1,
+      "height": 0.01618191214915754,
+      "text": "减少了儿童严重发育问题的出现。",
+      "width": 0.28781513074459597,
+      "x": 0.5756302521522118,
+      "y": 0.6642441863539432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013356222134931706,
+      "text": "growth problems among children.",
+      "width": 0.2836134364839234,
+      "x": 0.06092437892190368,
+      "y": 0.6537949401590304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014724553028213405,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22268907550672118,
+      "x": 0.373949582120589,
+      "y": 0.6131824233901972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014649072436295985,
+      "text": "①regular ［'regjalo（r）］a.常规的；定期的",
+      "width": 0.3151260405376927,
+      "x": 0.060924377315187205,
+      "y": 0.5885486016710682
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014649072436295763,
+      "text": "⑦severe ［si'via（r）］a. 十分严重的",
+      "width": 0.26260502398128915,
+      "x": 0.5315126159355259,
+      "y": 0.5885486016606862
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013332998070037516,
+      "text": "②conditional ［kon'difonl］a. 附带条件的",
+      "width": 0.3109243756773844,
+      "x": 0.060924369892400194,
+      "y": 0.571220930142807
+    },
+    {
+      "confidence": 1,
+      "height": 0.015167858565694914,
+      "text": "经典搭配",
+      "width": 0.0800688932856154,
+      "x": 0.5566042091110641,
+      "y": 0.5679974659183149
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100348,
+      "text": "③transfer ［'troensf3：（r）］n. 转让；转移",
+      "width": 0.29201679560490434,
+      "x": 0.06092437739262588,
+      "y": 0.5523255818623203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014807775398386402,
+      "text": "①phase in 逐步引入；分阶段开始",
+      "width": 0.2584033591209809,
+      "x": 0.5294117679710222,
+      "y": 0.5505992010345591
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014676167707786014,
+      "text": "④assistance ［o'sistons］n. 帮助；援助；支持",
+      "width": 0.32142856722851937,
+      "x": 0.060924369169353794,
+      "y": 0.5332889481389191
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011984021304926817,
+      "text": "）under... conditions 在•",
+      "width": 0.18277309763178884,
+      "x": 0.5441176559109963,
+      "y": 0.5346205062070375
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "⋯••境况或条件下",
+      "width": 0.12394958378492293,
+      "x": 0.739495794793463,
+      "y": 0.5332889482214587
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "⑤inequality ［uni'kwplati］ n. 不平等",
+      "width": 0.2752100773629425,
+      "x": 0.06092437111744829,
+      "y": 0.5159786953505604
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014759390077959234,
+      "text": "③dozens of 几十；许多",
+      "width": 0.17647058564114426,
+      "x": 0.5294117670533774,
+      "y": 0.5145348839594964
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016222555691329132,
+      "text": "⑥substantially ［sab'steenjali］ad. 非常；大大地",
+      "width": 0.3508403388521345,
+      "x": 0.06092437203926879,
+      "y": 0.49709302375098785
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01657748317591512,
+      "text": "•语篇分析",
+      "width": 0.09893620220911986,
+      "x": 0.42847307437776344,
+      "y": 0.47063567694991904
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016073529793324104,
+      "text": "第二至四段铺垫 CCT扶贫计划与环境保护之间的相关背景信息。",
+      "width": 0.5630252081075385,
+      "x": 0.09873950241681882,
+      "y": 0.44331395379822613
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017637335984271973,
+      "text": "第二段先介绍 CCT 计划的设立初衷及实施效果。关键词：①are designed to； ②has provided enough...。",
+      "width": 0.846638644591462,
+      "x": 0.0987395082890028,
+      "y": 0.4227696405774155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0160522403793234,
+      "text": "①句承上介绍印尼自2007年开始逐步实施的扶贫计划。In 2007、started 明确印尼实施扶贫计划的",
+      "width": 0.8508403094517702,
+      "x": 0.09873951622999708,
+      "y": 0.40545938731712095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014714875964127905,
+      "text": "起始时间。a program that gives money to its poorest residents 明确上段 antipoverty program 的核心内",
+      "width": 0.888655410796002,
+      "x": 0.06092441025325894,
+      "y": 0.3880813958296514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01475745479212942,
+      "text": "涵：为最贫困的居民提供资金；under certain conditions 强调该计划的条件性：目标群体需满足特定条件",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.36750998676747726
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014678102993615938,
+      "text": "方可领取资金；such as...举例说明该计划规定的具体条件，其中 requiring（要求，规定）体现计划规则的",
+      "width": 0.8907563020268846,
+      "x": 0.05882352223585748,
+      "y": 0.3488372096135661
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016247715676989682,
+      "text": "强制性，呼应 conditions（必要前提，先决条件）。",
+      "width": 0.40336132600817376,
+      "x": 0.05882354203792989,
+      "y": 0.3282290282258502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01754830712167299,
+      "text": "②③句铺垫有条件现金转移救助计划（CCT 计划）的设立初衷及应用情况。②句中 are designed to",
+      "width": 0.8550419743120785,
+      "x": 0.09873952559606147,
+      "y": 0.30668604680556066
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016284488647501538,
+      "text": "Aand B 明确其两大目标：减少不平等，打破贫困的恶性循环；social assistance programs 侧面暗示这些扶",
+      "width": 0.8928571344570388,
+      "x": 0.05882354477253074,
+      "y": 0.2889480692875571
+    },
+    {
+      "confidence": 1,
+      "height": 0.016030950330386262,
+      "text": "贫计划的意旨：为贫困人民提供社会性救助（为的是解决贫富不公、贫富差异等社会层面的问题，这对于",
+      "width": 0.8928571344570387,
+      "x": 0.05882352570740511,
+      "y": 0.2703062584767655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01797603195739017,
+      "text": "调整资源分配、实现社会公平、维护社会稳定具有非常重大的作用）。③句中 already、dozens of countries",
+      "width": 0.894957966887193,
+      "x": 0.05882354029589924,
+      "y": 0.2496671105516125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016189653927413117,
+      "text": "worldwide 体现CCT 计划的应用之广，暗示 CCT计划在扶贫上具有一定成效。",
+      "width": 0.6764705709409623,
+      "x": 0.05672268926691409,
+      "y": 0.23235685731433164
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01615288095690126,
+      "text": "④句介绍 CCT 计划在印尼的具体成效。the program 回指①句 a program that gives money to...",
+      "width": 0.8508403094517702,
+      "x": 0.09873951977516504,
+      "y": 0.21220930260273208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016284488647501538,
+      "text": "conditions，即印尼实施的“有条件现金转移”计划（CCT 计划）；has provided enough、substantially reduce、",
+      "width": 0.894957966887193,
+      "x": 0.056722691451361607,
+      "y": 0.19476744235563903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599417799481062,
+      "text": "severe growth problems 凸显印尼 CCT 计划的扶贫力度及扶贫成效。",
+      "width": 0.5924369797311537,
+      "x": 0.05672269252938111,
+      "y": 0.1744186049610169
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "【深层解读】本段通过语义复现（a program that gives... residents、these social assistance programs、",
+      "width": 0.8550419743120785,
+      "x": 0.09663868525992694,
+      "y": 0.15552325619786833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016131591542900448,
+      "text": "They、the program）展开对印尼 CCT 计划的介绍。整段内容与首段“森林砍伐率趋缓”毫无关联，在展现",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.13648468730422203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01621094334141393,
+      "text": "CCT 计划显著成效的同时，预示下文将回归主题，讨论 CCT 扶贫计划对森林砍伐/环保的影响。",
+      "width": 0.8235293702583092,
+      "x": 0.056722701593534604,
+      "y": 0.11627907001915638
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "18",
+      "width": 0.023109243095265644,
+      "x": 0.07352941216035037,
+      "y": 0.06104651149593765
+    }
+  ],
+  "vision_ocr_text": "计划）之间的因果关联，may（可能）虽似将这种强因果关联予以了弱化，却也暗示两者之间的强相关性，\n同时将语义重点落脚到了 B，预示后文将围绕印尼扶贫计划展开。\n【深层解读】本文为典型的观点引出型开篇方式，借由上下义词（has slowed、turnaround） 与显性因\n果逻辑词（One reason）直接为两个看似毫无关联的概念搭建起因果关联，从而引出全文主旨：扶贫计划\n也许有助于降低森林砍伐率，有利于环境保护。\n④In 2007, Indonesia started phasing in a program\n2007年，印度尼西亚开始逐步实施一项\nthat\ngIes\nmoney to\nits poorest\nresidents\nunder certain\n重大计划：在特定条件下向最贫困的居民提\nconditions, such as requiring people to keep kids in school\n供资金，比如要求人们让孩子接受教育或接\nor get regular①medical care.\n② Called conditional®\ncash\n受常规医疗保健。这类被称为有条件现金\ntransfers®\nor CCTs, these social assistance®\nprograms are\n转移（CCTs）的社会援助计划旨在減少不平\ndesigned to reduce inequality®and break the cycle of\n等，打破贫困的恶性循环。它们已经在全世\npoverty. ⑧ They're\nalready used in dozens of countries\n界几十个国家得到应用。在印度尼西亚，这\nworldwide.\n4 In Indonesia, the program has\nprovided\n一扶贫计划提供了充足的食物和药品，大大\nenough food and medicine to substantially® reduce severe\"\n减少了儿童严重发育问题的出现。\ngrowth problems among children.\n•词汇注释与难句分析•\n①regular ［'regjalo（r）］a.常规的；定期的\n⑦severe ［si'via（r）］a. 十分严重的\n②conditional ［kon'difonl］a. 附带条件的\n经典搭配\n③transfer ［'troensf3：（r）］n. 转让；转移\n①phase in 逐步引入；分阶段开始\n④assistance ［o'sistons］n. 帮助；援助；支持\n）under... conditions 在•\n⋯••境况或条件下\n⑤inequality ［uni'kwplati］ n. 不平等\n③dozens of 几十；许多\n⑥substantially ［sab'steenjali］ad. 非常；大大地\n•语篇分析\n第二至四段铺垫 CCT扶贫计划与环境保护之间的相关背景信息。\n第二段先介绍 CCT 计划的设立初衷及实施效果。关键词：①are designed to； ②has provided enough...。\n①句承上介绍印尼自2007年开始逐步实施的扶贫计划。In 2007、started 明确印尼实施扶贫计划的\n起始时间。a program that gives money to its poorest residents 明确上段 antipoverty program 的核心内\n涵：为最贫困的居民提供资金；under certain conditions 强调该计划的条件性：目标群体需满足特定条件\n方可领取资金；such as...举例说明该计划规定的具体条件，其中 requiring（要求，规定）体现计划规则的\n强制性，呼应 conditions（必要前提，先决条件）。\n②③句铺垫有条件现金转移救助计划（CCT 计划）的设立初衷及应用情况。②句中 are designed to\nAand B 明确其两大目标：减少不平等，打破贫困的恶性循环；social assistance programs 侧面暗示这些扶\n贫计划的意旨：为贫困人民提供社会性救助（为的是解决贫富不公、贫富差异等社会层面的问题，这对于\n调整资源分配、实现社会公平、维护社会稳定具有非常重大的作用）。③句中 already、dozens of countries\nworldwide 体现CCT 计划的应用之广，暗示 CCT计划在扶贫上具有一定成效。\n④句介绍 CCT 计划在印尼的具体成效。the program 回指①句 a program that gives money to...\nconditions，即印尼实施的“有条件现金转移”计划（CCT 计划）；has provided enough、substantially reduce、\nsevere growth problems 凸显印尼 CCT 计划的扶贫力度及扶贫成效。\n【深层解读】本段通过语义复现（a program that gives... residents、these social assistance programs、\nThey、the program）展开对印尼 CCT 计划的介绍。整段内容与首段“森林砍伐率趋缓”毫无关联，在展现\nCCT 计划显著成效的同时，预示下文将回归主题，讨论 CCT 扶贫计划对森林砍伐/环保的影响。\n18",
+  "pdf_text_layer": "计划)之间的因果关联，may(可能)虽似将这种强因果关联予以了弱化，却也暗示两者之间的强相关性,\n同时将语义重点落脚到了 B,预示后文将围绕印尼扶贫计划展开。\n      【深层解读】本文为典型的观点引出型开篇方式，借由上下义词(h as slowedturnaround)与显性因\n果逻辑词(One reason)直接为两个看似毫无关联的概念搭建起因果关联，从而引出全文主旨：扶贫计划\n也许有助于降低森林砍伐率，有利于环境保护。\n\n      II ❶ In 2007, Indonesia started phasing in a program\n                                                                2007年，印度尼西亚开始逐步实施一项\nthat gives money to its poorest residents under certain\n                                                              重大计划：在特定条件下向最贫困的居民提\nconditions, such as requiring people to keep kids in school\n                                                              供资金，比如要求人们让孩子接受教育或接\nor get regular1 medical care・ ❷ Called conditional\" cash\n                                                              受常规医疗保健。这类被称为有条件现金\ntransfers \" or CCTs, these social assistance^ programs are\n                                                              转移(CCls)的社会援助计划旨在减少不平\ndesigned to reduce inequality® and break the cycle of\n                                                              等，打破贫困的恶性循环。它们已经在全世\npoverty. ❸ They're already used in dozens of countries\n                                                              界几十个国家得到应用。在印度尼西亚，这\nworldwide. ❹ In Indonesia, the program has provided\n                                                              一扶贫计划提供了充足的食物和药品，大大\nenough food and medicine to substantially' reduce severe\n                                                              减少了儿童严重发育问题的出现。\ngrowth problems among children.\n\n                                    ；•词汇注释与难句分祈也\n\n① regular [^egjalaCr)] a.常规的；定期的                     》⑦severe [s^viaCr)] a.十分严重的\n② conditional [kondjonl] a.附带条件的                    *    •经典搭配\n③ transfer |?traensf3：(r)]几转让；转移                     j ①phase in逐步引入；分阶段开始\n④ assistance [Rsistons] n.帮助；援助；支持                  f ②under. . . conditions在....境况或条件下\n⑤ inequality [iim'kwnlat订 m 不平等                     J ③do zens of几十；许多\n©substantially Qsab^tsenfali] ad.非常；大大地              《\n\n                                           :•语篇分析\n\n      第二至四段铺垫CCT扶贫计划与环境保护之间的相关背景信息。\n  第二段先介绍CCT计划的设立初衷及实施效果。关键词：①are designed to:②has provided enough.°\n  句承上介绍印尼自 2007年开始逐步实施的扶贫计划。In 2007.started明确印尼实施扶贫计划的\n  ①\n起始时间。a program that gives money to its poorest residents 明确上段 antipoverty program 的核心内\n涵：为最贫困的居民提供资金;under certain conditions强调该计划的条件性：目标群体需满足特定条件\n方可领取资金；such as...举例说明该计划规定的具体条件，其中requiring(要求，规定)体现计划规则的\n强制性，呼应conditionsC必要前提，先决条件)。\n    ②③句铺垫有条件现金转移救助计划(CCT计划)的设立初衷及应用情况。②句中are designed to\nA and B明确其两大目标：减少不平等，打破贫困的恶性循环;social assistance programs侧面暗示这些扶\n贫计划的意旨：为贫困人民提供社会性救助(为的是解决贫富不公、贫富差异等社会层面的问题，这对于\n调整资源分配、实现社会公平、维护社会稳定具有非常重大的作用)。③句中already、dozens of countries\nworldwide体现CCT计划的应用之广，暗示CCT计划在扶贫上具有一定成效。\n      句介绍\n      ④        CCT计划在印尼的具体成效。the program回指①句a program that gives money to...\nconditions,即印尼实施的\"有条件现金转移\"计划(CCT 计划)；has provided enoughAsubstantially reduce、\nsevere growth problems凸显印尼CCT计划的扶贫力度及扶贫成效。\n      【深层解读】本段通过语义复现(a program that gives. . . residents、these social assistance programs,\nThey.the program)展开对印尼CCT计划的介绍。整段内容与首段“森林砍伐率趋缓”毫无关联，在展现\nCCT计划显著成效的同时，预示下文将回归主题，讨论CCT扶贫计划对森林砍伐/环保的影响。\n\n\n\n 18",
+  "quality": {
+    "vision_line_count": 69,
+    "vision_character_count": 2302,
+    "pdf_text_character_count": 3107,
+    "nonempty": true
+  }
+}

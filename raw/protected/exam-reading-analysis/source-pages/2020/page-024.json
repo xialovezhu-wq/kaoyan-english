@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P024",
+  "year": 2020,
+  "pdf_page": 24,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017441859578783192,
+      "text": "解决根本问题，出版商依然牢坐食物链顶端，坐收渔翁之利，甚至反而更加大了科研者的外在负担，必须",
+      "width": 0.8874734622707088,
+      "x": 0.0530785480932374,
+      "y": 0.9040697678123526
+    },
+    {
+      "confidence": 1,
+      "height": 0.016058339734818072,
+      "text": "为发表论文支付越来越高的费用。",
+      "width": 0.2929936341872095,
+      "x": 0.055201699148433446,
+      "y": 0.8851044507130976
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01877188790829809,
+      "text": "•真题精解•",
+      "width": 0.11718291020488358,
+      "x": 0.4223002661004692,
+      "y": 0.8583466142747058
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013200208558265314,
+      "text": "29. It can be learned from Paragraphs 5 and 6 that",
+      "width": 0.437367270825552,
+      "x": 0.06794057569833485,
+      "y": 0.8328488376143517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125436,
+      "text": "29.从第五、六段可推知，开放获取条款，",
+      "width": 0.3460721728969538,
+      "x": 0.520169862675727,
+      "y": 0.8197093548255887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "open access terms",
+      "width": 0.14649680696160672,
+      "x": 0.06794055437482303,
+      "y": 0.8124432333814409
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013225291665308503,
+      "text": "［A］ allow publishers some room to make money",
+      "width": 0.4118895916983109,
+      "x": 0.06794056133414227,
+      "y": 0.7920072661660763
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014587689918566515,
+      "text": "［A］给予了出版机构一些获利空间",
+      "width": 0.30148619389628983,
+      "x": 0.5201698561038721,
+      "y": 0.790644868213067
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013169845594913743,
+      "text": "［B］ render publishing much easier for scientists",
+      "width": 0.4055201719165007,
+      "x": 0.06794055503962644,
+      "y": 0.7688465030714534
+    },
+    {
+      "confidence": 1,
+      "height": 0.014583729701514225,
+      "text": "［B］使论文发表对科学家来说更容易",
+      "width": 0.3205944735057167,
+      "x": 0.5201698566919399,
+      "y": 0.7688465029577356
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01603193655542423,
+      "text": "［C］ reduce the cost of publication substantially",
+      "width": 0.4012738920619605,
+      "x": 0.06581740891859511,
+      "y": 0.7441860468189205
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014669538735260668,
+      "text": "LC］大幅降低了发表的费用",
+      "width": 0.2399150752134689,
+      "x": 0.5201698526419765,
+      "y": 0.7441860466752601
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394684087422,
+      "text": "LD］ free universities from financial burdens",
+      "width": 0.37154989255218707,
+      "x": 0.06794055885483333,
+      "y": 0.7223837212868323
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014756669573736225,
+      "text": "［D］解除了大学的财政负担",
+      "width": 0.2420382151407392,
+      "x": 0.5201698541069127,
+      "y": 0.7207084466974323
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859578783192,
+      "text": "［精准定位］第五、六段围绕“开放出版条款”展开论述，其中第五段③句指出“选择开放获取出版”需",
+      "width": 0.8471337631245849,
+      "x": 0.09554140474343988,
+      "y": 0.694767442365924
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014748748273442525,
+      "text": "遵循的方式之二——付费一年或更久，之后转为免费获取（paywalled for a year or more），并指出这种模",
+      "width": 0.8853502818154466,
+      "x": 0.0573248527683459,
+      "y": 0.6771117166999685
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018934355553012816,
+      "text": "式使出版机构有一些时间进行盈利（so that the publishers can make a profit）。因此［A］正确。",
+      "width": 0.8027536663242861,
+      "x": 0.05723322264425522,
+      "y": 0.6569376098735005
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019073569482288777,
+      "text": "［命题解密］本题为事实细节题，“题干＋正确项”是对第五段③句 paywalled for a year... general",
+      "width": 0.8535031423784031,
+      "x": 0.09341827307831452,
+      "y": 0.6380563128541437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016100584648610528,
+      "text": "release的同义改写。",
+      "width": 0.1762207963393821,
+      "x": 0.057324848194427805,
+      "y": 0.6176203453039079
+    },
+    {
+      "confidence": 1,
+      "height": 0.016058339734818183,
+      "text": "［B］、［C］反向曲解第六段②至④句“开放获取出版向科学文献的作者（即科学家）收取高昂的论文准",
+      "width": 0.8471337631245849,
+      "x": 0.09766454800246323,
+      "y": 0.5988372096247587
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859578783192,
+      "text": "备费用，且一直在快速持续增加”，［D］反向曲解第六段①句“开放获取出版对于大学而言并未便宜分毫”。",
+      "width": 0.8768577221063661,
+      "x": 0.05944800546486347,
+      "y": 0.5784883725361898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01926648194523528,
+      "text": "［技巧总结］从选项［B］、［C］、［D］含有明确的方向性（much easier for...、 reduce the cost, free",
+      "width": 0.851528294374585,
+      "x": 0.0954676550738068,
+      "y": 0.559478038531823
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185957878308,
+      "text": "universities from...表明作者认可其价值）可知，本题考查对细节信息的理解之外，还考查作者态度，因",
+      "width": 0.8853502818154465,
+      "x": 0.057324867563614226,
+      "y": 0.5406976746873526
+    },
+    {
+      "confidence": 1,
+      "height": 0.017445820662024603,
+      "text": "此除定位确定答案之外，还应该思考作者对于“开放式获取条款/模式”的看法，而两段中 so that...can",
+      "width": 0.8874734622707089,
+      "x": 0.05944799111517622,
+      "y": 0.5217983649413205
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019073569482288888,
+      "text": "make a profit,not...any cheaper、rising at a rate above...均传达作者不满“盈利反而成了主要任务、费用",
+      "width": 0.8853502818154465,
+      "x": 0.059448010196310595,
+      "y": 0.4999999998309471
+    },
+    {
+      "confidence": 1,
+      "height": 0.019391466118226175,
+      "text": "一点没降，还越来越高”，可知只有［A］正确体现作者态度：开放获取模式实质上还是出版商的盈利工具。",
+      "width": 0.8685085504336819,
+      "x": 0.059384747615866894,
+      "y": 0.48107459471281
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017294020137388455,
+      "text": "VI ① In some ways the scientific publishing model",
+      "width": 0.47160462965844957,
+      "x": 0.10177221782543218,
+      "y": 0.4510370752438315
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606890117981352,
+      "text": "在某种程度上，科学出版模式与社",
+      "width": 0.3036093338235599,
+      "x": 0.6348195332739951,
+      "y": 0.44323342433956536
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017451100951427767,
+      "text": "resembles\" the economy of the social internet: labour is provided",
+      "width": 0.5159235697185217,
+      "x": 0.057324834185325156,
+      "y": 0.43168604686758516
+    },
+    {
+      "confidence": 1,
+      "height": 0.016348773841961872,
+      "text": "交网络经济相似；人们无偿提供劳动，以",
+      "width": 0.3418258930424136,
+      "x": 0.5966029765998123,
+      "y": 0.4227974567982383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019500645802954297,
+      "text": "free in exchange for the hope of status, while huge profits are",
+      "width": 0.5142515874003983,
+      "x": 0.059214112512994216,
+      "y": 0.41060628984079894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600289323132864,
+      "text": "期换取社会地位，而赚取巨额利润的却",
+      "width": 0.3460721728969538,
+      "x": 0.5944798414443043,
+      "y": 0.4040697677945746
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016095304359207363,
+      "text": "made by a few big firms who run® the market places. @In both",
+      "width": 0.5138003892632594,
+      "x": 0.059448000980542925,
+      "y": 0.3953488377376464
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016057019662467198,
+      "text": "cases®， we need a rebalancing of power. ［447 words］",
+      "width": 0.4267515711892015,
+      "x": 0.059447989219624395,
+      "y": 0.37783832911272563
+    },
+    {
+      "confidence": 1,
+      "height": 0.016058339734818072,
+      "text": "是控制市场的少数大公司。对于这两种",
+      "width": 0.3460721728969538,
+      "x": 0.5944798414443043,
+      "y": 0.3851044507918282
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600949445927169,
+      "text": "情况，我们都需要让权力重新得到平衡。",
+      "width": 0.3418258930424136,
+      "x": 0.5944798376436905,
+      "y": 0.3677325584135185
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020348837330165903,
+      "text": "•词汇注释与难句分析•>",
+      "width": 0.2632696346774361,
+      "x": 0.37154989384316456,
+      "y": 0.3226744184957697
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014680100180256117,
+      "text": "①resemble ［ri'zembl］ 、与⋯ 相似",
+      "width": 0.28662419414140317,
+      "x": 0.059447990721230415,
+      "y": 0.29927338816940074
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016730288610363075,
+      "text": "• 经典搭配",
+      "width": 0.1085097374985734,
+      "x": 0.5243013956020369,
+      "y": 0.29759415810049783
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014571848184168124,
+      "text": "②run ［rAn］v.经营，控制",
+      "width": 0.20382165592188536,
+      "x": 0.05944798472483224,
+      "y": 0.2819767440849362
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014754029429034698,
+      "text": "①in exchange for（作为交换）",
+      "width": 0.22505307545858233,
+      "x": 0.5265392794256982,
+      "y": 0.27906976737708744
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0187819668859055,
+      "text": "③ case ［keis］ n.具体情况，事例",
+      "width": 0.24696799958369647,
+      "x": 0.05912953681046455,
+      "y": 0.2638801170937952
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019477605170060253,
+      "text": "语篇分析。",
+      "width": 0.10683406713316013,
+      "x": 0.43702882703988644,
+      "y": 0.23735422043854826
+    },
+    {
+      "confidence": 1,
+      "height": 0.02232024411955924,
+      "text": "第七段总结全文，针对问题摆明观点：科学出版业本质上是垄断性质，必须整改以打破垄断局面。",
+      "width": 0.851712210403179,
+      "x": 0.09750252613472603,
+      "y": 0.2094038999833312
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019988670660949115,
+      "text": "关键词为：①labour is provided free； ②need a rebalancing of power。",
+      "width": 0.565166296078706,
+      "x": 0.057143123979577874,
+      "y": 0.19293982490271566
+    },
+    {
+      "confidence": 1,
+      "height": 0.021641988520401445,
+      "text": "①句回到科学出版业本身，指出其根本问题：少数出版巨头垄断行业。resembles 引出类比，以众所",
+      "width": 0.8475258309211073,
+      "x": 0.09746082719383994,
+      "y": 0.17176918625670723
+    },
+    {
+      "confidence": 1,
+      "height": 0.021759343298860978,
+      "text": "皆知的“社交网络经济模式”揭示出版业的相同实质：互联网巨头垄断下，人们为满足网络社交需求，甘",
+      "width": 0.8856614557395418,
+      "x": 0.05927254317244237,
+      "y": 0.1516579335219057
+    },
+    {
+      "confidence": 1,
+      "height": 0.02050048107455582,
+      "text": "愿暴露自身隐私（即：无偿提供隐私数据），而垄断者借此赚取巨额利润；同理，科学出版也是借“自身垄",
+      "width": 0.885593287656665,
+      "x": 0.05931724201911623,
+      "y": 0.13258431680955973
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.022841920428228413,
+      "text": "断态势、科研者需要获得地位”，从而利用他们的无偿劳动盈利。free in exchange for.. while huge",
+      "width": 0.8878496430942896,
+      "x": 0.05925083612068021,
+      "y": 0.11140512572649841
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019073569482288888,
+      "text": "profits are made by a few big firms who run the market places 回应前文“一方无偿供货，一方坐收暴利”，",
+      "width": 0.8874734622707088,
+      "x": 0.05944798967143944,
+      "y": 0.09445958190137804
+    },
+    {
+      "confidence": 1,
+      "height": 0.019679797984165748,
+      "text": "进一步明确揭示根本原因：少数出版巨头垄断整个行业，导致权力失衡。",
+      "width": 0.6118498418435633,
+      "x": 0.05926900564785314,
+      "y": 0.07695771470305246
+    },
+    {
+      "confidence": 1,
+      "height": 0.013169845594913743,
+      "text": "24",
+      "width": 0.02547770699023566,
+      "x": 0.07218683678089066,
+      "y": 0.050862852055660435
+    }
+  ],
+  "vision_ocr_text": "解决根本问题，出版商依然牢坐食物链顶端，坐收渔翁之利，甚至反而更加大了科研者的外在负担，必须\n为发表论文支付越来越高的费用。\n•真题精解•\n29. It can be learned from Paragraphs 5 and 6 that\n29.从第五、六段可推知，开放获取条款，\nopen access terms\n［A］ allow publishers some room to make money\n［A］给予了出版机构一些获利空间\n［B］ render publishing much easier for scientists\n［B］使论文发表对科学家来说更容易\n［C］ reduce the cost of publication substantially\nLC］大幅降低了发表的费用\nLD］ free universities from financial burdens\n［D］解除了大学的财政负担\n［精准定位］第五、六段围绕“开放出版条款”展开论述，其中第五段③句指出“选择开放获取出版”需\n遵循的方式之二——付费一年或更久，之后转为免费获取（paywalled for a year or more），并指出这种模\n式使出版机构有一些时间进行盈利（so that the publishers can make a profit）。因此［A］正确。\n［命题解密］本题为事实细节题，“题干＋正确项”是对第五段③句 paywalled for a year... general\nrelease的同义改写。\n［B］、［C］反向曲解第六段②至④句“开放获取出版向科学文献的作者（即科学家）收取高昂的论文准\n备费用，且一直在快速持续增加”，［D］反向曲解第六段①句“开放获取出版对于大学而言并未便宜分毫”。\n［技巧总结］从选项［B］、［C］、［D］含有明确的方向性（much easier for...、 reduce the cost, free\nuniversities from...表明作者认可其价值）可知，本题考查对细节信息的理解之外，还考查作者态度，因\n此除定位确定答案之外，还应该思考作者对于“开放式获取条款/模式”的看法，而两段中 so that...can\nmake a profit,not...any cheaper、rising at a rate above...均传达作者不满“盈利反而成了主要任务、费用\n一点没降，还越来越高”，可知只有［A］正确体现作者态度：开放获取模式实质上还是出版商的盈利工具。\nVI ① In some ways the scientific publishing model\n在某种程度上，科学出版模式与社\nresembles\" the economy of the social internet: labour is provided\n交网络经济相似；人们无偿提供劳动，以\nfree in exchange for the hope of status, while huge profits are\n期换取社会地位，而赚取巨额利润的却\nmade by a few big firms who run® the market places. @In both\ncases®， we need a rebalancing of power. ［447 words］\n是控制市场的少数大公司。对于这两种\n情况，我们都需要让权力重新得到平衡。\n•词汇注释与难句分析•>\n①resemble ［ri'zembl］ 、与⋯ 相似\n• 经典搭配\n②run ［rAn］v.经营，控制\n①in exchange for（作为交换）\n③ case ［keis］ n.具体情况，事例\n语篇分析。\n第七段总结全文，针对问题摆明观点：科学出版业本质上是垄断性质，必须整改以打破垄断局面。\n关键词为：①labour is provided free； ②need a rebalancing of power。\n①句回到科学出版业本身，指出其根本问题：少数出版巨头垄断行业。resembles 引出类比，以众所\n皆知的“社交网络经济模式”揭示出版业的相同实质：互联网巨头垄断下，人们为满足网络社交需求，甘\n愿暴露自身隐私（即：无偿提供隐私数据），而垄断者借此赚取巨额利润；同理，科学出版也是借“自身垄\n断态势、科研者需要获得地位”，从而利用他们的无偿劳动盈利。free in exchange for.. while huge\nprofits are made by a few big firms who run the market places 回应前文“一方无偿供货，一方坐收暴利”，\n进一步明确揭示根本原因：少数出版巨头垄断整个行业，导致权力失衡。\n24",
+  "pdf_text_layer": "1ff lk: ~      * raJ ,m , lli xiriffi\"*~*~it trrn Yffll , t& ii~ z*1J , ~~ii mi1!:no *7 ~HiJf 09 5'~ :t£ fA m,&,\n                                                                                    ~                       ~                                                                                           ;f                                         @'i\n,i ~*~x~ M~*~f.b t¥J ~                                                    m     o\n                                                                                                      ................. .. .... . ',J\n                                                                                                     !:.~..~.~~~..• i.\n  29. It can be learned from Paragraphs S and 6 that\n                                                                                                                                    29. M. ~1i ,7'~iifjl~ ,3f:tt~~~~\n  open access terms                                           .                                                                                                                                                                                     0\n\n\n\n  [A] allow publishers some room to make money                                                                                       [ A] ~-r T tl:L!Ui tfL ¥41 - ~ ~ l!J ~ faJ\n  [BJ render publishing much easier for scientists                                                                                   [BJ ~ieX~~.Xt~~~*i#.£~~\n  [CJ reduce the cost of publication substan tially                                                                                  [CJ -:k.$1~f~T~:1k09~ffl\n  [DJ free universities from financial burdens                                                                                       [DJ -~7-j(~~!M~fAt§\n      [~$lEUi] ffili ,-Affl:fll~\"3f$:. lli ll&*~\" ~*ie~ ,;Jti:f=tffiliffl:®1iJffi 1:11 \"Ji\\1~7f$:.fJtltRili JI&\"~\nilW~1J~z.=--f-rJ1-~~J!R ,Z.Fo~'-1~:ti!~ltt ( paywalled for a year or more) ,.#-ffi W~#ffi\n~-Ol! lli Jt&tfl.tt;J;ff-Ji:1:jatfaJJlt1iMf..flJ(so that the pub lishers can make a profit). 1251Jlt[A].iE-iif@.\n      [ $a:-~] -*.11'1 $~~it I! ,\"~ T + .iE fdil :rJl \"¾ ;{ij ~ .li .@:@'AJ paywalled for a year.. . general\nrelease ~ liiJ 5(.Pi~ o\n       [BJ ,[ C]li rtJ al!•ffl-A~®~©ltiJ\":ffn!J.~!Ikttl Jt& rtJ ~~X~B9fF~< llP~~~) t&Jflt iffi ~ 09~X rf£\n-a- :m m,13.-1r:t£11c 3m ~~it :bo\" ; [DJ & inJ !HJ•ffi-A S: <D ltiJ :t&~ ltt wJt&xif r ~ rro ;;-.#- 1i! ~ 5t ~\" o                            \"*                                             *                        *\n       [ ~15 ,~-~] M. ~ JJ! [ BJ, [CJ, [DJ~ ;ff f!Jl lifu tf(J 1f laJ tt ( much easier for ... , reduce the cost, free\nuniversities from .. . ~ l!fifF=ff1A ilJJt,ffl-ffi) iiJ ~, *mI~~;{ijffili, fa,@- ~l.tiff Z?~, lE ~~fF~~ll , ~\nJlt~~fQrife~~~Z?~ ,iEEtr~~~fF* ~r-=f\":ff:fitj.\\~Jflt*'\"lt/fflj.\\\"09#~, im~.@: ~ so that... can\nmake a profit,not.. . any cheaper ,rising at a rate above. . . ±'91~:izsfF;ff~~\"~*1Jliim.lt7=E~1:r~,Jtffl\n-/4\\N:~ ,iE~*~~,,, iiJffl R~[A]IEr'81*$,f'F;ff$Jl: : :ff:l&fJt~fflj.\\~J.lJ:~~ 1:11 Jt&iftj~~*1JIA-o\n..........................................................................,. ... . .. .. ....... .. ... .. .. .. .. .... .... ...... .. ..... . ... .. . ·.· ... . .. .. . . . ........ . .............................................................. .\n            W O In some ways the scientific publishing model\n                                                                                                                                                                                ~~ # ;f!A.J:,#~ tb Jt&.:fli(.~ ~.f.\nresembles<D the eoonomy of the social internet : labour is provided\n                                                                                                                                                                        ~ ~ ~ ~ >if- ;ffl 1~ , A 1n Jt, ~ :tit.'* ;, #; , ~~\nfree in exchange for the hope of status, while huge profits are\nmade by a few big firms who run<'JJ the market places. 49 In both\n                                                                                                                                                                                  *\n                                                                                                                                                                       '13 ~ ~ ;#J:. ;I!!. -{9:. ' if, • ~ e. .. ,f1 )Jl) ~ jp\ncases~ , we need a rebalancing of power. [ 447 words]                                                                                                                   ~-~ ·-~ ~ -*~~ o ~~~~#\n                                                                                                                                                                      fJlt Q{. ~ {fl • f; -l--il. ~ :h :t: flj- ~, j!J -t .ftr                       0\n\n........................................................ . .................................................................................................................... .... ....   . ··········-·· .......... ·······+····· ..\n                                                                                       .-.····~···;·····························- ····, ,,J\n                                                                                       :.. ~..~ }~.j$.~.~~1:iJ.~~!f..~..:11J;.\n                                                                                                                              i • ~~mnc.\n<D resemble [r1 1zembl] v.\n(2)run [rAn] v. ~ff, ~$1J\n<ID case [keis] n. A~1f~ ,.,&!J\n                                                         \"9 ...... ffi,(tt\n                                                                                                                             I        (!) in exchange for( f!< 1;/ :It lf!)\n\n\n                                                                                                      :·.: :~j-~:~:- ii\n      ~ -t:fi: ,gtg:t:x, ttl-tfaJ lll ~ Mjj!,?i. : M$ W~)JI! *li.l: ~ tl ffitt IJ:, ~ ffi fi ~ t t tT~ ~ lffi ~ iti o\n~ - ~ '1 : © labour is provided free;~need a rebalancin~ of power                                                                                              0\n\n\n     <D fil lID itJ'4$ Wlti~*A , ffi W}tm* 1iiJ Ill : 1\" ft W.Iii e ~ ~ frfi ~ o resembles i31 tii ~ tt, ~ f);.Eff\n~;-.n ~\"t±~jij]~~tlf#l~\"ffl7J' wJt&~agfflfal~.mi =s~ jij] e~~Wrr ,Afn 1-JtA .@.~ ~tt~~~, 1t\nl!AJ& § ~~~<eP :x~•fitll~flffl) , ffiilf *i-#ffi.iltJl!Jil.etm~J~JJ, fiiJJ.!I! ,~~ tf:l Jt&-tti:.1!11\" § ~~\nWT~~ , ~if~ 11 ~ ~ ~f J& fft\" , ~ ffii *1J ffl -ftB frJ 89 x-ffi ~ ~ ~ *1J. free in exchange for. . . , while huge\nprofits are made by a few big firms who run the market places !El.llilllirX\"-11~~~~ ,--Jj~®:fl.f!J\",\n                                             *\nm:- tt- f!ll fde ta l.J\\ m ffi ~ =1>Jx mJt& e: ~ ~ $r •-t-tr ~ , ~It~ .:h ~ if o\n    24",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 2008,
+    "pdf_text_character_count": 6928,
+    "nonempty": true
+  }
+}

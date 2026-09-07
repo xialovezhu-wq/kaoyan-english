@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P024",
+  "year": 2013,
+  "pdf_page": 24,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.011946687499163389,
+      "text": "VI",
+      "width": 0.021276596171450196,
+      "x": 0.11063829787172169,
+      "y": 0.906657963721883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013252170527884077,
+      "text": "① It is not yet clear how advertisers will",
+      "width": 0.3893617006378466,
+      "x": 0.14680850965448103,
+      "y": 0.9053524802831907
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "广告商将做何反应尚不清楚。收到 DNT",
+      "width": 0.3468084973541318,
+      "x": 0.6000000079009482,
+      "y": 0.8981723236265546
+    },
+    {
+      "confidence": 1,
+      "height": 0.013138320365089107,
+      "text": "respond.",
+      "width": 0.0723404237006864,
+      "x": 0.07234042715674897,
+      "y": 0.885117493618224
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "②國 Getting a DNT signal does not oblige®",
+      "width": 0.3872340185920321,
+      "x": 0.146808516164977,
+      "y": 0.8851174935975665
+    },
+    {
+      "confidence": 1,
+      "height": 0.014652528588516622,
+      "text": "信号并不责成企业必须停止追踪，尽管有些企",
+      "width": 0.387234047767537,
+      "x": 0.5574468026765153,
+      "y": 0.87924281980435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111755057352292,
+      "text": "anyone to stop tracking, although some companies have",
+      "width": 0.46382978450271867,
+      "x": 0.07234043153587462,
+      "y": 0.8648255816562218
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "业承诺会停止追踪。由于无法分辨用户是真",
+      "width": 0.38510636572172263,
+      "x": 0.5595744763767273,
+      "y": 0.8575581392858328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013225605220147263,
+      "text": "promised to do so. 3 Unable to tell whether someone",
+      "width": 0.46382978450271867,
+      "x": 0.07234043153587462,
+      "y": 0.8444767444469194
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883026043333,
+      "text": "的反对行为广告还是坚持微软浏览器的默认",
+      "width": 0.387234047767537,
+      "x": 0.5595744687048839,
+      "y": 0.8386627911177923
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011885967329339109,
+      "text": "really objects to behavioural ads or whether they are",
+      "width": 0.46595743737302825,
+      "x": 0.07234043801561336,
+      "y": 0.8255813954262404
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "设置，一些企业可能还是会忽略 DNT 信号而",
+      "width": 0.38510636572172263,
+      "x": 0.5595744738412664,
+      "y": 0.8165796345220204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013305300520854546,
+      "text": "sticking with Microsoft's default, some may ignore a",
+      "width": 0.46382978450271867,
+      "x": 0.0723404260465131,
+      "y": 0.8052325584912509
+    },
+    {
+      "confidence": 1,
+      "height": 0.014785761621539883,
+      "text": "继续追踪。",
+      "width": 0.08944861154939199,
+      "x": 0.5595310141190605,
+      "y": 0.7963861889788049
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013221810442971771,
+      "text": "DNT signal and press on anyway.",
+      "width": 0.28510635988662164,
+      "x": 0.07234044182973869,
+      "y": 0.7832898172515816
+    },
+    {
+      "confidence": 1,
+      "height": 0.01459560381837055,
+      "text": "词汇注释与难句分析。",
+      "width": 0.20212764995275906,
+      "x": 0.397872347257663,
+      "y": 0.7441253261248837
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464873381134113,
+      "text": "①oblige ［o'blards］v.迫使；强制",
+      "width": 0.25106382643515474,
+      "x": 0.07021276946327364,
+      "y": 0.715116279271862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883026043444,
+      "text": "①oblige sb to do sth（迫使某人做某事）",
+      "width": 0.30425532324592197,
+      "x": 0.5361702134568263,
+      "y": 0.7165697679709899
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014676958089086423,
+      "text": "• 经典搭配",
+      "width": 0.10642446660174923,
+      "x": 0.06806436184062384,
+      "y": 0.6903359394397894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013161090273147491,
+      "text": "②object to（反对）",
+      "width": 0.1382978742026918,
+      "x": 0.536170210682342,
+      "y": 0.6976744187322876
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126935411059915,
+      "text": "③press on（坚定地继续）",
+      "width": 0.19148935642570653,
+      "x": 0.536170217797785,
+      "y": 0.6787790700101461
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013267350881591478,
+      "text": "Unable to tell whether someone really objects to behavioral ads or whether they are sticking with",
+      "width": 0.8425531624380078,
+      "x": 0.11063829835546454,
+      "y": 0.6453488373248264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014686683450604088,
+      "text": "Microsoft's default, some may ignore a DNT signal and press on anyway.",
+      "width": 0.5999999766595961,
+      "x": 0.0723404298262306,
+      "y": 0.6250000005896916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014743672961043397,
+      "text": "句子的主干：",
+      "width": 0.11282334774447673,
+      "x": 0.11060960413321975,
+      "y": 0.6001863030880885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "Asome may ignore a DNT signal and press on anyway.",
+      "width": 0.4680850902433378,
+      "x": 0.2212766096655651,
+      "y": 0.5985639684404702
+    },
+    {
+      "confidence": 1,
+      "height": 0.013104165503001308,
+      "text": "主语",
+      "width": 0.04042553217871467,
+      "x": 0.23829787180425968,
+      "y": 0.5828488373248264
+    },
+    {
+      "confidence": 1,
+      "height": 0.013104164880498592,
+      "text": "谓语1",
+      "width": 0.05106382935270526,
+      "x": 0.3638297878768389,
+      "y": 0.5828488374580629
+    },
+    {
+      "confidence": 1,
+      "height": 0.013104164880498592,
+      "text": "谓语2",
+      "width": 0.05106382935270526,
+      "x": 0.5893617028555622,
+      "y": 0.5828488374411056
+    },
+    {
+      "confidence": 1,
+      "height": 0.015013054830287142,
+      "text": "原因状语",
+      "width": 0.07872340419324358,
+      "x": 0.24680851073316545,
+      "y": 0.5593994776626012
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652333,
+      "text": "Unable to tell whether someone really objects to bchavioral ads or whether",
+      "width": 0.599999976659596,
+      "x": 0.17872341601062755,
+      "y": 0.5377906973987203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860378255347,
+      "text": "they are sticking with Microsoft's default，",
+      "width": 0.34042550956769835,
+      "x": 0.17659575159912966,
+      "y": 0.5174418604722095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "功能注释：句首的形容词短语做原因状语，unable 前实则省略了现在分词 being；不定式to tell 的宾",
+      "width": 0.8404255095676983,
+      "x": 0.110638314045938,
+      "y": 0.49543080941331574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018982633909419677,
+      "text": "语为whether...or whether引导的并列的宾语从句，tell 这里指“辨别出，分辨出⋯⋯•”。本句整体说明",
+      "width": 0.8787233779352892,
+      "x": 0.07234044589937658,
+      "y": 0.4738372097411928
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "部分广告商（some = some companies）对微软 DNT 默认项（Microsoft’s default）可能性反应：无视，继续",
+      "width": 0.8787233779352892,
+      "x": 0.0723404441839511,
+      "y": 0.45494186043106044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01624290252167626,
+      "text": "追踪（ignore...press on anyway）。",
+      "width": 0.2896567758593003,
+      "x": 0.07221253255176571,
+      "y": 0.43454213995092295
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016190990766719482,
+      "text": "• 语篇分析，",
+      "width": 0.11495379416938045,
+      "x": 0.4318848061921764,
+      "y": 0.40832892329193893
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "第六段分析行为反应。关键词为：①not yet clear；②may ignore。",
+      "width": 0.5425531741082098,
+      "x": 0.10851064020653353,
+      "y": 0.38054830273069606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762402088772841,
+      "text": "①句指出广告商的行为反应：将如何应对目前尚且未知。句中 yet 用于谈论尚未发生但可能发生的",
+      "width": 0.8425531624380079,
+      "x": 0.10851064229163458,
+      "y": 0.35900783313689455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "事情，暗表广告商会对微软事件做出反应（will），只是目前还尚未做出明确反应（not yet clear）。",
+      "width": 0.8021276412001075,
+      "x": 0.07234042678292514,
+      "y": 0.3400783288520708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "②③句推测广告商有可能出现的行为反应：无视 DNT 信号而继续追踪。",
+      "width": 0.6085106464918439,
+      "x": 0.1085106402859928,
+      "y": 0.3197674417591855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017756846181406383,
+      "text": "②句退而介绍广告商对 DNT选项信号的反应：承诺，但却不一定照做。oblige“因形势、法律、责任",
+      "width": 0.8425531624380078,
+      "x": 0.10851065356823006,
+      "y": 0.2976501303013259
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01598837107964657,
+      "text": "等所需而迫使某人做某事”经其前does not 否定，再辅以其后 although. .助力，突出强调DNT 信号对广",
+      "width": 0.8808510308055988,
+      "x": 0.07234045305464724,
+      "y": 0.2790697681120661
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "告商并不具有约束力：尽管口头答应，却并非非做不可（呼应第三段①句 proposed 言外之意）。",
+      "width": 0.7914893184975502,
+      "x": 0.07234045504909711,
+      "y": 0.2571801569041272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01631853785900783,
+      "text": "③句进而指出广告商对 DNT默认值的可能性反应：无视，继续追踪。句中 or 形似并列（“真心不愿",
+      "width": 0.8425531624380078,
+      "x": 0.10851064439801747,
+      "y": 0.23825065252418787
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "接收行为广告”或“由于没有更改默认值”），实则将语义重点落于后者，暗示广告商更倾向于接受“用户",
+      "width": 0.8808510308055988,
+      "x": 0.07021277366103068,
+      "y": 0.2180156660711139
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837107964657,
+      "text": "没有更改默认设置故而收到 DNT 信号”；ignore、press on 表明广告商可能对微软 DNT 默认信号采取的",
+      "width": 0.8808510308055987,
+      "x": 0.07021277145890314,
+      "y": 0.1976744190568338
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372324652222,
+      "text": "单方态度：佯装未见、不予理睬，并且坚决将用户在线信息跟踪到底。",
+      "width": 0.5787233896054912,
+      "x": 0.07234043864406285,
+      "y": 0.17732558126499942
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "【深层解读】本段借“推测广告商行为反应”说明“DNT 可能无法取得预期目的”：doesn't oblige、",
+      "width": 0.846808468178627,
+      "x": 0.10638300842132467,
+      "y": 0.1584302324277902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660118765370433,
+      "text": "although...promised to、may ignore...and press on anyway 从三方面强调 DNT 预期目标难以达成：一、",
+      "width": 0.8829786836759081,
+      "x": 0.07021279465140748,
+      "y": 0.13808139569628064
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631853785900783,
+      "text": "DNT 信号自身并不具有法律约束力；二、广告商言而无信（即便答应也不履行）；三、广告商一意孤行（不",
+      "width": 0.8787233779352892,
+      "x": 0.07234044542065314,
+      "y": 0.11618798981953893
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372324652222,
+      "text": "予理睬，继续追踪）。",
+      "width": 0.17021276937160162,
+      "x": 0.07234042240639778,
+      "y": 0.09593023240598786
+    },
+    {
+      "confidence": 1,
+      "height": 0.013096575326147608,
+      "text": "24",
+      "width": 0.02340425451216689,
+      "x": 0.08510638314285272,
+      "y": 0.050872093374971894
+    }
+  ],
+  "vision_ocr_text": "VI\n① It is not yet clear how advertisers will\n广告商将做何反应尚不清楚。收到 DNT\nrespond.\n②國 Getting a DNT signal does not oblige®\n信号并不责成企业必须停止追踪，尽管有些企\nanyone to stop tracking, although some companies have\n业承诺会停止追踪。由于无法分辨用户是真\npromised to do so. 3 Unable to tell whether someone\n的反对行为广告还是坚持微软浏览器的默认\nreally objects to behavioural ads or whether they are\n设置，一些企业可能还是会忽略 DNT 信号而\nsticking with Microsoft's default, some may ignore a\n继续追踪。\nDNT signal and press on anyway.\n词汇注释与难句分析。\n①oblige ［o'blards］v.迫使；强制\n①oblige sb to do sth（迫使某人做某事）\n• 经典搭配\n②object to（反对）\n③press on（坚定地继续）\nUnable to tell whether someone really objects to behavioral ads or whether they are sticking with\nMicrosoft's default, some may ignore a DNT signal and press on anyway.\n句子的主干：\nAsome may ignore a DNT signal and press on anyway.\n主语\n谓语1\n谓语2\n原因状语\nUnable to tell whether someone really objects to bchavioral ads or whether\nthey are sticking with Microsoft's default，\n功能注释：句首的形容词短语做原因状语，unable 前实则省略了现在分词 being；不定式to tell 的宾\n语为whether...or whether引导的并列的宾语从句，tell 这里指“辨别出，分辨出⋯⋯•”。本句整体说明\n部分广告商（some = some companies）对微软 DNT 默认项（Microsoft’s default）可能性反应：无视，继续\n追踪（ignore...press on anyway）。\n• 语篇分析，\n第六段分析行为反应。关键词为：①not yet clear；②may ignore。\n①句指出广告商的行为反应：将如何应对目前尚且未知。句中 yet 用于谈论尚未发生但可能发生的\n事情，暗表广告商会对微软事件做出反应（will），只是目前还尚未做出明确反应（not yet clear）。\n②③句推测广告商有可能出现的行为反应：无视 DNT 信号而继续追踪。\n②句退而介绍广告商对 DNT选项信号的反应：承诺，但却不一定照做。oblige“因形势、法律、责任\n等所需而迫使某人做某事”经其前does not 否定，再辅以其后 although. .助力，突出强调DNT 信号对广\n告商并不具有约束力：尽管口头答应，却并非非做不可（呼应第三段①句 proposed 言外之意）。\n③句进而指出广告商对 DNT默认值的可能性反应：无视，继续追踪。句中 or 形似并列（“真心不愿\n接收行为广告”或“由于没有更改默认值”），实则将语义重点落于后者，暗示广告商更倾向于接受“用户\n没有更改默认设置故而收到 DNT 信号”；ignore、press on 表明广告商可能对微软 DNT 默认信号采取的\n单方态度：佯装未见、不予理睬，并且坚决将用户在线信息跟踪到底。\n【深层解读】本段借“推测广告商行为反应”说明“DNT 可能无法取得预期目的”：doesn't oblige、\nalthough...promised to、may ignore...and press on anyway 从三方面强调 DNT 预期目标难以达成：一、\nDNT 信号自身并不具有法律约束力；二、广告商言而无信（即便答应也不履行）；三、广告商一意孤行（不\n予理睬，继续追踪）。\n24",
+  "pdf_text_layer": "VI O It   i巨   not yet clear how a dv e rtis巳rs w ill                    广告商将做何反应尚不清楚 。 收到 DN飞\nrespond. 0 日 Getting a DN T signa l does not oblige①\n                                                                          信号并不责成企业必须停止追踪，尽管有些企\nanyone to s top tracking, althoug h so m 巳 c ompanies have\n                                                                          业承诺会停止追踪 。 由于无法分辨用户是真\npromised to :lo 日o. @Unabl e to tell whether so m 巳one                    的反对行为广告还是坚持微软浏览器的默认l\nreally obj ec ts to behavioural ads or whether they are\n                                                                          设直，一些企业可能还是会忽略 DNT 信号而\ns ticking with Microsoft ’ s default, som e may ignore a\n                                                                          继续追踪 。\nDNT signal and pr巳 ss on anyway.\n\n                                           词        注   释   与\n                                                                难     旬\n                                                                          析\n                                                                          －      J\n                                               「」\n                                           －        …       －\n                                                                      …   分\n                                                                … －\n                                           ·        －       －         －    …\n\n\n\n( oblige [a1bla1d3] v . 迫使；强制                                   l\\    ( oblige sb to do s th （迫使某人做某事）\n                                                                引     ( obj ect to （反对）\n． 经典搭配\n                                                                ；？户：~~s- ~－n －（！坚印出续）\n      Unable to tell whether someone really objects to behavioral ads or whether they are sticking with\nMicrosoft’s default, some may ignore a DNT signal and press on anyway.\n      句子的主干：［.＋.some         may ignore a DNT signal                and press on anyway.\n                      主语              谓语 l                                     谓语2\n                       原因状语\n             Unable to tell whether someone really objects to behavioral ads or whether\n             they are sticking with Microsο疵’ s default,\n      功能注释： 句首的形容词短语做原因状语， unabl e 前实 则 省略了现在分词 be ing ；不 定式 to t e ll 的宾\n语为 wheth e r. . . or whether 引导的并列的宾语从 旬， t e ll 这 里 指“辨别出，分辨出……” 。 本句 整 体说明\n部分广告商（ some =            some compan i es ）对微软 DNT 默认项（ Mi crosoft ’ s default ）可能性反应：无视，继续\n追踪（ ignore.. . press on anyway ）。\n\n                                               ；三 语：篇分析 ：－ ：：i d\n      第六段分析行为反应。关键词为： ① not yet clear ; ( may ignor飞\n\n      ① 旬指出广告商的行为反应：将如何应对目前尚且未知。 句中 yet 用于谈论尚未发 生 但可能发生的\n事情 ，暗 表广告商会 对微软 事 件做出反应（ will) ，只是目前还尚未做出明确反应（ not yet cl ea r ） 。\n      ②③ 旬推测广告商有可能出现的行为反应：无视 DNT 信号而继续追踪。\n      ② 旬退而介绍广告商对 DNT 选项信号的反应：承诺，但却不一定照做。 oblige “因 形势、法律、 责 任\n等 所需而迫使某人做某事”经其前 do es not 否定，再辅以其后 although ...助力，突出强调 DNT 信号对广\n告商并不具有约束 力：尽 管 口头答应，却并非非做不可（呼应第 三 段 ① 句 proposed 言 外之意） 。\n      ③ 旬进而指出广告商对 DNT 默认值的可能性反应：无视，继续追踪。 句中 or 形似并列（“真心不愿\n接收行为广告”或“由于没有更改默认值勺，实 则将 i吾义重点落于后者，暗示广告商更倾向于接受“用户\n没有 更改默 认设 置 故而收到 DNT 信号”； ignore 、 press on 表明广告商可能对微软 DNT 默认信号采取的\n单方态度：佯装未 见、不予理睬，并且坚决将用户在线信息跟踪到底 。\n      【深层解读】本段借“推测广告商行为反应”说明“ DNT 可能无法取得预期目的”： doe s n 't ob lige 、\nalthough ... prom ised to 、 may ignore . . . and press on anyway 从 三 方面强调 DNT 预期目标难以达成： 一 、\nON T 信号自身并 不具有法律约束力； 二 、广告商言而无信（即使答应也不履行）； 三 、广告商一意孤行（不\n予理 睬 ，继续追踪 ） 。\n\n\n\n 24",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 1872,
+    "pdf_text_character_count": 3446,
+    "nonempty": true
+  }
+}

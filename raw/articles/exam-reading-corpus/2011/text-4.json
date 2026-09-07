@@ -1,0 +1,111 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2011-T4",
+  "source_id": "RAW-ARTICLE-20260710-001",
+  "ingest_date": "2026-07-11",
+  "year": 2011,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 4,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2011年考研英语一真题.pdf",
+  "truth_pages": [
+    10,
+    11
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "analysis_page_range": "35-42",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2011/text-4.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2011/text-4.json",
+  "article_path": "articles/2026-07-10-2011-english-i-text-4.md",
+  "passage_paragraphs": [
+    "It’s no surprise that Jennifer Senior’s insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter — nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience. Rather than concluding that children make parents either happy or miserable, Senior suggests we need to redefine happiness: instead of thinking of it as something that can be measured by moment-to-moment joy, we should consider being happy as a past-tense condition. Even though the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that “the very things that in the moment dampen our moods can later be sources of intense gratification and delight.”",
+    "The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week. There are also stories about newly adoptive — and newly single — mom Sandra Bullock, as well as the usual “Jennifer Aniston is pregnant” news. Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands.",
+    "In a society that so persistently celebrates procreation, is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing? It doesn’t seem quite fair, then, to compare the regrets of parents to the regrets of the childless. Unhappy parents rarely are provoked to wonder if they shouldn’t have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world: obviously their misery must be a direct result of the gaping baby-size holes in their lives.",
+    "Of course, the image of parenthood that celebrity magazines like Us Weekly and People present is hugely unrealistic, especially when the parents are single mothers like Bullock. According to several studies concluding that parents are less happy than childless couples, single parents are the least happy of all. No shock there, considering how much work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it, raising a kid on their “own” (read: with round-the-clock help) is a piece of cake.",
+    "It’s hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous: most adults understand that a baby is not a haircut. But it’s interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren’t in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting “the Rachel” might make us look just a little bit like Jennifer Aniston."
+  ],
+  "questions": [
+    {
+      "number": 36,
+      "prompt": "Jennifer Senior suggests in her article that raising a child can bring",
+      "options": {
+        "A": "temporary delight.",
+        "B": "enjoyment in progress.",
+        "C": "happiness in retrospect.",
+        "D": "lasting reward."
+      }
+    },
+    {
+      "number": 37,
+      "prompt": "We learn from Paragraph 2 that",
+      "options": {
+        "A": "celebrity moms are a permanent source for gossip.",
+        "B": "single mothers with babies deserve greater attention.",
+        "C": "news about pregnant celebrities is entertaining.",
+        "D": "having children is highly valued by the public."
+      }
+    },
+    {
+      "number": 38,
+      "prompt": "It is suggested in Paragraph 3 that childless folks",
+      "options": {
+        "A": "are constantly exposed to criticism.",
+        "B": "are largely ignored by the media.",
+        "C": "fail to fulfill their social responsibilities.",
+        "D": "are less likely to be satisfied with their life."
+      }
+    },
+    {
+      "number": 39,
+      "prompt": "According to Paragraph 4, the message conveyed by celebrity magazines is",
+      "options": {
+        "A": "soothing.",
+        "B": "ambiguous.",
+        "C": "compensatory.",
+        "D": "misleading."
+      }
+    },
+    {
+      "number": 40,
+      "prompt": "Which of the following can be inferred from the last paragraph?",
+      "options": {
+        "A": "Having children contributes little to the glamour of celebrity moms.",
+        "B": "Celebrity moms have influenced our attitude towards child rearing.",
+        "C": "Having children intensifies our dissatisfaction with life.",
+        "D": "We sometimes neglect the happiness from child rearing."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 450,
+    "paragraphs": 5,
+    "source_token_count": 471,
+    "final_token_count": 471,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

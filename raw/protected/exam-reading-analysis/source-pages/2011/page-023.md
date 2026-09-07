@@ -1,0 +1,121 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2011-P023
+year: 2011
+pdf_page: 23
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2011 解析 PDF p23｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+③④句引用某猎头原话说明原因之二：传统观念“不挪窝更保险”己逆转为“待得越久损失越大”。
+③句概括如今形势：“待得越久越安全”这一传统规则已被颠覆。The traditional rule 和
+fundamentally inverted 分别照应①句 the old grace 和 is fading，通过指出“传统规则的彻底颠覆”反向说
+明“旧式不光彩的消逝”。程度副词 fundamentally（意力 completely）修饰 inverted（“使颠倒”），充分强调
+新旧规则的根本对立，暗示新规则已然竖立：高管跳槽也许有更好的职业前景。
+④句补充说明如今形势：待得越久伤害越大。who've been hurt the worst 对仗 who've stayed too
+long，充分展示了“原地久留”对“职业发展”的限制甚至负面影响。
+【深层解读】本段③④句对比了“传统规则（固守岗位更保险）VS当前认识（待得越久越危险）”，很
+容易认为作者不看好“坚守岗位的高管”，向他们提出“跳槽”的建议，以避免更大的损失或负面影响；但
+细想一下不难判断，大报文章的作者不可能以“鼓励高管跳槽”为写作目的；同时，③④句紧随②句而来，
+其牵涉的背景是“经济情况堪忧、工作不甚理想”，由此可知，作者末段并非无端鼓励跳槽，更多是在对
+“（经济不景气情况下）高管为实现职业抱负而跳槽”，也即全文聚焦现象的总结，说明其未来走势：职场
+传统规则已打破，“裸辞”这一新潮流已形成；而作者对这一现象显然持“理解、支持”的态度。
+真題精解•：
+29. It can be inferred from the last paragraph that
+•
+29. 从最后一段可推知
+［A］ top performers used to cling to their posts
+［A］ 高级职员们过去一向坚守其职
+［B］ loyalty of top performers is getting out-dated
+［B］高级职员们的忠诚正变得不合时宜
+［C］ top performers care more about reputations
+［C］ 高级职员们更关注名声
+［D］ it's safer to stick to the traditional rules
+［D］坚守传统规则更安全
+［精准定位］末段③句指出高端职场传统规则：不挪窝更保险，原地不动最安全；换而言之，过去高级
+职员们常常坚守其职。［A］为正确选项。
+［命题解密］正确项［A］是③句第一个分句的同义改写，used to 对应 The traditional rule,cling to
+their posts 对应 stay where you are。
+［B］把③句 stay where you are 等同于Loyalty，从文中“过去的固守原地不动其实伤害更大，裸辞兴
+起”错误得出“忠诚已经过时”的结论，但“待在原处（一直不跳槽）”未必就“忠诚”。［C］从①句 the old
+disgrace is fading for top performers 反推出“高级职员历来非常关注名声”，但选项为一般现在时，不符合
+文中“过去会认为裸辞后的待业状态有失身份，而现在已改变”的语义逻辑。［D把③句 The traditional
+rule was it's safer to stay where you are 偷换成泛化的“坚守传统规则更安全”（注意选项中 traditional
+rules 为复数形式，泛指一切传统规则）；其次从文中来看，传统规则已被颠覆，暗示其“不再安全”
+［技巧总结］段落推断题要求考生体味段中的“言外之意”。解答此类题首先要建立在理解字面含义
+的基础上，推测作者未明说但又意欲表达的含义。要尽可能与作者达成“共识”。
+如本题，②句说金融危机使（高级职员们）暂时失业或辞去糟糕工作变得更可接受了；换言之，高级
+职员过去往往不能接受裸辞，宁肯固守岗位；同时，③句说传统的职场规则是待在原来的岗位上更安全，
+但是这项规则已经被彻底颠覆了；也即，以前高管们都倾向于固守岗位，但现在不再如此，［A］正确。
+• 全局真题精解•：
+30. Which of the following is the best title for the text？
+30. 以下哪一项是本文最好的标题？
+［A］ CEOs: Where to Go？
+［A］首席执行官们：路在何方？
+［B］ CEOs: All the Way Up？
+［B］首席执行官们：一路高升？
+23
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+③④ 旬引用某猎头原话说明原因之二：传统观念“不挪窝更保险”已逆转为“待得越久损失越大”。
+     ③ 旬概括如今形势：“待得越久越安全”这一传统规则已被颠覆。 The traditional ru l e 和
+fundamenta lly i nverted 分别照应①句 the old grace 和 i s fad i ng ，通过指出“传统规则的彻底颠 覆”反向说
+明“旧式不光影的消逝” 。 程度副词 fun d a m e nta l l y （意为 complete l y ）修饰 in ve rt ed （“使颠倒勺，充分强调
+新旧规则的根本对立，暗示新规则已然竖立：高管跳槽也许有更好的职业前景 。
+     ④ 旬补充说明如今形势：待得越久伤害越大。 who've been hurt the worst 对仗 who ’ ve stayed too
+long ，充分 展示了“原 地久留 叮才 “职业发展”的限 制 甚至负面影 响 。
+     【深层解读】 本段③④句对 比了“传统规则（固 守岗位更保险） VS 当前认识（待得越久越危险）”，很
+容易认为作者不看好“坚守岗位的高管”，向他们提出“跳槽”的建议，以避免更大的损失或负面影响；但
+细想 一 下不难判断，大报文章的作者不可能以“鼓励高管跳槽”为写作目的；同时，③④句紧随②句而来，
+其牵涉的背 景 是“经济情况堪 忧、工作不甚理想”，由此可知，作 者末段并非无端鼓励 跳槽，更多 是在对
+“（经济不 景气 情况下）高管为实现职业抱负而跳槽”，也即全文聚焦现象的总结，说明其未来走势：职场
+传统规则己打破，“裸辞”这 一 新潮流已形成；而作者对这 一 现象显然持“理解、支持”的态度 。
+
+                                                     三搏精解＜ ii
+ 29. It can be inferred from the last paragraph that           29. 从最 后一 段 可 推知     。
+
+
+
+
+ [ A] top performers used to cling to their posts              [ A］ 高级职员们过去一 向坚 守其职
+
+ [BJ loyalty of top perform 巳rs is getting out- dated          [BJ 高级职员 们的忠诚正 变得不合 时 直
+
+ [ C] top perform 巳rs care more about reputations              [CJ 高级 职员们更关注名 声
+
+ [ DJ it ’ s sa fer to st ick to the trad itiona l ru les      [ DJ 坚守传统规则更安全
+
+     ［精准定位］末段 ③ 句指出高端职场传统规则：不挪窝更保险，原地不动最安全；换而言之，过去高级
+职员们常常坚守其职 。［ A］ 为正确选项 。
+     ［命题解密］ 正确项 ［ A ］ 是 ③ 句第 一 个分句的同义改 写 ， used to 对应 The traditional rule, clmg to
+their posts X·J· 应 stay where you a r e 。
+     [BJ 把 ③ 句 stay where you are 等 同于 l oyalty ，从文中“过去的固守原地不动其实伤害更大，裸辞兴
+起”错误得出“忠诚已经过时”的结论，但“待在原处（ 一 直不跳槽）”未必就“忠诚” 。［ C J 从 ① 句 the o ld
+
+disgrace is fading for top performers 反推出“高级职员历来非常关注名声”，但选项为一般现在时，不符合
+文中“过去会认为裸辞后的待业状态有失身份，而现在已改变”的话义逻辑 。 ［ DJ 把 ③句 T h e trad itional
+ru le was it ’ s safer to stay where you are 偷换成泛化的“坚守传统规则更安全”（注意选项中 trad i tiona l
+ru l es 为复数形式，泛指 一 切传统规则）；其次从文中来看，传统规则已被颠覆，暗示其“不再安全”。
+     ［技巧总结］ 段落推断题要求考生体 ｜床段中的“ 言 外之意” 。 f(J/（， 答此类题首先要建立在理解字面含义
+的基础上，推测作者未明脱但又意欲表达的含义 。 耍尽可能与作者达成“共识” 。
+     如本题， ② 句说金融危机使（高级职员们）暂时失业或辞去糟糕工作变得更可接受了；换 言 之，高级
+职员过去往往不能接受裸辞，宁肯固守岗位；同时， ③ 句民传统的职场规则是待在原来的岗位上更安全，
+但是这项规则已经被彻底颠覆了；也即，以前高管们都倾向于固守岗位，但现在不再如此， ［ A］ 正确。
+
+                                       ；二： 全同事题宿解.＜ ii
+ 30. Which of 伽 following is the best title for the 阳t? I 3o. 以 下哪一项是 本文最好 的 标题？
+ [A] CEOs: Where to Go?                                 I [ A ］ 首席执行官们 ： 路在何方？
+ [BJ CEOs: A ll the Way Up?                                 [ [BJ 首席执行官 们： 一 路高升？
+
+                                                                                        23
+```

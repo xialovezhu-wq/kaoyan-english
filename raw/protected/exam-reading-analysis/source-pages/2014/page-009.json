@@ -1,0 +1,550 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P009",
+  "year": 2014,
+  "pdf_page": 9,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.014557773359804349,
+      "text": "容详述 Only if the jobless arrive... register...and start... and then they should.，方可准确把握新政目",
+      "width": 0.8771186331679538,
+      "x": 0.046610169459455404,
+      "y": 0.9244186044766187
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021843264422078845,
+      "text": "的：鼓励失业者积极寻找工作（以降低对救济金的依赖，使生活更好）。二、借助“引号使用”和“反问句式”，",
+      "width": 0.8857352304275922,
+      "x": 0.04652874425716747,
+      "y": 0.9011973956912661
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506555,
+      "text": "抓取作者讽刺。①句“change lives for the better”、reduce “dependency”引用的同时暗示作者质疑：这是奥斯",
+      "width": 0.8792372663359076,
+      "x": 0.04661017159899552,
+      "y": 0.8864829395016245
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "本宣称的目的，但是否真的合理？③句反问（还有什么能更合理）传达作者讽刺：似乎最为合理，实际却不",
+      "width": 0.8792372663359076,
+      "x": 0.046610186138190235,
+      "y": 0.8674540679688512
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859708370422,
+      "text": "合理。二者共同表明首段论述角度：假借奥斯本口吻介绍新政，并暗中传达作者讽刺。",
+      "width": 0.7139830607564057,
+      "x": 0.04661017181989018,
+      "y": 0.8488372098987218
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02144260606740722,
+      "text": "•真题精解•必",
+      "width": 0.16341962850870295,
+      "x": 0.4066376446286559,
+      "y": 0.8221275340144452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017460906912335594,
+      "text": "21. George Osborne's scheme was intended to",
+      "width": 0.3732502962894367,
+      "x": 0.056989924301630746,
+      "y": 0.7927779131648163
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007874015748031482,
+      "text": "一•",
+      "width": 0.019067797167547862,
+      "x": 0.4809322030184506,
+      "y": 0.7933070866232128
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01640419947506555,
+      "text": "21. 乔治•奥斯本计划旨在",
+      "width": 0.23516949474583182,
+      "x": 0.5635593191979074,
+      "y": 0.7919947505274125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "［A］ encourage jobseekers' active engagement in job seeking",
+      "width": 0.47669488899552503,
+      "x": 0.05720340891855091,
+      "y": 0.7657480317070339
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "［A］ 鼓励求职者积极寻找工作",
+      "width": 0.26059322430256227,
+      "x": 0.5635593216808163,
+      "y": 0.765748031743371
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01340566469928417,
+      "text": "［B］ provide the unemployed with easier access to benefits",
+      "width": 0.48728811329808724,
+      "x": 0.05720340585095623,
+      "y": 0.7395013121176122
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014718000657289343,
+      "text": "［B］给失业者提供更易获得的救济",
+      "width": 0.29661016354615666,
+      "x": 0.5635593271252267,
+      "y": 0.7381889762718228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013348440485676405,
+      "text": "LCJ guarantee jobseekers' legitimate right to benefits",
+      "width": 0.4491525408865391,
+      "x": 0.0550847408914763,
+      "y": 0.7119422571633419
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660776443681689,
+      "text": "［C］保证求职者领取救济金的合法权益",
+      "width": 0.31355931658397684,
+      "x": 0.5614406833040567,
+      "y": 0.7106299214052809
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "LD」 motivate the unemployed to report voluntarily",
+      "width": 0.42584742988206414,
+      "x": 0.05720341065925016,
+      "y": 0.681686046696292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014603552230074035,
+      "text": "［D］激励失业者主动报告",
+      "width": 0.2182203270923132,
+      "x": 0.5635593255163435,
+      "y": 0.6830708662947607
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "［精准定位］首段①句指出计划目的：使生活更好，并降低依赖。②句说明计划内容：失业者须带简",
+      "width": 0.8411016939243594,
+      "x": 0.08474577161832861,
+      "y": 0.6568241468359739
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "历到求职中心、注册网上求职、并开始寻找工作，才有资格领取失业金；且之后须每周报到一次。结合两",
+      "width": 0.8813558995038613,
+      "x": 0.04449153295993388,
+      "y": 0.6377952752850319
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749584,
+      "text": "句可知，计划旨在鼓励失业者积极寻找工作、而不是依赖失业金，［A］正确。",
+      "width": 0.6334745911346086,
+      "x": 0.04661016839456005,
+      "y": 0.6191860469772996
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016026521292258455,
+      "text": "［命题解密］正确项［A］结合②句计划内容，明确①句 In order to “change lives for the better”",
+      "width": 0.8114406541846264,
+      "x": 0.08474578474561033,
+      "y": 0.6017060365233198
+    },
+    {
+      "confidence": 1,
+      "height": 0.010498687351156777,
+      "text": "and",
+      "width": 0.031779661945913085,
+      "x": 0.8961864398162385,
+      "y": 0.6043307088470775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "reduce “dependency”所述目的。",
+      "width": 0.26483049063846975,
+      "x": 0.046610182823420304,
+      "y": 0.5839895014821784
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017747054888507474,
+      "text": "［B］对①句 change lives for the better 断章取义，由②句可知：获得救济是“更难”、而非“更易”。［C】",
+      "width": 0.8411016939243594,
+      "x": 0.08474577038951502,
+      "y": 0.5636482937447476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370533,
+      "text": "对②句 Only if.. will they be eligible for benefit...反向干扰：该计划是在“限制”、而不是“保障”失业者",
+      "width": 0.8813558995038614,
+      "x": 0.044491550587052155,
+      "y": 0.5450581399713961
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "领取救济金的权利。［DJ用②句 they should report 干扰，但这属于计划细节、不能体现整体目的，且文中",
+      "width": 0.8813558995038613,
+      "x": 0.04449154707010312,
+      "y": 0.5261627909489568
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "是“强行规定（they should）”、而非“鼓励自愿（motivate...voluntarily）”。",
+      "width": 0.6059321845628293,
+      "x": 0.04449154235841567,
+      "y": 0.5072178478275089
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070835,
+      "text": "［技巧总结］本题考查“新政目的”，且直接定位信息为抽象概述，解题时需结合新政的具体规定、针",
+      "width": 0.8389830607564056,
+      "x": 0.0847457644664298,
+      "y": 0.48818897652366
+    },
+    {
+      "confidence": 1,
+      "height": 0.014634072311281221,
+      "text": "对情形等加以理解把握，切忌断章取义。",
+      "width": 0.3389830315250089,
+      "x": 0.046610183390037786,
+      "y": 0.47093023245626986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290566,
+      "text": "具体来看，答题时根据题干 was intended to 可直接锁定①句 In order to，并确定 “change lives for",
+      "width": 0.8432203270923132,
+      "x": 0.08474577568406928,
+      "y": 0.4520348836068586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01605704137346564,
+      "text": "the better” and reduce “dependency”正确项来源。但由于该表述抽象概括，所以应结合②句“规定详",
+      "width": 0.8813558995038613,
+      "x": 0.04449154911812565,
+      "y": 0.43307086586269905
+    },
+    {
+      "confidence": 1,
+      "height": 0.01803194005971187,
+      "text": "述”加以理解，确定［A］正确。排除对直接定位信息断章取义的［B］，错误理解特殊句式（倒装条件句）的",
+      "width": 0.8793243174351951,
+      "x": 0.044447135184239046,
+      "y": 0.4137087210921577
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370422,
+      "text": "［C］，以及将“细节内容”当“整体目的”、且扭曲文意的［D］。",
+      "width": 0.4978813668320462,
+      "x": 0.04237286968249396,
+      "y": 0.3953488375513381
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013268326836933908,
+      "text": "I ① More apparent reasonableness followed.",
+      "width": 0.3940677862057741,
+      "x": 0.08898306261745173,
+      "y": 0.36337209301837503
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371190749362,
+      "text": "②巴",
+      "width": 0.042372878940626135,
+      "x": 0.48516949273307675,
+      "y": 0.3633720932745381
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372442290455,
+      "text": "接下来还有更明显的合理性。现在，",
+      "width": 0.3262711740544929,
+      "x": 0.595338991503827,
+      "y": 0.35755813949348647
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010498687976927323,
+      "text": "There will now be",
+      "width": 0.16313558702724645,
+      "x": 0.046610175306998146,
+      "y": 0.34711286066921554
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013211102623326254,
+      "text": "a seven-day wait for the jobseeker's",
+      "width": 0.3220338784871887,
+      "x": 0.209745767253581,
+      "y": 0.34580052519163207
+    },
+    {
+      "confidence": 1,
+      "height": 0.014756150133027779,
+      "text": "申请求职者津贴需要经过一个七天的等待",
+      "width": 0.36652540886539153,
+      "x": 0.5550847577759906,
+      "y": 0.3398950128322139
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013582970526587523,
+      "text": "allowance\"",
+      "width": 0.09125280562945254,
+      "x": 0.04441597158352417,
+      "y": 0.32823758463363484
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013344625788410891,
+      "text": ". 8“Those first few days should be spent",
+      "width": 0.39830508177307833,
+      "x": 0.13559322680413866,
+      "y": 0.32677165336496805
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070835,
+      "text": "期。“最初几天应该用于寻找工作，而不是",
+      "width": 0.36440677569743773,
+      "x": 0.5550847453433715,
+      "y": 0.31955380557035984
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.021203962210908034,
+      "text": "looking for work, not looking to sign on，\" he claimed®",
+      "width": 0.47701517740885413,
+      "x": 0.04437491242676618,
+      "y": 0.30299006612620893
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370533,
+      "text": "指望登记（领取救济金），”他声称。“我们",
+      "width": 0.36440677569743773,
+      "x": 0.5550847498984562,
+      "y": 0.30232558191907055
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015095140677424568,
+      "text": "④‘We're doing these things because we know they help",
+      "width": 0.48536962750314294,
+      "x": 0.04652493069790443,
+      "y": 0.28920040802055014
+    },
+    {
+      "confidence": 1,
+      "height": 0.014641701705812471,
+      "text": "之所这样做，是因为知道这能帮助人们远",
+      "width": 0.36440677569743773,
+      "x": 0.5550847507812245,
+      "y": 0.28477690311989423
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015996001836821705,
+      "text": "people stay off benefits® and help those on benefits get",
+      "width": 0.48728811329808724,
+      "x": 0.04661017952680384,
+      "y": 0.2703412072142215
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "离救济，且能帮助那些依靠救济的人更快",
+      "width": 0.36228814252948405,
+      "x": 0.5572033840954276,
+      "y": 0.2657480314380488
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013356070505978312,
+      "text": "into work faster.\" ⑤ Help？ ⑥ Really？ @On first hearing，",
+      "width": 0.48728811329808724,
+      "x": 0.0444915426623969,
+      "y": 0.25436046510534205
+    },
+    {
+      "confidence": 1,
+      "height": 0.01603033598952408,
+      "text": "找到工作。帮助？真的？乍一听，这是这",
+      "width": 0.36440677569743773,
+      "x": 0.5550847513885692,
+      "y": 0.2470930238086949
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013222547966664222,
+      "text": "this was the socially concerned chancellor, trying to",
+      "width": 0.4872881132980873,
+      "x": 0.04661018673019348,
+      "y": 0.2354651163044701
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "位心系社会的财相在通过“改革”明显具有",
+      "width": 0.36440677569743773,
+      "x": 0.5550847487508573,
+      "y": 0.23097112864869773
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014710370011217111,
+      "text": "change lives for the better, complete with®*reforms” to an",
+      "width": 0.48728811329808724,
+      "x": 0.0466101840289224,
+      "y": 0.21784776924201388
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013371329920811248,
+      "text": "纵容性的制度对新失业者找工作的努",
+      "width": 0.36440677569743773,
+      "x": 0.555084750347407,
+      "y": 0.21366279074124328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "obviously indulgent®system that demands too little effort",
+      "width": 0.48728811329808736,
+      "x": 0.046610178817058055,
+      "y": 0.1988188977685914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016003631857123612,
+      "text": "力几乎不作要求，从而助长懒惰来努",
+      "width": 0.36440677569743773,
+      "x": 0.5550847470559422,
+      "y": 0.19331395373965432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883924669506,
+      "text": "from the newly unemployed to find work, and subsidises@",
+      "width": 0.4830508469621797,
+      "x": 0.046610174357893136,
+      "y": 0.18168604655510723
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372442290566,
+      "text": "力使人们生活更好。不过我们要明白，真",
+      "width": 0.36440677569743773,
+      "x": 0.5550847447077784,
+      "y": 0.17441860441596713
+    },
+    {
+      "confidence": 1,
+      "height": 0.013344625788410891,
+      "text": "laziness.",
+      "width": 0.06991525262708408,
+      "x": 0.044491527394085045,
+      "y": 0.15988372087690217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883924669506,
+      "text": "⑧因 What motivated him, we were to understand，",
+      "width": 0.41525423481089857,
+      "x": 0.1165254197767542,
+      "y": 0.16133720909144433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "正激励他的是对“基本公平”的热情——保",
+      "width": 0.36440677569743773,
+      "x": 0.5550847431894168,
+      "y": 0.15813648313622974
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371190749473,
+      "text": "was his zeal® for “fundamental fairness”— protecting the",
+      "width": 0.48940677569743773,
+      "x": 0.044491523883272696,
+      "y": 0.14098837274401477
+    },
+    {
+      "confidence": 1,
+      "height": 0.01466459176671786,
+      "text": "护纳税人，控制开支并确保只有最需要帮",
+      "width": 0.36440677569743773,
+      "x": 0.5550847447077784,
+      "y": 0.1395348835463862
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013268326836934019,
+      "text": "taxpayer, controlling spending and ensuring that only the",
+      "width": 0.48516948013013356,
+      "x": 0.04661018004086533,
+      "y": 0.1233595802415901
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749473,
+      "text": "助的申请者才可领到救济金。",
+      "width": 0.25635592873525803,
+      "x": 0.5550847500179641,
+      "y": 0.11918604680288103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014630256362474503,
+      "text": "most deserving claimants® received their benefits.",
+      "width": 0.3898304906384698,
+      "x": 0.04661017848020012,
+      "y": 0.1061046519289397
+    }
+  ],
+  "vision_ocr_text": "容详述 Only if the jobless arrive... register...and start... and then they should.，方可准确把握新政目\n的：鼓励失业者积极寻找工作（以降低对救济金的依赖，使生活更好）。二、借助“引号使用”和“反问句式”，\n抓取作者讽刺。①句“change lives for the better”、reduce “dependency”引用的同时暗示作者质疑：这是奥斯\n本宣称的目的，但是否真的合理？③句反问（还有什么能更合理）传达作者讽刺：似乎最为合理，实际却不\n合理。二者共同表明首段论述角度：假借奥斯本口吻介绍新政，并暗中传达作者讽刺。\n•真题精解•必\n21. George Osborne's scheme was intended to\n一•\n21. 乔治•奥斯本计划旨在\n［A］ encourage jobseekers' active engagement in job seeking\n［A］ 鼓励求职者积极寻找工作\n［B］ provide the unemployed with easier access to benefits\n［B］给失业者提供更易获得的救济\nLCJ guarantee jobseekers' legitimate right to benefits\n［C］保证求职者领取救济金的合法权益\nLD」 motivate the unemployed to report voluntarily\n［D］激励失业者主动报告\n［精准定位］首段①句指出计划目的：使生活更好，并降低依赖。②句说明计划内容：失业者须带简\n历到求职中心、注册网上求职、并开始寻找工作，才有资格领取失业金；且之后须每周报到一次。结合两\n句可知，计划旨在鼓励失业者积极寻找工作、而不是依赖失业金，［A］正确。\n［命题解密］正确项［A］结合②句计划内容，明确①句 In order to “change lives for the better”\nand\nreduce “dependency”所述目的。\n［B］对①句 change lives for the better 断章取义，由②句可知：获得救济是“更难”、而非“更易”。［C】\n对②句 Only if.. will they be eligible for benefit...反向干扰：该计划是在“限制”、而不是“保障”失业者\n领取救济金的权利。［DJ用②句 they should report 干扰，但这属于计划细节、不能体现整体目的，且文中\n是“强行规定（they should）”、而非“鼓励自愿（motivate...voluntarily）”。\n［技巧总结］本题考查“新政目的”，且直接定位信息为抽象概述，解题时需结合新政的具体规定、针\n对情形等加以理解把握，切忌断章取义。\n具体来看，答题时根据题干 was intended to 可直接锁定①句 In order to，并确定 “change lives for\nthe better” and reduce “dependency”正确项来源。但由于该表述抽象概括，所以应结合②句“规定详\n述”加以理解，确定［A］正确。排除对直接定位信息断章取义的［B］，错误理解特殊句式（倒装条件句）的\n［C］，以及将“细节内容”当“整体目的”、且扭曲文意的［D］。\nI ① More apparent reasonableness followed.\n②巴\n接下来还有更明显的合理性。现在，\nThere will now be\na seven-day wait for the jobseeker's\n申请求职者津贴需要经过一个七天的等待\nallowance\"\n. 8“Those first few days should be spent\n期。“最初几天应该用于寻找工作，而不是\nlooking for work, not looking to sign on，\" he claimed®\n指望登记（领取救济金），”他声称。“我们\n④‘We're doing these things because we know they help\n之所这样做，是因为知道这能帮助人们远\npeople stay off benefits® and help those on benefits get\n离救济，且能帮助那些依靠救济的人更快\ninto work faster.\" ⑤ Help？ ⑥ Really？ @On first hearing，\n找到工作。帮助？真的？乍一听，这是这\nthis was the socially concerned chancellor, trying to\n位心系社会的财相在通过“改革”明显具有\nchange lives for the better, complete with®*reforms” to an\n纵容性的制度对新失业者找工作的努\nobviously indulgent®system that demands too little effort\n力几乎不作要求，从而助长懒惰来努\nfrom the newly unemployed to find work, and subsidises@\n力使人们生活更好。不过我们要明白，真\nlaziness.\n⑧因 What motivated him, we were to understand，\n正激励他的是对“基本公平”的热情——保\nwas his zeal® for “fundamental fairness”— protecting the\n护纳税人，控制开支并确保只有最需要帮\ntaxpayer, controlling spending and ensuring that only the\n助的申请者才可领到救济金。\nmost deserving claimants® received their benefits.",
+  "pdf_text_layer": "容详述 Only if the jobl ess arrive... register. .. and start. …         and then they should . ..，方可准确 把握新政目\n的：鼓励失业者积极 寻 找工作（以降低对救济金的依赖，使生活更好） 。                                          二、借助“引号使用吁口“反问旬式”，\n抓取作者讽刺。 ①句“ change li ves for the b etter”、 reduce “ dependency吁 ｜用的 同时暗示作者质疑：这是奥斯\n本宣称的目的，但是否真的合理？ ③ 句反问（还有什么能更合理）传达作者讽刺：似乎最为合理，实际却不\n合理 。二 者共同表明首段论述角度：假借奥斯本口吻介绍新政，并暗中传达作者讽刺 。\n\n                                                ；·主题精解：；； J\n 21. George Osborne ’s scheme was intended to 一－一一一·                   21. 乔治·奥斯本计划旨在              。\n\n\n\n\n [ A] encourage jobseekers ’ active engagement in job seeking          [ A］ 鼓励求职者积极寻找工作\n\n [BJ provide the unemployed with easier access to benefits             [ BJ 给失业者提供更易获得的救济\n\n [ CJ guarantee j obseeke凹’ l eg itimat e right to benefits            [CJ 保证求职者领取救济金的合法权益\n\n [ DJ motivate th e unemployed to report vo luntarily                  [ DJ 激励失业者主动报告\n\n     〔精准定位］ 首段①句指出计划目的 ：使 生活更好，并降低依赖 。② 句说明计划内容：失业者须带简\n历到求职中心、注册网上求职、并开始寻找工作，才有资格领取失业金；且之后须每周报到一次 。 结合两\n句可知，计划旨在鼓励失业者积极寻找工作、而不是依赖失业金，［ A ］ 正确。\n     ［命题解密］ 正确项［ A ］结合②句 计划内 容，明确①句 In order to “ change li ves for th e better ” and\nreduce “ depend e n cy”所述目的 。\n     [ BJ 对 ① 句 change li ves for th e b e tt er 断 章取义，由②句 可知． 获得一救济是“更难” 、而非 “更易” 。［ CJ\n对 ② 句 Only if. .. will th 巳y be eligibl e for benefit .. . 反向干扰 ： 该计划是在“限制”、而不是“保障”失业者\n领取救济金的权利 。 ［ DJ 用 ② 句 th e y s hould r epor t 干扰，但这属于计划细节、不能体现 整体目 的，且文中\n是“强行规定（ they sho ul d ）＂、而非“鼓励自愿（ motivate .. . vo lu ntar il y ）”。\n     ［技巧总结］ 本题考查“新政目的”，且直接定位信息为抽象概述，解题时需结合新政的具体规定、针\n对情形等加以理解把握，切忌断章取义 。\n     具体来看，答题 时根据题干 wa s intended to 可直接锁定①句 In order to ，并确定“ change li ves for\nth e better ” and r educe “ dependency”为正确项来源 。 但由于该表述抽象概括，所以应结合 ② 句“规定详\n述”加以理解，确定 ［ A ］ 正确 。 排除对直接定位信息断章取义的 ［ 间，错误理解特殊句式（倒装条件句）的\n[CJ ，以及将“细节内容”当“整体目的”、且扭 f[ij 文 意 的 ［ DJ 。\n\n\n     ilIJ O More apparent r e asonabl巳 ness followed.       8囚            接下来还有更明显的合理性 。 现在，\nTh ere w ill 凹 ow be a seven-day wa it for th e jobseeker ’ s         申请求职者津贴需要经过一个七天的等待\nallowance① ．＠忡 Th ose fir st few clays should be spent                期 。 “最初几天应该用于寻找工作，而不是\nlooking for wo1 k , not looking to s ign on ,” he claimed( .          指望登记（领取救济金），”他声称 。 “我们\n。“ W e ’ r e doing th ese things becau se we k1丁 ow they help         之所这样做，是因为知道这能帮助人们远\npeo pl e stay off benefits(   and hel1] those on b巳 nefits get        离救济，且能帮助那些依靠救济的人更快\ninto work faster. ” 0Help? 0Rea ll y? @On first hearing,              找到工作 。 帮助？真的？乍一听，这是这\nthi s was th e soc ia ll y concern ed chancellor, trying to           位心系社会的财相在通过“改革”明显具有\nchange lives fo1 th e bet ter , complete with( “ reforms ” to an      纵容性的制度一一 对新失业者找工作的努\nobviously indulgent<:il system that elemεncl s too li tt le effort    力几乎不作要求，从而助长懒惰 一一 来努\nfrom the newly un employed to find work, and subsidises®              力使人们生活更好 。 不过我们要明白，真\nlaziness. （；） 囚 What motivated him , we were to understand,           正激励他的是对“基本公平”的热情 一一保\nwas hi s 2eal1J for \"f unclamenta l fairn ess 叹一 prot ecting the      护纳税人，控制开支并确保只有最需要帮\ntaxpaye1, controlling spending and      e nsur川g   that only the      助的申请者才可领到救济金 。\nmost deserving claimants® received their benefits.\n\n\n                                                                                                       9",
+  "quality": {
+    "vision_line_count": 66,
+    "vision_character_count": 2507,
+    "pdf_text_character_count": 3225,
+    "nonempty": true
+  }
+}

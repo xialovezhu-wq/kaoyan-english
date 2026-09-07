@@ -1,0 +1,77 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2022-P026
+year: 2022
+pdf_page: 26
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2022 解析 PDF p26｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+请在公众号“扫地小王子”，获取更多考研无水印pdf。
+“同时做某事的一群人”）指向“最新一批要升大学的学生”。pen（义同 write，但更为正式）、weigh up（意
+为“认真考虑；权衡；斟酌”）均表明“学生们对待大学人学申请的态度极为严肃，对大学学位极为看重”
+主句以提建议的形式明确文章关注的两个核心问题：1.大学学位的意义、目的和价值究竟发生了什么
+样的变化（just how..）；2. 即将开始大学教育的Z世代应如何应对这种变化（what...）。 sth may be worth
+considering（变体为It may be worth considering that/how/what..） 是礼貌地提出建议以供对方参考的一种
+固定句式。第一个主语从句中，just how..has changed（到底发生了何种变化）表明现在的情形与过去已大
+为不同—换言之即大学学位的“含金量”可能有所降低；point、purpose、value 指出发生改变的三方面：（大
+学学位的）意义、目的、价值。第二个主语从句中，主句 what Generation Z nced to consider 字面意思为“Z
+世代需要考虑什么”，在此语境实则表达“Z世代应该如何应对上述变化”；内嵌的 as 从句强调乙世代正处
+于关键时期“正要开启教育旅程的第三阶段—高等教育之时”，凸显思考上述问题的紧迫性。
+注：乙世代指出生于1996-2012年之间（也有说法称是1995—2010年之间）的一代。“教育历程的
+第三阶段”即“高等教育（Higher Education）”，在英国的教育体系中，是继“义务教育（Compulsory
+Education，指幼儿园及小学、中学教育）”和“延续教育（Further Education，指中学高级班或大学预备班，
+是中学到大学的过渡期）”之后的教育阶段，包含本科生教育、研究生教育等。
+【深层解读】本段属于典型的“开门见山型”开篇方式：As从句描述当前情形，主句提出反思问题。
+句中 pen、wcigh up 传达出“大学是人生重要阶段”的印象；just how... has changed、what Generation Z
+need to consider 体现“大学学位的含金量降低，Z世代应做好相应准备”。
+•真题精解
+26. The author suggests that Generation Z should
+26. 作者建议Z世代应该
+［A］ be careful in choosing a college
+［A］选择大学时三思而行
+Bbe diligent at each educational stage
+［B］在每个教育阶段都勤奋学习
+LCJ reassess the necessity of college education
+［C］重估大学教育的必要性
+D」postpone their undergraduate application
+［D］推迟本科入学申请
+1. 定位：由题干中 Generation Z should 和选项中 choosing a college、educational stage、
+undergraduate application 等词可定位至首段。
+2. 分析：首段指出，在最新一批学生（即Z世代）填写本科人学申请表、斟酌备选学校之时，
+思考“大学学位的意义、目的和价值到底已发生何种变化”以及“即将开始大学教育的乙世
+锁定
+C
+代需要考虑什么”这两个问题或许是值得的，言外之意即大学学位的作用和价值已经发生
+答案
+变化，可能不再如先前那么重要，乙世代需要重估大学教育的必要性。
+3. 确定：题干+C项是对首段言外之意的合理推断；题干中 The author suggests that
+Generation Z should 对应 it may be worth considering；选项中 reassess the necessity of
+college education 是对 considering just how..has changed 的合理演绎。
+1. 定位：由选项关键词 careful in choosing a college 定位至首段（weigh up their options）。
+A
+2. 排除：该项张冠李戴，将作者对 Z世代当前所做之事的描述“斟酌备选院校”当作作者向乙
+世代建议之事“应该仔细斟酌备选院校”。
+排除
+1. 定位：由选项的 educational stage 定位至首段（the third stage of their educational journey）。
+2. 排除：该项对 the third stage of their cducational journey 主观臆断，文中实际表达的是“Z世
+干扰
+代在开后教育旅程的第三阶段之时需要考虑的问题”，而非“在每个教育阶段都勤奋学习”。
+1. 定位：由选项的 undergraduate application 定位至首段（undergraduate application form..）。
+2. 排除：该项过度推导，作者只是指出申请本科课程之前要先考虑两个问题，并未表示他们需
+要推迟申请。
+26
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+[无可用 PDF 文字层]
+```

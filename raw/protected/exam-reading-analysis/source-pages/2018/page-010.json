@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P010",
+  "year": 2018,
+  "pdf_page": 10,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01825729031917178,
+      "text": "恼人挑战（annoying challenge），却很可能在下届总统大选中根本不被提及（go unmentioned），这暗示作",
+      "width": 0.8804919948066332,
+      "x": 0.08540031835522459,
+      "y": 0.9223493768617452
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "者意在分析问题，唤起政策制定者关注，即：本文直接面向对象为“政策制定者”（注：中产阶级是美国社",
+      "width": 0.8803418623533286,
+      "x": 0.0854700871281793,
+      "y": 0.905475880270981
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "会的中坚力量，其面临问题理应成为总统大选的焦点）。",
+      "width": 0.47008546558833214,
+      "x": 0.0854700935413039,
+      "y": 0.885174418303591
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017601043024771834,
+      "text": "二、“go +否定式的过去分词”结构暗含“否定、批评态度”。“go + 否定式的过去分词",
+      "width": 0.8397435447722101,
+      "x": 0.12606839015663002,
+      "y": 0.8676662317978493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017667368773220504,
+      "text": "（unmentioned, unchecked, unpunished 等）”有两层含义：1. 字面含义为，某一动作“实际未发生”；2. 言",
+      "width": 0.8803418623533286,
+      "x": 0.08547010075251762,
+      "y": 0.8500651893337074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017676843968954747,
+      "text": "外之意为，该动作“原本应发生”。如：本文 go unmentioned 指出政治领袖们“不会提及”机器人威胁的同",
+      "width": 0.8803418623533286,
+      "x": 0.08547009125923327,
+      "y": 0.8311603650432888
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186023378924,
+      "text": "时，暗示作者观点“理应关注”。再如：Their suffering may bave gone unnoticed. 指出他们的痛苦“很可能",
+      "width": 0.8803418623533286,
+      "x": 0.08547008346008807,
+      "y": 0.8139534883787449
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186023378924,
+      "text": "不被注意到”的同时，带有言外之意“应该被关注”。",
+      "width": 0.4294871772386104,
+      "x": 0.08547009148219031,
+      "y": 0.7950581398685704
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014551939212048115,
+      "text": "I ①Don't dismiss\" that possibility entirely. ② About",
+      "width": 0.45299144174860817,
+      "x": 0.12820513147612336,
+      "y": 0.7659713165405369
+    },
+    {
+      "confidence": 1,
+      "height": 0.01771474475189172,
+      "text": "场勿完全否定上述可能。牛津大学的",
+      "width": 0.3205128227613895,
+      "x": 0.6410256439077667,
+      "y": 0.7555410691949448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01461447450918818,
+      "text": "half of U. S. jobs are at high risk of being automated®，",
+      "width": 0.4914529734644396,
+      "x": 0.08760685221008777,
+      "y": 0.7441860469969306
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "研究表明，美国的工作中约有一半处于被",
+      "width": 0.35897435447722104,
+      "x": 0.6025641081032698,
+      "y": 0.7366362449960043
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013320169361815792,
+      "text": "according to a University of Oxford study, with the middle",
+      "width": 0.49358973009832974,
+      "x": 0.08760685052241625,
+      "y": 0.7235984352571052
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "自动化的高风险，中产阶级尤其不堪负担。",
+      "width": 0.3589743544772209,
+      "x": 0.6047008614366031,
+      "y": 0.7164276404311545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014633424900656666,
+      "text": "class disproportionately® squeezed®",
+      "width": 0.2905982883497216,
+      "x": 0.08760684236360063,
+      "y": 0.7033898307550289
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013179936962301797,
+      "text": ". ③ Lower-income jobs",
+      "width": 0.2051281983824983,
+      "x": 0.37606838286003286,
+      "y": 0.7033898304654855
+    },
+    {
+      "confidence": 1,
+      "height": 0.014536778650196869,
+      "text": "低收入工作，如园艺、日托，对机器人不具",
+      "width": 0.35897435447722104,
+      "x": 0.6025641078041245,
+      "y": 0.6962190350723494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "like gardening or day care don't appeal to robots. ④ But",
+      "width": 0.49358973009832974,
+      "x": 0.08760685257904,
+      "y": 0.683139535043143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "吸引力。但许多中产职业—货车驾驶、",
+      "width": 0.3632478677450012,
+      "x": 0.6004273436381833,
+      "y": 0.6744186044954514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011766244100001155,
+      "text": "many middle-class occupations—trucking, financial advice，",
+      "width": 0.49145297346443967,
+      "x": 0.08760685274427576,
+      "y": 0.6642441859163902
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014620159875305294,
+      "text": "理财咨询、软件工程已经引起了他们",
+      "width": 0.35897435447722104,
+      "x": 0.6025641078041245,
+      "y": 0.6555232562144693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013359964437870242,
+      "text": "software engineering - have aroused their interest, or",
+      "width": 0.49358973009832974,
+      "x": 0.08760685257904,
+      "y": 0.6424418606245382
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "的兴趣，或者很快会引起他们的兴趣。富",
+      "width": 0.35897435447722104,
+      "x": 0.602564108979338,
+      "y": 0.6336375487194452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013270898468335846,
+      "text": "soon will. 5 The rich own the robots, so they will be fine.",
+      "width": 0.4893162168305496,
+      "x": 0.08760685496613532,
+      "y": 0.6219035200677363
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "人拥有机器人，他们将会很好。",
+      "width": 0.26068375393805376,
+      "x": 0.6025641085437936,
+      "y": 0.6133720929365851
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20512819838249824,
+      "x": 0.3974359009690072,
+      "y": 0.5668604652149282
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "①dismiss［dis'mis］v. 拒绝考虑，不接受",
+      "width": 0.3205128227613895,
+      "x": 0.08547008639708299,
+      "y": 0.5391134292033339
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014665640317476747,
+      "text": "④squeeze_skwi:Z」v. 挤压，榨取",
+      "width": 0.2628205105719439,
+      "x": 0.5512820497781307,
+      "y": 0.5391134290882089
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016306737255708192,
+      "text": "②automate ［'：tamert］.使自动化",
+      "width": 0.2905982883497217,
+      "x": 0.08760684054736136,
+      "y": 0.5188953489358583
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "经典搭配",
+      "width": 0.07905982737340234,
+      "x": 0.5790598305618743,
+      "y": 0.5188953492135004
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372295434372,
+      "text": "③disproportionately［.dispra po:jonoul］ad. 不成比",
+      "width": 0.41666666666666674,
+      "x": 0.08547008835470085,
+      "y": 0.4985465113668177
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "①at high risk of（处于高风险中）",
+      "width": 0.25854699730416364,
+      "x": 0.5512820547489153,
+      "y": 0.5000000000261855
+    },
+    {
+      "confidence": 1,
+      "height": 0.013178042047493066,
+      "text": "例地",
+      "width": 0.03846153902368071,
+      "x": 0.10683760628181044,
+      "y": 0.47965116280477094
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013090870371076258,
+      "text": "②appeal to（吸引）",
+      "width": 0.1474359008087509,
+      "x": 0.551282048366992,
+      "y": 0.4810951759932419
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016268626341142123,
+      "text": "•语篇分析",
+      "width": 0.0983882991746925,
+      "x": 0.45080584942930835,
+      "y": 0.4286389428843582
+    },
+    {
+      "confidence": 1,
+      "height": 0.014593629202911074,
+      "text": "第二、三段论证问题。",
+      "width": 0.18376067589069234,
+      "x": 0.12606838230038026,
+      "y": 0.40261627937338407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "第二段援引研究发现指出：中产阶级工作面临被自动化（被机器人抢走）的巨大威胁。关键词：Don’t",
+      "width": 0.8440170580399904,
+      "x": 0.12606838702345213,
+      "y": 0.38372093007079056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013121190873087607,
+      "text": "dismiss that possibility entirely。",
+      "width": 0.2628205105719439,
+      "x": 0.08547009090348663,
+      "y": 0.3662790696361663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "①句承上启下明确作者观点：切勿完全否定上述可能。",
+      "width": 0.5149572379744373,
+      "x": 0.12606839599675565,
+      "y": 0.3459302324751026
+    },
+    {
+      "confidence": 1,
+      "height": 0.013157196119524817,
+      "text": "dismiss that possibility entirely （that",
+      "width": 0.3290598200655531,
+      "x": 0.6410256443831779,
+      "y": 0.3487614082268671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "possibility 回指 when the robots come for their jobs） 回应上段 will probably go unmentioned，指向人们/政",
+      "width": 0.8824786189872186,
+      "x": 0.08547009117412573,
+      "y": 0.3284883717919631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017655999284368784,
+      "text": "策制定者对“机器人威胁中产阶级工作”的不予关注。Don't dismiss... entirely 表明作者正反两面观点：",
+      "width": 0.8803418623533286,
+      "x": 0.08760684676136991,
+      "y": 0.30959302315345416
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "必须认识到威胁存在、做好必要准备；但也无需如临大敌、惶恐不安。",
+      "width": 0.5790598200655531,
+      "x": 0.08547008417662523,
+      "y": 0.29069767427379445
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "②句援引研究发现论证①句：自动化对中产阶级工作威胁最大。About half of U.S. jobs ••.with the",
+      "width": 0.8440170580399904,
+      "x": 0.12606838702345213,
+      "y": 0.2718023254196277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "middle class...体现从“说明美国整体情形”到“聚焦中产阶级”的逻辑。",
+      "width": 0.5982905713077705,
+      "x": 0.08547010494440517,
+      "y": 0.25290697665751527
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "主句以 About half、at high risk 强调美国现有工作被自动化的比例之大、风险之高。状语以",
+      "width": 0.8376068466011135,
+      "x": 0.12820512969089612,
+      "y": 0.2353324641319503
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "disproportionately squeezed 强调中产阶级尤其不堪负担（回应首段 annoying challenge）：disproportionately 意",
+      "width": 0.8803418623533286,
+      "x": 0.0854700871281793,
+      "y": 0.21773142113532473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "为 too much in relation to something else“不成比例地，尤其多地”，暗含和其他阶层的比较、强调中产工作被",
+      "width": 0.8803418623533286,
+      "x": 0.08760685288926971,
+      "y": 0.19882659725811214
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629915697478257,
+      "text": "自动化之“猛烈”—远高于其在“美国现有工作”中的占比；squeeze 原意 to press something firmly",
+      "width": 0.8824786189872187,
+      "x": 0.0876068355277583,
+      "y": 0.1799217733153765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "together with your fingers or hand”紧握，挤压”，此处以其喻义凸显中产工作被自动化之“彻底”—被自动",
+      "width": 0.8803418623533286,
+      "x": 0.08547009305410506,
+      "y": 0.16279069773309673
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "化浪潮紧紧抓住、从一类又一类的工作上挤走，直至绝大部分都被机器人取代。",
+      "width": 0.6538461268633261,
+      "x": 0.08760685921790942,
+      "y": 0.14244186016405613
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "③④⑤句进而阐释②句，分人群说明受自动化威胁的程度（意在表明中产阶级受威胁最大）。",
+      "width": 0.8461538146738805,
+      "x": 0.12606840026989716,
+      "y": 0.12354651154123619
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372295434372,
+      "text": "Lower-income jobs...But middle-class occupations...The rich.•.体现分类论证方式。",
+      "width": 0.7115384390527718,
+      "x": 0.08547010382831481,
+      "y": 0.10465116270402697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "③句指出低薪工作（lower-income jobs）对机器人不具吸引力（受威胁较低）。don't appeal to robots",
+      "width": 0.8440170580399904,
+      "x": 0.12606840060073107,
+      "y": 0.08720930242423053
+    },
+    {
+      "confidence": 1,
+      "height": 0.011868576338269321,
+      "text": "10",
+      "width": 0.023504273644809073,
+      "x": 0.10042735059746725,
+      "y": 0.0683139532129019
+    }
+  ],
+  "vision_ocr_text": "恼人挑战（annoying challenge），却很可能在下届总统大选中根本不被提及（go unmentioned），这暗示作\n者意在分析问题，唤起政策制定者关注，即：本文直接面向对象为“政策制定者”（注：中产阶级是美国社\n会的中坚力量，其面临问题理应成为总统大选的焦点）。\n二、“go +否定式的过去分词”结构暗含“否定、批评态度”。“go + 否定式的过去分词\n（unmentioned, unchecked, unpunished 等）”有两层含义：1. 字面含义为，某一动作“实际未发生”；2. 言\n外之意为，该动作“原本应发生”。如：本文 go unmentioned 指出政治领袖们“不会提及”机器人威胁的同\n时，暗示作者观点“理应关注”。再如：Their suffering may bave gone unnoticed. 指出他们的痛苦“很可能\n不被注意到”的同时，带有言外之意“应该被关注”。\nI ①Don't dismiss\" that possibility entirely. ② About\n场勿完全否定上述可能。牛津大学的\nhalf of U. S. jobs are at high risk of being automated®，\n研究表明，美国的工作中约有一半处于被\naccording to a University of Oxford study, with the middle\n自动化的高风险，中产阶级尤其不堪负担。\nclass disproportionately® squeezed®\n. ③ Lower-income jobs\n低收入工作，如园艺、日托，对机器人不具\nlike gardening or day care don't appeal to robots. ④ But\n吸引力。但许多中产职业—货车驾驶、\nmany middle-class occupations—trucking, financial advice，\n理财咨询、软件工程已经引起了他们\nsoftware engineering - have aroused their interest, or\n的兴趣，或者很快会引起他们的兴趣。富\nsoon will. 5 The rich own the robots, so they will be fine.\n人拥有机器人，他们将会很好。\n•词汇注释与难句分析\n①dismiss［dis'mis］v. 拒绝考虑，不接受\n④squeeze_skwi:Z」v. 挤压，榨取\n②automate ［'：tamert］.使自动化\n经典搭配\n③disproportionately［.dispra po:jonoul］ad. 不成比\n①at high risk of（处于高风险中）\n例地\n②appeal to（吸引）\n•语篇分析\n第二、三段论证问题。\n第二段援引研究发现指出：中产阶级工作面临被自动化（被机器人抢走）的巨大威胁。关键词：Don’t\ndismiss that possibility entirely。\n①句承上启下明确作者观点：切勿完全否定上述可能。\ndismiss that possibility entirely （that\npossibility 回指 when the robots come for their jobs） 回应上段 will probably go unmentioned，指向人们/政\n策制定者对“机器人威胁中产阶级工作”的不予关注。Don't dismiss... entirely 表明作者正反两面观点：\n必须认识到威胁存在、做好必要准备；但也无需如临大敌、惶恐不安。\n②句援引研究发现论证①句：自动化对中产阶级工作威胁最大。About half of U.S. jobs ••.with the\nmiddle class...体现从“说明美国整体情形”到“聚焦中产阶级”的逻辑。\n主句以 About half、at high risk 强调美国现有工作被自动化的比例之大、风险之高。状语以\ndisproportionately squeezed 强调中产阶级尤其不堪负担（回应首段 annoying challenge）：disproportionately 意\n为 too much in relation to something else“不成比例地，尤其多地”，暗含和其他阶层的比较、强调中产工作被\n自动化之“猛烈”—远高于其在“美国现有工作”中的占比；squeeze 原意 to press something firmly\ntogether with your fingers or hand”紧握，挤压”，此处以其喻义凸显中产工作被自动化之“彻底”—被自动\n化浪潮紧紧抓住、从一类又一类的工作上挤走，直至绝大部分都被机器人取代。\n③④⑤句进而阐释②句，分人群说明受自动化威胁的程度（意在表明中产阶级受威胁最大）。\nLower-income jobs...But middle-class occupations...The rich.•.体现分类论证方式。\n③句指出低薪工作（lower-income jobs）对机器人不具吸引力（受威胁较低）。don't appeal to robots\n10",
+  "pdf_text_layer": "恼人挑战（ annoying c h a ll e nge ）， 却 很可能在下周总统大选 中根 本不被提及（ go unm e nti oned ）， 这暗示作\n者意在分 析问题，唤起政策制定 者关注， FIil ： 本文直接面 向对象为 “政策 制 定者”（注 ： 中产阶级是美国社\n会 的中坚力 量 ，其面 临问 题理应成为总统大选的焦点〉 。\n     二、“ go 十 否定式的过去分词”结构暗含“否定、批评态度” 。 “ go ＋ 否定式 的过 去分词\n(u nm enti oned , unchecked, unpuni s h ed 等）”有两层含义 ： 1. 字 面含义为， 某 一 动作“实际未发生 ”； 2 . 言\n外之 意为，该 动作“原本应发生” 。 如：本文 go unm e ntion ed 指出政治 领 袖们“ 不 会 提及” 机器人威胁的同\n时，暗 示 作者观点“理应关注” 。再 如： Th e ir s uffering may ha ve gone unn ot i c e d. 指出他们的痛苦“很可能\n不被 注意 到”的同时，带有 言 外之 意“应眩被关注” 。\n\n       Ill 0Don ’ t dismiss( that poss ibilit y entirely. f} About          切勿完全否定上述可能 。 牛津大学的\nha lf of U . S. jobs are at hi gh ri sk of being automated( ,          l 研究表明，美国的工作中约有 一 半处于被\nacco rding to a U ni versity of Oxford st ud y, wit h the middl e\n                                                                       自动化的高风险，中产阶级尤其不堪负担 。\ncl ass disproportionately( squeezed©.      8 Lower- in come jo bs      低收入工作，如园艺、日托，对机器人不具\nlike gardening or day ca r巳 don ’ t appea l to robo t s . 。 But\n                                                                       吸引力 。 但许多中产职业 一一货车驾驶、\nma ny midd le- class occ upa ti ons   truck ing , fin ancial advice,\n                                                                       理财咨询、软件工程一一 已经引起了他们\nso ftware engin ee ring       have aroused th eir int erest, or\n                                                                       的兴趣，或者很快会引起他们的兴趣 。 富\nsoo n will. 0The ri ch own the robots , so they will be fm e.\n                                                                       人拥有机器人，他们将会很好 。\n\n\n\n                                           ·词汇注释与难旬分析 －~ ··： ；／\n( dismiss[ dis I m1s}t人 拒绝考虑，不接 受\n( automate [ 1 ；） ：问创］ v. 使自动化\n( disproportionately [ 1d1spN1p;): f .:mat1 1 ] ad. 不成 比\n                                                            ;\n                                                            $\n\n                                                            >\n                                                                ( squeeze[skwi: z] v. 挤压 ，榨取\n                                                                ．经典搭配\n                                                                ( at high risk of （处于 高 风险中）\n  例地                                                        i   ( appea l to （吸 引 ）\n\n\n\n                                                 c~J董事分析；i::: 1'\n       第二、三段论证问题。\n       第二段援引研究发现指出：中产阶级工作面临被自动化（被机器人抢走）的巨大威胁。关键词： Don’t\ndismiss that possibility entirely 。\n       ① 旬承上启下明确作者观点：切勿完全否定上述可能。 di s mi s s that possibility entirely ( that\npo ss ibili ty 回指 w h en the robo ts come for th eir j o b s ） 回应上段 will probab ly go unme nti o n 时 ， 指向人们 ／ 政\n策 制 定者 对“机器人威胁中 产 阶级工作” 的不 予关注 。 Don ’ t di smi ss ... e n t ire l y 表明作者正反 两面观点：\n必须认识到威胁存在、做好必 要准备； 但也 无需 如临大敌、 惶 恐不 安 。\n       ② 旬援引研究发现论证 ① 旬：自动化对中产阶级工作威胁最大。 About half of U.S. jobs ... with the\nmiddle class . . . 体现从“说明美国整体情形”到“聚焦中产阶级”的逻辑。\n       主句 以 About ha lf 、 at high ri sk 强调 美国 现有 工 作被自动化的比例 之大 、风险之 高 。 状语以\ndi sproportionately squ eezed 强调中 产 阶级尤 其不堪负 担 （ 回应 首 段 a nnoy i ng chall enge) : d i sproport i onate l y 意\n为 too much in relation to something e l se“不 成比例地，尤 其多 地 ”，暗含和其他阶层 的比 较 、 强调中产工 作被\n自动 化 之“猛烈”一一 远离于 其在“美国 现有 工 作”中的占比； squ eeze 原意为 to press something firml y\ntoge t h巳r with yo ur fingers or h and“紧握，挤压”， 此处以 ；目： II俞义凸 显中产－ 工 作被 自动 化 之\n化 浪潮紧紧抓住 、从 一类又一类的工作 t 挤走，直至绝大部分都被 机器 人取代 。\n       ③④⑤ 旬进而阁释 ② 旬，分人群说明受自动化威胁的程度（意在表明中产阶级受威胁最大）。\nLower-income jobs •. • But middle-class occupations. , , The rich, , ，体现分类论证方式。\n       ③ 旬指出低薪工你（ lower-income jobs ）对机器人不具吸引力（受威胁较低） 。 do n ’ t ap pea l to robots\n  10",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2218,
+    "pdf_text_character_count": 3581,
+    "nonempty": true
+  }
+}

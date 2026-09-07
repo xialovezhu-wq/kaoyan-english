@@ -1,0 +1,422 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P009",
+  "year": 2016,
+  "pdf_page": 9,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "财产分配问题：婚前财产各自所有，婚后财产平均分割。④句介绍再婚情况：离异男女可再婚，但存在性",
+      "width": 0.8805969705089328,
+      "x": 0.03198297344489381,
+      "y": 0.9084302325296084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "别偏见。连词 while 并以两组对比结构（The divorced male VS the woman、doesn't have a waiting period",
+      "width": 0.8805970288599426,
+      "x": 0.03198292917344026,
+      "y": 0.8895348835470502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014627739534539663,
+      "text": "VS must wait ten months）详细阐释性别不平等：离异男性再婚无需等待期 VS离异女性必须等待十",
+      "width": 0.8805969705089328,
+      "x": 0.03198297344489381,
+      "y": 0.8706395352745468
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014618264960496674,
+      "text": "个月。",
+      "width": 0.05117270504311441,
+      "x": 0.031982944365436396,
+      "y": 0.8517441863501283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.028031290743155135,
+      "text": "第二部分 阅读理解",
+      "width": 0.339019191880527,
+      "x": 0.33049040194086665,
+      "y": 0.7874837025116019
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01043024740753773,
+      "text": "•。。",
+      "width": 0.025586352521557165,
+      "x": 0.663113006965945,
+      "y": 0.7803129076589569
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010380754259450176,
+      "text": "知识补充",
+      "width": 0.0661657709008649,
+      "x": 0.06819643142118892,
+      "y": 0.7498968320791779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01826127535982891,
+      "text": "Part A",
+      "width": 0.08403380559917617,
+      "x": 0.4302645462672211,
+      "y": 0.74741005989903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011804144882938239,
+      "text": "原文外教朗读",
+      "width": 0.09594882651451209,
+      "x": 0.7931769717107611,
+      "y": 0.7483702737936948
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "Text 1",
+      "width": 0.085287841738524,
+      "x": 0.3091684469345759,
+      "y": 0.7136627910739655
+    },
+    {
+      "confidence": 1,
+      "height": 0.017608622684006314,
+      "text": "时尚业的身材典范面临挑战",
+      "width": 0.3027718363482911,
+      "x": 0.40938167148470306,
+      "y": 0.7151162793307798
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.028532429810764093,
+      "text": "、文章总体分析",
+      "width": 0.1710175793211957,
+      "x": 0.09374308725515124,
+      "y": 0.6620392909110739
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565204237399598,
+      "text": "本文选自 The Christian Science Monitor《基督教科学箴言报》2015年4月5日一篇题力 A",
+      "width": 0.8422174690786328,
+      "x": 0.07036248783097486,
+      "y": 0.6395045629735188
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "Challenge to the Fashion Industry's Body Ideals（时尚业的身材典范面临挑战）的文章。作者围绕法国“旨",
+      "width": 0.8805969705089328,
+      "x": 0.029850776685832005,
+      "y": 0.6177325584296169
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "在叫停时尚业瘦身风”的新近立法展开论述，按照“介绍法国新近立法事件—全面评述事件—介绍",
+      "width": 0.8805969705089328,
+      "x": 0.02985075967090687,
+      "y": 0.6002906979198958
+    },
+    {
+      "confidence": 1,
+      "height": 0.02188388744886427,
+      "text": "他国解决同一问题的不同思路—概括评述两种思路优劣并提出补充建议”的脉络行文。文中采用了",
+      "width": 0.8786859749380079,
+      "x": 0.031874862607992764,
+      "y": 0.5780217712128217
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "对比、举例、数据、因果等多种论证方式。",
+      "width": 0.341151366954096,
+      "x": 0.029850751490969208,
+      "y": 0.5593220341185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "注：近十年英语一真题阅读A首次选用《基督教科学箴言报》中文章，因此有必要对其稍作介绍：这是",
+      "width": 0.840085264829559,
+      "x": 0.07036248792637181,
+      "y": 0.5404172099801785
+    },
+    {
+      "confidence": 1,
+      "height": 0.017731800228551697,
+      "text": "一份略带基督教性质的报纸，宣讲教义不多，而是试图通过对各种事件的“正面”报道来启示和感化人们。",
+      "width": 0.8848613790070805,
+      "x": 0.029850769238463876,
+      "y": 0.5215123857022965
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "它以善于强调报道国内国际重大事件，并对其进行见解独到的述评和分析而著称于报界，受到知识界的推",
+      "width": 0.8784648246108688,
+      "x": 0.03198293323218367,
+      "y": 0.5026075620015007
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "崇。本文含有的观点“内在美大于外在美”、“道德约束比强制性严惩更有效”等恰恰体现了该报文风。",
+      "width": 0.8422174690786328,
+      "x": 0.029850764261322972,
+      "y": 0.4823989568595646
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.024834374249991797,
+      "text": "许二、语篇分析及试题精解",
+      "width": 0.302771865523796,
+      "x": 0.0319829353617694,
+      "y": 0.4504563230005426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013269003553527337,
+      "text": "I ①France,which prides itself as the global innovator",
+      "width": 0.4754797386621654,
+      "x": 0.07249466432208032,
+      "y": 0.42568448470759335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019170693965747776,
+      "text": "法国，一个自豪于自己“全球时尚",
+      "width": 0.2969445835791855,
+      "x": 0.6094976460055117,
+      "y": 0.41657081883192426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327847874926158,
+      "text": "of fashion, has decided its fashion industry has lost an",
+      "width": 0.5159914443415392,
+      "x": 0.03198296446746751,
+      "y": 0.40677966072309935
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "革新者”身份的国家，如今栽定其时尚",
+      "width": 0.3347547833823793,
+      "x": 0.5692963827011345,
+      "y": 0.39825581369239915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013138246349747473,
+      "text": "absolute right to define physical beauty for women.",
+      "width": 0.4562899587715105,
+      "x": 0.03198295808759216,
+      "y": 0.38657105590725493
+    },
+    {
+      "confidence": 1,
+      "height": 0.013287953944995823,
+      "text": "② Its",
+      "width": 0.05970149286390486,
+      "x": 0.4882729206469389,
+      "y": 0.38787483679674495
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "业失去了定义女性形体美的绝对权。",
+      "width": 0.3368869876314532,
+      "x": 0.5714285786256378,
+      "y": 0.37936046541989565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014601209483836697,
+      "text": "lawmakers gave preliminary\" approval last week to a law that",
+      "width": 0.5159914443415393,
+      "x": 0.03198295535588293,
+      "y": 0.3676662322183606
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "其立法者上周初步批准了一项法规，即",
+      "width": 0.3347547833823793,
+      "x": 0.5692963848013476,
+      "y": 0.3604651164615623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "would make it a crime to employ ultra®-thin models on",
+      "width": 0.5159914443415392,
+      "x": 0.03198295842624525,
+      "y": 0.3487614078351007
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "雇用极瘦T台模特会被判有罪。议会",
+      "width": 0.3368869876314532,
+      "x": 0.5692963806588393,
+      "y": 0.34011627906200037
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013166671936950425,
+      "text": "runways. ⑧ The parliament also agreed to ban websites that",
+      "width": 0.5159914443415392,
+      "x": 0.03198296102752455,
+      "y": 0.32985658386292993
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "还同意取缔那些以提倡极端节食的方",
+      "width": 0.3368869876314532,
+      "x": 0.5692963816213735,
+      "y": 0.32267441896640725
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014629635071039537,
+      "text": "“incite® excessive®thinness” by promoting extreme dieting.",
+      "width": 0.49680172280189405,
+      "x": 0.031982938876238355,
+      "y": 0.310951759974181
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "式来“鼓动过度瘦削”的网站。",
+      "width": 0.2515991385990529,
+      "x": 0.5692963820437571,
+      "y": 0.3023255812796084
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372295434372,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22174839581403855,
+      "x": 0.34328358738082715,
+      "y": 0.2572674417774282
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013267108017027462,
+      "text": "①preliminary Lpri Iminar］a.初步的，预备的",
+      "width": 0.3518123590239603,
+      "x": 0.029850747193776783,
+      "y": 0.22946544997519758
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02470930116894654,
+      "text": "3",
+      "width": 0.012793176260778583,
+      "x": 0.46695096005724396,
+      "y": 0.21656976833510033
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013267108017027462,
+      "text": "①pride as（自豪于，以⋯••为蒙）",
+      "width": 0.24946693434997902,
+      "x": 0.49466951582074614,
+      "y": 0.22946544997519758
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013276583212761706,
+      "text": "②ultra- ［'Altra」pref.极，超过某限度",
+      "width": 0.29211087345393166,
+      "x": 0.02985074299051827,
+      "y": 0.21056062594831038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627905993604637,
+      "text": "②fashion industry（时尚业）",
+      "width": 0.21108741833192668,
+      "x": 0.49680170771392285,
+      "y": 0.2122093026233528
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095176064,
+      "text": "③incite ［In'sart］v.煽动，鼓动",
+      "width": 0.2302771836348291,
+      "x": 0.031982945442713316,
+      "y": 0.19165580174673646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627905993604637,
+      "text": "③absolute right（绝对权）",
+      "width": 0.19402984269034562,
+      "x": 0.4968017101047205,
+      "y": 0.19331395378614347
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "④excessive ［uk'sesiv］a.过多的，极度的",
+      "width": 0.29850745702564835,
+      "x": 0.031982947393359225,
+      "y": 0.17275097761516345
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013325854106241652,
+      "text": "④give approval to（批准⋯⋯）",
+      "width": 0.2281449793857553,
+      "x": 0.4968017084521117,
+      "y": 0.1744186046943057
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01668922966431141,
+      "text": "•经典搭配",
+      "width": 0.10895911047153219,
+      "x": 0.029742192176215505,
+      "y": 0.14645189660226787
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01321783774523877,
+      "text": "France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an",
+      "width": 0.8422174690786328,
+      "x": 0.07249468750226114,
+      "y": 0.1277705343518798
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "absolute right to define physical beauty for women.",
+      "width": 0.41577825309213673,
+      "x": 0.03198294688143687,
+      "y": 0.1075581396398001
+    }
+  ],
+  "vision_ocr_text": "财产分配问题：婚前财产各自所有，婚后财产平均分割。④句介绍再婚情况：离异男女可再婚，但存在性\n别偏见。连词 while 并以两组对比结构（The divorced male VS the woman、doesn't have a waiting period\nVS must wait ten months）详细阐释性别不平等：离异男性再婚无需等待期 VS离异女性必须等待十\n个月。\n第二部分 阅读理解\n•。。\n知识补充\nPart A\n原文外教朗读\nText 1\n时尚业的身材典范面临挑战\n、文章总体分析\n本文选自 The Christian Science Monitor《基督教科学箴言报》2015年4月5日一篇题力 A\nChallenge to the Fashion Industry's Body Ideals（时尚业的身材典范面临挑战）的文章。作者围绕法国“旨\n在叫停时尚业瘦身风”的新近立法展开论述，按照“介绍法国新近立法事件—全面评述事件—介绍\n他国解决同一问题的不同思路—概括评述两种思路优劣并提出补充建议”的脉络行文。文中采用了\n对比、举例、数据、因果等多种论证方式。\n注：近十年英语一真题阅读A首次选用《基督教科学箴言报》中文章，因此有必要对其稍作介绍：这是\n一份略带基督教性质的报纸，宣讲教义不多，而是试图通过对各种事件的“正面”报道来启示和感化人们。\n它以善于强调报道国内国际重大事件，并对其进行见解独到的述评和分析而著称于报界，受到知识界的推\n崇。本文含有的观点“内在美大于外在美”、“道德约束比强制性严惩更有效”等恰恰体现了该报文风。\n许二、语篇分析及试题精解\nI ①France,which prides itself as the global innovator\n法国，一个自豪于自己“全球时尚\nof fashion, has decided its fashion industry has lost an\n革新者”身份的国家，如今栽定其时尚\nabsolute right to define physical beauty for women.\n② Its\n业失去了定义女性形体美的绝对权。\nlawmakers gave preliminary\" approval last week to a law that\n其立法者上周初步批准了一项法规，即\nwould make it a crime to employ ultra®-thin models on\n雇用极瘦T台模特会被判有罪。议会\nrunways. ⑧ The parliament also agreed to ban websites that\n还同意取缔那些以提倡极端节食的方\n“incite® excessive®thinness” by promoting extreme dieting.\n式来“鼓动过度瘦削”的网站。\n•词汇注释与难句分析•\n①preliminary Lpri Iminar］a.初步的，预备的\n3\n①pride as（自豪于，以⋯••为蒙）\n②ultra- ［'Altra」pref.极，超过某限度\n②fashion industry（时尚业）\n③incite ［In'sart］v.煽动，鼓动\n③absolute right（绝对权）\n④excessive ［uk'sesiv］a.过多的，极度的\n④give approval to（批准⋯⋯）\n•经典搭配\nFrance, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an\nabsolute right to define physical beauty for women.",
+  "pdf_text_layer": "财产分配问 题 ： 婚前 财产各自所有，婚后 财 产平均分割。④句介绍再婚情况 ： 离异男女可再婚，但存在性\n别偏见 。 连词 whil e 并 以两 组对 比 结 构 （ T h e divorced male VS the woma n 、 does n 't have a wa iting period\nVS mu st wa it ten months ）详细阐释性别不平等：离异男性再婚无需等待期 vs 离异女性必须等待十\n个月 。\n\n\n  回睦粥~田                                                                                                                                                              回洒自础回\n\n                                        第二部分阅读理解                                                                                                                     一\n                                                                                                                                                                     …\n   ~~~~撞撞B                                                                                                                                                           固毡罩斟明\n    知识补充                                           Part A                                                                                                            原文外教朗读\n\n\n\n                           /        Text 1        时尚业的身材典范面临挑战\n\n\n     本文选自 The Christian Sc ience Monitor 《基督教 科学箴 言 报 》 20 15 年 4 月 5 日 一 篇题为 A\nCha ll enge to t he Fas 9ion Industry ’ s Body Id ea l s （时 尚业的 身材典范面临 挑战 ）的文章。作者围绕法国“旨\n在叫停时尚业瘦身风”的新近 立法展 开论述，按照“介绍法国新近 立法事 件 一－ 全面评 述 事 件一一介绍\n他 国解决同一问题的不同思路                        概括评述两种思路优劣并提出补充建民”的脉络行文 。 文中采用了\n对 比、 举例、数据、因果等多 种论证 方式。\n     注 ：近十年英语一真题阅读 A 首次选用《基督教科学箴言报》中文章，因 此 有必要对其稍作介绍 ： 这是\n一 份略带 基督教性 质的报纸 ，宣 讲教义不多，而是试图通过对各种 事 件的“正面 ”报道来启示 和感化人们 。\n它以 善于 强调报道国内国际 重大事 件，并对其进行见解独到的述评和分析而 著称于报界， 受 到知识界的推\n崇。本文含有 的观点“内在 美大于 外在 美 ”、 “道德 约束比强制性严惩更有效” 等恰 恰体现了该报 文风。\n\n\n\n\n     lJ OFrance, w hich prides itself as the g loba l innovato r                                                    法阂， 一 个自豪于自己“全球时尚\nof fas hion , has decided its fash ion indus try has lost an\n                                                                                                   革新者”身份的国家，如今裁定其时尚\na bsolu te right to defin e phys ica l bea ut y for women.                  8 Its                  业失去了定义女性形体关的绝对权 。\nlawma kers gave preliminary( app ro va l last week to a law that\n                                                                                                   其立法者 上 周初步批准了一项法规，即\nwo uld make it a crime to emplo y ultra® thin mod els on\n                                                                                                   雇用极疲 T 台模特会被判有罪 。 议会\nrunways. @ T he pa rli ame nt also agreed to ban we bs ites that\n                                                                                                   还同意取缔那些以提倡极端节食的方\n“ inciteCD excessive® thinness ” by promoting extreme di eting.\n                                                                                                   式来“鼓动过度疲削”的网站 。\n\n\n\n                                       ；－：词汇注陆的分析；；； J\n                                                                                                                                                          ;))\n                                                                            ①②③④\n                                                                                                                                                                豪）\n                                                                                          ιM U\n                                                                                                            下\n                                                                                                            tm\n                                                                                                                MM hU                    丛时付比\n                                                                                             阳\n                                                                                                                        ltt\n\n\n\n\n                                                        ’”泊，仆泊／何\n                                                               q川U／\n                                                                  J仆且 dud\n                                                                                                                               FVJ\n                                                                                                                                                          －叫J\n( preliminary [ prr 1 11mrn ar 1 ］ ι 初步的，预备的                                   PLh r ’l            斗”              as\n                                                                                                                        －－ ‘     ,(\n                                                                                                                                     l\n                                                                                                                                                           哼\n                                                                                                   an\n\n\n\n                                                                                                                                                尚权准\n                                                                                   1  0\n                                                                                     SEJ                                             f                业\n( ultra- [ 1Alt ra〕 p ref. 极，超过某限度                                                                                       rA\n                                                                                                       l\n\n\n\n\n                                                                                  ·h                                             E                ）\n                                                                                          泊巳                                   自叫O\n                                                                               LUHA\n                                                                               ag                  此\n                                                                                                                        ft 、\n                                                                                                            n                        7\n\n( incite ［ 时 sa1t ] v . 煽动，鼓动                                                                          ep\n                                                                                                                   －\n\n\n\n\n                                                                                               a   P        m   盯  －川    争k\n                                                                                                                                 (   才\n                                                                                                                                                      …\n( excessive [ 1k'ses1v Jι 过多的，极度的                           ，\n                                                                                                                                                           ·\n\n\n\n\n．经典搭配\n                                                          0\n                                                          －\n\n                                                           ’\n\n\n\n\n     France, which prides itself as the global innovator of fashion , has decided its fashion industry has lost an\nabsolute right to define physical beauty for women.\n\n\n\n                                                                                                                                                                          9",
+  "quality": {
+    "vision_line_count": 50,
+    "vision_character_count": 1606,
+    "pdf_text_character_count": 7864,
+    "nonempty": true
+  }
+}

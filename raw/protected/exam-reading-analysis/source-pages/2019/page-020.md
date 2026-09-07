@@ -1,0 +1,134 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2019-P020
+year: 2019
+pdf_page: 20
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2019 解析 PDF p20｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+．语篇分析
+第二段介绍大学“成绩宽恕”政策的具体内容。关键词为：①allows； ②retake； ③the highest grade。
+本段力and 连接的一个复合句，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句二中 the
+most recent grade or the highest grade is the only one that counts 进一步明确分句一中 retake a course 的
+内涵：机会远远不止一次。可见该政策本质上是学校为学生开辟的“高分”绿色通道。注：旬中 count 不
+同于 calculate（计算、核算），作不及物动词用，意为 to be allowed or accepted”算数、有效、被接受”。
+【深层解读】“只计入最高分”的原则明确传达一种信号：受众范围不会只限于低分者（received a low
+grade），而是会扩大至所有不满于自己成绩的学生，怂恿他们追逐这一政策福利，最终导致“分数膨胀”现
+象。故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细化解释。
+_① The use of this little- known practice® has
+近些年来，随着大学不断竭尽所能让学
+accelerated" in recent years, as colleges continue to do their
+生留在学校（并支付学费）、提高毕业率，这
+utmost to keep students in school （and paying tuition®） and
+种鲜为人知的做法开始加快推行。数十年
+improve their graduation rates. ② When this practice first
+前该做法刚实行时，通常仅适用于大一新
+started decades ago, it was usually limited to freshmen®，to
+生，为的是在其向大学水平课程艰难过渡的
+give them a second chance to take a class in their first year if
+过程中给予他们一次在第一学年重修课程
+they struggled® in their transition® to college- level courses.
+的机会。但现在，除许多知名院校外，多数
+⑧ But now most colleges, save for many selective®
+大学允许所有本科生，甚至研究生得到低分
+campuses, allow all undergraduates®，and even graduate
+“宽恕”。
+students, to get their low grades forgiven.
+•词汇注释与难句分析•
+①practice ［'prsektis］n. 通常的做法，惯例，常规
+⑦selective ［si'lektiv］a. 严格筛选的
+②accelerate ［ok'selareit］v.（使）加速，加快
+⑧ undergraduate ［Anda'grsedjoat］n. 大学本科生
+③tuition ［tju：'ijon］ n. 学费
+• 经典搭配
+④freshnun［'frefmon］n.（美国中学或大学的）一年级学生
+①do their utmost（尽全力，竭力）
+⑤struggle ［'strAgol］ v. 艰难地行进，吃力地进行
+②save （for）（除⋯ 之外）
+⑥transition ［treen'zijon］ n. 过渡
+•语篇分析。
+第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为：①improve their graduation
+rates； ② usually limited to freshmen。
+①句概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。this little-known practice 暗合
+首段②句 a policy often buried deep in course catalogs，重申“成绩宽恕”这一政策的“潜规则”性质，而这
+与其“愈演愈烈的现状（has accelerated in recent years）”反差鲜明，凸显写作意图：引起大众对这一政策
+的关注与思考。as 引出现状背景/原因，continue to do their utmost 展现大学的“不渝”与“尽瘁”，而对象
+keep students in school 以及 improve their graduation rates 却尽显讽刺：完全无关教育、科研本身，括号内
+and paying tuition 更是曝光其意图：追逐高额学费。注：新生保留率（keep students in school）是指大一新
+生次年返校上大二的比例，也是判断新生对学校满意程度的重要参考。
+②③句昔今对比讲述政策“变形记”。两句以时间状语 decades ago VS now 以及转折词 But 体现政策
+前后变化，同时回应①句具化强调政策现状。
+②句回顾政策初衷：为大一新生量身定制。usually limited to freshmen 与“政策加速滥用”的语境对
+比鲜明，to give them a second chance. ..具体解释政策目的：为新生提供缓冲，助其适应大学生活和学
+习；if they struggled... 借“假设”外壳补充新生需要帮扶/出台政策的深层原因，struggle（意力“艰难、吃
+力地前行”）形象展现“新生过渡期之苦”，侧面突显政策的必要性。
+20
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+：＞：：语：毒分析：：＜ ；／
+       第二段介绍大学“成绩宽恕”政策的具体内容。关键词为： ① allows ； ② retake ； ③ the highest grade。
+       本段为 a nd 连接的 一 个 复合句 ，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句 二 中 the
+most recent gr ade or the highest grade is th e only on巳 that counts 进 一 步明确分句 一 中 retake a course 的
+内 涵 ：机 会远远不 止 一次。 可见 i京 政策本质上 是学 校为学生开辟的“高分”绿色通道 。 注：句中 co unt 不
+同 于 ca lcul ate （ 计 算 、核算），作不及物动词用，意为 to be a llowed or accepte d“ 算数 、有效、被接 受”。
+       【深层解读】 “只 计入 最高 分”的原则明确传达 一 种信号： 受众 范围不 会只 限 于 低分者（ received a low
+grade ）， 而 是会扩大至 所有不满于自己成绩的 学生 ，怂恿他们追逐这 一 政策福利，最终导致“分数膨胀”现
+象 。 故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细 化解释 。
+
+       皿   0 T he     use of this li tt le- known practice(         has
+                                                                              近些年来，随着大学不断竭尽所能让学
+accelerakd( in recent yea rs, as colleges continue to do their
+                                                                          生留在学校（并支付学费〉、提高毕业率，这
+utmost to keep students in school ( and paying tuition® ) and
+                                                                          种鲜为人知的做法开始加快推行 。 数十年
+improve their g rad uation rates. @ When th is practice first
+                                                                          前该做法刚实行时，通常仅适用于大一新
+star ted decades ago, it was usually limit:“         to freshmen® , to
+                                                                          生，为的是在其向大学水平课程艰难过渡的
+give them a second chance to take a class in t heir first year if
+                                                                          过程中给予他们一次在第一学年重修课程
+they struggledφ i n their transition® to college- level courses.
+                                                                          的机会 。 但现在，除许多知名院校外，多数
+@ But      now    most       coll eges,   save for   many selective①
+                                                                          大学允许所有本科生，甚至研究生得到低分
+campuses, allow all undergraduates® , and even grad uate
+                                                                          “宽恕” 。
+st udents, to get their low grades forg iven.
+
+
+                                              ： ·附注释当时穿插＜ 1'
+( prat:“ ce [ 1prrekt1s] n . 通常的做法，惯例，常规                        $    ( selective [s 11lekt1v ］ α ．严格筛选的
+( accelerate [ a k 1se!are1t ］队（ 使 ） 加 速，加快                     >    ® undergraduate [ Anda' grredjuat] n. 大学本科生
+( tuition [ tj u:11fan］ η． 学费                                   < ·经典搭配
+( freshman [ 'frefman] 11. C美国 中学或大学 的 ）一年级学生                   ? ( do their u tmost （尽全力，竭力）
+( struggle [ 'strAgal] v. 艰难 地行进，吃力 地 进行                        ; ( save (fo r)   C l徐……之外）
+® transition [ trren'z1fan ］ π 过渡                               $
+                                                      ； ·．语篇分析···. ：：： i/
+       第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为 ： ① improve their graduation
+rates ; ( usually limited to f，咽hmen 。
+       ① 旬概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。 this little kno w n practice 暗合
+首段 ② 句 a po li cy o ft en buri ed deep in co urse c a talogs ，重申“成绩宽恕”这 一 政策的“潜规则”性质，而这
+与其“愈演 愈烈的现状（ has acce lerat ed in recent years）”反差鲜明，凸显写作意图：引起大众对这 一 政策
+的 关注与思考 。 as 引出现状背景／原因， cont inu e to do their utmo s t 展现大 学的“不渝”与“尽瘁”， 而对 象
+keep s tudents in sc hool 以及 impro ve t heir grad uation rates 却尽显讽刺 ： 完全无关教育、科研本身，括号内
+and paying tuition 更是曝光其 意图 ：追逐 高额学费。 注：新生保留率（ keep students in school) 是指大 一新
+生次年返校上大二 的比例，也 是 判断新 生对学校满意 程度的重要 参考。
+       ②③ 旬昔今对比讲述政策“变形记”。两旬以时间状语 decades ago VS now 以及转折词 But 体现政策
+前后变化，同时回应 ① 旬具化强调政策现状。
+       ② 旬回顾政策初衷：为大一新生 量 身定制。 usually limited to fr es hm e n 与“政策 加速滥用”的 语境对
+比鲜明， to g ive them a second chance .. .具 体解释政策目的：为新生提供缓冲，助其适应大学生活和学
+习； i f t hey s tru ggled .      借“假设”外壳补充新生需要帮扶 ／ 出台政策的深层原因， struggle （ 意为“ 艰难、吃
+力 地前 行”）形象展 现“新生过班期之 苦”， 侧面突显政策的必要性 。
+  20
+```

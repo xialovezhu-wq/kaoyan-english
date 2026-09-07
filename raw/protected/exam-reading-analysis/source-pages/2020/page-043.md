@@ -1,0 +1,140 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2020-P043
+year: 2020
+pdf_page: 43
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2020 解析 PDF p43｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+［E］ Biological factors
+behind
+eye contact are
+［E］人们正在研究目光接触背后的生
+being investigated
+物学因素
+［F］ Most people are not comfortable holding eye
+［F］ 大多数人与陌生人目光接触时都
+contact with strangers
+会感到不自在
+［G］ Eye contact can also be aggressive®
+［G］目光接触也可能是挑衅性的
+•词汇注释与难句分析
+① instinctively ［an'strktvi］ ad.本能地（B项）
+S
+②
+aggressive ［e'gresiv］a. 好斗的，挑衅的（G项）
+• 小标题分析
+先浏览所有选项：几乎都含 eye contact，可明确“目光接触/眼神交流”是全文讨论话题，不能作为选
+项区分信息。随后进行具体分析：
+LA］表明备选段侧重点在“目光锁定/停驻（eye fixations）”上，且强调每一次的锁定时间都“极短暂
+（brief）"
+［B］表明备选段重点讨论“目光接触过多（Too much eye contact）”会怎样，且重在说明这会令人感
+到“粗鲁/无礼/被冒犯（rude）”。
+［C］ 表明备选段应重点介绍目光接触起到的“友好的社交信号（friendly social signal）”功用。
+［D］表明备选段应出现与“性格/个性（personality）”相关信息，会谈及人们就目光接触的“不同反应
+（reacts）”，且重在表明二者关系。
+［E］表明备选段主要谈及影响目光接触的“生物学因素（biological factors）”，会出现生物学相关词汇。
+［F］表明备选段着重谈论人们与“陌生人（strangers）”进行目光接触时的“不自在感（not
+comfortable）”，可能会涉及为什么或如何不自在。
+［G］表明备选段主要论述目光接触可以“具有攻击性/挑衅性（aggressive）”这一点，且 also一词暗
+示前文已谈及目光接触的其他表意功能。
+I
+① In a social
+situation, eye contact with another
+在社交场合，与他人进行目光接触可
+person can show that you are paying attention in a friendly
+以表明你在友好地关注对方。但它也可
+way. ② But it can also be antagonistic®
+，such as when a
+能是在传达敌意，例如一位政治候选人在
+political candidate turns toward their competitor during a
+辩论中会转向对手，向其投去敌视的目
+debate and makes eye contact that signals®hostility@.
+光。以下是硬科学有关目光接触的发现：
+③ Here's what hard science reveals about eye contact：
+词汇注释与难句分析，
+①antagonistic［eeniteega'nistik］a. 敌对的；反对的
+• 经典搭配
+②signal ［'signel］v. 发信号，表达，表示
+①in a social situation 在社交场合
+③hostility Lhp'stilati］ n. 敌意；敌对
+②make eye contact 进行目光接触
+语篇分析
+第一段指出目光接触具有双向功能：传递友好VS 表达敌意。①句设定情景“社交场合（In a social
+situation）”，提出关注对象“目光接触（eye contact）”，并指出其传意功能“向对方表达友好关注（paying
+attention in a friendly way）”。
+② 句借 But it can also.. 引出目光接触另一功能“传达敌意
+（antagonistic）”，并举例具体社交场合（such as when...）进行说明（signals hostility 与 be antagonistic 近
+义）。③句引出下文，硬科学所揭示的目光接触有关情形。Here's..是小标题文章典型的“引入正文”
+标记；reveal 意为“揭示，展示”，暗示下文将带给我们一些不为人熟知的、新奇的发现。注：硬科学（hard
+43
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+[E] Biological factors          behind         eye      contact        are               [ E] A ~11 .if. ,(I 'ff Jt ~ Jt:, 4i .ti ,W J&- t? ~
+           being investigated
+                                                                                                    ~~~*
+       [F] Most people are not comfortable holding eye                                          [F] :k. j !ltA .t; Ri ~ A ~ 7':. -1:i- ~Bir~
+           contact with strangers                                                                      ~~ j!J ~ tJ ,(l
+       [G] Ey~ contact can also be aggressive~                                                 [G] 1§1 .;\:.~~~ 'iiJ"~,l-1Jt*ft,t1 ~
+
+                                                 .-----~---~---·······························, . ,I
+                                                 :.. ~..~}~.~ff .~·1:Uft.f!r..~ ..:j/Ji;.
+ <D instinctively [ m 1stIDktivli] ad. *~:i&(B ~ )                        ~5 <ID aggressive [ a 1gres1v] a. ~4 (f(J ,~t-(f(J (G ~ )
+                                                        (:~~,~~ijiJi{ :~;/
+       ~jj!Jl\tliJifi°~IJi: JLJF-~'*° eye contact, Rf P~ift" ~ *.~M/ ffi~ ~mt":m:~Jti-t~i!B, ~ ~11= ~ ~
+ !Ji 1& ~ 1s ., o 11m 12i i! fr A 1* ~ ,1r :
+      [A] ~ ~ 4-~m:1J!tlffl:~?£" § -ftfl1!~/ ff tt (eye fixations)" ..t., .§.si vi14i-?X 89-fll!~ fJ;f fa]$ "ti ffi ,0
+ (brief)" o
+      [BJ ~ f!ij •~&ffl:,~ i..f~" § -ft~.tt:i:J:~ (Too much eye contact)"~~~, Ji1i:?£iJt f!ij iX ~~ A.~
+ ¥1J"ffl l-/ 5t1L/flt Im (rude)" o
+      [CJ ~ f!Jl 4i-~&mlffl:~ 1t- ffi § -fttl.tt~ J!J 89" ~ Jlf 89 *±3C m% <friendly social signal) ":ro ffl                            o
+
+    [DJ ~ f!Jl 4,-~ ffl:J.i!Z ili lJ.ll ~" tt*! / ~tt (personality) "ffl ~{"if,@- , ~~&A 11'1 ~ § jt~ ti 89 "~ IA] Ji Ni.
+(reacts)" ,llffl:1':f~M=~~~ o
+    [ E] ~f!ij 4,-~~.±~~,&~1$] § j6~,ti09"~~~~#(biological factors)" ,~ili31-i!~~~ffl~i~HCo
+    [ F] ~ M-1- ~~ft 1I ~ i'B .A. fr] ~"~~.A.< strangers)"~ fr § ft ti ti a-t 89 "~ § Z£ ~ <not
+comfortable)", PJ~~~ _&1gft,z. ~:fmM~ § tE o
+    [G] ~f!ij4,-~ffl:±~~i£ § jtit.tiiiJ 1V, "Ji~l.&itrtt/ ~~-tt (aggressive ) ":i&-i$., .§. also -ij] lfff
+~$XB~,&§jttlM89~~~~:ro~ o
+
+      I O In a social situation, eye contact with another                                        ~ ~ ~ fh ½ , .ti ~ A l!A-f ij :Jt .Ji~ 'iiJ"
+person can show that you are paying attention in a friendly
+                                                                                          ~~~~~~*~*~~~o~£~'ii]"
+way. 8 But it can also be antagonistic<D , such as when a
+                                                                                         ti¼~# ~ it -.t , -lfil ~--&Jlt~1li&.A,tl
+political candidate turns toward their competitor during a
+debate and makes eye contact that signals@ hostilityCI> .
+                                                                                         ~*" +*~~~+ , ~Jt:.-li.-¼it~~ Q
+                                                                                         ~o      ~r~~#~~~ij~~ti~£~:
+8 Here's what hard science reveals about eye contact:
+                                               .- ....................................... ····. . ,I
+                                               :.. ~..~.5~.~ ~.~·~.ff.-*!r.-~..:1/J;
+<Dantagonistic [ fen1trega 1rust1k] a. Mc~(f(J ,.&:~B-9
+®signal [ 'Signal] v . ~ffi~ .~i6 .~ ~
+                                                                        i~ • ~•m1t
+                                                                              <D in a social situation :tEtt~~it
+@ hostility [ ho 1strlati] n. ~-1~X;J-                                  !     ® make eye contact i!fi § ~?&M
+                                                        .-· .... ................. ·, . ~
+
+       jg-J.i:ffiW ~ ~tfi!llAfi°~ ioJ J:}J~: ftii~ff VS                       -iti~-o
+                                                        :.. ·...~-ft.~ ..~ ..:~
+                                                                      (D'n)\i~·ll:ft"tt~JjJ~ ( ln a social
+situation)",~ ili ~tl:5t,t~" § jtfl .ti ( eye contact)", Jf ffi WJt~~:ro ~" IPl M7J~ i5~ :flf ~t£ ( paying
+atte~tion in a friendly way ) " o ® 'A] ffi But it can also... 51 lli § ft tl .ti '1 - :ro ~ "~ l2i ~ ~
+(antagonistic)" ,#*'-,(9'JA-f**±i~½(such as when. . . );1ffiiJtf!ij (signals hostility .!§i be a~tagonistic iEc
+Jl ) o @'nJiJI W"FX: D!~~Wfffl 7J\ 89 § J'Gtl ti~ ~'elf W o Here's... .:li!:1J,f,j/ffi:1(jJ A~~ "51 Ai£ x"
+*1iic ;reveal ~'1"ti7J' ,mtm", aff7J\"FX~·~~1rJ-®~'1 A.~~ 89 .. if~ 89~31-i!o jt: D!~~ <hard
+
+                                                                                                                                            43
+```

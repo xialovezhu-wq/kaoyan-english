@@ -1,0 +1,470 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P040",
+  "year": 2015,
+  "pdf_page": 40,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015098373973633117,
+      "text": "Text 4",
+      "width": 0.08818202833296473,
+      "x": 0.3153510450387531,
+      "y": 0.8877996504800274
+    },
+    {
+      "confidence": 1,
+      "height": 0.018940711672501442,
+      "text": "从“电话窃听案”看公共生活中的",
+      "width": 0.33690987438707115,
+      "x": 0.4377682384681239,
+      "y": 0.8880813951625353
+    },
+    {
+      "confidence": 1,
+      "height": 0.00910273081924573,
+      "text": "知识补充",
+      "width": 0.06223175576003177,
+      "x": 0.10729614032456204,
+      "y": 0.8602080624743854
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01905789765952004,
+      "text": "“道德目的缺失现象”",
+      "width": 0.2253218813729606,
+      "x": 0.4699570831869102,
+      "y": 0.8561046510976128
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00910273081924573,
+      "text": "原文",
+      "width": 0.03039919620740894,
+      "x": 0.8347639494042048,
+      "y": 0.8602080625349474
+    },
+    {
+      "confidence": 1,
+      "height": 0.009102730819245841,
+      "text": "朗读",
+      "width": 0.032188840196137325,
+      "x": 0.8948497853740343,
+      "y": 0.8602080623774861
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.024962575289920963,
+      "text": "一、文章总体分析",
+      "width": 0.19030442484967308,
+      "x": 0.11012475852551463,
+      "y": 0.8107932384514529
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "本文选自 The Guardian（《卫报》）2014年6月26日一篇题力 As the hacking trial proves, we lack",
+      "width": 0.8454935436285389,
+      "x": 0.10729615368644575,
+      "y": 0.7860858258780801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764977148822444,
+      "text": "moral purpose in public life（正如窃听审判所证实，我们的公共生活中缺乏道德目的）的文章。本文从",
+      "width": 0.8841201284339011,
+      "x": 0.06652362666287776,
+      "y": 0.764534883762473
+    },
+    {
+      "confidence": 1,
+      "height": 0.014553784393985247,
+      "text": "“热议事件/案件”看“社会现象”：以长期引发高度关注并结束判决的“《世界新闻报》窃听案”为切人点，",
+      "width": 0.8884119776983865,
+      "x": 0.06437771102205124,
+      "y": 0.7470741223955237
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "对英国公共生活中大范围存在的“正直诚实缺失现象”进行了深入阐释。",
+      "width": 0.6137339176463532,
+      "x": 0.06652360678841121,
+      "y": 0.7267441859562414
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.03350257873535156,
+      "text": "学二、语篇分析及试题精解wo：K82.8010",
+      "width": 0.38772741160328694,
+      "x": 0.06779441333050289,
+      "y": 0.6850595447908611
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014585916025585788,
+      "text": "L ①Two years ago, Rupert Murdoch's daughter，",
+      "width": 0.43562231960772546,
+      "x": 0.10729613088819744,
+      "y": 0.6671001301607254
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "两年前，鲁伯特•默多克之女伊丽莎白",
+      "width": 0.3369098743870711,
+      "x": 0.6072961385754201,
+      "y": 0.6598837209429177
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01769702425238684,
+      "text": "Elisabeth, spoke of the “unsettling\" dearth® of integrity®",
+      "width": 0.47639482904533054,
+      "x": 0.06652362109965222,
+      "y": 0.646802325622938
+    },
+    {
+      "confidence": 1,
+      "height": 0.013130538330276553,
+      "text": "曾谈及“我们如此多的机构中令人担忧的诚",
+      "width": 0.37982830845691884,
+      "x": 0.56652360926403,
+      "y": 0.642392717580871
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837099707795,
+      "text": "across so many of our institutions”. ② Integrity had",
+      "width": 0.47639482904533054,
+      "x": 0.06866954105673378,
+      "y": 0.6279069770256859
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598424,
+      "text": "实正直缺失（现象）”。她坚决认 ，诚实正直",
+      "width": 0.37553648847993637,
+      "x": 0.5686695234817772,
+      "y": 0.6206395352886358
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "collapsed®， she argued, because of",
+      "width": 0.3476394682607815,
+      "x": 0.06866953360923737,
+      "y": 0.6090116278810337
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013672700939004967,
+      "text": "a collective®",
+      "width": 0.12932479770535932,
+      "x": 0.41393044779317056,
+      "y": 0.6100711629502524
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903684,
+      "text": "的精神已崩塌，原因在于这样一种共识：社",
+      "width": 0.3755364884799365,
+      "x": 0.5686695266827786,
+      "y": 0.6014304293559984
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565124933369256,
+      "text": "acceptance that the only “sorting mechanism” in society",
+      "width": 0.4763948290453305,
+      "x": 0.06866954303098274,
+      "y": 0.5901162793151422
+    },
+    {
+      "confidence": 1,
+      "height": 0.017562826526180464,
+      "text": "会中唯一的“分选机制”应该是利润和市场。",
+      "width": 0.37982830845691884,
+      "x": 0.5665236187060898,
+      "y": 0.5812743822985558
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013304427014215747,
+      "text": "should be profit and the market.",
+      "width": 0.28111586323626436,
+      "x": 0.06866954087829111,
+      "y": 0.5712209307130449
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013304427014215747,
+      "text": "3 But “it's us, human",
+      "width": 0.1974248904413088,
+      "x": 0.3476394828194029,
+      "y": 0.5712209306161458
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "但是“创造出我们想要的社会的是我们、人、",
+      "width": 0.38197423308916145,
+      "x": 0.5665236178438311,
+      "y": 0.562418725527415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013238273764462738,
+      "text": "beings, we the people who create the society we want, not",
+      "width": 0.4763948290453305,
+      "x": 0.06866954223699137,
+      "y": 0.550715214783555
+    },
+    {
+      "confidence": 1,
+      "height": 0.022009835906704578,
+      "text": "我们人民大众，而不是利润”。",
+      "width": 0.2539152705509238,
+      "x": 0.5662519998272889,
+      "y": 0.5405401216072905
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "profit.”",
+      "width": 0.07081544696712677,
+      "x": 0.06866953062051384,
+      "y": 0.5318595579406074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670562580440974,
+      "text": "词汇注释与难句分析•",
+      "width": 0.2081544989587707,
+      "x": 0.3969957139755502,
+      "y": 0.4895968790785977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "①unsettling ［An'setlg］a.使人不安的，混乱的",
+      "width": 0.3519313175252669,
+      "x": 0.06652361232105751,
+      "y": 0.4648894668198533
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790663065616,
+      "text": "S",
+      "width": 0.012875535895407908,
+      "x": 0.5042918459471458,
+      "y": 0.46656976768757896
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015217756883995737,
+      "text": "经典搭配",
+      "width": 0.08116613377078719,
+      "x": 0.5605945154348217,
+      "y": 0.4632097913512975
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011860389238216196,
+      "text": "②dearth［d3:0］n. 缺乏，稀少",
+      "width": 0.21888412211998415,
+      "x": 0.06866952911168173,
+      "y": 0.44912790723699747
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790663065616,
+      "text": "①the dearth of （⋯⋯的缺失）",
+      "width": 0.22961373063744606,
+      "x": 0.5343347627123929,
+      "y": 0.4476744187050208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "③integrity ［in'tegrru］ n.正直，诚实；完整",
+      "width": 0.32188840196137236,
+      "x": 0.06652360749570872,
+      "y": 0.42847854344713343
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013228823211630214,
+      "text": "②speak of（谈及，论及）",
+      "width": 0.18884119191233806,
+      "x": 0.5321888476775936,
+      "y": 0.4271781537327053
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "④collapse ［ko'leeps］ v. 倒塌；崩溃",
+      "width": 0.26394849546582594,
+      "x": 0.0665236086243831,
+      "y": 0.4096228866987941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "③ collective acceptance（共同接受的理念）",
+      "width": 0.317596552696887,
+      "x": 0.5343347740378226,
+      "y": 0.4083224968073934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279855948895913,
+      "text": "⑤collective ［ko'lektv］a.集体的；共同的；集合的",
+      "width": 0.3927038562503749,
+      "x": 0.06437768069992,
+      "y": 0.392441860331585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013302537027664041,
+      "text": "④sorting mechanism（分选机制）",
+      "width": 0.24892702304012715,
+      "x": 0.5343347699636888,
+      "y": 0.39076723045688466
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016125228842151174,
+      "text": "语篇分析。",
+      "width": 0.0987605645880818,
+      "x": 0.4484737959460807,
+      "y": 0.3502222693738978
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "第一、二段援引报业大亨默多克之女昔日说辞提出现象（问题）：诚实正直在公共机构中己沦丧。",
+      "width": 0.8133047034324017,
+      "x": 0.10729615630418514,
+      "y": 0.32249674923726424
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017570387092461393,
+      "text": "首段提出现象（问题）并揭示原因：价值观扭曲，唯“利”是从。关键词为：①collapsed；②profit and the",
+      "width": 0.8454935436285389,
+      "x": 0.10944207784238282,
+      "y": 0.30232558171305446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "market。",
+      "width": 0.07081544696712676,
+      "x": 0.06652360692416194,
+      "y": 0.2834302329197934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "①句提出问题。speak of（to mention sth）引出人物说辞；引号内虽为名词结构（dearth of integrity），",
+      "width": 0.8433476482837992,
+      "x": 0.10729613996754235,
+      "y": 0.2645348839856849
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "但修饰语 unsettling（making one feel rather worried”相当令人担忧的”），以及状语 across so many of our",
+      "width": 0.8862660823536469,
+      "x": 0.06652361463862723,
+      "y": 0.24418604627964247
+    },
+    {
+      "confidence": 1,
+      "height": 0.01631157915985948,
+      "text": "institutions（across 表示“遍及”）实质上发挥了“评述作用”，突显问题所在：诚实正直是基本道德规范，对",
+      "width": 0.8841201284339012,
+      "x": 0.06437770547189059,
+      "y": 0.22496749047982934
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "与民众息息相关的公共机构来说，更是一种社会责任与义务，却竟然普遍匮乏，民众安全危如累卵。",
+      "width": 0.8841201284339011,
+      "x": 0.06866956056845694,
+      "y": 0.20611183367235142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "institution 尤指“致力于教育、公共服务或文化的固定组织或机构”；integrity 意力 the quality of being",
+      "width": 0.8884119776983865,
+      "x": 0.0643776932538111,
+      "y": 0.18595578657705347
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "honest and having strong moral principles“诚实、正直的品性”。",
+      "width": 0.5321888401961372,
+      "x": 0.06652361097489262,
+      "y": 0.16569767436103788
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "②句说明问题原因。Integrity had collapsed 复述上句问题（dearth of integrity），明确 dearth 所指；",
+      "width": 0.8433476482837992,
+      "x": 0.10729613996754235,
+      "y": 0.14680232584614994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "because of...表明诚实正直精神沦丧的原因：人们生成一种共识（collective 意力 shared by all members of",
+      "width": 0.8862660823536468,
+      "x": 0.06652360564452851,
+      "y": 0.12790697690598518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016264327015771407,
+      "text": "a group of people“共有的”；acceptance 指“相信、认可”）；同位语从句展示“共识”内容，社会中的分选机制",
+      "width": 0.8841201284339011,
+      "x": 0.06437769297189087,
+      "y": 0.10728218459339423
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "（mechanism 指 a special way of getting sth done within a particular system“处事办法，机制”）作为系统的",
+      "width": 0.8819742330891615,
+      "x": 0.06652361936896918,
+      "y": 0.08842652779629834
+    },
+    {
+      "confidence": 1,
+      "height": 0.01040312093628093,
+      "text": "40",
+      "width": 0.023605148989042257,
+      "x": 0.07939914204696671,
+      "y": 0.06957087125849781
+    }
+  ],
+  "vision_ocr_text": "Text 4\n从“电话窃听案”看公共生活中的\n知识补充\n“道德目的缺失现象”\n原文\n朗读\n一、文章总体分析\n本文选自 The Guardian（《卫报》）2014年6月26日一篇题力 As the hacking trial proves, we lack\nmoral purpose in public life（正如窃听审判所证实，我们的公共生活中缺乏道德目的）的文章。本文从\n“热议事件/案件”看“社会现象”：以长期引发高度关注并结束判决的“《世界新闻报》窃听案”为切人点，\n对英国公共生活中大范围存在的“正直诚实缺失现象”进行了深入阐释。\n学二、语篇分析及试题精解wo：K82.8010\nL ①Two years ago, Rupert Murdoch's daughter，\n两年前，鲁伯特•默多克之女伊丽莎白\nElisabeth, spoke of the “unsettling\" dearth® of integrity®\n曾谈及“我们如此多的机构中令人担忧的诚\nacross so many of our institutions”. ② Integrity had\n实正直缺失（现象）”。她坚决认 ，诚实正直\ncollapsed®， she argued, because of\na collective®\n的精神已崩塌，原因在于这样一种共识：社\nacceptance that the only “sorting mechanism” in society\n会中唯一的“分选机制”应该是利润和市场。\nshould be profit and the market.\n3 But “it's us, human\n但是“创造出我们想要的社会的是我们、人、\nbeings, we the people who create the society we want, not\n我们人民大众，而不是利润”。\nprofit.”\n词汇注释与难句分析•\n①unsettling ［An'setlg］a.使人不安的，混乱的\nS\n经典搭配\n②dearth［d3:0］n. 缺乏，稀少\n①the dearth of （⋯⋯的缺失）\n③integrity ［in'tegrru］ n.正直，诚实；完整\n②speak of（谈及，论及）\n④collapse ［ko'leeps］ v. 倒塌；崩溃\n③ collective acceptance（共同接受的理念）\n⑤collective ［ko'lektv］a.集体的；共同的；集合的\n④sorting mechanism（分选机制）\n语篇分析。\n第一、二段援引报业大亨默多克之女昔日说辞提出现象（问题）：诚实正直在公共机构中己沦丧。\n首段提出现象（问题）并揭示原因：价值观扭曲，唯“利”是从。关键词为：①collapsed；②profit and the\nmarket。\n①句提出问题。speak of（to mention sth）引出人物说辞；引号内虽为名词结构（dearth of integrity），\n但修饰语 unsettling（making one feel rather worried”相当令人担忧的”），以及状语 across so many of our\ninstitutions（across 表示“遍及”）实质上发挥了“评述作用”，突显问题所在：诚实正直是基本道德规范，对\n与民众息息相关的公共机构来说，更是一种社会责任与义务，却竟然普遍匮乏，民众安全危如累卵。\ninstitution 尤指“致力于教育、公共服务或文化的固定组织或机构”；integrity 意力 the quality of being\nhonest and having strong moral principles“诚实、正直的品性”。\n②句说明问题原因。Integrity had collapsed 复述上句问题（dearth of integrity），明确 dearth 所指；\nbecause of...表明诚实正直精神沦丧的原因：人们生成一种共识（collective 意力 shared by all members of\na group of people“共有的”；acceptance 指“相信、认可”）；同位语从句展示“共识”内容，社会中的分选机制\n（mechanism 指 a special way of getting sth done within a particular system“处事办法，机制”）作为系统的\n40",
+  "pdf_text_layer": "回强制明田                                                                                                回油晤础回\n\n  …                        ／ 阳4                        从咄窃昕案”看公共生活中的\n   回毡黠斟咄\n   一\n                                                                                                        回$草勘础\n      知 ，、 l\n       i口补充  '                                           “道德目的缺失现象”                                     原文外教朗读\n\n\n\n\n      本文选自 The Cuaγdian （《卫报》） 20 1 4 年 6 月 26 日一篇题为 As the hac king trial proves, w e lac k\nmora l purpose in publi c life （正如窃听审判所证实，我 们的公共 生活中缺乏道德目的）的文章 。 本文从\n“热议 事 件 ／案 件”看“社 会 现象”：以长期引发高度关注并结束判决的“《 世界新闻报》窃听案”为切人点，\n对英国公共生活中大范围存在的“正直诚实缺失现象”进行了深入阐释 。\n\n\n                                       蟹 vx：KZRZ2019\n      I     OTwo years ago , Rup ert Murdoch ’ s daug h t er ,\nE li sa beth, s poke of th e “ unsettling( dearthai of integrity③\n                                                                     曾谈及“我们如此多的机构中令人担忧的诚\nacross so many of our ins t itutions ”.        8 Integrity had       实正直缺失（现象）” 。 她坚决认为，诚实正直\ncollapsed® ,     s he   arg ued,   beca use   of   a   collective®\n                                                                     的精神己崩塌，原因在于这样一种共识：社\naccepta nce that th e on ly “ sort ing mechanis m ” in society\n                                                                     会中唯一的“分选机制”应该是利润和市场。\ns hould be profit and th e market. @But “ it ’ s us , human\n                                                                     但是“创造出我们想要的社会的是我们、人、\nbeings, we the people who cr ea t 巳 th e society w巳 wa nt , not\n                                                                     我们人民大众，而不是利润” 。\nprofit. \"\n\n\n                                          ： ：：~：词注明性的市＜ ii\n( unsettling [An1setlnJ] a. 使人不安的，混乱的                       $ ·经典搭配\n( dearth [ d3:0] n. 缺乏，稀少                                   > ( th e deai th of （… …的缺 失）\n( integrity [ 111'tegnt1 ］ 凡 正 直 ，诚 实；完整                    < ( speak of （谈及， 论及 〕\n( collapse [ ka'lreps] v. 倒 塌 ；崩溃                            引   ③ co ll ectiv e accep ta n ce （共 同接受的理念 〕\n@ collecti 叫 ka'I ekt1 v］ α 集 体的；共同的； 集合 的                  J    ® sorting mec h a ni s m （分选机制tl)\n\n\n                                                   ；．； 黄毒分析：－~ ：：i i/\n      第一、二段援引报业大亨默多克之女昔日说辞提出现象（问题）：诚实正直在公共机构中已沦丧。\n      首段提出现象 （ 问题）并揭示原因：价值观扭曲，险“利”是从。关键词为： ① collapsed ； ② profit and the\nmarket 。\n\n      ① 旬提出问题。 speak of( to mentio n sth ）引出人物说辞； 5 ［ 号内虽为名词结构（ dea rth of integrit y),\n但修饰语 unsettling( making one fee l rather worried“相 当令 人担忧的勺 ， 以及状语 across so many of o ur\ninst ituti ons( across 表示“遍及”）实质上发挥了“评述作用”，突显问题所在 ： 诚实正直是基本道德规范，对\n与民众息息相关的公共机构来说，更是一种社会责任与义务， 却 竟然普遍匮乏 ，民众 安全危 如累卵 。\nin s tituti on 尤指“致力于 教育、公共服务或文化的固 定组织或 机构”； int egrity 意 为 t h e qua li ty of being\nhonest a nd hav ing strong moral prin c ip l es“诚 实 、正 直 的品性” 。\n      ② 旬说明问题原因。 l nt egri ty had co ll apsed 复述上旬 问题 （ dearth of integrity ），明确 deart h 所指；\nbeca use o f. .. 表明诚实正直精神沦丧的原因：人 们 生成 一 种共识（ co ll ect i ve 意为 shared by all members of\na group o f p eo p l e“共有 的”； a cce pta nce 指“相信、认可”）；同位语从句展 示“共识”内容，社 会 中的分选机 制\n(mec h anism 指 a special way o f gett ing sth don e within a particu la r sys t e m“处 事 办法，机制”）作为系统的\n\n 40",
+  "quality": {
+    "vision_line_count": 56,
+    "vision_character_count": 1903,
+    "pdf_text_character_count": 3191,
+    "nonempty": true
+  }
+}

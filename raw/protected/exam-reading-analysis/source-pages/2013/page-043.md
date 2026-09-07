@@ -1,0 +1,133 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2013-P043
+year: 2013
+pdf_page: 43
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2013 解析 PDF p43｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+［精准定位］第五段②句末表明，州政府特权可追溯到《外国人和煽动叛乱法案》，即此法案是支持州
+级拥有特权的，Antonin 法官正是以此为其论据极力捍卫州特权，因此［A］正确。
+L命题解密1LA］由第五段②句后半句提炼而出，对短语 going back to 的正确理解是解题关键。
+［B］利用惯常思维“任何法案理应遵循、支持联邦法规”干扰，背离文意及实际。［C］将 going back to
+内含的“顺承逻辑”曲解为“反向对立关系”
+’。［D］从“亚利桑那移民法诸多条款被判违宪，《法案》肯定州
+特权”简单推出“该法案违宪”，脱离语境。
+［技巧总结］本题形式上考查细节，微观看实际考查短语认知；但宏观上更要考查对（就争议问题的）
+人物态度的把握。第五段针对5:3投票中的少数反对票展开，题干所涉法案位于②句末，而该句聚焦的
+是反对者中最激进的法官看法（即坚决维护州特权），going back to...整个结构既然是作为这一特权的
+限定修饰语，则法案只能扮演“支撑法官观点”的角色，［B］和［D］与“州特权”无关，［C］与法官态度相反，
+只有［A］是大法官提及该法案的用意。
+VI ①The 8-0 objection to President Obama turns on
+最高法院8:0投票反对奥巴马总统的
+what Justice Samuel Alito describes in his objection as "a
+原因在于“其对于联邦行政权令人震惊的维
+shocking assertion" of federal executive power”. @The
+护”，诚如塞缪尔•阿里托在其反对意见中
+White House argued that Arizona's laws conflicted with
+所述。白宫认力亚利桑那州移民法与自己
+its enforcement priorities, even if state laws complied
+的执法优先权相抵触，即便州法律一字一句
+with federal statutes to the letter. ③ In effect, the White
+严格遵循联邦法律。事实上，白宫断言自己
+可以废除任何其他虽合法却不被白宫认可
+House claimed that it could invalidate®any otherwise
+的州级法律。
+legitimate® state law that it disagrees with.
+•词汇注释与难句分析•
+①assertion ［o'so:jon］ n. 声明
+①turn on（以
+••为中心、取决于）
+②invalidate ［un'veelidert］v. 使无效
+②comply with（遵守；符合）
+③legitimate ［u'dstumtt］a. 合法的
+③to the letter（丝毫不差；不折不扣）
+• 经典搭配
+①in effect（实际上，事实上）
+语篇分析•
+第六，七段围绕裁定二展开论述。
+第六段具体论述裁定二的投票结果及其依据。关键词为：8：0 objection。
+①句解释裁定二（8:0）原因：白宫企图滥用权力。turn on（意为 if a situation turns on a particular
+thing or idea, it depends on that thing“取决于”）体现因果逻辑；what...describes in... as...引出“阿里托
+法官在反对意见中的说辞”，借以呈现促成此裁决的“白宫不当之举（a shocking assertion of...）”；
+shocking（让人震惊的/愤慨的）修饰 assertion（意力 the act of stating or claiming sth strongly”强烈主张”）
+突显奥巴马（政府）公然蔑视“各权力之间分立与制衡”这一宪法原则，由此招致法官全票否决。注：由首
+段背景说明可知，8:0裁决具体针对的是亚利桑那州移民法中获准保留的一项条款，也就是第四段中所
+述的“州警察有权对疑似非法移民进行盘查”。
+②③句借宫（奥巴马政府）说辞展示其滥权表现。两句虽为并列结构（The White House argued、
+the White House claimed），但其实通过 argue（提出理由［说明］）与claim（［无证据］断言、声称）暗藏的态
+度递变以及③句中In effect（用以“引出事实”）逐层展现奥巴马政府过错：白宫执法优先权虽为宪法规
+定，但“冠州以罪名”应属联邦法院特权，白宫有越权之嫌；而事实上也确实越权了—声称自己有权推
+翻任何其不认可的州法律，无视联邦立法机构权威（总统提出反对后仍需国会复议）。注：③句中
+otherwise为生僻用法：in other respects“在其他方面；亦”，该词与 any 一起彰显白宫的权力跋扈：不止是
+43
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+［精准定位］ 第五 段 ② 句 末表 明 ， 州政府 特权 可 追溯到 《 外 国 人和 煽动叛 乱 法案 》 ， 自｜］此 法案是支持 州
+级拥有特权 的 ， An t o nin 法官正是 以此 为其 论 据极力捍卫 州 特权， 因此 〔 A ］ 正确 。
+     ［命题解密］ ［ A ］ 由 第五段② 句 后半句提炼 而出 ，对短语 go ing bac k to 的正确理解是解题关键。
+      [ BJ 利 用 惯 常思维“任 何 法案理应遵循、支捋联邦法规 ”干扰 ，背离文意及实际 。［ CJ 将 go ing bac k to
+内 含 的 “顺承逻辑 ”曲 解为“反 向对 立关系” 。［ DJ 从 “ 亚利 桑 那 移民法诸多条款被 判 违宪，《法案》肯定 州
+特权” 简 单 揪出 “该法案违宪 ”，脱 离语境 。
+     ［技巧总结］ 本 题 形式 上 考查 细 节，微 观 看实际考查短 语认 知II ； 但宏观上更要考查对（ 就 争 议问 题 的 ）
+人物 态度 的把 握 。 第五 段针 对 5 : 3 投票 中的 少数反 对 票展开 ， 题干所涉法案位于 ② 句末， 而 该句聚焦 的
+是反对者 中 最激 进的 法官看法（ 即坚决维护外｜特权 ） , going back to . .整个结 构既 然是作为这 一 特权 的
+限 定修 饰 语， 则 法案只能扮演“支撑法官观点” 的 角色，［ BJ 和 ［ DJ 与“ 川、｜ 特权”无关 ， ［ CJ 与法官态度相反 ，
+只有 ［ A ］ 是大法官提及该法案 的 用意 。
+
+      VI 01、 h e 8 0 o bj ec ti o n to Presid e nt O ba m a turns o n
+                                                                                        最高法院 8 : 0 投票反对奥 巴马总统的
+w ha t Ju st ice Sa mue l A li to describes in hi s object ion as “ a           原因在于“其对于联邦行政权令人震惊的维
+s hoc kin g assertion( of feder a l e xec u tive powe r". ＠ 囚 Th e              护”，诚如寨缪尔 · 阿里托在其反对意见中
+Whi te H o use ar gued th at Ari zo na 's laws co nfli cted w it h              所述。白宫认为亚利桑那州移民法与自己
+
+its e nfo rce me n t p ri ori t ies , eve n if s ta t e laws com pli ed         的执法优先权相抵触，即使川、l 法律一字一句
+                                                                                严格遵循联邦法律 。 事实上，白宫断言自己
+w ith fe d era l 山 tu tes to th e le tt er. @In effec t , th e Whit e
+                                                                                可以废除任何其他虽合法却不被白宫认可
+I l o use cla im ed th a t it co ul d invalidate0 a ny o th e r w i s巳
+                                                                                的州级法律 。
+legitimate® state law t h at it di sag rees wit h .
+
+
+
+                                            （·词汇注释些难句分析. :;/
+
+                                                                :i
+( asse1 ion ［吕 ＇ s吕：J~ n ] 11 . 声明                              \\   ( turn on （以 …… 为，，，， 心、取决于）
+( invalidate [ 1111vre ilde1t] v. 使 元效                          引    ( comp ly w ith （卫生’守；符合）
+( legitimate [ l1 1 d 3川mt ］ α ． 合法 的                                ② 川e l etter （丝毫不差；不 折 不 tJI )
+                                                                     (    111   eff ec t(
+．经典搭配
+
+
+
+                                                    二号篇分析－：：： fl
+     第六、七段围绕裁定 二 展开论述。
+     第六段具体论述裁定 二 的投票结果及其依据。关键词为 ： 8 : 0 objection0
+     ①旬解释裁定二（ 8 : O ）原因：白宫企图滥用权力。 t urn on （意为 i f a s it ua ti o n turns on a pa rti c ula r
+thing o r id ea, it depends on t ha t t hing“取决于勺体现因果逻辑； w h at. .. desc rib es in ... as .. . 引出“ 阿 里托
+法官在反对意 见 中 的说 辞”，借 以 呈 现促 成 此 裁决 的 “白宫不当之举（ a s hoc kin g asse rt io n of. . . ) ”;
+s h oc kin g （让人震惊 的 ／愤慨的 ） 修饰 asse rti o n （意为 th e ac t of s ta tin g o r claim ing st h strongly“强烈主张”）
+突 .ill~ 奥巴马（政府）公然蔑 视 “各权力之 间 分立与 制 衡”这 一 宪法原 则 ， fl二｜此 相致法官全票否决 。 注 ： Fl二l 首
+段背景 ib"l 用！可 9司1. 8 : 0 裁决具体针 对 的 是亚 利 桑 那州 移民法 中 获准保留 的 一 项条款， 也 就是第 四 段 中所
+述 的 “ 州 警察有权对疑 似非 法移民进行盘查” 。
+     ②③ 旬借白宫（奥巴马政府）说辞展示其滥权表现。 两句虽为并列结构（ T he Whi te H ouse argu ed 、
+th 巳 Whit 巳 H o u se c l a im e d ），但其实通过 a rgue （提 山 理由 ［ 说 明 ］）与 c l a i m （ ［元 证据 ］ 断 言 、声称）暗藏的态
+度递变 以 及①句中 l n e ffec t （用 以 “ 引／:I:＼ 事实”）逐层展现奥巴马政府过锚：白宫 执 法优先权虽为宪法 规
+定，但“冠 圳、｜ 以 雏名”应属联邦法院特权， r:':1 宫有 j\当权之嫌； 而 事实上 也确 实越权了 一一 声称自己有权 推
+翻任 何 其不认可 的州 法律，无 视 联 邦 立法 机 构权威（总统提 出 反对后 仍 需国会复议）。注 ： ③ 句中
+o th e r w i se 为生 僻 用法 ： in oth er r es p ec t s“ 在其 他 方 面 ； 亦 ”，该同与 a n y 一 起彰显白宫 的 权力跋屉 · 不 止 是
+                                                                                                            43
+```

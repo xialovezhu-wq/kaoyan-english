@@ -1,0 +1,510 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2010-P030",
+  "year": 2010,
+  "pdf_page": 30,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+  "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017716535433070835,
+      "text": "的关键词汇，多为形容词、副词，也可能是名词、动词）“面”（汇集散落于全段的暗示“观点”的词汇，理解",
+      "width": 0.8771186331679538,
+      "x": 0.06779662188454598,
+      "y": 0.9212598427253753
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "段落甚至全文的脉络和情感）结合的方式加以把握。",
+      "width": 0.4427966121512812,
+      "x": 0.06779661455465594,
+      "y": 0.9009186353054635
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070946,
+      "text": "如本题可从三个角度解答：一、直接锁定第二段①句修饰“two-step-flow theory”的形容词 plausible-",
+      "width": 0.8389830607564056,
+      "x": 0.10805084737603443,
+      "y": 0.8805774277922016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506555,
+      "text": "sounding but largely untested，体味作者对该理论看法“有待验证”；二、概括第二段中 seems to explain（位",
+      "width": 0.8792372663359076,
+      "x": 0.06567796820916497,
+      "y": 0.8602362203998024
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070946,
+      "text": "乎解释了）、Anecdotal evidence（传闻性证据）等词汇，提炼作者对该理论有效性的“怀疑、否定”；三、意识",
+      "width": 0.8792372663359076,
+      "x": 0.06779661007886852,
+      "y": 0.8398950131307703
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "到本文整体上对Gladwell 观点及其理论来源“两级流动传播理论”的批驳。",
+      "width": 0.6377118574705162,
+      "x": 0.06779661895188875,
+      "y": 0.8195538055098873
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013390404658680466,
+      "text": "1\" In their recent work, however, some",
+      "width": 0.35593218456282927,
+      "x": 0.14194915750672105,
+      "y": 0.7877906975908072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "然而，一些研究人员在近期研究中得出结论：",
+      "width": 0.38135592873525803,
+      "x": 0.5614406835137269,
+      "y": 0.7788713911633786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013398034678982373,
+      "text": "researchers have come up with the finding that",
+      "width": 0.4300847254493685,
+      "x": 0.06779662315984959,
+      "y": 0.7674418605995281
+    },
+    {
+      "confidence": 1,
+      "height": 0.014759964830293515,
+      "text": "有影响力人士对社会流行潮的影响远比人们通常",
+      "width": 0.41949153037820286,
+      "x": 0.5211864411970972,
+      "y": 0.760174418585838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906889427386,
+      "text": "influentials have far less impact on social epidemics",
+      "width": 0.43008472544936843,
+      "x": 0.06779662462701062,
+      "y": 0.7470930233576119
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070835,
+      "text": "认为的要小得多。事实上，他们似乎根本不是（社",
+      "width": 0.4194915011468061,
+      "x": 0.5211864512804105,
+      "y": 0.7368766406385083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "than is generally supposed.",
+      "width": 0.2372881279137856,
+      "x": 0.06779661796401101,
+      "y": 0.7223837212602455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906889427386,
+      "text": "② In fact, they don't",
+      "width": 0.18432203563237098,
+      "x": 0.31355932301008566,
+      "y": 0.7267441861483096
+    },
+    {
+      "confidence": 1,
+      "height": 0.01602270659499272,
+      "text": "会流行潮）所必需的。",
+      "width": 0.1800847400650668,
+      "x": 0.5211864448131082,
+      "y": 0.7165354331456708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013298846292370547,
+      "text": "seem to be required at all.",
+      "width": 0.21822032709231326,
+      "x": 0.06779661884261452,
+      "y": 0.7047244096051943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02065403129797916,
+      "text": "•词汇注释与难向分析",
+      "width": 0.20974576518910137,
+      "x": 0.3792372889944323,
+      "y": 0.6656976746805192
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014670948969723319,
+      "text": "• 经典搭配",
+      "width": 0.10385408803420963,
+      "x": 0.06777634646243962,
+      "y": 0.6423738279125434
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014729445374856875,
+      "text": "②not.•at all（根本不）",
+      "width": 0.18855931658397695,
+      "x": 0.5296610173171218,
+      "y": 0.6437007872124779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906889427386,
+      "text": "①come up with（找到（答案））",
+      "width": 0.2330508469621797,
+      "x": 0.06991525739814737,
+      "y": 0.6264534884884257
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.022412157434178237,
+      "text": "•语篇分析•必",
+      "width": 0.15907474678594946,
+      "x": 0.4299965235884724,
+      "y": 0.582543921217265
+    },
+    {
+      "confidence": 1,
+      "height": 0.016007447180159784,
+      "text": "第三至五段通过介绍研究发现驳倒 Gladwell 观点及其背后的两级流动理论，提出作者相反观点。",
+      "width": 0.8177966121512812,
+      "x": 0.10593219558396409,
+      "y": 0.5581395346485253
+    },
+    {
+      "confidence": 1,
+      "height": 0.016015075948920376,
+      "text": "第三段概述研究结论、初步予以反驳：有影响力人士在社会流行潮形成中作用很小，甚至于无。关",
+      "width": 0.8389830607564056,
+      "x": 0.10593219004552609,
+      "y": 0.5377906980819509
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014542513944971303,
+      "text": "键词为：don't seem to be required at all。",
+      "width": 0.34110169392435946,
+      "x": 0.06779661407595582,
+      "y": 0.5203412070871309
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "①句转承（however）上文指出研究发现：有影响力人士在社会流行潮中的真实作用要小得多（have",
+      "width": 0.8432203270923133,
+      "x": 0.10593221987545336,
+      "y": 0.4985465121335497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017825865057196855,
+      "text": "far less impact）。 researchers have come up with the finding 照应第二段首句 largely untested 及末句",
+      "width": 0.8772960092829563,
+      "x": 0.0677169160339454,
+      "y": 0.4791083542184541
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "Anecdotal evidence，并借此发起反击：未经验证的轶事证据虽与“社会流行潮由少数有影响力人士推动”",
+      "width": 0.8792372663359076,
+      "x": 0.06991526198564801,
+      "y": 0.4606299210599879
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017739424242435242,
+      "text": "高度契合，但研究者最终发现“有影响力人士的真实作用要小得多”。generally supposed 回应首段",
+      "width": 0.8771186331679538,
+      "x": 0.06991527065119243,
+      "y": 0.4389534888594775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "Malcolm Gladwell argues 及第二段 marketers have embraced，明确“有影响力人士在社会流行潮中起主",
+      "width": 0.8771186331679537,
+      "x": 0.06779660465543019,
+      "y": 0.42125984263981286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "推作用”并非Gladwell一己之见，而是当前相当普遍的看法，凸显本文去伪求真的意义。",
+      "width": 0.7394067756974377,
+      "x": 0.06779661954534881,
+      "y": 0.4009186348940824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070946,
+      "text": "②句进一步否定有影响力人士作用：似乎根本不被社会流行潮需要。In fact 实现句间语义递进。",
+      "width": 0.8432203270923132,
+      "x": 0.10593221776740254,
+      "y": 0.3792650918343755
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "don't seem to be required at all 在上句 have far less impact 基础上进一步完全否定有影响力人士的作用。",
+      "width": 0.8813558995038614,
+      "x": 0.06779663743027245,
+      "y": 0.3602362203016919
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016662675251798098,
+      "text": "seem to 使语气委婉客观，并昭示下文即将开启新论述。",
+      "width": 0.47051540097057587,
+      "x": 0.06560963335509408,
+      "y": 0.3415216318890848
+    },
+    {
+      "confidence": 1,
+      "height": 0.016049411353163845,
+      "text": "【深层解读】本段在全文起到“承上启下的语篇功用”以及“引发初步反击的语义功用”：转折路标词",
+      "width": 0.8432203270923132,
+      "x": 0.10381357229423874,
+      "y": 0.32122093014271136
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372442290566,
+      "text": "however 引出与上文完全不同的事实情形（对前文观点的初步反击）；研究新发现引领下文更为彻底的反",
+      "width": 0.8792372663359076,
+      "x": 0.06567796967456044,
+      "y": 0.3023255811601532
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372442290566,
+      "text": "驳：为何有影响力人士在社会流行潮形成中的作用几近于无？谁才是社会流行潮的主要推动力量？",
+      "width": 0.8347457359577047,
+      "x": 0.06779661758410167,
+      "y": 0.28197674395950245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013222547966664222,
+      "text": "1 The researchers' argument stems from a simple",
+      "width": 0.4004237149410321,
+      "x": 0.1377118753472805,
+      "y": 0.2513123358269762
+    },
+    {
+      "confidence": 1,
+      "height": 0.013172953773358365,
+      "text": "研究人员的观点基于对社会影响的一项",
+      "width": 0.3389830607564056,
+      "x": 0.5995762683506107,
+      "y": 0.2440944881798025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882673128302,
+      "text": "observation about social influence: With the exception of a",
+      "width": 0.4639830315250091,
+      "x": 0.06779661908919045,
+      "y": 0.22965116355684667
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "简单观察：除了像奧普拉•温弗瑞这样的个",
+      "width": 0.38135592873525803,
+      "x": 0.5593220330899982,
+      "y": 0.2209302328094217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660776443681689,
+      "text": "few celebrities®like Oprah Winfrey—whose outsize®",
+      "width": 0.45974576518910143,
+      "x": 0.0677966135283306,
+      "y": 0.21062992144888548
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883924669506,
+      "text": "别名人—她的非凡影响力主要是媒体影响",
+      "width": 0.3792372663359076,
+      "x": 0.5614406926583174,
+      "y": 0.20203488370626987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01851624266056251,
+      "text": "presence®",
+      "width": 0.08552742735179449,
+      "x": 0.06638904730063146,
+      "y": 0.18738761730456055
+    },
+    {
+      "confidence": 1,
+      "height": 0.011887322573524095,
+      "text": "is",
+      "width": 0.021186439470313068,
+      "x": 0.15889830547670786,
+      "y": 0.1916010496696393
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013199658531529379,
+      "text": "primarily a function of",
+      "width": 0.24788133760064957,
+      "x": 0.18220339931408197,
+      "y": 0.19028871380862267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011811023622047334,
+      "text": "media, not",
+      "width": 0.10805084696217976,
+      "x": 0.4300847446598,
+      "y": 0.19028871421645965
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883924669506,
+      "text": "而非人际影响的作用——即使是一个群体中",
+      "width": 0.3792372663359076,
+      "x": 0.5614406926583174,
+      "y": 0.18168604649696762
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013192028511227583,
+      "text": "interpersonal, influence",
+      "width": 0.20550846962179717,
+      "x": 0.06779661607186968,
+      "y": 0.16994750647427337
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010498687976927212,
+      "text": "even the most influential",
+      "width": 0.22245762265961744,
+      "x": 0.3156779646235812,
+      "y": 0.17125984223848023
+    },
+    {
+      "confidence": 1,
+      "height": 0.013142434317921725,
+      "text": "最具影响力的人也根本不会与那么多的人交",
+      "width": 0.38135592873525803,
+      "x": 0.5593220324544048,
+      "y": 0.16272965864965305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013184398490925786,
+      "text": "members of a population simply don't interact with that",
+      "width": 0.47033896026026706,
+      "x": 0.06779662744401889,
+      "y": 0.14960629926710423
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749473,
+      "text": "往。而根据两级流动理论，恰恰是这些非名",
+      "width": 0.3792372663359076,
+      "x": 0.5593220407992073,
+      "y": 0.13953488397221248
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017745976685851872,
+      "text": "many others.",
+      "width": 0.1160819758857347,
+      "x": 0.06718065193029422,
+      "y": 0.12758497318933992
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317676847062399,
+      "text": "② Yet it is precisely these non-celebrity",
+      "width": 0.3432203270923132,
+      "x": 0.1927966195470637,
+      "y": 0.12926509206720238
+    },
+    {
+      "confidence": 1,
+      "height": 0.013127174903088679,
+      "text": "人有影响力人士通过直接影响他们的朋友和",
+      "width": 0.38135592873525803,
+      "x": 0.5593220394459303,
+      "y": 0.12204724380334242
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01646237235682535,
+      "text": "influentials who, according to the two-step-flow theory，",
+      "width": 0.4705903210402449,
+      "x": 0.06558583677699537,
+      "y": 0.108191565371202
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749362,
+      "text": "同事，推动了社会流行潮。但是，一种社会流",
+      "width": 0.3792372663359076,
+      "x": 0.5614406855396734,
+      "y": 0.10029069828543913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013161509055790943,
+      "text": "are supposed to drive social epidemics, by influencing",
+      "width": 0.4682203270923132,
+      "x": 0.06779661143265704,
+      "y": 0.08858267694715194
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749362,
+      "text": "行潮要形成，每个这样受到有影响力人士影",
+      "width": 0.36652540886539153,
+      "x": 0.5593220423257788,
+      "y": 0.07994186107613688
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01460736692733966,
+      "text": "their friends and colleagues directly. ③For a social",
+      "width": 0.4300847254493684,
+      "x": 0.06779661471175667,
+      "y": 0.06824147000030989
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906889427275,
+      "text": "30",
+      "width": 0.023305083600040605,
+      "x": 0.08050847512264919,
+      "y": 0.04505813943319337
+    }
+  ],
+  "vision_ocr_text": "的关键词汇，多为形容词、副词，也可能是名词、动词）“面”（汇集散落于全段的暗示“观点”的词汇，理解\n段落甚至全文的脉络和情感）结合的方式加以把握。\n如本题可从三个角度解答：一、直接锁定第二段①句修饰“two-step-flow theory”的形容词 plausible-\nsounding but largely untested，体味作者对该理论看法“有待验证”；二、概括第二段中 seems to explain（位\n乎解释了）、Anecdotal evidence（传闻性证据）等词汇，提炼作者对该理论有效性的“怀疑、否定”；三、意识\n到本文整体上对Gladwell 观点及其理论来源“两级流动传播理论”的批驳。\n1\" In their recent work, however, some\n然而，一些研究人员在近期研究中得出结论：\nresearchers have come up with the finding that\n有影响力人士对社会流行潮的影响远比人们通常\ninfluentials have far less impact on social epidemics\n认为的要小得多。事实上，他们似乎根本不是（社\nthan is generally supposed.\n② In fact, they don't\n会流行潮）所必需的。\nseem to be required at all.\n•词汇注释与难向分析\n• 经典搭配\n②not.•at all（根本不）\n①come up with（找到（答案））\n•语篇分析•必\n第三至五段通过介绍研究发现驳倒 Gladwell 观点及其背后的两级流动理论，提出作者相反观点。\n第三段概述研究结论、初步予以反驳：有影响力人士在社会流行潮形成中作用很小，甚至于无。关\n键词为：don't seem to be required at all。\n①句转承（however）上文指出研究发现：有影响力人士在社会流行潮中的真实作用要小得多（have\nfar less impact）。 researchers have come up with the finding 照应第二段首句 largely untested 及末句\nAnecdotal evidence，并借此发起反击：未经验证的轶事证据虽与“社会流行潮由少数有影响力人士推动”\n高度契合，但研究者最终发现“有影响力人士的真实作用要小得多”。generally supposed 回应首段\nMalcolm Gladwell argues 及第二段 marketers have embraced，明确“有影响力人士在社会流行潮中起主\n推作用”并非Gladwell一己之见，而是当前相当普遍的看法，凸显本文去伪求真的意义。\n②句进一步否定有影响力人士作用：似乎根本不被社会流行潮需要。In fact 实现句间语义递进。\ndon't seem to be required at all 在上句 have far less impact 基础上进一步完全否定有影响力人士的作用。\nseem to 使语气委婉客观，并昭示下文即将开启新论述。\n【深层解读】本段在全文起到“承上启下的语篇功用”以及“引发初步反击的语义功用”：转折路标词\nhowever 引出与上文完全不同的事实情形（对前文观点的初步反击）；研究新发现引领下文更为彻底的反\n驳：为何有影响力人士在社会流行潮形成中的作用几近于无？谁才是社会流行潮的主要推动力量？\n1 The researchers' argument stems from a simple\n研究人员的观点基于对社会影响的一项\nobservation about social influence: With the exception of a\n简单观察：除了像奧普拉•温弗瑞这样的个\nfew celebrities®like Oprah Winfrey—whose outsize®\n别名人—她的非凡影响力主要是媒体影响\npresence®\nis\nprimarily a function of\nmedia, not\n而非人际影响的作用——即使是一个群体中\ninterpersonal, influence\neven the most influential\n最具影响力的人也根本不会与那么多的人交\nmembers of a population simply don't interact with that\n往。而根据两级流动理论，恰恰是这些非名\nmany others.\n② Yet it is precisely these non-celebrity\n人有影响力人士通过直接影响他们的朋友和\ninfluentials who, according to the two-step-flow theory，\n同事，推动了社会流行潮。但是，一种社会流\nare supposed to drive social epidemics, by influencing\n行潮要形成，每个这样受到有影响力人士影\ntheir friends and colleagues directly. ③For a social\n30",
+  "pdf_text_layer": "的 关键 词 汇，多 为 形容 词、副词，也可能 是名 词、动词 ） “ 面 ” （汇集 散 藩 于 全 段的暗示 “ 观 点 ”的词汇，理解\n段落甚至全文 的脉 络 和 情感） 结 合 的方 式 加以把握 。\n       如 本题 可从 三 个角 度解答 ： 一 、 直 接锁 定第二 段 ① 句 修 饰“ t wo-s t e p fl ow th eory”的形 容 词 p l a u s ibl e­\nso undin g bu t la rge ly untes ted ， 体味作 者 对 该 理论 看法 “ 有待验 证”； 二 、概括 第 二段中 see m s to e xplain （似\n乎 解释了） 、 An ec d o ta l ev id e n ce （ 传闻性证据 ）等 同汇，提炼作 者 对 该 理论有效性的“怀疑、 否 定”； 三 、 意 识\n到 本文整 体上对 Gl a dw e ll 观 点 及其理论来源 “ 两级流动传播理论 ” 的批驳 。\n\n\n        m ‘’ 因 In their recent work , ho wever, some                                    然而，一些研究人员在近期研究中得出结论：\nr esea r c h e 广S    have com e up with t he finding that\n                                                                                    有影响力人士对社会流行潮的影响远比人们通常\ninflu enti a ls have fa r less impact on socia l epidemi cs\n                                                                                    认为的妥小得多 。 事实上，他们似乎根本不是（社\nth an is ge n 巳ra ll y s upposed. @ In fac t, th ey don ’ t\n                                                                                    会流行潮）所必需的 。\nseem to be required at a ll.\n                                                                    与 …                         J\n                                                                              ;\n                                                                                    …\n                                                                                    分…\n                                                       词 …\n                                                                               难          析\n                                                             「」 …\n                                                                          －    …\n                                                                    …\n                                                                    释 …\n                                                       e     …      注 －         －\n                                                                                    旬 …\n\n．经典搭配                                                                               ( not.    al all （根本不）\n( come up with （找 到 （答案））\n                                                                                          J\n                                                                        篇 …   分 …\n                                                                    语               析\n                                                                              …\n                                                                    －\n\n\n\n\n                                                                    …   －\n\n       第三至五段通过介绍研究发现驳倒 Gladwell 观点及其背后的两级流动理论，提出作者相反观点。\n       第三段概述研究结论 、 初步予 以 反驳：有影晌力人士在社会流行潮形成中作用很小，甚至于无。关\n键词为 ： don’t seem to be required at all 。\n       ① 旬转承 （ however ） 上文指 出 研究发现：有影晌力人士在社会流行潮中的真实作用要小得多（ have\nfar less impact ) 0          resea rchers have com e up with th e finding 照 J'E. 第二 段首句 l arge l y unt es t e d 及末句\nAn ecdo ta l ev id ence , ;=)l 借此 发 起反击： 未经 验证的轶 事 证据 虽与“ 社 会 流行潮由少数有 影 响力人士椎动”\n高度契合，但 研 究者最终发 现 “有影 响力人 士 的 真实 作 用耍 小 得多 ” 。 ge n era l l y suppo s e d 回应 首 段\nMalco lm G lad we ll a rg u es 及第二段 m a rk ete r s have e mb race d ，明确“ 有影 响力人士 在 社 会 流行潮中起主\nJ佳作用 ” 并非 G l a d we ll 一 己之见，而 是当 前相 当普 遍的 看法， 凸 显本文去 伪 求真 的 意 义 。\n      ② 旬进一步否定有影晌力人士作用：似乎根本不被社会流行潮需要。 In fa c t 实 现句间 语 义递进 。\ndon ’ t seem to be required a t a ll 在上句 h ave fa r less imp ac t 基 础 上 进 一 步完全否 定有 影 响力人 士 的作用 。\nsee m t o 使 语气委 婉 客观 ， 并 昭 示 下 文 即将开启新论述 。\n       E 深层解读】本段在全文起到“承上启下的 i吾篇功用”以及“寻｜发初步反击的语义功用”： 转折路标词\nh oweve r 引出 与上 文 完全不 同的 事实 情形 （ 对前 文 观 点 的初 步反击 ）；研究新发现引领下文 更 为彻底的反\n驳：为何 有影 响力人 士 在社 会 流行潮形成中的作用几近 于无？ 谁才 是 社 会 流行潮的主 要 推动力 量？\n\n\n       IV 0副 Th e resea rchers ’ argument stems from a simple                                 研究人员的观点基于对社会影响的一项\nobserva tion about soc ial influence : With the exception of a\n                                                                                        简单观察：除了像奥普拉 . i.显弗瑞这样的个\nfew celebrities(            like Oprah Winfrey- whose outsizel2l\n                                                                                        别名人一一她的非凡影响力主妥是媒体影响\npresenceCD          is    primaril y   a   fun ction   of     medi a ,         not\n                                                                                        而非人际影响的作用 一一 即使是 一 个群体中\ninterp ersona l , influ e nce 一国 eve n th e most influenti a l\n                                                                                        最具影响力的人也根本不会与那么多的人交\nmemb ers o f a popul at ion s impl y don ' t interac t with th at\n                                                                                        往 。 而根据两级流动理论，恰恰是这些非名\nma ny o th 巳 r s .       8 Yet it is precise ly th ese no n-celebrity                   人有 影 响力人士通过直接影响他们的朋友和\ninflu enti a ls w ho, acco rding to th e t wo st ep fl ow theor y ,\n                                                                                        同事，推动了社会流行潮 。 但是，一种社会流\nar 巳 S Ll pposed         to dri ve socia l epidemi cs , by influencing\n                                                                                        行潮妥形成，每个这样受到有影响力人士影\nth eir fr iends a nd co ll eag ues directl y. @Fo r a social\n\n  30",
+  "quality": {
+    "vision_line_count": 61,
+    "vision_character_count": 2181,
+    "pdf_text_character_count": 5240,
+    "nonempty": true
+  }
+}

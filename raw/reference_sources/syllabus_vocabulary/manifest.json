@@ -1,0 +1,77 @@
+{
+  "schema": "syllabus_vocabulary_headword_reference_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "SRC-SYLLABUS-VOCABULARY-BOOKLET-001",
+  "source_role": "derived_ocr_reference_from_private_study_pdf",
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/5.  大纲词汇背诵宝典 英语一.pdf",
+  "source_sha256": "ae3b987face205fe28ad1c50f6b4f1e3220a6669817645b912dcbd57661cff6c",
+  "pdf_pages": 92,
+  "body_pdf_pages": [
+    5,
+    90
+  ],
+  "ocr": {
+    "renderer": "pdftoppm grayscale",
+    "engine": "tesseract eng psm=6",
+    "primary_dpi": 300,
+    "secondary_dpi": 150,
+    "tertiary_dpi": 450,
+    "tertiary_policy": "only columns containing dual-OCR pending rows; majority vote only",
+    "left_crop_ratios": [
+      0.022,
+      0.018,
+      0.195,
+      0.982
+    ],
+    "right_crop_end_ratios": [
+      0.018,
+      0.675,
+      0.982
+    ],
+    "right_crop_start_strategy": "per-page dual-OCR candidate scoring",
+    "right_crop_start_candidates": [
+      0.488,
+      0.49,
+      0.492,
+      0.495,
+      0.498
+    ],
+    "right_crop_selection": "raw/reference_sources/syllabus_vocabulary/right_crop_selection.json",
+    "structured_scope": "headwords_only",
+    "excluded": [
+      "definitions",
+      "phonetics",
+      "translations",
+      "printed_frequency_superscripts",
+      "learner_mastery"
+    ]
+  },
+  "printed_targets": {
+    "total": 5746,
+    "part_1_true_exam": 4249,
+    "part_2_zero_frequency": 1281,
+    "part_3_beyond_syllabus": 216
+  },
+  "strategic_visual_review": {
+    "path": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_strategic_review.jsonl",
+    "review_scope": "writing_foundation",
+    "overlay_count": 59,
+    "baseline_verified_count": 35,
+    "total_verified_expected": 94,
+    "overlap_with_baseline": 0
+  },
+  "outputs": {
+    "entries_jsonl": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_entries.jsonl",
+    "unique_jsonl": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_unique.jsonl",
+    "unique_tsv": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_unique.tsv",
+    "unique_txt": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_unique.txt",
+    "pending_review_jsonl": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_pending_review.jsonl",
+    "rejected_ocr_jsonl": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_rejected_ocr.jsonl",
+    "manual_review_jsonl": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_manual_review.jsonl",
+    "strategic_review_jsonl": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_strategic_review.jsonl",
+    "validation_json": "raw/reference_sources/syllabus_vocabulary/validation.json",
+    "right_crop_selection_json": "raw/reference_sources/syllabus_vocabulary/right_crop_selection.json",
+    "wiki": "wiki/vocabulary/大纲词汇参考库.md",
+    "report": "wiki/validation/大纲词汇参考库验证报告.md"
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P021",
+  "year": 2021,
+  "pdf_page": 21,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016261263312734697,
+      "text": "［精准定位］第四段③句指出一项基于墨西哥某地的研究证实了传统看法（the traditional view），所",
+      "width": 0.8529411418819244,
+      "x": 0.09453783677962593,
+      "y": 0.9331395353788948
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01611804390715532,
+      "text": "以应追溯上文明确“传统看法”的具体所指，而由上文第三段②句 often viewed as 和第四段①句 That’s",
+      "width": 0.8928571344570388,
+      "x": 0.05672270071615829,
+      "y": 0.9141145139976223
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669367,
+      "text": "because 可知传统看法为“扶贫与环保相矛盾，经济增长与环境恶化成正相关”，故［D］符合此意。",
+      "width": 0.8214285378281552,
+      "x": 0.0546218716584013,
+      "y": 0.895348837634049
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016234168041244446,
+      "text": "［命题解密］“题干＋正确项［D］”近义对应第四段③句（其中 the traditional view 回指上文的惯常看",
+      "width": 0.8508403094517702,
+      "x": 0.0945378337851442,
+      "y": 0.877906977121264
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013360093976463983,
+      "text": "法 poverty alleviation and environmental protection are often viewed as conflicting goals 以及 economic",
+      "width": 0.8928571344570388,
+      "x": 0.0567227022042535,
+      "y": 0.8601864178865429
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "growth can be correlated with environmental degradation），选项中的 tends to、cause 分别对应文中的",
+      "width": 0.8907563020268847,
+      "x": 0.056722700457145614,
+      "y": 0.8415446073141903
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "often/traditional、be correlated with/causality。",
+      "width": 0.3949579668871929,
+      "x": 0.05462185030990517,
+      "y": 0.8241279073281309
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01617223508507215,
+      "text": "［A］由第四段④句中 cattle to raise for meat 主观推测出养牛是穷人的主要生计，［B］将第四段③④",
+      "width": 0.8550419743120785,
+      "x": 0.09243698566433906,
+      "y": 0.8035952062802192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020531940079243416,
+      "text": "句中的碎片信息 supported、traditional、cattle to raise for meat 杂糅，捏造出“帮助保护传统生活方式”，",
+      "width": 0.8951012054619761,
+      "x": 0.05455028597529987,
+      "y": 0.7833316255603546
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605804623681295,
+      "text": "［C］则将第四段④句所述的“当地农民领取扶贫资金后养殖肉牛的行为”曲解为“农民积极参与扶贫计",
+      "width": 0.8949579668871929,
+      "x": 0.052521025505983206,
+      "y": 0.7688953492052029
+    },
+    {
+      "confidence": 1,
+      "height": 0.016199330991498728,
+      "text": "划”，而且此三项均囿于研究事例本身，并非作者引用例子的目的。",
+      "width": 0.5672268729678468,
+      "x": 0.05462185196145483,
+      "y": 0.7483355523614379
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669478,
+      "text": "［技巧总结］本题就引用研究事例的目的设题，为写作目的题。解答此类题型首先需要明确论据与论",
+      "width": 0.8529411418819244,
+      "x": 0.09453783439517223,
+      "y": 0.7296511628230025
+    },
+    {
+      "confidence": 1,
+      "height": 0.01615288095690126,
+      "text": "点之间的论证逻辑：论据（研究事例）本身细节往往并非作者意在关注的焦点，它常常用作正例或反例来说",
+      "width": 0.8928571344570388,
+      "x": 0.05462184833520614,
+      "y": 0.7122093024876641
+    },
+    {
+      "confidence": 1,
+      "height": 0.01622642626298887,
+      "text": "明超于其本身的论点，答题的关键在于借助逻辑衔接手段、语义指代关联、上下义等语义关联提炼语义重",
+      "width": 0.8907563020268846,
+      "x": 0.05672269568523709,
+      "y": 0.6930758991165258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016094819207324806,
+      "text": "心。如本题，首先根据研究事例所在句中的 supported the traditional view 可知“研究事例证实了传统观",
+      "width": 0.8928571344570387,
+      "x": 0.05462184401097656,
+      "y": 0.6757656455409606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017457342973244305,
+      "text": "点”，再据由 That’'s because、However 所体现的段际、句际逻辑以及 often viewed、the traditional view 所形成的",
+      "width": 0.8907563020268846,
+      "x": 0.056722689217650175,
+      "y": 0.6569767446107933
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739017,
+      "text": "近义复现可推断出传统观点的具体内容为“扶贫与环保相矛盾，经济增长与环境恶化相关”，就此锁定［D］。",
+      "width": 0.8634453628334235,
+      "x": 0.056722702902015615,
+      "y": 0.6378162449092942
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403869,
+      "text": "①",
+      "width": 0.018907563534775212,
+      "x": 0.11974789906244432,
+      "y": 0.6090116279058213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "Such programs do not have",
+      "width": 0.25630252669082676,
+      "x": 0.14495798462377416,
+      "y": 0.6090116278815966
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008720930025834628,
+      "text": "to",
+      "width": 0.02521008287551091,
+      "x": 0.4033613449067824,
+      "y": 0.6104651165277803
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016155387050460934,
+      "text": "negatively\"",
+      "width": 0.10509510077033657,
+      "x": 0.4243432046040292,
+      "y": 0.6074746322848785
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "不过，这类扶贫计划不一定会对环境产",
+      "width": 0.34453781216130774,
+      "x": 0.5966386598157046,
+      "y": 0.6002906981552328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016102560985580383,
+      "text": "affect the environment,though®",
+      "width": 0.2773109097930967,
+      "x": 0.0567226988849642,
+      "y": 0.5885486016696818
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01727913984763474,
+      "text": ". ② Ferraro wanted to",
+      "width": 0.20226324592252232,
+      "x": 0.3315338100996099,
+      "y": 0.5885371470069486
+    },
+    {
+      "confidence": 1,
+      "height": 0.016036756822812137,
+      "text": "生负面影响。费拉罗想了解印度尼西亚的扶",
+      "width": 0.3865546077662121,
+      "x": 0.5567226988779983,
+      "y": 0.5798934755334467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815838,
+      "text": "see if Indonesia's poverty-alleviation program was",
+      "width": 0.47689075506721157,
+      "x": 0.056722681745105946,
+      "y": 0.5697674422118517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016183847434987464,
+      "text": "贫计划是否会影响森林砍伐。印度尼西亚拆",
+      "width": 0.38445377533605796,
+      "x": 0.556722693196817,
+      "y": 0.5610465117899898
+    },
+    {
+      "confidence": 1,
+      "height": 0.014685844771871515,
+      "text": "affecting deforestation.",
+      "width": 0.20378151013442317,
+      "x": 0.05672269258684994,
+      "y": 0.5492676434585546
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "3 Indonesia has the third-",
+      "width": 0.2542016648603083,
+      "x": 0.27941177578938364,
+      "y": 0.5523255813578563
+    },
+    {
+      "confidence": 1,
+      "height": 0.016195459784902777,
+      "text": "有世界第三大热带森林面积，也是森林砍伐",
+      "width": 0.3886554401963662,
+      "x": 0.5546218558471951,
+      "y": 0.5419440747308246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014749713013873844,
+      "text": "largest area of tropical® forest in the world and one of",
+      "width": 0.47689075506721157,
+      "x": 0.05672268492437748,
+      "y": 0.5305232561397288
+    },
+    {
+      "confidence": 1,
+      "height": 0.016147075099411712,
+      "text": "率最高的国家之一。",
+      "width": 0.17226890608065382,
+      "x": 0.5567226919176562,
+      "y": 0.5218023256768599
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01339105981961386,
+      "text": "the highest deforestation rates.",
+      "width": 0.2626050239812891,
+      "x": 0.05672270137595201,
+      "y": 0.5113182420516253
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016298036283246775,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22058822837638498,
+      "x": 0.3739495854966815,
+      "y": 0.47238372129822614
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0148058401125567,
+      "text": "①negatively ［'negatrvli］ad. 有害地；负面地",
+      "width": 0.3382352854704811,
+      "x": 0.056722696217840624,
+      "y": 0.44740346190178415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015164720710520774,
+      "text": "• 经典搭配",
+      "width": 0.10731843716836387,
+      "x": 0.5272231345385783,
+      "y": 0.447359499927095
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014674232421956201,
+      "text": "②though ［oau］ad. 不过；可是；然而",
+      "width": 0.2773109097930967,
+      "x": 0.0567226966265609,
+      "y": 0.4300932088729078
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014674232421956201,
+      "text": "have to 必须；不得不",
+      "width": 0.16386554695967304,
+      "x": 0.5252100846294072,
+      "y": 0.43009320919994276
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014664555357870812,
+      "text": "③tropical ［'rppikl］a. 热带的",
+      "width": 0.23319326705785615,
+      "x": 0.05672269552569377,
+      "y": 0.41411451417100487
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016543356619884486,
+      "text": "•语篇分析",
+      "width": 0.1010219669525792,
+      "x": 0.4263797715647217,
+      "y": 0.38925739137360316
+    },
+    {
+      "confidence": 1,
+      "height": 0.014668426564466763,
+      "text": "第五至八段进而借最新研究说明实际情形（对开篇主旨展开论述）：印尼的扶贫计划与该国森林砍",
+      "width": 0.8487394770216161,
+      "x": 0.098739498113842,
+      "y": 0.3648255817065894
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "伐速率放缓相关（即扶贫助益环保）。",
+      "width": 0.3151260405376926,
+      "x": 0.05672269007779244,
+      "y": 0.34593023286938007
+    },
+    {
+      "confidence": 1,
+      "height": 0.017579273599759193,
+      "text": "第五段引出费拉罗为了解“印尼扶贫计划与森林砍伐之间的关联”而开展的研究。关键词：do not",
+      "width": 0.8529411418819244,
+      "x": 0.09873951884895367,
+      "y": 0.32689747020514526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "have to negatively affect。",
+      "width": 0.21008402212506774,
+      "x": 0.05882353778200386,
+      "y": 0.30958721725406735
+    },
+    {
+      "confidence": 1,
+      "height": 0.01622642626298887,
+      "text": "①句转承上文惯常认识，指出扶贫计划并不一定对环境不利。though 体现段群间的语义转折。do",
+      "width": 0.8529411418819244,
+      "x": 0.09873951918508819,
+      "y": 0.29069767478659825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627481158341615,
+      "text": "not have to negatively affect the environment 转承上文的传统观点（扶贫与环保相斥），指出扶贫未必造",
+      "width": 0.8928571344570387,
+      "x": 0.05672268583520619,
+      "y": 0.27296937405876465
+    },
+    {
+      "confidence": 1,
+      "height": 0.014689715343531251,
+      "text": "成环境恶化，深层暗示扶贫也有可能对环境有利，为下文埋下伏笔。",
+      "width": 0.5756302614891919,
+      "x": 0.05882353047389133,
+      "y": 0.255659121481856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01753088891426835,
+      "text": "②③句顺而引出费拉罗对印尼扶贫计划的研究。②句 wanted to see if...点明研究目的，即弄清扶",
+      "width": 0.8529411418819244,
+      "x": 0.09663867258144682,
+      "y": 0.2354651163404442
+    },
+    {
+      "confidence": 1,
+      "height": 0.016209008055584007,
+      "text": "贫计划对森林砍伐是否有影响；结合上句的 negatively affect the environment 可推测研究意在调查扶贫",
+      "width": 0.8928571344570387,
+      "x": 0.05672268434711098,
+      "y": 0.21947674440869136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016170299799242338,
+      "text": "是否会加剧森林砍伐。③句用两个最高级表达 the third-largest area of tropical forest、the highest",
+      "width": 0.897058799317347,
+      "x": 0.05672268996842754,
+      "y": 0.20039946729279312
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01603869210864195,
+      "text": "deforestation rates 刻画该国的森林资源概况：总量巨大，但形势严峻。",
+      "width": 0.596638644591462,
+      "x": 0.05672269948298041,
+      "y": 0.18308921458489535
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01472842359987303,
+      "text": "【深层解读】把握本段对全篇行文逻辑及写作意图的提示作用：①句以 do not have to...though 转",
+      "width": 0.8529411418819244,
+      "x": 0.0966386674256346,
+      "y": 0.1656976747298453
+    },
+    {
+      "confidence": 1,
+      "height": 0.01664447403462055,
+      "text": "承上文的惯常认识，体现了段群之间“先铺垫惯常认识，再引出真实情形”的逻辑。②句以 Ferraro",
+      "width": 0.894957966887193,
+      "x": 0.05882354875178144,
+      "y": 0.14647137173635782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01618771800664709,
+      "text": "wanted to see if A was affecting B 句式引出 Ferraro新近开展的研究，其研究课题（印尼的扶贫计划是否",
+      "width": 0.8928571344570387,
+      "x": 0.05672268434711098,
+      "y": 0.12916111880559178
+    },
+    {
+      "confidence": 1,
+      "height": 0.01464713715046595,
+      "text": "会影响森林砍伐）实际呼应开篇引出的利好情形（印尼森林砍伐率放缓，这可能与该国实施的扶贫计划",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.11185086566953617
+    },
+    {
+      "confidence": 1,
+      "height": 0.016164493306816574,
+      "text": "有关），表明开篇所述事实信息实际指向该研究的最终结论，由此可把握本文“以最新研究结论突破惯常",
+      "width": 0.8928571344570387,
+      "x": 0.05672268583520619,
+      "y": 0.09302325604871076
+    },
+    {
+      "confidence": 1,
+      "height": 0.01905224135966499,
+      "text": "认知”的立意高度。",
+      "width": 0.16490509974014783,
+      "x": 0.056256359530525775,
+      "y": 0.07392730977632855
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "21",
+      "width": 0.021008403315020407,
+      "x": 0.9138655461366074,
+      "y": 0.05659121177584925
+    }
+  ],
+  "vision_ocr_text": "［精准定位］第四段③句指出一项基于墨西哥某地的研究证实了传统看法（the traditional view），所\n以应追溯上文明确“传统看法”的具体所指，而由上文第三段②句 often viewed as 和第四段①句 That’s\nbecause 可知传统看法为“扶贫与环保相矛盾，经济增长与环境恶化成正相关”，故［D］符合此意。\n［命题解密］“题干＋正确项［D］”近义对应第四段③句（其中 the traditional view 回指上文的惯常看\n法 poverty alleviation and environmental protection are often viewed as conflicting goals 以及 economic\ngrowth can be correlated with environmental degradation），选项中的 tends to、cause 分别对应文中的\noften/traditional、be correlated with/causality。\n［A］由第四段④句中 cattle to raise for meat 主观推测出养牛是穷人的主要生计，［B］将第四段③④\n句中的碎片信息 supported、traditional、cattle to raise for meat 杂糅，捏造出“帮助保护传统生活方式”，\n［C］则将第四段④句所述的“当地农民领取扶贫资金后养殖肉牛的行为”曲解为“农民积极参与扶贫计\n划”，而且此三项均囿于研究事例本身，并非作者引用例子的目的。\n［技巧总结］本题就引用研究事例的目的设题，为写作目的题。解答此类题型首先需要明确论据与论\n点之间的论证逻辑：论据（研究事例）本身细节往往并非作者意在关注的焦点，它常常用作正例或反例来说\n明超于其本身的论点，答题的关键在于借助逻辑衔接手段、语义指代关联、上下义等语义关联提炼语义重\n心。如本题，首先根据研究事例所在句中的 supported the traditional view 可知“研究事例证实了传统观\n点”，再据由 That’'s because、However 所体现的段际、句际逻辑以及 often viewed、the traditional view 所形成的\n近义复现可推断出传统观点的具体内容为“扶贫与环保相矛盾，经济增长与环境恶化相关”，就此锁定［D］。\n①\nSuch programs do not have\nto\nnegatively\"\n不过，这类扶贫计划不一定会对环境产\naffect the environment,though®\n. ② Ferraro wanted to\n生负面影响。费拉罗想了解印度尼西亚的扶\nsee if Indonesia's poverty-alleviation program was\n贫计划是否会影响森林砍伐。印度尼西亚拆\naffecting deforestation.\n3 Indonesia has the third-\n有世界第三大热带森林面积，也是森林砍伐\nlargest area of tropical® forest in the world and one of\n率最高的国家之一。\nthe highest deforestation rates.\n•词汇注释与难句分析•\n①negatively ［'negatrvli］ad. 有害地；负面地\n• 经典搭配\n②though ［oau］ad. 不过；可是；然而\nhave to 必须；不得不\n③tropical ［'rppikl］a. 热带的\n•语篇分析\n第五至八段进而借最新研究说明实际情形（对开篇主旨展开论述）：印尼的扶贫计划与该国森林砍\n伐速率放缓相关（即扶贫助益环保）。\n第五段引出费拉罗为了解“印尼扶贫计划与森林砍伐之间的关联”而开展的研究。关键词：do not\nhave to negatively affect。\n①句转承上文惯常认识，指出扶贫计划并不一定对环境不利。though 体现段群间的语义转折。do\nnot have to negatively affect the environment 转承上文的传统观点（扶贫与环保相斥），指出扶贫未必造\n成环境恶化，深层暗示扶贫也有可能对环境有利，为下文埋下伏笔。\n②③句顺而引出费拉罗对印尼扶贫计划的研究。②句 wanted to see if...点明研究目的，即弄清扶\n贫计划对森林砍伐是否有影响；结合上句的 negatively affect the environment 可推测研究意在调查扶贫\n是否会加剧森林砍伐。③句用两个最高级表达 the third-largest area of tropical forest、the highest\ndeforestation rates 刻画该国的森林资源概况：总量巨大，但形势严峻。\n【深层解读】把握本段对全篇行文逻辑及写作意图的提示作用：①句以 do not have to...though 转\n承上文的惯常认识，体现了段群之间“先铺垫惯常认识，再引出真实情形”的逻辑。②句以 Ferraro\nwanted to see if A was affecting B 句式引出 Ferraro新近开展的研究，其研究课题（印尼的扶贫计划是否\n会影响森林砍伐）实际呼应开篇引出的利好情形（印尼森林砍伐率放缓，这可能与该国实施的扶贫计划\n有关），表明开篇所述事实信息实际指向该研究的最终结论，由此可把握本文“以最新研究结论突破惯常\n认知”的立意高度。\n21",
+  "pdf_text_layer": "［精准定位］第四段③句指出一项基于墨西哥某地的研究证实了传统看法（the traditional view）,所\n以应追溯上文明确\"传统看法\"的具体所指，而由上文第三段②句often viewed as和第四段①句That's\nbecause可知传统看法为“扶贫与环保相矛盾，经济增长与环境恶化成正相关”，故［D］符合此意。\n     ［命题解密］“题干+正确项［D］”近义对应第四段③句（其中the traditional view回指上文的惯常看\n法 poverty alleviation and environmental protection are often viewed as conflicting goals 以及 economic\ngrowth can be correlated with environmental degradation）,选项中的 tends to、cause 分别对应文中的\noften/traditional,be correlated with/causalityo\n     ［A］由第四段④句中cattle to raise for meat主观推测出养牛是穷人的主要生计，［B］将第四段③④\n句中的碎片信息supported'traditional、cattle to raise for meat杂糅，捏造出\"帮助保护传统生活方式\",\n［C］则将第四段④句所述的“当地农民领取扶贫资金后养殖肉牛的行为”曲解为“农民积极参与扶贫计\n划”，而且此三项均囿于研究事例本身 ，并非作者引用例子的目的。\n     ［技巧总结］本题就引用研究事例的目的设题，为写作目的题。解答此类题型首先需要明确论据与论\n点之间的论证逻辑:论据（研究事例）本身细节往往并非作者意在关注的焦点，它常常用作正例或反例来说\n明超于其本身的论点，答题的关键在于借助逻辑衔接手段、语义指代关联、上下义等语义关联提炼语义重\n心。如本题，首先根据研究事例所在句中的supported the traditional view可知\"研究事例证实了传统观\n点\"，再据由That's because、However所体现的段际、句际逻辑以及often viewed,the traditional view所形成的\n近义复现可推断出传统观点的具体内容为“扶贫与环保相矛盾，经济增长与环境恶化相关 ”，就此锁定［D］。\n\n     V O Such programs do not have to negatively®\n                                                               不过，这类扶贫计划不一定会对环境产\naffect the environment, though . 0 Ferraro wanted to\n                                                            生负面影响。费拉罗想了解印度尼西亚的扶\nsee if Indonesia's    poverty-alleviation   program   was\n                                                            贫计划是否会影响森林砍伐。印度尼西亚拥\naffecting deforestation.   ❸ Indonesia has the third-       有世界第三大热带森林面积，也是森林砍伐\nlargest area of tropical® forest in the world and one of\n                                                            率最高的国家之一。\nthe highest deforestation rates.\n\n                                     :•词汇连释与难句分析・」丛\n\n① negatively ［begativl订ad.有害地；负面地                     §   •经典搭配\n② though ［dau］ ad.不过；可是；然而                            I   have to必须；不得不\n③ tropical ［'tropikl］ a.热带的                           §\n                                            ［•语篇分析•、也\n\n     第五至八段进而借最新研究说明实际情形 （对开篇主旨展开论述）：印尼的扶贫计划与该国森林砍\n伐速率放缓相关（即扶贫助益环保）。\n     第五段引出费拉罗为了解“印尼扶贫计划与森林砍伐之间的关联”而开展的研究。关键词：do not\nhave to negatively affecto\n     ①\n     句转承上文惯常认识 ，指出扶贫计划并不一定对环境不利。though体现段群间的语义转折。do\nnot have to negatively affect the environment转承上文的传统观点（扶贫与环保相斥），指出扶贫未必造\n成环境恶化，深层暗示扶贫也有可能对环境有利，为下文埋下伏笔。\n     ②③句顺而引出费拉罗对印尼扶贫计划的研究。②句wanted to see if...点明研究目的，即弄清扶\n贫计划对森林砍伐是否有影响；结合上句的negatively affect the environment可推测研究意在调査扶贫\n是否会加剧森林砍伐。③句用两个最高级表达the third-largest area of tropical forest、the highest\ndeforestation rates刻画该国的森林资源概况：总量巨大，但形势严峻。\n     【深层解读】把握本段对全篇行文逻辑及写作意图的提示作用 ：①句以do not have to. . . though转\n承上文的惯常认识，体现了段群之间“先铺垫惯常认识，再引出真实情形”的逻辑。②句以Ferraro\nwanted to see if A was affecting B句式引出Ferraro新近开展的研究，其研究课题（印尼的扶贫计划是否\n会影响森林砍伐）实际呼应开篇引出的利好情形（印尼森林砍伐率放缓，这可能与该国实施的扶贫计划\n有关），表明开篇所述事实信息实际指向该研究的最终结论，由此可把握本文“以最新研究结论突破惯常\n认知”的立意高度。\n                                                                                                21",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2331,
+    "pdf_text_character_count": 2891,
+    "nonempty": true
+  }
+}

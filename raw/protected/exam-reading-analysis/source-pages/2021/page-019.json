@@ -1,0 +1,638 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P019",
+  "year": 2021,
+  "pdf_page": 19,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.01659138701092233,
+      "text": "•真题精解",
+      "width": 0.11152297591428084,
+      "x": 0.4137763285596453,
+      "y": 0.9255705856626903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "26. According to the first two paragraphs, CCT programs",
+      "width": 0.493697443908809,
+      "x": 0.05882355189013321,
+      "y": 0.8981358191579885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017499922436182147,
+      "text": "26.根据首两段，CCT 计划旨在",
+      "width": 0.26470588581180754,
+      "x": 0.5693277295730877,
+      "y": 0.886627907009049
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011836851960650763,
+      "text": "aim to",
+      "width": 0.05471443440872809,
+      "x": 0.05877723594845619,
+      "y": 0.8807094808002104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403758,
+      "text": "-。",
+      "width": 0.018907563534775185,
+      "x": 0.888655462119167,
+      "y": 0.8866279069901237
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "［A］ facilitate healthcare reform",
+      "width": 0.26890755067211586,
+      "x": 0.05882353827738741,
+      "y": 0.858854860111895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0160232091870669,
+      "text": "［A］促进医疗改革",
+      "width": 0.16386554695967315,
+      "x": 0.5693277320663819,
+      "y": 0.8575233023054045
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "LB」 help poor families get better off",
+      "width": 0.308823513846866,
+      "x": 0.058823534620684695,
+      "y": 0.8355525966545789
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014738100663958531,
+      "text": "［B］帮助贫困家庭过得更好",
+      "width": 0.2415966408790191,
+      "x": 0.5693277279673532,
+      "y": 0.8355525965538707
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "［C］ improve local education systems",
+      "width": 0.31092434627702015,
+      "x": 0.058823546329276916,
+      "y": 0.8139534889172781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "［C］改进地方教育系统",
+      "width": 0.20168066300408682,
+      "x": 0.5693277342842712,
+      "y": 0.8139534886937156
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418575119248,
+      "text": "D lower deforestation rates",
+      "width": 0.25210083243015413,
+      "x": 0.056722688826939864,
+      "y": 0.7936046511048822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014772938348640574,
+      "text": "［D］降低森林砍伐率",
+      "width": 0.18277309763178884,
+      "x": 0.5693277346137274,
+      "y": 0.7921511631019382
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01751153478609735,
+      "text": "［精准定位］根据 CCT定位至第二段。②句指出，被称作“有条件现金转移（CCTs）”的这类社会援",
+      "width": 0.8508403094517702,
+      "x": 0.08613447421319034,
+      "y": 0.7674418607445141
+    },
+    {
+      "confidence": 1,
+      "height": 0.016199330991498728,
+      "text": "助计划旨在减少不平等，打破贫困的恶性循环，故CCT 计划旨在帮助贫困家庭改善经济状况，［B］正确。",
+      "width": 0.8865545783658478,
+      "x": 0.04831935833808435,
+      "y": 0.7483355524486472
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016021273901237088,
+      "text": "［命题解密］“题干十正确项［B］”是对②句信息的同义改写，题干中 aim to、选项中 help poor families",
+      "width": 0.8550419743120785,
+      "x": 0.08613448215418464,
+      "y": 0.729651163146579
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016274811583416038,
+      "text": "get better off 分别同义改写句中的 are designed to.break the cycle of poverty。",
+      "width": 0.6722689060806539,
+      "x": 0.04621847973278251,
+      "y": 0.7107558141216274
+    },
+    {
+      "confidence": 1,
+      "height": 0.017983945803381918,
+      "text": "［A］、［C］根据段中碎片信息“要求人们让孩子接受教育或接受常规医疗服务“捏造出改善医疗和教",
+      "width": 0.8488666041967726,
+      "x": 0.08816758229818486,
+      "y": 0.6917529895869148
+    },
+    {
+      "confidence": 1,
+      "height": 0.01890115509337975,
+      "text": "育体系，原文提及教育、医疗信息是为了举例说明CCT计划为贫困群体提供资金是有前提条件的，两项",
+      "width": 0.888655410796002,
+      "x": 0.04831934730683105,
+      "y": 0.6715116277889126
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739017,
+      "text": "均将该计划所涉的前提条件曲解为计划的宗旨。［D］源自首段①句所述情形 rate of deforestation has",
+      "width": 0.8928571344570388,
+      "x": 0.04831934085971571,
+      "y": 0.6537949399756074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01613159154290056,
+      "text": "slowed，但由首段②句可知，该情形是印尼 CCT 计划产生的意料之外的附带效果，而非计划的初衷。",
+      "width": 0.8529411418819244,
+      "x": 0.048319352133267365,
+      "y": 0.63648468724366
+    },
+    {
+      "confidence": 1,
+      "height": 0.01608901271489893,
+      "text": "［技巧总结］本题就CCT计划的创立目的设题，不仅题干辨识度高，而且各个选项的辨识度也高。",
+      "width": 0.8550419743120785,
+      "x": 0.0861344857168596,
+      "y": 0.6177325584166855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016290295139927413,
+      "text": "此类事实细节题可在利用题干高辨识度词汇定位后，通过搜寻定位处相关目的表达（to、in order to、be",
+      "width": 0.8928571344570388,
+      "x": 0.0483193393716205,
+      "y": 0.5985352860206643
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016036756822812137,
+      "text": "designed to、aim to/for、be aimed at、 for/with the purpose of、so that 等）快速锁定答案。如本题，依据",
+      "width": 0.8886554695967306,
+      "x": 0.04831931767762525,
+      "y": 0.5798934753673339
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016183847434987353,
+      "text": "CCT 定位至第二段后可快速找到 are designed to 短语，然后据由此短语后面的并列动词结构 reduce",
+      "width": 0.8928571344570388,
+      "x": 0.0483193393716205,
+      "y": 0.5610465119837882
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016195459784902666,
+      "text": "inequality and break the cycle of poverty 快速锁定正确项［B］。",
+      "width": 0.5357142689140775,
+      "x": 0.04621850115220488,
+      "y": 0.541944074818034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01339105981961397,
+      "text": "II ①But CCT programs don't generally consider effects on",
+      "width": 0.4642857016855581,
+      "x": 0.09033614655743087,
+      "y": 0.5113182420879625
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "但 CCT计划一般不考虑对环境的影",
+      "width": 0.3172268729678468,
+      "x": 0.6155462234162867,
+      "y": 0.5043604654275196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01338138275552847,
+      "text": "the",
+      "width": 0.02731092449327884,
+      "x": 0.04831932747674995,
+      "y": 0.4912790697140279
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "environment.",
+      "width": 0.10294117128228865,
+      "x": 0.09033613624260918,
+      "y": 0.4926764311608206
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016044498601067714,
+      "text": "② In fact, poverty\" alleviation® and",
+      "width": 0.3403361179006353,
+      "x": 0.21428572266732943,
+      "y": 0.49127906986290637
+    },
+    {
+      "confidence": 1,
+      "height": 0.019418456106782722,
+      "text": "响。事实上，扶贫和环保常常被视为两个",
+      "width": 0.3596231096741781,
+      "x": 0.5754405530344339,
+      "y": 0.48229658523862673
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "environmental protection are often viewed as conflicting® goals，",
+      "width": 0.5021008324301541,
+      "x": 0.05042017829647746,
+      "y": 0.4723837213141475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "相互矛盾的目标，约翰斯•霍普金斯大学",
+      "width": 0.35714286554296126,
+      "x": 0.5756302449245978,
+      "y": 0.46511627938100797
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "says Paul Ferraro,an economist at Johns Hopkins University.",
+      "width": 0.4789915874973658,
+      "x": 0.05042017742778762,
+      "y": 0.4533954726140047
+    },
+    {
+      "confidence": 1,
+      "height": 0.016015467408811324,
+      "text": "经济学家保罗•费拉罗表示。",
+      "width": 0.2542016648603084,
+      "x": 0.5756302631843415,
+      "y": 0.4447403462311892
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907124403758,
+      "text": "①",
+      "width": 0.027310922655756076,
+      "x": 0.13025210215251412,
+      "y": 0.4345930232788835
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "That's because",
+      "width": 0.14495798158737508,
+      "x": 0.15756302842900147,
+      "y": 0.4345930237525495
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "economic growth",
+      "width": 0.16176469982933672,
+      "x": 0.30882353338365093,
+      "y": 0.43313953513820846
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011965619581199682,
+      "text": "can be",
+      "width": 0.07154236133847391,
+      "x": 0.48313638354594246,
+      "y": 0.4344241670076676
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688268,
+      "text": "这是因为经济增长可能与环境恶化",
+      "width": 0.3193277347983652,
+      "x": 0.6155462198277082,
+      "y": 0.4273255813055977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279161821510121,
+      "text": "correlated①",
+      "width": 0.09249528065352541,
+      "x": 0.05039101602754396,
+      "y": 0.41559879134769573
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926706,
+      "text": "with",
+      "width": 0.04201680663004087,
+      "x": 0.1617647063488451,
+      "y": 0.4141145142609871
+    },
+    {
+      "confidence": 1,
+      "height": 0.014664555357870812,
+      "text": "environmental degradation®",
+      "width": 0.24789913816948156,
+      "x": 0.22478993084523102,
+      "y": 0.41411451417100487
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696328,
+      "text": "， while",
+      "width": 0.08613445304032696,
+      "x": 0.46848739389300187,
+      "y": 0.41411451394467824
+    },
+    {
+      "confidence": 1,
+      "height": 0.0160522403793234,
+      "text": "相关，而环境保护有时与贫困恶化相关。",
+      "width": 0.3592436979731154,
+      "x": 0.5756302488600811,
+      "y": 0.4054593871717721
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01660043739288375,
+      "text": "protecting the environment is sometimes correlated with",
+      "width": 0.5023939540620485,
+      "x": 0.05025258409152244,
+      "y": 0.3938458722139473
+    },
+    {
+      "confidence": 1,
+      "height": 0.014836806590642793,
+      "text": "然而，这些相关性并不能证明（它们）存",
+      "width": 0.35504200371244277,
+      "x": 0.577731096442098,
+      "y": 0.3866279072153104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "greater poverty. ② However, those correlations don't prove",
+      "width": 0.5042016648603083,
+      "x": 0.05042018227572811,
+      "y": 0.374833555151734
+    },
+    {
+      "confidence": 1,
+      "height": 0.016089012714899042,
+      "text": "在因果关系。此前唯一一项分析经济与",
+      "width": 0.35504200371244277,
+      "x": 0.5777311025345349,
+      "y": 0.36617842895199104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013402672169529062,
+      "text": "cause and effect.",
+      "width": 0.15336134070835591,
+      "x": 0.05042017189897328,
+      "y": 0.3561046516171329
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013402672169529173,
+      "text": "3 The only previous",
+      "width": 0.19117647145295188,
+      "x": 0.21848739771189932,
+      "y": 0.3561046516595262
+    },
+    {
+      "confidence": 1,
+      "height": 0.012329029179762196,
+      "text": "study",
+      "width": 0.05701601252620164,
+      "x": 0.41371888544093693,
+      "y": 0.3557540901464489
+    },
+    {
+      "confidence": 1,
+      "height": 0.013369466906063665,
+      "text": "analyzing",
+      "width": 0.07992996921429057,
+      "x": 0.47264005714829344,
+      "y": 0.35596061586610905
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014678102993615938,
+      "text": "环境间因果关系的研究（基于墨西哥一",
+      "width": 0.3571428361425969,
+      "x": 0.5777311065085334,
+      "y": 0.3488372097734499
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019763733829543995,
+      "text": "causality®， based on an area in Mexico that had instituted®",
+      "width": 0.5045849280090919,
+      "x": 0.04813127368262021,
+      "y": 0.3336284079783668
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "个实施 CCT 计划的地区）证实了传统看",
+      "width": 0.35504200371244277,
+      "x": 0.5777310964481004,
+      "y": 0.32994186076597487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01336589983395342,
+      "text": "CCTs, supported the traditional view. ④ There, as people",
+      "width": 0.5042016648603084,
+      "x": 0.05042018101522393,
+      "y": 0.316860465026528
+    },
+    {
+      "confidence": 1,
+      "height": 0.016094819207324695,
+      "text": "法。在那里，当人们拿到的钱越多时，他",
+      "width": 0.3571428361425969,
+      "x": 0.5777310999539116,
+      "y": 0.3081395350191565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "got more money, some of them may have more cleared land",
+      "width": 0.5042016648603084,
+      "x": 0.05042018101522393,
+      "y": 0.2979651162183885
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100237,
+      "text": "们中有些人就有可能伐木垦出更多的土",
+      "width": 0.3592436979731154,
+      "x": 0.5756302482613416,
+      "y": 0.2906976747153103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "for cattle to raise for meat, Ferraro says.",
+      "width": 0.35294117128228863,
+      "x": 0.050420169891068574,
+      "y": 0.2789613845066884
+    },
+    {
+      "confidence": 1,
+      "height": 0.016030950330386262,
+      "text": "地来饲养肉牛，费拉罗指出。",
+      "width": 0.25,
+      "x": 0.5756302489758404,
+      "y": 0.2703062586221143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01757733831392938,
+      "text": "词汇注释与难句分析",
+      "width": 0.19957983057393264,
+      "x": 0.3739495785155547,
+      "y": 0.2237017311595797
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "①poverty ［'povati］n.贫困",
+      "width": 0.21008402212506772,
+      "x": 0.0483193308492309,
+      "y": 0.19906790965397936
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014716811249957829,
+      "text": "⑥causality ［ko：'zeelati］ n. 因果关系；因果性",
+      "width": 0.33613445304032696,
+      "x": 0.5210084065330578,
+      "y": 0.20039946750856907
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696439,
+      "text": "②alleviation ［ollirvi'ei/on］n.缓和",
+      "width": 0.260504191551135,
+      "x": 0.05042017573703749,
+      "y": 0.18308921418771262
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014718747170723967,
+      "text": "⑦ institute ［'Instrtju：］v. 实行",
+      "width": 0.22689075506721157,
+      "x": 0.5210084058697555,
+      "y": 0.1816860467138568
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01485035422638803,
+      "text": "③ conflicting ［kon'lkt］a. 冲突的；矛盾的",
+      "width": 0.3382352854704811,
+      "x": 0.050420175773162774,
+      "y": 0.16424418651763573
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395673688268,
+      "text": "• 经典搭配",
+      "width": 0.10714285819287017,
+      "x": 0.5210084017649096,
+      "y": 0.16424418581141165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014865837782899183,
+      "text": "④correlate ［'kpralert］v. 相互关联；相互依赖",
+      "width": 0.346638644591462,
+      "x": 0.05042017639124377,
+      "y": 0.14647137120818576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014743907156384295,
+      "text": "①in fact 事实上；确切地说",
+      "width": 0.2079831896949137,
+      "x": 0.5210084072323751,
+      "y": 0.14513981347714267
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "⑤degradation ［idegr'det/n］ n.毁坏，恶化（过程）",
+      "width": 0.38025208107538533,
+      "x": 0.04831933381104689,
+      "y": 0.12782956058634765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "②cause and effect 因果关系",
+      "width": 0.21428570168555816,
+      "x": 0.5231092473189858,
+      "y": 0.12916111850184986
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01476713185621481,
+      "text": "• 语篇分析•",
+      "width": 0.11344537753360584,
+      "x": 0.42016806895378533,
+      "y": 0.10174418650310113
+    },
+    {
+      "confidence": 1,
+      "height": 0.017546371835843178,
+      "text": "第三、四段转而介绍经济学界的惯常认知：扶贫往往与环保相矛盾（即不利于环保）。",
+      "width": 0.7184873959462308,
+      "x": 0.09033612778318731,
+      "y": 0.0725699068527823
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984021304926817,
+      "text": "19",
+      "width": 0.02310924309526563,
+      "x": 0.9054621854061488,
+      "y": 0.057922769521427275
+    }
+  ],
+  "vision_ocr_text": "•真题精解\n26. According to the first two paragraphs, CCT programs\n26.根据首两段，CCT 计划旨在\naim to\n-。\n［A］ facilitate healthcare reform\n［A］促进医疗改革\nLB」 help poor families get better off\n［B］帮助贫困家庭过得更好\n［C］ improve local education systems\n［C］改进地方教育系统\nD lower deforestation rates\n［D］降低森林砍伐率\n［精准定位］根据 CCT定位至第二段。②句指出，被称作“有条件现金转移（CCTs）”的这类社会援\n助计划旨在减少不平等，打破贫困的恶性循环，故CCT 计划旨在帮助贫困家庭改善经济状况，［B］正确。\n［命题解密］“题干十正确项［B］”是对②句信息的同义改写，题干中 aim to、选项中 help poor families\nget better off 分别同义改写句中的 are designed to.break the cycle of poverty。\n［A］、［C］根据段中碎片信息“要求人们让孩子接受教育或接受常规医疗服务“捏造出改善医疗和教\n育体系，原文提及教育、医疗信息是为了举例说明CCT计划为贫困群体提供资金是有前提条件的，两项\n均将该计划所涉的前提条件曲解为计划的宗旨。［D］源自首段①句所述情形 rate of deforestation has\nslowed，但由首段②句可知，该情形是印尼 CCT 计划产生的意料之外的附带效果，而非计划的初衷。\n［技巧总结］本题就CCT计划的创立目的设题，不仅题干辨识度高，而且各个选项的辨识度也高。\n此类事实细节题可在利用题干高辨识度词汇定位后，通过搜寻定位处相关目的表达（to、in order to、be\ndesigned to、aim to/for、be aimed at、 for/with the purpose of、so that 等）快速锁定答案。如本题，依据\nCCT 定位至第二段后可快速找到 are designed to 短语，然后据由此短语后面的并列动词结构 reduce\ninequality and break the cycle of poverty 快速锁定正确项［B］。\nII ①But CCT programs don't generally consider effects on\n但 CCT计划一般不考虑对环境的影\nthe\nenvironment.\n② In fact, poverty\" alleviation® and\n响。事实上，扶贫和环保常常被视为两个\nenvironmental protection are often viewed as conflicting® goals，\n相互矛盾的目标，约翰斯•霍普金斯大学\nsays Paul Ferraro,an economist at Johns Hopkins University.\n经济学家保罗•费拉罗表示。\n①\nThat's because\neconomic growth\ncan be\n这是因为经济增长可能与环境恶化\ncorrelated①\nwith\nenvironmental degradation®\n， while\n相关，而环境保护有时与贫困恶化相关。\nprotecting the environment is sometimes correlated with\n然而，这些相关性并不能证明（它们）存\ngreater poverty. ② However, those correlations don't prove\n在因果关系。此前唯一一项分析经济与\ncause and effect.\n3 The only previous\nstudy\nanalyzing\n环境间因果关系的研究（基于墨西哥一\ncausality®， based on an area in Mexico that had instituted®\n个实施 CCT 计划的地区）证实了传统看\nCCTs, supported the traditional view. ④ There, as people\n法。在那里，当人们拿到的钱越多时，他\ngot more money, some of them may have more cleared land\n们中有些人就有可能伐木垦出更多的土\nfor cattle to raise for meat, Ferraro says.\n地来饲养肉牛，费拉罗指出。\n词汇注释与难句分析\n①poverty ［'povati］n.贫困\n⑥causality ［ko：'zeelati］ n. 因果关系；因果性\n②alleviation ［ollirvi'ei/on］n.缓和\n⑦ institute ［'Instrtju：］v. 实行\n③ conflicting ［kon'lkt］a. 冲突的；矛盾的\n• 经典搭配\n④correlate ［'kpralert］v. 相互关联；相互依赖\n①in fact 事实上；确切地说\n⑤degradation ［idegr'det/n］ n.毁坏，恶化（过程）\n②cause and effect 因果关系\n• 语篇分析•\n第三、四段转而介绍经济学界的惯常认知：扶贫往往与环保相矛盾（即不利于环保）。\n19",
+  "pdf_text_layer": "•真题精解•：也\n\n\n 26. According to the first two paragraphs, CCT programs\n                                                                           26.根据首两段,CCT计划旨在          。\n aim to         ・\n [A] facilitate healthcare reform                                          ［A］促进医疗改革\n [B] help poor families get better off                                     ［B］帮助贫困家庭过得更好\n [C] improve local education systems                                       ［C］改进地方教育系统\n [D] lower deforestation rates                                             ［D］降低森林砍伐率\n  ［精准定位］根据CCT定位至第二段。②句指出，被称作“有条件现金转移（CCTs）”的这类社会援\n助计划旨在减少不平等，打破贫困的恶性循环，故CCT计划旨在帮助贫困家庭改善经济状况，［B］正确。\n      ［命题解密］\"题干+正确项［B1\"是对②句信息的同义改写，题干中aim to、选项中help poor families\nget better off 分别同义改写句中的 are designed tobreak the cycle of povertyo\n  ［A］、［C］根据段中碎片信息“要求人们让孩子接受教育或接受常规医疗服务”捏造出改善医疗和教\n育体系，原文提及教育、医疗信息是为了举例说明CCT计划为贫困群体提供资金是有前提条件的 ，两项\n均将该计划所涉的前提条件曲解为计划的宗旨。［D］源自首段①句所述情形rate of deforestation has\nslowed,但由首段②句可知，该情形是印尼CCT计划产生的意料之外的附带效果，而非计划的初衷。\n      ［技巧总结］本题就CCT计划的创立目的设题，不仅题干辨识度高，而且各个选项的辨识度也高。\n此类事实细节题可在利用题干高辨识度词汇定位后，通过搜寻定位处相关目的表达（to,in order to.be\ndesigned to、aim to/ for be aimed at, for/ with the purpose of、so that 等）快速锁定答案。如本题，依据\nCCT定位至第二段后可快速找到are designed to短语，然后据由此短语后面的并列动词结构reduce\ninequality and break the cycle of poverty 快速锁定正确项［B］。\n\n      [H OBut CCT programs don't generally consider effects on\n                                                                              但CCT计划一般不考虑对环境的影\nthe   environment.    ❷ In   fact,     povertyl，    alleviation2     and\n                                                                           响。事实上，扶贫和环保常常被视为两个\nenvironmental protection are often viewed as conflicting® goals,\n                                                                           相互矛盾的目标，约翰斯•霍普金斯大学\nsays Paul Ferraro,an economist at Johns Hopkins University.\n                                                                           经济学家保罗•费拉罗表示。\n      JV   ❶ That's    because       economic      growth    can     be\n                                                                              这是因为经济增长可能与环境恶化\ncorrelated1   with    environmental        degradation ,           while\n                                                                           相关，而环境保护有时与贫困恶化相关。\nprotecting the environment is sometimes correlated with\n                                                                           然而，这些相关性并不能证明（它们）存\ngreater poverty. ©However, those correlations don't prove\n                                                                           在因果关系。此前唯一一项分析经济与\ncause and effect.     ❸ The only previous study analyzing\n                                                                           环境间因果关系的研究（基于墨西哥一\ncausality® , based on an area in Mexico that had instituted0\n                                                                           个实施CCT计划的地区）证实了传统看\nCCTs, supported the traditional view. ❹There, as people\n                                                                           法。在那里，当人们拿到的钱越多时，他\ngot more money, some of them may have more cleared land\n                                                                           们中有些人就有可能伐木垦出更多的土\nfor cattle to raise for meat, Ferraro says.\n                                                                           地来饲养肉牛，费拉罗指出。\n\n\n                                          「•词汇注释包难句分析二也\n\n（Dpoverty「povat订 n.贫困                                        》（©causality ［koi'zselati］ n.因果关系；因果性\n② alleviation ［ailiivi'eijan］并・缓和                            ? ⑦institute ［'institju：t］ v.实行\n③ conflicting ［kan'flikti!］］ a・冲突的；矛盾的                       j •经典搭配\n④ correlate ［'kDrsleit］ p•相互关联；相互依赖                          } ①in fact事实上；确切地说\n⑤ degradation ［idegra'deijn］ n.毁坏，恶化（过程）                      J     ②cause and effect 因果关系\n\n                                                   ;・语篇分析也\n\n      第三、四段转而介绍经济学界的惯常认知：扶贫往往与环保相矛盾（即不利于环保）。\n                                                                                                         19",
+  "quality": {
+    "vision_line_count": 77,
+    "vision_character_count": 2291,
+    "pdf_text_character_count": 3988,
+    "nonempty": true
+  }
+}

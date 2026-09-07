@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P047",
+  "year": 2015,
+  "pdf_page": 47,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013128771154013341,
+      "text": "Y ①In today's world, it has become normal that well-",
+      "width": 0.46466806851900533,
+      "x": 0.08993577882936218,
+      "y": 0.9054758800128728
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "在当今社会，待遇优厚的高管无需对",
+      "width": 0.31049250089205227,
+      "x": 0.6145610291899481,
+      "y": 0.8968023253203061
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013138246349747584,
+      "text": "paid executives should not be accountable\" for what happens",
+      "width": 0.5074946476862982,
+      "x": 0.04710920086241855,
+      "y": 0.886571055761906
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "发生在自己所运营机构中的事情负责，这",
+      "width": 0.3490364074707032,
+      "x": 0.576017131275355,
+      "y": 0.8779069769024539
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013121190873087607,
+      "text": "in the organisations that they run. ② Perhaps we should not",
+      "width": 0.5074946476862982,
+      "x": 0.04710921228104785,
+      "y": 0.8662790699268639
+    },
+    {
+      "confidence": 1,
+      "height": 0.016310527085325432,
+      "text": "已经成为常态。或许我们不该如此惊讶。",
+      "width": 0.3490364074707031,
+      "x": 0.5781584592839204,
+      "y": 0.857235984658322
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565204237399487,
+      "text": "be so surprised. ⑧ For a generation, the collective doctrine®",
+      "width": 0.5010706388033354,
+      "x": 0.04925054676535592,
+      "y": 0.8459302326195082
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "对这一代人而言，“社会的分选机制应该",
+      "width": 0.3490364074707031,
+      "x": 0.5760171276779248,
+      "y": 0.8386627907563526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325194807686736,
+      "text": "has been that the sorting mechanism of society should be",
+      "width": 0.507494647686298,
+      "x": 0.0471092100968937,
+      "y": 0.8270348840257011
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "是利益”已是集体信条。重要的字眼是效",
+      "width": 0.3490364074707032,
+      "x": 0.5760171287860617,
+      "y": 0.8168187744013651
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013689700130378069,
+      "text": "profit. ④ The words that have mattered are efficiency，",
+      "width": 0.5053533113919771,
+      "x": 0.04710920311914371,
+      "y": 0.8063885268232548
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "率、弹性、股东利益、商业友好、财富创造、",
+      "width": 0.35117771442119894,
+      "x": 0.5760171414332265,
+      "y": 0.797913950405913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "flexibility®，shareholder® value, business-friendly,wealth",
+      "width": 0.5053533113919773,
+      "x": 0.04925053338324075,
+      "y": 0.7874837027488611
+    },
+    {
+      "confidence": 1,
+      "height": 0.014595524117719694,
+      "text": "销售额、影响力，以及对报纸来说的发行",
+      "width": 0.3490364074707031,
+      "x": 0.576017125677313,
+      "y": 0.779009126679162
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "generation, sales, impact and, in newspapers, circulation®",
+      "width": 0.49250535231370196,
+      "x": 0.04710921415364136,
+      "y": 0.7672750974918572
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "量。而退至边缘的字眼是公正、公平、宽",
+      "width": 0.3490364074707031,
+      "x": 0.5760171252617934,
+      "y": 0.7587209300707906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013257633442984362,
+      "text": "⑤ Words degraded®",
+      "width": 0.18843683096078728,
+      "x": 0.04925053762453137,
+      "y": 0.7483702735378552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01310792522604498,
+      "text": "to the margin have been justice，",
+      "width": 0.31691648043118986,
+      "x": 0.2355460457943978,
+      "y": 0.7470664930738353
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "容、均衡以及责任。",
+      "width": 0.16274089813232417,
+      "x": 0.5760171328610327,
+      "y": 0.7383720929365851
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014570888981825347,
+      "text": "fairness, tolerance,proportionality® and accountability.",
+      "width": 0.47109204805814303,
+      "x": 0.047109230075139515,
+      "y": 0.7281616688056433
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014586049543676705,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22269806495079625,
+      "x": 0.35974304182867034,
+      "y": 0.6875000002309422
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "①accountable ［o'kauntabal］a. 负有责任的，应对自己",
+      "width": 0.4175588754507211,
+      "x": 0.044967882135453205,
+      "y": 0.6610169490364942
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01629726205997395,
+      "text": "（性），相称；成比例",
+      "width": 0.15417558229886563,
+      "x": 0.5096359766235865,
+      "y": 0.6597131678820801
+    },
+    {
+      "confidence": 1,
+      "height": 0.014663745402668127,
+      "text": "的行为做出说明的；可解释的",
+      "width": 0.23340470240666317,
+      "x": 0.04496788394120804,
+      "y": 0.642441860950419
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013306903714773055,
+      "text": "• 经典搭配",
+      "width": 0.11134903247539818,
+      "x": 0.5096359773811446,
+      "y": 0.6366279071361662
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014654270828625138,
+      "text": "②doctrine ［'dpktrn］n.教条；教诲，教导",
+      "width": 0.31049250089205227,
+      "x": 0.04710920836018375,
+      "y": 0.6235465117498376
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011843940580683832,
+      "text": "①be accountable for（对⋯⋯负责）",
+      "width": 0.2676659510685847,
+      "x": 0.511777306184123,
+      "y": 0.6191860464178438
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464479501119953,
+      "text": "③flexibility ［.fleksi'bult］n.弹性，机动性，灵活性",
+      "width": 0.3768736619215745,
+      "x": 0.04710921229403058,
+      "y": 0.604651163203326
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011834464763258334,
+      "text": "②run an organization（管理某一组织）",
+      "width": 0.2933618692251352,
+      "x": 0.5117773046094168,
+      "y": 0.6002906981175389
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013181831877110417,
+      "text": "④shareholder ［'Jeahaulda］n. 股东；股票持有者",
+      "width": 0.36402570284329927,
+      "x": 0.047109201652685055,
+      "y": 0.5872093023396545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458225909236821,
+      "text": "③collective doctrine（集体信条）",
+      "width": 0.2505353194016676,
+      "x": 0.509635983687817,
+      "y": 0.5799418608414073
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "⑤circulation ［sskju'leifon］ n. 发行量；流通",
+      "width": 0.334047112098107,
+      "x": 0.04710920960405139,
+      "y": 0.568313953879198
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014572783896634078,
+      "text": "④degraded to the margin（被降至边缘）",
+      "width": 0.3083511645977314,
+      "x": 0.5096359777867874,
+      "y": 0.5610465118733841
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "⑥degrade ［di'grerd］v.降低，贬低；使降级",
+      "width": 0.32762313255896935,
+      "x": 0.04710920787469086,
+      "y": 0.5494186050419888
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014568994067016838,
+      "text": "⑦proportionality ［prao po:ja'neelat］ n. 比例（性），均衡",
+      "width": 0.4175588754507212,
+      "x": 0.047109217413825635,
+      "y": 0.5319426336235527
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017741274802594686,
+      "text": "•语篇分析。泌",
+      "width": 0.15631691859318658,
+      "x": 0.41113490102460587,
+      "y": 0.5026075622329047
+    },
+    {
+      "confidence": 1,
+      "height": 0.01765410374786891,
+      "text": "第五段跳出案件，退而论述机构高管总体道德危机并揭示根本原因：整代人价值观扭曲。关键词",
+      "width": 0.841541759784405,
+      "x": 0.08779442518274404,
+      "y": 0.4765319424736769
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "为：①should not be accountable； ②should be profit。",
+      "width": 0.42612419128417967,
+      "x": 0.04710921187932338,
+      "y": 0.4563233374215835
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "①句以多重矛盾修辞展现荒谬现象：管理者拿着高薪却无需对自己机构中的问题负责，而这竟成常",
+      "width": 0.841541759784405,
+      "x": 0.08779443704569893,
+      "y": 0.43741851342861093
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01765978849229477,
+      "text": "态。what happens in the organisations 实指“突发的各种问题”；should not be accountable（should 功能力",
+      "width": 0.8843683096078726,
+      "x": 0.04710921592411496,
+      "y": 0.4171511630226402
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014635319815465397,
+      "text": "used to give sb an order to do sth“按要求必须”）为高管彻底免去应对问题的职责；完成时态 has become",
+      "width": 0.8865096459021935,
+      "x": 0.047109193879738546,
+      "y": 0.3996088658111506
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "normal that...暗含作者对普遍既成事实的不满与无奈。run 取僻义“管理、经营”。",
+      "width": 0.7023554288423979,
+      "x": 0.047109229208351276,
+      "y": 0.37936046521492817
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "②至⑤句解释上述荒谬现象之所以成为必然的原因。",
+      "width": 0.45396144573505115,
+      "x": 0.08565310556930542,
+      "y": 0.3590116281524538
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "②句过渡，以反讽口吻自答首句暗藏疑问。s0 surprised 与上句矛盾现象暗合，Perhaps we should",
+      "width": 0.8479657099797175,
+      "x": 0.08565311083455246,
+      "y": 0.33866279052379444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "not be...以委婉否定的形式传达明确用意：这实属必然现象。",
+      "width": 0.5246252793532151,
+      "x": 0.04710920711140093,
+      "y": 0.318122555193899
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "③句随即亮明原因：“利益为大”是当今社会的集体信条。这与首段②句遥遥呼应，重申伊丽莎白观",
+      "width": 0.843683096078726,
+      "x": 0.08779443329539775,
+      "y": 0.2992177312312073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "点。For a generation 呼应①句 In today's world，强调这是最近二、三十年间才出现的现象，以前并非如",
+      "width": 0.8843683096078726,
+      "x": 0.04710921592411496,
+      "y": 0.2790091264383764
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014604999313453937,
+      "text": "此，呼应首段 collapse 一词暗含的“突然（坍塌、瓦解）”之意。collective doctrine （doctrine 意为 a belief",
+      "width": 0.8843683096078726,
+      "x": 0.049250529176256594,
+      "y": 0.2601043026358364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "accepted as authoritative by some group or school”信条，信仰”）在 collective acceptance 的基础上进一步",
+      "width": 0.8865096459021935,
+      "x": 0.044967866256612206,
+      "y": 0.23982558119239905
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "凸显当前社会对“社会分选机制理应为利益”的深信不疑。",
+      "width": 0.4925053523137019,
+      "x": 0.04925054199090046,
+      "y": 0.22093023286175617
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017948790976712203,
+      "text": "注：①②③句中三个 should 语义有别：①句 should not be 表示“对违背预期/要求之事表示惊讶”；②",
+      "width": 0.845936760535607,
+      "x": 0.08773904364563401,
+      "y": 0.20017582170537063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "句 should not 为常规用法，即“用于提供建议”，语气色彩较弱；③句should be 用于强调“理应如此，这是",
+      "width": 0.8822269733135517,
+      "x": 0.04925054534077693,
+      "y": 0.181686046503861
+    },
+    {
+      "confidence": 1,
+      "height": 0.017612413135314697,
+      "text": "当然的正确方式”。",
+      "width": 0.1605995618380033,
+      "x": 0.049250542234103224,
+      "y": 0.1597131679263475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762188833104894,
+      "text": "④⑤句说明③句，具体展现人们价值观的扭曲。两句中 have mattered（matter 为动词，意为\"［尤指",
+      "width": 0.843683096078726,
+      "x": 0.08779443329539775,
+      "y": 0.14080834420832622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "对某人自己或对发生之事］重要，要紧”）和 degraded to the margin（degrade 意为“使降格、退化”）形成",
+      "width": 0.8822269733135517,
+      "x": 0.04925054534077693,
+      "y": 0.12190351995505311
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "“升、降”对比：利益被提升为“绝对中心”，一切绕其而行；道德目的降至“边缘”，无人关注。",
+      "width": 0.7623126103327824,
+      "x": 0.04710922708200262,
+      "y": 0.10299869646489701
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "④句罗列人们追逐的对象（见利）：效率、弹性、⋯⋯发行量等。efficiency（效率、效能）、flexibility（弹",
+      "width": 0.843683096078726,
+      "x": 0.08779441923401324,
+      "y": 0.08279009095832068
+    },
+    {
+      "confidence": 1,
+      "height": 0.011845835495492452,
+      "text": "47",
+      "width": 0.023554603870098334,
+      "x": 0.8929336186395403,
+      "y": 0.06518904828288474
+    }
+  ],
+  "vision_ocr_text": "Y ①In today's world, it has become normal that well-\n在当今社会，待遇优厚的高管无需对\npaid executives should not be accountable\" for what happens\n发生在自己所运营机构中的事情负责，这\nin the organisations that they run. ② Perhaps we should not\n已经成为常态。或许我们不该如此惊讶。\nbe so surprised. ⑧ For a generation, the collective doctrine®\n对这一代人而言，“社会的分选机制应该\nhas been that the sorting mechanism of society should be\n是利益”已是集体信条。重要的字眼是效\nprofit. ④ The words that have mattered are efficiency，\n率、弹性、股东利益、商业友好、财富创造、\nflexibility®，shareholder® value, business-friendly,wealth\n销售额、影响力，以及对报纸来说的发行\ngeneration, sales, impact and, in newspapers, circulation®\n量。而退至边缘的字眼是公正、公平、宽\n⑤ Words degraded®\nto the margin have been justice，\n容、均衡以及责任。\nfairness, tolerance,proportionality® and accountability.\n•词汇注释与难句分析•\n①accountable ［o'kauntabal］a. 负有责任的，应对自己\n（性），相称；成比例\n的行为做出说明的；可解释的\n• 经典搭配\n②doctrine ［'dpktrn］n.教条；教诲，教导\n①be accountable for（对⋯⋯负责）\n③flexibility ［.fleksi'bult］n.弹性，机动性，灵活性\n②run an organization（管理某一组织）\n④shareholder ［'Jeahaulda］n. 股东；股票持有者\n③collective doctrine（集体信条）\n⑤circulation ［sskju'leifon］ n. 发行量；流通\n④degraded to the margin（被降至边缘）\n⑥degrade ［di'grerd］v.降低，贬低；使降级\n⑦proportionality ［prao po:ja'neelat］ n. 比例（性），均衡\n•语篇分析。泌\n第五段跳出案件，退而论述机构高管总体道德危机并揭示根本原因：整代人价值观扭曲。关键词\n为：①should not be accountable； ②should be profit。\n①句以多重矛盾修辞展现荒谬现象：管理者拿着高薪却无需对自己机构中的问题负责，而这竟成常\n态。what happens in the organisations 实指“突发的各种问题”；should not be accountable（should 功能力\nused to give sb an order to do sth“按要求必须”）为高管彻底免去应对问题的职责；完成时态 has become\nnormal that...暗含作者对普遍既成事实的不满与无奈。run 取僻义“管理、经营”。\n②至⑤句解释上述荒谬现象之所以成为必然的原因。\n②句过渡，以反讽口吻自答首句暗藏疑问。s0 surprised 与上句矛盾现象暗合，Perhaps we should\nnot be...以委婉否定的形式传达明确用意：这实属必然现象。\n③句随即亮明原因：“利益为大”是当今社会的集体信条。这与首段②句遥遥呼应，重申伊丽莎白观\n点。For a generation 呼应①句 In today's world，强调这是最近二、三十年间才出现的现象，以前并非如\n此，呼应首段 collapse 一词暗含的“突然（坍塌、瓦解）”之意。collective doctrine （doctrine 意为 a belief\naccepted as authoritative by some group or school”信条，信仰”）在 collective acceptance 的基础上进一步\n凸显当前社会对“社会分选机制理应为利益”的深信不疑。\n注：①②③句中三个 should 语义有别：①句 should not be 表示“对违背预期/要求之事表示惊讶”；②\n句 should not 为常规用法，即“用于提供建议”，语气色彩较弱；③句should be 用于强调“理应如此，这是\n当然的正确方式”。\n④⑤句说明③句，具体展现人们价值观的扭曲。两句中 have mattered（matter 为动词，意为\"［尤指\n对某人自己或对发生之事］重要，要紧”）和 degraded to the margin（degrade 意为“使降格、退化”）形成\n“升、降”对比：利益被提升为“绝对中心”，一切绕其而行；道德目的降至“边缘”，无人关注。\n④句罗列人们追逐的对象（见利）：效率、弹性、⋯⋯发行量等。efficiency（效率、效能）、flexibility（弹\n47",
+  "pdf_text_layer": "V Ol n today ’ s world, it has become norma l that well                       在 当 今社会 ， 待遇优 厚 的高 管 无 需 对\npaid executives s ho uld not be accountable( for what happens\n                                                                               发生在自己所运营机构中的 事情 负 责， 这\nin th e orga nisa tions t hat they run. @Perh aps we should not\n                                                                               已 经 成为 常态 。 或许 我 们不 该 如此惊讶 。\nbe so s ur pri sed. @For a ge nera ti on, th e coll ective doctrine②\n                                                                               对这一代人而言， “ 社会的分选机制应 该\nhas been that the sorting m echani sm of society should be\n                                                                               是利 益 ”已 是集 体信条 。 重 妥的字眼 是 效\nprofit.   。 Th e words that have mattered are effici ency,\n                                                                               率、弹性 、 股东利益、商业友好、财 富 创造、\nflexibility (   ,   shareholder® value , business- fri endly, weal th\n                                                                               销售额、 影 响力，以及对报 纸 来说的 发行\nge neration, sa les, im pact and , in newspapers, circulation®.\n                                                                               量 。 而退至边 缘 的字眼是公正 、 公平、 宽\n0 Words degraded® to              t he ma rgin have been justice ,\n                                                                               容、均 衡 以及 责 任 。\nfa irn ess , to lerance, proportionality( a nd acco un tabi lity.\n\n                                                词   「L\n                                                         注\n                                                         e\n                                                             句…\n                                                             难…\n                                                             与\n                                                                         析 …\n                                                                         …－\n                                                                                   J\n                                                    －        释 …\n                                                              －\n                                                                         分 …\n( accountable [ c>1kauntabaJ ］ α．负有责 任的，应对自己                      $    （性），相称；成比例\n的 行为做 出说明的；可解释的                                                   ~\n                                                                  1\\   ·经典搭配\n( doctrine l了 doktrrn］ 凡教条；教诲， 教导                                 <\n                                                                  讪    ( be acco untable fo r （ 对……负 责）\n                                                                  剧      run an o rga ni za ti on （管理某一’\n( shareholder [ 'f eahaulda J n. 股东；股 票持有者                        <\n                                                                  旦    ① coll ec t 附 d octrine （集体信条）\n( circulation ［曰：kj u1Je归n］ η．发行量；流通                              引\n                                                                  < ( degraded to the margin （被降至边缘）\n( degrade [ d1 1gre1d] v. 降低，贬低；使降级                               』\n\n( proportionality [ prc>u1p::>:Jc>1melat1 ] n. 比例 （性），均衡\n\n                                                    ： ·语篇分析－： ；；／\n      第五段跳出案件，退而论述机构高管总体道德危机并揭示根本原因：整代人价值观扭曲。关键词\n为： ① should not be accountable ; ( should be profit 。\n      ① 旬以多重矛盾修辞展现荒谬现象：管理者拿着高薪却无需对自己机构中的问题负责，而这竟成常\n态。 w h at happe ns in t he organisat i o n s 实 指“突发的各种问题”； s ho uld not be accountable( s ho ul d 功能为\nused to give sb an order to do s th“按 要求 必须勺为高管彻底免 去应对 问题的职 责 ；完成时态 has becom e\nnormal t hat ...暗含作者对普遍既成事实的不满与无奈。 run 取僻义“管理、经营” 。\n      ② 至 ⑤ 旬解释上述荒谬现象之所以成为必然的原因。\n      ② 旬过渡，以反讽口吻自答首旬暗藏疑问。 so s urpris ed 与上句矛盾现象暗合， Perhaps we s ho uld\nnot be . ..以委婉否定的形式传达明确用意：这实属必然 现 象。\n      ③ 旬随即亮明原因：“利益为大”是当今社会的集体信条。 这与首段②句遥遥呼应，重申伊丽莎白观\n点 。 For a generat ion 呼 应① 句 In today ’ s wo rld ， 强调这是最近 二、 三 十年间才出现的现象，以前并非如\n此， H乎应首段 co ll a p se － 词暗 含 的 “突然（ 拥塌、瓦解〉”之意 。 coll ect i ve doctrine ( do c t ri ne 意为 a beli ef\naccepted as authoritative by som e gro up or sc hoo l“信条，信 仰” ）在 co ll ec tiv e acce ptance 的 基 础 上进一步\n凸显当前社会对“社会分选机制理应为利益”的深信不疑。\n      注： ①②③ 句中 三 个 should 语义有别： ① 句 should not be 表 示“ 对违 背预期 ／要求 之 事表示惊讶’气 ②\n句 shou ld not 为常规用法 ，即“用于提供建议”，语 气 色彩较弱； ③句 s hould h 用于强调“理应如 此， 这是\n当然 的 正 确方式” 。\n      ④⑤ 旬说明 ③ 旬，具体展现人们价值观的扭曲。 两句中 h ave mattered ( matt e r 为动词， 意为“［尤 指\n对某人自己或对发生之事］重要，要紧”）和 degra ded to t he margin ( d egra d e 意为“ 使降格、退化” ）形成\n“升、降”对 比：利 益被提 升为“绝对中心”， 一 切绕其而行；道德目的降 至 “边 缘 ” ，无人 关注 。\n      ④ 旬罗列人们追逐的对象（见利）：效率、弹性、……发行量等。 effi c i e n cy （效率 、 效能）、 fl exibili ty （弹\n                                                                                                           47",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2290,
+    "pdf_text_character_count": 4804,
+    "nonempty": true
+  }
+}

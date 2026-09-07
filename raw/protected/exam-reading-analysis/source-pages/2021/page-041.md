@@ -1,0 +1,136 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2021-P041
+year: 2021
+pdf_page: 41
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2021 解析 PDF p41｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+者注：当法官同意主要意见书的决定，但有不同的理由或观点时，可独立撰写协同意见书加以陈述）。
+前半部分中，the result is unhinged from the realities of modern broadband service 表明法官看法：判
+决结果脱离如今宽带服务的现实。unhinged 本义为“从铰链上取下的”，此处引申为“与⋯⋯脱节的”；
+modern 一词表明现代宽带服务较过去已发生变化，判决结果落后于技术发展。
+后半部分中，Congress or the Supreme Court could intervene 点明挽救之策：让国会（立法机构）或最
+高法院（联邦法律的最终解释者）介人（暗示问题的真正解决超出了上诉法院的权限/能力）；avoid
+trapping Internet regulation in technological anachronism （anachronism 意“过时”）呼应句内的 unhinged
+from the realities，凸显更新法律、使其跟上技术发展的必要性。
+【深层解读】阅读时需借助逻辑衔接词、情感色彩表达词感知作者的情感态度。本段借 But 实现先扬
+后抑：①句先指出裁决结果，以 unanimously upheld、citing 等客观性表达肯定判决在法律程序上无懈可击；
+②句补充法官协同意见，以 unhinged from the realities、could intervene 明确问题所在：判决结果不符合当代
+现实，需依赖国会立法或最高法院的干预。
+• 真题精解
+39.Judge Patricia Millett argues that the appeals court’s
+39.帕特丽夏•米利特法官认为上诉法院的
+decision
+裁定
+-。
+LAJ focus on trivialities
+［A］聚焦于琐事
+［B］
+conveys an ambiguous message
+［B］传达模棱两可的信息
+［C］ is at odds with its earlier rulings
+［C］与过往的裁决不一致
+D］ is out of touch with reality
+［D］与现实脱节
+［精准定位］第四段②句指出，帕特丽夏•米利特法官认为判决结果与现实脱节，国会或最高法院
+可进行干预，以避免网络监管滞后于技术进步，D正确。
+［命题解密］题干 the appeals court's decision 结合正确项 is out of touch with reality 是对②句 the
+result is unhinged from the realities...的同义改写。
+A、B均对②句“判决结果偏离现实（the result is unhinged from the realities）”断章取义，理解成帕特丽
+夏•米利特法官认裁决“仅聚焦于琐事/并未处理重大问题”或“模棱两可，未切中现实情形”。C与①句
+“上诉法院援引了最高法院2005年的一项裁决”相悖，且与帕特丽夏•米利特法官的个人看法无关。
+［技巧总结］本题表面考查人物观点，实际考查考生对长难句核心信息的总结推理能力，解题时应
+结合上下文（借助逻辑词、情感词、段落主旨等）对其做出合理推断。解题步骤：一、锁定第四段②句为正
+确项来源，但该句较为抽象难懂，因此需结合上下文理解，而借But 可知，首句让步肯定此次裁决的法理
+依据，故②句法官之言应转而传达该结果的不足或缺陷；二、结合定位处关键信息 unhinged from the
+realities、trapping Internet regulation in technological anachronism（注：构词法可用于辅助推测，unhinged
+的前缀un-具有否定含义）可知法官认为裁决脱离现实/落后于技术发展，初步判定D为正确项；三、识别
+干扰项，A、B在文中找不到信息支撑，C则违背文中事实，均可排除，最终确定正确项为D。
+① In the meantime, the court threw out the
+与此同时，法院驳回了FCC 试图终止所
+FCC's attempt to block① all state
+rules
+on
+net
+有州的网络中立法规的请求，但维护了 FCC
+neutrality, while preserving® the commission's power to
+如下权力：凭借“联邦法优先”原则，否决动摇
+preempt® individual state laws that undermine® its order.
+其现有规则的个别州法。这意味着会有更多
+② That means more battles® like the one now going on
+类似当前“司法部和加州之争”的较量，后者
+between the Justice Department and California, which
+在FCC放弃监管后颁布了一项严厉的网络
+enacted® a tough net neutrality law in the wake of the
+中立法。
+FCC's abdication®
+41
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+者注：当法官同意主要意见书的决定，但有不同的理由或观点时，可独立撰写协同意见书加以陈述）。
+    前半部分中,the result is unhinged from the realities of modern broadband service 表明法官看法：判
+决结果脱离如今宽带服务的现实。unhinged本义为“从較链上取下的”，此处引申为“与……脱节的”；
+modern -词表明现代宽带服务较过去已发生变化，判决结果落后于技术发展。
+    后半部分中‘Congress or the Supreme Court could intervene点明挽救之策：让国会（立法机构）或最
+高法院（联邦法律的最终解释者）介入（暗示问题的真正解决超出了上诉法院的权限/能力）；avoid
+trapping Internet regulation in technological anachronismCanachronism 意为''过时"）呼应句内的 unhinged
+from the realities,凸显更新法律、使其跟上技术发展的必要性。
+    【深层解读】阅读时需借助逻辑衔接词、情感色彩表达词感知作者的情感态度。本段借But实现先扬
+后抑：①句先指出裁决结果,以unanimously upheld.citing等客观性表达肯定判决在法律程序上无懈可击；
+②句补充法官协同意见，以unhinged from the realities,could intervene明确问题所在：判决结果不符合当代
+现实，需依赖国会立法或最高法院的干预。
+                                                 「•真题精解・'\也
+
+
+ 39. Judge Patricia Millett argues that the appeals courts          39.帕特丽夏•米利特法官认为上诉法院的
+ decision        ・                                                  裁定      。
+ [A] focus on trivialities                                          :A］聚焦于琐事
+ [B] conveys an ambiguous message                                   ［B］传达模棱两可的信息
+ [C] is at odds w让h its earlier rulings                             ［C］与过往的裁决不一致
+ [D] is out of touch with reality                                   ［D］与现实脱节
+    ［精准定位］第四段②句指岀，帕特丽夏•米利特法官认为判决结果与现实脱节，国会或最高法院
+可进行干预，以避免网络监管滞后于技术进步，D正确。
+    ［命题解密］题干 the appeals court's decision 结合正确项 is out of touch with reality 是对②句 the
+result is unhinged from the realities...的同义改写。
+    A、B均对②句"判决结果偏离现实（the result is unhinged from the realities）M断章取义，理解成帕特丽
+夏•米利特法官认为裁决“仅聚焦于琐事/并未处理重大问题”或“模棱两可，未切中现实情形”。C与①句
+“上诉法院援引了最高法院2005年的一项裁决”相悖，且与帕特丽夏•米利特法官的个人看法无关。
+    ［技巧总结］本题表面考查人物观点，实际考查考生对长难句核心信息的总结推理能力，解题时应
+结合上下文（借助逻辑词、情感词、段落主旨等）对其做出合理推断。解题步骤：一、锁定第四段②句为正
+确项来源，但该句较为抽象难懂，因此需结合上下文理解，而借But可知，首句让步肯定此次裁决的法理
+依据，故②句法官之言应转而传达该结果的不足或缺陷；二、结合定位处关键信息unhinged from the
+realities‘trapping Internet regulation in technological anachronism （注：构词法可用于辅助推测，unhinged
+的前缀un-具有否定含义）可知法官认为裁决脱离现实/落后于技术发展，初步判定D为正确项；三、识别
+干扰项，A、B在文中找不到信息支撑，C则违背文中事实，均可排除，最终确定正确项为D。
+
+     V O In the meantime, the court threw out the
+                                                                         与此同时，法院驳回了 FCC试图终止所
+FCC's attempt        to   block®   all   state   rules   on   net
+                                                                    有州的网络中立法规的请求，但维护了 FCC
+neutrality, while preserving② the commission's power to
+                                                                    如下权力：凭借“联邦法优先”原则，否决动摇
+preempt1 individual state laws that undermine® its order.
+                                                                    其现有规则的个别州法。这意味着会有更多
+©That means more battles0 like the one now going on
+                                                                    类似当前“司法部和加州之争”的较量，后者
+between the Justice Department and California, which
+                                                                    在FCC放弃监管后颁布了 一项严厉的网络
+enacted® a tough net neutral让y law in the wake of the
+                                                                    中立法。
+FCC's abdication°.
+
+
+                                                                                          41
+```

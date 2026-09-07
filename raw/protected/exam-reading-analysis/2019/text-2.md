@@ -1,0 +1,1021 @@
+---
+analysis_id: EXAM-ANALYSIS-2019-T2
+reference_id: EXAM-READING-2019-T2
+year: 2019
+text_no: 2
+visibility: hidden_until_review
+extraction_status: preprocessed_complete
+source_role: protected_derived_source
+---
+
+# 2019 English I Text 2｜答案与解析预处理
+
+> [!danger] 自主练习阶段禁止展开
+> 本文件已经保存标准答案和出版方解析转写。用户只陈述选项时不读取；只有明确要求核对答案、讲题或进入复盘后，才读取对应题号的最小区块。
+
+- 来源 PDF：`/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf`
+- 来源 SHA-256：`2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773`
+- 旧锚点：p19-25
+- 实际预处理页：p18–26
+- 逐页证据：9 页
+
+<details>
+<summary>答案与解析（仅复盘时展开）</summary>
+
+## 标准答案
+
+| 题号 | 正确选项 | 来源页 | 核验状态 |
+|---:|:---:|---:|---|
+| 26 | D | p19 | source_verified_high |
+| 27 | A | p21 | source_verified_high |
+| 28 | A | p23 | source_verified_high |
+| 29 | C | p25 | source_verified_high |
+| 30 | B | p26 | source_verified_high |
+
+## 逐题解析
+
+### Q26
+
+- 正确选项：D
+- 答案核验页：p19
+- 解析来源页：p19, p20, p21
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+•真题精解•
+26. What is commonly regarded as the cause of grade inflation？
+26. 什么常被视为分数膨胀的原因？
+［A］ The change of course catalogs.
+［A］ 课程目录的变更。
+「BI Students' indifference to GPAs.
+［B］学生对GPA的漠视。
+［C］
+Colleges' neglect of GPAs.
+［C］大学对 GPA的忽视。
+［D］ The influence of consumer culture.
+［D］消费者文化的影响。
+［精准定位］根据题干关键词 grade inflation 定位至首段①句，该句指出：“分数膨胀”往往被视作高
+等教育进入消费者时代的产物，即人们通常认为消费者文化是高等教育“分数膨胀”的原因，［D］正确。
+［命题解密］题干 commonly regarded as the cause of grade inflation 对应首段①句 Grade inflation...
+is often considered a product of...，［D］同义改写该句 a product of a consumer era in higher education。
+［A］course catalogs 在首段②句复现，但文中并未涉及“课程目录的变更”。［B］、［C］由 forgiveness
+一词臆断学生和大学对GPA缺乏重视、甚至嗤之以鼻，但②句“‘成绩宽恕’政策（grade forgiveness）正在
+推高GPA”恰恰表明该政策是基于双方对GPA的重视、希望提高GPA的强烈要求而出台的，两项既与
+文意相悖，更非公认的“分数膨胀”的原因。
+［技巧总结］本题针对开篇现象考查其成因（the cause of grade inflation），而定位段（首段）两句分别
+提及两重原因（a product of...another, related force...called "grade forgiveness”），此时应自问：两项原
+因“是完全并列，正确项只需契合其中之一”，还是“有轻有重，题干有所特指”。文中①句 often
+considered...介绍“人们公认的原因”，②句以 But引出语意重点——不同于前者、令人惊讶的内容，即“相
+对较少被人关注的原因”，这也是文中意欲重点论述的原因。再审视题干，发现命题人“避重就轻”，针对
+“普遍看法（铺垫性信息）”发问，所以解题时需牢牢锁定①句，谨防利用②句逻辑或信息设置的干扰。
+Grade forgiveness allows students to retake® a course in
+“成绩宽恕”允许学生重修得
+which they received a low grade, and the most recent grade or the
+分低的课程，而在计算总GPA时只
+highest grade is the only one that counts in calculating a student's
+计入最近或分数最高的一次成绩。
+overall®GPA.
+•词汇注释与难句分析
+①retake ［ri：'teik］v. 重（考），重学（课程等）
+S ②overall ［'ouvoro.］a. 全面的，综合的，总体的
+19
+．语篇分析
+第二段介绍大学“成绩宽恕”政策的具体内容。关键词为：①allows； ②retake； ③the highest grade。
+本段力and 连接的一个复合句，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句二中 the
+most recent grade or the highest grade is the only one that counts 进一步明确分句一中 retake a course 的
+内涵：机会远远不止一次。可见该政策本质上是学校为学生开辟的“高分”绿色通道。注：旬中 count 不
+同于 calculate（计算、核算），作不及物动词用，意为 to be allowed or accepted”算数、有效、被接受”。
+【深层解读】“只计入最高分”的原则明确传达一种信号：受众范围不会只限于低分者（received a low
+grade），而是会扩大至所有不满于自己成绩的学生，怂恿他们追逐这一政策福利，最终导致“分数膨胀”现
+象。故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细化解释。
+_① The use of this little- known practice® has
+近些年来，随着大学不断竭尽所能让学
+accelerated" in recent years, as colleges continue to do their
+生留在学校（并支付学费）、提高毕业率，这
+utmost to keep students in school （and paying tuition®） and
+种鲜为人知的做法开始加快推行。数十年
+improve their graduation rates. ② When this practice first
+前该做法刚实行时，通常仅适用于大一新
+started decades ago, it was usually limited to freshmen®，to
+生，为的是在其向大学水平课程艰难过渡的
+give them a second chance to take a class in their first year if
+过程中给予他们一次在第一学年重修课程
+they struggled® in their transition® to college- level courses.
+的机会。但现在，除许多知名院校外，多数
+⑧ But now most colleges, save for many selective®
+大学允许所有本科生，甚至研究生得到低分
+campuses, allow all undergraduates®，and even graduate
+“宽恕”。
+students, to get their low grades forgiven.
+•词汇注释与难句分析•
+①practice ［'prsektis］n. 通常的做法，惯例，常规
+⑦selective ［si'lektiv］a. 严格筛选的
+②accelerate ［ok'selareit］v.（使）加速，加快
+⑧ undergraduate ［Anda'grsedjoat］n. 大学本科生
+③tuition ［tju：'ijon］ n. 学费
+• 经典搭配
+④freshnun［'frefmon］n.（美国中学或大学的）一年级学生
+①do their utmost（尽全力，竭力）
+⑤struggle ［'strAgol］ v. 艰难地行进，吃力地进行
+②save （for）（除⋯ 之外）
+⑥transition ［treen'zijon］ n. 过渡
+•语篇分析。
+第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为：①improve their graduation
+rates； ② usually limited to freshmen。
+①句概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。this little-known practice 暗合
+首段②句 a policy often buried deep in course catalogs，重申“成绩宽恕”这一政策的“潜规则”性质，而这
+与其“愈演愈烈的现状（has accelerated in recent years）”反差鲜明，凸显写作意图：引起大众对这一政策
+的关注与思考。as 引出现状背景/原因，continue to do their utmost 展现大学的“不渝”与“尽瘁”，而对象
+keep students in school 以及 improve their graduation rates 却尽显讽刺：完全无关教育、科研本身，括号内
+and paying tuition 更是曝光其意图：追逐高额学费。注：新生保留率（keep students in school）是指大一新
+生次年返校上大二的比例，也是判断新生对学校满意程度的重要参考。
+②③句昔今对比讲述政策“变形记”。两句以时间状语 decades ago VS now 以及转折词 But 体现政策
+前后变化，同时回应①句具化强调政策现状。
+②句回顾政策初衷：为大一新生量身定制。usually limited to freshmen 与“政策加速滥用”的语境对
+比鲜明，to give them a second chance. ..具体解释政策目的：为新生提供缓冲，助其适应大学生活和学
+习；if they struggled... 借“假设”外壳补充新生需要帮扶/出台政策的深层原因，struggle（意力“艰难、吃
+力地前行”）形象展现“新生过渡期之苦”，侧面突显政策的必要性。
+20
+③句聚焦如今情形：适用于大部分学生。to get their low grades forgiven 重申政策内容，most
+colleges、all undergraduates、even graduate students 共同突显政策扭曲滥用的程度：忘却“保护弱势新生”
+的初心，沦为高校确保学生保留率、提升毕业率的工具；save for（=except sth“除••⋯外”）引出例外情
+形，selective（仔细挑选的）表明坚守原则的仅剩真正的实力院校。
+【深层解读】现象类文章结构通常为“提出现象一评述现象（原因、影响等）”，本文前两段基本完成了
+“提出现象”的任务，预计第三段应切入“评述部分”，但①句 The use of ... has accelerated in recent years
+与③句 But now most... allow all...to get their low grades forgiven 均对现象的具化强调，可知本段
+（虽明确针对“高校”开启论述，但）重点仍在“展示现象”，阅读时应着力抓取“新的评述性信息（只有这部
+分信息可能成为区别于开篇内容的命题点）”：其一是首句as 带出的“大学普及政策的原因”，其二是②
+句 When..first started...，usually limited to...所示“政策出台背景”，前者直接关乎主旨“全球市场
+```
+
+### Q27
+
+- 正确选项：A
+- 答案核验页：p21
+- 解析来源页：p21, p22, p23
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+化/消费者时代背景下，高等教育也一路商品化”，则后者很可能作为考点出现。
+• 真题精解
+27. What was the original purpose of grade forgiveness？
+27. “成绩宽恕”最初的目的是什么？
+［A］ To help freshmen adapt to college learning.
+［A］帮助新生适应大学学习。
+［B］ To maintain colleges' graduation rates.
+［B］维持大学毕业率。
+［C］ To prepare graduates for a challenging future.
+［C］让学生为充满挑战的未来做好准备。
+［D］ To increase universities' income from tuition.
+［D］增加大学的学费收人。
+［精准定位］根据题干关键词 the original purpose of grade forgiveness 可定位至第三段②句，该句介
+绍数十年前“成绩宽恕”政策刚开始实行时的情形（When this practice first started...）：仅针对大一新
+生，旨在为新生提供一次重修课程的机会，帮他们应对高中到大学的过波，也即适应大学学习，［A］正确。
+［命题解密J［A］是对第三段②句 to give them a second chance...if they struggled in their transition
+to college-level courses 的概括。
+［B］、［D］利用第三段①句as 从句的内容进行干扰，但“维持毕业率”和“（提升保留率，）增加学费收
+入”均为该政策近年来加速实行的原因，而非其初始目的。［C］借第四段②句“通过重修课程，学生在后
+续课程中表现得更好，最终取得了更大的成功”干扰，该内容固然是“（高校管理者眼中）政策对学生的好
+处”，但并非政策初衷。
+［技巧总结］本题考查事实细节，解题关键在于准确定位。题干关键词 the original purpose of grade
+forgiveness 看似直接对应第四段①句 the goal of grade forgiveness，但 College officials tend to emphasize
+that...表明该句/段为当前大学管理者对政策的看法，与题干中过去时态以及 original 一词表明的“政策
+实行之初”不符，故实际应定位至第三段②句（When this practice first started decades ago...）。四个选
+项中只有［A］符合题意，其他三项均借该政策当前的执行效果（B、D背离初衷，C则扩大作用对象）干扰。
+① College officials tend to emphasize that the goal
+高校管理者常常强调成绩宽恕的目的
+of grade forgiveness is less about the grade itself and
+并不在分数本身，更多是了鼓励学生重修
+more about encouraging students to retake courses critical
+那些事关学位和毕业的课程而免于受到严
+to their degree program®
+and graduation without
+重处分。“最终，”俄亥俄州立大学教务主任
+incurring®a big penalty®. ② “Ultimately，” said Jack
+杰克•迈纳说，“我们看到学生获得更大的
+Miner, Ohio State University's registrar®，“we see
+成功，因为他们重修了一门课程而在后续课
+students achieve more success because
+they retake a
+程中表现得更好，或掌握了让他们得以按时
+course and do better in subsequent®
+courses or master the
+毕业的内容。”
+content that allows them to graduate on time.
+”
+21
+•词汇注释与难句分析。必
+①program ［' praugreem」n. 计划，方案，课程
+②incur ［m'k3.］v. 招致，蒙受
+④registrar ［'red3istra：］ n. 教务主任
+⑤subsequent ［'sAbsikwant］a. 随后的，后来的
+•语篇分析。》
+第四至六段评述现象，阐释“成绩宽恕”政策盛行的原因：符合学生和大学双方的利益需要。
+第四、五段分别从学生和大学的角度分述原因。
+第四段借大学管理者发言指出“成绩宽恕”政策符合学生的利益。关键词为：①students achieve more
+suCcesSo
+①句介绍大学管理者对政策目标的定位：鼓励学生重修事关学位的关键课程。tend to emphasize 微
+妙传达“作为政策制定者和执行者，大学管理者非常清楚政策所涉争议，常刻意表明立场‘以正视听’”的
+内涵。be less about A and more about B（更多在于B，而不在于 A）暗中回应外界质疑：提分并非目的，人
+们也大可不必纠结于“分数膨胀”现象：形容词短语 critical to...（对⋯⋯至关重要的）修饰 courses，侧面
+揭示“成绩宽恕”政策的用意：帮助学生顺利毕业。注：penalty 是指考试成绩低、挂科等带来的惩罚，包括
+academic penalty（课程成绩为零）、financial penalty（重修课程、延迟毕业等可能带来的经济负担）。
+②句引某大学教导主任所言证明①句。整句引言为包含原因状语从句的复合句，because 从句中
+and（=as a result，意为“结果是”）也充当因果连词，故而整个句子形成因果逻辑链条：（利用“成绩宽恕”
+政策）重修课程（retake a course） * 学好后续课程、掌握关乎毕业的核心内容（do better.•.or master...）
+一取得更大的成功（more success）。
+【深层解读】本段两句看似介绍大学管理者（College officials &. University's registrar）的观点，实则
+重点落在“成绩宽恕”政策对学生的影响上（encouraging students to...their..
+&. students achieve...
+allows them.•.），解释该政策如何满足学生的利益需要。另外，整段说辞尽管已经在某种程度上体现
+“大学管理者”的功利（将“学生顺利毕业”视作重心，几乎将之等同于“成功”），但由于论述基于政策制
+定/执行者自身所言，远未能就前文暗示的“学校施行该政策更多是为了达成交易，满足私利（比如为赚
+取学费、实现高毕业率等）”进行直接评述/揭示，预示下文会就此展开说明，更进一步曝光学校意图。
+① That said, there is a way in which grade
+即便如此，成绩宽恕也以某种方式满足
+forgiveness satisfies colleges'
+own needs as well.
+② For
+了大学自身的需要。对公立机构而言，州政
+public institutions, state funds are sometimes tied® partly
+府拨款有时部分取决于其在毕业率、学生保
+to their success on metrics® such as graduation rates and
+留率等指标上的成功—
+一因此成绩越好，就
+student retention® —so better grades can, by boosting®
+越能提升上述数据，从而带来更多拨款。而
+figures like those, mean® more money.
+③ And anything
+且，任何能提高GPA 的东西可能都会让学
+that raises GPAs will likely make students—who, at the
+生—最终买单的人—觉得他们的学费
+end of the day, are paying the bill—feel they've gotten a
+花得物超所值，这是大学极为关心的另
+better value for their tuition dollars, which is another big
+一点。
+concern for colleges.
+•词汇注释与难句分析。
+①tie ［tai］v. 连接，联合，使紧密结合
+⑤mean ［min］v.产生⋯⋯结果，意味着
+②metric ［'metrik］n. 衡量标准，［数］度量
+• 经典搭配
+③ retention Lri tenfon」n. 保留
+at the end of the day（最终，到头来，不管怎么说）
+④boost Lbust」v. 推动，提高，增强
+22
+And anything that raises GPAs will likely make students-who, at the end of the day, are paying the
+bill-feel they ve gotten a better value for their tuition dollars, which is another big concern for colleges.
+that
+raises GPAs
+who, at the end of the day, are paying the bill
+引导词作主语 谓语 宾语
+引导词作主语
+状语
+谓语
+宾语
+定语从句修饰anything
+定语从句修饰students
+And anything will likely make students feel
+feel的宾语从句 they’ve golten a belter valle for their tuition dollars.
+连词 主语
+谓语
+主语+谓语
+宾语
+今非限定性定语从句
+which
+is another big concem for colleges
+引导词作主语 系动词
+表语
+功能注释：本句为复合句，嵌套三个定语从句，一个宾语从句，that 引导定语从句修饰 anything,who
+引导定语从句修饰 students，句末 which 引导非限定性定语从句，而 feel 后接省略that 的宾语从句。
+•语篇分析，泌
+第五段指出“成绩宽恕”更符合大学自身的利益。关键词为：① satisfies colleges’' own needs as well。
+①句为段落主旨句，表明“成绩宽恕”更为满足大学自身需要。as well 表明本段与第四段为并列关
+系，而段首 That said（=even so，“尽管如此”，that 指代第四段所述“学校为助学生毕业而施行政策”）又
+提示从本段起才是作者的论述重心所在，将彻底明了问题本质，摆明其态度。satisfies colleges' own
+needs 回应上段“满足学生的需求”，强调“学校绝非仅为学生毕业考虑那么简单”。
+②③句具体解释“成绩宽恕”如何满足大学的两大需要。③句 And、another big concern 体现两句并
+列关系。state funds、tuition dollars 均聚焦“物质利益”，提示政策的盛行源于大学的逐利倾向。
+②句指出需要一：有助于获得更多政府拨款。sometimes tied partly to...引出影响政府资金的重要
+因素：指标是否高，graduation rates、 student retention 列举两大指标，分别复现第三段①句 graduation
+rates、keep students in school，揭示大学施行“成绩宽恕”政策的根本原因：政府拨款与学生的毕业率、保
+留率关联甚密。破折号后 so进一步细化结论，mean（to have sth as a ［likely］ result，意次“产生•⋯结
+果，意味着”）、by（借由［某事达成另一事］）均表明“因果关联”，共同构成语义链条：成绩越好（better
+grades） >越抬高毕业率、保留率（boosting figures）一越多拨款（more money），其中 figures 回指 metrics，
+those 指代 graduation rates and student retention。
+③句指出需要二：提高学生满意度，确保重要的收入来源。anything 的“泛指意义”与其后定语从句
+that raises GPAs 传递的“特指单一目标”形成对比，暗暗谴责大学“为达目的不择手段”的心态与做法，
+“成绩宽恕”政策正是其中一种。破折号内的who定语从句、破折号后 feel ••.a better value for..
+dollars 借说明学生的身份、心态凸显其“消费者”本质，从而揭露大学大力推行“成绩宽恕”的用意。
+【深层解读】第四、五段看似并列，但从“引大学管理者所言”过渡至“作者自我论述”，从“间接”到本
+段的“具体、直接（funds/more money、paying the bill/tuition dollars）”，可知本段更进一步揭示“高校成力
+一味逐利的商人/高等教育商品化”的现状，呼应了首段“高等教育进入消费者时代”，预示下文或发出呼
+```
+
+### Q28
+
+- 正确选项：A
+- 答案核验页：p23
+- 解析来源页：p23, p24, p25
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+吁/提出建议，或总结对现象的看法收束全文。
+•真题精解•
+28. According to Paragraph 5, grade forgiveness enables
+28. 根据第五段的内容，“成绩宽恕”使
+colleges to
+大学得以
+_。
+［A］ obtain more financial support
+［A］得到更多财政支持
+［B］ boost their student enrollments
+［B］增加入学人数
+23
+［C］ improve their teaching quality
+［C］提高教学质量
+［DJ meet local governments' needs
+［D］满足当地政府的需求
+［精准定位］第五段指出“成绩宽恕”满足了大学两方面的需要：1.帮助公立大学获得更多政府拨款；
+2.提高学生对于学校的满意度。［A］符合第一项内容。
+［命题解密］“题干十［A］”同义改写②句 better grades can... mean more money。
+［B］由③句“让学生觉得学费物超所值（即，提高消费者满意度）”过度引申而来，但该句实际指“留住
+在校学生”，而非“吸引还未人学的学生”。［C］由②句“提高毕业率和保留率”臆测出“成绩宽恕”政策有
+助于“提升高校教学质量”，但文中没有信息支撑这一结论。［D］借②句干扰，但原文为“州政府拨款的部
+分依据（毕业率和学生保留率高）”，这一条件并非地方政府本身的需求（governments’ needs）。
+［技巧总结］题干中的 enables colleges to 提示本题考查“大学热衷成绩宽恕政策的背后原因/对大学
+的好处”。应结合微观与宏观思维解题：微观上定位梳理原文并比对选项，宏观上还应思考文中对这一
+好处的定位。第五段首句 satisfies colleges' own needs 将这种好处定位为“（大学的）私利”，②句随即验
+证——财政拨款。③句则呼应首句的“消费者时代”，说明高校的“取悦”心态。所以整段内容与“高等教
+育本身（［C］项）、州政府需求（［D］项）”毫无关联，［B］虽符合“高校逐利”的总体导向（有利于增加高校学
+费收人），但比对后发现为过度引申。
+① Indeed, grade forgiveness is just another way
+实际上，成绩宽恕不过是大学回应消费
+that
+universities
+are
+responding
+to
+consumers'
+者对高等教育的期望的另一种方式。既然
+expectations for higher education. ② Since students and
+学生和家长都希望大学学位能带来一份工
+parents expect a college degree to lead to a job, it is in the
+作，那么产出尽可能合格的毕业生—或者
+best interest of a school to turn out graduates who are as
+至少看起来合格的毕业生，就是最符合学校
+qualified as possible—or at least appear to be， ⑧On this，
+利益的做法。在这一点上，学生和大学的动
+students'
+and colleges’ incentives①
+seem to be aligned®.
+机似乎是一致的。
+［429 words］
+词汇注释与难句分析
+①incentive ［in'sentiv］ n. 动机
+② be in the best interest of sb/in sb's best interest to
+②align ［o'lan］【超纲】v.使一致
+do sth（做某事对某人最有利）
+• 经典搭配
+③turn out（生产，制造）
+①lead to（通向，通往）
+•语篇分析，
+第六段总结现象原因：“成绩宽恕”政策是高等教育商品化的表现，是学生与大学双方共同作用的结
+果。关键词为：①responding to consumers’ expectations； ②aligned。
+①句顺承上文揭示“成绩宽恕”政策的实质：满足买家（即学生）的某种手段。Indeed（用于强调/肯定
+已提及的事实）提示本段基于上述内容开启总结陈词。responding to consumers’ expectations...
+（respond 指“针对需求、危机、挑战等采取必要或合适的行动”）至此彻底明确前文暗示的“学生VS大学
+间关系的实质”—消费者VS 商品/服务提供者、买方 VS 卖方，由此呼应首段②句 related 隐含的“消费
+者时代催生成绩宽恕政策”之意。just another..（不过是⋯⋯又一种⋯•⋯）突显对“高等教育商品化程
+度之深以及表现方式之多”的讽刺。
+②句具体阐释①句所述实质。Since（引出“某事之所以合理的解释”）明确学校行事的原则：完全因
+循学生需求。换句话说，学生需要什么，学校便做什么。expect a college degree. ..（大学文凭一求职）也
+正与 to turn out graduates.. qualified as possible 完全一致：都奔着“顺利毕业”而去，turn out（注：原文力
+24
+churn out，表示“大量炮制”）本来针对“物”，此处接“毕业生”，展现作者对大学背弃自身教育使命的讽
+刺：与批量生产、只求产品达标的商家无异；破折号后 or at least appear to be 更是强化讽刺力度，暗示
+“成绩宽恕”不止“给学生重修机会”而已，若多次重修仍不过，学校甚至会放宽标准，直接给成绩注水。
+③句总结现象原因：学生和大学合力使然。students' and colleges' incentives （incentive 指 sth that
+encourages you to do sth“刺激、动力”）指代多种诉求，但状语 On this（在这点上）将其锁定于②句所述的
+方面，即“尽力让学生/自己毕业”，由此推断主句中的超纲词 aligned 意“一致的、统一的”，也就是说，
+学生和大学实属“买卖利益共同体”，行事受同一股力量推动，也正因此，“成绩宽恕”才会如此盛行。
+【深层解读】本段是对第四、五段两大原因的总结，同时也是对全文现象的“终结性评述”，阅读时注
+意回顾开篇关键信息以及论述过程中对该信息的重申，总体把握全文，捋顺作者成文用意。开篇明确
+“消费者时代/文化”是高校“成绩宽恕”政策愈演愈烈的始作俑者，并于论述过程中层层揭示“消费者文
+化”的内涵：消费者居主导地位，一切都唯买家需求是从，教育也沦拿来交易的产品，如今这一悲哀的
+现状，高校自当受到责备，但学生作为买方也势必难逃其责，换句话说，当今时代人人都是消费者文化的
+```
+
+### Q29
+
+- 正确选项：C
+- 答案核验页：p25
+- 解析来源页：p25
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+推手，作者希望引起每个人的反思。
+•真题精解，
+29. What does the phrase “to be aligned” （Para. 6）most
+29. 短语 to be aligned（第6段第5行）最
+probably mean？
+有可能是什么意思？
+［A］ To counterbalance each other.
+LA」互相抗衡。
+LB」 To complement each other.
+LB」彼此互补。
+［C］ To be identical with each other.
+［C］彼此相同。
+［D］ To be contradictory to each other.
+［D］彼此相反。
+［精准定位］所考词组位于第六段③句，而该句中 this 回指前文信息，需综合分析：本段①句先揭示
+学校与学生之间关系的实质—商品/服务提供者VS消费者，②句具体说明这一关系：作为消费者的学
+生及其家长希望顺利拿到学位，作为商品/服务提供者的学校尽力产出合格或看起来合格（即符合学位
+授予条件）的学生，可见两者动机是一致的，to be aligned 意“一致的，相同的”，［C］正确。
+［命题解密JC］是基于学生和学校之间关系（responding to consumers’ expectations）以及两者目标
+（expect a college degree 与 turn out graduates who are as qualified as possible一致）作出的合理推断。
+全文均未提到学生与学校之间存在任何的对立、矛盾，反而是学校致力于满足学生的需求，为学生
+提供支持，排除［A］与［D］。［B］利用“学校服务学生的同时，实现自身需求，两者互帮互补、各取所需”干
+扰，但原文主语为“动机（incentives）”，文中动机均指向“拿到文凭”，而非“互补”。
+［技巧总结］③句 this 乍看指代不明，此时应回顾全段进行判断，首先明确“总一分”布局（①句概述，
+②③句具体说明），①句 universities are responding to consumers' expectations、 ②句 Since students...
+expect...， it is in the best interest of a school to... 均表明学生与大学出发点一致（均追求一纸文凭），故
+推知 to be aligned 意为“一致的”。捷径：本题实际考查学生与大学动机/态度的关系，可结合全文或明示
+或暗示的二者关系（首段 consumer era/customers to be pleased、第三段 students.. paying tuition、第五
+段 students...paying the bill...value for...tuition 均表明学生与学校为消费关系）可知，学校致力于取
+悦学生，排除体现矛盾关系的［A］、［D］以及互补关系的［B］。
+```
+
+### Q30
+
+- 正确选项：B
+- 答案核验页：p26
+- 解析来源页：p25, p26
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+30. The author examines the practice of grade forgiveness
+30. 作者通过
+的方式剖析了“成
+by
+绩宽恕”这一做法。
+LA」 assessing its feasibility
+［A］评定其可行性
+［B］ analyzing the causes behind it
+［B］分析其背后原因
+25
+LC］ comparing different views on it
+［C］比较关于它的不同观点
+［D］ listing its long-run effects
+［D］ 列举其长远影响
+［精准定位］本题考查作者写作方式（examines..by. ..），需结合全文内容进行判断。文章第一至三
+段先介绍“成绩宽恕”政策的内容及其发展情况，特别指出近年来该政策日益普及的现状，第四至六段揭
+示政策产生和发展的原因，其中第四、五段先分别指出该政策符合学生和大学的需求，第六段总结原因，
+揭示学生和大学之间关系的实质是消费关系，“成绩宽恕”政策的加速施行是双方共同利益驱使的结果。
+可见，作者是借助“分析政策背后的原因和动机”来剖析政策、表明态度的，［B］正确。
+［命题解密］［B］正确概括本文写作方式，主要指向第四、五段具体原因分析以及第六段原因总结。
+［A］利用作者隐含的担忧态度进行臆测，但选项内涵实为对尚未实施的计划，政策等进行可行性评
+定（feasible 意力“切实可行的，行得通的”），而本文论述对象“成绩宽恕”政策早已实行数十年；且“可行
+性”一词侧重“能不能”，而非“该不该”。第四段涉及政策相关观点，但仅涉及制定者和执行者一方的观
+点，没有观点交锋，故排除［C］。第四、五段虽涉及政策对学生和大学的影响（助学生顺利毕业就业、提高
+毕业率和学生保留率），但都是双方想要的短期效果，且与全文“曝光这一动机”的立意不符，排除［DJ。
+［技巧总结］本题形式上考查论证方式/结构，但作为最后一道题，也可以视作考查文章主旨，解题时
+需捋清文章主线。前三段介绍大学“成绩宽恕”政策，并指出其近年来加速普及，第四至六段分析原因，
+指出该政策的背后推手是“买卖双方（学生和大学）的共同需求”，可见本文主要分析了“成绩宽恕”的原
+因，希望借此引发公众对高等教育“商品化”的反思，［B］正确。
+```
+
+## 完整出版方解析 OCR
+
+### PDF p18
+
+termism 多次同义/反义复现，体现文章关注点“企业的短期主义/长期主义”；worsen、hinder、at the
+expense of 等蕴含强烈贬义色彩，传递作者对“短期主义”的批判、对“长期决策”的倡导。二、从选项入
+手，拆分选项信息、多角度判断正误。如本题选项均可拆分为“中心词/关注点十描述/限定信息”（［AJ
+Failure of + Quarterly Capitalism； ［B］Patience + as a Corporate Virtue ;LC］Decisiveness + Required of
+Top Executives； ［D］ Frustration + of Risk-taking Bankers）分别进行判断，可发现：LAJFailure of 违背文
+意，［C］Decisiveness 偏离文章关注点；［D］Risk-taking Bankers 缩窄文章针对群体；而［B］则既体现文章
+关注点，又符合作者观点，故正确。
+Text 2
+大学“成绩宽恕”的兴起
+知识补充
+原文外教朗读
+学、文章总体分析
+本文选自 The Allantic《大西洋月刊》2018.06.29 一篇题为 The Rise of College "Grade Forgiveness”
+（大学“成绩宽恕”的兴起）的文章。文章围绕美国大学“成绩宽恕”政策加速普及这一趋势，按照“先介绍
+现象（第一至三段）—后剖析原因（第四至六段）”的脉络展开论述，在逐层解释原因的同时流露出对高
+等教育过度“商品化”的批评与担忧之情。
+净二、语篇分析及试题精解
+I ① Grade inflation®—the gradual increase in
+分数膨胀一
+平均 GPA（GPA 指“平均
+average GPAs （grade-point averages®） over the past
+学分绩点”）在过去数十年间的逐渐攀升
+few decades—is often considered a product of a consumer
+往往被视为高等教育进入消费者时代的产物，
+era in higher education, in which students are treated like
+在这个时代，学生被当作需要被取悦的消费者
+customers to be pleased®
+. ② But another, related force一a
+看待。但还有个与之相关的推动力一
+一一项
+policy often buried deep in course catalogs® called “grade
+通常深藏在课程目录里的、被称为“成绩宽恕”
+forgiveness®①”.
+- is helping raise GPAs.
+的政策———也在推高着GPA。
+•词汇注释与难向分析
+①inflation ［In'flefon］n. 膨胀，通货膨胀
+③please ［plisz］v. 使满意，使愉快
+②grade-point average 平均学分绩点（衡量学生学习能
+④catalog（ue） ［'keetalng］n. 目录，目录簿
+力与质量的综合评价指标之一）
+⑤forgiveness ［fe'givnis］n. 宽恕，宽仁之心
+•语篇分析•
+第一至三段提出现象：“成绩宽恕”政策近几十年来日益在高校盛行。
+第一段由“GPA膨胀”趋势引出本文关注对象“大学‘成绩宽恕’政策”。关键词为：① Grade
+inflation； ②grade forgiveness。
+①句引出“分数膨胀”现象并指出显性环境因素：消费者文化的影响。开篇先抛出一个概念/现象
+Grade inflation 并借破折号引出其具体所指，average GPAs 对应 Grade,gradual increase 则解释 inflation，
+可见该词（本指“通货膨胀、货币贬值”）在文中喻指“成绩通胀、GPA 贬值”。a product of...暗传因果，介
+词in 微妙关联 a consumer era 与 higher education：随着整个社会的“市场化”，高等教育也不免被这一潮
+流绑架。in which 定语从句借展示“消费者时代”的特征进一步解释原因：学生成了顾客，换句话说，学校
+作为卖家，势必会“推高分数（一提供好产品/服务）”以取悦顾客。注：破折号间有两处 average，前者次
+18
+
+### PDF p19
+
+形容词，表示所有学生GPA 的平均成绩（提示分数膨胀是全国性趋势），后者为名词，代表GPA 中的A，
+表示 GPA所指（提示算法）。
+②句补充强调隐性因素：“成绩宽恕”政策的推行。But 提示①②句间“并列、但本句所述（因素）更重
+要”的逻辑内涵。因果表达 another...force...is helping 呼应①句a product of.• grade forgiveness 结
+合上文“成绩通胀”可推知其大意：对成绩宽容/放水（的政策）。often 强调该政策已在各高校各类课程
+广泛实行，而buried deep 暗示其“不成文却心照不宣”的同时也强调其“根深蒂固、难以撼动”。
+【深层解读】开篇①句以被动句形式（A is often considered （as）B.）聚焦现象A，并明确公众对其成
+因的看法，接着在②句补充另一成因，看似围绕现象介绍两大原因（Grade inflation.•.a product of..•
+another...force...），实则“借①引②”，即以“众人熟悉的内容（often considered）”引子，引出“较少
+人谈及，却是作者意在强调的重点”，也即本文关注对象/成因：高校“成绩宽恕”政策。②句 related 一词
+暗示“两成因的‘近亲’关系”，再结合它们的具体内涵（①句大环境影响 VS ②句高校具体举措），可知首
+段深层因果链条：消费者时代/市场经济时代一高校（受影响、市场化）出台成绩宽容政策（讨好学生）一
+GPA 日益膨胀，暗中为下文细述“高校市场化的表现、动因”埋下伏笔。
+•真题精解•
+26. What is commonly regarded as the cause of grade inflation？
+26. 什么常被视为分数膨胀的原因？
+［A］ The change of course catalogs.
+［A］ 课程目录的变更。
+「BI Students' indifference to GPAs.
+［B］学生对GPA的漠视。
+［C］
+Colleges' neglect of GPAs.
+［C］大学对 GPA的忽视。
+［D］ The influence of consumer culture.
+［D］消费者文化的影响。
+［精准定位］根据题干关键词 grade inflation 定位至首段①句，该句指出：“分数膨胀”往往被视作高
+等教育进入消费者时代的产物，即人们通常认为消费者文化是高等教育“分数膨胀”的原因，［D］正确。
+［命题解密］题干 commonly regarded as the cause of grade inflation 对应首段①句 Grade inflation...
+is often considered a product of...，［D］同义改写该句 a product of a consumer era in higher education。
+［A］course catalogs 在首段②句复现，但文中并未涉及“课程目录的变更”。［B］、［C］由 forgiveness
+一词臆断学生和大学对GPA缺乏重视、甚至嗤之以鼻，但②句“‘成绩宽恕’政策（grade forgiveness）正在
+推高GPA”恰恰表明该政策是基于双方对GPA的重视、希望提高GPA的强烈要求而出台的，两项既与
+文意相悖，更非公认的“分数膨胀”的原因。
+［技巧总结］本题针对开篇现象考查其成因（the cause of grade inflation），而定位段（首段）两句分别
+提及两重原因（a product of...another, related force...called "grade forgiveness”），此时应自问：两项原
+因“是完全并列，正确项只需契合其中之一”，还是“有轻有重，题干有所特指”。文中①句 often
+considered...介绍“人们公认的原因”，②句以 But引出语意重点——不同于前者、令人惊讶的内容，即“相
+对较少被人关注的原因”，这也是文中意欲重点论述的原因。再审视题干，发现命题人“避重就轻”，针对
+“普遍看法（铺垫性信息）”发问，所以解题时需牢牢锁定①句，谨防利用②句逻辑或信息设置的干扰。
+Grade forgiveness allows students to retake® a course in
+“成绩宽恕”允许学生重修得
+which they received a low grade, and the most recent grade or the
+分低的课程，而在计算总GPA时只
+highest grade is the only one that counts in calculating a student's
+计入最近或分数最高的一次成绩。
+overall®GPA.
+•词汇注释与难句分析
+①retake ［ri：'teik］v. 重（考），重学（课程等）
+S ②overall ［'ouvoro.］a. 全面的，综合的，总体的
+19
+
+### PDF p20
+
+．语篇分析
+第二段介绍大学“成绩宽恕”政策的具体内容。关键词为：①allows； ②retake； ③the highest grade。
+本段力and 连接的一个复合句，两个分句递进呈现“成绩宽恕”政策的两方面内容，分句二中 the
+most recent grade or the highest grade is the only one that counts 进一步明确分句一中 retake a course 的
+内涵：机会远远不止一次。可见该政策本质上是学校为学生开辟的“高分”绿色通道。注：旬中 count 不
+同于 calculate（计算、核算），作不及物动词用，意为 to be allowed or accepted”算数、有效、被接受”。
+【深层解读】“只计入最高分”的原则明确传达一种信号：受众范围不会只限于低分者（received a low
+grade），而是会扩大至所有不满于自己成绩的学生，怂恿他们追逐这一政策福利，最终导致“分数膨胀”现
+象。故本段形式上在“客观介绍政策的具体内容”，但实为对上段②句“现象成因”的细化解释。
+_① The use of this little- known practice® has
+近些年来，随着大学不断竭尽所能让学
+accelerated" in recent years, as colleges continue to do their
+生留在学校（并支付学费）、提高毕业率，这
+utmost to keep students in school （and paying tuition®） and
+种鲜为人知的做法开始加快推行。数十年
+improve their graduation rates. ② When this practice first
+前该做法刚实行时，通常仅适用于大一新
+started decades ago, it was usually limited to freshmen®，to
+生，为的是在其向大学水平课程艰难过渡的
+give them a second chance to take a class in their first year if
+过程中给予他们一次在第一学年重修课程
+they struggled® in their transition® to college- level courses.
+的机会。但现在，除许多知名院校外，多数
+⑧ But now most colleges, save for many selective®
+大学允许所有本科生，甚至研究生得到低分
+campuses, allow all undergraduates®，and even graduate
+“宽恕”。
+students, to get their low grades forgiven.
+•词汇注释与难句分析•
+①practice ［'prsektis］n. 通常的做法，惯例，常规
+⑦selective ［si'lektiv］a. 严格筛选的
+②accelerate ［ok'selareit］v.（使）加速，加快
+⑧ undergraduate ［Anda'grsedjoat］n. 大学本科生
+③tuition ［tju：'ijon］ n. 学费
+• 经典搭配
+④freshnun［'frefmon］n.（美国中学或大学的）一年级学生
+①do their utmost（尽全力，竭力）
+⑤struggle ［'strAgol］ v. 艰难地行进，吃力地进行
+②save （for）（除⋯ 之外）
+⑥transition ［treen'zijon］ n. 过渡
+•语篇分析。
+第三段为过渡段，概述“成绩宽恕”政策流行的来龙去脉。关键词为：①improve their graduation
+rates； ② usually limited to freshmen。
+①句概述政策流行的直接原因：高校极力追逐学生保留率及毕业率。this little-known practice 暗合
+首段②句 a policy often buried deep in course catalogs，重申“成绩宽恕”这一政策的“潜规则”性质，而这
+与其“愈演愈烈的现状（has accelerated in recent years）”反差鲜明，凸显写作意图：引起大众对这一政策
+的关注与思考。as 引出现状背景/原因，continue to do their utmost 展现大学的“不渝”与“尽瘁”，而对象
+keep students in school 以及 improve their graduation rates 却尽显讽刺：完全无关教育、科研本身，括号内
+and paying tuition 更是曝光其意图：追逐高额学费。注：新生保留率（keep students in school）是指大一新
+生次年返校上大二的比例，也是判断新生对学校满意程度的重要参考。
+②③句昔今对比讲述政策“变形记”。两句以时间状语 decades ago VS now 以及转折词 But 体现政策
+前后变化，同时回应①句具化强调政策现状。
+②句回顾政策初衷：为大一新生量身定制。usually limited to freshmen 与“政策加速滥用”的语境对
+比鲜明，to give them a second chance. ..具体解释政策目的：为新生提供缓冲，助其适应大学生活和学
+习；if they struggled... 借“假设”外壳补充新生需要帮扶/出台政策的深层原因，struggle（意力“艰难、吃
+力地前行”）形象展现“新生过渡期之苦”，侧面突显政策的必要性。
+20
+
+### PDF p21
+
+③句聚焦如今情形：适用于大部分学生。to get their low grades forgiven 重申政策内容，most
+colleges、all undergraduates、even graduate students 共同突显政策扭曲滥用的程度：忘却“保护弱势新生”
+的初心，沦为高校确保学生保留率、提升毕业率的工具；save for（=except sth“除••⋯外”）引出例外情
+形，selective（仔细挑选的）表明坚守原则的仅剩真正的实力院校。
+【深层解读】现象类文章结构通常为“提出现象一评述现象（原因、影响等）”，本文前两段基本完成了
+“提出现象”的任务，预计第三段应切入“评述部分”，但①句 The use of ... has accelerated in recent years
+与③句 But now most... allow all...to get their low grades forgiven 均对现象的具化强调，可知本段
+（虽明确针对“高校”开启论述，但）重点仍在“展示现象”，阅读时应着力抓取“新的评述性信息（只有这部
+分信息可能成为区别于开篇内容的命题点）”：其一是首句as 带出的“大学普及政策的原因”，其二是②
+句 When..first started...，usually limited to...所示“政策出台背景”，前者直接关乎主旨“全球市场
+化/消费者时代背景下，高等教育也一路商品化”，则后者很可能作为考点出现。
+• 真题精解
+27. What was the original purpose of grade forgiveness？
+27. “成绩宽恕”最初的目的是什么？
+［A］ To help freshmen adapt to college learning.
+［A］帮助新生适应大学学习。
+［B］ To maintain colleges' graduation rates.
+［B］维持大学毕业率。
+［C］ To prepare graduates for a challenging future.
+［C］让学生为充满挑战的未来做好准备。
+［D］ To increase universities' income from tuition.
+［D］增加大学的学费收人。
+［精准定位］根据题干关键词 the original purpose of grade forgiveness 可定位至第三段②句，该句介
+绍数十年前“成绩宽恕”政策刚开始实行时的情形（When this practice first started...）：仅针对大一新
+生，旨在为新生提供一次重修课程的机会，帮他们应对高中到大学的过波，也即适应大学学习，［A］正确。
+［命题解密J［A］是对第三段②句 to give them a second chance...if they struggled in their transition
+to college-level courses 的概括。
+［B］、［D］利用第三段①句as 从句的内容进行干扰，但“维持毕业率”和“（提升保留率，）增加学费收
+入”均为该政策近年来加速实行的原因，而非其初始目的。［C］借第四段②句“通过重修课程，学生在后
+续课程中表现得更好，最终取得了更大的成功”干扰，该内容固然是“（高校管理者眼中）政策对学生的好
+处”，但并非政策初衷。
+［技巧总结］本题考查事实细节，解题关键在于准确定位。题干关键词 the original purpose of grade
+forgiveness 看似直接对应第四段①句 the goal of grade forgiveness，但 College officials tend to emphasize
+that...表明该句/段为当前大学管理者对政策的看法，与题干中过去时态以及 original 一词表明的“政策
+实行之初”不符，故实际应定位至第三段②句（When this practice first started decades ago...）。四个选
+项中只有［A］符合题意，其他三项均借该政策当前的执行效果（B、D背离初衷，C则扩大作用对象）干扰。
+① College officials tend to emphasize that the goal
+高校管理者常常强调成绩宽恕的目的
+of grade forgiveness is less about the grade itself and
+并不在分数本身，更多是了鼓励学生重修
+more about encouraging students to retake courses critical
+那些事关学位和毕业的课程而免于受到严
+to their degree program®
+and graduation without
+重处分。“最终，”俄亥俄州立大学教务主任
+incurring®a big penalty®. ② “Ultimately，” said Jack
+杰克•迈纳说，“我们看到学生获得更大的
+Miner, Ohio State University's registrar®，“we see
+成功，因为他们重修了一门课程而在后续课
+students achieve more success because
+they retake a
+程中表现得更好，或掌握了让他们得以按时
+course and do better in subsequent®
+courses or master the
+毕业的内容。”
+content that allows them to graduate on time.
+”
+21
+
+### PDF p22
+
+•词汇注释与难句分析。必
+①program ［' praugreem」n. 计划，方案，课程
+②incur ［m'k3.］v. 招致，蒙受
+④registrar ［'red3istra：］ n. 教务主任
+⑤subsequent ［'sAbsikwant］a. 随后的，后来的
+•语篇分析。》
+第四至六段评述现象，阐释“成绩宽恕”政策盛行的原因：符合学生和大学双方的利益需要。
+第四、五段分别从学生和大学的角度分述原因。
+第四段借大学管理者发言指出“成绩宽恕”政策符合学生的利益。关键词为：①students achieve more
+suCcesSo
+①句介绍大学管理者对政策目标的定位：鼓励学生重修事关学位的关键课程。tend to emphasize 微
+妙传达“作为政策制定者和执行者，大学管理者非常清楚政策所涉争议，常刻意表明立场‘以正视听’”的
+内涵。be less about A and more about B（更多在于B，而不在于 A）暗中回应外界质疑：提分并非目的，人
+们也大可不必纠结于“分数膨胀”现象：形容词短语 critical to...（对⋯⋯至关重要的）修饰 courses，侧面
+揭示“成绩宽恕”政策的用意：帮助学生顺利毕业。注：penalty 是指考试成绩低、挂科等带来的惩罚，包括
+academic penalty（课程成绩为零）、financial penalty（重修课程、延迟毕业等可能带来的经济负担）。
+②句引某大学教导主任所言证明①句。整句引言为包含原因状语从句的复合句，because 从句中
+and（=as a result，意为“结果是”）也充当因果连词，故而整个句子形成因果逻辑链条：（利用“成绩宽恕”
+政策）重修课程（retake a course） * 学好后续课程、掌握关乎毕业的核心内容（do better.•.or master...）
+一取得更大的成功（more success）。
+【深层解读】本段两句看似介绍大学管理者（College officials &. University's registrar）的观点，实则
+重点落在“成绩宽恕”政策对学生的影响上（encouraging students to...their..
+&. students achieve...
+allows them.•.），解释该政策如何满足学生的利益需要。另外，整段说辞尽管已经在某种程度上体现
+“大学管理者”的功利（将“学生顺利毕业”视作重心，几乎将之等同于“成功”），但由于论述基于政策制
+定/执行者自身所言，远未能就前文暗示的“学校施行该政策更多是为了达成交易，满足私利（比如为赚
+取学费、实现高毕业率等）”进行直接评述/揭示，预示下文会就此展开说明，更进一步曝光学校意图。
+① That said, there is a way in which grade
+即便如此，成绩宽恕也以某种方式满足
+forgiveness satisfies colleges'
+own needs as well.
+② For
+了大学自身的需要。对公立机构而言，州政
+public institutions, state funds are sometimes tied® partly
+府拨款有时部分取决于其在毕业率、学生保
+to their success on metrics® such as graduation rates and
+留率等指标上的成功—
+一因此成绩越好，就
+student retention® —so better grades can, by boosting®
+越能提升上述数据，从而带来更多拨款。而
+figures like those, mean® more money.
+③ And anything
+且，任何能提高GPA 的东西可能都会让学
+that raises GPAs will likely make students—who, at the
+生—最终买单的人—觉得他们的学费
+end of the day, are paying the bill—feel they've gotten a
+花得物超所值，这是大学极为关心的另
+better value for their tuition dollars, which is another big
+一点。
+concern for colleges.
+•词汇注释与难句分析。
+①tie ［tai］v. 连接，联合，使紧密结合
+⑤mean ［min］v.产生⋯⋯结果，意味着
+②metric ［'metrik］n. 衡量标准，［数］度量
+• 经典搭配
+③ retention Lri tenfon」n. 保留
+at the end of the day（最终，到头来，不管怎么说）
+④boost Lbust」v. 推动，提高，增强
+22
+
+### PDF p23
+
+And anything that raises GPAs will likely make students-who, at the end of the day, are paying the
+bill-feel they ve gotten a better value for their tuition dollars, which is another big concern for colleges.
+that
+raises GPAs
+who, at the end of the day, are paying the bill
+引导词作主语 谓语 宾语
+引导词作主语
+状语
+谓语
+宾语
+定语从句修饰anything
+定语从句修饰students
+And anything will likely make students feel
+feel的宾语从句 they’ve golten a belter valle for their tuition dollars.
+连词 主语
+谓语
+主语+谓语
+宾语
+今非限定性定语从句
+which
+is another big concem for colleges
+引导词作主语 系动词
+表语
+功能注释：本句为复合句，嵌套三个定语从句，一个宾语从句，that 引导定语从句修饰 anything,who
+引导定语从句修饰 students，句末 which 引导非限定性定语从句，而 feel 后接省略that 的宾语从句。
+•语篇分析，泌
+第五段指出“成绩宽恕”更符合大学自身的利益。关键词为：① satisfies colleges’' own needs as well。
+①句为段落主旨句，表明“成绩宽恕”更为满足大学自身需要。as well 表明本段与第四段为并列关
+系，而段首 That said（=even so，“尽管如此”，that 指代第四段所述“学校为助学生毕业而施行政策”）又
+提示从本段起才是作者的论述重心所在，将彻底明了问题本质，摆明其态度。satisfies colleges' own
+needs 回应上段“满足学生的需求”，强调“学校绝非仅为学生毕业考虑那么简单”。
+②③句具体解释“成绩宽恕”如何满足大学的两大需要。③句 And、another big concern 体现两句并
+列关系。state funds、tuition dollars 均聚焦“物质利益”，提示政策的盛行源于大学的逐利倾向。
+②句指出需要一：有助于获得更多政府拨款。sometimes tied partly to...引出影响政府资金的重要
+因素：指标是否高，graduation rates、 student retention 列举两大指标，分别复现第三段①句 graduation
+rates、keep students in school，揭示大学施行“成绩宽恕”政策的根本原因：政府拨款与学生的毕业率、保
+留率关联甚密。破折号后 so进一步细化结论，mean（to have sth as a ［likely］ result，意次“产生•⋯结
+果，意味着”）、by（借由［某事达成另一事］）均表明“因果关联”，共同构成语义链条：成绩越好（better
+grades） >越抬高毕业率、保留率（boosting figures）一越多拨款（more money），其中 figures 回指 metrics，
+those 指代 graduation rates and student retention。
+③句指出需要二：提高学生满意度，确保重要的收入来源。anything 的“泛指意义”与其后定语从句
+that raises GPAs 传递的“特指单一目标”形成对比，暗暗谴责大学“为达目的不择手段”的心态与做法，
+“成绩宽恕”政策正是其中一种。破折号内的who定语从句、破折号后 feel ••.a better value for..
+dollars 借说明学生的身份、心态凸显其“消费者”本质，从而揭露大学大力推行“成绩宽恕”的用意。
+【深层解读】第四、五段看似并列，但从“引大学管理者所言”过渡至“作者自我论述”，从“间接”到本
+段的“具体、直接（funds/more money、paying the bill/tuition dollars）”，可知本段更进一步揭示“高校成力
+一味逐利的商人/高等教育商品化”的现状，呼应了首段“高等教育进入消费者时代”，预示下文或发出呼
+吁/提出建议，或总结对现象的看法收束全文。
+•真题精解•
+28. According to Paragraph 5, grade forgiveness enables
+28. 根据第五段的内容，“成绩宽恕”使
+colleges to
+大学得以
+_。
+［A］ obtain more financial support
+［A］得到更多财政支持
+［B］ boost their student enrollments
+［B］增加入学人数
+23
+
+### PDF p24
+
+［C］ improve their teaching quality
+［C］提高教学质量
+［DJ meet local governments' needs
+［D］满足当地政府的需求
+［精准定位］第五段指出“成绩宽恕”满足了大学两方面的需要：1.帮助公立大学获得更多政府拨款；
+2.提高学生对于学校的满意度。［A］符合第一项内容。
+［命题解密］“题干十［A］”同义改写②句 better grades can... mean more money。
+［B］由③句“让学生觉得学费物超所值（即，提高消费者满意度）”过度引申而来，但该句实际指“留住
+在校学生”，而非“吸引还未人学的学生”。［C］由②句“提高毕业率和保留率”臆测出“成绩宽恕”政策有
+助于“提升高校教学质量”，但文中没有信息支撑这一结论。［D］借②句干扰，但原文为“州政府拨款的部
+分依据（毕业率和学生保留率高）”，这一条件并非地方政府本身的需求（governments’ needs）。
+［技巧总结］题干中的 enables colleges to 提示本题考查“大学热衷成绩宽恕政策的背后原因/对大学
+的好处”。应结合微观与宏观思维解题：微观上定位梳理原文并比对选项，宏观上还应思考文中对这一
+好处的定位。第五段首句 satisfies colleges' own needs 将这种好处定位为“（大学的）私利”，②句随即验
+证——财政拨款。③句则呼应首句的“消费者时代”，说明高校的“取悦”心态。所以整段内容与“高等教
+育本身（［C］项）、州政府需求（［D］项）”毫无关联，［B］虽符合“高校逐利”的总体导向（有利于增加高校学
+费收人），但比对后发现为过度引申。
+① Indeed, grade forgiveness is just another way
+实际上，成绩宽恕不过是大学回应消费
+that
+universities
+are
+responding
+to
+consumers'
+者对高等教育的期望的另一种方式。既然
+expectations for higher education. ② Since students and
+学生和家长都希望大学学位能带来一份工
+parents expect a college degree to lead to a job, it is in the
+作，那么产出尽可能合格的毕业生—或者
+best interest of a school to turn out graduates who are as
+至少看起来合格的毕业生，就是最符合学校
+qualified as possible—or at least appear to be， ⑧On this，
+利益的做法。在这一点上，学生和大学的动
+students'
+and colleges’ incentives①
+seem to be aligned®.
+机似乎是一致的。
+［429 words］
+词汇注释与难句分析
+①incentive ［in'sentiv］ n. 动机
+② be in the best interest of sb/in sb's best interest to
+②align ［o'lan］【超纲】v.使一致
+do sth（做某事对某人最有利）
+• 经典搭配
+③turn out（生产，制造）
+①lead to（通向，通往）
+•语篇分析，
+第六段总结现象原因：“成绩宽恕”政策是高等教育商品化的表现，是学生与大学双方共同作用的结
+果。关键词为：①responding to consumers’ expectations； ②aligned。
+①句顺承上文揭示“成绩宽恕”政策的实质：满足买家（即学生）的某种手段。Indeed（用于强调/肯定
+已提及的事实）提示本段基于上述内容开启总结陈词。responding to consumers’ expectations...
+（respond 指“针对需求、危机、挑战等采取必要或合适的行动”）至此彻底明确前文暗示的“学生VS大学
+间关系的实质”—消费者VS 商品/服务提供者、买方 VS 卖方，由此呼应首段②句 related 隐含的“消费
+者时代催生成绩宽恕政策”之意。just another..（不过是⋯⋯又一种⋯•⋯）突显对“高等教育商品化程
+度之深以及表现方式之多”的讽刺。
+②句具体阐释①句所述实质。Since（引出“某事之所以合理的解释”）明确学校行事的原则：完全因
+循学生需求。换句话说，学生需要什么，学校便做什么。expect a college degree. ..（大学文凭一求职）也
+正与 to turn out graduates.. qualified as possible 完全一致：都奔着“顺利毕业”而去，turn out（注：原文力
+24
+
+### PDF p25
+
+churn out，表示“大量炮制”）本来针对“物”，此处接“毕业生”，展现作者对大学背弃自身教育使命的讽
+刺：与批量生产、只求产品达标的商家无异；破折号后 or at least appear to be 更是强化讽刺力度，暗示
+“成绩宽恕”不止“给学生重修机会”而已，若多次重修仍不过，学校甚至会放宽标准，直接给成绩注水。
+③句总结现象原因：学生和大学合力使然。students' and colleges' incentives （incentive 指 sth that
+encourages you to do sth“刺激、动力”）指代多种诉求，但状语 On this（在这点上）将其锁定于②句所述的
+方面，即“尽力让学生/自己毕业”，由此推断主句中的超纲词 aligned 意“一致的、统一的”，也就是说，
+学生和大学实属“买卖利益共同体”，行事受同一股力量推动，也正因此，“成绩宽恕”才会如此盛行。
+【深层解读】本段是对第四、五段两大原因的总结，同时也是对全文现象的“终结性评述”，阅读时注
+意回顾开篇关键信息以及论述过程中对该信息的重申，总体把握全文，捋顺作者成文用意。开篇明确
+“消费者时代/文化”是高校“成绩宽恕”政策愈演愈烈的始作俑者，并于论述过程中层层揭示“消费者文
+化”的内涵：消费者居主导地位，一切都唯买家需求是从，教育也沦拿来交易的产品，如今这一悲哀的
+现状，高校自当受到责备，但学生作为买方也势必难逃其责，换句话说，当今时代人人都是消费者文化的
+推手，作者希望引起每个人的反思。
+•真题精解，
+29. What does the phrase “to be aligned” （Para. 6）most
+29. 短语 to be aligned（第6段第5行）最
+probably mean？
+有可能是什么意思？
+［A］ To counterbalance each other.
+LA」互相抗衡。
+LB」 To complement each other.
+LB」彼此互补。
+［C］ To be identical with each other.
+［C］彼此相同。
+［D］ To be contradictory to each other.
+［D］彼此相反。
+［精准定位］所考词组位于第六段③句，而该句中 this 回指前文信息，需综合分析：本段①句先揭示
+学校与学生之间关系的实质—商品/服务提供者VS消费者，②句具体说明这一关系：作为消费者的学
+生及其家长希望顺利拿到学位，作为商品/服务提供者的学校尽力产出合格或看起来合格（即符合学位
+授予条件）的学生，可见两者动机是一致的，to be aligned 意“一致的，相同的”，［C］正确。
+［命题解密JC］是基于学生和学校之间关系（responding to consumers’ expectations）以及两者目标
+（expect a college degree 与 turn out graduates who are as qualified as possible一致）作出的合理推断。
+全文均未提到学生与学校之间存在任何的对立、矛盾，反而是学校致力于满足学生的需求，为学生
+提供支持，排除［A］与［D］。［B］利用“学校服务学生的同时，实现自身需求，两者互帮互补、各取所需”干
+扰，但原文主语为“动机（incentives）”，文中动机均指向“拿到文凭”，而非“互补”。
+［技巧总结］③句 this 乍看指代不明，此时应回顾全段进行判断，首先明确“总一分”布局（①句概述，
+②③句具体说明），①句 universities are responding to consumers' expectations、 ②句 Since students...
+expect...， it is in the best interest of a school to... 均表明学生与大学出发点一致（均追求一纸文凭），故
+推知 to be aligned 意为“一致的”。捷径：本题实际考查学生与大学动机/态度的关系，可结合全文或明示
+或暗示的二者关系（首段 consumer era/customers to be pleased、第三段 students.. paying tuition、第五
+段 students...paying the bill...value for...tuition 均表明学生与学校为消费关系）可知，学校致力于取
+悦学生，排除体现矛盾关系的［A］、［D］以及互补关系的［B］。
+30. The author examines the practice of grade forgiveness
+30. 作者通过
+的方式剖析了“成
+by
+绩宽恕”这一做法。
+LA」 assessing its feasibility
+［A］评定其可行性
+［B］ analyzing the causes behind it
+［B］分析其背后原因
+25
+
+### PDF p26
+
+LC］ comparing different views on it
+［C］比较关于它的不同观点
+［D］ listing its long-run effects
+［D］ 列举其长远影响
+［精准定位］本题考查作者写作方式（examines..by. ..），需结合全文内容进行判断。文章第一至三
+段先介绍“成绩宽恕”政策的内容及其发展情况，特别指出近年来该政策日益普及的现状，第四至六段揭
+示政策产生和发展的原因，其中第四、五段先分别指出该政策符合学生和大学的需求，第六段总结原因，
+揭示学生和大学之间关系的实质是消费关系，“成绩宽恕”政策的加速施行是双方共同利益驱使的结果。
+可见，作者是借助“分析政策背后的原因和动机”来剖析政策、表明态度的，［B］正确。
+［命题解密］［B］正确概括本文写作方式，主要指向第四、五段具体原因分析以及第六段原因总结。
+［A］利用作者隐含的担忧态度进行臆测，但选项内涵实为对尚未实施的计划，政策等进行可行性评
+定（feasible 意力“切实可行的，行得通的”），而本文论述对象“成绩宽恕”政策早已实行数十年；且“可行
+性”一词侧重“能不能”，而非“该不该”。第四段涉及政策相关观点，但仅涉及制定者和执行者一方的观
+点，没有观点交锋，故排除［C］。第四、五段虽涉及政策对学生和大学的影响（助学生顺利毕业就业、提高
+毕业率和学生保留率），但都是双方想要的短期效果，且与全文“曝光这一动机”的立意不符，排除［DJ。
+［技巧总结］本题形式上考查论证方式/结构，但作为最后一道题，也可以视作考查文章主旨，解题时
+需捋清文章主线。前三段介绍大学“成绩宽恕”政策，并指出其近年来加速普及，第四至六段分析原因，
+指出该政策的背后推手是“买卖双方（学生和大学）的共同需求”，可见本文主要分析了“成绩宽恕”的原
+因，希望借此引发公众对高等教育“商品化”的反思，［B］正确。
+Text 3
+赋予 AI 以良知，任重道远
+原文外教朗读
+2一、文章总体分析
+本文选自 The Christian Science Monitor《基督教科学箴言报》2018年7月8日一篇题为 Al can have
+values if not a conscience（如果没有良知，AI可以有价值观）的文章。本文先介绍人工智能的技术发展现
+状：仍有很大局限性，难以复制人类意识；随后重点论述人工智能的伦理问题：AI引发的伦理问题日益
+凸显，必须确保AI的决策反映人类的最高价值观，才能使其真正有益于人类社会。
+学三、语篇分析及试题精解
+I ① This year marks exactly two centuries since the
+今年恰逢玛丽•雪菜的《弗兰肯
+publication of Frankenstein; or, The Modern Prometheus®
+，by
+斯坦——现代普罗米修斯》出版二百
+Mary Shelley. ② Even before the invention of the electric light
+周年。甚至早在电灯泡发明之前，这
+bulb®
+，the author produced a remarkable work®of speculative
+位作家就创作出了一部非凡推理小
+fiction that would foreshadow® many ethical® questions to be
+说，预示了未来技术将引发的诸多伦
+raised®by technologies yet to come.
+理问题。
+词汇注释与难句分析
+① Prometheus Lprou mi:djuss］ n. 普罗米修斯（希腊神话
+③work ［wak］n. 著作，作品
+中人名，意为“先见之明”，在神话中是人类的创造者）
+④foreshadow ［fo: jedau］ v. 预示；是⋯⋯的预兆
+②bulb ［balb］ n. （light bulb）灯泡
+⑤ethical ［'e0ikal］a. 伦理的，道德的
+26
+
+</details>
+
+## 读取边界
+
+- 本页不得用于自主练习、题干翻译或选项含义讨论。
+- 用户解锁后优先读取对应 Q 区块；若 OCR 文字存在歧义，再查看同页逐页证据的 PDF 文字层或外部视觉原页。
+- 本次预处理不写 `master_bank.csv`、句式卡、Tutor 或 review 文件。

@@ -1,0 +1,135 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2018-P028
+year: 2018
+pdf_page: 28
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2018 解析 PDF p28｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+•真题精解•
+29. The Barna survey found that a main cause for the fake
+29. 巴纳调查发现虚假新闻问题的主要
+news problem is
+原因是
+［A］ readers' outdated values
+［A］读者过时的价值观
+［B］ journalists' biased reporting
+［B］记者有偏见的报道
+［C］ readers' misinterpretation
+［C］ 读者的曲解
+［D］ journalists’ made-up stories
+［D］记者捏造的新闻
+［精准定位］第五段③④⑤⑥句介绍巴纳调查结果，其中③句指出虚假新闻问题的最重要原因是
+“读者错误”，④句进而做出解释：对事实新闻信息的误读或夸大，故［C］正确。
+［命题解密］题干十正确项［C］是对③④句中 top reason、reader error、 misinterpretation or
+exaggeration of actual news 的完美替换。
+［A］由①句碎片信息 re-share、their values 捏造而来，而句子并无“读者价值观过时”之意；［B］由前
+文第三段③句中 bias及本段③句中 in reporting 捏造而来，而文中仅言及“记者报道中可能会捏造新闻、
+或者会犯事实性错误”而并未言及“记者报道带有偏见”；［D］由③句 made-up stories..in reporting 而
+来，可它并非题干所考查的“主要原因”。
+［技巧总结］主次因果细节题的解题思路为：于文中找寻因果关联词，再于关联词前后定位主次因果，
+最后可借主次因果的注释性内容辅助解答。如本题，首先由题干 main cause for the fake news problem 定位
+至③句 the top reason. .. for the fake news phenomenon，然后借其后 more so than 锁定 reader error，最后再借
+reader error 的解释性表达 misinterpretation or exaggeration of actual news 锁定［C］。
+① So when young people are critical of an over-
+因此，当年轻人批评过度推特的总统
+tweeting president,they reveal" a mental discipline®in
+时，他们展现出思维技能中的一种自制
+thinking skills—and in their choices on when to share on
+力——一种选择何时在社交媒体分享的自
+social media. ［411 words］
+制力。
+•词汇注释与难句分析，
+①reveal［ri'vi：］w.展现，显露
+S
+② discipline［'disiplin］ . 自制力
+•语篇分析•泌
+第六段为第三部分，呼应首段总结收篇：美国年轻一代反对总统推特实则反映其网络审辨式思维技
+能的提升。关键词为：reveal a mental discipline。
+独句成段，reveal（to show something that was previously hidden）揭示全文“由表象到实质”的写作手
+法，展示文章立意高度“由年轻一代反对总统推特谈及其网络生活中审辨式思维能力的提升”；and形似
+并列，实则更借后者的具象“新闻分享时”明示前者的抽象“思维能力中”。注：1.mental discipline 本义
+“心理/精神/大脑自制力”，但鉴于“自制力”已暗藏“大脑思维活动”，故而将 mental 省译，直接处理为“自
+制力”；2.choice on sth 相当于 choice over sth，即“在⋯•⋯方面做出的选择”。
+So 解读：So借其后 when 情境“年轻人对过度推特的总统表示批判”与首段的呼应表明其辖域第二
+至五段（中间段）分析，却又借破折号后 when to share on social media 表明其更意在强调第五段解读“人
+们在转发信息时更加小心、谨慎”，间接说明年轻一代批判总统推特的两个原因：一、对总统通过社交平
+台发送的信息持审辨式思维；二、分享总统信息时尤为审慎，绝不跟风附和。
+【全文梳理】全篇首尾相接，圆满收篇：全文以“年轻一代反对总统使用推特这一社交平台发布新闻
+事件”开篇，在历经中间段落对“美国人（尤其年轻一代）在新闻查阅及新闻分享中承担起更多自我责任，
+其媒体素养在提升”的分析阐释之后，本段对文首引子做出最终点评“年轻人对总统过度推特的这种批
+28
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+1   j真题信：但＜ J
+ 29. The Barna survey found that a main cause for the fake               29.   巴纳调查发现虚假新闻 问题的主要
+      news problem is 一一一＿ .                                                   原因是           。
+
+
+
+
+ [A] readers ’ outdated valu es                                          [A］读者 过时的价值观
+
+ [ BJ jo urna li sts' biased reporting                                   [BJ 记者有偏见的报道
+
+ [ CJ read ers ’ mi sinterpretation                                      [CJ 读者 的曲解
+
+ [ DJ jo urnali st s ’ made- up stories                                  [DJ 记者捏造的新闻
+
+      ［ 精准定位］ 第五段①④⑤＠句 介绍巴纳调查结果， 其 中 ③ 句指出虚假新问问题的 最重要原因是
+“读者错误”， ④ 句进而做出解释：对事实新闻信息的误读或夸大，故［ CJ 正确。
+      ［命题解密］ 题干＋正确项 ［ C ］是 对 ③④ 句中 top r easo n 、 r ea d er error 、 m i s int erpr e tat i on or
+exaggeration of actua l n e ws 的完美替换 。
+      [ A ］ 由①句碎片信息 r e s har e 、 th e i r va l ues 捏造而来，而句子 并无“读者 价值观过时”之 意 ； ［ BJ 由前
+文第 三 段 ③ 句中 b i as 及本段③句中 in report i吨捏造而来，而文中仅 言 及“记者报道中可能会捏造新闻、
+或者会犯事实性错误”而并未 言 及“记者报道带有偏见”；［ DJ 由③句 made- u p stories .. . in r e porting 而
+来 ， 可它 并非题干所考查 的“ 主要原因”。
+      ［技巧总结］ 主次 因果细节题的解题思路为：于文中找 寻因果关联 词，再于 关联 同前后定位 主次因果，
+最后可借主次因果 的 注释性内 容辅 助解答。 如本题，首先由题干 ma in cause for the fake news probl em 定位
+至①句 the top reason... for the fake news phenomenon ，然后借其后 more so than 锁定 reader error ，最后 再借
+reader error 的解释性表达 mi sinterpretation or exaggeration of actual news 锁定［ CJ 。
+
+
+       ~ 0 So when young peop le are critical of an over-
+                                                                           因此，当年轻人批评过度推特的总统
+t weet ing pr es id en t, th巳y reveal(    a m enta l discipline® in
+                                                                      时 ， 他们展现出思维技能中的 一 种自制
+thinking skill s- and m t heir choices on wh en to share on
+                                                                      力 一一 一 种选择何时在社交媒体分享的自
+socia l m edia. [ 411 words]
+                                                                      制力 。
+
+
+
+
+                                           （；；词汇：注释当难：旬分析；；二 ：： ；／
+① reveal 〔 r1'vi:l }1人展现，显露                                  $   ( discipline[ 1d1s1pJ1n ］ 凡自制力
+
+                                                  :_. i毒篇分析 －：：： 1'
+  第六段为第三部分 ， 呼应首段总结收篇：美国年轻一代反对总统推特实则反映其网络审蝉式思维技
+能的提升。关键词为： reveal a mental discipline 。
+      独句成段， r e v eal ( to show som ething t hai was previou s ly hidd en ）揭示全文“ 由 表象 到 实质” 的 写 作手
+法，展示文章立意高度“由年轻一代反对总统推特谈及其网络生活中审辨式思维能力的提升飞 and 形 似
+并列，实则更借后者的具象“新闻分享时”明示前者的抽象“思维能力中” 。注 ： 1. m enta l di sc i p li n e 本义为
+“心理 ／精村， ； 大 脑自制力”，但鉴 于 “ 自 制力”巳暗藏“大脑思维活动 ” ，故而将 me ntal 省译，直接 处理为“自
+制力 ”； 2 . choice on s th 相当于 choi ce over st h ，即“ 在 …… 方面做出的选择”。
+      So 解读： So 借其后 wh en 情境“ 年轻 人对过度推特的总统 表示 批判” 与首段 的呼应 表 明 其辖 域第 二
+至五段（中 间段）分析，却又借破折 号后 w h e n to share on socia l m e di a 表 明其 更意在强 调 第五段解读“ 人
+们 在转发信息 时更加小心、 谨慎 ”，间 接 说明年轻一代批判总统推特的两个 原因 ： 一 、对总统通过社 交平
+台发迭的信息持审辨式思维； 二 、分 享总 统信息时尤为审慎，绝不跟风 附和 。
+      E 全文梳理】全篇首尾相接，圆满收篇： 全文 以“年轻 一 代反对总统使用推特这 一 社交平台发布新闻
+事件”开篇，在历经 中间段 落对“美国 人（尤 其年轻一 代）在新闻 查 阅及新闻分 享 中 承担起更多自我责 任，
+其 媒体素养在提升”的分析阐释之后，本段对文首引子做出最终点评“年轻人对总统过度推特的这种批
+ 28
+```

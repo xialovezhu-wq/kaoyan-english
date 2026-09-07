@@ -1,0 +1,88 @@
+{
+  "event_type": "sentence_captured",
+  "idempotency_key": "2026-08-13-dfr-en-s02-001-release-v1",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260711-009",
+    "source_id": "RAW-ARTICLE-20260711-009",
+    "source_article": "articles/2026-07-11-2012-english-i-text-1.md",
+    "source_hash": "e5689d55cf9f7c217bf06f335ba6c5a97a78a1c5b4fb712e655c03c546d1a387",
+    "reference_id": "EXAM-READING-2012-T1",
+    "title": "2012 English I Text 1"
+  },
+  "source": {
+    "sentence_id": "S02",
+    "source_sentence": "That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure.",
+    "source_kind": "article",
+    "sentence_hash": "093dd2e17ff2ea3c03698eb0c583eaf8567f8c75646fa5a2a4753da8dc1ab011"
+  },
+  "learning": {
+    "first_translation": "主语是“这广泛的信息”，后面两个逗号中间是对这个信息的补充说明（即这个信息是什么信息呢？就一半是邀请，一半是集中）。这个信息促使我们当中大部分人去思考：当我们听到这个单词的时候同辈压力，我们在做什么？",
+    "user_evidence_verbatim": "用户确认将 whispered 联想成表示‘广泛’的词；将 forcing 与 focusing 混淆；把 is what most of us think of 误解为‘这个信息促使我们思考’；经引导后复述为：‘他这个低声的话语，一半是邀请，一半是强迫。这是当我们听到“同辈压力”这个单词时所产生的内容。’",
+    "user_evidence": [
+      "mistranslated",
+      "structure_trap"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "那句低声说出的话——半是邀请，半是强迫——正是我们大多数人在听到‘同伴压力’这个词时所想到的情形。",
+    "explanation": "whispered 表示低声说出的，不是 widespread；forcing 表示强迫，不是 focusing；主干是 That whispered message is what most of us think of，what 约等于 the thing that 并作 think of 的宾语；when 从句限定 think of 发生的时间。",
+    "first_breakpoint": "whispered",
+    "restatement": "他这个低声的话语，一半是邀请，一半是强迫。这是当我们听到‘同辈压力’这个单词时所产生的内容。"
+  },
+  "candidates": [
+    {
+      "item": "whispered",
+      "candidate_type": "单词",
+      "meaning": "低声说出的；耳语的",
+      "usage": "whispered message 表示低声说出的话或耳语般传递的信息。",
+      "review_note": "不要与 widespread 混淆；后者表示广泛的。",
+      "decision": "long_term_candidate",
+      "tier_hint": "A",
+      "reason": "用户明确发生形近词误认，并导致主语含义错误。"
+    },
+    {
+      "item": "forcing",
+      "candidate_type": "单词",
+      "meaning": "强迫；逼迫",
+      "usage": "本句 half invitation and half forcing 表示半是邀请、半是强迫。",
+      "review_note": "不要与 focusing 混淆；focusing 表示集中注意力。",
+      "decision": "long_term_candidate",
+      "tier_hint": "A",
+      "reason": "用户明确将 forcing 误认成 focusing。"
+    },
+    {
+      "item": "half A and half B",
+      "candidate_type": "句型",
+      "meaning": "一半是 A，一半是 B；兼有 A 和 B 两种性质",
+      "usage": "用于说明某事物同时带有两种成分或性质。",
+      "review_note": "本句该结构作为插入成分补充说明 message。",
+      "decision": "long_term_candidate",
+      "tier_hint": "B",
+      "reason": "结构具有迁移价值，且用户正确识别了插入说明关系。"
+    },
+    {
+      "item": "what most of us think of",
+      "candidate_type": "句型",
+      "meaning": "我们大多数人所想到的内容",
+      "usage": "what 约等于 the thing that，并在从句中作 think of 的宾语。",
+      "review_note": "不要把 what 当成独立疑问词，也不要给 is 增添‘促使’关系。",
+      "decision": "long_term_candidate",
+      "tier_hint": "A",
+      "reason": "用户误判 what 从句并改变了整句主干关系。"
+    },
+    {
+      "item": "A is what ...",
+      "candidate_type": "句型",
+      "meaning": "A 正是……的内容或事物",
+      "usage": "系动词 is 连接主语 A 与 what 引导的表语从句。",
+      "review_note": "先确认系表关系，再处理 what 从句内部缺失成分。",
+      "decision": "article_only",
+      "tier_hint": "article_only",
+      "reason": "用于保留本句主干误判证据，是否长期化交由夜间正式编纂判断。"
+    }
+  ]
+}

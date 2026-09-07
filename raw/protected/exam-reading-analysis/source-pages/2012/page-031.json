@@ -1,0 +1,566 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P031",
+  "year": 2012,
+  "pdf_page": 31,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.015988372383317295,
+      "text": "客观知识）。二、④句实为取信过程的总结：历经“科学界层层审视、受诸多外在因素影响”的取信过程",
+      "width": 0.8768577210989782,
+      "x": 0.053078576711657374,
+      "y": 0.9200581394624111
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348953327007,
+      "text": "后，“个体不成熟的发现声明”完美蜕变力“集体成熟的可信发现”。",
+      "width": 0.5562632690196284,
+      "x": 0.05307856347320053,
+      "y": 0.8982558136592377
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02245160796879464,
+      "text": "•真题精解•淡",
+      "width": 0.15942267569255641,
+      "x": 0.4181655183114952,
+      "y": 0.8717683819829445
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906280038292,
+      "text": "33. Paragraph 3 shows that a discovery claim becomes credible",
+      "width": 0.5180466836086879,
+      "x": 0.06369428891044698,
+      "y": 0.8459302329549421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062853,
+      "text": "33.第三段表明，“发现声明”在",
+      "width": 0.2675159228235541,
+      "x": 0.5923566849258026,
+      "y": 0.8429319369549534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008720929710028691,
+      "text": "after it",
+      "width": 0.05944798325489403,
+      "x": 0.09978768639803068,
+      "y": 0.8284883724269624
+    },
+    {
+      "confidence": 1,
+      "height": 0.016241099821959426,
+      "text": "之后变得可信。",
+      "width": 0.1338219287062694,
+      "x": 0.6326644088686539,
+      "y": 0.8225480547615115
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013119444173043893,
+      "text": "［A］ has attracted the attention of the general public",
+      "width": 0.4394904404707667,
+      "x": 0.06369427570410705,
+      "y": 0.8023255818417517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014572933082181105,
+      "text": "［A］吸引普通大众注意力",
+      "width": 0.21868365490185826,
+      "x": 0.5966029722173299,
+      "y": 0.800872092907239
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013248812465767479,
+      "text": "［B］ has been examined by the scientific community",
+      "width": 0.42887472878450644,
+      "x": 0.06369427471602691,
+      "y": 0.7747093027610832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01470230075077239,
+      "text": "［B］ 被科学界检验",
+      "width": 0.15923566070614992,
+      "x": 0.596602978431426,
+      "y": 0.773255814461604
+    },
+    {
+      "confidence": 1,
+      "height": 0.013378180758491287,
+      "text": "［C］ has received recognition from editors and reviewers",
+      "width": 0.4692144156869922,
+      "x": 0.06157113024036822,
+      "y": 0.7470930235932052
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942459,
+      "text": "［C］ 获得编辑和评论家认同",
+      "width": 0.23991506368662607,
+      "x": 0.5944798330611456,
+      "y": 0.7454188482835762
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011863813350337926,
+      "text": "LDJ has been frequently quoted by peer scientists",
+      "width": 0.41825901709824626,
+      "x": 0.0615711353645355,
+      "y": 0.7192408375125494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014626201534770455,
+      "text": "［D］被科学家同行经常性引用",
+      "width": 0.2569002111372939,
+      "x": 0.5966029700417566,
+      "y": 0.717931937382986
+    },
+    {
+      "confidence": 1,
+      "height": 0.017708206676063876,
+      "text": "［精准定位］第三段④句明确指出了“发现声明”在历经““涉及科学界层层审视、受到多种外界因素",
+      "width": 0.8386411940390476,
+      "x": 0.09129511370234462,
+      "y": 0.6904069768170016
+    },
+    {
+      "confidence": 1,
+      "height": 0.016034031413612482,
+      "text": "影响’的取信过程”之后的蜕变：由个体的发现声明转变成了集体可信的发现。可见，发现声明要接受科",
+      "width": 0.8768577210989782,
+      "x": 0.05307857775553557,
+      "y": 0.6714659688163214
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "学界的检验后方可信，所以，［B］为正确答案。",
+      "width": 0.3821655915298608,
+      "x": 0.05095541697392319,
+      "y": 0.6511627905089228
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "［命题解密］［B］对应④句 works its way through the community，是对第三段③④句内容的最有力概括。",
+      "width": 0.8301486130198374,
+      "x": 0.09129512715957865,
+      "y": 0.6321989531819877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062853,
+      "text": "［A］将③句第四个分句所述结果“发现声明被大众、被科学界认可”偷换为条件。",
+      "width": 0.6709129669014399,
+      "x": 0.09129511319471513,
+      "y": 0.6119109946775517
+    },
+    {
+      "confidence": 1,
+      "height": 0.017723426768917028,
+      "text": "［C］将③句第二个分句所述取信过程中的一环节“编辑、评论家扮演看门人角色”偷换为全过程各环节。",
+      "width": 0.8259022933347275,
+      "x": 0.09129513857679757,
+      "y": 0.5915697671658389
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601881132075933,
+      "text": "［D］把③句中第三个分句中 other scientists use the new findings... 偷换 frequently quoted by. ..；",
+      "width": 0.8386411940390475,
+      "x": 0.09129511646242955,
+      "y": 0.5726439793621785
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "而且，“其他科学家使用该发现”也只是“取信过程”中的一环。",
+      "width": 0.5159235821171426,
+      "x": 0.05307854341595106,
+      "y": 0.5523255816744794
+    },
+    {
+      "confidence": 1,
+      "height": 0.017761475752785638,
+      "text": "［技巧总结］本题形似考查“时间先后”，实则考查“前提条件”。“条件题”干扰项通常如下设置：①将",
+      "width": 0.8386411940390476,
+      "x": 0.09129510584671847,
+      "y": 0.531976744026304
+    },
+    {
+      "confidence": 1,
+      "height": 0.01767776711448943,
+      "text": "结果偷换条件；②将条件之一当作充分条件，对此可借助“比对选项内容”来甄别，通常涉及“选项包",
+      "width": 0.8789808809415331,
+      "x": 0.05095541362689802,
+      "y": 0.5130813950728157
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "含—即某选项较全面且涵盖其他选项所涉及的点”，该项正确的可能性较大。本题中［C］和［D］涉及",
+      "width": 0.8768577210989782,
+      "x": 0.05307857775553557,
+      "y": 0.4941099478593982
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016003591852038257,
+      "text": "的人物事件其实被［B］包含，即，editors and reviewers、peer scientists 均属于 the scientific community；",
+      "width": 0.8789808809415333,
+      "x": 0.05307857044218444,
+      "y": 0.47382198973206224
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019355923717558676,
+      "text": "received recognition、frequently quoted 可算作 examined 的不同表现形式，再结合上题“取信过程需要集",
+      "width": 0.8791915280869085,
+      "x": 0.050851835830442324,
+      "y": 0.4523363674930332
+    },
+    {
+      "confidence": 1,
+      "height": 0.016026421991318318,
+      "text": "体努力”，初步判断［B］可能正确，再结合原文进一步发现［A］将结果偷换条件，故而敲定［B］正确。",
+      "width": 0.8428874553731477,
+      "x": 0.05307857233111886,
+      "y": 0.43455497351477834
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01466425176690389,
+      "text": "1 Two paradoxes\"exist throughout this credibility",
+      "width": 0.4373672806282117,
+      "x": 0.12526540246721057,
+      "y": 0.4024869107700385
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942348,
+      "text": "整个“取信过程”中存在着两种矛盾",
+      "width": 0.3014861885493846,
+      "x": 0.6242038296814294,
+      "y": 0.3965968585807855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.009162303664921545,
+      "text": "procesS.",
+      "width": 0.07006369129421605,
+      "x": 0.05307855891764777,
+      "y": 0.38350785329918646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013294471496062776,
+      "text": "② First, scientific work tends to focus on some",
+      "width": 0.42675156894195154,
+      "x": 0.1358811109642686,
+      "y": 0.3835078534754123
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "情况。第一，科学研究工作倾向于关注",
+      "width": 0.34182590462737517,
+      "x": 0.583864115350856,
+      "y": 0.3749999996949692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378180758491287,
+      "text": "aspect of prevailing knowledge that is viewed as incomplete",
+      "width": 0.5095541025894778,
+      "x": 0.05307858246322264,
+      "y": 0.36452879581182096
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "流行知识中被认 不完整或不正确的方",
+      "width": 0.34182590462737505,
+      "x": 0.5838641211682657,
+      "y": 0.3573298430336611
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014671861189198054,
+      "text": "or incorrect. ③ Little reward accompanies duplication®",
+      "width": 0.47133757552954714,
+      "x": 0.05307856616303931,
+      "y": 0.3459302331389297
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174417995033491,
+      "text": "and",
+      "width": 0.03609341827450929,
+      "x": 0.526539277522335,
+      "y": 0.34738372116236704
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "面。重复并确认已经为人所知以及可信",
+      "width": 0.3397027447848202,
+      "x": 0.585987266461093,
+      "y": 0.3370418847706057
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013279252027341815,
+      "text": "confirmation of what is already known and believed. ④ The",
+      "width": 0.5031846814128227,
+      "x": 0.05307856595494762,
+      "y": 0.3270348839856472
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "的知识几乎不会带来回报。科学研究的",
+      "width": 0.34182590462737505,
+      "x": 0.5838641211682657,
+      "y": 0.3180628275010112
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790628003818,
+      "text": "goal is new search,not research.",
+      "width": 0.2823778958439143,
+      "x": 0.05307857270790818,
+      "y": 0.3066860468599809
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013340131150490264,
+      "text": "⑤Not surprisingly,newly",
+      "width": 0.229299352000366,
+      "x": 0.3333333426834687,
+      "y": 0.3066860469761995
+    },
+    {
+      "confidence": 1,
+      "height": 0.014717520843625653,
+      "text": "目标是新研究而不是重复研究。（如此",
+      "width": 0.33757961411777015,
+      "x": 0.5881104080685033,
+      "y": 0.29941860455937086
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01603970103238883,
+      "text": "published discovery claims and credible discoveries that",
+      "width": 0.4970959869443116,
+      "x": 0.05503338779122453,
+      "y": 0.286285534225462
+    },
+    {
+      "confidence": 1,
+      "height": 0.014633812205329666,
+      "text": "一来，）貌似重要且令人信服的新发表的",
+      "width": 0.3397027447848202,
+      "x": 0.5838641231489912,
+      "y": 0.28052325616218543
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317301635342726,
+      "text": "appear to be important and convincing will always be open to",
+      "width": 0.5095541025894778,
+      "x": 0.053078567459684596,
+      "y": 0.2674418606389901
+    },
+    {
+      "confidence": 1,
+      "height": 0.014550103567033568,
+      "text": "发现声明和可信发现总是面对后来研究",
+      "width": 0.3397027447848201,
+      "x": 0.5859872712229979,
+      "y": 0.2616279068711095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020345288421471097,
+      "text": "challenge and potential modification® or refutation® by future",
+      "width": 0.5099024581179793,
+      "x": 0.052914752151064386,
+      "y": 0.24518720515097236
+    },
+    {
+      "confidence": 1,
+      "height": 0.017738645613505577,
+      "text": "者的质疑、修改、甚至推翻，便不足奇",
+      "width": 0.3397027447848202,
+      "x": 0.5859872680534498,
+      "y": 0.23952879550640682
+    },
+    {
+      "confidence": 1,
+      "height": 0.011932831784193465,
+      "text": "researchers.",
+      "width": 0.10198412980905681,
+      "x": 0.05304190367236368,
+      "y": 0.22949870060722477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047781,
+      "text": "⑥ Second,novelty® itself frequently provokes",
+      "width": 0.39490446305867594,
+      "x": 0.16772823450038604,
+      "y": 0.229651163407825
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "了。第二，新奇事物本身就容易招致怀",
+      "width": 0.3397027447848201,
+      "x": 0.5859872652402864,
+      "y": 0.2209302328372701
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014557712989327731,
+      "text": "disbelief. ⑦™Nobel Laureate and physiologist® Albert Szent-",
+      "width": 0.5074310010979326,
+      "x": 0.05520170000835846,
+      "y": 0.2107329844313356
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047781,
+      "text": "疑。诺贝尔奖获得者、生理学家 Albert",
+      "width": 0.3460721659614753,
+      "x": 0.5838641250075851,
+      "y": 0.2034883724557901
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882850047781,
+      "text": "Gyorgyi once described discovery as “seeing what everybody",
+      "width": 0.5074310010979326,
+      "x": 0.055201698203687505,
+      "y": 0.1904069773613133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016026421991318318,
+      "text": "Szent-Gyorgyi 曾经将发现描述为“见世",
+      "width": 0.34182590462737505,
+      "x": 0.583864119749299,
+      "y": 0.18455497363590234
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034031413612482,
+      "text": "has seen and thinking what nobody has thought.” ⑧ But",
+      "width": 0.5116772624320327,
+      "x": 0.0509554275737925,
+      "y": 0.17146596889141819
+    },
+    {
+      "confidence": 1,
+      "height": 0.01769298658321039,
+      "text": "人所见，思无人所想”。但“思考他人未",
+      "width": 0.34182590462737517,
+      "x": 0.583864113477183,
+      "y": 0.16424418649636663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013210762857766678,
+      "text": "thinking what nobody clse has thought and telling others",
+      "width": 0.5095541025894778,
+      "x": 0.05307856880434132,
+      "y": 0.1524869109509176
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "想”并“告知他人所疏漏”未必会改变这",
+      "width": 0.3397027447848202,
+      "x": 0.585987269475955,
+      "y": 0.1465968587115387
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013294471496062776,
+      "text": "what they have missed may not change their views.",
+      "width": 0.4713375755295471,
+      "x": 0.055201706449663664,
+      "y": 0.13350785371160412
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790628003818,
+      "text": "⑨",
+      "width": 0.019108279941186912,
+      "x": 0.5414012742809988,
+      "y": 0.1351744190256785
+    },
+    {
+      "confidence": 1,
+      "height": 0.017670157068062853,
+      "text": "些人的看法。真正新颖的发现声明有时",
+      "width": 0.3397027447848201,
+      "x": 0.5859872672572716,
+      "y": 0.1250000003045062
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378180758491176,
+      "text": "Sometimes years are required for truly novel discovery claims",
+      "width": 0.5074310010979326,
+      "x": 0.055201701977572896,
+      "y": 0.11452879566647212
+    },
+    {
+      "confidence": 1,
+      "height": 0.015052356020942459,
+      "text": "需要很多年才能被接受和认可。",
+      "width": 0.269639053490604,
+      "x": 0.5859872706803879,
+      "y": 0.10732984294645187
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906280038292,
+      "text": "to be accepted and appreciated.",
+      "width": 0.2569002111372939,
+      "x": 0.0530785525700652,
+      "y": 0.09593023280959312
+    },
+    {
+      "confidence": 1,
+      "height": 0.011780104712041828,
+      "text": "31",
+      "width": 0.02123142154905122,
+      "x": 0.893842887799936,
+      "y": 0.04646596853860985
+    }
+  ],
+  "vision_ocr_text": "客观知识）。二、④句实为取信过程的总结：历经“科学界层层审视、受诸多外在因素影响”的取信过程\n后，“个体不成熟的发现声明”完美蜕变力“集体成熟的可信发现”。\n•真题精解•淡\n33. Paragraph 3 shows that a discovery claim becomes credible\n33.第三段表明，“发现声明”在\nafter it\n之后变得可信。\n［A］ has attracted the attention of the general public\n［A］吸引普通大众注意力\n［B］ has been examined by the scientific community\n［B］ 被科学界检验\n［C］ has received recognition from editors and reviewers\n［C］ 获得编辑和评论家认同\nLDJ has been frequently quoted by peer scientists\n［D］被科学家同行经常性引用\n［精准定位］第三段④句明确指出了“发现声明”在历经““涉及科学界层层审视、受到多种外界因素\n影响’的取信过程”之后的蜕变：由个体的发现声明转变成了集体可信的发现。可见，发现声明要接受科\n学界的检验后方可信，所以，［B］为正确答案。\n［命题解密］［B］对应④句 works its way through the community，是对第三段③④句内容的最有力概括。\n［A］将③句第四个分句所述结果“发现声明被大众、被科学界认可”偷换为条件。\n［C］将③句第二个分句所述取信过程中的一环节“编辑、评论家扮演看门人角色”偷换为全过程各环节。\n［D］把③句中第三个分句中 other scientists use the new findings... 偷换 frequently quoted by. ..；\n而且，“其他科学家使用该发现”也只是“取信过程”中的一环。\n［技巧总结］本题形似考查“时间先后”，实则考查“前提条件”。“条件题”干扰项通常如下设置：①将\n结果偷换条件；②将条件之一当作充分条件，对此可借助“比对选项内容”来甄别，通常涉及“选项包\n含—即某选项较全面且涵盖其他选项所涉及的点”，该项正确的可能性较大。本题中［C］和［D］涉及\n的人物事件其实被［B］包含，即，editors and reviewers、peer scientists 均属于 the scientific community；\nreceived recognition、frequently quoted 可算作 examined 的不同表现形式，再结合上题“取信过程需要集\n体努力”，初步判断［B］可能正确，再结合原文进一步发现［A］将结果偷换条件，故而敲定［B］正确。\n1 Two paradoxes\"exist throughout this credibility\n整个“取信过程”中存在着两种矛盾\nprocesS.\n② First, scientific work tends to focus on some\n情况。第一，科学研究工作倾向于关注\naspect of prevailing knowledge that is viewed as incomplete\n流行知识中被认 不完整或不正确的方\nor incorrect. ③ Little reward accompanies duplication®\nand\n面。重复并确认已经为人所知以及可信\nconfirmation of what is already known and believed. ④ The\n的知识几乎不会带来回报。科学研究的\ngoal is new search,not research.\n⑤Not surprisingly,newly\n目标是新研究而不是重复研究。（如此\npublished discovery claims and credible discoveries that\n一来，）貌似重要且令人信服的新发表的\nappear to be important and convincing will always be open to\n发现声明和可信发现总是面对后来研究\nchallenge and potential modification® or refutation® by future\n者的质疑、修改、甚至推翻，便不足奇\nresearchers.\n⑥ Second,novelty® itself frequently provokes\n了。第二，新奇事物本身就容易招致怀\ndisbelief. ⑦™Nobel Laureate and physiologist® Albert Szent-\n疑。诺贝尔奖获得者、生理学家 Albert\nGyorgyi once described discovery as “seeing what everybody\nSzent-Gyorgyi 曾经将发现描述为“见世\nhas seen and thinking what nobody has thought.” ⑧ But\n人所见，思无人所想”。但“思考他人未\nthinking what nobody clse has thought and telling others\n想”并“告知他人所疏漏”未必会改变这\nwhat they have missed may not change their views.\n⑨\n些人的看法。真正新颖的发现声明有时\nSometimes years are required for truly novel discovery claims\n需要很多年才能被接受和认可。\nto be accepted and appreciated.\n31",
+  "pdf_text_layer": "客观知识） 。 二、 ④ 旬实为取信过程的总结 ： 历经“科学界层层审视、受诸多外在因素影响”的取信过程\n后，“个体不成熟的发现声明”完美蜕变为“集体成熟的可信发现” 。\n\n                                                 ； ·真题秸解；－：：： fl\n 33. Paragraph 3 shows that a discovery claim becomes credible           33. 第＝段表明，“发现声明”在\n      after it                                                              之后变得可信。\n\n [ A] has a ttra cted th e attention of th e ge neral public              [A ］ 吸引普通大众注意力\n\n [ BJ has been exa mined by the scientific commun it y                    [ B〕被 科学界检验\n\n [ CJ has received recognition from editors and reviewers                 [CJ 获得 编辑和评论家认同\n\n [ DJ has been fr equ ently quot ed by peer scientists                    [ DJ 被科学家同行经常性引用\n\n      ［ 精准定位］ 第 三 段④句明确指出了“发现声明”在历经“‘涉及科学界层层审视、受到多种外界因素\n影 II［句 ’的取信过程”之后的蜕变 ：由个体的 发现声明转变成了集体可信的发现。可见，发现声明要接受科\n学界 的检验 后方可信 ，所以， ［ BJ 为正 确答 案。\n      ［ 命题解密 ］ [ BJ 对应④句 works its way through the community ， 是对第 三段③④句内容的最有力概括。\n     [A ］将③ 句第四个分句所述结果“发现 声 明被大众、被科 学界 认可”偷换为条件 。\n      [ CJ 将 ③句第 二个分句所述取信过程中的一环节“编辑、评论家扮演看门人角色”偷换为全过程各环节 。\n      [ DJ 把 ①句 中 第 三 个分句中 ot h er scienti s t s us e th e new findin gs ...偷换为 frequ e ntl y quoted by.\n而且，“其他科 学家使用该发 现”也只是“取信过程”中的 一 环 。\n      ［技巧总结 ］ 本题~·启似考 查“ 时间先后”， 实 则 考查“前提条件” 。 “条件题”干扰项通常如下设 置 ： ① 将\n结果偷换为条件；②将条件之 一 当作充分条件，对此可借助“比对选项内容”来 l'lm 别，通常涉及“选项包\n含 － ！＇！fl 某选项较 全 而且涵盖其他选项所涉及的点”，该项正确的可能性较大 。本 题中 ［ CJ 和 ［ D〕涉及\n的人物 事 件其实被 ［ BJ 包含，即， editors a nd revi e wers 、 pe e r sc ien tis ts 均属于 th e sc ientific commun it y;\nreceived r ecog nition 、 fr巳qu e ntly qu oted 可算作 exam in ed 的不同表现形式，再结合上题“取信过程需要集\n体努力”，初步判断 ［ BJ 可 能正确，再结合原文进 一步发 现 ［ A ］ 将结果偷换为条件，故而敲定 ［ BJ 正确 。\n\n          。 Tw o paradoxes(     exist throughout this cred ibility\n                                                                            整个“取信过程”中存在着两种矛盾\nprocess. @ First , scientifi c work t ends to focus on some              情况 。 第一，科学研究工作倾向于关注\naspect of preva iling knowl edge that is viewed as incomp le te          流行知识中被认为不完整或不正确的方\nor incorrect. @ Littl e rewa rd accompanies duplication@ and             面 。 重复并确认已经为人所知以及可信\nconfirmat ion o f what is a lready known a nd b e li e ved. 。 Th e       的知识几乎不会带来回报 。 科学研究的\ngoa l is new-:;earch, not re-search . 。 No ts 」 rprisingly, new ly       目标是新研究而不是重复研究 。 （如此\npubli shed di scovery cla ims and credib le discoveries th a t\n                                                                         一来，）貌似重要且令人信服的新发表的\napp 巳ar to be important and convincing will a lways be open to\n                                                                         发现声明和可信发现总是面对后来研究\ncha ll enge and potential modification '] or refutation® by futur e\n                                                                         者的质疑、修改、甚至推翻，俊不足为奇\nresea rch ers .   0 Second, novelty(    itself frequ ently provok es     了 。 第 二，新奇事物本身就容易招致怀\ndisbeli ef. ＠ 刨 Nobe l Laurea t e and physiologist® Albert Szent-\n                                                                         疑 。 诺贝尔奖获得者、生理学家 Albert\nGyorgy1 once desc , i bed di scovery as “ seeing what everybody          Sz e nt-Gyorgyi 曾经将发现描述为“见世\nhas see n and th inking what nobody has t hought . ” @ But               人所见，忍无人所想” 。 但“思考他人未\nthinking what nobody e lse has thought and telling othe rs               想”并“告知他人所疏漏”未必会改变这\nw hat th ey have missed may not change th eir v i ews .            。\n                                                                         些人的看法 。 真正新颖的发现声明有时\nSomet imes y 巳a r s a re required for truly novel di scove ry cla im s   需妥很多年才能被接受和认可 。\nto be accepted a nd apprecia ted.\n\n\n\n                                                                                                           31",
+  "quality": {
+    "vision_line_count": 68,
+    "vision_character_count": 2436,
+    "pdf_text_character_count": 3631,
+    "nonempty": true
+  }
+}

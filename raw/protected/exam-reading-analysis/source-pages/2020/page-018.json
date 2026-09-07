@@ -1,0 +1,534 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P018",
+  "year": 2020,
+  "pdf_page": 18,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "• 词汇注释与难句分析",
+      "width": 0.20212764664000255,
+      "x": 0.3638297920168782,
+      "y": 0.8909883720807258
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014972776769510032,
+      "text": "①secure ［si'kjua］ w. （尤指经过努力）获得，取得",
+      "width": 0.3659574349088023,
+      "x": 0.05106383116262021,
+      "y": 0.8675136115425706
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014569176087145808,
+      "text": "⑧fund LfAnd」v.为……提供资金",
+      "width": 0.26808508965440325,
+      "x": 0.5191489411834367,
+      "y": 0.8706395352577251
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01455334872818681,
+      "text": "②routinely Lru:tinl］ ad. 通常地；毫不意外地",
+      "width": 0.35531912065280546,
+      "x": 0.05106384448742704,
+      "y": 0.8502722320024603
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018985045583624682,
+      "text": "⑨unstoppably ［Ans'tppabli］ ad. 无法遏制地，不能阻",
+      "width": 0.41957807604218544,
+      "x": 0.5210598640494835,
+      "y": 0.851090671522198
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014701071322072434,
+      "text": "③approach ［e'praut.j］v.靠近，接近",
+      "width": 0.27872340391040007,
+      "x": 0.05319149232139562,
+      "y": 0.8328488377795273
+    },
+    {
+      "confidence": 1,
+      "height": 0.013157894736842146,
+      "text": "挡地",
+      "width": 0.03617021223780015,
+      "x": 0.5212765962671182,
+      "y": 0.8357531761061687
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01605959596305062,
+      "text": "④operation ［iope 'rei/n］ n.（工商业）活动，业务",
+      "width": 0.3659574349088022,
+      "x": 0.0510638344604925,
+      "y": 0.8153357532350186
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017695099818511806,
+      "text": "1desperate ［'desparat］ a.绝望的，孤注一掷的",
+      "width": 0.35957447877759785,
+      "x": 0.5212765871271586,
+      "y": 0.8153357530385229
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014648312881940573,
+      "text": "⑤existential ［regzi'sten/al］a. 有关（生死）存在的",
+      "width": 0.3808510667615994,
+      "x": 0.05106383212983854,
+      "y": 0.7979651168492947
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0132222634261836,
+      "text": "• 经典搭配",
+      "width": 0.10429299241834744,
+      "x": 0.5212577598544441,
+      "y": 0.7993481706861703
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016333938294010864,
+      "text": "⑥giant ［'asarent］ n，巨人；大公司",
+      "width": 0.2680851099183993,
+      "x": 0.05106382578548122,
+      "y": 0.7803992744696406
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "Cprofit margin（利润率；利润幅度）",
+      "width": 0.27446808631359976,
+      "x": 0.5212765923963917,
+      "y": 0.7803992744575283
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372415033703,
+      "text": "⑦access ［'sekses］v、访问，存取（计算机文件）",
+      "width": 0.3553191206528055,
+      "x": 0.051063846455512166,
+      "y": 0.7630813953876866
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "②make a profit（获利）",
+      "width": 0.17659574105920062,
+      "x": 0.5212765957895487,
+      "y": 0.7645190561182288
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019364388149143763,
+      "text": "The Dutch giant Elsevier, which claims to publish 25 % of the scientific papers produced in the world，",
+      "width": 0.8512535145874834,
+      "x": 0.09139691224482474,
+      "y": 0.7298770757928642
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014558624226038708,
+      "text": "made profits of more than & 900m last year, while UK universities alone spent more than £ 210m in 2016 to",
+      "width": 0.8893616614272079,
+      "x": 0.05531916039277917,
+      "y": 0.713662791093481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014656226994121613,
+      "text": "enable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite",
+      "width": 0.8914892999616119,
+      "x": 0.055319190950044894,
+      "y": 0.6946460982132696
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906896241602,
+      "text": "increasingly desperate efforts to change them.",
+      "width": 0.3765957491647991,
+      "x": 0.055319151401642876,
+      "y": 0.6773255814719373
+    },
+    {
+      "confidence": 1,
+      "height": 0.014767321397951116,
+      "text": "结构切分：",
+      "width": 0.09156789184408201,
+      "x": 0.09570541643380376,
+      "y": 0.658314013759496
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01455334872818681,
+      "text": "which claims to publish 25% of the scientific papers produced in the world",
+      "width": 0.4914893648063994,
+      "x": 0.13404254672445995,
+      "y": 0.6351744190295274
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011796733212341204,
+      "text": "while UK universities alone",
+      "width": 0.18510637625280135,
+      "x": 0.7212766006501949,
+      "y": 0.6379310346862498
+    },
+    {
+      "confidence": 1,
+      "height": 0.013186068803126116,
+      "text": "定语从句",
+      "width": 0.07025439805718531,
+      "x": 0.25317067243400126,
+      "y": 0.6089592911266354
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208014995346407,
+      "text": "spent more than £210m in",
+      "width": 0.17234042346240042,
+      "x": 0.7234042585081615,
+      "y": 0.6161524499501421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418101509763,
+      "text": "2016 to enable researchers",
+      "width": 0.17446808226080057,
+      "x": 0.7234042541178268,
+      "y": 0.5988372093843227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014629847774055627,
+      "text": "The Dutch giant Elsevier made profits of more than £900m last year",
+      "width": 0.46170210110080506,
+      "x": 0.1574468179425053,
+      "y": 0.5871143377409906
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014708985434253474,
+      "text": "分句一：",
+      "width": 0.06170212541760042,
+      "x": 0.08936170386566786,
+      "y": 0.5755813958609227
+    },
+    {
+      "confidence": 1,
+      "height": 0.013263410751702787,
+      "text": "主语",
+      "width": 0.034042553439399964,
+      "x": 0.23404255331069515,
+      "y": 0.569767442194773
+    },
+    {
+      "confidence": 1,
+      "height": 0.013263410751702676,
+      "text": "谓语",
+      "width": 0.03829787103620025,
+      "x": 0.3340425533648786,
+      "y": 0.5697674420675929
+    },
+    {
+      "confidence": 1,
+      "height": 0.013263410751702676,
+      "text": "宾语",
+      "width": 0.03617021223780015,
+      "x": 0.46170212822507156,
+      "y": 0.5697674422068855
+    },
+    {
+      "confidence": 1,
+      "height": 0.013171083914173543,
+      "text": "状语",
+      "width": 0.03617021223780004,
+      "x": 0.5765957453066319,
+      "y": 0.5712209305377962
+    },
+    {
+      "confidence": 1,
+      "height": 0.011796733212341204,
+      "text": "to access their own publicly",
+      "width": 0.18297871745440109,
+      "x": 0.723404256464289,
+      "y": 0.5798548095111825
+    },
+    {
+      "confidence": 1,
+      "height": 0.01471689868103132,
+      "text": "状语从句",
+      "width": 0.07021276567720003,
+      "x": 0.6404255326135276,
+      "y": 0.568313954153074
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418101509763,
+      "text": "funded research",
+      "width": 0.10638298044799965,
+      "x": 0.7234042533930215,
+      "y": 0.5625000001788962
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "both figures seem to rise unstoppably despite increasingly desperate efforts to change them.",
+      "width": 0.640425521222402,
+      "x": 0.21276597346681272,
+      "y": 0.5261627910319824
+    },
+    {
+      "confidence": 1,
+      "height": 0.014595555307211794,
+      "text": "分句二：",
+      "width": 0.06382978421600058,
+      "x": 0.1361702149132763,
+      "y": 0.5130813958609227
+    },
+    {
+      "confidence": 1,
+      "height": 0.013181635775280531,
+      "text": "主语",
+      "width": 0.03617021223780012,
+      "x": 0.24042553254067442,
+      "y": 0.5086206896171557
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013181635775280531,
+      "text": "谓语",
+      "width": 0.03617021223780009,
+      "x": 0.32978723466833393,
+      "y": 0.5086206896171557
+    },
+    {
+      "confidence": 1,
+      "height": 0.013409386961948933,
+      "text": "方式状语",
+      "width": 0.07459009786051107,
+      "x": 0.39568367354265327,
+      "y": 0.5085569343756009
+    },
+    {
+      "confidence": 1,
+      "height": 0.013181635775280531,
+      "text": "让步状语",
+      "width": 0.0723404244756003,
+      "x": 0.6276595757196466,
+      "y": 0.5086206896171557
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018071043080296945,
+      "text": "功能注释：本句是由分号隔开的并列句。分句一主干为 The Dutch giant Elsevier made profits of",
+      "width": 0.8532853449483317,
+      "x": 0.09782925027764937,
+      "y": 0.4834008252605926
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "more than £900m last year; which...in the world 为非限制性定语从句，对Elsevier 进行补充说明；",
+      "width": 0.8914893810175962,
+      "x": 0.05744679142382611,
+      "y": 0.4664246823511088
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "while...funded research 为状语从句，与主句形成对比。分句二主干为 both figures seem to rise",
+      "width": 0.8936170195520003,
+      "x": 0.057446818309106015,
+      "y": 0.4460072597360938
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "unstoppably,despite...them 为让步状语。",
+      "width": 0.361702117312002,
+      "x": 0.05744681730144579,
+      "y": 0.42732558145572574
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016313532086768667,
+      "text": "•语篇分析。",
+      "width": 0.1171155324178546,
+      "x": 0.4254847881523322,
+      "y": 0.40245369914882145
+    },
+    {
+      "confidence": 1,
+      "height": 0.016038492240836533,
+      "text": "第二、三段从产品的市场销售角度分析原因：学术期刊是各大学图书馆的标配，销路不愁。",
+      "width": 0.7638297720576029,
+      "x": 0.09787233846587959,
+      "y": 0.3793103450749653
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01466941660415455,
+      "text": "第二段指出科学出版业的主要销售对象：大学图书馆。关键词为：①needs only find a market； ②not",
+      "width": 0.8510638435839972,
+      "x": 0.09787234203778845,
+      "y": 0.36191860522138786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011796733212341204,
+      "text": "very price sensitive。",
+      "width": 0.16595744706719995,
+      "x": 0.05957446629618729,
+      "y": 0.34437386590222363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016067509209828468,
+      "text": "①句承上启下，指出科学出版商的全部工作：只需找销路。With the content of papers secured for",
+      "width": 0.8510638435839973,
+      "x": 0.10000000019381683,
+      "y": 0.3225952817094132
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016093888429894343,
+      "text": "free（ with 表“拥有、真有”）承上高度概括“出版商免费获取产品/科研论文”这一情形，the publisher needs",
+      "width": 0.8957446580864044,
+      "x": 0.057446827357506954,
+      "y": 0.30377906966699864
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01924455057687635,
+      "text": "only..启下引出该情形引发的结果：（免费产品在手，>只考忠销售就行。",
+      "width": 0.6194027600535358,
+      "x": 0.059479910381336216,
+      "y": 0.28474173991995666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "②③句继而表明“找销路”都属多余：大学图书馆长期以来都是购买主力。②句 price sensitive 指",
+      "width": 0.846808485459205,
+      "x": 0.10212767922075207,
+      "y": 0.26724137956415017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018895348273690993,
+      "text": "“（消费者）牙价格很在意的，价格会影响消费行为的”，文中 not very price sensitive 意即各大学对科研文",
+      "width": 0.8893616614272077,
+      "x": 0.05957447958426859,
+      "y": 0.24854651209861955
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "献不吝金钱、慷慨购买。注：本句为 not...until...结构变体（until 在 this century 前后划下一道分水",
+      "width": 0.8872340228928038,
+      "x": 0.06170213016707341,
+      "y": 0.22958257719733266
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016012113020770546,
+      "text": "岭），until...位于句首，意在强调语义重心“之前大学图书馆在购买科研文献方面一贯慷慨”，同时暗示",
+      "width": 0.887234022892804,
+      "x": 0.06170214382715427,
+      "y": 0.21220930223725054
+    },
+    {
+      "confidence": 1,
+      "height": 0.01916718872402634,
+      "text": "“进人21世纪以后，大学的态度才有所变化”，为后文介绍科学出版业态的新变化做好铺垫。③句以利",
+      "width": 0.8937569221810674,
+      "x": 0.05736912363409659,
+      "y": 0.19307670249584552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01605168185086947,
+      "text": "润数字力证销路不愁。routinely report profit...40%（routinely 指“惯常地，毫不意外地”）与 the rest...",
+      "width": 0.8872340228928037,
+      "x": 0.06170214636210858,
+      "y": 0.17587209284771566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "in an existential crisis 以 at a time when 关联，突显巨大反差与反讽：其他出版领域挣扎求生，它非但不受",
+      "width": 0.8893616614272077,
+      "x": 0.061702151360864106,
+      "y": 0.15552325545309365
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "影响，反而照旧盆满钵满，凸显科学领域的出版利海之坚、之巨。",
+      "width": 0.5425531759680029,
+      "x": 0.06170213994153036,
+      "y": 0.1365698731233621
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016022664881877535,
+      "text": "第三段以科学出版业巨头 EIsevier 为例，论证科学出版商依靠大学图书馆坐收暴利。关键词为：①",
+      "width": 0.8446808469248009,
+      "x": 0.10212766666171305,
+      "y": 0.11918604621738627
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013284514041215223,
+      "text": "The Dutch giant Elsevier； ② rise unstoppably。",
+      "width": 0.3723404315679988,
+      "x": 0.06382978793940475,
+      "y": 0.10299455547912795
+    },
+    {
+      "confidence": 1,
+      "height": 0.014608744917244731,
+      "text": "（分号前）分句一以数字说明科学出版商如何从大学获取暴利。整句由 while（而，然而）分为两部",
+      "width": 0.848936123993609,
+      "x": 0.10000002917340825,
+      "y": 0.08430232614746758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "分，提醒前后信急对比项显——publish 25%...in the world、 more than £900m last year 突显 Elsevier",
+      "width": 0.8936170195520003,
+      "x": 0.061702130596340186,
+      "y": 0.06395348821444669
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394825570136,
+      "text": "18",
+      "width": 0.02340425438140019,
+      "x": 0.07659574512312968,
+      "y": 0.04651162800509279
+    }
+  ],
+  "vision_ocr_text": "• 词汇注释与难句分析\n①secure ［si'kjua］ w. （尤指经过努力）获得，取得\n⑧fund LfAnd」v.为……提供资金\n②routinely Lru:tinl］ ad. 通常地；毫不意外地\n⑨unstoppably ［Ans'tppabli］ ad. 无法遏制地，不能阻\n③approach ［e'praut.j］v.靠近，接近\n挡地\n④operation ［iope 'rei/n］ n.（工商业）活动，业务\n1desperate ［'desparat］ a.绝望的，孤注一掷的\n⑤existential ［regzi'sten/al］a. 有关（生死）存在的\n• 经典搭配\n⑥giant ［'asarent］ n，巨人；大公司\nCprofit margin（利润率；利润幅度）\n⑦access ［'sekses］v、访问，存取（计算机文件）\n②make a profit（获利）\nThe Dutch giant Elsevier, which claims to publish 25 % of the scientific papers produced in the world，\nmade profits of more than & 900m last year, while UK universities alone spent more than £ 210m in 2016 to\nenable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite\nincreasingly desperate efforts to change them.\n结构切分：\nwhich claims to publish 25% of the scientific papers produced in the world\nwhile UK universities alone\n定语从句\nspent more than £210m in\n2016 to enable researchers\nThe Dutch giant Elsevier made profits of more than £900m last year\n分句一：\n主语\n谓语\n宾语\n状语\nto access their own publicly\n状语从句\nfunded research\nboth figures seem to rise unstoppably despite increasingly desperate efforts to change them.\n分句二：\n主语\n谓语\n方式状语\n让步状语\n功能注释：本句是由分号隔开的并列句。分句一主干为 The Dutch giant Elsevier made profits of\nmore than £900m last year; which...in the world 为非限制性定语从句，对Elsevier 进行补充说明；\nwhile...funded research 为状语从句，与主句形成对比。分句二主干为 both figures seem to rise\nunstoppably,despite...them 为让步状语。\n•语篇分析。\n第二、三段从产品的市场销售角度分析原因：学术期刊是各大学图书馆的标配，销路不愁。\n第二段指出科学出版业的主要销售对象：大学图书馆。关键词为：①needs only find a market； ②not\nvery price sensitive。\n①句承上启下，指出科学出版商的全部工作：只需找销路。With the content of papers secured for\nfree（ with 表“拥有、真有”）承上高度概括“出版商免费获取产品/科研论文”这一情形，the publisher needs\nonly..启下引出该情形引发的结果：（免费产品在手，>只考忠销售就行。\n②③句继而表明“找销路”都属多余：大学图书馆长期以来都是购买主力。②句 price sensitive 指\n“（消费者）牙价格很在意的，价格会影响消费行为的”，文中 not very price sensitive 意即各大学对科研文\n献不吝金钱、慷慨购买。注：本句为 not...until...结构变体（until 在 this century 前后划下一道分水\n岭），until...位于句首，意在强调语义重心“之前大学图书馆在购买科研文献方面一贯慷慨”，同时暗示\n“进人21世纪以后，大学的态度才有所变化”，为后文介绍科学出版业态的新变化做好铺垫。③句以利\n润数字力证销路不愁。routinely report profit...40%（routinely 指“惯常地，毫不意外地”）与 the rest...\nin an existential crisis 以 at a time when 关联，突显巨大反差与反讽：其他出版领域挣扎求生，它非但不受\n影响，反而照旧盆满钵满，凸显科学领域的出版利海之坚、之巨。\n第三段以科学出版业巨头 EIsevier 为例，论证科学出版商依靠大学图书馆坐收暴利。关键词为：①\nThe Dutch giant Elsevier； ② rise unstoppably。\n（分号前）分句一以数字说明科学出版商如何从大学获取暴利。整句由 while（而，然而）分为两部\n分，提醒前后信急对比项显——publish 25%...in the world、 more than £900m last year 突显 Elsevier\n18",
+  "pdf_text_layer": "···································\n                                                       • ffi)j[ ~ff ~ - 'Rl ~~fi • : '~ -\n                                                                                          ·······, j\n                                                        ............. - . - . -. . . . . . .. - - - . . . .. -.... .\n                                                                                                                                         :,g ....... ~~ii\n                                                                                       ~ ® unstoppably\n(!)secure [s1 1kjua] v. (jtffi ~:ii~ jJ) ~~, Jet~~                                             @ fund LfAndJ v.\n(2)routinely [ru: 1ti:nli] ad. l! #:I:&, •~:t:?l-:1:&                                                                           [Ans1topabli] ad.                          :x ~ ii ifjlj :I:&,~ ft~ m\n@ approach [a1prautI] v. 3ilr ,3lilr\n@operation [,opa're1Jn] n. (Iffli.llk)ffl;fj ,~~\n@ existential [,egzi'stenJal] a. ~~(~~)tf:tEA9\n@ giant ['«se.1ant] n . e,A.,:k~iil\n                                                                                      I         t:'ii&\n                                                                                                ®desperate [ 1despar.)t] a. ;1s:filitf9 ,m!.t1-!$tf9\n                                                                                       ~ e t£!1V:mE\n                                                                                       i.,     (l)profit margin(~J1ffl.$; *1J 1ffl t1.lf)\nel:laccess [ 1rekses] v. inriiJ ,.ffllk(i.tJt:tJtj:flj:)                               ~, ®make a profit(~5f1j)\n                                                                                     ______ . ___ ........................................ ___ ........................................................................ ..\n                                                                                                                                           ~\n\n\n\n\n      The Dutch giant Elsevier, which claims to publish 25 % of the scientific papers produced in the world,\nmade profits of more than £ 900m last year, while UK universities alone spent more than £ 210m in 2016 to\nenable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite\nincreasingly desperate efforts to change them.\n      ffi~tJJ~:\n             Iwhich claims to publish 25% of the scientific papers produced in the world I                                                                 while UK universities alone\n                                                                                                                                                           spent more than £210m in\n                               , , ~ffil>\\10\n                                                                                                                                                           2016 to enable researchers\n                     The Dutch giant Elsevier :made profits ofmore than £900m last year\n     ~- :\n                                                                                                                                   ,J\n\n                                                                                                                                    -                      to access their own publicly\n                                .±ffi            iii!                          ~ffi                              ~ii               ~)A-a]\n                                                                                                                                                           funded research\n\n                             both figures seem to rise unstoppably despite increasingly desperate efforts to change them.\n              ~=:                ;ti§        ilffi      1i:i.tttffi                     iJ:tv-ttffi\n        'J:JJ fm ~       *\n              ff : 1iJ ¾ Eb ?t % !!ii :3f 89 # JIJ 1;J o ?t 1i] - 3:: -=f -J-J The Dutch giant Elsevier made profits of\n more than ;f 900m last year; which... in the world ':fa.I ~F ~~ $11 ft~ i.fi- JA /jjJ , )(;j Elsevier ill: fi 3t ~ ~ ;                                                                          *~\n while ... funded research '-1 tt ffi- JA 1i] , ~ 3:. 1i] ~ It )(q' t~ ,t 1iJ       3:. -=f '-1 both figures seem to rise\n                                                                                                             0                 =\n unstoppably, despite.. . them jgiJ:~~i.fi- o\n                                                                   .-························, '\n                                                                   :. . .•. . .ii1ffl7.)-jfi     • : ~- -\n                                                                                . . . ...............\n                                                                                          *                        *\n                                                                                                         :\n\n\n\n        ~  -= . =W: ;.;._ -;r. ~ a'-J   m*m\n                                      ti/! ~ M ~ ,t ,1r mt ~ : ~ M f1J~ ~ ~ ~ a'-J *ff-             ti!! ffi ~ ~ o   oo m 1c .\n        ~ .= ~ ffi lli f4 ~ Wltli ~ a'-J .±.~till ffi ~ ~ : *. ~ lE ~ ffi o                                      *\n                                                                            it im ;kJ : 1 needs only find a ma rket ; ® not\n very price sensitiveo\n        I 1:iJ • J: 1i5 \"F , ffi lli ~ ~ 1±1 It& illi a'-:i ~$ I               i'F : Q ~ fX ti'4 Ii& o With the content of papers secured for\n heet wit'n ~u.mlj .. Ji~») ~J: jWj ll•m\" ili Jt!iffij 1k. Jt~~~ ~ /~ifie:X:\"iX-'lf~, the publisher needs\n only. . . J.s \"\"F s.l .tf:I i¾ '.i:fJffe ~ J,jt bSt ¥b )\\Q. .- ( ja If;;-le JG. .tf T- , >R ~.,.,gm W ,~-1?\n                          * tt ti'4 ffi\" ffl3                                                                      *ffl3 £\n                                                                                                                                           o\n\n\n        2 3 1:iJ t1* im       a_ij ..              ~ ~~ :            *- ~ ~ ~ ffi ¥: M tl.                                              ~ ~ .±. tJ o @/jj] price sensitive ffi\n \"<ffi ~~ ):i.>J '61·~1'&1±. ~~, 1:fr~~~ u(iiJr~ ~fr jg tf.1\", jt i:p not very price sensitive• ep ~*~~t~HMJt\n ~~~~~._ijiftlij~ o ?±:*1:iJ'-1 not... until. .. ~~~.f*(until t£ this century uuFc:t.Jr - ilt?t;,J(\n                                                                                   *\n JIit) , until. .. 'UL r /4JJ 1t , ~ t£ ~ ~ mJl li ,t:,,\" z. utr ~ 111 4S ffi ;(£~ ~ ~1iff X mx 1J mi - m- ffi '1ft '' , IWJ a-t !Fa ~\n                                *\n \":itt.A 21 ffl: ga ~ FA , ~ 89 ~ 1l ;t ~ P.Jr 1t1t,, , ':fa.I Fc x 1t- m~ ~ l±i Jt& ~ ~ 99 !fr ~ -ft ·f!t!lt-iltl ~ @/jj] ~ frJ                                                                 0\n\n\n\n ~Jx* JJiiE.fflBl~.~ o routinely report profit... 40 %(routinely ffi\"fflittit!!, ~~~?'~it!!\") \"3 the rest...\n in an existential crisis~ at a time when ~ll): ,~Jm.e:kli~~ lii.&I. :Jt{t:±i Jt&®i~~tL>.lt~, 'E~~{.a ~~\n ~ 1$.J , 1i mi ,!ff! ,a ~nlt.tilli ...8.s ~~~.tt.ti5tm,~.~'.Wz~, z e\n                                                                                                                                                                                            *\n                                                                                                                     0\n\n\n\n         j! .= W: t l. f4 ~ lli Jt1i ~ e ~ Else, ier J::J f§:J , it fil ~ ~ lli Jt1i jllj ~ff*.~ Ill~ ffi ~ 1&. , ,1o tl im ;kJ : J\n\n                                                                                             * im. ,1 m Ea\n The Dutch giant Elsevier ; 2 rise unstoppabl) 0\n        ( ,t- ~ wJ ) ,t 1:iJ - t.t      ~*i.~   a_ij ~ ~ lli ltli jftj 1za fiiJ ).j,\n                                                                       ,tJ                         ~~\n                                                                            while (mi'~ iffi) :fr-Jg iW :gf3                  1 0\n\n\n 9}-,~mtfim-~a~,'xtr'ttr!l:I~--.publish 25% .. . in the world,more than ;f900m last year ~Jm. Elsevier\n   18",
+  "quality": {
+    "vision_line_count": 64,
+    "vision_character_count": 2417,
+    "pdf_text_character_count": 8351,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P041",
+  "year": 2014,
+  "pdf_page": 41,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.015988371874156804,
+      "text": "一比对以判断对错”：先根据各选项核心关键词（［A］ American history、［B］ subjects、［C］ emerging",
+      "width": 0.8837208948829622,
+      "x": 0.052854151342873794,
+      "y": 0.9215116283482873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739463,
+      "text": "technologies、LD」 foreign Ianguages）分别定位②句、③句、②句、④句；再仔细比对原文发现LA］",
+      "width": 0.8816067633500958,
+      "x": 0.052854125539539824,
+      "y": 0.9011627909209616
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01470318217026556,
+      "text": "exclusive篡改 particularly 之意、LBtheoretical无从对应、LDJfunding（源自③句而非④句，其）对象实",
+      "width": 0.8794925733544361,
+      "x": 0.052854128826658076,
+      "y": 0.8835526317009147
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013326193156995347,
+      "text": "为 teachers而非 study of foreign languages，唯有［C］application 对应 use、emerging 对应 digital，故",
+      "width": 0.87526425182591,
+      "x": 0.057082468076776104,
+      "y": 0.8662790700152094
+    },
+    {
+      "confidence": 1,
+      "height": 0.014596083289698636,
+      "text": "正确。",
+      "width": 0.05285412141646462,
+      "x": 0.05496828865751821,
+      "y": 0.8459302325435484
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011903304175326701,
+      "text": "① Unfortunately, despite 2 ½ years in the",
+      "width": 0.4080338167504789,
+      "x": 0.12896407094118034,
+      "y": 0.8151315792292757
+    },
+    {
+      "confidence": 1,
+      "height": 0.014641982630679506,
+      "text": "不幸的是，虽历时两年半才拟定完成，",
+      "width": 0.33192388308002574,
+      "x": 0.5983086748870483,
+      "y": 0.8065789476455395
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015131578947368385,
+      "text": "making， \"The Heart of the Matter”",
+      "width": 0.32769556155149965,
+      "x": 0.05496829233911964,
+      "y": 0.7947368422996238
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011949204143725023,
+      "text": "never gets to the",
+      "width": 0.15644820348513083,
+      "x": 0.3805496852200843,
+      "y": 0.794736842051575
+    },
+    {
+      "confidence": 1,
+      "height": 0.014687882599077717,
+      "text": "《问题的核心》并未触及问题的核心：我们顶",
+      "width": 0.3742071860594768,
+      "x": 0.5539112092429889,
+      "y": 0.7861842105114436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014764381709851726,
+      "text": "heart of the matter: the illiberal®",
+      "width": 0.32769556155149965,
+      "x": 0.054968291775342334,
+      "y": 0.7747093025532383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906247189124,
+      "text": "nature of liberal",
+      "width": 0.1564482034851309,
+      "x": 0.38054968000514433,
+      "y": 0.7747093025934597
+    },
+    {
+      "confidence": 1,
+      "height": 0.017763157894736925,
+      "text": "级高等院校中人文教育“非人文”的本质。",
+      "width": 0.3720930252952137,
+      "x": 0.5581395344982705,
+      "y": 0.7644736840054076
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015131578947368496,
+      "text": "education at our leading colleges and universities. ② The",
+      "width": 0.4820295896566691,
+      "x": 0.054968297877796425,
+      "y": 0.7526315788377946
+    },
+    {
+      "confidence": 1,
+      "height": 0.01477968190845691,
+      "text": "人文与社会科学委员会忽视了这样一个事",
+      "width": 0.3720930252952137,
+      "x": 0.5560253663013511,
+      "y": 0.7453947366277289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013402692267769245,
+      "text": "commission ignores that for several decades America's",
+      "width": 0.47991542889240607,
+      "x": 0.05496828679586891,
+      "y": 0.7322368422773411
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052544,
+      "text": "实：几十年来，美国高等院校培养出的毕业",
+      "width": 0.36786467453529104,
+      "x": 0.5602537061150183,
+      "y": 0.7236842107166185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394998650797,
+      "text": "colleges and universities have produced graduates who",
+      "width": 0.47991542889240596,
+      "x": 0.05496829458128099,
+      "y": 0.7122093025442793
+    },
+    {
+      "confidence": 1,
+      "height": 0.014733781940058699,
+      "text": "生并不知道人文教育的内涵和特征，因此也",
+      "width": 0.369978835299554,
+      "x": 0.5581395495013858,
+      "y": 0.7032894737067998
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011949204143725023,
+      "text": "don't know the content and character of liberal education",
+      "width": 0.479915428892406,
+      "x": 0.05496828277014677,
+      "y": 0.693313954046948
+    },
+    {
+      "confidence": 1,
+      "height": 0.01477968190845691,
+      "text": "无法从中受益。令人痛心的是，一度在校园",
+      "width": 0.36786467453529104,
+      "x": 0.5581395417115148,
+      "y": 0.682894736648493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013356792926788374,
+      "text": "and are thus deprived® of its benefits. ③ Sadly, the spirit",
+      "width": 0.48202958965666903,
+      "x": 0.05285411891373764,
+      "y": 0.6715116279609459
+    },
+    {
+      "confidence": 1,
+      "height": 0.01470318217026556,
+      "text": "里盛行的探索精神已经被“将人文和社会科",
+      "width": 0.3720930252952137,
+      "x": 0.5581395343573262,
+      "y": 0.6642441861530446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016080170556118656,
+      "text": "of inquiry® once at home on campus has been replaced by",
+      "width": 0.479915428892406,
+      "x": 0.05496828453195082,
+      "y": 0.6497093030151961
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01465728282928458,
+      "text": "学用作宣传‘革新的’或者说左翼自由思想",
+      "width": 0.36997886453095075,
+      "x": 0.5581395344364273,
+      "y": 0.6438953488849106
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013264993617409182,
+      "text": "the use of the humanities and social sciences as vehicles®",
+      "width": 0.47780126812814294,
+      "x": 0.05496829148208768,
+      "y": 0.6308139537724768
+    },
+    {
+      "confidence": 1,
+      "height": 0.016226361927233146,
+      "text": "的工具”取代。",
+      "width": 0.12057397922793567,
+      "x": 0.5581062450365268,
+      "y": 0.6205205401264573
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014672582400472534,
+      "text": "for publicizing “progressive®",
+      "width": 0.23467229791984703,
+      "x": 0.054968293719780424,
+      "y": 0.6090116280013973
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014672582400472534,
+      "text": "，\" or left-liberal propaganda.",
+      "width": 0.24312895559259756,
+      "x": 0.28752643534675953,
+      "y": 0.6090116278439361
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016447368421052544,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.2219873041028721,
+      "x": 0.36363637131008614,
+      "y": 0.563815789590132
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013249694046221339,
+      "text": "①illiberal ［rlbaral］a. 缺少人文教育的；无需人文教",
+      "width": 0.41649048903892777,
+      "x": 0.052854124701818654,
+      "y": 0.5406976746784847
+    },
+    {
+      "confidence": 1,
+      "height": 0.01477558612823493,
+      "text": "经典搭配",
+      "width": 0.08043003447667851,
+      "x": 0.5454086624132749,
+      "y": 0.5376703465404294
+    },
+    {
+      "confidence": 1,
+      "height": 0.011842105263157876,
+      "text": "育的",
+      "width": 0.03382663799885132,
+      "x": 0.05496828787161028,
+      "y": 0.5217105266004565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01465728282928458,
+      "text": "①in the making（在发展中，在形成中）",
+      "width": 0.29386890162910084,
+      "x": 0.5179704112784728,
+      "y": 0.5188953486772694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488375011247,
+      "text": "②deprive ［di prarv］v. 剥夺，夺去，使丧失",
+      "width": 0.32558140078723663,
+      "x": 0.052854122227946186,
+      "y": 0.5000000000684653
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842035,
+      "text": "②get to the heart of the matter（直击问题核心）",
+      "width": 0.36575051377102796,
+      "x": 0.5200845687311176,
+      "y": 0.4999999999570699
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013264993617409182,
+      "text": "③inquiry ［in'kwair］n. 调查，质询，探究",
+      "width": 0.3171247284987877,
+      "x": 0.054968293784432735,
+      "y": 0.4809210528039124
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "③be deprived of（丧失，被剥夺）",
+      "width": 0.24312895559259762,
+      "x": 0.5179704038985568,
+      "y": 0.4796052629368305
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013310893585807393,
+      "text": "④vehicle ［ vikal］n. 工具，传播媒介",
+      "width": 0.2875264193363117,
+      "x": 0.05285412408801054,
+      "y": 0.460526315480863
+    },
+    {
+      "confidence": 1,
+      "height": 0.013173194308029879,
+      "text": "④at home（驾轻就熟，运用自如）",
+      "width": 0.24947146711678336,
+      "x": 0.5179703954409036,
+      "y": 0.45921052638654747
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014672582400472534,
+      "text": "⑤ progressive Lpragresiv」a. 进步的，不断前进的",
+      "width": 0.37632134682373986,
+      "x": 0.05285412502364807,
+      "y": 0.438815789561793
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739352,
+      "text": "• 语篇分析，",
+      "width": 0.11416490050567973,
+      "x": 0.4164904891234814,
+      "y": 0.40843023318113614
+    },
+    {
+      "confidence": 1,
+      "height": 0.017763157894736814,
+      "text": "第四五段阐明报告严重问题。",
+      "width": 0.2536997886453095,
+      "x": 0.09302325884859251,
+      "y": 0.3776315788314829
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017763157894736925,
+      "text": "第四段阐释报告未触及问题核心“人文教育非人文”。关键词为：never gets to the heart of the matter。",
+      "width": 0.8245242765580101,
+      "x": 0.09513743897258063,
+      "y": 0.3572368420462242
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019124847336819295,
+      "text": "①句（段群总起句）总括问题。句首评注性副词 Unfortunately一反上段 generally admirable 赞扬基",
+      "width": 0.8414376211349078,
+      "x": 0.09302327183212301,
+      "y": 0.3355263155372853
+    },
+    {
+      "confidence": 1,
+      "height": 0.016034271215137674,
+      "text": "调，开启下文批判口吻；despite 让步逻辑“虽历时两年半之久却从未触及问题核心”深层暗示“报告所定",
+      "width": 0.8794925733544361,
+      "x": 0.052854129873672905,
+      "y": 0.3168604654875107
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016447368421052655,
+      "text": "目标尽管值得称道，但很有可能于事无补，甚至可能得不偿失”；illiberal nature of liberal education 为矛",
+      "width": 0.8773784418215697,
+      "x": 0.05496828985824255,
+      "y": 0.2947368421432486
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052655,
+      "text": "盾修辞，鲜明传达“美国所谓的人文教育已然严重缺乏人文教育本该有的内涵及特点，其人文本质业已",
+      "width": 0.8773784418215697,
+      "x": 0.05285411024672072,
+      "y": 0.2730263155896191
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016447368421052655,
+      "text": "荡然无存”。注：2½ years in the making 源自相关表达 be a long time/ 10 years etc in the making\"制作时",
+      "width": 0.8794925733544361,
+      "x": 0.05285412939043535,
+      "y": 0.2513157893575737
+    },
+    {
+      "confidence": 1,
+      "height": 0.016034271215137674,
+      "text": "间很长/长达10年之久等”，故其意为“制作长达两年半之久”。",
+      "width": 0.5285412433960428,
+      "x": 0.05285411931677762,
+      "y": 0.2296052632599762
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "②句借“报告拟定机构忽略‘数十年来，高校所培育的毕业生不懂人文教育、更无需说受益人文教",
+      "width": 0.8414376211349078,
+      "x": 0.09302326972852906,
+      "y": 0.20639534936209547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859998201137,
+      "text": "育’这一严重事实”说明①句。ignores”（故意对知道的事）置之不理”明示拟定机构规避问题，暗示其报",
+      "width": 0.8773784418215697,
+      "x": 0.05496828122099819,
+      "y": 0.1860465117160156
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739463,
+      "text": "告“表面光鲜、内里糟粕，不仅无益问题解决，甚至可能带来更力严重后果”；for several decades 强调人文",
+      "width": 0.8773784418215698,
+      "x": 0.054968276367228064,
+      "y": 0.1656976746418919
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "教育非人文这一事实年淹日久，进一步凸显示拟定机构的“熟视无睹”，反衬作者强烈批驳意味。",
+      "width": 0.805496800448246,
+      "x": 0.054968308391098904,
+      "y": 0.14534883764455653
+    },
+    {
+      "confidence": 1,
+      "height": 0.016064870984930812,
+      "text": "③句借“当前高校教育弊端：探索精神严重缺失，人文社科已被用作左翼自由思想的宣传工具”说明",
+      "width": 0.8393234311392481,
+      "x": 0.09302326786438388,
+      "y": 0.12209302360628149
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017763157894736814,
+      "text": "②句“严重事实”。Sadly传递作者惋惜之情；once at home on campus”曾经在校园里如鱼得水的”用以表",
+      "width": 0.8794925733544361,
+      "x": 0.052854128826658076,
+      "y": 0.09999999970845908
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "示探索精神过去在高校被广为流传，发挥得淋漓尽致，而如今却灰飞烟灭；“progressive”加引号暗传讽刺",
+      "width": 0.8794925733544361,
+      "x": 0.05285412516210573,
+      "y": 0.08139534916950819
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906247189124,
+      "text": "41",
+      "width": 0.023255814080950787,
+      "x": 0.8942917544605816,
+      "y": 0.061046511934545133
+    }
+  ],
+  "vision_ocr_text": "一比对以判断对错”：先根据各选项核心关键词（［A］ American history、［B］ subjects、［C］ emerging\ntechnologies、LD」 foreign Ianguages）分别定位②句、③句、②句、④句；再仔细比对原文发现LA］\nexclusive篡改 particularly 之意、LBtheoretical无从对应、LDJfunding（源自③句而非④句，其）对象实\n为 teachers而非 study of foreign languages，唯有［C］application 对应 use、emerging 对应 digital，故\n正确。\n① Unfortunately, despite 2 ½ years in the\n不幸的是，虽历时两年半才拟定完成，\nmaking， \"The Heart of the Matter”\nnever gets to the\n《问题的核心》并未触及问题的核心：我们顶\nheart of the matter: the illiberal®\nnature of liberal\n级高等院校中人文教育“非人文”的本质。\neducation at our leading colleges and universities. ② The\n人文与社会科学委员会忽视了这样一个事\ncommission ignores that for several decades America's\n实：几十年来，美国高等院校培养出的毕业\ncolleges and universities have produced graduates who\n生并不知道人文教育的内涵和特征，因此也\ndon't know the content and character of liberal education\n无法从中受益。令人痛心的是，一度在校园\nand are thus deprived® of its benefits. ③ Sadly, the spirit\n里盛行的探索精神已经被“将人文和社会科\nof inquiry® once at home on campus has been replaced by\n学用作宣传‘革新的’或者说左翼自由思想\nthe use of the humanities and social sciences as vehicles®\n的工具”取代。\nfor publicizing “progressive®\n，\" or left-liberal propaganda.\n•词汇注释与难句分析。\n①illiberal ［rlbaral］a. 缺少人文教育的；无需人文教\n经典搭配\n育的\n①in the making（在发展中，在形成中）\n②deprive ［di prarv］v. 剥夺，夺去，使丧失\n②get to the heart of the matter（直击问题核心）\n③inquiry ［in'kwair］n. 调查，质询，探究\n③be deprived of（丧失，被剥夺）\n④vehicle ［ vikal］n. 工具，传播媒介\n④at home（驾轻就熟，运用自如）\n⑤ progressive Lpragresiv」a. 进步的，不断前进的\n• 语篇分析，\n第四五段阐明报告严重问题。\n第四段阐释报告未触及问题核心“人文教育非人文”。关键词为：never gets to the heart of the matter。\n①句（段群总起句）总括问题。句首评注性副词 Unfortunately一反上段 generally admirable 赞扬基\n调，开启下文批判口吻；despite 让步逻辑“虽历时两年半之久却从未触及问题核心”深层暗示“报告所定\n目标尽管值得称道，但很有可能于事无补，甚至可能得不偿失”；illiberal nature of liberal education 为矛\n盾修辞，鲜明传达“美国所谓的人文教育已然严重缺乏人文教育本该有的内涵及特点，其人文本质业已\n荡然无存”。注：2½ years in the making 源自相关表达 be a long time/ 10 years etc in the making\"制作时\n间很长/长达10年之久等”，故其意为“制作长达两年半之久”。\n②句借“报告拟定机构忽略‘数十年来，高校所培育的毕业生不懂人文教育、更无需说受益人文教\n育’这一严重事实”说明①句。ignores”（故意对知道的事）置之不理”明示拟定机构规避问题，暗示其报\n告“表面光鲜、内里糟粕，不仅无益问题解决，甚至可能带来更力严重后果”；for several decades 强调人文\n教育非人文这一事实年淹日久，进一步凸显示拟定机构的“熟视无睹”，反衬作者强烈批驳意味。\n③句借“当前高校教育弊端：探索精神严重缺失，人文社科已被用作左翼自由思想的宣传工具”说明\n②句“严重事实”。Sadly传递作者惋惜之情；once at home on campus”曾经在校园里如鱼得水的”用以表\n示探索精神过去在高校被广为流传，发挥得淋漓尽致，而如今却灰飞烟灭；“progressive”加引号暗传讽刺\n41",
+  "pdf_text_layer": "一 比对以判断对 错” ：先根据 各选项核 心 关键词（ [ A] Ame ri can hi s tory 、 ［ BJ s ubj ec t s 、［ CJ em erging\nt ec hn o l og i es 、 ［ DJ for eign l a n g u ag e s ）分 别 定位 ② 句、 ③ 句、 ② 句 、④句 ；再仔细比对原文 发 现 ［ A ]\nexclu s i ve篡改 par ti cu l a rl y 之意 、 ［ BJ th eore ti ca l 无从对应、 ［ DJ fundin g （源自③句 而非 ④ 句， 其 ）对象实\n为 t eac h ers而非 st ud y of for eig n languages, I惟 有［ C] a ppli ca tio n 对 应 u se 、 e m e rg ing 对 应 digit a l ，故\n正确 。\n\n     IV O Unfortunately, des pit e 2 Yz yea r s in th e                             不幸的是，虽历时两年半才拟定完成，\nm akin g , “ T h e H ea rt of th e M a tt er ” never gets to th e\n                                                                               《 问题的核心 》 并未触及问题的核心：我们顶\nhea rt of the m att er:       the illiberal(     na ture of libera l\n                                                                               级高等院校中人文教育“非人文”的本质 。\nedu ca ti o n at our leading co ll 巳ges a nd uni ve 1s iti es. @Th e\n                                                                               人文与社会科学委员会忽视了这样 一 个事\ncomm1 ss1on ignores that for severa l deca des A m eri ca ’ s\n                                                                               实：几十年来 ， 美国高等院校培养出的毕业\nco ll eges and uni versiti es have prod uced graduates w ho\n                                                                               生并不知道人文教育的内涵和特征，因此也\ndon ’ l know th 巳 content and charac t er of liberal edu cat ion\n                                                                               无法从中受益 。 令人痛心的是，一度在校园\na nd a r巳 t hu s deprived( o f its benefit s . @ Sadl y, t h e sp irit\n                                                                               里盛行的探索精神已经被“将人义和社会科\no f inquiry( once at hom e on ca m pus ha s b巴巴n r eplaced by\n                                                                               学用作宣传‘革新的 P 或者说左翼自由思想\nth e use of t he humaniti es and socia l sciences as vehicles®\n                                                                               的工具”取代 。\nfo r p ubli cizing “ progressive® ,” o r left - lib era l propaga nda.\n\n\n\n                                            ！ ？ 词汇注在主难旬分析：.＿：                       ti\n( illiberal [ 11l1baral ］ α 缺少人文教育的 ； 无需人文教                     ~   · 经典搭配\n育的                                                              ~   (    111   th e makin g( f:E 发展汇j:1 ，在形成 中 ）\n( deprive [ ci11pra1v] v. 剥 夺，夺去 ， 使丧失                          <   ( ge t to th e hea\n( inquiry [ 1n1kwam] n. 调查 ，质询 ， 探究                             >   ( be deprived o f （丧失 ，被剥 夺）\n@ vehicle [ 'v i:1kal] n . 工具？传播媒 介                             ~   ( at ho m e （驾轻就熟，运 用自如）\n( progressive [ pra'g陀siv ］ α 进步的 ， 不 断前进的\n\n                                                    : ·）毒篇分析＜ II\n      第四五段阐明报告严重问题。\n\n     第四段阐释报告未触及问题核心“人文教育非人文”。关键词为： never ge臼 to the heart of the matter。\n     ①旬（段群总起旬）总括问题。 句 首 评注性副词 Unfortunat e l y 一 反上段 ge nera lly a dmirabl e 赞扬基\n调 ， 7干启下 文 批判口吻； d es pite 让步逻辑“ 虽历 时两 年半之久去｜］从 未 触 及 问题核心” 深层暗示“报告所定\n\n目标尽管值得称道，但很有可能于事无 补 ，甚至可 能 得不偿失” ； illi I咒ral na ture of libera l edu cat i o n 为矛\n\n盾修辞，鲜明传达“美国所谓的人文教育已然严重 缺 乏人文教育本该有的 内涵及特 点，其 人文本质业已\n\n荡然无存” 。 注： 21/2 years in th e m a kin g i源自相关表达 b e a long tim e/ 10 years et c in th e m a king“ 制作时\n\n间很 长 ／ 长达 10 年之久等”，故其意为“ 制 作妖达两年半之久” 。\n\n     ②旬借“报告拟定机构忽略‘数十年来 ， 高校所培育的毕业生不懂人文教育、更无需说受益人文教\n育’这一严重事实”说明①旬。 i g nor es “（故 意 对知道的 事 ） 置之不 盟”明 示 拟定机构规避问题，暗 示其 报\n告“表面 光鲜、内里糟柏 ，不仅元报 问 题解决，甚至可 能 带来更为严重后果” ； for se vera l d ecad es 强调人文\n\n教育非人文这一事实年淹 日久，进 一 步凸显示 拟定机构的 “熟视无 H者 ”，反衬 作者强烈批驳 意 味 。\n\n     ③旬借“当前高校教育弊端：探索精神严重缺失，人文社科已被用作左翼自由思想的宣传工具”说明\n②旬“严重事实”。 Sa dl y 传递作者惋惜之情 ； o n ce at home on ca mpu s“曾 经在 校园 里 如 鱼得 水的”用以表\n示探索精 神过 去在高校被广为流传，发挥得 淋漓尽致，而如 今 却 灰飞烟灭 ； “ progr ess i ve”力I] 引号暗传讽 刺\n\n                                                                                                                   41",
+  "quality": {
+    "vision_line_count": 58,
+    "vision_character_count": 2186,
+    "pdf_text_character_count": 3815,
+    "nonempty": true
+  }
+}

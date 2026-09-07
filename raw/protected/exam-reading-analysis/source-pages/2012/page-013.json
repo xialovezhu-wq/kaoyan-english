@@ -1,0 +1,470 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P013",
+  "year": 2012,
+  "pdf_page": 13,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "是这一运动的驱动力，一旦政府停止资助，该运动就立即失效”，深层之意为“怒对烟雾运动产生效用并",
+      "width": 0.875,
+      "x": 0.05084746637711846,
+      "y": 0.9183006533920267
+    },
+    {
+      "confidence": 1,
+      "height": 0.017723058563431815,
+      "text": "非源于对同侪压力的有力调动，而是源于政府财政支持”。",
+      "width": 0.4851694742838542,
+      "x": 0.05084747225955582,
+      "y": 0.8953488369622876
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "⑤句说明“珍爱生命”活动的效果：证据有限，且证据好坏兼有。limited表明证据不足；mixed 借and",
+      "width": 0.8368643624441965,
+      "x": 0.09110170662218166,
+      "y": 0.8749999999346714
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "的语义递进指出“现有的有限证据也是有好有坏，并非全部证明珍爱生命活动能够产生持久变化”。",
+      "width": 0.8326270693824405,
+      "x": 0.05084749266577102,
+      "y": 0.854651163265384
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "【深层解读】本段重在批驳“书作本身未能充分探究同侪压力的作用机制”：全段语义链条实为“④⑤",
+      "width": 0.8389830380394345,
+      "x": 0.08898304676418126,
+      "y": 0.8326797388083232
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "句例证③句，③句说明②句，②句解释①句”；且根据末四句代词指代（Join the Club/ here）和内容从属",
+      "width": 0.875,
+      "x": 0.0508474560805085,
+      "y": 0.8124183006830169
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "（Rage Against the Haze、loveLife 从属于Join the Club）可知其论述“从书作自身人手”：作者于④⑤句中指出",
+      "width": 0.875,
+      "x": 0.048728819809321984,
+      "y": 0.7906976743608175
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "罗森伯格本用于佐证自身观点“通过正面引导同侪压力进行社会治疗”的两个运动实例强调“Rosenberg 书",
+      "width": 0.875,
+      "x": 0.05084746637711846,
+      "y": 0.7686274510675624
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "作未能探究同侪压力的作用机制”，表明“其在社会治疗运动效力问题上大大缺乏说服力”。",
+      "width": 0.7478813244047618,
+      "x": 0.05084747962318385,
+      "y": 0.7470588236284985
+    },
+    {
+      "confidence": 1,
+      "height": 0.018131842021069544,
+      "text": "真题精解",
+      "width": 0.09560223533993673,
+      "x": 0.42147854453865163,
+      "y": 0.7191317534167068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014667881859673493,
+      "text": "23. In the author's view, Rosenberg's book fails to",
+      "width": 0.3961864362444196,
+      "x": 0.06144068014756418,
+      "y": 0.6830065361113449
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014684981925814689,
+      "text": "—．",
+      "width": 0.025423727489653047,
+      "x": 0.5021186447297498,
+      "y": 0.6787790703405128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "23. 作者认为罗森伯格的书未能",
+      "width": 0.27330508277529764,
+      "x": 0.5699152530826902,
+      "y": 0.6816860462212826
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0117780055875093,
+      "text": "_。",
+      "width": 0.021186439877464602,
+      "x": 0.8961864408133864,
+      "y": 0.681686046627398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013250493691637555,
+      "text": "［A］ adequately probe social and biological factors",
+      "width": 0.41737287248883925,
+      "x": 0.05932204354901241,
+      "y": 0.654069767786281
+    },
+    {
+      "confidence": 1,
+      "height": 0.014703981860790472,
+      "text": "［A］充分探究社会和生物因素",
+      "width": 0.25847458612351193,
+      "x": 0.5699152476956594,
+      "y": 0.6526162793884778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "［B］ effectively evade the flaws of the social cure",
+      "width": 0.40677963983444937,
+      "x": 0.061440681848312285,
+      "y": 0.6220930238894469
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "［B］有效避免社会治疗的缺点",
+      "width": 0.2563559395926339,
+      "x": 0.5699152523737798,
+      "y": 0.622093023709491
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013147894541422511,
+      "text": "［C］ illustrate the functions of state funding",
+      "width": 0.3644067673456101,
+      "x": 0.061440688625923646,
+      "y": 0.5915032677958431
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "LC］说明政府基金的功能",
+      "width": 0.21822033110119043,
+      "x": 0.569915256673981,
+      "y": 0.5901162793158035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013343592874364818,
+      "text": "［D］ produce a long-lasting social effect",
+      "width": 0.3262711879185268,
+      "x": 0.061440680489889106,
+      "y": 0.5607843138560693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014650782416848585,
+      "text": "［D］产生长期的社会效应",
+      "width": 0.21822033110119043,
+      "x": 0.5699152595420954,
+      "y": 0.5594771242411852
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "［精准定位］第四段②句指出：《加人俱乐部》一书无关细节过多，却没能充分探究使同侪压力发挥如",
+      "width": 0.8347457449776785,
+      "x": 0.08898306567702029,
+      "y": 0.5287581701957594
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "此强大作用的社会和生物因素。故［A］正确。",
+      "width": 0.38347455705915173,
+      "x": 0.04872881837190727,
+      "y": 0.5071895426900775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "［命题解密］题干十正确项LA］是对第四段②句的改写，其中 Rosenberg's book 对应原文 Join the",
+      "width": 0.8368643624441964,
+      "x": 0.088983074222817,
+      "y": 0.48546511598872444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013168794345232437,
+      "text": "Club; fails to adequately probe... 同义改写文中 is filled with...not enough exploration of.⋯。",
+      "width": 0.7966101655505952,
+      "x": 0.048728823495888654,
+      "y": 0.46656976774631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［B］利用③句 flaw of the social cure、it doesn't work very well 捏造出“未能避免社会治疗的缺陷”，",
+      "width": 0.8368644205729167,
+      "x": 0.08898305092469974,
+      "y": 0.44313725499628087
+    },
+    {
+      "confidence": 1,
+      "height": 0.017704058628456254,
+      "text": "而文意实为“书作反映了社会治疗最明显的缺陷”。［C］利用④句意在说明“社会治疗效力不能持续”而",
+      "width": 0.872881324404762,
+      "x": 0.05084747307304275,
+      "y": 0.421511627659962
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946567,
+      "text": "列举事例“政府基金一削减，禁烟运动就失效”中的“政府基金”捏造出“该书未能阐明政府基金的作用”。",
+      "width": 0.8771186174665179,
+      "x": 0.04872883416928332,
+      "y": 0.40116279057932513
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610882678063097,
+      "text": "［D］将③句 it doesn't work very well for very long.⑤句 evidence that... produces lasting changes is limited",
+      "width": 0.8771186174665178,
+      "x": 0.050847481891740764,
+      "y": 0.3808139539887686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "and mixed 意在说明的“社会治疗未能产生长期效果”曲解为“书作未能产生长期社会效应”。",
+      "width": 0.7754237002418154,
+      "x": 0.048728835599431156,
+      "y": 0.3575163398982725
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "［技巧总结］本题实则考查事实细节。而正确定位是解答关键。可借题干关键词定位大局，并据大",
+      "width": 0.8368643624441964,
+      "x": 0.08898307277684256,
+      "y": 0.3357558141425202
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "局主旨信息推断正确答案。如本题，首先，借题干关键词 fails to 可知，重在考查作者对罗森伯格书作的",
+      "width": 0.8750000000000001,
+      "x": 0.048728804809322214,
+      "y": 0.31540697654105
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "批判性信息，而第四段借But展开批驳，就此可将解题信息定位至第四段；其次，通过分析段落结构不难",
+      "width": 0.875,
+      "x": 0.04872880730932209,
+      "y": 0.29346405256280494
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017740158006256723,
+      "text": "发现，本段实质按照“总论点（①句）一分论点1（②句）、分论点2（③④⑤句）”的逻辑展开，其中④⑤句力",
+      "width": 0.875,
+      "x": 0.04872881404661019,
+      "y": 0.2718023253779853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "举例论证③句，而且分论点2实为分论点1服务。因此可重点阅读②③句，尤其②句，并对比选项发现",
+      "width": 0.8749999999999999,
+      "x": 0.0487288062676555,
+      "y": 0.2514534881810694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016172373528573925,
+      "text": "［AJ符合文意。",
+      "width": 0.12716754731677826,
+      "x": 0.048704363205970096,
+      "y": 0.22955916240095575
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011916704738841322,
+      "text": "V ①There's no doubt that our peer groups exert",
+      "width": 0.4088982863653273,
+      "x": 0.09322035345398869,
+      "y": 0.1973856207267839
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "毫无疑问，同伴群体对我们的行为施以巨",
+      "width": 0.3559322102864583,
+      "x": 0.5635593218906692,
+      "y": 0.19019607812735373
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013136494705100477,
+      "text": "enormous influence on our behavior.",
+      "width": 0.30932201567150297,
+      "x": 0.05084747060704504,
+      "y": 0.17581699335890932
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013282793955086136,
+      "text": "② An emerging",
+      "width": 0.1398304966517857,
+      "x": 0.3622881429170449,
+      "y": 0.17712418271720842
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "大影响。不断涌现的大量新研究表明，积极的",
+      "width": 0.3961864362444196,
+      "x": 0.5233050909244003,
+      "y": 0.16715116276198017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013250493691637666,
+      "text": "body of research shows",
+      "width": 0.19703389485677084,
+      "x": 0.050847462635173805,
+      "y": 0.1540697678044497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01179700552248486,
+      "text": "that positive health habits",
+      "width": 0.22033897763206844,
+      "x": 0.2457627182461125,
+      "y": 0.1555232560508477
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007381440767275649,
+      "text": "aS",
+      "width": 0.03813559032621838,
+      "x": 0.4639830529301111,
+      "y": 0.1568627451562178
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "健康习惯——连同消极的健康习惯——都会通",
+      "width": 0.3961864362444196,
+      "x": 0.5233050905907138,
+      "y": 0.14825581452655923
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906599855131,
+      "text": "well as negative",
+      "width": 0.14406778971354164,
+      "x": 0.05084746347656243,
+      "y": 0.13372093046945233
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013337893267862166,
+      "text": "ones—spread through networks of",
+      "width": 0.30932201567150297,
+      "x": 0.19279661541636728,
+      "y": 0.13372093043162991
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "过社交在朋友圈中传播。这是同侪压力的一种",
+      "width": 0.3961864362444196,
+      "x": 0.5233050902640896,
+      "y": 0.12483660126151475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "friends via social communication. ⑧@This is a subtle®",
+      "width": 0.4470338948567708,
+      "x": 0.05084746651935445,
+      "y": 0.11307189568158038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610882678063097,
+      "text": "隐秘形式：我们在无意识地模仿我们每天看到",
+      "width": 0.3961864362444196,
+      "x": 0.5233050847803327,
+      "y": 0.10457516329683114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01655127332101458,
+      "text": "form of peer pressure：",
+      "width": 0.19792185465494794,
+      "x": 0.05025100227687647,
+      "y": 0.08835912049238825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013147894541422511,
+      "text": "we unconsciously imitate the",
+      "width": 0.24999999999999994,
+      "x": 0.2521186451271186,
+      "y": 0.09150326817738375
+    },
+    {
+      "confidence": 1,
+      "height": 0.014536783430311395,
+      "text": "的行为。",
+      "width": 0.07203389485677081,
+      "x": 0.5233050871902586,
+      "y": 0.08284883762975681
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013239093855315631,
+      "text": "behavior we see every day.",
+      "width": 0.2266949026925223,
+      "x": 0.05084746674166251,
+      "y": 0.06976744213221098
+    },
+    {
+      "confidence": 1,
+      "height": 0.011804605621138387,
+      "text": "13",
+      "width": 0.023305084591820124,
+      "x": 0.8877118647168017,
+      "y": 0.045058139781467665
+    }
+  ],
+  "vision_ocr_text": "是这一运动的驱动力，一旦政府停止资助，该运动就立即失效”，深层之意为“怒对烟雾运动产生效用并\n非源于对同侪压力的有力调动，而是源于政府财政支持”。\n⑤句说明“珍爱生命”活动的效果：证据有限，且证据好坏兼有。limited表明证据不足；mixed 借and\n的语义递进指出“现有的有限证据也是有好有坏，并非全部证明珍爱生命活动能够产生持久变化”。\n【深层解读】本段重在批驳“书作本身未能充分探究同侪压力的作用机制”：全段语义链条实为“④⑤\n句例证③句，③句说明②句，②句解释①句”；且根据末四句代词指代（Join the Club/ here）和内容从属\n（Rage Against the Haze、loveLife 从属于Join the Club）可知其论述“从书作自身人手”：作者于④⑤句中指出\n罗森伯格本用于佐证自身观点“通过正面引导同侪压力进行社会治疗”的两个运动实例强调“Rosenberg 书\n作未能探究同侪压力的作用机制”，表明“其在社会治疗运动效力问题上大大缺乏说服力”。\n真题精解\n23. In the author's view, Rosenberg's book fails to\n—．\n23. 作者认为罗森伯格的书未能\n_。\n［A］ adequately probe social and biological factors\n［A］充分探究社会和生物因素\n［B］ effectively evade the flaws of the social cure\n［B］有效避免社会治疗的缺点\n［C］ illustrate the functions of state funding\nLC］说明政府基金的功能\n［D］ produce a long-lasting social effect\n［D］产生长期的社会效应\n［精准定位］第四段②句指出：《加人俱乐部》一书无关细节过多，却没能充分探究使同侪压力发挥如\n此强大作用的社会和生物因素。故［A］正确。\n［命题解密］题干十正确项LA］是对第四段②句的改写，其中 Rosenberg's book 对应原文 Join the\nClub; fails to adequately probe... 同义改写文中 is filled with...not enough exploration of.⋯。\n［B］利用③句 flaw of the social cure、it doesn't work very well 捏造出“未能避免社会治疗的缺陷”，\n而文意实为“书作反映了社会治疗最明显的缺陷”。［C］利用④句意在说明“社会治疗效力不能持续”而\n列举事例“政府基金一削减，禁烟运动就失效”中的“政府基金”捏造出“该书未能阐明政府基金的作用”。\n［D］将③句 it doesn't work very well for very long.⑤句 evidence that... produces lasting changes is limited\nand mixed 意在说明的“社会治疗未能产生长期效果”曲解为“书作未能产生长期社会效应”。\n［技巧总结］本题实则考查事实细节。而正确定位是解答关键。可借题干关键词定位大局，并据大\n局主旨信息推断正确答案。如本题，首先，借题干关键词 fails to 可知，重在考查作者对罗森伯格书作的\n批判性信息，而第四段借But展开批驳，就此可将解题信息定位至第四段；其次，通过分析段落结构不难\n发现，本段实质按照“总论点（①句）一分论点1（②句）、分论点2（③④⑤句）”的逻辑展开，其中④⑤句力\n举例论证③句，而且分论点2实为分论点1服务。因此可重点阅读②③句，尤其②句，并对比选项发现\n［AJ符合文意。\nV ①There's no doubt that our peer groups exert\n毫无疑问，同伴群体对我们的行为施以巨\nenormous influence on our behavior.\n② An emerging\n大影响。不断涌现的大量新研究表明，积极的\nbody of research shows\nthat positive health habits\naS\n健康习惯——连同消极的健康习惯——都会通\nwell as negative\nones—spread through networks of\n过社交在朋友圈中传播。这是同侪压力的一种\nfriends via social communication. ⑧@This is a subtle®\n隐秘形式：我们在无意识地模仿我们每天看到\nform of peer pressure：\nwe unconsciously imitate the\n的行为。\nbehavior we see every day.\n13",
+  "pdf_text_layer": "是这一运动的驱动力， 一旦 政府停止资助，该运动就 立 即 失效”，深层之意为“怒对烟雾运动产生效用并\n非源 于对同侨压力 的 有力调动，而是源于政府财政支持”。\n     ⑤ 旬说明“珍爱生命”活动的效果：证据有限，且证据好坏兼有。 limite d 表明证据不 足； mixed 借 and\n的语义递进指出“现 有 的 有 限证据也 是有好有坏，并非全部证明珍爱生命活动能够产生持久变 化” 。\n\n     【深层解读】本段重在批驳“书作本身未能充分探究同侨压力的作用机制”：全段语义链条实为 “ ④⑤\n句例证① 句， ③ 句说明 ② 句 ，②句解释①句” ； 且根据末 四句代同 指代 （］ oin the CLub / here ）和｜内 容从属\n( Rage Against t he H aze 、 l oveLife 从属于 ］ oin the CLub ） 可知其论述“从书作自身入手” ： 作者于④⑤句中指出\n罗森伯格本用于佐证自身观点“通过正面引导同侨压力进行社会治疗”的两个运动 实例强调 “ Rosenb erg 书\n\n作 未能探究同侨压力的作用机制”，表明“其在社会治疗运动效力问题上大大缺乏说服力” 。\n\n\n                                                 :>)i题精：解＜ 1'\n 23. In the author’s view, Rosenberg’s book fails to                  23. 作者认为罗森伯格的书未能                             。\n\n\n\n\n [ A] adequate ly probe socia l and bi ologica l factors              [ A ］ 充分探 究社会 和生物因 素\n\n [BJ effecti 、吐y evade t he fl aws of the social cure                 [BJ 有效避免社会治疗 的缺点\n\n [CJ illu s t rate the functions of sta te funding                    [CJ 说明政府基金的功能\n\n [ DJ produce a long- lasting soc ia l eff ect                        [ DJ 产生长期的 社会效应\n\n     ［精准定位］ 第四段②句指出 ： 《 力I] 入俱乐部》一 书无关细节过多，却没能充分探究使同侨压力发挥如\n\n此强大作用的 社会和生物因素。故［ A］ 正确。\n     ［命题解密］ 题干＋正确项［ A ］是对第四段②句的改写，其中 Rose nb erg ’ s book 对应原文 Joiη the\nClub; fails to adequately probe . ..同义改写文中 i s fi lled with ... not enough explorat ion of. .. 。\n     [BJ 利用 ③ 句 flaw of the socia l c ur e 、 i t doesn 't work very we ll 捏造出“未能避免社会治疗的缺陷”，\n\n而 文意实为“书 作 反映了社会治疗最明显的缺陷”。［ CJ 利用④句意在说明“社会治疗效力不能持续”而\n列 举事 例“政府 基金一 削 减，禁烟运动就失效”中的“政府基金”捏造出“该书未能阐明政府基金的作用”。\n[DJ 将 ③ 句 it does n ' t wo rk ve ry we ll for very long 、 ⑤ 句 巳vid e nc e that ... produces lasting changes is limited\n\nand m i xed 意在 说明的“社 会治疗未能产生长 期效果” rl1:J frlr（，为“书作未能产生长期社会效应”。\n     ［技巧总结］ 本题实 则 考查事实细节。 而正确 定位是解答关键。可借题干关键词定位大局，并据大\n局主旨信息推断正确 答案。 如本题， 首先 ，借题干关键词 fail s to 可知， 重在考查 作者对罗森伯格书作的\n批判性 信息， 而 第四段借 B ut 展开 批 驳，就 此 可将解题信息定位至第 四 段；其次，通过分析段落结 构 不 难\n发现，本段实质按照“总论点（①句〉→分论点 1( ② 句）、分论点 2 （ ③④⑤ 句）”的逻辑展开， 其中④⑤ 句为\n举 例论证 ③句， 而 且分论点 2 实为分论点 l 服 务。因 此 可重点 阅 读②③句，尤其②句，并对比选项发现\n\n[A］符合文意。\n\n\n     Y'. OThere's no doubt that o ur peer gro ups exert              毫无疑 问 ，同伴群体对我们的行为施以 巨\nenormous influ ence on our behavior.       8 An emerging        大影响 。 不断涌现的大量新研究表明，积极的\nbody of r巳 sea r c h shows that positive hea lth ha bits- as\n                                                               健康习惯 一一连同消极的健康习惯一一都会通\nwell as negat ive   on 巴 s - spread   t hrough net works of\n                                                               过社交在朋友圈中传播 。 这是同份压力的 一 种\nfriend s via socia l communication. ＠ 困 This is a subtle①\n                                                                隐私、形式：我们在无意识地模仿我们每天看到\nform of peer press ure , we unconscious ly imitate the\n                                                               的行为 。\nbehavior we see every clay.\n\n                                                                                                                 13",
+  "quality": {
+    "vision_line_count": 56,
+    "vision_character_count": 2005,
+    "pdf_text_character_count": 2883,
+    "nonempty": true
+  }
+}

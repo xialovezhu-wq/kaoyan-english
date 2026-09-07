@@ -1,0 +1,550 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P020",
+  "year": 2013,
+  "pdf_page": 20,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.013081394769007826,
+      "text": "皿",
+      "width": 0.014830508304916279,
+      "x": 0.11228813557211814,
+      "y": 0.9127906980951472
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014712141074386231,
+      "text": "1 In December 2010 America's Federal Trade",
+      "width": 0.3815293930869066,
+      "x": 0.13975636165584074,
+      "y": 0.9141850839950258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "2010年12月，美国联邦贸易委员会（FTC）",
+      "width": 0.3601694762251759,
+      "x": 0.582627124864107,
+      "y": 0.9052287583614648
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017229659884583692,
+      "text": "Commission （FTC） proposed adding a “do not track”",
+      "width": 0.44947750877788045,
+      "x": 0.07191006095389946,
+      "y": 0.89127112358536
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "建议在互联网浏览器中添加“禁止追踪",
+      "width": 0.3961864209357109,
+      "x": 0.544491531332992,
+      "y": 0.8866279067445384
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014688781663483308,
+      "text": "（DNT） option to internet browsers®， so that users could",
+      "width": 0.45127117360821206,
+      "x": 0.07203390631030064,
+      "y": 0.8735465122615398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "（DNT）”选项，以便用户可以告知广告商他们",
+      "width": 0.3961864209357109,
+      "x": 0.5444915337906191,
+      "y": 0.8647058825119636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013191594017876507,
+      "text": "tell advertisers that they did not want to be followed.",
+      "width": 0.44915253151464096,
+      "x": 0.06991525218053286,
+      "y": 0.8516339870148832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "不想被追踪。微软的IE 浏览器以及苹果的",
+      "width": 0.39406777884213984,
+      "x": 0.5466101769984216,
+      "y": 0.8444444442822165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "② Microsoft's Internet Explorer and Apple 's Salari both",
+      "width": 0.45338981570178305,
+      "x": 0.06991526617453211,
+      "y": 0.8299418609437104
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014626082875370261,
+      "text": "Safari浏览器都提供了DNT；谷歌的 Chrome 浏",
+      "width": 0.3961864209357109,
+      "x": 0.5444915381247596,
+      "y": 0.8254901958860689
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "offer DNT; Google's Chrome is due to do so this year.",
+      "width": 0.45127117360821206,
+      "x": 0.06991526441411426,
+      "y": 0.8078431371752732
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "览器今年也将这么做。2月份，FTC 和数字广",
+      "width": 0.3940677788421397,
+      "x": 0.5466101783049189,
+      "y": 0.8037790695037439
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011770405488855773,
+      "text": "③ In February the FTC and the Digital Advertising",
+      "width": 0.45127117360821206,
+      "x": 0.07203390923402947,
+      "y": 0.792151163008212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "告联盟（DAA）达成共识：希望该行业继续加快",
+      "width": 0.3961864209357109,
+      "x": 0.5466101843149834,
+      "y": 0.7834302331418375
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.022522533641141984,
+      "text": "Alliance®（DAA）agreed that Jhe indusury would get",
+      "width": 0.45381420805254064,
+      "x": 0.06969446088482882,
+      "y": 0.7644200721664574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "响应 DNT请求。",
+      "width": 0.144067793402053,
+      "x": 0.544491528426092,
+      "y": 0.7614379085832758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011945204017988154,
+      "text": "cracking on responding to DNT requests.",
+      "width": 0.32203388942106986,
+      "x": 0.0720339067725158,
+      "y": 0.7514534885968748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.22033898157017834,
+      "x": 0.38135593285897856,
+      "y": 0.7091503267543291
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013360692940506125,
+      "text": "①browser ［'brauza］n. 浏览器",
+      "width": 0.23305084869151804,
+      "x": 0.07203390060127483,
+      "y": 0.6843137254650733
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013360692940506347,
+      "text": "②internet browser（互联网浏览器）",
+      "width": 0.2669491367485687,
+      "x": 0.5360169592740206,
+      "y": 0.6843137254347922
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017753126107010297,
+      "text": "②alliance ［o'larons］n.联盟，联合",
+      "width": 0.26321582939788585,
+      "x": 0.06967254327171886,
+      "y": 0.662321908187216
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "③due to do sth（预定做某事）",
+      "width": 0.22669490785089152,
+      "x": 0.5338983059527322,
+      "y": 0.664052287733611
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013717979231691046,
+      "text": "• 经典搭配",
+      "width": 0.10609633321980484,
+      "x": 0.06983318843848317,
+      "y": 0.6377631033279357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "④get crack on（加快做某事的速度）",
+      "width": 0.2796610184298216,
+      "x": 0.533898301537208,
+      "y": 0.6437908494878437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013313193103067333,
+      "text": "①Federal Trade Commission（FTC，美国联邦贸易委员会）",
+      "width": 0.41101694471053496,
+      "x": 0.06991525303315069,
+      "y": 0.6189542484069211
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013391092711803942,
+      "text": "⑤respond to（对⋯⋯做出反应）",
+      "width": 0.23940677497223128,
+      "x": 0.5360169532069837,
+      "y": 0.6261437907918861
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "In December 2010 America's Federal Trade Commission （FTC） proposed adding a “do not track”（DNT）",
+      "width": 0.8368643840760676,
+      "x": 0.11228815391888702,
+      "y": 0.579738561874263
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01319729424769589,
+      "text": "option to internet browsers, so that users could tell advertisers that they did not want to be followed.",
+      "width": 0.7733050630292819,
+      "x": 0.07203392205174274,
+      "y": 0.5594771240428158
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015032679738562149,
+      "text": "句子主干：",
+      "width": 0.08898304800950844,
+      "x": 0.09745762917321187,
+      "y": 0.5346405225694476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "In December 2010 America's Federal Trade Commission （FTC） proposed",
+      "width": 0.6101695053450025,
+      "x": 0.19279660936139703,
+      "y": 0.5319767441573291
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "（时间状语）",
+      "width": 0.10169491513084822,
+      "x": 0.2203389837481352,
+      "y": 0.51568627471294
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "主语",
+      "width": 0.04872881183187472,
+      "x": 0.5042372888051078,
+      "y": 0.5156862747613896
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "谓语",
+      "width": 0.04237288191118305,
+      "x": 0.7478813560783067,
+      "y": 0.5156862748144101
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "adding a \"do not track” （DNT） option to internet browsers",
+      "width": 0.4661016973830362,
+      "x": 0.19491525688757794,
+      "y": 0.4941176468004794
+    },
+    {
+      "confidence": 1,
+      "height": 0.014782533458634894,
+      "text": "动名词做宾语",
+      "width": 0.12082592039617868,
+      "x": 0.3792056848763754,
+      "y": 0.4766203615599274
+    },
+    {
+      "confidence": 1,
+      "height": 0.01551738190495111,
+      "text": "结果状语从句",
+      "width": 0.11889303367556509,
+      "x": 0.34733314333030796,
+      "y": 0.4573575880412669
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01620885125951832,
+      "text": "宾语从句",
+      "width": 0.08271775718863683,
+      "x": 0.5698699355547806,
+      "y": 0.45628510963986957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "so that users could tell advertisers",
+      "width": 0.29449151308481925,
+      "x": 0.19067796859000571,
+      "y": 0.4372549016561782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790659985502,
+      "text": "that",
+      "width": 0.033898302616963805,
+      "x": 0.5699152558949079,
+      "y": 0.4389534885968748
+    },
+    {
+      "confidence": 1,
+      "height": 0.017694558660968474,
+      "text": "they",
+      "width": 0.03813559408406264,
+      "x": 0.6292372873859349,
+      "y": 0.4345930231783728
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790659985502,
+      "text": "/ did not want",
+      "width": 0.12076270853290128,
+      "x": 0.661016951680886,
+      "y": 0.43895348862283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906599855131,
+      "text": "to be followed",
+      "width": 0.11864406643933012,
+      "x": 0.7966101700901277,
+      "y": 0.4389534885734575
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015293305839588434,
+      "text": "引导词 主语",
+      "width": 0.10826353262398988,
+      "x": 0.19480891242492812,
+      "y": 0.4196789285432664
+    },
+    {
+      "confidence": 1,
+      "height": 0.01327519385643261,
+      "text": "谓语",
+      "width": 0.04872881183187472,
+      "x": 0.3241525426274949,
+      "y": 0.4200581397702926
+    },
+    {
+      "confidence": 1,
+      "height": 0.014651187572603863,
+      "text": "间接宾语",
+      "width": 0.0805532076886592,
+      "x": 0.4025200069000299,
+      "y": 0.41999998767217006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017688747480803846,
+      "text": "引导词 主语",
+      "width": 0.11277950083026456,
+      "x": 0.5548390637655164,
+      "y": 0.4177544635510253
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "谓语",
+      "width": 0.03813559408406264,
+      "x": 0.7161016947217399,
+      "y": 0.41830065329055666
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "不定式做宾语",
+      "width": 0.12076270853290128,
+      "x": 0.7987288162314307,
+      "y": 0.41830065329055655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "功能注释：本句介绍 FTC提议，主句说明提议内容“将 DNT加人浏览器”，so that 引出目的“用户可",
+      "width": 0.8368643840760676,
+      "x": 0.11016949450857652,
+      "y": 0.3938953487210085
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860523099262,
+      "text": "以自主选择不被广告商跟踪”。句中 FTC, internet browser developers,users, advertisers 四者关系如",
+      "width": 0.875,
+      "x": 0.072033894809322,
+      "y": 0.3735465114244969
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "下：FTC 建议 internet browser developers 添加 DNT->users 通过 DNT 告诉 advertisers 不愿被追踪。",
+      "width": 0.8453389524503518,
+      "x": 0.07415256612651877,
+      "y": 0.35294117642714007
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02559305078843066,
+      "text": "•语篇分析•》",
+      "width": 0.16193771362304693,
+      "x": 0.4341622687956617,
+      "y": 0.31990499891785873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "第三段介绍争议处理方案及实施状况。关键词有：①proposed；② responding。",
+      "width": 0.6440677788421398,
+      "x": 0.11228813926537086,
+      "y": 0.29934640530166756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "①句介绍方案内容：将 DNT 加入浏览器以供用户自主选择。proposed”提议，建议”暗示这并非法律条",
+      "width": 0.8389830261696386,
+      "x": 0.11016951435162113,
+      "y": 0.2790697680255584
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "案，所以不具有严格约束力；tell 明示用户并非都乐意被跟踪、被推送广告，佐证上段 Should...Or",
+      "width": 0.8792372841871422,
+      "x": 0.07203389157168337,
+      "y": 0.2587209302619803
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "should...言外之意“广告商不能擅自认为用户非常乐意被追踪并收到行为广告，而应征得用户明确许可”。",
+      "width": 0.877118642093571,
+      "x": 0.07203390660151941,
+      "y": 0.23837209292913153
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "②③句介绍方案实施情况。",
+      "width": 0.2330508486915181,
+      "x": 0.11016949323898668,
+      "y": 0.21802325569802672
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "②句介绍三大浏览器开发商的反响：微软、苹果、谷歌业已或即将添加 DNT选项。分号形并列对",
+      "width": 0.8368643840760676,
+      "x": 0.11016949450857652,
+      "y": 0.1973856209149153
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015992171468298455,
+      "text": "比，却暗藏深意：浏览器开发商对 DNT提议反响时间有先有后，或为“依样学样”，或力“先发制人”，究觉",
+      "width": 0.8728813579064288,
+      "x": 0.07415255086670056,
+      "y": 0.1787790704601515
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "为何，就此设置悬念。",
+      "width": 0.18008473811258796,
+      "x": 0.07203390393099411,
+      "y": 0.15816993471300156
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016339869281045805,
+      "text": "③句指出 DAA与 FTC达成共识：浏览器行业应加快响应 DNT请求。In February （2012）呼应①句",
+      "width": 0.8368643840760676,
+      "x": 0.11016950616111876,
+      "y": 0.13660130727608621
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014620382645550878,
+      "text": "In December 2010，表明 DNT 自2010年12月提议以来，历经一年多才获得DAA 支持，暗示 DAA站位",
+      "width": 0.8792372841871421,
+      "x": 0.06991526386511521,
+      "y": 0.11764705864184333
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "偏倚广告商；get cracking on 既含有 start doing sth quickly（立即着手做某事）之意，又含 do sth with",
+      "width": 0.877118642093571,
+      "x": 0.07203389198287553,
+      "y": 0.09738372073920909
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "increased speed（加快做某事的速度，赶快继续做某事），此处鉴于互联网浏览器行业对 DNT 提议业已做",
+      "width": 0.8792372841871422,
+      "x": 0.06991525674117469,
+      "y": 0.07703488343058496
+    },
+    {
+      "confidence": 1,
+      "height": 0.01045751602821099,
+      "text": "20",
+      "width": 0.021186440955591565,
+      "x": 0.08686440642898388,
+      "y": 0.05947712430293883
+    }
+  ],
+  "vision_ocr_text": "皿\n1 In December 2010 America's Federal Trade\n2010年12月，美国联邦贸易委员会（FTC）\nCommission （FTC） proposed adding a “do not track”\n建议在互联网浏览器中添加“禁止追踪\n（DNT） option to internet browsers®， so that users could\n（DNT）”选项，以便用户可以告知广告商他们\ntell advertisers that they did not want to be followed.\n不想被追踪。微软的IE 浏览器以及苹果的\n② Microsoft's Internet Explorer and Apple 's Salari both\nSafari浏览器都提供了DNT；谷歌的 Chrome 浏\noffer DNT; Google's Chrome is due to do so this year.\n览器今年也将这么做。2月份，FTC 和数字广\n③ In February the FTC and the Digital Advertising\n告联盟（DAA）达成共识：希望该行业继续加快\nAlliance®（DAA）agreed that Jhe indusury would get\n响应 DNT请求。\ncracking on responding to DNT requests.\n•词汇注释与难句分析。\n①browser ［'brauza］n. 浏览器\n②internet browser（互联网浏览器）\n②alliance ［o'larons］n.联盟，联合\n③due to do sth（预定做某事）\n• 经典搭配\n④get crack on（加快做某事的速度）\n①Federal Trade Commission（FTC，美国联邦贸易委员会）\n⑤respond to（对⋯⋯做出反应）\nIn December 2010 America's Federal Trade Commission （FTC） proposed adding a “do not track”（DNT）\noption to internet browsers, so that users could tell advertisers that they did not want to be followed.\n句子主干：\nIn December 2010 America's Federal Trade Commission （FTC） proposed\n（时间状语）\n主语\n谓语\nadding a \"do not track” （DNT） option to internet browsers\n动名词做宾语\n结果状语从句\n宾语从句\nso that users could tell advertisers\nthat\nthey\n/ did not want\nto be followed\n引导词 主语\n谓语\n间接宾语\n引导词 主语\n谓语\n不定式做宾语\n功能注释：本句介绍 FTC提议，主句说明提议内容“将 DNT加人浏览器”，so that 引出目的“用户可\n以自主选择不被广告商跟踪”。句中 FTC, internet browser developers,users, advertisers 四者关系如\n下：FTC 建议 internet browser developers 添加 DNT->users 通过 DNT 告诉 advertisers 不愿被追踪。\n•语篇分析•》\n第三段介绍争议处理方案及实施状况。关键词有：①proposed；② responding。\n①句介绍方案内容：将 DNT 加入浏览器以供用户自主选择。proposed”提议，建议”暗示这并非法律条\n案，所以不具有严格约束力；tell 明示用户并非都乐意被跟踪、被推送广告，佐证上段 Should...Or\nshould...言外之意“广告商不能擅自认为用户非常乐意被追踪并收到行为广告，而应征得用户明确许可”。\n②③句介绍方案实施情况。\n②句介绍三大浏览器开发商的反响：微软、苹果、谷歌业已或即将添加 DNT选项。分号形并列对\n比，却暗藏深意：浏览器开发商对 DNT提议反响时间有先有后，或为“依样学样”，或力“先发制人”，究觉\n为何，就此设置悬念。\n③句指出 DAA与 FTC达成共识：浏览器行业应加快响应 DNT请求。In February （2012）呼应①句\nIn December 2010，表明 DNT 自2010年12月提议以来，历经一年多才获得DAA 支持，暗示 DAA站位\n偏倚广告商；get cracking on 既含有 start doing sth quickly（立即着手做某事）之意，又含 do sth with\nincreased speed（加快做某事的速度，赶快继续做某事），此处鉴于互联网浏览器行业对 DNT 提议业已做\n20",
+  "pdf_text_layer": "ill丁 ＠ 回 In December 2010 America ’ s Federal τrade\n                                                                          2010 年 12 月，美国联邦贸易委员会 (FTC)\nCommission ( FTC) proposed adding a “ do not trac k \"             建议在互联网浏览器中添加“禁止追踪\nCDNT) opt io口 to internet browsers( , so that users could         (DNT）”选项，以使用户可以告知广告商他们\ntell advertisers that they did not want to be fo llowed.\n                                                                  不想被追踪 。微软 的 IE 浏览器以及苹果的\n@Microscft ’s Internet Explorer and Apple ’s Safari both\n                                                                  Safari 浏览器都提供了 DNT ；谷歌的 Chrome 浏\noffer DNT; Google's Chrome is due to do so this year.\n                                                                  览器今年也将这么傲 。 2 月份， FTC 和数字广\n@In February the FTC and           th巳 Di gita l   Advertising\n                                                                  告联盟（ DAA）达成共识：希望该行业继续加快\nAlli an< 俨 （ DAA) agreed that the industry would get\n                                                                  响应 DNT 请求 。\ncracking on responding to DNT requests.\n\n\n                                         ＞：由主运需要难句：分析－：：： fl\n( browser [ 'brauza] n. 浏览器                                $     ( internet brow ser （互联网浏览器）\n( alliance [ a' l a1ans］ η．联盟，联合                            旦    ( due to do sth （预定做菜事）\n                                                            ~    ( get crac k on （ 加快做某 事 的速度）\n．经典搭配                                                       引\n①阳的l M山rnrni…凹，美国联邦贸易委员会）\n                                                           :<    ( respond to （对 …… 做出反应）\n                                                                      l\n\n\n\n\n       In December 2010 America ’s Federal Trade Cornn世ssion ( FTC) proposed adding a “ do not track ” (DNT)\noption to internet browsers , so that users could tell advertiser百 that they did not want to be followed.\n\n   句子主干： I In December 20 l O America ’ s Federal Trade Commission (FTC) proposed\n                    （时间状语）                                      主语                          谓语\n                 adding a “ do not track”(DNT) option to internet browsers\n                                          动名词做宾语                              -\n                                     结果状语从句\n                 so that users could tell advertisers                that    they did not want     to be followed\n                 引导词主语             谓语        间接宾语                    引导词 主语             谓语         不定式做宾语\n       功能注释： 本句介绍 FTC 提议，主句说明提议内容“将 DNT 加入浏览器”， so that 引出目的“用户可\n以自 主选择不被广告商 跟踪” 。 句中 FTC, internet brows er developers, users, a dve rtisers 匹l 者 关系 如\n下： FTC 建议 internet browser d eve l opers 添加 DNT→ users 通过 DNT 告诉 advert i sers 不愿被追踪 。\n\n                                                   ：·语：毒分析二 J\n       第三段介绍争议处理方案及实施状况。关键词有： ① proposed ； ② responding。\n       ① 旬介绍方案内容：将 DNT 加入浏览器以供用户自主选择。 proposed“提议，建议”暗示这并非法律条\n案， 所以不 具有严 格约束力； tell 明 示用户并非 都乐意被跟踪、被推送广 告， 佐证上段 Shou l d ...。r\nshould ... 言 外之意“广告商不能擅自认为用户非常乐意被追踪并 q欠到行为广告，而应征得 用 户明确许可” 。\n       ②① 旬介绍方案实施情况。\n\n       ② 旬介绍三大浏览器开发商的反晌：微软、苹果、谷歌业己或即将添加 DNT 选项。 分号形为并列对\n比，却暗 藏深意： 浏览器开发商对 DNT 提议反 II向时间有先有后，或为“依样 学样”，或为“先发 制人”， 究竟\n为何，就此设置悬念 。\n       ③ 旬指出 DAA 与 ITC 达成共识 ： 浏览器行业应加快晌应 DNT 请求。 I n Februa ry (20 12) I呼应 ①句\nIn Decembe r 20 1 0 ，表 明 DNT 自 201 0 年 1 2 月提议 以来，历 经一年多才获得 DAA 支 持，暗示 DAA 站 位\n偏俯广告商； get crack ing on 既含有 s t art doing sth quickly （立即着手做某事）之意，又含 do st h with\nin creased speed （加快做某 事 的速度，赶快继续做某事），此处鉴 于互 联网浏览器行业对 DNT 提议业已做\n  20",
+  "quality": {
+    "vision_line_count": 66,
+    "vision_character_count": 2107,
+    "pdf_text_character_count": 3512,
+    "nonempty": true
+  }
+}

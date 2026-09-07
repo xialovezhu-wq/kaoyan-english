@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P033",
+  "year": 2021,
+  "pdf_page": 33,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.014674232421956201,
+      "text": "词汇注释与难句分析",
+      "width": 0.18907562432261565,
+      "x": 0.3907563039101208,
+      "y": 0.9300932089819195
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013373641612209108,
+      "text": "①toothy ［ tu:0i］ a. 露齿的",
+      "width": 0.2016806630040869,
+      "x": 0.05882353236350282,
+      "y": 0.9040697672188729
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014705198900042404,
+      "text": "⑨becoming ［bi'kAm ］a.合适的；与•",
+      "width": 0.2899159631747501,
+      "x": 0.5294117692109442,
+      "y": 0.9040697679129848
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0135976217399425,
+      "text": "•相称的",
+      "width": 0.06743386623257619,
+      "x": 0.8339301250338463,
+      "y": 0.9052651425509013
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100348,
+      "text": "② gnashers ［'neejoz」n.［pl.］牙齿",
+      "width": 0.25840335912098084,
+      "x": 0.06092436825988779,
+      "y": 0.8851744188068801
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014836805955706578,
+      "text": "10breed ［brid］v.以⋯⋯方式教育",
+      "width": 0.2668067182419618,
+      "x": 0.5294117699493972,
+      "y": 0.8866279075423452
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01475745479212942,
+      "text": "③ class ［klass］n. 阶级；阶层",
+      "width": 0.21428571638574032,
+      "x": 0.06092437054662561,
+      "y": 0.8675099868297695
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395673688379,
+      "text": "1hearty ［'harti］ a.尽情的",
+      "width": 0.20588234256457738,
+      "x": 0.5294117716098682,
+      "y": 0.8691860464339891
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696439,
+      "text": "④drunk ［drAJk］n.醉汉；酒鬼",
+      "width": 0.2352941141881924,
+      "x": 0.05882352918041361,
+      "y": 0.8501997339137137
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "12 photographic ［.fauta'greefik］a. 摄影的；照片的",
+      "width": 0.37394958378492293,
+      "x": 0.5294117600583188,
+      "y": 0.8501997338268483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014809710684216215,
+      "text": "⑤tramp ［treemp］n. 流浪汉；流浪乞丐",
+      "width": 0.29201679560490434,
+      "x": 0.06092437739262588,
+      "y": 0.8313953493041808
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014809710684216326,
+      "text": "13 portrait ［'portreit］n. 肖像；人像",
+      "width": 0.26260502398128915,
+      "x": 0.5294117763496915,
+      "y": 0.8313953493083336
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014784550063619561,
+      "text": "⑥ performer ［po fo:ma（r）］n.演出者；演员",
+      "width": 0.32563023208882774,
+      "x": 0.058823542595291954,
+      "y": 0.8122503330917096
+    },
+    {
+      "confidence": 1,
+      "height": 0.013873124408340987,
+      "text": "经典搭配",
+      "width": 0.08009642672676576,
+      "x": 0.5565904426704795,
+      "y": 0.8135576239093432
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014652943007955499,
+      "text": "⑦gurn ［g3n］v.做俏皮相；扮鬼脸",
+      "width": 0.2647058858118076,
+      "x": 0.05882352437350808,
+      "y": 0.794940079791269
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "① when it comes to 当谈到某事时",
+      "width": 0.26470588581180765,
+      "x": 0.5294117656235079,
+      "y": 0.7949400800542834
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014782615412726074,
+      "text": "⑧gum ［gam」n. 牙龈；齿龈",
+      "width": 0.21008402212506774,
+      "x": 0.06092437393746616,
+      "y": 0.7761627909362405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016267675534386794,
+      "text": "•语篇分析",
+      "width": 0.10303145980099954,
+      "x": 0.42852628819349287,
+      "y": 0.7513138370562289
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02412419884246142,
+      "text": "第六段分析原因二：维多利亚时代的人认为“露齿笑有失身份”。关键词：A toothy grin...lackedl class。",
+      "width": 0.8468633809760356,
+      "x": 0.09861859257114773,
+      "y": 0.7204900343663843
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "①句直陈原因：露齿笑有失身份。冒号标示总分结构：冒号前 lacked class（class 指“社会阶层”）简短",
+      "width": 0.8508403094517701,
+      "x": 0.09873950677621575,
+      "y": 0.7049418605264909
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739006,
+      "text": "明确露齿笑给人的印象“身份低下、缺乏教养”，同时在括号中又叠加了上段“口腔状况非常糟糕（牙齿有",
+      "width": 0.8886554107960019,
+      "x": 0.060924391844646215,
+      "y": 0.6857523303922566
+    },
+    {
+      "confidence": 1,
+      "height": 0.01615094567107145,
+      "text": "豁口或发黑）”这一因素，极力凸显露齿笑在时人眼中的不合时宜；冒号后将“社会底层人群（酒鬼、流浪",
+      "width": 0.8907563020268846,
+      "x": 0.058823518524373015,
+      "y": 0.6684420771259059
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017523147136012662,
+      "text": "汉、戏子）的大笑”与“柴郡猫的露龈笑”进行类比（gurn and grin with a smile as...as...），通过 gurn and",
+      "width": 0.8928571344570388,
+      "x": 0.05882352468324541,
+      "y": 0.6482558141020723
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0176412065559316,
+      "text": "grin（扮鬼脸、呲牙咧嘴大笑）、gum-exposing（露出牙龈）、smile as wide as（咧嘴大笑）等展现其狂放粗俗",
+      "width": 0.8907563020268846,
+      "x": 0.05882352306218807,
+      "y": 0.6291611186443217
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860051669478,
+      "text": "的笑态，并结合转折句式，一肯一否结构（••might...but it was not a becoming look...）明确咧嘴大笑",
+      "width": 0.8886554695967306,
+      "x": 0.06092435969443193,
+      "y": 0.6104651164235009
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016164493306816463,
+      "text": "是“粗鄙的底层之人所为，却为高雅体面的君子所不齿”（drunks, tramps, and music hall performers vs",
+      "width": 0.8949579668871929,
+      "x": 0.05882354502278997,
+      "y": 0.5930232561698348
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016214813913073556,
+      "text": "properly bred persons 分别指向“身份卑微、缺乏教养之人vs 高雅绅士、教养良好之人”，becoming 取其僻",
+      "width": 0.8928571344570387,
+      "x": 0.05882354254038803,
+      "y": 0.573901464934049
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014674232421956201,
+      "text": "义“与⋯⋯相称的”，暗示这已经成一种普遍认可的社会观念和对人的评价标准）。",
+      "width": 0.7142856722851938,
+      "x": 0.06302523822715086,
+      "y": 0.5552325585234499
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016259328026904885,
+      "text": "②句援引马克•吐温之言强调“摄像时不可微笑”的观念根深蒂固。Even Mark Twain... said that 引",
+      "width": 0.8529411418819244,
+      "x": 0.09873951284055041,
+      "y": 0.5363372097575285
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016119979192985245,
+      "text": "出典型代表马克•吐温之言以论证上文观点，a man who enjoyed a hearty laugh 明确马克•吐温的个性特",
+      "width": 0.8907563020268846,
+      "x": 0.060924377417930095,
+      "y": 0.5173102531546219
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016100625064814245,
+      "text": "征“乐于开怀大笑”；而他所言 nothing more damning than（“否定词［nothing,no 等］＋比较级十than”表示最",
+      "width": 0.8928571344570388,
+      "x": 0.05882352245110281,
+      "y": 0.4985465118323832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0161567521634971,
+      "text": "高级意义，意即“•",
+      "width": 0.14495798158737508,
+      "x": 0.06092437236282503,
+      "y": 0.47802929417999174
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014825193605791265,
+      "text": "…是最糟的”）明确其极力反对拍照时微笑（fixed 指“定［影］”，即笑容被拍摄下来永久定",
+      "width": 0.7352941141881925,
+      "x": 0.21638654716010566,
+      "y": 0.4793608524492473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016063852729238604,
+      "text": "格），a hearty laugh vs a silly,foolish smile 形成强烈矛盾“明明自己喜欢纵情大笑，却认为拍照时即使微笑",
+      "width": 0.8907563020268847,
+      "x": 0.06092436479538127,
+      "y": 0.4593023256768599
+    },
+    {
+      "confidence": 1,
+      "height": 0.019307589880159792,
+      "text": "也是憨傻、愚蠢的”，凸显维多利亚时期“摄像时不可微笑”这一观念根深蒂固、深人人心。",
+      "width": 0.7415966114786547,
+      "x": 0.06092439260626058,
+      "y": 0.43874833547536407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016061916808472465,
+      "text": "【深层解读】段内：本段通过 A toothy grin... lacked class...it was not a becoming look for properly bred",
+      "width": 0.8571428655429613,
+      "x": 0.09663864411927582,
+      "y": 0.4214380828356462
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017490245372096647,
+      "text": "persons..Even Mark Twain...串起段内逻辑，首先提出观点“露齿笑有失身份”，接着进一步说明这种举止",
+      "width": 0.8928571344570388,
+      "x": 0.05882353222001004,
+      "y": 0.40261627905846764
+    },
+    {
+      "confidence": 1,
+      "height": 0.016290294504991087,
+      "text": "与教养良好的人并不相称，末句引用马克•吐温的例子予以证明，构成完整的“论点一论据”关系。段际：",
+      "width": 0.8907563020268846,
+      "x": 0.060924375352103786,
+      "y": 0.38517441909982497
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016089012714899042,
+      "text": "第五段通过 One explanation might be.. 引出对“维多利亚后期人们拍照时依然不笑”的深层原因分析，",
+      "width": 0.8949579668871929,
+      "x": 0.05882354651438658,
+      "y": 0.3661784288647817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016253522169415335,
+      "text": "随后第五、六段分别从 the loss of dignity displayed through a cheesy grin 和 A toothy grin...lacked class",
+      "width": 0.8928571344570387,
+      "x": 0.06092438032550219,
+      "y": 0.3459302329261331
+    },
+    {
+      "confidence": 1,
+      "height": 0.01757927423469552,
+      "text": "两个角度进行了阐述，前者强调“口腔卫生糟糕使得露齿笑有损美观”，后者强调“笑被赋子身份、等级意",
+      "width": 0.8907563020268846,
+      "x": 0.06092437635750604,
+      "y": 0.326897469827684
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669367,
+      "text": "义，露齿笑缺乏教养、有失身份”，共同解释了维多利亚时期的人拍照不笑的思想观念原因。",
+      "width": 0.7773108803927324,
+      "x": 0.06092439950951599,
+      "y": 0.30813953509044445
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01963226138037466,
+      "text": "．真题精解．",
+      "width": 0.12627793093407547,
+      "x": 0.42845767192920914,
+      "y": 0.2830617764949086
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926817,
+      "text": "34. Mark Twain is quoted to show that the disapproval of",
+      "width": 0.49789916756984587,
+      "x": 0.07142856391915874,
+      "y": 0.2543275632162407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01752121185018285,
+      "text": "34.引用马克•吐温的话是为了证明，不",
+      "width": 0.3613445304032694,
+      "x": 0.5819327807542475,
+      "y": 0.2514534883607933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "smiles in pictures was",
+      "width": 0.18067226520163474,
+      "x": 0.07142857321150756,
+      "y": 0.2354651169696037
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "赞同拍照时微笑曾是",
+      "width": 0.18067226520163482,
+      "x": 0.5861344541288744,
+      "y": 0.23546511659031033
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011984021304926817,
+      "text": "-。",
+      "width": 0.018907563534775296,
+      "x": 0.823529411698999,
+      "y": 0.23235685775817105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "［A］ a deep-root belief",
+      "width": 0.1911764714529519,
+      "x": 0.07142857258935037,
+      "y": 0.21220930224794254
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "［A］一种根深蒂固的观念",
+      "width": 0.22478990793687526,
+      "x": 0.5840336152122347,
+      "y": 0.21075581427926382
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "［B］ a misguided attitude",
+      "width": 0.21218486925540403,
+      "x": 0.07142857332047726,
+      "y": 0.18750000025448743
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882953100348,
+      "text": "［B］一种错误的态度",
+      "width": 0.18277311233197102,
+      "x": 0.5840336134243507,
+      "y": 0.18750000045658932
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403869,
+      "text": "「Cl a controversial view",
+      "width": 0.21008402212506772,
+      "x": 0.0714285797988106,
+      "y": 0.16569767438111194
+    },
+    {
+      "confidence": 1,
+      "height": 0.014850354226387918,
+      "text": "［C］一个有争议的观点",
+      "width": 0.20378151013442325,
+      "x": 0.5840336163788667,
+      "y": 0.16424418650310102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "［D］ a thought-provoking idea",
+      "width": 0.25210083243015413,
+      "x": 0.07142857790256996,
+      "y": 0.14098837197420222
+    },
+    {
+      "confidence": 1,
+      "height": 0.016257393376011287,
+      "text": "［D］一个发人深省的看法",
+      "width": 0.22478990793687537,
+      "x": 0.5840336149128649,
+      "y": 0.1395348838163949
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01797603195739017,
+      "text": "［精准定位］题干问及作者引用马克•吐温之言的目的，应到马克•吐温的话语之外寻找作者观",
+      "width": 0.8571428655429613,
+      "x": 0.09663865264868744,
+      "y": 0.11451398136096202
+    },
+    {
+      "confidence": 1,
+      "height": 0.016168364513412414,
+      "text": "点，由此锁定第六段首句。该句首先指出，露齿笑有失身份，也即拍照时不应该笑，随后对比两类人",
+      "width": 0.8928571344570387,
+      "x": 0.06092438138842735,
+      "y": 0.09720372829931101
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016052239744387076,
+      "text": "（drunks, tramps, and music hall performers vs properly bred persons）指出，粗俗之人才会咧嘴大笑，而",
+      "width": 0.8949579668871929,
+      "x": 0.05882354502278997,
+      "y": 0.07848837247312934
+    },
+    {
+      "confidence": 1,
+      "height": 0.013315579227696328,
+      "text": "33",
+      "width": 0.02310924309526574,
+      "x": 0.915966386829468,
+      "y": 0.05792276984611089
+    }
+  ],
+  "vision_ocr_text": "词汇注释与难句分析\n①toothy ［ tu:0i］ a. 露齿的\n⑨becoming ［bi'kAm ］a.合适的；与•\n•相称的\n② gnashers ［'neejoz」n.［pl.］牙齿\n10breed ［brid］v.以⋯⋯方式教育\n③ class ［klass］n. 阶级；阶层\n1hearty ［'harti］ a.尽情的\n④drunk ［drAJk］n.醉汉；酒鬼\n12 photographic ［.fauta'greefik］a. 摄影的；照片的\n⑤tramp ［treemp］n. 流浪汉；流浪乞丐\n13 portrait ［'portreit］n. 肖像；人像\n⑥ performer ［po fo:ma（r）］n.演出者；演员\n经典搭配\n⑦gurn ［g3n］v.做俏皮相；扮鬼脸\n① when it comes to 当谈到某事时\n⑧gum ［gam」n. 牙龈；齿龈\n•语篇分析\n第六段分析原因二：维多利亚时代的人认为“露齿笑有失身份”。关键词：A toothy grin...lackedl class。\n①句直陈原因：露齿笑有失身份。冒号标示总分结构：冒号前 lacked class（class 指“社会阶层”）简短\n明确露齿笑给人的印象“身份低下、缺乏教养”，同时在括号中又叠加了上段“口腔状况非常糟糕（牙齿有\n豁口或发黑）”这一因素，极力凸显露齿笑在时人眼中的不合时宜；冒号后将“社会底层人群（酒鬼、流浪\n汉、戏子）的大笑”与“柴郡猫的露龈笑”进行类比（gurn and grin with a smile as...as...），通过 gurn and\ngrin（扮鬼脸、呲牙咧嘴大笑）、gum-exposing（露出牙龈）、smile as wide as（咧嘴大笑）等展现其狂放粗俗\n的笑态，并结合转折句式，一肯一否结构（••might...but it was not a becoming look...）明确咧嘴大笑\n是“粗鄙的底层之人所为，却为高雅体面的君子所不齿”（drunks, tramps, and music hall performers vs\nproperly bred persons 分别指向“身份卑微、缺乏教养之人vs 高雅绅士、教养良好之人”，becoming 取其僻\n义“与⋯⋯相称的”，暗示这已经成一种普遍认可的社会观念和对人的评价标准）。\n②句援引马克•吐温之言强调“摄像时不可微笑”的观念根深蒂固。Even Mark Twain... said that 引\n出典型代表马克•吐温之言以论证上文观点，a man who enjoyed a hearty laugh 明确马克•吐温的个性特\n征“乐于开怀大笑”；而他所言 nothing more damning than（“否定词［nothing,no 等］＋比较级十than”表示最\n高级意义，意即“•\n…是最糟的”）明确其极力反对拍照时微笑（fixed 指“定［影］”，即笑容被拍摄下来永久定\n格），a hearty laugh vs a silly,foolish smile 形成强烈矛盾“明明自己喜欢纵情大笑，却认为拍照时即使微笑\n也是憨傻、愚蠢的”，凸显维多利亚时期“摄像时不可微笑”这一观念根深蒂固、深人人心。\n【深层解读】段内：本段通过 A toothy grin... lacked class...it was not a becoming look for properly bred\npersons..Even Mark Twain...串起段内逻辑，首先提出观点“露齿笑有失身份”，接着进一步说明这种举止\n与教养良好的人并不相称，末句引用马克•吐温的例子予以证明，构成完整的“论点一论据”关系。段际：\n第五段通过 One explanation might be.. 引出对“维多利亚后期人们拍照时依然不笑”的深层原因分析，\n随后第五、六段分别从 the loss of dignity displayed through a cheesy grin 和 A toothy grin...lacked class\n两个角度进行了阐述，前者强调“口腔卫生糟糕使得露齿笑有损美观”，后者强调“笑被赋子身份、等级意\n义，露齿笑缺乏教养、有失身份”，共同解释了维多利亚时期的人拍照不笑的思想观念原因。\n．真题精解．\n34. Mark Twain is quoted to show that the disapproval of\n34.引用马克•吐温的话是为了证明，不\nsmiles in pictures was\n赞同拍照时微笑曾是\n-。\n［A］ a deep-root belief\n［A］一种根深蒂固的观念\n［B］ a misguided attitude\n［B］一种错误的态度\n「Cl a controversial view\n［C］一个有争议的观点\n［D］ a thought-provoking idea\n［D］一个发人深省的看法\n［精准定位］题干问及作者引用马克•吐温之言的目的，应到马克•吐温的话语之外寻找作者观\n点，由此锁定第六段首句。该句首先指出，露齿笑有失身份，也即拍照时不应该笑，随后对比两类人\n（drunks, tramps, and music hall performers vs properly bred persons）指出，粗俗之人才会咧嘴大笑，而\n33",
+  "pdf_text_layer": "•词汇注释m难句分析•]/\n\n(Dtoothy ['tu：0i] a.露齿的                          》   ⑨becoming [bi'kAmiO] a・合适的；与... 相称的\n② gnashers ['nsejaz] n. [pl.]牙齿                  》   ⑩breed [bri:d] v.以... 方式教育\n③ class [kla：s] n.阶级；阶层                          j   ⑪hearty ['hali] a.尽情的\n④ drunk [drAgk] n.醉汉；酒鬼                          《   ⑫photographic [ifauta'graefik] a・摄影的；照片的\n⑤ tramp [traemp] n.流浪汉；流浪乞丐                      ?   ©portrait E'po^reit] n.肖像；人像\n(©performer Cpa'foimaCr)] rz•演出者；演员              I   •经典搭配\n⑦ guru [g3：n] v.做俏皮相；扮鬼脸                         (   ①when it comes to当谈到某事时\n⑧ gum [gAm] n.牙龈；齿龈                              i\n                                         •语篇分析•:/\n\n    第六段分析原因二：维多利亚时代的人认为“露齿笑有失身份”。关键词:A toothy grin... lacked classo\n  ① 句直陈原因：露齿笑有失身份。冒号标示总分结构：冒号前lacked class（class指“社会阶层”）简短\n明确露齿笑给人的印象“身份低下、缺乏教养”，同时在括号中又叠加了上段“口腔状况非常糟糕（牙齿有\n豁口或发黑）”这一因素，极力凸显露齿笑在时人眼中的不合时宜；冒号后将“社会底层人群（酒鬼、流浪\n汉、戏子）的大笑\"与\"柴郡猫的露龈笑\"进行类比（gurn and grin with a smile as. . . as...），通过gurn and\ngrin（扮鬼脸、毗牙咧嘴大笑）、gum-exposing（露出牙龈）smile as wide as（咧嘴大笑）等展现其狂放粗俗\n的笑态，并结合转折句式、一肯一否结构（...might. . . but it was not a becoming look...）明确咧嘴大笑\n是\"粗鄙的底层之人所为，却为高雅体面的君子所不齿\"（drunks, tramps, and music hall performers vs\nproperly bred persons分别指向\"身份卑微、缺乏教养之人vs高雅绅士、教养良好之人n , becoming取其僻\n义“与……相称的”，暗示这已经成为一种普遍认可的社会观念和对人的评价标准）。\n    ② 句援引马克•吐温之言强调“摄像时不可微笑”的观念根深蒂固。 Even Mark Twain. . . said that 引\n出典型代表马克•吐温之言以论证上文观点，a man who enjoyed a hearty laugh明确马克•吐温的个性特\n征\"乐于开怀大笑\"；而他所言nothing more damning than（\"否定词[nothing, no等]+比较级+ than\"表示最\n高级意义，意即“……是最糟的”）明确其极力反对拍照时微笑（fixed指“定[影]”，即笑容被拍摄下来永久定\n格），a hearty laugh vs a silly, foolish smile形成强烈矛盾“明明自己喜欢纵情大笑，却认为拍照时即使微笑\n也是憨傻、愚蠢的”，凸显维多利亚时期“摄像时不可微笑”这一观念根深蒂固、深入人心。\n    【深层解读】段内：本段通过 A toothy grin. . . lacked class. . . it was not a becoming look for properly bred\npersons. . . Even Mark Twain...串起段内逻辑，首先提出观点\"露齿笑有失身份\"，接着进一步说明这种举止\n与教养良好的人并不相称,末句引用马克•吐温的例子予以证明，构成完整的“论点一论据”关系。段际：\n第五段通过One explanation might be...引出对\"维多利亚后期人们拍照时依然不笑\"的深层原因分析，\n随后第五、六段分别从 the loss of dignity displayed through a cheesy grin 和 A toothy grin. . . lacked class\n两个角度进行了阐述，前者强调“口腔卫生糟糕使得露齿笑有损美观”，后者强调“笑被赋予身份、等级意\n义，露齿笑缺乏教养、有失身份”，共同解释了维多利亚时期的人拍照不笑的思想观念原因。\n                                         •真题精解也\n\n\n 34. Mark Twain is quoted to show that the disapproval of   34.引用马克•吐温的话是为了证明，不\n smiles in pictures was     ・                               赞同拍照时微笑曾是                。\n [A] a deep-root belief                                     [A] —种根深蒂固的观念\n [E] a misguided attitude                                   [B] —种错误的态度\n [C] a controversial view                                   [C] 一个有争议的观点\n [D] a thought-provoking idea                               [D] 一个发人深省的看法\n    [精准定位]题干问及作者引用马克•吐温之言的目的，应到马克•吐温的话语之外寻找作者观\n点，由此锁定第六段首句。该句首先指出，露齿笑有失身份，也即拍照时不应该笑，随后对比两类人\n（drunks, tramps> and music hall performers vs properly bred persons）指岀，粗俗之人才会咧嘴大笑 9 而\n                                                                                                33",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2271,
+    "pdf_text_character_count": 2911,
+    "nonempty": true
+  }
+}

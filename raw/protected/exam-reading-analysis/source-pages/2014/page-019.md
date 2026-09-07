@@ -1,0 +1,141 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2014-P019
+year: 2014
+pdf_page: 19
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2014 解析 PDF p19｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+师的法学院毕业生如何就能将美国民事侵权法律系统变成价格高昂的噩梦？眉示下文展开原因分析。
+【深层解读】一、明线、暗线相结合：先借暗线对比“律师赚得盆满钵满（lawyers）VS 委托人亏得抱怨
+重重（spending）”明确首段“美国律师最受委托人诟病的原因：服务费高如噩梦（costly nightmare）”；再借
+明线因果（makes）明示“法学院毕业生大部分无缘大型律师，而成为妨害案件的诉讼律师”与“法律服务
+费用高如噩梦”之间因果关联，暗留悬念“法学院毕业生就业为何能推高法律服务费用”，引出下文相应
+分析。二、环形因果逻辑链条，重在强调“美国法律服务费高昂”，为回应首段现状原因：经济危机前的 10
+年间，法律服务费用增速过快（①句）一顶尖律师赚得盆满钵满（②句）一众多学生涌人法学院就读（②
+句）一法学院毕业生（因经济危机）根本没机会进人大型律所工作，最终只能去做妨害案件的诉讼律师
+（③④句）一法律费用高昂如噩梦（④句）一~委托人抱怨重重（首段）。
+•真题精解
+26. A lot of students take up law as their profession due
+26.许多学生从事法律行业是因
+to
+为
+。
+［A］ the growing demand from clicnts
+［A］委托人日益增长的需求
+［B」 the increasing pressure of inflation
+［B］不断增加的通货膨胀压力
+LCJ the prospect of working in big firms
+［C］进入大律师事务所工作的前景
+「D the attraction of financial rewards
+［D］经济回报的吸引力
+［精准定位］根据第二段②句“顶尖律师可挣得摩天大楼般高的钱，吸引众多学生涌人法学院”可知
+“这些学生受高收人诱惑选择法律行业”。故［D］正确。
+［命题解密］题干十正确项［D］是对第二段②句的同义改写。
+［A］、［B］首先曲解文意，均根据①句“美国法律服务支出增速是通货膨胀的两倍”曲解出“委托人的
+需求在日益增长”、“通货膨胀压力不断增加”；其次，即便这种曲解是对的，也并非文中所述原因所在。
+［C］首先曲解文意，与③句“大多数学生根本没机会进人大律所”相悖；其次，即便能去大律所也是出于挣
+大钱的目的。
+［技巧总结］因果细节题的解答步骤为：一、锁定题干考查对象：“因”还是“果”；二、于文中找寻因果
+关联词，并于其上下文就“果”找“果”，就“因”找“因”；三、将找寻内容与选项匹配。如本题，由题干 due to
+知其考查“因”；再由题干关键词 a lots of students take up law as their profession 搜索至第二段②句发
+现，句中 tempting 为隐性因果关联词，其后为“果”其前为“因”；最后于 tempting 前文找寻发现
+skyscrapers-full of money 匹配LDJ中 financial rewards。
+皿
+① There are many reasons for this.
+② One is
+有多种原因造成这种情况。其一是法律
+the excessive" costs of a legal education.
+③ 团 There is
+教育费用过于昂贵。在美国大多数州，要成光
+just one path® for a lawyer in most American states: a
+律师只有一条路可走：先在某个不相关的专业
+four-year undergraduate degree in some unrelated
+读四年本科，然后在经过美国律师协会认证的
+subject,then a three-year law degree at one of 200 law
+200所法学院中选择一所修读三年法学学位，
+schools authorized by the American Bar Association.
+最后还得花费一笔巨资准备律师资格考试。
+and an expensive preparation for the bar exam.
+这使得如今普通的法学院毕业生除了本科债
+④ This leaves today's average law-school graduate with
+款外，还要背负10万美元巨债。法学院债务
+$100,000 of debt on top of undergraduate debts. ⑤Law-
+意味着他们必须拼命地努力工作。
+school debt means they have to work fearsomely hard.
+19
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+师的 法学院毕业生如何就能将美国民 事侵 权法律系统变成价格 高 昂的噩梦 ？ 启示下文展开原因分析 。
+     【深层解读】 一、 明线 、 暗线相结合 ： ：$1i:; 1Pf H音线对比“律 师 赚得企 i满钵满（ lawy e rs) VS 委 托人 亏 得 抱怨
+重重（ sp e nding ） ”明确 首 段“ 美 同律师 最受委 托人 Ufi 病的原 ｜］、｜．服 务 费 高 如1 噩 梦（ cos tly ni g h tmare ）”；再借
+明 线因果（ m川＜ e s ） 明 示“法学院毕 业 生 大部分元缘大型律 师 ， 而成为妨害 案 件的诉讼律师”与“法律服务
+费用高如噩梦”之间因果关联 ， H音留 悬 念“ 法学 院毕业生就业为何能州 高法 律服 务 费用”，寻 ｜山 下文 相 应
+分析 。 二、环形因果逻辑链条，重在强调“美国法律服务费高昂”，为回应首段现状原因： 经 济危 机前的 1 0
+年 ｜河， 法律服务费用增速过快（ ① 句） → 顶尖律师赚得盆满钵满 （ ② 句） → 众多 学 生涌入法 学 院就读（ ②
+句 ）→法学院毕业 生 （ ｜划经济危机）根 本 没机 会 进入 大 型律所了作， 最 终只能去做妨害 案 件的诉讼律师
+（③ ④ 句）叫法律费用高昂女｜｜ 噩梦（ ④ 句）如 委 托人抱怨重茧 （ 首段） 。
+
+                                                    :：~：：真题辑：解＜ 1'
+ 26. A lot of students take up law as their profession due               26.   许多 学生从事法律行 业 是因
+       to                                                                      为   。
+
+
+
+
+ [A] th e growing demand from cli e nt s                                 [ A ］委 托人日益增长的需求
+
+ [BJ t he increa s ing pres s ur e of inflation                          [ G］ 不断增加的通货膨胀压力
+
+ [CJ th e prospect o f wo rkin g in bi g rirm s                          [CJ 进入大律 师 事务所工作 的前 景
+
+ [ DJ the attract ion of finan cia l re ward s                           [ DJ 经 济凹报的 ｜吸引力
+
+     ［ 精准定位 ］ 根据第二段 ② 句“顶尖律 师可挣 得摩天大楼般高的钱， l吸引众多学生涌入法学院”可知l
+“这些学生 受 高收入诱惑选择法律行业” 。 故 ［ DJ 正确 。
+     ［ 命题解密 ］ 题干 ＋ 正确项［ DJ 是 对第 二 段 ② 句的同义改 写 。
+     [ A ］ 、 ［ BJ 首先 曲 解文意，均根据 ① 句“ 美 国法律服务 支 出增速 是 通货膨胀的两倍”由角l(c ,:e “委托人的
+需求在日益增长”、“通货膨 胀压力 不断增 加 ” ；其次， 即使 这种 巾 仰是对的， 也 并非文中所述原因所在 。
+[ CJ 首先 ｜曲 解文意，与 ③ 句“大 多 数 学生 根本没机 会 进入大律所吁I』悖；其次，即使能 去 大律所 也 是 ：－／＼ 于挣
+大钱的目的 。
+     ［技巧总结］ ｜主｜ 果 细节 题的解 答 ；J:;- Ij聚为 ： 一 、锁定题干 考企 对 象 ： “ ！！I ”还是“果”； 二 、 于 文中找 寻 因果
+关联词，并于其上 F 文就“果”找“果”，就“ l~I ”找··囚 ” ， 三 、将找 寻 内 容与 选项匹配 。 如本题， E~I 题干 du e to
+知 其考查“萨！ ”；而， f/=1 iillIT 干关键词 a lo ts of s tud e nt 日 1 日 ke up law as th e ir profess io n 搜索’至 第 二 段 ② 句 发
+现 ，句中 t e mpting 为隐性因果关联河 ， 其后为“果”其前为“ I王／ ”； 最 后于 t emp tin g 前文找 寻 发现
+s k yscrapers- ful l o-f money !l[＿配［ DJ 咋1 fin a ncia l rewarcls o
+
+     中 。 Th e re ar 巳 many reasons for th is . @On e 1s
+                                                                        有多种原因造成这种情况 。 其一是法律
+th e excessive<D cos ts o r 川 l ega l educat io n. ＠ 因 The r巳 I S
+                                                                      教育费用过于昂贵 。 在美国大多数州，妥成为
+Ju st o ne path@ ror a la wy er in mos t Am e rican s tat e曰： a
+                                                                      律师只有一条路可走：先在某个不相关的专业
+four- yea 1 und e rgrad uate    d e gree   门1   som e unr e lat ed
+                                                                      读四年本科，然后在经过美国律师协会认证的
+su bj ect , then a thr ee Y川 ar law degree a t o ne o f 200 la w
+                                                                      200 所法学院中选择一所修读三年法学学位，
+sc hoo ls a uth or ized by the Amer ican Bar 八川oc i at i on
+                                                                      最后还得花费一笔巨资准备律师资格考试 。
+a nd a n e xpe ns ive pre paration for the bar 孙 exam .
+                                                                      这使得如今普通的法学院毕业生除了本科债
+OThis leaves today' s av巳rage law- sc hoo l graduat e with
+                                                                      款外，还要背负 10 万美元巨债 。 法学院债务
+$ 100 , 000 of debt on top of und ergraduate debts. 0 Law-
+                                                                      意 味着他们必须拼命地努力工作 。
+school de bt mea ns th ey ha ve to work fear som 巳 l y ha1d.
+
+
+
+                                                                                                        19
+```

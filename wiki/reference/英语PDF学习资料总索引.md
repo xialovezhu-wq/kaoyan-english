@@ -1,0 +1,59 @@
+# 英语 PDF 学习资料总索引
+
+整理日期：2026-07-11
+
+本页统一导航用户提供的 39 份英语学习 PDF。原 PDF 保留在外部路径并按 SHA-256 只读登记；仓库内只保存结构化学习语料、候选参考层、人工审核白名单和可追溯索引。
+
+## 总体清单
+
+| 资料组 | PDF 数 | 已整理结果 | 机器清单 | 使用边界 |
+|---|---:|---|---|---|
+| 2010–2024 英语一真题 | 15 | 15 年 × 4 篇，共 60 篇原文、题目与 A–D 选项 | [真题 / 解析 manifest](../../raw/reference_sources/exam_pdf_manifest.json) | 真题 PDF 是原文与选项权威源 |
+| 2010–2024 英语一解析 | 15 | Reading Part A 的答案与出版方解析按 60 篇 / 300 题组织到受保护本地层 | [受保护答案解析索引](../../raw/protected/exam-reading-analysis/index.md) | practice-safe 页面不含答案；用户只陈述选项时不解锁，明确要求核对答案、讲题或进入复盘后先读本地题号块，OCR 有歧义才回外部 PDF |
+| 2021 解析视觉备份 | 1 | 登记为视觉备份，不作为默认解析权威源 | [真题 / 解析 manifest](../../raw/reference_sources/exam_pdf_manifest.json) | 仅在主解析需要视觉核对时使用 |
+| 2024 真题转写备份 | 1 | 登记为差异核对源，不替代 2024 正式真题 | [真题 / 解析 manifest](../../raw/reference_sources/exam_pdf_manifest.json) | 只用于转写差异复核 |
+| 大纲词汇宝典 | 1 | 词头参考层、页码 / 栏位定位、人工复核层和待复核队列；数量以 manifest 和 selector 的实时校验为准 | [大纲词汇 manifest](../../raw/reference_sources/syllabus_vocabulary/manifest.json) | OCR 候选不自动等于已核验大纲词，也不等于用户生词 |
+| 作文资料 | 6 | 大 / 小作文模板、主题词、历年题面与答题卡资产分层整理 | [作文 manifest](../../raw/writing_reference/manifest.json) | 自动候选默认未审核；只有白名单可直接参与造句 |
+| **合计** | **39** | 阅读、词汇、作文三条可追溯学习线 | 三份 manifest | 原 PDF 不覆盖、不改写 |
+
+## 学习入口
+
+- [2010–2024 历年阅读总索引](../reading/历年真题阅读总索引.md)：60 篇自主练习入口。
+- [2010–2024 受保护答案解析索引](../../raw/protected/exam-reading-analysis/index.md)：按题号组织的标准答案与出版方解析本地入口；字段、解锁边界和完整性门禁见 [受保护预处理规则](../../schema/protected_exam_analysis.md)。
+- [大纲词汇参考库](../vocabulary/大纲词汇参考库.md)：大纲词头查询、来源定位和核验状态说明。
+- [作文资料总索引](../writing/作文资料总索引.md)：作文要求、例句、句型、主题词与历年题面候选。
+- [作文造句可用白名单](../writing/作文造句可用白名单.md)：人工审核可直接调用的作文句型与词汇。
+- [作文—大纲词—错词关系图谱](../relationships/作文-大纲词-错词关系图谱.md)：`raw/reference_relations/writing-vocabulary-foundation/` 的派生关系说明。
+- [生词例句四层地基规则](../../schema/reference_grounded_examples.md)：把旧“双源 / 三重命中”升级为用户措辞 / 错词证据 + 作文句型 + 作文词组 + 大纲词；`SP-*` 可选。
+
+## 当前进度与练习安全
+
+- 当前学习进度：2011 年 Text 4。
+- 2012 年 Text 1 起均标记为“已整理 / 待学习”。自主练习页只呈现文章、题目和选项。
+- 标准答案、正确选项和解析不会进入批量生成的 practice-safe 页面；它们按 60 篇 / 300 题预处理到 `raw/protected/exam-reading-analysis/`。用户只陈述自己的选项时不读取；只有明确要求核对答案、讲题或进入复盘后，才先读取对应的本地最小题号块；OCR 存在歧义时再回外部 PDF 做视觉核对。
+- 已存在的 2010 Text 4、2011 Text 1–4 学习页继续作为正式学习资产，本次构建不覆盖其精读记录。
+
+## 以后造句的固定路径
+
+1. 先查 `bank/mastered_items.csv`；已掌握 item 排除。优先保留用户当前措辞、明确不会 / 误译 / 错用的词及语境。
+2. 必须运行只读 `python3 scripts/select_bbdc_foundation.py ...`，读取 `raw/reference_relations/writing-vocabulary-foundation/` 派生关系图。
+3. selector 地基包必须含一个 `approved / corrected` 作文句型、至少一个 `approved / corrected` 作文词组 / 搭配，以及至少一个 `verification_status` 以 `verified_` 开头的大纲 occurrence；`SP-*` 可选。
+4. `unreviewed / pending / rejected` 只可入图定位，不能自动造句；词元重叠只表示 `lexical_candidate`，不证明语义、搭配或自然度。
+5. 旧词记忆曲线缓存若不是按当天正式库生成、或源文件状态已变化，须从 `bank/master_bank.csv` 实时重算。
+6. selector 只做只读选材和状态校验，不生成最终例句、不自动判断自然度、不回写 formal。
+7. 造句流程再生成 12–28 个英文词的自然句，检查目标词义 / 词性、四层来源、可选 SP 和自然度；不能为凑齐来源机械堆词。
+8. 记录用户证据和三类参考来源 ID；生成例句不冒充文章原句，也不自动写入 `master_bank.csv`。
+
+详细字段与降级规则见 [生词例句四层地基规则](../../schema/reference_grounded_examples.md)。
+
+## 可重建与验收
+
+```bash
+python3 scripts/build_exam_reading_corpus.py --verify-only
+python3 scripts/build_exam_reading_analysis.py --verify-only
+python3 scripts/build_syllabus_vocabulary_reference.py --verify-only --strict-count
+python3 scripts/build_writing_reference_corpus.py --verify-only
+python3 scripts/verify_pdf_learning_materials.py
+```
+
+最终跨资料验收见 [2026-07-11 英语 PDF 学习资料验收](../validation/2026-07-11-英语PDF学习资料验收.md)；阅读答案解析专项证据见 [历年阅读答案解析预处理验收](../validation/2026-07-11-历年阅读答案解析预处理验收.md)。

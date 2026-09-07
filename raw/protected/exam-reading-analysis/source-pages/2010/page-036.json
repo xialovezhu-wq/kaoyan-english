@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2010-P036",
+  "year": 2010,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+  "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "以 not of...but, rather,of...取舍结构强调了社会影响动态变化中的重要因素 a critical mass of easily",
+      "width": 0.8792372752785911,
+      "x": 0.06991526694605552,
+      "y": 0.9199475063287453
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017754684283038724,
+      "text": "influenced people。将四项与之相较，唯有［C］与之一致。最后，借助作者对 Gladwell 观点的反驳态度，",
+      "width": 0.8834745505571822,
+      "x": 0.06567797964725643,
+      "y": 0.8982558141865125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290566,
+      "text": "可排除“强调影响他人能力”的LB」，以及与本文探讨对象无关的［AJ、LD」。",
+      "width": 0.6271186084637906,
+      "x": 0.0699152772652798,
+      "y": 0.8779069766058896
+    },
+    {
+      "confidence": 1,
+      "height": 0.011894059619252717,
+      "text": "知识补充",
+      "width": 0.06366167378471185,
+      "x": 0.09952509584133215,
+      "y": 0.8050994818887339
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506555,
+      "text": "Text 4 会计准则制定者被迁怒",
+      "width": 0.31991524632528684,
+      "x": 0.3495762783415938,
+      "y": 0.8064304460486081
+    },
+    {
+      "confidence": 1,
+      "height": 0.012043891616380753,
+      "text": "外教朗读",
+      "width": 0.06583182077790772,
+      "x": 0.8516179885289448,
+      "y": 0.8050245656995464
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023679976075340115,
+      "text": ".总体分析",
+      "width": 0.10483253799934461,
+      "x": 0.13255437872450218,
+      "y": 0.7426477637472617
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01456921807737166,
+      "text": "本文节选自 The Economist《经济学人》2009年4月8日一篇题 Banks and Accounting Standards：",
+      "width": 0.8389830142544514,
+      "x": 0.11016951821175713,
+      "y": 0.7165354332163584
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290455,
+      "text": "Messenger,Shot（银行和会计准则：报告财务状况的“信使”被迁怒了！注：Don't shoot the messenger.",
+      "width": 0.875,
+      "x": 0.06991526152895476,
+      "y": 0.6947674417221688
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749584,
+      "text": "意为“不要迁怒于报信的人”）的文章，其脉络为：提出问题—分析问题—解决问题”。",
+      "width": 0.7478813331851994,
+      "x": 0.0677966121944767,
+      "y": 0.6744186050477938
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02325581377885466,
+      "text": "学二语篇分析及试题精解",
+      "width": 0.28389828975524317,
+      "x": 0.07203390427492083,
+      "y": 0.640988372325689
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882673128413,
+      "text": "① Bankers have been blaming themselves for",
+      "width": 0.39406779710466955,
+      "x": 0.14618644240811707,
+      "y": 0.6148255816770016
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883924669395,
+      "text": "在公开场合，银行家们一直把遇到的麻烦",
+      "width": 0.341101681069252,
+      "x": 0.6016949250197524,
+      "y": 0.6075581395056886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882673128413,
+      "text": "their troubles in public. ② Behind the scenes, they have",
+      "width": 0.4724576231626434,
+      "x": 0.06779660427319842,
+      "y": 0.5944767446614978
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372442290455,
+      "text": "归咎于自身。背地里，他们却一直将矛头对准",
+      "width": 0.3813559129178866,
+      "x": 0.5614406907868194,
+      "y": 0.5857558138636416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013142434317921725,
+      "text": "been taking aim at someone else: the accounting",
+      "width": 0.4682203187085474,
+      "x": 0.06991526827637597,
+      "y": 0.5741279069839759
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372442290455,
+      "text": "他人：会计准则制定者。各家银行抱怨说，他",
+      "width": 0.3813559129178866,
+      "x": 0.5614406848848824,
+      "y": 0.5654069764968781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013195843208493319,
+      "text": "standard- setters. ③ Their rules, moan®",
+      "width": 0.36440675345251256,
+      "x": 0.06779662934718984,
+      "y": 0.5551181104785581
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01350091073143822,
+      "text": "the banks，",
+      "width": 0.09969155510342598,
+      "x": 0.4385016788302376,
+      "y": 0.5535693120268835
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749473,
+      "text": "们所制定的规则迫使自己报告巨额损失，这实",
+      "width": 0.38347457973268706,
+      "x": 0.5593220357056903,
+      "y": 0.5450581401459043
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014611182250375832,
+      "text": "have forced them to report enormous losses, and it's",
+      "width": 0.47033895634784295,
+      "x": 0.06779663128935508,
+      "y": 0.5319767444676993
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01773179484790388,
+      "text": "在不公平。这些规则称，银行必须根据第三方",
+      "width": 0.3813559129178865,
+      "x": 0.5614406923758024,
+      "y": 0.5229658793013394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013165323753056679,
+      "text": "just not fair. ④ These rules say they must value some",
+      "width": 0.47245762316264345,
+      "x": 0.06779662002178537,
+      "y": 0.5130813953439564
+    },
+    {
+      "confidence": 1,
+      "height": 0.013214917946362537,
+      "text": "愿意买入的价格而不是管理者和监管机构期",
+      "width": 0.3813559129178866,
+      "x": 0.5614406914224126,
+      "y": 0.5058139535319408
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015699167576987638,
+      "text": "assets at the price a third party would pay, not the price",
+      "width": 0.4726238360140565,
+      "x": 0.06771373571767053,
+      "y": 0.4907209911611361
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "望它们售得的价格来评估部分资产。",
+      "width": 0.3050847536747132,
+      "x": 0.5614406765524739,
+      "y": 0.48228346429765756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749473,
+      "text": "managers and regulators®would like them to fetch®.",
+      "width": 0.44279660868599124,
+      "x": 0.0677966053762842,
+      "y": 0.4709302329184334
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506555,
+      "text": "词汇注释与难句分析•",
+      "width": 0.20550846369726938,
+      "x": 0.39618644817255166,
+      "y": 0.4284776904341524
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013233992684231644,
+      "text": "①moan ［moon］ v./n. 抱怨",
+      "width": 0.20974575356361289,
+      "x": 0.06991525772560883,
+      "y": 0.4068241470432751
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013123359580052507,
+      "text": "①blame sb for sth（因某事而责备某人）",
+      "width": 0.32203388396458243,
+      "x": 0.5317796704874423,
+      "y": 0.4055118111399548
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013367515223545623,
+      "text": "regulator ［'regislerto］ n. 监管者，监管机构",
+      "width": 0.33686440579066085,
+      "x": 0.06779661347119491,
+      "y": 0.38779527556379645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014679851181550907,
+      "text": "②behind the scenes（背地里，幕后）",
+      "width": 0.26906779710466955,
+      "x": 0.5317796626129194,
+      "y": 0.386482939763342
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013359885203243826,
+      "text": "（ fetch Lfetf］ v. 售得，卖得（某价）",
+      "width": 0.26271185501127814,
+      "x": 0.06779661749436092,
+      "y": 0.3691860465551967
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "③take aim at（抨击，将矛头对准）",
+      "width": 0.2563559129178866,
+      "x": 0.53177967322326,
+      "y": 0.3674540683286792
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0136633194650565,
+      "text": "• 经典搭配",
+      "width": 0.10608158877429269,
+      "x": 0.06772191641882128,
+      "y": 0.3441857820494414
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371190749362,
+      "text": "• 语篇分析•",
+      "width": 0.13983050723832607,
+      "x": 0.430084747779142,
+      "y": 0.29651162843078815
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070835,
+      "text": "第一、二段提出问题：银行将自身窘境迁怒于会计准则制定者，准则制定者独立性受到威胁。",
+      "width": 0.7796609853011472,
+      "x": 0.10805085556976546,
+      "y": 0.2703412071160216
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "第一段为引子，铺陈银行对其资产评估方法（即会计准则）的态度：不满。关键词为：moan。",
+      "width": 0.7605932173719825,
+      "x": 0.10805085527940411,
+      "y": 0.25131233564995603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "①②句展现银行家的表里不一。两句借助三组对比 in public VS Behind the scenes、 blaming",
+      "width": 0.8411016810692519,
+      "x": 0.1080508603884975,
+      "y": 0.23228346431323055
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013123359580052507,
+      "text": "themselves VS taking aim at someone else、have been blaming... VS have been taking. .. 刻画出银行家一",
+      "width": 0.8792372752785911,
+      "x": 0.067796631251947,
+      "y": 0.21653543333272718
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859708370533,
+      "text": "直以来“人前一套，人后一套”的伪君子做派，尽显其“内心推卸、又假意承担”的虚伪形象，侧面传达全文",
+      "width": 0.8792372752785911,
+      "x": 0.06779662758845854,
+      "y": 0.19476744231151233
+    },
+    {
+      "confidence": 1,
+      "height": 0.018054297589880308,
+      "text": "“指责银行管理者、同情会计准则制定者”的总体导向。",
+      "width": 0.46429014479452974,
+      "x": 0.06340063656744228,
+      "y": 0.1757994960153394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "①句说表：公开场合自我检讨（认为银行巨额损失乃咎由自取）。blame oneself for sth（为某事而自",
+      "width": 0.8368644057906609,
+      "x": 0.10805085099767787,
+      "y": 0.15551181125673574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "责）形似说明银行家极具担当意识，实则经句尾 in public（预示后文会有 in private）暗表其私下里会将责",
+      "width": 0.8792372752785911,
+      "x": 0.06779662539036538,
+      "y": 0.13779527543038073
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371190749362,
+      "text": "任推卸给他人的两面派特质，由此即已透露作者对银行家的反感。",
+      "width": 0.5593220289533042,
+      "x": 0.06567797416741558,
+      "y": 0.11918604694822998
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015992186513785644,
+      "text": "②句言里：私下里却抱怨别人（认为会计准则制定者是罪魁祸首）。Behind the scenes（即 in private）",
+      "width": 0.8411016810692519,
+      "x": 0.10593220190181485,
+      "y": 0.09883720970985777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601889127195666,
+      "text": "紧而出现，断定上述推测准确无误；take aim at sb else 直接引出银行家批评的矛头所向：会计准则制定",
+      "width": 0.8792372752785911,
+      "x": 0.0656779637378233,
+      "y": 0.08136482916353416
+    },
+    {
+      "confidence": 1,
+      "height": 0.01776098641823598,
+      "text": "者，由此明确矛盾双方，并暗传作者同情后者（银行家推诿自身责任的替罪羊）。",
+      "width": 0.6696471584458653,
+      "x": 0.06561326622791035,
+      "y": 0.061006612752841693
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906889427275,
+      "text": "36",
+      "width": 0.02330508332407498,
+      "x": 0.08050847531359812,
+      "y": 0.045058139723891055
+    }
+  ],
+  "vision_ocr_text": "以 not of...but, rather,of...取舍结构强调了社会影响动态变化中的重要因素 a critical mass of easily\ninfluenced people。将四项与之相较，唯有［C］与之一致。最后，借助作者对 Gladwell 观点的反驳态度，\n可排除“强调影响他人能力”的LB」，以及与本文探讨对象无关的［AJ、LD」。\n知识补充\nText 4 会计准则制定者被迁怒\n外教朗读\n.总体分析\n本文节选自 The Economist《经济学人》2009年4月8日一篇题 Banks and Accounting Standards：\nMessenger,Shot（银行和会计准则：报告财务状况的“信使”被迁怒了！注：Don't shoot the messenger.\n意为“不要迁怒于报信的人”）的文章，其脉络为：提出问题—分析问题—解决问题”。\n学二语篇分析及试题精解\n① Bankers have been blaming themselves for\n在公开场合，银行家们一直把遇到的麻烦\ntheir troubles in public. ② Behind the scenes, they have\n归咎于自身。背地里，他们却一直将矛头对准\nbeen taking aim at someone else: the accounting\n他人：会计准则制定者。各家银行抱怨说，他\nstandard- setters. ③ Their rules, moan®\nthe banks，\n们所制定的规则迫使自己报告巨额损失，这实\nhave forced them to report enormous losses, and it's\n在不公平。这些规则称，银行必须根据第三方\njust not fair. ④ These rules say they must value some\n愿意买入的价格而不是管理者和监管机构期\nassets at the price a third party would pay, not the price\n望它们售得的价格来评估部分资产。\nmanagers and regulators®would like them to fetch®.\n词汇注释与难句分析•\n①moan ［moon］ v./n. 抱怨\n①blame sb for sth（因某事而责备某人）\nregulator ［'regislerto］ n. 监管者，监管机构\n②behind the scenes（背地里，幕后）\n（ fetch Lfetf］ v. 售得，卖得（某价）\n③take aim at（抨击，将矛头对准）\n• 经典搭配\n• 语篇分析•\n第一、二段提出问题：银行将自身窘境迁怒于会计准则制定者，准则制定者独立性受到威胁。\n第一段为引子，铺陈银行对其资产评估方法（即会计准则）的态度：不满。关键词为：moan。\n①②句展现银行家的表里不一。两句借助三组对比 in public VS Behind the scenes、 blaming\nthemselves VS taking aim at someone else、have been blaming... VS have been taking. .. 刻画出银行家一\n直以来“人前一套，人后一套”的伪君子做派，尽显其“内心推卸、又假意承担”的虚伪形象，侧面传达全文\n“指责银行管理者、同情会计准则制定者”的总体导向。\n①句说表：公开场合自我检讨（认为银行巨额损失乃咎由自取）。blame oneself for sth（为某事而自\n责）形似说明银行家极具担当意识，实则经句尾 in public（预示后文会有 in private）暗表其私下里会将责\n任推卸给他人的两面派特质，由此即已透露作者对银行家的反感。\n②句言里：私下里却抱怨别人（认为会计准则制定者是罪魁祸首）。Behind the scenes（即 in private）\n紧而出现，断定上述推测准确无误；take aim at sb else 直接引出银行家批评的矛头所向：会计准则制定\n者，由此明确矛盾双方，并暗传作者同情后者（银行家推诿自身责任的替罪羊）。\n36",
+  "pdf_text_layer": "以 no t of ... but , rat her, of. ..取 舍结构强 调 了 社 会影 响 动态变 化中的重 要因素 a criti ca l mass of eas il y\ninflu enced peop l e 。将 四项 与 之相 较 ，唯 有［ CJ 与之 一 致 。最 后 ， 借助作者对 Gl ad we ll 观 点 的 反驳态度，\n可 排 除 “强调 影 响他 人 能 力吨甘 ［町， 以 及与本文探讨对 象无关 的 ［ A］ 、 ［ D] o\n   回主部血E团\n\n\n\n   团：那略\n      知识补充                            Text 4 会计准则制定者被迁怒\n\n\n\n，强f 三·总体分析\n      本文节选自 Th e Economist 《经济学 人 》 2 009 年 4 月 8 日 一篇 题为 Bank s and Acco unting Standard s :\nMessenge r , Sh o t （银行 和 会 计 准 则：报 告 财 务 状况的“ 信 使 ”被 迁怒了！ 注 ： Don ' t s hoo t the messenge r.\n意为“不要迁怒于 报 信 的 人勺 的文 章，其 脉 络为 ： 提 出问题一一分 析问题一一解决 问 题” 。\n\n\n二字－ 二．语篇分析及试题精解\n       I O Ba nkers have been bl aming th emselves for                      在公开场合，银行家们 一 直把遇到的麻烦\nth eir t ro ubl es in publi c. @Behind the scenes, t hey have\n                                                                       归咎于自身 。 背池里，他们却一直将矛头对准\nbeen ta kin g a im at som eone e lse ,         the acco unting\n                                                                       他人：会计准则制定者 。 各家银行抱怨说，他\nsta ndard sett ers. ＠ 国 Th e ir rul es, moan(      th e banks ,\n                                                                       们所制定的规则迫使自己报告巨额损失，这实\nhave for ced t hem t J report enormous losses , and it ’ s\n                                                                       在不公平。这些规则称，银行必须根据第三方\njust no t fair. 0 Th ese rul es say they mu st va lue some\n                                                                       愿意买入的价格而不是管理者和监管机构期\nassets a t t he pri ce a t hird part y would pay , not the price\n                                                                       望它们售得的价格来评估部分资产 。\nmanagers a nd regulatorsl2J wo uld like th em to fetchCD .\n\n\n                                         （·词汇注释与难句；分析• ： 泛\n( moan [ mau n] v. I 几抱怨                                   \\\\       ( blame sb fo r sth （因为某事 而 责备某 人 ）\n( regulator [ ' regjuleita J η ． 监管者， 监 管 机构               !        ( behind tf…en时 背地里，幕后）\n( fetch [ fetf] v. 售得 ， 卖得（某价）                             ；③ … a响 #I· Sf~ X'J ,t)\n． 经典搭配\n\n                                                     分 …\n                                                      ．\n\n\n                                                     篇 …        析       J\n                                                     语 …        －\n\n\n\n\n      第一、二段提出问题：银行将自身窘境迁怒于会计准则制定者，准则制定者独立性受到威胁。\n      第 一 段为引子，铺陈银行对其资产评估方法（即会计准则）的态度：不满。关键词为： moan 。\n      ①② 旬展现银行家的表里不一。 两句借 助 三 组 对比 in public VS Behind the sce nes, bl aming\nt hemselves V S ta ki ng ai m a t som eone e l se 、 have been blaming ... VS have been taking . .. 刻画 出 银行家 一\n直 以 来“人 前 一套 ，人后 一套 ” 的伪 君子 做 派，尽显其 “内心 推 卸、 又 假 意 承担 ” 的 虚 伪 形象， 侧 面传达全文\n“指责银行管理者、 同 情会 计 准 则制 定者” 的 总 体 导 向 。\n      ① 旬说表：公开场合自我检讨（认为银行巨额损失乃咎由自取）。 blam e oneself fo r sth （为某事 而 自\n责）形 似 说 明 银行家极具担当意 识 ，实 则 经句尾 in pub li c （预示后文会 有 in pri vat e ）暗表其私 下 里会 将 责\n任推 卸 给 他人的两 面派特质， 由此即已 透露 作 者对银行 家 的 反 感 。\n      ② 旬言里：私下里却抱怨别人（认为会计准则制定者是罪魁祸首）。 Be hind th e sce n es （ 即 in pri va t e)\n紧 而出现 ， 断 定上 述推测准确无 误； tak e aim at s b e l se 直接 引出银行 家 批评的 矛头 所向： 会 计 准 则制 定\n者 ，由此明确 矛盾双方，并 暗传作者同情 后者（ 银行 家 推读自身 责 任的替罪羊） 。\n 36",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 1772,
+    "pdf_text_character_count": 3082,
+    "nonempty": true
+  }
+}

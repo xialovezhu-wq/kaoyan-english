@@ -1,0 +1,133 @@
+{
+  "schema": "exam_reading_protected_analysis_v1",
+  "generated_date": "2026-07-16",
+  "analysis_id": "EXAM-ANALYSIS-2023-T2",
+  "reference_id": "EXAM-READING-2023-T2",
+  "year": 2023,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 2,
+  "question_numbers": [
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+  "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+  "old_analysis_anchor_range": "14-16",
+  "preprocessed_source_pages": [
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_page_paths": [
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-013.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-014.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-015.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-016.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-017.md"
+  ],
+  "visibility": "hidden_until_review",
+  "answer_key": {
+    "26": "A",
+    "27": "D",
+    "28": "B",
+    "29": "C",
+    "30": "D"
+  },
+  "questions": [
+    {
+      "question_number": 26,
+      "correct_answer": "A",
+      "answer_evidence_page": 14,
+      "answer_evidence_pages": [
+        14
+      ],
+      "analysis_source_pages": [
+        14
+      ],
+      "analysis_text": "【第五段：经济适用房政策专家克伦•霍恩认为将酒店伪装成不\n是酒店的开发商要像酒店一样被对待、征税和监管\n第六、七段：介绍了马萨诸塞州实行租赁登记要求的法案以及霍恩对此的看法和建议\n〇答案解析\n26. Which of the following is true of New England？\n关于新英格兰，下列哪一项是正确的？\n选项出处\nA. Its housing supply is at a very low level.\nA.它的住房供应水平非常低。\n一段 0②\n句\nB.Its communities are in need of funding.\nB.它的社区需要资金。\n一段龜句\nC. Its rental vacancy rate is going up slowly.\nC.它的出租房空置率正在缓慢上升。\n二段①句\nD. Its home prices are under strict control.\nD.它的房价受到严格控制。\n一段 0④句\n口浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。\n从选项的角度解答——如何得出正解，排除干扰\n找关键词：supply 和low。回文定位：根据关键词可定位至一段@句，其中 supply 与该句中的 inventor\n相对应。比对匹配：该句提到，如今房屋库存处于历史低位。但无法确定该句提到的是新英格兰的房屋\nA 库存，故需联系上文分析。辐射匹配：一段•句提到，整个新英格兰的社区一直在试图监管短期租赁。\n由此可知，一段③句说的是新英格兰的房屋库存处于历史低位。换言之，新英格兰的住房供应水平非常\n低，故A正确。\n找关键词：communities。回文定位：根据关键词可定位至一段 句。比对匹配：该句提到，整个新英格\nB 兰的社区一直在试图监管短期租赁。可见，文中仅指出社区一直在试图监管短期租赁，并未提及社区需\n要资金的相关信息，故排除B。\n找关键词：rental vacancy rate。回文定位：根据关键词可定位至二段•句。比对匹配：该句提到，在新罕\nC 布什尔州，出租房空置率已降至1%以下。该句表明新罕布什尔州的出租房空置率在下降，而不是缓慢上\n升，选项与原文正反混淆，故排除C。\n找关键词：home prices。回文定位：根据关键词可定位至一段@句。比对匹配：该句提到，随着房价创历\n史新高、房屋库存处于历史低位，这种监管的紧迫性增加。但无法确定该句提到的这种监管是否是对房价\nD\n的监管，故需联系上文分析。辐射匹配：一段•句提到，整个新英格兰的社区一直在试图监管短期租赁。\n由此可知，这种监管指的是对短期租赁的监管。可见，该句仅指出房价创历史新高这一现象，并未提及房\n价受到严格控制的相关信息，故排除 D。",
+      "anchor_score": 1.2703,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 27,
+      "correct_answer": "D",
+      "answer_evidence_page": 15,
+      "answer_evidence_pages": [
+        15
+      ],
+      "analysis_source_pages": [
+        14,
+        15
+      ],
+      "analysis_text": "27. The bill mentioned in Paragraph 2 was intended\n二段中提到的法案旨在\n选项出处\nto\nA. curb short-term rental speculation\nA. 遏制短期租赁投机\n二段0句\nB. ensure the supply of cheap housing\nB. 确保廉价住房的供应\n二段小句\nC. punish illegal dealings in housing\nC. 惩治违法住房交易\n二段@句\nD. allow a free short-term rental market\nD. 允许有自由的短期租赁市场\n二段2句\n浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。\n从题干的角度解答——如何得出正解，排除干扰\n14\n找关键词：bill 和Paragraph 2。回文定位：根据关键词可定位至二段•句。比对匹配：该句提到，州立法机构\n投票反对了一项法案，该法案本会使城镇立法限制短租这一行为不合法。由此可知，该法案会使城镇不能立法\n限制短租，即该法案允许有自由的短期租赁市场，故D正确。\n段，句提到，不受管控的短期租赁将给原本就紧张的市场造成更大的压力。此处仅提及不受管控的短期租\n房给住房市场带来了更大的压力，由此无法得知法案旨在确保廉价住房的供应，故排除B。二段@句提到，\n州立法机构最近投票反对的法案本会使城镇立法限制短租这一行为不合法。由此可知，法案的内容会使城镇立\n法限制短租的行为不合法，与遏制短期租赁投机或惩治违法住房交易均无关，故排除 A、C。",
+      "anchor_score": 1.1111,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 28,
+      "correct_answer": "B",
+      "answer_evidence_page": 15,
+      "answer_evidence_pages": [
+        15
+      ],
+      "analysis_source_pages": [
+        15
+      ],
+      "analysis_text": "28. Compared with Castle, Taylor is more likely to\n与卡斯尔相比，泰勒更有可能支\n选项出处\n\"pport\n持_\nA. further investment in local tourism\nA. 进一步投资当地旅游业\n四段 句\nB. an increase in affordable housing\nB. 增加经济适用房\n三段\nC.strict management of real estate agents\nC. 严格管理房地产经纪人\n四段①句\nD. a favorable policy for short-term workers\nD.对短期工作人员的优惠政策\n四段②句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：Caste 和 Taylor。回文定位：根据关键词 Taylor 可定位至三段，根据关键词Castle 可定位至四段。\n比对匹配：三段中 Taylor 提到，他们在租赁住房供应方面正面临危机，新罕布什尔州南部的城镇若没有足够的\n经济适用房，雇主很难吸引到员工，而员工也很难找到住处。四段中Caste 指出，短期租赁可以为游客提供住\n房。由此可知，与关注游客住房的Castle 相比，Taylor 的关注重心在于经济适用房，他认为经济适用房供给不\n足导致了雇主很难吸引到员工以及员工也很难找到住处，这也反映出 Taylor 更有可能支持通过增加经济适用房\n来解决问题，故B正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：tourism。回文定位：根据关键词可定位至四段•句。比对匹配：该句中卡斯尔提到，很多工\nA 作人员都在旅游业服务，而旅游业是由那些短期来的人推动的。该句并未提及投资当地旅游业的相关\n信息，且与泰勒无关，故排除A。\n找关键词：real estate agents。回文定位：根据关键词可定位至四段 •句，其与该句中的 realtor 相对应。\nC\n比对匹配：该句介绍了卡斯尔是新罕布什尔州当地一家房地产经纪人协会的首席执行官，并未提及要严\n格管理房地产经纪人的相关信息，且与泰勒无关，故排除C。\n找关键词：short-term 和 workers。回文定位：根据关键词可定位至四段③句，其中 short-term 与该句中\nD\n的 in short term 相对应。比对匹配：该句中卡斯尔提到，很多工作人员都在为旅游业服务，而旅游业是\n由那些短期来的人推动的。该句并未介绍对短期工作人员的优惠政策，且并非泰勒的观点，故排除D。",
+      "anchor_score": 1.1971,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 29,
+      "correct_answer": "C",
+      "answer_evidence_page": 15,
+      "answer_evidence_pages": [
+        15
+      ],
+      "analysis_source_pages": [
+        15,
+        16
+      ],
+      "analysis_text": "29. What does Hom emphasize in Paragraph 5？\n五段中，霍恩强调了什么？\n选项出处\nA. The urgency to upgrade short-terh rental facilities.\nA. 升级短租设施的紧迫性。\n五段④句\nB. The efficient operation of the local housing market.\nB. 当地住房市场的高效运作。\n七段\nC. The necessity to stop developers from evading\ntaxes.\nC.制止开发商逃税的必要性。\n五段 ④⑤句\nD. The proper procedures for renting out spare houses.\nD. 出租闲置房屋的正规程序。\n五段24句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：Hor 和 Paragraph 5。回文定位：根据关键词可定位至五段0②⑧③句。比对匹配：五段 0②⑧ 句提\n到，Hom 指出短期租赁本身并不是问题的关键，并认为个人能够出租第二套住房是一件好事。五段◎句提到，\nHom 认为应该像对待酒店一样对待在建酒店却把它伪装成不是酒店的开发商，对其进行征税和监管，但由此\n尚无法得知Hor 主要强调的内容，故还需联系上文。辐射匹配：五段• 句提到，当开发商试图打造大规模的\n短租设施——实际上是酒店—来绕过税收和法规时，问题就出现了。由此可知，Hom 认为问题的关键在于，\n开发商会通过将其所建造的实际上是酒店的设施伪装成不是酒店来逃税。结合五段0© 句可推知，Hor 强调\n制止开发商逃税的必要性，故C正确。\n$15\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：short-term rental facilities。回文定位：根据关键词可定位至五段④句。比对匹配：该句提到，\nA\n开发商试图打造大规模的短租设施，而这些短租设施实际上却是酒店。可见，该句仅提及开发商打造短\n租设施，并未提及霍恩强调升级短租设施的紧迫性的相关信息，故排除A。\n找关键词：housing market。回文定位：根据关键词可定位至七段。比对匹配：七段中霍恩提到如果想改\nB 变住房市场，最重要的一点是必须建造更多的房子。该段的主要内容为改变住房市场需采取的措施，并\n未提及霍恩强调当地住房市场高效运作的相关信息，且并非五段的内容，故排除B。\n找关键词：renting out、spare 和 houseso\n回文定位：根据关键词可定位至五段⑧③ 句，其中 spare 和\nhouses 分别与五段⑧ 句中的empty 和五段②⑧ 句中的home相对应。比对匹配：五段@句提到，霍恩认、\nD\n为个人能够出租他们的第二套住房是一件好事。五段⑧ 句提到，如果这是他们的度假屋，而且正好闲置，\n那么就可以靠它赚钱。这两句仅表明了霍恩个人对出租闲置房屋的看法，并未提及出租闲置房屋正规程\n序的具体内容，故排除D。",
+      "anchor_score": 1.0889,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 30,
+      "correct_answer": "D",
+      "answer_evidence_page": 16,
+      "answer_evidence_pages": [
+        16
+      ],
+      "analysis_source_pages": [
+        16
+      ],
+      "analysis_text": "30. Hom holds that imposing registration requirements\nis\n霍恩认为强制实行登记要求是\n选项出处\nA.an irrational decision\nA.一个不合理的决定\n原文未提\nB. an unfeasible proposal\nB. 一个不可行的提议\n原文未提\nC. an unnecessary measure\nC. 一个不必要的措施\n原文未提\nD. an inadequate solution\nD.一个不完善的解决方案\n七段\n浏览后发现，该题属于观，点态度题，仅从题干角度解题最为高效。\n从题干的角度解答——如何得出正解，排除干扰\n找关键词：Horn 和 registration requirements。回文定位：根据关键词可定位至七段。比对匹配：该段提到，Hom\n认为，类似的登记要求可能会对处于困境中的城镇有利，但是如果要想改变住房市场，最重要的一点是必须建\n造更多的房子。可见，Hor 认为只强制实行登记无法完全改变住房市场，最重要的还是要建造更多的房子，\n即强制实行登记要求是-个不完善的解决方案，故D正确。\n七段提及，Hor 认为类似的登记要求可能会对处于困境中的城镇有利。可见，他并不认为强制实行登记要求\n是一个不合理的决定、不可行的提议或不必要的措施，故排除A、B、C。",
+      "anchor_score": 1.0948,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    }
+  ],
+  "full_source_analysis_text": "### PDF p13\n\nregulation, particularly among those who worry that developers\n尤其是有人担心开发商会进入市场并买下大片\nwill come in and buy up swaths of housing to flip for a fortune\n住房，然后在短期租赁市场上大赚一笔。\non the short-term rental market.\n在新罕布什尔州，出租房空置率已降至1%\n1［2］@in New Hampshire, where the rental vacancy rate has\n以下，住房倡导者担忧，不受管控的短期租赁将\ndropped below 1 percent, housing advocates fear unchecked\n给原本就紧张的市场造成更大的压力。（27）最\nshort-term rentals will put further pressure on an already\n近，州立法机构投票反对了一项法案，该法案\nstrained market. @The state Legislature recently voted against a\nbill that would've made it illegal for towns to create legislation\n本会使城镇立法限制短租这一行为不合法。\nrestricting short-term rentals.\n（28）“我们在租赁住房供应方面正面临\n［3］@“We are at a crisis level on the supply of rental\n危机，”大海岸劳动力住房联盟执行董事尼\nhousing，\" said Nick Taylor, executive director of the Workforce\n克•泰勒说。在新罕布什尔州南部的城镇，若\nHousing Coalition of the Greater Seacoast. @Without enough\n没有足够的经济适用房，“雇主很难吸引到员\naffordable housing in southern New Hampshire towns，\n工，而员工也很难找到住处，”泰勒说道。\n“employers are having a hard time attracting employees，\n然而，当地一家房地产经纪人协会的首席\nand workers are having a hard time finding a place to live，”\n执行官瑞安•卡斯尔指出，短期租赁也可以为\nTaylor said\n游客提供住房。他说，“很多工作人员都在为\n［4］@However, short-term rentals also provide housing for\ntourists, pointed out Ryan Castle, CEO of a local association of\n旅游业服务，而旅游业是由那些短期来的人推\nrealtor. @\"A lot of workers are servicing the tourist industry, and\n动的，所以这是一种循环效应”。\nthe tourism industry is serviced by those people coming in short\n经济适用房政策专家克伦•霍思表示，短\nterm.” Castle said， \"and so it’'s a cyclical effect.\"\n期租赁本身并不是问题的关键。“我认为个人\n［5］@Short-term rentals themselves are not the crux of the\n能够出租他们的第二套住房是一件好事。況\nissue, said Keren Horn, an expert on affordable housing policy.\n且，如果这是他们的度假屋，而且正好闲置，\n②\"1 think individuals being able to rent out their second home\n为什么不能靠它赚钱呢？”霍恩说道。（29）然\nis a good thing. ©lf it's their vacation home anyway, and it's just\n而，当开发商试图打造大规模的短租设施一\nempty, why can't you make money off it？”Horn said. @lssues\n实际上是酒店——来绕过税收和法规时，问题\narise, however, when developers attempt to create large-scale\n就出现了。“我认为问题在于，一个实际上在\nshort-term rental facilities—de facto hotels—to bypass taxes\nand regulations. @\"I think the question is, shouldn't a developer\n建酒店却把它伪装成不是酒店的开发商，难道\nwho's really building a hotel, but disguising it as not a hotel, be\n不应该像酒店一样被对待、征税和监管吗？”\ntreated and taxed and regulated like a hotel？”Hor said.\n雀恩说。\n［6］@At the end of 2018, Governor Charlie Baker of\n2018年年底，马萨诸塞州州长查理•贝克\nMassachusetts signed a bill to rein in those potential investor-\n签署了一项法案来严加限制那些潜在的投资者\nbuyers. @The bill requires every rental host to register with the\n买家。该法案要求每一位租赁房东在州政府登\nstate, mandates they carry insurance, and opens the potential for\n记，规定他们须有保险，并开辟了在新州税的\nlocal taxes on top of a new state levy. ⑧Boston took things even\n基础上征收地方税的可能性。波士顿甚至更进\nfurther, requiring renters to register with the city's Inspectional\n一步，要求承租人在该市的监察事务署登记。\nServices Department.\n［7］@Horn said similar registration requirements could\n（30）霍恩说，类似的登记要求可能会对\nbenefit struggling cities and towns, but \"if we want to make a\n处于困境中的城镇有利，但是“如果我们想改\nchange in the housing market, the main one is we have to build a\n变住房市场，最重要的一点是我们必须建造更\nlot more.”\n多的房子。”\n13\n\n### PDF p14\n\n◎ 篇章结构\n第一、二段：引出话题—新英格兰的短期租赁急需监管并举例新罕布什尔州的短期租赁及\n其监管现状\n「第三段：大海岸劳动力住房联盟执行董事尼克•泰勒提到他们\n新英格兰在租赁\n在住房供应方面面临危机\n住房供应方画、第三至五段：愿开塗述不同业\n内人士和专家对＜第四段：新罕布什尔州一家房地产经纪人协会的首席执行宫瑞\n面临危机\n短租的看法\n安•卡斯尔指出短期租赁可以为游客提供住房\n【第五段：经济适用房政策专家克伦•霍恩认为将酒店伪装成不\n是酒店的开发商要像酒店一样被对待、征税和监管\n第六、七段：介绍了马萨诸塞州实行租赁登记要求的法案以及霍恩对此的看法和建议\n〇答案解析\n26. Which of the following is true of New England？\n关于新英格兰，下列哪一项是正确的？\n选项出处\nA. Its housing supply is at a very low level.\nA.它的住房供应水平非常低。\n一段 0②\n句\nB.Its communities are in need of funding.\nB.它的社区需要资金。\n一段龜句\nC. Its rental vacancy rate is going up slowly.\nC.它的出租房空置率正在缓慢上升。\n二段①句\nD. Its home prices are under strict control.\nD.它的房价受到严格控制。\n一段 0④句\n口浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。\n从选项的角度解答——如何得出正解，排除干扰\n找关键词：supply 和low。回文定位：根据关键词可定位至一段@句，其中 supply 与该句中的 inventor\n相对应。比对匹配：该句提到，如今房屋库存处于历史低位。但无法确定该句提到的是新英格兰的房屋\nA 库存，故需联系上文分析。辐射匹配：一段•句提到，整个新英格兰的社区一直在试图监管短期租赁。\n由此可知，一段③句说的是新英格兰的房屋库存处于历史低位。换言之，新英格兰的住房供应水平非常\n低，故A正确。\n找关键词：communities。回文定位：根据关键词可定位至一段 句。比对匹配：该句提到，整个新英格\nB 兰的社区一直在试图监管短期租赁。可见，文中仅指出社区一直在试图监管短期租赁，并未提及社区需\n要资金的相关信息，故排除B。\n找关键词：rental vacancy rate。回文定位：根据关键词可定位至二段•句。比对匹配：该句提到，在新罕\nC 布什尔州，出租房空置率已降至1%以下。该句表明新罕布什尔州的出租房空置率在下降，而不是缓慢上\n升，选项与原文正反混淆，故排除C。\n找关键词：home prices。回文定位：根据关键词可定位至一段@句。比对匹配：该句提到，随着房价创历\n史新高、房屋库存处于历史低位，这种监管的紧迫性增加。但无法确定该句提到的这种监管是否是对房价\nD\n的监管，故需联系上文分析。辐射匹配：一段•句提到，整个新英格兰的社区一直在试图监管短期租赁。\n由此可知，这种监管指的是对短期租赁的监管。可见，该句仅指出房价创历史新高这一现象，并未提及房\n价受到严格控制的相关信息，故排除 D。\n27. The bill mentioned in Paragraph 2 was intended\n二段中提到的法案旨在\n选项出处\nto\nA. curb short-term rental speculation\nA. 遏制短期租赁投机\n二段0句\nB. ensure the supply of cheap housing\nB. 确保廉价住房的供应\n二段小句\nC. punish illegal dealings in housing\nC. 惩治违法住房交易\n二段@句\nD. allow a free short-term rental market\nD. 允许有自由的短期租赁市场\n二段2句\n浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。\n从题干的角度解答——如何得出正解，排除干扰\n14\n\n### PDF p15\n\n找关键词：bill 和Paragraph 2。回文定位：根据关键词可定位至二段•句。比对匹配：该句提到，州立法机构\n投票反对了一项法案，该法案本会使城镇立法限制短租这一行为不合法。由此可知，该法案会使城镇不能立法\n限制短租，即该法案允许有自由的短期租赁市场，故D正确。\n段，句提到，不受管控的短期租赁将给原本就紧张的市场造成更大的压力。此处仅提及不受管控的短期租\n房给住房市场带来了更大的压力，由此无法得知法案旨在确保廉价住房的供应，故排除B。二段@句提到，\n州立法机构最近投票反对的法案本会使城镇立法限制短租这一行为不合法。由此可知，法案的内容会使城镇立\n法限制短租的行为不合法，与遏制短期租赁投机或惩治违法住房交易均无关，故排除 A、C。\n28. Compared with Castle, Taylor is more likely to\n与卡斯尔相比，泰勒更有可能支\n选项出处\n\"pport\n持_\nA. further investment in local tourism\nA. 进一步投资当地旅游业\n四段 句\nB. an increase in affordable housing\nB. 增加经济适用房\n三段\nC.strict management of real estate agents\nC. 严格管理房地产经纪人\n四段①句\nD. a favorable policy for short-term workers\nD.对短期工作人员的优惠政策\n四段②句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：Caste 和 Taylor。回文定位：根据关键词 Taylor 可定位至三段，根据关键词Castle 可定位至四段。\n比对匹配：三段中 Taylor 提到，他们在租赁住房供应方面正面临危机，新罕布什尔州南部的城镇若没有足够的\n经济适用房，雇主很难吸引到员工，而员工也很难找到住处。四段中Caste 指出，短期租赁可以为游客提供住\n房。由此可知，与关注游客住房的Castle 相比，Taylor 的关注重心在于经济适用房，他认为经济适用房供给不\n足导致了雇主很难吸引到员工以及员工也很难找到住处，这也反映出 Taylor 更有可能支持通过增加经济适用房\n来解决问题，故B正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：tourism。回文定位：根据关键词可定位至四段•句。比对匹配：该句中卡斯尔提到，很多工\nA 作人员都在旅游业服务，而旅游业是由那些短期来的人推动的。该句并未提及投资当地旅游业的相关\n信息，且与泰勒无关，故排除A。\n找关键词：real estate agents。回文定位：根据关键词可定位至四段 •句，其与该句中的 realtor 相对应。\nC\n比对匹配：该句介绍了卡斯尔是新罕布什尔州当地一家房地产经纪人协会的首席执行官，并未提及要严\n格管理房地产经纪人的相关信息，且与泰勒无关，故排除C。\n找关键词：short-term 和 workers。回文定位：根据关键词可定位至四段③句，其中 short-term 与该句中\nD\n的 in short term 相对应。比对匹配：该句中卡斯尔提到，很多工作人员都在为旅游业服务，而旅游业是\n由那些短期来的人推动的。该句并未介绍对短期工作人员的优惠政策，且并非泰勒的观点，故排除D。\n29. What does Hom emphasize in Paragraph 5？\n五段中，霍恩强调了什么？\n选项出处\nA. The urgency to upgrade short-terh rental facilities.\nA. 升级短租设施的紧迫性。\n五段④句\nB. The efficient operation of the local housing market.\nB. 当地住房市场的高效运作。\n七段\nC. The necessity to stop developers from evading\ntaxes.\nC.制止开发商逃税的必要性。\n五段 ④⑤句\nD. The proper procedures for renting out spare houses.\nD. 出租闲置房屋的正规程序。\n五段24句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：Hor 和 Paragraph 5。回文定位：根据关键词可定位至五段0②⑧③句。比对匹配：五段 0②⑧ 句提\n到，Hom 指出短期租赁本身并不是问题的关键，并认为个人能够出租第二套住房是一件好事。五段◎句提到，\nHom 认为应该像对待酒店一样对待在建酒店却把它伪装成不是酒店的开发商，对其进行征税和监管，但由此\n尚无法得知Hor 主要强调的内容，故还需联系上文。辐射匹配：五段• 句提到，当开发商试图打造大规模的\n短租设施——实际上是酒店—来绕过税收和法规时，问题就出现了。由此可知，Hom 认为问题的关键在于，\n开发商会通过将其所建造的实际上是酒店的设施伪装成不是酒店来逃税。结合五段0© 句可推知，Hor 强调\n制止开发商逃税的必要性，故C正确。\n$15\n\n### PDF p16\n\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：short-term rental facilities。回文定位：根据关键词可定位至五段④句。比对匹配：该句提到，\nA\n开发商试图打造大规模的短租设施，而这些短租设施实际上却是酒店。可见，该句仅提及开发商打造短\n租设施，并未提及霍恩强调升级短租设施的紧迫性的相关信息，故排除A。\n找关键词：housing market。回文定位：根据关键词可定位至七段。比对匹配：七段中霍恩提到如果想改\nB 变住房市场，最重要的一点是必须建造更多的房子。该段的主要内容为改变住房市场需采取的措施，并\n未提及霍恩强调当地住房市场高效运作的相关信息，且并非五段的内容，故排除B。\n找关键词：renting out、spare 和 houseso\n回文定位：根据关键词可定位至五段⑧③ 句，其中 spare 和\nhouses 分别与五段⑧ 句中的empty 和五段②⑧ 句中的home相对应。比对匹配：五段@句提到，霍恩认、\nD\n为个人能够出租他们的第二套住房是一件好事。五段⑧ 句提到，如果这是他们的度假屋，而且正好闲置，\n那么就可以靠它赚钱。这两句仅表明了霍恩个人对出租闲置房屋的看法，并未提及出租闲置房屋正规程\n序的具体内容，故排除D。\n30. Hom holds that imposing registration requirements\nis\n霍恩认为强制实行登记要求是\n选项出处\nA.an irrational decision\nA.一个不合理的决定\n原文未提\nB. an unfeasible proposal\nB. 一个不可行的提议\n原文未提\nC. an unnecessary measure\nC. 一个不必要的措施\n原文未提\nD. an inadequate solution\nD.一个不完善的解决方案\n七段\n浏览后发现，该题属于观，点态度题，仅从题干角度解题最为高效。\n从题干的角度解答——如何得出正解，排除干扰\n找关键词：Horn 和 registration requirements。回文定位：根据关键词可定位至七段。比对匹配：该段提到，Hom\n认为，类似的登记要求可能会对处于困境中的城镇有利，但是如果要想改变住房市场，最重要的一点是必须建\n造更多的房子。可见，Hor 认为只强制实行登记无法完全改变住房市场，最重要的还是要建造更多的房子，\n即强制实行登记要求是-个不完善的解决方案，故D正确。\n七段提及，Hor 认为类似的登记要求可能会对处于困境中的城镇有利。可见，他并不认为强制实行登记要求\n是一个不合理的决定、不可行的提议或不必要的措施，故排除A、B、C。\nText 3\n◎命题分析\n配套外教骨頻\nText 3选自2021年6月4日的 The Telegraph（《每日电讯报》），原文标题为 “No One Wins in the War Between\nBookshops and Publishers—Not Even the Duchess of Sussex”（《在书店和出版商之间的战争中没有赢家———即使\n是萨塞克斯公爵夫人也不例外》）。文章首先引出出版商企鹅兰登书屋与零售商水石书店持续存在冲突这一话题，\n然后介绍该冲突产生的原因以及带来的影响，最后描述了对出版商合并的看法。\n题目设置：31题为写作目的题，32题至34题为细节理解题，35题为判断正误题。\n◎ 英汉对照\n［1］@If you're heading for your nearest branch of\n水石书店是英国最大的书籍零售商，如果你\nWaterstones, the biggest book retailer in the UK, in search of\n正在前往离你最近的分店寻找萨塞克斯公爵夫\nthe Duchess of Sussex's new children's book The Bench,you\n人的儿童读物新作《长発》，你可能得准备好\nmight have to be prepared to hunt around a bit; the same may be\n稍微四处搜寻一下；比尔•克林顿和詹姆斯 •帕\ntrue of The President's Daughter, the new thriller by Bill Clinton\n特森的新惊险小说《总统的女儿》可能也是同样\nand James Patterson. @Both of these books are published next\n的情况。（31）这两本书都将在下周由企鹅兰登\n9\n\n### PDF p17\n\nweek by Penguin Random House （PRH）， a company currently\n书屋（PRH）出版，该公司目前与水石书店陷\ninvolved in a stand-off with Waterstones.\n二了優局。\n［2｝③The problem began late last year, when PRH confirmed\n（32）这个问题始于去年年底，当时企鹅\nthat it had introduced a credit limit with Waterstones \"at a very\n兰登书屋证实已经对水石书店实行了“水平十\neignificant level'. @The trade magazine The Boohseller reported\n分显著的”信贷限额。行业杂志《书商》报道称，\nthat Waterstones branch managers were being told to remove\n水石书店的分店经理被告知要把企鹅兰登书屋\nPRH books from prominent areas such as tables, display spaces\n出版的书籍从桌子、展示区和橱窗等显眼区城\nand windows, and were \"quietly retiring them to their relevant\n移走，并“悄悄地将这些书放回相关区域”。\n'sections\".\n（33）企鵝兰登书屋拒绝就此事发表评论，\n［3］OPRH declined to comment on the issue, but a\n但是水石书店的一位发言人告诉我：“目前水\nspokesperson for Waterstones told me： “Waterstones are\n石书店是在企鹅兰登书屋缩短了信贷期限的情\ncurrently operating with reduced credit terms from PRH, the\n况下经营的，企鹅兰登书屋是英團唯——家对\nonly publisher in the UK to place any limitations on our ability\n我们的交易能力施加限制的出版商。我们没有\nto trade. @We are not boycotting PRH titles but we are doing\n抵制企鹅兰登书屋出版的书籍，而是在尽力确\nour utmost to ensure that availability for customers remains good\n保对顾客的供应仍然处于良好状态，尽管总体\ndespite the lower overall levels of stock. ⑧We are hopeful with\n库存水平較低。现在我们的书店已经靈新开张\nour shops now open again that normality will retur and that we\n了，我们希望可以恢复正常，并且我们可以获\nwill be allowed to buy appropriately. @Certainly, our shops are\n准适当地购买书籍。当然，我们的书店特别忙。\nexceptionally busy. ©The sales for our May Books of the Month\n（33） 我们5月份的月度图书销量超过了2018\nsurpassed any month since 2018.”\n年以来的任何一个月的图书銷量。”\n［4］©In the meantime, PRH authors have been the losers.\n在此期间，企鹅兰登书屋的作家沦为这场\n©Big-name PRH authors may suffer a bit, but it's those mid-\n冲突中的受害者。（34）知名的企鹅兰登书屋\nlist authors, who normally rely on Waterstones staff's passion for\n作家可能会受到一些影响，但会祈祷这场纷争\npromoting books by lesser-known writers, who will be praying\n结束的还是那些书刊销量排行居中的作家，他\nfor an end to the dispute.\n们通常依赖水石书店员工的热情来推销知名度\n［5］③It comes at a time when authors are already worried\n较低的作家的作品。\nabout the consequences of the proposed merger between PRH\n（35）与此同时，作家们已经在担心企鹅\nand another big publisher, Simon & Schuster-the reduction in\n兰登书屋和另一家大型出版商西蒙与舒斯特拟\nthe number of unaligned UK publishers is likely to lead to fewer\nbidding wars, lower advances, and more conformity in terms of\n议合并的后果——未联盟的英国出版商数量下\nwhat is published.\n降很可能导致更少的竟购战、更低的预付款以\n［6］0*This is all part of a wider change towards concentration\n及更一致的出版内容。\nof power and cartels. ②Literary agencies are getting bigger\n（35）“这都是向着权力集中和企业联盟\nto have the clout to negotiate better terms with publishers，\n发生的更广泛变化的一部分。文学机构正变得\npublishers consolidating to deal with Amazon，” says Lownie.\n越来越大，以便获得影响力与出版商商定更有\n⑧\"The publishing industry talks about diversity in terms\n利的条件，而出版商正合并起来以应对亚马\nof authors and staff but it also needs a plurality of ways of\n逊，”劳尼表示。（35）“出版业从作家和员\ndelivering intellectual contact, choice and different voices.\n工的角度谈论多样性，但它也需要多种方式来\n④After all, many of the most interesting books in recent years\n传递知识联系、选择和不同的声音。毕竟，近\nhave come from small publishers.”\n年来许多最有趣的书都来自小型出版商。”\n［7］@We shall see whether that plurality is a casualty of the\n当前，出版商有着需要大到足以对付所有\ncurrent need among publishers to be big enough to take on all-\n竞争者的需求，至于这种多元性是否会成为这\ncomers.\n一需求的牺牲品，让我们拭目以待。",
+  "extraction_status": "preprocessed_complete",
+  "quality": {
+    "answer_count": 5,
+    "question_analysis_count": 5,
+    "nonempty_question_analysis_count": 5,
+    "source_page_count": 5,
+    "full_source_analysis_characters": 12162,
+    "minimum_anchor_score": 1.0889,
+    "vision_ocr_dpi": 150,
+    "source_verified_answers": true
+  }
+}

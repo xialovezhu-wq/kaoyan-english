@@ -1,0 +1,294 @@
+{
+  "schema_version": "english-learning-pipeline-handoff-v1",
+  "source_id": "RAW-ARTICLE-20260711-009",
+  "source_hash": "sha256:e5689d55cf9f7c217bf06f335ba6c5a97a78a1c5b4fb712e655c03c546d1a387",
+  "canonical_payload": {
+    "path": "text-1-practice-safe.md",
+    "normalization": "UTF-8; LF line endings; trailing whitespace removed per line; no final LF",
+    "visibility": "practice_safe"
+  },
+  "units": [
+    {
+      "sentence_id": "S01",
+      "source_kind": "article",
+      "source_sentence": "Come on - Everybody’s doing it.",
+      "sentence_hash": "sha256:77eb4c7760f2895324250021e76219718c02f0d50d08c742d4e0c02d706d20e5"
+    },
+    {
+      "sentence_id": "S02",
+      "source_kind": "article",
+      "source_sentence": "That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure.",
+      "sentence_hash": "sha256:093dd2e17ff2ea3c03698eb0c583eaf8567f8c75646fa5a2a4753da8dc1ab011"
+    },
+    {
+      "sentence_id": "S03",
+      "source_kind": "article",
+      "source_sentence": "It usually leads to no good — drinking, drugs and casual sex.",
+      "sentence_hash": "sha256:f55b60397b4912b3805a64b47ae3d30dc6321c286e7f5f0bb32bd6fb226f5fb4"
+    },
+    {
+      "sentence_id": "S04",
+      "source_kind": "article",
+      "source_sentence": "But in her new book Join the Club, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world.",
+      "sentence_hash": "sha256:9653ac11541ddc14e81c37be4c9bf09b7566e02b094b48c1e60d89a246075fa4"
+    },
+    {
+      "sentence_id": "S05",
+      "source_kind": "article",
+      "source_sentence": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool.",
+      "sentence_hash": "sha256:40c147c25edb91cd7d6574252acebdc2e5e4105c5c243a60b55f3af84d68ec30"
+    },
+    {
+      "sentence_id": "S06",
+      "source_kind": "article",
+      "source_sentence": "In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers.",
+      "sentence_hash": "sha256:3b4c312650dcb8cb51a0346b84ac86147e2dc3133bed7f54a63e94609ad80bfb"
+    },
+    {
+      "sentence_id": "S07",
+      "source_kind": "article",
+      "source_sentence": "The idea seems promising, and Rosenberg is a perceptive observer.",
+      "sentence_hash": "sha256:42ee2244d54fb28420eae0f62e858c9615a63b41d996e00ba2048fe256d41767"
+    },
+    {
+      "sentence_id": "S08",
+      "source_kind": "article",
+      "source_sentence": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology.",
+      "sentence_hash": "sha256:575adb054fa026b3ba7f387882e317e845b1acde4b5c1eee71fec5565e2d2684"
+    },
+    {
+      "sentence_id": "S09",
+      "source_kind": "article",
+      "source_sentence": "“Dare to be different, please don’t smoke!” pleads one billboard campaign aimed at reducing smoking among teenagers — teenagers, who desire nothing more than fitting in.",
+      "sentence_hash": "sha256:cac424800174e13bc2faf41e70030911ce8ddd1cb54e36b66c91b43c831dff51"
+    },
+    {
+      "sentence_id": "S10",
+      "source_kind": "article",
+      "source_sentence": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+      "sentence_hash": "sha256:3600d2295481e1cb72bb47ae99944e4235cf2b96c8064e0a31db698dbf01982d"
+    },
+    {
+      "sentence_id": "S11",
+      "source_kind": "article",
+      "source_sentence": "But on the general effectiveness of the social cure, Rosenberg is less persuasive.",
+      "sentence_hash": "sha256:cf87cbc8f535f9ccd9986aee61a2ebf1b7a7cad7a0aeaac1042e961bc429bcea"
+    },
+    {
+      "sentence_id": "S12",
+      "source_kind": "article",
+      "source_sentence": "Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+      "sentence_hash": "sha256:08c288b0dc333297fe8abe1b0a24388803754229eff86629390211513ddac5c7"
+    },
+    {
+      "sentence_id": "S13",
+      "source_kind": "article",
+      "source_sentence": "The most glaring flaw of the social cure as it’s presented here is that it doesn’t work very well for very long.",
+      "sentence_hash": "sha256:4803a827516826af64a635b906c8f0c6f58e675b4b00627f1ba7fd64d89d6a0e"
+    },
+    {
+      "sentence_id": "S14",
+      "source_kind": "article",
+      "source_sentence": "Rage Against the Haze failed once state funding was cut.",
+      "sentence_hash": "sha256:74e52c5c234dacfe56b0f22c5bfb3ad874892191412f7da59c0b0d0aa71b8b03"
+    },
+    {
+      "sentence_id": "S15",
+      "source_kind": "article",
+      "source_sentence": "Evidence that the loveLife program produces lasting changes is limited and mixed.",
+      "sentence_hash": "sha256:f1da7dc7d26df320377f58f430038c783731639025d9b0564feac364e1a0be9d"
+    },
+    {
+      "sentence_id": "S16",
+      "source_kind": "article",
+      "source_sentence": "There’s no doubt that our peer groups exert enormous influence on our behavior.",
+      "sentence_hash": "sha256:c4ace9a6ac9c1e8800a85297705debaae92a911959e891e3dd808ee2cd56f9e4"
+    },
+    {
+      "sentence_id": "S17",
+      "source_kind": "article",
+      "source_sentence": "An emerging body of research shows that positive health habits - as well as negative ones — spread through networks of friends via social communication.",
+      "sentence_hash": "sha256:988d82824066e5837e1c5887296c7d36067128f3db10233bdd9c861bc6184d9e"
+    },
+    {
+      "sentence_id": "S18",
+      "source_kind": "article",
+      "source_sentence": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+      "sentence_hash": "sha256:754153240fb1f3a2932255ad2a402f1c8f52ad37a104e455f6e087f1dee7c7a8"
+    },
+    {
+      "sentence_id": "S19",
+      "source_kind": "article",
+      "source_sentence": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.",
+      "sentence_hash": "sha256:c3aa8932ae5f7cec115a169dd30e9efb2d18a63ab1bf8122240802c39655040d"
+    },
+    {
+      "sentence_id": "S20",
+      "source_kind": "article",
+      "source_sentence": "It’s like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates.",
+      "sentence_hash": "sha256:4d1445c2d8aea81122328189a04ffab1fe33d374edab1aa755104967d2343cd7"
+    },
+    {
+      "sentence_id": "S21",
+      "source_kind": "article",
+      "source_sentence": "The tactic never really works.",
+      "sentence_hash": "sha256:c7eb92ff11c46de61014106ff8412780886171d5e163e0fb55cfa6ce86c05734"
+    },
+    {
+      "sentence_id": "S22",
+      "source_kind": "article",
+      "source_sentence": "And that’s the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+      "sentence_hash": "sha256:3175227992508f9aa2747b511a6ab69e4e4b1fab6d18a154bae6a9e59d12ef0d"
+    },
+    {
+      "sentence_id": "Q21-STEM",
+      "source_kind": "question",
+      "source_sentence": "According to the first paragraph, peer pressure often emerges as",
+      "sentence_hash": "sha256:b9f1ebbcee2b1003418f4b9726665b48057bb95d0d774f210e81b2785ba644b2"
+    },
+    {
+      "sentence_id": "Q21-A",
+      "source_kind": "option",
+      "source_sentence": "a supplement to the social cure.",
+      "sentence_hash": "sha256:ac694fb8696860515967317626f2cdb2018efc7d161b12081f3c6518902453c0"
+    },
+    {
+      "sentence_id": "Q21-B",
+      "source_kind": "option",
+      "source_sentence": "a stimulus to group dynamics.",
+      "sentence_hash": "sha256:05066fe9eca8c4749f1cbbec5f9cc21e04efde7e0a5435e6575ead17de603989"
+    },
+    {
+      "sentence_id": "Q21-C",
+      "source_kind": "option",
+      "source_sentence": "an obstacle to social progress.",
+      "sentence_hash": "sha256:af05d68ec47130c44d33accb2a48dc418e1fd2b43f3455b9a4f87531eebaf91c"
+    },
+    {
+      "sentence_id": "Q21-D",
+      "source_kind": "option",
+      "source_sentence": "a cause of undesirable behaviors.",
+      "sentence_hash": "sha256:fd5e49d68e81660e62eeb801c5abf3da18ec6da95211607173f7d2121993f55f"
+    },
+    {
+      "sentence_id": "Q22-STEM",
+      "source_kind": "question",
+      "source_sentence": "Rosenberg holds that public-health advocates should",
+      "sentence_hash": "sha256:d6443c29a7d29ecec7a8cd3aebb5012f5a533243e13fb789390976e1a61c7245"
+    },
+    {
+      "sentence_id": "Q22-A",
+      "source_kind": "option",
+      "source_sentence": "recruit professional advertisers.",
+      "sentence_hash": "sha256:797bcf1bddf2c4ad712ee41d9a595919289e6672ddc070eee58d1beb9f263eca"
+    },
+    {
+      "sentence_id": "Q22-B",
+      "source_kind": "option",
+      "source_sentence": "learn from advertisers’ experience.",
+      "sentence_hash": "sha256:0acde96a319ca84931849d44487b281a10c59a9b1e8dd572d41f12433bab7442"
+    },
+    {
+      "sentence_id": "Q22-C",
+      "source_kind": "option",
+      "source_sentence": "stay away from commercial advertisers.",
+      "sentence_hash": "sha256:438adbff835a378ad0d02fce5684af841eb36e6e03f63a3205b5bb46eba44125"
+    },
+    {
+      "sentence_id": "Q22-D",
+      "source_kind": "option",
+      "source_sentence": "recognize the limitations of advertisements.",
+      "sentence_hash": "sha256:7bdb2578dbef08174ea0e2df55df948f0341131627d5146ac6110f8fa78b404e"
+    },
+    {
+      "sentence_id": "Q23-STEM",
+      "source_kind": "question",
+      "source_sentence": "In the author’s view, Rosenberg’s book fails to",
+      "sentence_hash": "sha256:f0da5923d09970a485461a00d0296f5f86b5113e95519f4ce5ff15a725537147"
+    },
+    {
+      "sentence_id": "Q23-A",
+      "source_kind": "option",
+      "source_sentence": "adequately probe social and biological factors.",
+      "sentence_hash": "sha256:e3b44458d4974dfc2f82cf56fe7f1af75cfcf7129308fe96ff9644e8516649d0"
+    },
+    {
+      "sentence_id": "Q23-B",
+      "source_kind": "option",
+      "source_sentence": "effectively evade the flaws of the social cure.",
+      "sentence_hash": "sha256:8d39153661f3dc2514e0858929555175f6b96a5f98116a72fb7a58209462134d"
+    },
+    {
+      "sentence_id": "Q23-C",
+      "source_kind": "option",
+      "source_sentence": "illustrate the functions of state funding.",
+      "sentence_hash": "sha256:e7f8d8f9bda8bc13bfc2964823ce5c85fc835e248581343d1fdbd9a5bfa16a3b"
+    },
+    {
+      "sentence_id": "Q23-D",
+      "source_kind": "option",
+      "source_sentence": "produce a long-lasting social effect.",
+      "sentence_hash": "sha256:5c6d2fe38a4278fdec829641b44dfd4609a4367578405a97019a4bb0994b201c"
+    },
+    {
+      "sentence_id": "Q24-STEM",
+      "source_kind": "question",
+      "source_sentence": "Paragraph 5 shows that our imitation of behaviors",
+      "sentence_hash": "sha256:9e9eaf774b08b00afdb3a7902121f8281ce966da27ea2030238bada7a055c469"
+    },
+    {
+      "sentence_id": "Q24-A",
+      "source_kind": "option",
+      "source_sentence": "is harmful to our networks of friends.",
+      "sentence_hash": "sha256:63c10fed007786ad4e68ef55bc8d116dc490e9bc0a83fd0017b3fbcc257032ff"
+    },
+    {
+      "sentence_id": "Q24-B",
+      "source_kind": "option",
+      "source_sentence": "will mislead behavioral studies.",
+      "sentence_hash": "sha256:7f11b74f9fa5901bc0c8a870a178f05c89b4603a69c196939f4f250251b0a83a"
+    },
+    {
+      "sentence_id": "Q24-C",
+      "source_kind": "option",
+      "source_sentence": "occurs without our realizing it.",
+      "sentence_hash": "sha256:6ca738b4e4037b7b7cfc577f08217c30f71e16427c43072407682fdc0e709ba2"
+    },
+    {
+      "sentence_id": "Q24-D",
+      "source_kind": "option",
+      "source_sentence": "can produce negative health habits.",
+      "sentence_hash": "sha256:744c3b63f851b20a6ae87574f5624d3d0f97e266cb4b5f731249ca8403a04988"
+    },
+    {
+      "sentence_id": "Q25-STEM",
+      "source_kind": "question",
+      "source_sentence": "The author suggests in the last paragraph that the effect of peer pressure is",
+      "sentence_hash": "sha256:40536327b26fbcb5caca22ee2d6d896e25778f885985f510113c1d6d4ce2acc5"
+    },
+    {
+      "sentence_id": "Q25-A",
+      "source_kind": "option",
+      "source_sentence": "harmful.",
+      "sentence_hash": "sha256:7a35f76b0456acd84802e6f6041cfe3b7781ac7f7805ad503daf3fe102531a89"
+    },
+    {
+      "sentence_id": "Q25-B",
+      "source_kind": "option",
+      "source_sentence": "desirable.",
+      "sentence_hash": "sha256:f1a9fc8330ffe79985299f479c2c05285efbd46d6b8129f78f846052ef2f94d8"
+    },
+    {
+      "sentence_id": "Q25-C",
+      "source_kind": "option",
+      "source_sentence": "profound.",
+      "sentence_hash": "sha256:7507b2d831438cdc217d92504b0de1e774b1ba663e77456bf23d2b9715100380"
+    },
+    {
+      "sentence_id": "Q25-D",
+      "source_kind": "option",
+      "source_sentence": "questionable.",
+      "sentence_hash": "sha256:28cd35efd74fe44dee69e921382bb010aba48acad417e15a2b862366a9e1acab"
+    }
+  ]
+}

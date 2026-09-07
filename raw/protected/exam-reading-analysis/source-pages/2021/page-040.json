@@ -1,0 +1,630 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P040",
+  "year": 2021,
+  "pdf_page": 40,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "①On Tuesday, the appeals court unanimously\"",
+      "width": 0.40546218783869215,
+      "x": 0.12184874308170422,
+      "y": 0.9258720935525196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "周二，哥伦比亚特区巡回上诉法院援引",
+      "width": 0.34453781216130774,
+      "x": 0.5924369728269092,
+      "y": 0.9171511631164732
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016052239744386965,
+      "text": "upheld® the 2017 order deregulating®",
+      "width": 0.36764705709409623,
+      "x": 0.05462184592774185,
+      "y": 0.9054593877655264
+    },
+    {
+      "confidence": 1,
+      "height": 0.010652463699625248,
+      "text": "broadband",
+      "width": 0.10714285084277908,
+      "x": 0.42226890892735003,
+      "y": 0.9081225031020983
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014654878293785312,
+      "text": "最高法院2005年一项裁决（该裁决认可了类",
+      "width": 0.3865546077662121,
+      "x": 0.5525210193101713,
+      "y": 0.8981358190548578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016168364513412525,
+      "text": "providers, citing®a Supreme Court® ruling from 2005",
+      "width": 0.47478989323669313,
+      "x": 0.05462186485224157,
+      "y": 0.886627907315668
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016234168041244557,
+      "text": "似的去监管化举措），一致维持了2017年解",
+      "width": 0.3865546077662121,
+      "x": 0.5525210153185747,
+      "y": 0.8779069768796215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01475745479212942,
+      "text": "that upheld a similarly deregulatory move®",
+      "width": 0.3928571344570388,
+      "x": 0.05462185758765696,
+      "y": 0.8675099868661068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013916858820400835,
+      "text": "② But",
+      "width": 0.05920224566450466,
+      "x": 0.4724997168786316,
+      "y": 0.867314826576217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0160232091870669,
+      "text": "除对宽带运营商监管的规定。但帕特里夏•",
+      "width": 0.3823529429059037,
+      "x": 0.5525210037151155,
+      "y": 0.8575233021019162
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016131591542900448,
+      "text": "Judge Patricia Millett rightly argued in a concurring®",
+      "width": 0.472689060806539,
+      "x": 0.05462186179736058,
+      "y": 0.8473837214254064
+    },
+    {
+      "confidence": 1,
+      "height": 0.014743907156384295,
+      "text": "米利特法官在协同意见书中公正地指出“这",
+      "width": 0.3865546077662121,
+      "x": 0.5525210106126924,
+      "y": 0.840116279381008
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014794227127705062,
+      "text": "opinion that “the result is unhinged ® from the realities of",
+      "width": 0.4768907550672116,
+      "x": 0.054621844588243006,
+      "y": 0.8282290282151241
+    },
+    {
+      "confidence": 1,
+      "height": 0.01618191214915754,
+      "text": "一结果与现代宽带服务的现实脱节”，并表示",
+      "width": 0.3823529429059038,
+      "x": 0.5546218440512499,
+      "y": 0.8195739014363372
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "modern broadband service，”",
+      "width": 0.25,
+      "x": 0.05462185290616231,
+      "y": 0.8109187750541514
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011633712981893307,
+      "text": "and said Congress or the",
+      "width": 0.2289915874973657,
+      "x": 0.3025210091574797,
+      "y": 0.809587217276045
+    },
+    {
+      "confidence": 1,
+      "height": 0.014707134185872217,
+      "text": "国会或最高法院可进行干预，以“避免网络监",
+      "width": 0.38445377533605796,
+      "x": 0.5525210076470971,
+      "y": 0.8008720933490313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016284488647501538,
+      "text": "Supreme Court could intervene® to “ avoid trapping®",
+      "width": 0.472689060806539,
+      "x": 0.05462185707046991,
+      "y": 0.7889480693965687
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755024304243924,
+      "text": "管在技术发展面前沦为过时”。",
+      "width": 0.26470588581180754,
+      "x": 0.5525210088798105,
+      "y": 0.7789613846820389
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "Internet regulation in technological anachronism®.”",
+      "width": 0.4390756243226157,
+      "x": 0.05462184856798394,
+      "y": 0.7716378165267153
+    },
+    {
+      "confidence": 1,
+      "height": 0.01606772330089834,
+      "text": "词汇注释与难句分析",
+      "width": 0.1911764714529518,
+      "x": 0.3844537813953728,
+      "y": 0.7310252998194802
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014765196570384997,
+      "text": "① unanimously Cju' neenumosli］ ad.全体一致地",
+      "width": 0.3529411712822887,
+      "x": 0.05252100969499014,
+      "y": 0.7049418607036824
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696439,
+      "text": "⑦ concurring ［kon'k3irn］a. 意见一致的",
+      "width": 0.30462184898655775,
+      "x": 0.5273109237210069,
+      "y": 0.7063914783211473
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016282553361671726,
+      "text": "② uphold ［Ap'hauld］v.维持；确认（原判、裁决等）",
+      "width": 0.38235294290590377,
+      "x": 0.05252100464998938,
+      "y": 0.685752330263794
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014829064812387105,
+      "text": "⑧unhinge LAn'hind3］v.从铰链上取下；与•",
+      "width": 0.3340335912098086,
+      "x": 0.5231092589906838,
+      "y": 0.6857523302252095
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394403815838,
+      "text": "••••脱节",
+      "width": 0.05882352854704809,
+      "x": 0.8613445375121903,
+      "y": 0.6875000003816677
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014697457121786828,
+      "text": "③ deregulate ［rdi：'regjulert］v.解除对⋯⋯的管制/限制",
+      "width": 0.40336132600817376,
+      "x": 0.05252101363456868,
+      "y": 0.6684420773198796
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014697457121786828,
+      "text": "⑨intervene ［inta'viin］w.干涉；介人",
+      "width": 0.2815126040537692,
+      "x": 0.5231092413764769,
+      "y": 0.6684420773198796
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "④cite ［sant］v. 引用，援引",
+      "width": 0.19957983057393272,
+      "x": 0.052521007419616315,
+      "y": 0.6511318239201173
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014738100663958531,
+      "text": "10trap ［treep］ v.使⋯⋯陷人险境/困境",
+      "width": 0.30462184898655764,
+      "x": 0.5231092409741582,
+      "y": 0.6497093025278102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "⑤Supreme Court 最高法院",
+      "width": 0.20798318969491358,
+      "x": 0.05252101227439192,
+      "y": 0.633720930142807
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017545745153719094,
+      "text": "1anachronism ［o'noekronizom］n.过时的人（或风俗、",
+      "width": 0.42473547904247944,
+      "x": 0.5229365915358357,
+      "y": 0.6307246704638059
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014846483019792078,
+      "text": "⑥move ［muv］n. 行为；举措",
+      "width": 0.22268907550672112,
+      "x": 0.05252100660938457,
+      "y": 0.6145139816398977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013392995105443672,
+      "text": "思想）；不合时宜",
+      "width": 0.12815126334541327,
+      "x": 0.5231092406749824,
+      "y": 0.6145139811117257
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "But Judge Patricia Millett rightly argued in a concurring opinion that “the result is unhinged from the",
+      "width": 0.8529411418819244,
+      "x": 0.0945378363594579,
+      "y": 0.5843023261469964
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020900639332086857,
+      "text": "realities of modern broadband service，”",
+      "width": 0.3323171979430094,
+      "x": 0.05440790310528026,
+      "y": 0.5636631621248581
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014695521835957015,
+      "text": "and said Congress or the Supreme Court could intervene to \"avoid",
+      "width": 0.5567226520163475,
+      "x": 0.38865547143580415,
+      "y": 0.5652463381483451
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014740035949788233,
+      "text": "trapping Internet regulation in technological anachronism.”",
+      "width": 0.49159664087901916,
+      "x": 0.05462185233359955,
+      "y": 0.5465116284362406
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01516135808789787,
+      "text": "结构切分：",
+      "width": 0.09054336106846098,
+      "x": 0.09443420246453865,
+      "y": 0.5258495535512367
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100348,
+      "text": "主句",
+      "width": 0.03361344383401446,
+      "x": 0.17226890801996755,
+      "y": 0.49709302382141496
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "But Judge Patricia Millett rightly argued",
+      "width": 0.2836134364839234,
+      "x": 0.21848739964144165,
+      "y": 0.5043604656818801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907124403647,
+      "text": "in a concurring opinion",
+      "width": 0.1575630202688464,
+      "x": 0.5084033656708989,
+      "y": 0.5058139536083408
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418575119137,
+      "text": "said..",
+      "width": 0.03991596684979559,
+      "x": 0.7563025214420489,
+      "y": 0.5072674418510064
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "连词",
+      "width": 0.03571428361425971,
+      "x": 0.21428571527270207,
+      "y": 0.48837209273001636
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "主语",
+      "width": 0.03361344383401449,
+      "x": 0.3046218492714681,
+      "y": 0.48837209278815585
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "谓语1",
+      "width": 0.04411764641028609,
+      "x": 0.4306722695994788,
+      "y": 0.4883720929213923
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "状语",
+      "width": 0.03781512706955037,
+      "x": 0.5651260502887543,
+      "y": 0.4883720929335047
+    },
+    {
+      "confidence": 1,
+      "height": 0.017619917141930896,
+      "text": "不连接词",
+      "width": 0.06512604788778376,
+      "x": 0.6722689083215143,
+      "y": 0.48837209337532816
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "谓语2",
+      "width": 0.048319325970776594,
+      "x": 0.7457983198665025,
+      "y": 0.488372093659284
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014788421270215624,
+      "text": "that引|导的宾语从句1",
+      "width": 0.15546218783869226,
+      "x": 0.4537815098271525,
+      "y": 0.466569767753101
+    },
+    {
+      "confidence": 1,
+      "height": 0.010267318009377746,
+      "text": "that",
+      "width": 0.029411764273524044,
+      "x": 0.15336134450189345,
+      "y": 0.4533954727752749
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013344609785016393,
+      "text": "“the result is unhinged from the realities of modern broadband service，",
+      "width": 0.5084033297206165,
+      "x": 0.20378153689039175,
+      "y": 0.45203488412076664
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688268,
+      "text": "引导词",
+      "width": 0.05462184898655767,
+      "x": 0.13865546151512453,
+      "y": 0.433139534648621
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395673688379,
+      "text": "主语 系动词 表语",
+      "width": 0.15756302026884633,
+      "x": 0.22268907922632108,
+      "y": 0.4331395347939697
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "状语",
+      "width": 0.035714283614259656,
+      "x": 0.5315126063471319,
+      "y": 0.4331395347939697
+    },
+    {
+      "confidence": 1,
+      "height": 0.014664555357870812,
+      "text": "省略that的宾语从句2",
+      "width": 0.15546218783869226,
+      "x": 0.6134453769209901,
+      "y": 0.4141145138803073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "Congress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.",
+      "width": 0.7752100479625783,
+      "x": 0.10924372843467683,
+      "y": 0.39813581910953877
+    },
+    {
+      "confidence": 1,
+      "height": 0.013327192212548078,
+      "text": "主语",
+      "width": 0.03361344383401449,
+      "x": 0.19747899266282468,
+      "y": 0.38081395319513256
+    },
+    {
+      "confidence": 1,
+      "height": 0.013327191577611641,
+      "text": "谓语",
+      "width": 0.03571428361425971,
+      "x": 0.36134453856751997,
+      "y": 0.3808139532653845
+    },
+    {
+      "confidence": 1,
+      "height": 0.013327191577611752,
+      "text": "不定式短语作目的状语",
+      "width": 0.17226890608065393,
+      "x": 0.5987394953090128,
+      "y": 0.38081395325327205
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0161451398135819,
+      "text": "功能注释：本句主干为 Judge Patricia Millett.. .argued...that...and said...，连接词and 在句中起",
+      "width": 0.8487394770216161,
+      "x": 0.0945378315872311,
+      "y": 0.358854859951661
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016075465079153917,
+      "text": "并列以及递进的作用。第一个 that 从句作谓语动词 argued 的宾语，表明该法官对此次判决的看法“脱",
+      "width": 0.8907563020268846,
+      "x": 0.05252101501296825,
+      "y": 0.340116279437761
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01630384277567254,
+      "text": "离现实”；第二个省略that 的从句作谓语动词 said 的宾语，说明基于其看法的建议“国会或最高法院应介",
+      "width": 0.8907563020268846,
+      "x": 0.05252099974286041,
+      "y": 0.32090545918191526
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669367,
+      "text": "人，以避免网络监管滞后于科技发展”。",
+      "width": 0.33613445304032696,
+      "x": 0.052521012135298646,
+      "y": 0.3008720932299793
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.032406293917273676,
+      "text": "•唔篇分析。次",
+      "width": 0.1648183833656972,
+      "x": 0.4189941714566964,
+      "y": 0.2663898762422615
+    },
+    {
+      "confidence": 1,
+      "height": 0.017643142476697737,
+      "text": "第四、五段围绕“哥伦比亚特区巡回上诉法院裁定”展开论述。",
+      "width": 0.5252100479625782,
+      "x": 0.09243699657693413,
+      "y": 0.2500000002274875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606772330089834,
+      "text": "第四段综述裁决结果以及法官观点。关键词：①upheld the 2017 order； ②unhinged from the realities。",
+      "width": 0.8550419743120785,
+      "x": 0.09243700458765809,
+      "y": 0.23102529967413143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01615288095690126,
+      "text": "①句交代主要投票结果：一致维持2017年的去监管化规定。On Tuesday,the appeals court. .. 呼应",
+      "width": 0.8529411418819244,
+      "x": 0.09243699817668481,
+      "y": 0.21220930269357496
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01622642626298887,
+      "text": "第二段 A federal appeals court weighed in again Tuesday，开启对此次裁决的细述。unanimously upheld",
+      "width": 0.8949579668871929,
+      "x": 0.052521024014386596,
+      "y": 0.1930758990836493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599417799481062,
+      "text": "明确裁决结果：法官一致支持 FCC 2017年规定，同意解除对宽带运营商的监管。citing ruling from...",
+      "width": 0.8907563020268846,
+      "x": 0.05252101978487677,
+      "y": 0.1744186049283134
+    },
+    {
+      "confidence": 1,
+      "height": 0.01624771567698957,
+      "text": "引出判决依据：2005年最高法院“认可类似去监管化举措”的判决。整句暗含之意：判决得到了所有法官",
+      "width": 0.8907563020268846,
+      "x": 0.052521002287878274,
+      "y": 0.1555232560573624
+    },
+    {
+      "confidence": 1,
+      "height": 0.016131591542900448,
+      "text": "的一致赞同，且有合理的判决依据，在法律程序上无懈可击。",
+      "width": 0.5168067182419617,
+      "x": 0.05252101579498545,
+      "y": 0.1364846872170129
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017542501264183552,
+      "text": "②句转而指出法官 Patricia Millett 的补充意见：判决结果脱离现代宽带服务的实际。句首 But 实现",
+      "width": 0.8508403094517702,
+      "x": 0.09243699551045927,
+      "y": 0.1162790697561421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016290294504991087,
+      "text": "句际衔接，并使语义重心落于本句。句内以and一分为二，形成“说明裁决局限一给出相关建议”的逻",
+      "width": 0.8907563020268846,
+      "x": 0.05252099974286041,
+      "y": 0.09853528655143384
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016036756822812026,
+      "text": "辑。rightly传递出作者对法官说法的赞同意见；concurring opinion 说明法官意见出处：协同意见书（编",
+      "width": 0.8907563020268847,
+      "x": 0.05252100122745411,
+      "y": 0.07989347537944635
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "40",
+      "width": 0.023109243095265644,
+      "x": 0.0672268910836697,
+      "y": 0.06104651226393509
+    }
+  ],
+  "vision_ocr_text": "①On Tuesday, the appeals court unanimously\"\n周二，哥伦比亚特区巡回上诉法院援引\nupheld® the 2017 order deregulating®\nbroadband\n最高法院2005年一项裁决（该裁决认可了类\nproviders, citing®a Supreme Court® ruling from 2005\n似的去监管化举措），一致维持了2017年解\nthat upheld a similarly deregulatory move®\n② But\n除对宽带运营商监管的规定。但帕特里夏•\nJudge Patricia Millett rightly argued in a concurring®\n米利特法官在协同意见书中公正地指出“这\nopinion that “the result is unhinged ® from the realities of\n一结果与现代宽带服务的现实脱节”，并表示\nmodern broadband service，”\nand said Congress or the\n国会或最高法院可进行干预，以“避免网络监\nSupreme Court could intervene® to “ avoid trapping®\n管在技术发展面前沦为过时”。\nInternet regulation in technological anachronism®.”\n词汇注释与难句分析\n① unanimously Cju' neenumosli］ ad.全体一致地\n⑦ concurring ［kon'k3irn］a. 意见一致的\n② uphold ［Ap'hauld］v.维持；确认（原判、裁决等）\n⑧unhinge LAn'hind3］v.从铰链上取下；与•\n••••脱节\n③ deregulate ［rdi：'regjulert］v.解除对⋯⋯的管制/限制\n⑨intervene ［inta'viin］w.干涉；介人\n④cite ［sant］v. 引用，援引\n10trap ［treep］ v.使⋯⋯陷人险境/困境\n⑤Supreme Court 最高法院\n1anachronism ［o'noekronizom］n.过时的人（或风俗、\n⑥move ［muv］n. 行为；举措\n思想）；不合时宜\nBut Judge Patricia Millett rightly argued in a concurring opinion that “the result is unhinged from the\nrealities of modern broadband service，”\nand said Congress or the Supreme Court could intervene to \"avoid\ntrapping Internet regulation in technological anachronism.”\n结构切分：\n主句\nBut Judge Patricia Millett rightly argued\nin a concurring opinion\nsaid..\n连词\n主语\n谓语1\n状语\n不连接词\n谓语2\nthat引|导的宾语从句1\nthat\n“the result is unhinged from the realities of modern broadband service，\n引导词\n主语 系动词 表语\n状语\n省略that的宾语从句2\nCongress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.\n主语\n谓语\n不定式短语作目的状语\n功能注释：本句主干为 Judge Patricia Millett.. .argued...that...and said...，连接词and 在句中起\n并列以及递进的作用。第一个 that 从句作谓语动词 argued 的宾语，表明该法官对此次判决的看法“脱\n离现实”；第二个省略that 的从句作谓语动词 said 的宾语，说明基于其看法的建议“国会或最高法院应介\n人，以避免网络监管滞后于科技发展”。\n•唔篇分析。次\n第四、五段围绕“哥伦比亚特区巡回上诉法院裁定”展开论述。\n第四段综述裁决结果以及法官观点。关键词：①upheld the 2017 order； ②unhinged from the realities。\n①句交代主要投票结果：一致维持2017年的去监管化规定。On Tuesday,the appeals court. .. 呼应\n第二段 A federal appeals court weighed in again Tuesday，开启对此次裁决的细述。unanimously upheld\n明确裁决结果：法官一致支持 FCC 2017年规定，同意解除对宽带运营商的监管。citing ruling from...\n引出判决依据：2005年最高法院“认可类似去监管化举措”的判决。整句暗含之意：判决得到了所有法官\n的一致赞同，且有合理的判决依据，在法律程序上无懈可击。\n②句转而指出法官 Patricia Millett 的补充意见：判决结果脱离现代宽带服务的实际。句首 But 实现\n句际衔接，并使语义重心落于本句。句内以and一分为二，形成“说明裁决局限一给出相关建议”的逻\n辑。rightly传递出作者对法官说法的赞同意见；concurring opinion 说明法官意见出处：协同意见书（编\n40",
+  "pdf_text_layer": "IV OOn Tuesday, the appeals court unanimously®\n                                                                  周二，哥伦比亚特区巡回上诉法院援引\nupheld ②   the   2017   order   deregulating^   broadband\n                                                               最高法院2005年一项裁决（该裁决认可了类\nproviders, citing④ a Supreme Court⑤ ruling from 2005\n                                                               似的去监管化举措），一致维持了 2017年解\nthat upheld a similarly deregulatory move® ・        ❷ But\n                                                               除对宽带运营商监管的规定。但帕特里夏•\nJudge Patricia Millett rightly argued in a concurring⑦\n                                                               米利特法官在协同意见书中公正地指出“这\nopinion that \"the result is unhinged8 from the realities of\n                                                               一结果与现代宽带服务的现实脱节”，并表示\nmodern broadband service,” and said Congress or the\n                                                               国会或最高法院可进行干预，以“避免网络监\nSupreme Court could intervene® to “ avoid trapping⑩\n                                                               管在技术发展面前沦为过时”。\nInternet regulation in technological anachronism⑪・”\n\n                                      「•词汜洼释鸟难句分析\n\n（Dunanimously [ju'nsenimasli] ad.全体一致地                §   ⑦concurring [kon'karij a.意见一致的\n② uphold [Ap'hauld] u.维持；确认（原判、裁决等）                   I   ⑧unhinge [An'hind3] e・从较链上取下；与... 脱节\n③ deregulate [idi:'regjuleit]卩・解除对... 的管制/限制          j   ⑨intervene [iinta'viin] v.干涉；介入\n④ cite [salt] &•引用，援引                                 [   ⑩trap [traep] u.使... 陷入险境/困境\n⑤ Supreme Court 最高法院                                  { ⑪ anachronism [a'nsekranizsm] n.过时的人（或风俗、\n⑥ move [mu：v] n.行为；举措                                  j思想）；不合时宜\n\n      But Judge Patricia Millett rightly argued in a concurring opinion that \"the result is unhinged from the\nrealities of modern broadband service,M and said Congress or the Supreme Court could intervene to u avoid\ntrapping Internet regulation in technological anachronism. ”\n      结构切分：\n\n\n\n\n      功能注释：本句主干为Judge Patricia Millett. . . argued. . . that. . . and said.・・，连接词and在句中起\n并列以及递进的作用。第一个that从句作谓语动词argued的宾语，表明该法官对此次判决的看法“脱\n离现实”;第二个省略that的从句作谓语动词said的宾语，说明基于其看法的建议“国会或最高法院应介\n入，以避免网络监管滞后于科技发展”。\n                                            [•语篇分析•莎\n\n      第四、五段围绕“哥伦比亚特区巡回上诉法院裁定”展开论述。\n      第四段综述裁决结果以及法官观点o关键词：（Dupheld the 2017 order;②unhinged from the realitieso\n      ① 句交代主要投票结果：一致维持2017年的去监管化规定° On Tuesday, the appeals court...呼应\n第二段 A federal appeals court weighed in again Tuesday,开启对此次裁决的细述。unanimously upheld\n明确裁决结果：法官一致支持FCC 2017年规定，同意解除对宽带运营商的监管。citing ruling from...\n引出判决依据：2005年最高法院“认可类似去监管化举措”的判决。整句暗含之意：判决得到了所有法官\n的一致赞同，且有合理的判决依据，在法律程序上无懈可击。\n      ② 句转而指出法官Patricia Millett的补充意见：判决结果脱离现代宽带服务的实际。句首Eut实现\n句际衔接，并使语义重心落于本句。句内以and —分为二，形成“说明裁决局限亠给出相关建议”的逻\n辑。rightly传递出作者对法官说法的赞同意见；concurring opinion说明法官意见出处：协同意见书（编\n 40",
+  "quality": {
+    "vision_line_count": 76,
+    "vision_character_count": 2385,
+    "pdf_text_character_count": 2866,
+    "nonempty": true
+  }
+}

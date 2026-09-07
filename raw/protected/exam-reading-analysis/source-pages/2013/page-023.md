@@ -1,0 +1,123 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2013-P023
+year: 2013
+pdf_page: 23
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2013 解析 PDF p23｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+整形式为 Human nature is what it is（人性是其固有的属性——人性是怎样就是怎样——人性使然）；2.off 均
+指“（机器、设备等）不在工作，不在运行，停止，关闭”，故 stay off 意为“处于关闭状态”。
+④⑤⑥句侧面作解：借全国广告商协会会长之言侧面烘托广告商恐慌。consumers,people, their，
+They 所指相同，语言多样化的同时也实现句间衔接。④句逗号内内容（插入语）补充引言人物的身份：全
+国广告商协会会长，看似多余，实则暗示该人物立场：代表广告商利益，其话看似代言消费者利益（借比
+较级 better off 强调消费者境况将不如前：DNT设为默认项之前，消费者看到的广告至少具有针对性VS
+DNT设为默认项之后，消费者将收到诸多无意义、无针对性广告的干扰），实则更加凸显“将DNT设力
+默认值”对广告商的不利。
+④句中 the industry 指代 online advertisers，理由如下：a. 根据主体动作（cannot collect information
+about their （consumers'）preferences“不能收集消费者偏好的信息”）、动作受动者（consumers“消费者”）
+以及动作造成的影响（They'll get fewer ads...get less meaningful, less targeted ads“消费者收到更少广
+告，广告更没价值、更不具有针对性”）可反推，信息收集动作的施动者是 online advertisers;b.此段实际
+在讲述 advertisers 就微软事件的情绪反应问题，整段的核心论述对象是 advertisers;C.下段首句 how
+advertisers respond 后省略 to Microsoft’s having DNT as a default，即对“微软将 DNT设为默认状态”做
+出反应的是 online advertisers。
+【深层解读】本段以“情绪上的惊慌失措”为下段“行动上的明知故犯”蓄势：DNT 作为选项设置添加
+在浏览器中，广告商尚且可以接受（因为默认设置为“允许跟踪”，而天性使得人们懒得更改默认设置，故
+广告商依然能够获取大多数用户的在线行为信息）；而 DNT一旦被设为默认值，就意味着大多数用户都
+默认选择“禁止追踪”，广告商将无从追踪用户信息；这势必令其广告费用大幅上扬，由此不难揣度广告
+商到底是愿意“坐以待毙”还是选择“浴血奋战”。
+• 真题精解•
+28. Bob Liodice holds that setting DNT as a default
+一。
+28.鲍勃•利奥狄斯认为将“禁止追踪”设
+为默认状态
+。
+［A］ may cut the number of junk ads
+［A］可能减少垃圾广告的数量
+LB fails to affect the ad industry
+［B］影响不到广告行业
+［C］ will not benefit consumers
+［C］ 不会受益于消费者
+LD」 goes against human nature
+［D］与人性相悖
+［精准定位］第五段④⑤句指出 Bob 观点：消费者境况将更糟，因为收到的广告不仅不会变少，相反
+变得更加没有意义、没有针对性。由此可知，Bob 认为将 DNT设为默认状态无益于消费者，［C］正确。
+［命题解密］就引言内容设题旨在考查对人物观点的把握。正确项［C］是对第五段④句 consumers
+will be worse off 的改写。
+［A］与第五段⑤句“消费者看到的广告不仅不能变少”相悖；［B］与深层文意“作为广告商利益代表
+的Bob Liodice，其言看似从消费者利益角度出发指责微软举措欠妥，实则意在维护广告商利益（广告业
+肯定会受影响）”相悖；［D］由第五段②句“人们坚持使用默认选项乃人之常情”捏造出“将 DNT设为默认
+状态与人性冲突”。
+［技巧总结］人物观点态度题的解答关键在：借助观点标记词/符号、情感色彩表达词等把握人物
+观点。如本题：借助观点表达词及符号（says＋双引号）首先定位至第五段④⑤句；随后根据引言内容
+中的consumers will be worse off、will not get fewer ads、will get less meaningful, less targeted ads 可锁
+定［C］。
+23
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+整形式为 Human nature is what it i s （ 人性是其固有的属性－一 人性是怎样就是怎样－一人性使然） ; 2. o ff 均
+指飞机器、设备等）不在工作 ，不在运行，停止， 关 闭 ” ，故 stay off 意为“处于关闭状态” 。
+     ④⑤⑤ 旬侧面作解：借全国广告商协会会长之言侧面烘托广告商恐慌。 consumers, people, their,
+They 所指相同，语言多样化的同时也实现旬间衔接。 ④ 句逗 号 内内 容（恼人话） 补 充引 言 人物的身份 ： 全
+国广 告商 协 会会长，看 似 多余，实 则 暗示该人物立场：代表广告商 利 益，其话看 似代 言 消费者 利 益（借 比
+较级 b et t er off 强调消 费者境 况将 不如前 ： D NT 设为默认项之前，消费者看到的广告至少具有针对性 vs
+D N T 设为默认项之 后，消费者将 收到 诸多无意义、无针对性广告 的 干 扰 ），实 则 更 加凸 显“将 ONT 设为
+默认值”对广告商的不利 。
+     ④ 旬中 the industry 指代 online advertisers ，理由如下 ： a. 根据主体动作（ cannot co ll ec t inform a ti on
+about th eir ( consum e rs ’) prefer巳nc巳s“不能收集消费者偏好的信息”）、动作 受动者（ co n s um e rs“消费者”）
+以及动作造成的 影 响 （ They' ll get fewer ads ... get less m ea ning [ ul , less target ed a ds“消费者收到更少广
+
+告，广告更没价值、更不具有针对性”）可反推，信息收集动作的施动 者是 o nlin e adv巳 rt i s e r s ; b . 此 段实际
+在讲述 adve rtis er s 就微软事件的情绪反应问题，整段的核心论述对象是 adve rti sers; c . 下段首句 h ow
+advertisers r espo nd 后省 II晦 to Microsoft ’ shaving DNT as a d e fa ult ，即 对“微软将 ONT 设为默认状态”做
+出反应的 是 o nlin e advertiser s o
+     【深层解读】本段以“情绪上的惊慌失措”为下段“行动上的明知故犯”蓄势： DN T 作为选项设 置添 加l
+在浏览器中，广告商尚且可以接 受（因为默 认设 置为 “允许跟踪” ， 而 天性使得人 们 懒得更改默认设置，故
+广告商依 然 能够 获取大多数用户的在线行为信息）， 而 D N丁 一 旦被设为默认值，就意 l床 着 大多数用户都
+默认选择“禁止追踪”，广告商将无从追踪用户信息；这势必 令其广告费用大 幅上扬，由此 不 对1 刊H［广告
+商到底是愿意“坐以待毙”还是选择“浴 J(IJ. 奋战” 。
+
+                                                   : .草草精解.－ ：： i/
+ 28. Bob Liodice holds that setting DNT as a default                .    28. 鲍勃·利奥狄斯认为将“禁止追踪”设
+
+                                                                              为默认状态                  。
+
+
+
+ [A] may cut the number of junk ads                                      [ A ］ 可能减少 垃圾广告的数 量
+
+ [ BJ fails to a ff ect th e ad indu st r y                              [ BJ 影 Ill句不到 广告 行业
+
+ [CJ w il l 口ot benefit cons um ers                                      [ CJ 不会受益于消费者
+
+ [ DJ goes aga in st hum an nat ure                                      [ DJ 与人性相悖
+
+     ［精准定位］第五段④ ⑤ 句指出 Bo b 观 点 ： 消费者境况将更糟，因为收到的广告不仅不会变少，相反
+变得更加没有意义、没有针对性 。 由此可知， Bob 认为将 D NT 设为默认 状 态元益于消费者， ［ CJ 正确 。
+     ［命题解密］就引 言 内 容设题旨在考查对人物观点的 把 握 。 正确项 ［ C J 是对第五段 ④ 句 consum e r s
+will be worse off 的 改写 。
+     [A ］与第五段⑤句 “消费者 看 到的广 告不仅不能变少” 相悖； ［ BJ 与深 层 文意 “ 作为广告商利益代表
+的 Bob Liodic e ，其 言看 似从消 费者利益角度 出 发 指 责微软举情欠妥，实 则 意在维 护广 告商 利 益（广告 业
+肯定会受影 JIJ句 ）”相悖； ［ DJ 由第五段 ② 句“人们坚持使用默认选项乃人之 常情”捏渣 山 “将 DNT 设为默认
+状态与人性冲突” 。
+     ［技巧总结］人物观点态度题的僻答关键在：借助观点 标记词 ／ 符 号、情感色彩表达词等 把握人物
+观点 。 如 本题 ：借助观 点表达词及科号（ says ＋ 双 引 号）首先定位至第五段 ④⑤ 句；随后根据引言内容
+中的 co n s um e rs will be wo rse off 、 wi ll not get few er a d s 、 w ill ge t less m ea ningrul, I 巳ss targe ted a d s 可 fil/1
+
+定 ［ CJ 。
+
+
+
+                                                                                                                          23
+```

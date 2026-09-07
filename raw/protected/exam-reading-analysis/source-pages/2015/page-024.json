@@ -1,0 +1,574 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P024",
+  "year": 2015,
+  "pdf_page": 24,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "率地，不计后果地）modest（谦逊的，谦恭的）以矛盾修辞传递作者强烈建议：作为宪法的最终解释者，美",
+      "width": 0.8782051042662523,
+      "x": 0.07051282516388253,
+      "y": 0.9200260077706194
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "国法律的风向标，最高法院若是采纳加州之言（认为难以评估新技术影响而不去做出全面性裁定、怯于",
+      "width": 0.8782051042662523,
+      "x": 0.07051282516388253,
+      "y": 0.901162790841305
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "打破旧有假定），则是谦逊到不负责任、不计后果。",
+      "width": 0.4188034028441682,
+      "x": 0.0705128319824742,
+      "y": 0.8808139534283828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01769891361886411,
+      "text": "②句语意递进，明确观点：最高法院能够且应当为法律界提供更新的指导原则。s0 that 体现因（事",
+      "width": 0.8376068056883366,
+      "x": 0.10897436766865246,
+      "y": 0.8602080626477326
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "实）果（观点）关系；can and should 凸显作者立场。",
+      "width": 0.4188034028441682,
+      "x": 0.06837608054372779,
+      "y": 0.8413524059092954
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017619529843175386,
+      "text": "前半句说明事实：Enough of the implications、discernable even obvious 强调新技术的“可见影响（可",
+      "width": 0.8376068056883365,
+      "x": 0.11111113449557518,
+      "y": 0.8224967491850493
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "辨别的一甚至显而易见）”已经“足够多”，一反上段②句加州论据“新技术影响难以评估（hard to ac-",
+      "width": 0.8803418598940905,
+      "x": 0.07051284174098868,
+      "y": 0.8049414825174078
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "cess）”。后半句表明观点：can and should provide updated guidelines（能够且应当提供更新的指导原则；",
+      "width": 0.8824786155219289,
+      "x": 0.06837606802963407,
+      "y": 0.784785435875033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017555266579974083,
+      "text": "update 意次 to add the most recent information to sth“ ⋯•⋯增加最新信息，更新”）强调最高法院“更新",
+      "width": 0.8782051042662523,
+      "x": 0.07051284228460859,
+      "y": 0.7659297786469916
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "法律指导原则、以满足新技术发展需要”的可行性和必要性，直斥上段①句加州论点“不能做出全面性裁",
+      "width": 0.8782051042662523,
+      "x": 0.07051282516388253,
+      "y": 0.7470741219932605
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017729155263913166,
+      "text": "定，更不能破坏旧有假定（refrain from a sweeping ruling.. . that upsets the old assumption）”",
+      "width": 0.7799145204387249,
+      "x": 0.07051283279345795,
+      "y": 0.7267441864804962
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "【深层解读】第二、三段作者对加州的反驳集中体现于 old assumption/sweeping ruling/updated",
+      "width": 0.8440170725718511,
+      "x": 0.10683762459370394,
+      "y": 0.7078488372219875
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "guidelines这组短语：加州提出最高法院应避免做出全面性裁定，尤其是不得打破旧有假定，作者反驳指",
+      "width": 0.8824786155219289,
+      "x": 0.06623931368668538,
+      "y": 0.6889534881728112
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "出最高法院能够且应当做出全面性裁定、为法律界更新指导原则。且两段形成完美的批驳结构：第二段",
+      "width": 0.8782051042662524,
+      "x": 0.07051282370020721,
+      "y": 0.6700581393901077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "介绍加州论点（①句）十论据（②句）——第三段作者先明确批驳态度（①句）—随后批驳加州论据（②",
+      "width": 0.8782051042662524,
+      "x": 0.07051282620936462,
+      "y": 0.6508452532686348
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "句前半句）、最后直击加州论点（②句后半句）。但作者仍有未尽之意（后文将论及）：为什么维持旧有假",
+      "width": 0.8782051042662524,
+      "x": 0.07051282370020721,
+      "y": 0.6306892068193662
+    },
+    {
+      "confidence": 1,
+      "height": 0.017555266579974083,
+      "text": "定是“不计后果”、必须提供新的指导原则。",
+      "width": 0.36111108841905176,
+      "x": 0.07051283060350834,
+      "y": 0.6118335501532597
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790663065616,
+      "text": "™",
+      "width": 0.03205127971350122,
+      "x": 0.11111111268064255,
+      "y": 0.5828488374550207
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016254876462938883,
+      "text": "① They should start by discarding\"California's",
+      "width": 0.4102564095083203,
+      "x": 0.14316239652789106,
+      "y": 0.5812743824513843
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013113527211163323,
+      "text": "lame®",
+      "width": 0.051282051188540054,
+      "x": 0.07051282093350772,
+      "y": 0.5668604651644338
+    },
+    {
+      "confidence": 1,
+      "height": 0.014540553868049422,
+      "text": "他们应该首先摒弃加州的蹩脚观点：翻",
+      "width": 0.3290598123524886,
+      "x": 0.6153846264804509,
+      "y": 0.5741222367102192
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "argument that",
+      "width": 0.13888888240544336,
+      "x": 0.13675214230867425,
+      "y": 0.5654069770141292
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "exploring",
+      "width": 0.0897435831978034,
+      "x": 0.28205128681990166,
+      "y": 0.5654069770141292
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418301824195,
+      "text": "the",
+      "width": 0.047008547226739916,
+      "x": 0.37179487246925114,
+      "y": 0.5668604652919174
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "contents of a",
+      "width": 0.13461538573751947,
+      "x": 0.41880341599876175,
+      "y": 0.5654069768203309
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013153218788970356,
+      "text": "smartphone一a vast storehouse of digital information—is",
+      "width": 0.4807692285249612,
+      "x": 0.07264957501814619,
+      "y": 0.5479651170018047
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "看智能手机内容一",
+      "width": 0.1581196538804821,
+      "x": 0.5747863284871093,
+      "y": 0.5552325580968467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "-一个庞大的数字信息",
+      "width": 0.19230768557488354,
+      "x": 0.7521367530993104,
+      "y": 0.5552325579696664
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956245,
+      "text": "similar to, say,going through a suspect's purse. ② The",
+      "width": 0.48076922852496107,
+      "x": 0.0726495797813227,
+      "y": 0.5305232557530967
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017559046553077273,
+      "text": "庫—相当于翻查嫌疑人的钱包。最高法",
+      "width": 0.36965811093040446,
+      "x": 0.5747863329162081,
+      "y": 0.5318595580565428
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014612377697531653,
+      "text": "court has ruled that police don't violate®the Fourth",
+      "width": 0.4807692285249612,
+      "x": 0.07264958178452766,
+      "y": 0.5130039011559308
+    },
+    {
+      "confidence": 1,
+      "height": 0.014612377697531653,
+      "text": "院已经裁定，警方无证搜查被捕人的钱包或",
+      "width": 0.36965811093040457,
+      "x": 0.5747863254536012,
+      "y": 0.5130039010977913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418301824195,
+      "text": "Amendment when",
+      "width": 0.1602564095083204,
+      "x": 0.07478632676293381,
+      "y": 0.49709302345083206
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01327229476254066,
+      "text": "they go through the wallet or",
+      "width": 0.3183760633888026,
+      "x": 0.23504273223010036,
+      "y": 0.49544863489263136
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "钱袋并不违反宪法第四修正案。但是查看",
+      "width": 0.36965811093040457,
+      "x": 0.5747863325476182,
+      "y": 0.4912790702014266
+    },
+    {
+      "confidence": 1,
+      "height": 0.013654096228868595,
+      "text": "pocketbook of",
+      "width": 0.13888888240544334,
+      "x": 0.07264957820611016,
+      "y": 0.47789336793887416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.007344936053371609,
+      "text": "an",
+      "width": 0.029914529556070185,
+      "x": 0.2094017090823638,
+      "y": 0.4796511628746253
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011932213067698316,
+      "text": "arrestee without a warrant. 3 But",
+      "width": 0.311965796505288,
+      "x": 0.24145299528368078,
+      "y": 0.47789336808193206
+    },
+    {
+      "confidence": 1,
+      "height": 0.014612377697531653,
+      "text": "一个人的智能手机更像是进入他或她的家。",
+      "width": 0.3739316221860809,
+      "x": 0.5726495781964893,
+      "y": 0.4723837211465376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013236383777911032,
+      "text": "exploring one's smartphone is more like entering his or her",
+      "width": 0.4807692285249611,
+      "x": 0.07264957857939965,
+      "y": 0.4607558138817305
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "智能手机里可能存有被捕者的阅读记录、财",
+      "width": 0.36965811093040457,
+      "x": 0.5747863337709087,
+      "y": 0.45188556580755324
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01312297714392141,
+      "text": "home. ④ A smartphone may contain an",
+      "width": 0.37820510426625237,
+      "x": 0.07264959092242912,
+      "y": 0.44331395401730855
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015585908034067897,
+      "text": "arrestee's@",
+      "width": 0.09009914507601502,
+      "x": 0.45922393024367936,
+      "y": 0.4427884411689229
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "reading history,financial history, medical history",
+      "width": 0.4423076855748835,
+      "x": 0.0726495815448231,
+      "y": 0.42587209292606165
+    },
+    {
+      "confidence": 1,
+      "height": 0.010403120936280819,
+      "text": "and",
+      "width": 0.03418803169440121,
+      "x": 0.517094017771033,
+      "y": 0.4271781534835335
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "务记录、病史记录以及近期通信往来的详细",
+      "width": 0.36965811093040457,
+      "x": 0.5747863337709087,
+      "y": 0.43168604683694456
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "comprehensive records of recent correspondence®",
+      "width": 0.405982898252644,
+      "x": 0.07264958132239582,
+      "y": 0.40832249690187006
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01318913163382307,
+      "text": ". ⑤ The",
+      "width": 0.07692307860627917,
+      "x": 0.47649572533361256,
+      "y": 0.4083224965520338
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "记录。与此同时，“云计算”的发展已经使那",
+      "width": 0.36965811093040446,
+      "x": 0.574786326069698,
+      "y": 0.4113372091696619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "development of “cloud computing”",
+      "width": 0.28418803169440127,
+      "x": 0.07264957152815553,
+      "y": 0.39076723016847803
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "，meanwhile, has made",
+      "width": 0.19871793787064562,
+      "x": 0.35470085951019004,
+      "y": 0.3924418607835092
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "种搜查大为容易。",
+      "width": 0.15170940158472002,
+      "x": 0.574786326745033,
+      "y": 0.39076722993457713
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013166449314906181,
+      "text": "that exploration so much the easier.",
+      "width": 0.29914529191376377,
+      "x": 0.07264957355878776,
+      "y": 0.375000000722735
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.027160173274760835,
+      "text": "•葡汇注释与难句分析•必",
+      "width": 0.26399913663845903,
+      "x": 0.3798736546491472,
+      "y": 0.3295014433162128
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01308139557956256,
+      "text": "①discard ［dr'ska:d］v. 丢弃，抛弃",
+      "width": 0.2542735112556764,
+      "x": 0.07051281490278859,
+      "y": 0.3081395347077963
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "②lame ［lem］a. 差劲的，无说服力的；拙劣的",
+      "width": 0.35256409508320385,
+      "x": 0.07051282173495485,
+      "y": 0.2892441862005243
+    },
+    {
+      "confidence": 1,
+      "height": 0.013249614923921071,
+      "text": "①digital information（数字信息）",
+      "width": 0.24786324437216178,
+      "x": 0.5341880339036628,
+      "y": 0.2877906973955384
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013102186671779203,
+      "text": "③violate ［'varlett］v. 违反；妨碍；侵犯",
+      "width": 0.30982904087744984,
+      "x": 0.07051283308691604,
+      "y": 0.27178153444649045
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053316018,
+      "text": "②cloud computing（云计算）",
+      "width": 0.21367521267776046,
+      "x": 0.5363247841525729,
+      "y": 0.2717815345895481
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011915201948585086,
+      "text": "④arrestee ［aes'ti：］ n. 被捕者",
+      "width": 0.22435897622919904,
+      "x": 0.07264956984480221,
+      "y": 0.25552665827081267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011762104356862535,
+      "text": "③so much the easier（这样更容易）",
+      "width": 0.2649572602193624,
+      "x": 0.5363247909017148,
+      "y": 0.25422626763579115
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01332899807953547,
+      "text": "⑤ correspondence ［kpri'spondons］ n. 通信，信件",
+      "width": 0.35683760633888023,
+      "x": 0.07264957884622918,
+      "y": 0.2366710015368768
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02197995576498879,
+      "text": "•语篇分析。泌",
+      "width": 0.15642531560894174,
+      "x": 0.43140272854106226,
+      "y": 0.19395188231011018
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695133645760808,
+      "text": "第四段进一步反驳加州观点“搜查智能手机如同搜查钱包（属于随身物品）”。关键词：more like",
+      "width": 0.8418803169440129,
+      "x": 0.10897437845819287,
+      "y": 0.17151162821499244
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011754543790581606,
+      "text": "entering his or her home.",
+      "width": 0.20726494579424593,
+      "x": 0.06837607152061215,
+      "y": 0.1553966187543976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598424,
+      "text": "①句概述作者观点：最高法院应摒弃加州蹩脚观点“搜查智能手机如同搜查钱包”。They should start",
+      "width": 0.8418803169440129,
+      "x": 0.10897437160277992,
+      "y": 0.13372093071014735
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "by...紧承上段 can and should provide updated guidelines，阐释作者观点。",
+      "width": 0.6132478732223949,
+      "x": 0.06837606849920136,
+      "y": 0.11482558135958454
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "that 从句以 A is similar to B 句式呈现加州观点：智能手机与任何一件随身物品一般无二（say”比方",
+      "width": 0.8397435613161747,
+      "x": 0.10897436619020338,
+      "y": 0.09738372079756896
+    },
+    {
+      "confidence": 1,
+      "height": 0.013277965962344207,
+      "text": "24",
+      "width": 0.025641025594270034,
+      "x": 0.08333333367722395,
+      "y": 0.06957087141682661
+    }
+  ],
+  "vision_ocr_text": "率地，不计后果地）modest（谦逊的，谦恭的）以矛盾修辞传递作者强烈建议：作为宪法的最终解释者，美\n国法律的风向标，最高法院若是采纳加州之言（认为难以评估新技术影响而不去做出全面性裁定、怯于\n打破旧有假定），则是谦逊到不负责任、不计后果。\n②句语意递进，明确观点：最高法院能够且应当为法律界提供更新的指导原则。s0 that 体现因（事\n实）果（观点）关系；can and should 凸显作者立场。\n前半句说明事实：Enough of the implications、discernable even obvious 强调新技术的“可见影响（可\n辨别的一甚至显而易见）”已经“足够多”，一反上段②句加州论据“新技术影响难以评估（hard to ac-\ncess）”。后半句表明观点：can and should provide updated guidelines（能够且应当提供更新的指导原则；\nupdate 意次 to add the most recent information to sth“ ⋯•⋯增加最新信息，更新”）强调最高法院“更新\n法律指导原则、以满足新技术发展需要”的可行性和必要性，直斥上段①句加州论点“不能做出全面性裁\n定，更不能破坏旧有假定（refrain from a sweeping ruling.. . that upsets the old assumption）”\n【深层解读】第二、三段作者对加州的反驳集中体现于 old assumption/sweeping ruling/updated\nguidelines这组短语：加州提出最高法院应避免做出全面性裁定，尤其是不得打破旧有假定，作者反驳指\n出最高法院能够且应当做出全面性裁定、为法律界更新指导原则。且两段形成完美的批驳结构：第二段\n介绍加州论点（①句）十论据（②句）——第三段作者先明确批驳态度（①句）—随后批驳加州论据（②\n句前半句）、最后直击加州论点（②句后半句）。但作者仍有未尽之意（后文将论及）：为什么维持旧有假\n定是“不计后果”、必须提供新的指导原则。\n™\n① They should start by discarding\"California's\nlame®\n他们应该首先摒弃加州的蹩脚观点：翻\nargument that\nexploring\nthe\ncontents of a\nsmartphone一a vast storehouse of digital information—is\n看智能手机内容一\n-一个庞大的数字信息\nsimilar to, say,going through a suspect's purse. ② The\n庫—相当于翻查嫌疑人的钱包。最高法\ncourt has ruled that police don't violate®the Fourth\n院已经裁定，警方无证搜查被捕人的钱包或\nAmendment when\nthey go through the wallet or\n钱袋并不违反宪法第四修正案。但是查看\npocketbook of\nan\narrestee without a warrant. 3 But\n一个人的智能手机更像是进入他或她的家。\nexploring one's smartphone is more like entering his or her\n智能手机里可能存有被捕者的阅读记录、财\nhome. ④ A smartphone may contain an\narrestee's@\nreading history,financial history, medical history\nand\n务记录、病史记录以及近期通信往来的详细\ncomprehensive records of recent correspondence®\n. ⑤ The\n记录。与此同时，“云计算”的发展已经使那\ndevelopment of “cloud computing”\n，meanwhile, has made\n种搜查大为容易。\nthat exploration so much the easier.\n•葡汇注释与难句分析•必\n①discard ［dr'ska:d］v. 丢弃，抛弃\n②lame ［lem］a. 差劲的，无说服力的；拙劣的\n①digital information（数字信息）\n③violate ［'varlett］v. 违反；妨碍；侵犯\n②cloud computing（云计算）\n④arrestee ［aes'ti：］ n. 被捕者\n③so much the easier（这样更容易）\n⑤ correspondence ［kpri'spondons］ n. 通信，信件\n•语篇分析。泌\n第四段进一步反驳加州观点“搜查智能手机如同搜查钱包（属于随身物品）”。关键词：more like\nentering his or her home.\n①句概述作者观点：最高法院应摒弃加州蹩脚观点“搜查智能手机如同搜查钱包”。They should start\nby...紧承上段 can and should provide updated guidelines，阐释作者观点。\nthat 从句以 A is similar to B 句式呈现加州观点：智能手机与任何一件随身物品一般无二（say”比方\n24",
+  "pdf_text_layer": "率地，不计后果地） modest （谦逊的，谦恭的）以矛盾修辞传递作者强烈建议：作为宪法的最终解释者，美\n国法律的风向标，最高法院若是采纳 加州之 言 （认为难以评估新技术影响而不去做出全面性裁定、怯于\n打－破旧有假定），则是谦逊到不负责任、不计后果 。\n       ②旬语意递进，明确观点：最高法院能够且应当为法律界提供更新的指导原则。 so that 体现因（事\n实）果（观点）关系； can and should 凸显作者立场。\n       前半句说明事实： Enough of t he implications 、 discernabl e even obvi ous 强调新技术的“可见影 H向（可\n辨别的→甚至显而易见）”已经“足够多”， 一 反上段②句 加州 论据“新技术影响难以评估（ hard to ac-\nc ess ）” 。 后半句表明观点 ： ca n and should provide updated gu id e lines （能够且应当提供更新的指导原则；\nupdate 意为 to add the most recent informat ion to sth “为 …… 增加最新信息，更新”）强调最高法院“更新\n法律指导原则、以满足新技术发展需要”的可行性和必要性， 直斥上段 ① 句力[I 州论点 “ 不能做出全面性裁\n定，更不能破坏旧有假定（ refra in from a sweeping ruling ... t hat upsets the o ld as s umption ）” 。\n       E 深层解读】第二、三段作者对加州｜的反驳集中体现于 old assumption/ sweeping ruling/ updated\nguidelines 这组短语 ：加州提出 最高法院应避免做出全面性裁定，尤其是不得打破旧有假定，作者反驳指\nt臼 最高法院能够且应当做出全面性裁定、为法律界更新指导原则 。 且两段形成 完美 的批驳结构：第 二 段\n介绍加州论点（ ① 句） 十 论据（ ② 句） 一一第 三 段作者先明确批驳态度（ ① 句） ←一－ 随后批驳加州论据（ ②\n句前半句）、最后 直 击 加州论 点（②句后半句） 。 但作者仍有未尽之 意 （后文将论及） ： 为什么维持旧有假\n定是“不计后果”、必须提供新的指导原 则 。\n\n          0 They shou ld start by discarding( Ca li forn ia ’ 5         他们应该首先摒弃加州的楚脚观点 ： 翻\nlame( argument t hat exploring the contents of a\n                                                                     看智能手机内容一一－ 一个庞大的 数 字信息\nsmartphone- a vast storehou se of digital information一 is\nsim ilar to, say, going through a s uspect's purse. @The             库 一一相当于翻查嫌疑人的钱包 。 最高法\n\ncourt has ruled that police don ’ t violate® the Fourth              院已经裁定，警方无证搜查被捕人的钱包或\nAmendme nt when they go through the wa ll 巳t or                      钱袋并不违反宪法第四修正案 。 但是查看\npocketbook of an arrestee without a warrant. @) But                  一 个人的智能手机更像是进入他或她的家 。\nexploring one ’s smartphone is more like entering hi s or her\n                                                                     智能手机里可能存有被捕者的阅读记录、财\nhome . 。 A smartphone may contain an an咽tee’俨\n                                                                     务记录、病史记录以及近期通信往来的详细\nread ing hi story, financial hi story, medical history and\ncomprehensive records of recent con咽pondence® . 0 The                记录 。 与此同时， “ 云计算”的发展已经使那\n\ndevelopment of “ clo ud computing ”, meanwh il e , has mad e         种搜查大为容易 。\nthat exp lo ration so much the easier.\n\n\n                                       ： ：~：通车呼拉句：分析－：：： ti\n( discard [ d11sk口：d ] v . 丢弃，抛弃                         1\\   ．经典搭配\n( lame [ Je1m ］ α 差 劲的，无说服力的；拙劣的                         ！①州al in\n( violate [ 'va叫e1 t ] v. 违反；妨引导 ， 侵犯                    ；    ② cl      叫uti\n® arrestee [ a ,res ' ti ：］ 凡被捕者                              ( so mucl飞 th e easi e r （这样更 容 易）\n( correspondence [ kor, 'spondans] n. 通信，信件\n\n\n                                              :>J青：毒分析＜ 1'\n       第四段进一步反驳加州观点“搜查智能孚机如同搜查钱包（属于随身物品）”。关键词： more like\nentering his or her home.\n       ①旬概述作者观点：最高法院应摒弃加州鳖脚观点“搜查智能手机如同搜查钱包”。 They should start\nby ...紧承上段 can and should provide updated guidelines ，阐释作者观点。\n       that 从句以 A is similar to B 句式呈现加 州观 点：智能手机与任何 一 件随身物品 一 般无 二 （ sa y“比方\n\n  24",
+  "quality": {
+    "vision_line_count": 69,
+    "vision_character_count": 2242,
+    "pdf_text_character_count": 2980,
+    "nonempty": true
+  }
+}

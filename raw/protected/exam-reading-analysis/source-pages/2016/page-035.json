@@ -1,0 +1,462 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P035",
+  "year": 2016,
+  "pdf_page": 35,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.011792774150704122,
+      "text": "③ It argues that since prosecutors do not consume a",
+      "width": 0.4636752079178413,
+      "x": 0.05128204643281747,
+      "y": 0.9171511632338178
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "提出，由于检察官不会将消费某公司的产品作",
+      "width": 0.3888888953972228,
+      "x": 0.5363247858483972,
+      "y": 0.9067796609988
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01368970013037818,
+      "text": "company's products as part of their investigations,they",
+      "width": 0.46367520791784134,
+      "x": 0.051282058797489476,
+      "y": 0.8950456323195408
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "为其调查的一部分，所以他们只可能被光环效",
+      "width": 0.386752137753419,
+      "x": 0.5384615374694444,
+      "y": 0.8878748367374512
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013244367795941736,
+      "text": "could be influenced only by the halo effect.",
+      "width": 0.3589743469589731,
+      "x": 0.05128206087948771,
+      "y": 0.8748370274806827
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "应影响。",
+      "width": 0.07051281919863761,
+      "x": 0.5384615397062368,
+      "y": 0.8689700130788379
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016308632170516812,
+      "text": "• 词汇注释与难句分析•",
+      "width": 0.2179487085616978,
+      "x": 0.3653846173537666,
+      "y": 0.8226744184126026
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01182878064052384,
+      "text": "①previous ［ pri:vrs］a. 以前的，早先的",
+      "width": 0.30341879465758453,
+      "x": 0.051282058191150684,
+      "y": 0.799217731190179
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01313256098363047,
+      "text": "③differentiate ［idifo'renfrert］v. 辨别，区别",
+      "width": 0.3290598278082264,
+      "x": 0.5170940209783653,
+      "y": 0.7979139503940115
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011838255836257972,
+      "text": "②have trouble doing sth 做某事有困难",
+      "width": 0.2927350357260676,
+      "x": 0.0512820577138892,
+      "y": 0.7803129071427006
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696884,
+      "text": "④bribery ［'braibor］n.（指行为）贿赂",
+      "width": 0.2970085510136756,
+      "x": 0.5106837549685896,
+      "y": 0.7776162793370469
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018895348172144333,
+      "text": "• 语篇分析",
+      "width": 0.10256410331506416,
+      "x": 0.4145299131287927,
+      "y": 0.7500000002307883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771945,
+      "text": "第三至五段为第二轮论证：借一项新研究聚焦“光环效应”：CSR能在企业被诉之时有所助益。",
+      "width": 0.7884615204384597,
+      "x": 0.08974359863048526,
+      "y": 0.7222946546000193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "第三段介绍研究方式，并说明该研究方式的有效性。关键词为：①A recent study； ②bribery prosecutions。",
+      "width": 0.8226495841643174,
+      "x": 0.08974359084163029,
+      "y": 0.7020348836318371
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "①句指出先前研究（Previous studies）未能成功区分上述三种效应，反向说明如今新研究得以将其区",
+      "width": 0.8397435867397433,
+      "x": 0.08974359400192318,
+      "y": 0.6816860462505386
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163086321705167,
+      "text": "分。had trouble differentiating these effects（these effects 回指上段所述三种效应）和 consumers can be",
+      "width": 0.8846153801096148,
+      "x": 0.04914531024433773,
+      "y": 0.661016949398712
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "affected by all three（消费者可能同时受到三种效应的影响）以因果关系明确先前研究的“不足”、反向暗",
+      "width": 0.8846153801096148,
+      "x": 0.04700855810758554,
+      "y": 0.640808344025372
+    },
+    {
+      "confidence": 1,
+      "height": 0.017601043024771834,
+      "text": "示新研究的“成果”。联系前两段（主要为两段末句）可知：这里的“不足”和“成果”指的就是“明确光环效",
+      "width": 0.8803418648220069,
+      "x": 0.04914531319339208,
+      "y": 0.6205997393846953
+    },
+    {
+      "confidence": 1,
+      "height": 0.01458415400717683,
+      "text": "应的影响”，且成功将其与另外两种效应区分只能以“不同时受三种效应影响的非消费者（即第二段末句",
+      "width": 0.8803418648220069,
+      "x": 0.04914531319339208,
+      "y": 0.6016949155397048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "的 others）”为研究对象。",
+      "width": 0.20940170727398483,
+      "x": 0.049145302826682724,
+      "y": 0.579941860345742
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "②③句引出新研究，明确其研究目的、研究方式，并说明该方式的有效性。",
+      "width": 0.6196581351779931,
+      "x": 0.08974358714747065,
+      "y": 0.5593220341851183
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "②句介绍研究目的及方式。A recent study 呼应①句 Previous studies， 回指首段③句New research；",
+      "width": 0.8397435867397434,
+      "x": 0.0897435880938036,
+      "y": 0.5391134292299811
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "attempts to separate them 则回应①句 had trouble differentiating these effects，明确新研究的目的：区分",
+      "width": 0.8824786224658109,
+      "x": 0.04700854466096926,
+      "y": 0.5202086050165058
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017750750620020073,
+      "text": "三种效应的影响（即，确定光环效应的影响）。by looking at （look at 此处意力“仔细地研究，考虑”）引出",
+      "width": 0.878205107178203,
+      "x": 0.049145300876710644,
+      "y": 0.4985465116563612
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "研究方式：查看美国《反海外腐败法》（FCPA）下的行贿诉讼；其中 bribery prosecutions 契合首段③句at",
+      "width": 0.8846153801096149,
+      "x": 0.049145292584081644,
+      "y": 0.47819767411754444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "least when they are prosecuted for corruption，体现“论点一论据”关系：本研究是对首段论点的集中论证。",
+      "width": 0.8846153801096149,
+      "x": 0.0470085418896371,
+      "y": 0.45762711833772085
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "③句说明研究方式的有效性。It argues 引出研究对其“效用”（即：该研究方式确实能够准确测出其",
+      "width": 0.8397435867397433,
+      "x": 0.08974359824337617,
+      "y": 0.43741851367328155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "意在测量的“CSR光环效应”）的声明；since...they could be influenced only by the halo effect 体现“研究",
+      "width": 0.8803418648220069,
+      "x": 0.049145300617079585,
+      "y": 0.41715116261681773
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "方式—研究目的”的准确对应（即研究方式合理有效）：由于检察官调查过程中不涉及对公司产品的使",
+      "width": 0.882478622465811,
+      "x": 0.04700855276282105,
+      "y": 0.3968023253203061
+    },
+    {
+      "confidence": 1,
+      "height": 0.01630105188959119,
+      "text": "用（即：可排除检察官的“消费者”身份，又即：可排除前两种效应的影响），故他们只可能受到“光环效应”",
+      "width": 0.884615380109615,
+      "x": 0.04700854041527817,
+      "y": 0.3761408086040562
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "的影响。",
+      "width": 0.0705128191986377,
+      "x": 0.049145299027817925,
+      "y": 0.3559322034451059
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "【深层解读】研究介绍型文章中常常会提及“先前研究（previous studies）”，需注意的是“先前研究”往",
+      "width": 0.8440171020273513,
+      "x": 0.08547009126730708,
+      "y": 0.33572359824866393
+    },
+    {
+      "confidence": 1,
+      "height": 0.017709059385774606,
+      "text": "往并非作者的关注点（作者的关注点在于“当前新研究”）。提及先前研究的目的大致分为：一、以“先前",
+      "width": 0.882478622465811,
+      "x": 0.04700854974465868,
+      "y": 0.3154069770778728
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860233789352,
+      "text": "研究的不足”引出“弥补该不足的新研究”；二、“介绍先前研究”意在引出“将其驳倒、推翻的新研究”；三、",
+      "width": 0.8824786224658109,
+      "x": 0.049145302079060406,
+      "y": 0.29505813982496587
+    },
+    {
+      "confidence": 1,
+      "height": 0.017705269556157366,
+      "text": "以“先前研究的某一发现”支持强化“当前研究的发现/结论”。阅读中应通过对比今昔研究的“目的”、",
+      "width": 0.8846153801096148,
+      "x": 0.04914531024433773,
+      "y": 0.2744458931188768
+    },
+    {
+      "confidence": 1,
+      "height": 0.01781266422595007,
+      "text": "“手段”和“效果”等信息，分清其间关系。",
+      "width": 0.34432798887168603,
+      "x": 0.044724877370126634,
+      "y": 0.2542902999826744
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013170461766567554,
+      "text": "① The study found that,among",
+      "width": 0.3012820370137806,
+      "x": 0.12393163483178476,
+      "y": 0.22229465448026053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014239526323420404,
+      "text": "Prosecuted",
+      "width": 0.10367685270400973,
+      "x": 0.4225361155659131,
+      "y": 0.22160881001594834
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "研究发现，在被诉企业中，那些有着最",
+      "width": 0.3376068290959392,
+      "x": 0.5876068460823722,
+      "y": 0.2151162794460585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181297,
+      "text": "firms, those with",
+      "width": 0.17948717347948656,
+      "x": 0.049145305140598505,
+      "y": 0.2033898302728413
+    },
+    {
+      "confidence": 1,
+      "height": 0.009126466753585416,
+      "text": "the",
+      "width": 0.0427350430479434,
+      "x": 0.22863247918827895,
+      "y": 0.20469361150003518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014633425522348031,
+      "text": "most comprehensive®",
+      "width": 0.19230769005480747,
+      "x": 0.2756410296876959,
+      "y": 0.20338983023023705
+    },
+    {
+      "confidence": 1,
+      "height": 0.011734028683181186,
+      "text": "CSR",
+      "width": 0.04059828906507734,
+      "x": 0.48504273631682027,
+      "y": 0.20338983024861645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014536778650196869,
+      "text": "为全面的CSR 计划的企业往往会获得较",
+      "width": 0.36136332857860487,
+      "x": 0.5491453023383015,
+      "y": 0.1962190351450238
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "programmes tended to get more lenient® penalties®. ②",
+      "width": 0.4722222092055543,
+      "x": 0.04914531038119715,
+      "y": 0.1831395353690236
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01954779071633783,
+      "text": "宽大的处罚。他们的分析排除了“是企业的",
+      "width": 0.37442634567875777,
+      "x": 0.5488838849732771,
+      "y": 0.17326563482533663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01321973266004739,
+      "text": "Their analysis ruled out the possibility that it was firm's",
+      "width": 0.47435896684935824,
+      "x": 0.05128205898985077,
+      "y": 0.16279069782172828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "政治影响力，而非其CSR立场使它们获得宽",
+      "width": 0.376068378821902,
+      "x": 0.5470085440933224,
+      "y": 0.1538461535561486
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013359965059561385,
+      "text": "political influence, rather than their CSR stand, that",
+      "width": 0.47649572449316213,
+      "x": 0.04914529419038485,
+      "y": 0.14244186042468365
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "大处理”的可能性：因为政治活动捐献更多",
+      "width": 0.376068378821902,
+      "x": 0.5470085409309294,
+      "y": 0.13363754885173829
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013270898468335846,
+      "text": "accounted for the leniency: Companies that contributed",
+      "width": 0.47649572449316213,
+      "x": 0.04914529419038485,
+      "y": 0.12190351995872473
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "的企业受到的罚款并未更低。",
+      "width": 0.24786324235619606,
+      "x": 0.5491453036692768,
+      "y": 0.11337209295319639
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014584154628868085,
+      "text": "more to political campaigns did not receive lower fines®",
+      "width": 0.4658119655616453,
+      "x": 0.04914530509310877,
+      "y": 0.10169491498030592
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008720930116894676,
+      "text": "vX: KZRZ2019",
+      "width": 0.07478631984249418,
+      "x": 0.833333336766787,
+      "y": 0.10610465136597147
+    },
+    {
+      "confidence": 1,
+      "height": 0.013352384778635762,
+      "text": "35",
+      "width": 0.02350427367636887,
+      "x": 0.891025641107481,
+      "y": 0.05932203381194223
+    }
+  ],
+  "vision_ocr_text": "③ It argues that since prosecutors do not consume a\n提出，由于检察官不会将消费某公司的产品作\ncompany's products as part of their investigations,they\n为其调查的一部分，所以他们只可能被光环效\ncould be influenced only by the halo effect.\n应影响。\n• 词汇注释与难句分析•\n①previous ［ pri:vrs］a. 以前的，早先的\n③differentiate ［idifo'renfrert］v. 辨别，区别\n②have trouble doing sth 做某事有困难\n④bribery ［'braibor］n.（指行为）贿赂\n• 语篇分析\n第三至五段为第二轮论证：借一项新研究聚焦“光环效应”：CSR能在企业被诉之时有所助益。\n第三段介绍研究方式，并说明该研究方式的有效性。关键词为：①A recent study； ②bribery prosecutions。\n①句指出先前研究（Previous studies）未能成功区分上述三种效应，反向说明如今新研究得以将其区\n分。had trouble differentiating these effects（these effects 回指上段所述三种效应）和 consumers can be\naffected by all three（消费者可能同时受到三种效应的影响）以因果关系明确先前研究的“不足”、反向暗\n示新研究的“成果”。联系前两段（主要为两段末句）可知：这里的“不足”和“成果”指的就是“明确光环效\n应的影响”，且成功将其与另外两种效应区分只能以“不同时受三种效应影响的非消费者（即第二段末句\n的 others）”为研究对象。\n②③句引出新研究，明确其研究目的、研究方式，并说明该方式的有效性。\n②句介绍研究目的及方式。A recent study 呼应①句 Previous studies， 回指首段③句New research；\nattempts to separate them 则回应①句 had trouble differentiating these effects，明确新研究的目的：区分\n三种效应的影响（即，确定光环效应的影响）。by looking at （look at 此处意力“仔细地研究，考虑”）引出\n研究方式：查看美国《反海外腐败法》（FCPA）下的行贿诉讼；其中 bribery prosecutions 契合首段③句at\nleast when they are prosecuted for corruption，体现“论点一论据”关系：本研究是对首段论点的集中论证。\n③句说明研究方式的有效性。It argues 引出研究对其“效用”（即：该研究方式确实能够准确测出其\n意在测量的“CSR光环效应”）的声明；since...they could be influenced only by the halo effect 体现“研究\n方式—研究目的”的准确对应（即研究方式合理有效）：由于检察官调查过程中不涉及对公司产品的使\n用（即：可排除检察官的“消费者”身份，又即：可排除前两种效应的影响），故他们只可能受到“光环效应”\n的影响。\n【深层解读】研究介绍型文章中常常会提及“先前研究（previous studies）”，需注意的是“先前研究”往\n往并非作者的关注点（作者的关注点在于“当前新研究”）。提及先前研究的目的大致分为：一、以“先前\n研究的不足”引出“弥补该不足的新研究”；二、“介绍先前研究”意在引出“将其驳倒、推翻的新研究”；三、\n以“先前研究的某一发现”支持强化“当前研究的发现/结论”。阅读中应通过对比今昔研究的“目的”、\n“手段”和“效果”等信息，分清其间关系。\n① The study found that,among\nProsecuted\n研究发现，在被诉企业中，那些有着最\nfirms, those with\nthe\nmost comprehensive®\nCSR\n为全面的CSR 计划的企业往往会获得较\nprogrammes tended to get more lenient® penalties®. ②\n宽大的处罚。他们的分析排除了“是企业的\nTheir analysis ruled out the possibility that it was firm's\n政治影响力，而非其CSR立场使它们获得宽\npolitical influence, rather than their CSR stand, that\n大处理”的可能性：因为政治活动捐献更多\naccounted for the leniency: Companies that contributed\n的企业受到的罚款并未更低。\nmore to political campaigns did not receive lower fines®\nvX: KZRZ2019\n35",
+  "pdf_text_layer": "@ It arg ues t ha t s ince prosec utor s do no t cons ume a\n                                                                      提出，由于检 察 官不会将消费某公司的产品作\ncompa ny ’ s pro du cts as par t of their inves tiga tions, they      为其调查的一部分，所以他们只可能被光环效\nco uld be influ enced only by the ha lo eff ect.                      应影 响 。\n\n\n\n\n                                            ＞词汇注辞呈难句分析＜ 1'\n( previous [ 1p r i: v 1 ;:is］ α 以 前的，早先的                   \\\\     @differentiate [ 1d1fa' renf1 e1t] v. 辨 别 ， 区别\n                                                                   ( bri bery [ 'bra1b;:ir1] 11 . （ 指行为 ） 贿赂\n( have trouble doing sth 做 某 事 有困难\n                                                      析\n                                                      分 …\n                                                      篇\n                                                      …\n                                                            IJ\n                                                                         J\n                                                      语 …\n     第三至五段为第二轮论证：借一项新研究聚焦“光环效应”： CSR 能在企业被诉之时有所助益。\n     第三段介绍研究方式，并说明该研究方式的有效性。关键词为： ①A recent study ； ② bril町 pr旧cutions。\n     ①旬指出先前研究（ Previous studies ）未能成功区分上述三种效应，反向说明如今新研究得以将其区\n分。 h a d t ro ubl e differentiating t hese eff ects( t hese effec t s 团指上段所述 三 种 效 应）和 co n s um e r s can be\n\naff ected by a ll t hr ee （消费者 可能同时 受 到 三 种 效应 的 影 响 ） 以因 果关 系明确先前研 究 的 “ 不足 ” 、 反向暗\n示新 研究 的 “成果” 。 联系前两段（主要为两段末句） 可知 ： 这里 的 “不 足 ” 和 “ 成 果” 指的就 是“ 明确光环效\n应 的 影 响 ”，且 成功 将其与另 外两种 效应区分只 能以 “ 不同时 受 三 种效 应影 响的非消 费 者（ 即 第 二 段末句\n的 ot h er s ）”为 研 究 对 象。\n     ②③旬引出新研究，明确其研究目的、研究方式，并说明该方式的有效性。\n     ②旬介绍研究目的及方式。 A rece nt stud y 呼 应① 句 Pr ev iou s st ud ies, fill 指首段 ③ 句 Ne w resea rch ;\nat tempt s to separate th e m 则回 应 ① 句 h a d t ro ub le diff e r e nt川i ng th ese eff ects ，明确新研 究 的目的：区分\n三 种 效应 的 影 响 （ 即 ， 确 定光 环 效应 的 影 H向 ） 。 b y looking at Clook a t 此 处 意 为 “ 仔细地研究，考虑”） 引 出\n研 究方式 ： 查看美国《反海 外 腐 败 法 》 C FCPA ） 下的行贿诉讼； 其 中 bribe r y p rosec u t i on s 契 合首段 ③ 句 at\nleast when they are prosec uted for corruptio n ， 体现“论点 一 论据” 关系 ： 本 研究 是 对 首 段论点的 集 中论证 。\n     ③旬说明研究方式的有效性。 l t a rg u 巳s 引出研 究 对 某：“效 用”（ 目 ll ： 该 研 究方 式确 实 能够准确测出其\n意在 测 量 的 “ CSR 光环 效应勺 的 声 明； s i n ce . . . they could be infl uenced only by the halo effect 体现 “ 研究\n方式一一研 究 目的 ” 的准确对 应（ 即研 究方式合理有效 ）：由 于 检 察官 调 查 过 程中 不涉 及 对公司 产 品的使\n用 （ 即：可排除检 察官 的 “ 消 费者 ” 身 份， 又 即：可排除前两种 效 应的 影 响） ， 故他们只可能 受 到“光环效应”\n的影 响 。\n     E 深层解读】研 究 介绍 型文章 中 常常会提及“ 先前研 究（ previo us s t u d i es ）”， 需 注 意 的是“先前研究”往\n往并 非作 者 的 关注点（ 作 者 的 关注点在于“当 前 新 研 究 勺 。 提及先前研 究 的目的大致分为： 一 、以“先前\n研 究 的 不 足 ” 引出 “弥 补 该 不足的新研 究” ； 二 、“介 绍先 前研 究”意在 引出“将 其 驳倒、推翻的新研究”； 三 、\n以 “先 前研 究 的 某 一 发 现 ”支持 强化 “当 前研 究 的 发 现 ／结 论” 。 阅 读 中 应 通过对比 今昔 研究的“目的”、\n“手 段吁口 “效果 ” 等信息， 分 清其 间 关系。\n\n\n          0 The s tud y found tha t, among prosec uted                       研 究 发现 ， 在被诉企业中，那些有着最\nfirm s, those     with   t he   mos t   comprehensive(       CSR\n                                                                       为全面的 CSR 计划的企业往往会获得较为\nprogra mmes tend ed to ge t mo re len ient® penalties®.          8     宽 大的处罚 。 他们的分析排除了 “ 是企业的\nTheir analysis ruled o ut t he possibil it y th at it was firm ’ s\n                                                                       政治 影 响力，而非其 CSR 立场使它们获得宽\npo liti ca l influence, ra th er tha n t heir CSR s ta nd , tha t\n                                                                       大处理”的可能性：因为政治活动指献更多\nacco unted fo r the leni ency : Compa nies that contributed\n                                                                       的企业受到的罚款并未更低 。\nmore to po li tica l campaigns did no t rece ive low er fi nes©.                                               vx：KZRZ2019\n\n\n\n\n                                                                                                                       35",
+  "quality": {
+    "vision_line_count": 55,
+    "vision_character_count": 2121,
+    "pdf_text_character_count": 3833,
+    "nonempty": true
+  }
+}

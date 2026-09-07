@@ -1,0 +1,558 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P025",
+  "year": 2017,
+  "pdf_page": 25,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017708206676063654,
+      "text": "［技巧总结］本题针对“反对者多个反对意见/理由”命制因果细节题，考查“某一意见/理由”。解答",
+      "width": 0.8389830261696387,
+      "x": 0.08898306936574557,
+      "y": 0.9168848165360044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859420057382,
+      "text": "此题时应：1.由题干关键词划定被考查段落（群）；2. 于段落（群）中按照反对意见划出层次；3.将反对意",
+      "width": 0.8792372841871422,
+      "x": 0.048728804543081754,
+      "y": 0.8982558144396806
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "见逐一与选项对比，正确项通常对应其中一个。",
+      "width": 0.3983050630292819,
+      "x": 0.05084747346417248,
+      "y": 0.8793604655770958
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "如本题，首先根据题干关键信息 The construction of the TMT is opposed、because 可知考查的是“抗",
+      "width": 0.8389830261696386,
+      "x": 0.09110171424568907,
+      "y": 0.8590116278223917
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "议者反对 TMT项目的理由/原因”，由此可定位至第三、四段，细读下去发现，第三段②句及第四段②③",
+      "width": 0.877118642093571,
+      "x": 0.05084746592355327,
+      "y": 0.8401162789851824
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "句都是对①句的解释说明，解释具体反对理由，将四个选项与这几句内容逐一比对，发现［B］是对a",
+      "width": 0.8813559262807132,
+      "x": 0.05084746609693134,
+      "y": 0.8197674417607396
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016026421367185906,
+      "text": "painful reminder of the occupation of...的同义概括，符合题意。",
+      "width": 0.5381355576842795,
+      "x": 0.04872883581181492,
+      "y": 0.7994186045181282
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013172713249765766,
+      "text": "V① Yet",
+      "width": 0.08050847235526747,
+      "x": 0.09110169683084084,
+      "y": 0.7688953492727111
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011863813350337926,
+      "text": "science has a cultural history, too, with",
+      "width": 0.36652540250588916,
+      "x": 0.17584746212982402,
+      "y": 0.7688953490886631
+    },
+    {
+      "confidence": 1,
+      "height": 0.014694690704345703,
+      "text": "然而，科学也有文化历史，其根源可以",
+      "width": 0.3177966052339277,
+      "x": 0.6038135578173582,
+      "y": 0.760174418967418
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013233592372914327,
+      "text": "roots going back to the dawn\" of civilization. ② The same",
+      "width": 0.49152543162571566,
+      "x": 0.05084745982273527,
+      "y": 0.7485465120379726
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "追溯至文明的开端。探索地平线以外世界",
+      "width": 0.3601694762251759,
+      "x": 0.5635593260823273,
+      "y": 0.7395287956372814
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013385790804917863,
+      "text": "curiosity to find what lies beyond the horizon that first",
+      "width": 0.49364407371928665,
+      "x": 0.0508474628931812,
+      "y": 0.7264397902712083
+    },
+    {
+      "confidence": 1,
+      "height": 0.014550102942901155,
+      "text": "的好奇心最先把早期的波利尼西亚人带到",
+      "width": 0.3559321920380337,
+      "x": 0.565677969065729,
+      "y": 0.7238219897902622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015052356020942459,
+      "text": "brought early Polynesians®to Hawaii's shores inspires",
+      "width": 0.49152543162571566,
+      "x": 0.05084745982273527,
+      "y": 0.7061518321922613
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "了夏威夷海岸，正是同样的好奇心激励着",
+      "width": 0.35805083413160477,
+      "x": 0.5656779763452146,
+      "y": 0.7034883720205506
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013264032558620964,
+      "text": "astronomers today to explore the heavens. 8 Calls to",
+      "width": 0.49152543162571566,
+      "x": 0.05084745859392174,
+      "y": 0.6858638740698308
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860668322207,
+      "text": "当今的天文学家去探索天空。拆卸莫纳克",
+      "width": 0.3580508341316049,
+      "x": 0.5656779741418246,
+      "y": 0.6831395346076994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "disassemble® all telescopes on Mauna Kea or to ban® future",
+      "width": 0.4957627158128578,
+      "x": 0.04661016666984227,
+      "y": 0.6642441857414809
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "亚山上所有望远镜或者禁止在那里进一步",
+      "width": 0.3580508341316049,
+      "x": 0.563559324221274,
+      "y": 0.6655759159363176
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172713249765766,
+      "text": "development there ignore the reality that astronomy and",
+      "width": 0.49152543162571566,
+      "x": 0.05084745859392174,
+      "y": 0.6438953493308506
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "开发的呼声忽视了这样一个现实：天文学",
+      "width": 0.3580508341316049,
+      "x": 0.5656779772403415,
+      "y": 0.6465968586424983
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011780104712041828,
+      "text": "Hawaiian culture both seek to answer big questions about",
+      "width": 0.4915254316257156,
+      "x": 0.050847447534599924,
+      "y": 0.6250000003120157
+    },
+    {
+      "confidence": 1,
+      "height": 0.014618592736608704,
+      "text": "和夏威夷文化两者都在设法回答我们是",
+      "width": 0.3601694762251759,
+      "x": 0.5635593326854346,
+      "y": 0.6293604650002622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013294472120195189,
+      "text": "who we are, where we come from and where we are going.",
+      "width": 0.48728811831874697,
+      "x": 0.05084747438582392,
+      "y": 0.603197674786277
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "谁、我们从何而来以及我们要去往何处这",
+      "width": 0.3580508341316049,
+      "x": 0.5635593257519943,
+      "y": 0.6090116276019459
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664251142771478,
+      "text": "④Perhaps that is why we explore the starry®skies, as if",
+      "width": 0.4915254316257156,
+      "x": 0.050847447534599924,
+      "y": 0.5828488376084063
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372383317406,
+      "text": "几个重大问题。也许这就是我们探索星空",
+      "width": 0.36016947622517603,
+      "x": 0.5635593332857171,
+      "y": 0.5901162790263645
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601881194489163,
+      "text": "的原因，仿佛在回应一个原始召唤，即，了",
+      "width": 0.3538135499444627,
+      "x": 0.5656779691591246,
+      "y": 0.5726439790578135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014725130265919928,
+      "text": "answering a primal®calling®to know ourselves and our",
+      "width": 0.4936440737192867,
+      "x": 0.04872880442743306,
+      "y": 0.5625000003264296
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "解我们自己和我们祖先的真正家园。",
+      "width": 0.3093220368596433,
+      "x": 0.5656779684875511,
+      "y": 0.5536649214042558
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790628003818,
+      "text": "true ancestral homes.",
+      "width": 0.18008473811258796,
+      "x": 0.04872881438297165,
+      "y": 0.5436046514142445
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20550847235526748,
+      "x": 0.3601694952047815,
+      "y": 0.5013089005563445
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014694691328478116,
+      "text": "①dawn ［doin］n. 开端",
+      "width": 0.1758474539254458,
+      "x": 0.04872881729045503,
+      "y": 0.4751308898131156
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014694691328478116,
+      "text": "⑦calling ［'koil］n. 天职，使命感，（神的）感召",
+      "width": 0.3601694762251759,
+      "x": 0.5127118690554912,
+      "y": 0.47513089018288757
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015052356020942348,
+      "text": "② Polynesian ［.poli'ni:zion］n. 波利尼西亚人",
+      "width": 0.3389830552894651,
+      "x": 0.048728808965437014,
+      "y": 0.4561518326347078
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015052356020942348,
+      "text": "⑧hostility ［ho'stilt］ n. 敌意，敌对行动（29题）",
+      "width": 0.37288135790642896,
+      "x": 0.5127118665270114,
+      "y": 0.45615183222859856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016946972976804364,
+      "text": "③disassemble ［diso'sembol］v. 拆卸，拆开",
+      "width": 0.3181617678576753,
+      "x": 0.04856344392996475,
+      "y": 0.4384968917126335
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013195543389045827,
+      "text": "• 经典搭配",
+      "width": 0.1038135572244192,
+      "x": 0.5148305084852479,
+      "y": 0.43313953520294357
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011818153695910438,
+      "text": "④ban［been］v. 禁止",
+      "width": 0.16313558680410603,
+      "x": 0.05084745981122383,
+      "y": 0.42277486940534903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013256422512194277,
+      "text": "①go back to（追溯到）",
+      "width": 0.16949152764473252,
+      "x": 0.5127118618838483,
+      "y": 0.41279069800575374
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013210762857766678,
+      "text": "⑤starry ［'sta：］a. 布满星星的",
+      "width": 0.2478813579064289,
+      "x": 0.046610171602929525,
+      "y": 0.402486911259784
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013142273688191541,
+      "text": "②the dawn of civilization（文明的开端）",
+      "width": 0.3008474393655325,
+      "x": 0.5127118713886623,
+      "y": 0.39528795840537645
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014603372019622918,
+      "text": "©primal ［'pramal］a. 原始的，最初的，根本的",
+      "width": 0.3601694762251759,
+      "x": 0.04872881820097139,
+      "y": 0.3821989529809824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013233592997046628,
+      "text": "Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality",
+      "width": 0.8389830261696386,
+      "x": 0.09110172123721415,
+      "y": 0.36321989505582364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172713873898179,
+      "text": "that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come",
+      "width": 0.8813559262807132,
+      "x": 0.05084747527772201,
+      "y": 0.3429319369696697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011802934227189477,
+      "text": "from and where we are going.",
+      "width": 0.2436440591593735,
+      "x": 0.048728820923491144,
+      "y": 0.3239528793779458
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837113505258,
+      "text": "结构切分：",
+      "width": 0.09110169010307953,
+      "x": 0.08898305433935003,
+      "y": 0.3008720933023864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "to disassemble all telescopes on Mauna Kea or to ban future development there",
+      "width": 0.6377118525614265,
+      "x": 0.1970339043336935,
+      "y": 0.29777486887793425
+    },
+    {
+      "confidence": 1,
+      "height": 0.014557712989327842,
+      "text": "并列不定式结构后置定语",
+      "width": 0.22669490785089158,
+      "x": 0.23305084832561362,
+      "y": 0.27470930268834814
+    },
+    {
+      "confidence": 1,
+      "height": 0.0119170824270598,
+      "text": "Calls",
+      "width": 0.04661016973830359,
+      "x": 0.2055084750355092,
+      "y": 0.25261780101819187
+    },
+    {
+      "confidence": 1,
+      "height": 0.013225982950619941,
+      "text": "ignore",
+      "width": 0.0720338967010265,
+      "x": 0.2521186436692608,
+      "y": 0.2513089003541883
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01972315136674818,
+      "text": "the reality4",
+      "width": 0.10201540066085701,
+      "x": 0.3494160272129783,
+      "y": 0.24958609898243067
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "主语",
+      "width": 0.04449152400475423,
+      "x": 0.20127118688533477,
+      "y": 0.22513088980821017
+    },
+    {
+      "confidence": 1,
+      "height": 0.013241202419340903,
+      "text": "谓语",
+      "width": 0.04025423617763374,
+      "x": 0.2817796611696577,
+      "y": 0.2251308901393434
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "宾语",
+      "width": 0.0444915240047542,
+      "x": 0.3580508479022839,
+      "y": 0.22513088980821017
+    },
+    {
+      "confidence": 1,
+      "height": 0.017670157068062853,
+      "text": "同位语从句",
+      "width": 0.1038135572244192,
+      "x": 0.5190677969174514,
+      "y": 0.22382198966970912
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013111834750749729,
+      "text": "that",
+      "width": 0.03601694835051328,
+      "x": 0.21186440694232814,
+      "y": 0.19764397897435915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372383317406,
+      "text": "astronomy and Hawaiian culture both seek to answer big questions",
+      "width": 0.550847468485359,
+      "x": 0.26483049927426977,
+      "y": 0.19476744155543435
+    },
+    {
+      "confidence": 1,
+      "height": 0.0163612565445026,
+      "text": "引导词",
+      "width": 0.06355932104678555,
+      "x": 0.20127118756982756,
+      "y": 0.17277486941485742
+    },
+    {
+      "confidence": 1,
+      "height": 0.013271641980915239,
+      "text": "主语",
+      "width": 0.04025423617763374,
+      "x": 0.34322033982583205,
+      "y": 0.1727748693277692
+    },
+    {
+      "confidence": 1,
+      "height": 0.01776390924503668,
+      "text": "谓语部分",
+      "width": 0.08277050047430368,
+      "x": 0.6291655975791933,
+      "y": 0.17135060334119578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163612565445026,
+      "text": "about who we are, where we come from and where we are going.",
+      "width": 0.5211864209357109,
+      "x": 0.21610170999824618,
+      "y": 0.15248691127056402
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062853,
+      "text": "（“介词about+三个名词性wh-从句”做后置定语修饰big questions）",
+      "width": 0.5317796314035663,
+      "x": 0.20550849270658547,
+      "y": 0.12499999997107147
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01636125654450271,
+      "text": "功能注释：本句主干为 Calls ignore the reality，表达了作者对抗议者委婉的批驳态度：抗议呼声忽略",
+      "width": 0.8389830261696386,
+      "x": 0.08898307367365499,
+      "y": 0.10013088976581663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017670157068062742,
+      "text": "了一个事实；Calls 的后置定语 to disassemble.•• or to ban..there 具体说明抗议呼声的内容：拆卸莫纳",
+      "width": 0.875,
+      "x": 0.05084746655190655,
+      "y": 0.07984293203847315
+    },
+    {
+      "confidence": 1,
+      "height": 0.014717520843625653,
+      "text": "25",
+      "width": 0.027542372696272244,
+      "x": 0.8877118643025903,
+      "y": 0.06086387463161025
+    }
+  ],
+  "vision_ocr_text": "［技巧总结］本题针对“反对者多个反对意见/理由”命制因果细节题，考查“某一意见/理由”。解答\n此题时应：1.由题干关键词划定被考查段落（群）；2. 于段落（群）中按照反对意见划出层次；3.将反对意\n见逐一与选项对比，正确项通常对应其中一个。\n如本题，首先根据题干关键信息 The construction of the TMT is opposed、because 可知考查的是“抗\n议者反对 TMT项目的理由/原因”，由此可定位至第三、四段，细读下去发现，第三段②句及第四段②③\n句都是对①句的解释说明，解释具体反对理由，将四个选项与这几句内容逐一比对，发现［B］是对a\npainful reminder of the occupation of...的同义概括，符合题意。\nV① Yet\nscience has a cultural history, too, with\n然而，科学也有文化历史，其根源可以\nroots going back to the dawn\" of civilization. ② The same\n追溯至文明的开端。探索地平线以外世界\ncuriosity to find what lies beyond the horizon that first\n的好奇心最先把早期的波利尼西亚人带到\nbrought early Polynesians®to Hawaii's shores inspires\n了夏威夷海岸，正是同样的好奇心激励着\nastronomers today to explore the heavens. 8 Calls to\n当今的天文学家去探索天空。拆卸莫纳克\ndisassemble® all telescopes on Mauna Kea or to ban® future\n亚山上所有望远镜或者禁止在那里进一步\ndevelopment there ignore the reality that astronomy and\n开发的呼声忽视了这样一个现实：天文学\nHawaiian culture both seek to answer big questions about\n和夏威夷文化两者都在设法回答我们是\nwho we are, where we come from and where we are going.\n谁、我们从何而来以及我们要去往何处这\n④Perhaps that is why we explore the starry®skies, as if\n几个重大问题。也许这就是我们探索星空\n的原因，仿佛在回应一个原始召唤，即，了\nanswering a primal®calling®to know ourselves and our\n解我们自己和我们祖先的真正家园。\ntrue ancestral homes.\n•词汇注释与难句分析\n①dawn ［doin］n. 开端\n⑦calling ［'koil］n. 天职，使命感，（神的）感召\n② Polynesian ［.poli'ni:zion］n. 波利尼西亚人\n⑧hostility ［ho'stilt］ n. 敌意，敌对行动（29题）\n③disassemble ［diso'sembol］v. 拆卸，拆开\n• 经典搭配\n④ban［been］v. 禁止\n①go back to（追溯到）\n⑤starry ［'sta：］a. 布满星星的\n②the dawn of civilization（文明的开端）\n©primal ［'pramal］a. 原始的，最初的，根本的\nCalls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality\nthat astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come\nfrom and where we are going.\n结构切分：\nto disassemble all telescopes on Mauna Kea or to ban future development there\n并列不定式结构后置定语\nCalls\nignore\nthe reality4\n主语\n谓语\n宾语\n同位语从句\nthat\nastronomy and Hawaiian culture both seek to answer big questions\n引导词\n主语\n谓语部分\nabout who we are, where we come from and where we are going.\n（“介词about+三个名词性wh-从句”做后置定语修饰big questions）\n功能注释：本句主干为 Calls ignore the reality，表达了作者对抗议者委婉的批驳态度：抗议呼声忽略\n了一个事实；Calls 的后置定语 to disassemble.•• or to ban..there 具体说明抗议呼声的内容：拆卸莫纳\n25",
+  "pdf_text_layer": "［技巧总结］ 本题针对“反对者多个反对意 见 ／ 理由”命制因果细节题，考查“某一意见 ／ 理由” 。 解答\n此 题 时 应： 1. 由题干关键词 划 定被考查段落（群） ; 2 . 子段落（群）中按照反对意 见划出 层次 ； 3 . 将反对 意\n见逐 一 与选项对 比 ，正确项通常对应其中 一 个 。\n     女fl ＊题，首先根据题干关键信息 Th e constru ction of the TMT is opposed 、 b eca u se 可知考查 的 是 “抗\n议者反对 TMT 项目的理由 ／原因 ”，由此可定位至第 三 、四段 ，细读下去发现，第 三 段 ② 句及第四段② ③\n句都是对 ① 句的解释说明 ， 解释 具体反对理 由 ，将 四个选项 与这 几 句内容逐 一 比对， 发 现 ［ BJ 是对 a\npa inful reminder of t he occ upation of. . .的同义概括，符合题 意 。\n\n      V O Yet science has a cultu ra l hi s tor y, too, w ith\n                                                                          然而 ， 科学也有文化历史，其根源可以\nroots going bac k to t he dawn( of civili zat ion. @The same        追溯至文明的开端 。 探索地平线以外世界\nc uriosity to find w hat li es beyond t he horizon t hat first      的好奇心最先把早期的波利尼西亚人带到\nbrought ea rl y Polynesians@ to H awa ii ’ s s hores msp1res        了夏威夷海岸，正是同样的好奇心激励着\nastro nome rs today to explore th 巳 h eave n s. @ Ca lls to         当今的天文学家去探索天空 。 拆卸莫纳克\ndisassemble® all te l 巳sco p es on Mauna Kea or to ban® futur e     亚山上所有望远镜或者禁止在那里进一步\n\ndeve lopment there ignore the reality that as tronomy and           开发的呼声忽视了这样一个现实：天文学\n                                                                    和夏威夷文化两者都在设法回答我们是\nH awaii an culture both seek to answer big qu estions about\n                                                                    谁、我们从何而来以及我们要去往何处这\nwho we are, wh 巳 re we come from and w her e we are going.\n                                                                    几个重大问题 。 也许这就是我们探索 星 空\n0 P erhaps th at is why we explore the starry® s ki es, as if\n                                                                    的原因 ， 仿佛在回应 一 个原始召唤，即，了\nanswe rin g a primal® calling<u to know ourselves and our\n                                                                    解我们自己和我们祖先的真正家园。\nt rue ances t ra l homes .\n\n\n                                        ； ；如件需要注：句分析 ； ； J\n( dawn [ d:J:n] n . 开端                                  $   ( calling [ ' I仨:J:!1 JJ] n . 天职，使命感，（ 神的 ）感召\n( Polynesian [ ,p:Jli 1ni:zian] 11. 波 利 尼西亚人           i    ( hostility [ ho 'sti\n( disassemble [ d,sa'sembaJ] v. 拆 卸，拆 开\n                                                       ! ． 经舆搭配\n( ban [ bren] v. 禁止\n( starry [ 'sto : ri ］ ι 布满星星的\n( primal [ 'pra 1m a l ］ α ．原始的，最初的，根本的\n                                                       ;« ( go bac k to （追溯到）\n                                                            ② 川awn of civi lizat ion     明的开端）\n\n     Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality\nthat astronomy and Hawaiian culture both seek to answer big questions about who we are , where we come\nfrom and where we are going.\n     结构切分： I to disassemble all telescopes on Mauna Kea or to ban future development there\n                             并列不定式结构后置定语\n\n                      Calls    ignore   the r巳ality\n\n                      主语        谓语       宾语                  同位语从旬\n\n                        that   astronomy and Hawaiian culture     both seek to answer big questions\n\n                      引导词               主语                                    谓语部分\n                        about who we are, where we come from and wh巳re we are going.\n\n                       （“介词about＋三个名同性wh－从旬”做后置定语修饰big questions)\n\n     功能注释： 本句主干为 Ca ll s ignore th e rea li ty ，表达了作者对抗议者委婉的批驳态度：抗议呼声忽略\n了一 个 事实 ； Calls 的后 置定语 to di sassemb le... or to ban ... th ere 具 体说明抗 议呼声的 内 容 ：拆卸 莫纳\n                                                                                                            25",
+  "quality": {
+    "vision_line_count": 67,
+    "vision_character_count": 2185,
+    "pdf_text_character_count": 3535,
+    "nonempty": true
+  }
+}

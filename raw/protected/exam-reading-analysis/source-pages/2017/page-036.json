@@ -1,0 +1,454 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P036",
+  "year": 2017,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.011848882797661275,
+      "text": "［B It excludes GDP as an indicator.",
+      "width": 0.30720339131400876,
+      "x": 0.07838983488678078,
+      "y": 0.9127906975096991
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［B］它不包含 GDP 指标。",
+      "width": 0.22033898552334785,
+      "x": 0.5211864416451057,
+      "y": 0.9095674965054552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013252841379508107,
+      "text": "［C］ Its criteria are questionable.",
+      "width": 0.2733050723832606,
+      "x": 0.07838983220526251,
+      "y": 0.8851744193168213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453462,
+      "text": "［C］它的标准有问题。",
+      "width": 0.19279660868599124,
+      "x": 0.5211864433053094,
+      "y": 0.8807339451139856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013346185846691228,
+      "text": "［D］ Its results are enlightening.",
+      "width": 0.26906779710466955,
+      "x": 0.07838983295190248,
+      "y": 0.857558139418615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［D］它的结果具有启发性。",
+      "width": 0.233050840534626,
+      "x": 0.5211864470526023,
+      "y": 0.8545216253927318
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［精准定位］第三段首句针对上段末反问“英国如果真像GDP反映的那么喜人，人民为何还支持脱",
+      "width": 0.8432202895330425,
+      "x": 0.10381359458729207,
+      "y": 0.8296199215701535
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765295,
+      "text": "欧？”作出回答：最近一项年度调查提供了一些解释；随后介绍调查结果：在“经济增长一民生福祉”的转",
+      "width": 0.8771186084637906,
+      "x": 0.06779663345348598,
+      "y": 0.8110465115497947
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765295,
+      "text": "化方面，英国表现最差。第四段进而对比“富国VS穷国”情况：前者在健康、教育等方面持续下滑，后者",
+      "width": 0.8771186084637906,
+      "x": 0.06779663345348598,
+      "y": 0.7921511627125853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864445,
+      "text": "却在民主、公平等方面提升显著。第五段作出评论：富国应吸取教训——以 GDP以外的标准进行衡量，",
+      "width": 0.8792372752785911,
+      "x": 0.06779662539036538,
+      "y": 0.7732558144331027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017735225032541324,
+      "text": "情况会大不相同。可见作者通过调查结果启示富国：“唯GDP 论”掩盖国家整体发展实情（“富”未必",
+      "width": 0.8792372752785911,
+      "x": 0.06567796530032334,
+      "y": 0.7529069769767085
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453462,
+      "text": "“福”），由此解答了英国人民执意脱欧的疑问，因此［D］正确。",
+      "width": 0.5169491594653741,
+      "x": 0.06355932503426201,
+      "y": 0.7339449542374404
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "［命题解密］正确项［D］enlightening 是第三段首句 sheds some lights on 的同义替换，同时与第五段",
+      "width": 0.841101681069252,
+      "x": 0.1038135712768146,
+      "y": 0.714941022060033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017475613135341517,
+      "text": "a lesson that rich countries can learn 相符。",
+      "width": 0.36264385274445804,
+      "x": 0.06766857651471048,
+      "y": 0.6975870821987196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599027726159652,
+      "text": "［A］将第三段②句163 国家承担的角色“研究对象”偷换为“研究发起者”。［B］将第三段③句研究指",
+      "width": 0.8389830142544514,
+      "x": 0.10593222507616394,
+      "y": 0.6773255811022414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01889534796518544,
+      "text": "标“不止包括GDP，还有其他多套不同标准”曲解为“不包括GDP”。［C］将第三段③句暗含的对研究“采",
+      "width": 0.8792372752785911,
+      "x": 0.06567797568167899,
+      "y": 0.6569767443858665
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864445,
+      "text": "取多套衡量标准”的肯定态度篡改为否定态度。",
+      "width": 0.40042371002255617,
+      "x": 0.06567797950143371,
+      "y": 0.6395348841714747
+    },
+    {
+      "confidence": 1,
+      "height": 0.016051236173897254,
+      "text": "［技巧总结］本题需要对文中大篇幅（第三至五段）涉及的大量信息（涉及研究方法，研究结论，研究",
+      "width": 0.841101681069252,
+      "x": 0.10381357225290426,
+      "y": 0.6205766710353924
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453462,
+      "text": "细节，研究意义等）进行概括引申，难以直接确定正确答案。解题可以首先从选项入手，通过排除法（先",
+      "width": 0.8792372752785911,
+      "x": 0.06567797360717331,
+      "y": 0.6002621233722962
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "宏观推测一-再微观细节）锁定潜在正确项，再判断段落或段群主旨（遇到难以理解的关键表述可利用上",
+      "width": 0.8792372752785911,
+      "x": 0.0656779652032187,
+      "y": 0.5825688073370224
+    },
+    {
+      "confidence": 1,
+      "height": 0.01902451271467087,
+      "text": "下文推知其义），对锁定的选项进行验证。另外需注意：与段落乃至全文核心无关联的选项为干扰项。",
+      "width": 0.8560550025954529,
+      "x": 0.06773240340116113,
+      "y": 0.5610223101178882
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860813925736,
+      "text": "具体来看，可首先从选项人手分析。［A］介绍其“发起者”，［B］说明其“采用指标”，而作者以重笔墨",
+      "width": 0.8389830142544515,
+      "x": 0.10593222767906964,
+      "y": 0.5436046510506782
+    },
+    {
+      "confidence": 1,
+      "height": 0.018269930723297745,
+      "text": "说明该调查，显然不会纠缠于这类细枝末节，带着这一推断发掘选项漏洞，发现选项中 sponsored by",
+      "width": 0.8815067794537225,
+      "x": 0.06560549354719591,
+      "y": 0.5240839956760645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "（163 countries） 和excludes GDP 偷换原文信息。［C］questionable 表明其“局限性”，显然背离文中 a more",
+      "width": 0.883474550557182,
+      "x": 0.06567798779344276,
+      "y": 0.5058139539970561
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185956402511,
+      "text": "rounded.••、a lesson.•.can learn 体现的正面态度，由此初步判断［D］正确。再看文章，第三段首句起头",
+      "width": 0.8813558837423817,
+      "x": 0.06355933524745352,
+      "y": 0.4854651166932782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453462,
+      "text": "总结，暗示段群主旨，而其中 sheds some light on 不好理解，故转而借助第五段 This is a lesson that rich",
+      "width": 0.8792372752785911,
+      "x": 0.06779660619015392,
+      "y": 0.46788990831503297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "countries can learn 明确作者对研究意义的肯定，确认［D］正确。",
+      "width": 0.5381355942093392,
+      "x": 0.06355932826609291,
+      "y": 0.4488859766232832
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014553932499916766,
+      "text": "VI① So, what Kennedy was referring to was that",
+      "width": 0.4512711884186783,
+      "x": 0.10805084093366947,
+      "y": 0.4186046518240898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015072083879423381,
+      "text": "因此，肯尼迪所要指的是：尽管 GDP",
+      "width": 0.3199152463252868,
+      "x": 0.6228813625541645,
+      "y": 0.4095674965781284
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01182411851295484,
+      "text": "while GDP has been",
+      "width": 0.19703389855233477,
+      "x": 0.06779661332976471,
+      "y": 0.399709302257761
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01182411851295484,
+      "text": "the",
+      "width": 0.04025423549557278,
+      "x": 0.2733050853242475,
+      "y": 0.39970930240310987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01182411851295484,
+      "text": "most common method for",
+      "width": 0.24788133318519956,
+      "x": 0.31144068520824786,
+      "y": 0.3997093021124124
+    },
+    {
+      "confidence": 1,
+      "height": 0.015072083879423381,
+      "text": "一直是衡量国家经济活动的最常用办法，",
+      "width": 0.36016947817392153,
+      "x": 0.5805084776503274,
+      "y": 0.3892529490167753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013311895442977617,
+      "text": "measuring the economic activity of nations, as a measure，",
+      "width": 0.4915253910918081,
+      "x": 0.06567797422810756,
+      "y": 0.37790697716565846
+    },
+    {
+      "confidence": 1,
+      "height": 0.015072083879423381,
+      "text": "但作为一种衡量标准，它已不足以担此重",
+      "width": 0.358050840534626,
+      "x": 0.5805084750540147,
+      "y": 0.3689384009467508
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013346185846691228,
+      "text": "it is no longer enough. ② It does not include important",
+      "width": 0.4936440579066085,
+      "x": 0.06567797598313632,
+      "y": 0.3575581394476848
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "任。它并不包含环境质量和教育成果等重",
+      "width": 0.36016947817392153,
+      "x": 0.5805084848537173,
+      "y": 0.3473132370906986
+    },
+    {
+      "confidence": 1,
+      "height": 0.011926986599343437,
+      "text": "factors such",
+      "width": 0.12711863763929554,
+      "x": 0.06567797143458945,
+      "y": 0.33866279062985416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013380474375553564,
+      "text": "as environmental quality or education",
+      "width": 0.3686440579066086,
+      "x": 0.19067796490262814,
+      "y": 0.33720930274705385
+    },
+    {
+      "confidence": 1,
+      "height": 0.01471394980094387,
+      "text": "要因素—所有那些有助提升个人幸福感",
+      "width": 0.36016947817392153,
+      "x": 0.5805084857541408,
+      "y": 0.32830930560607097
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395610444302,
+      "text": "outcomes - all things that contribute to a person's sense",
+      "width": 0.49152539109180815,
+      "x": 0.06779662157274012,
+      "y": 0.31686046491280107
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599027726159652,
+      "text": "的因素。",
+      "width": 0.06991525361916306,
+      "x": 0.5826271190767179,
+      "y": 0.3066841416361622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015315624552035612,
+      "text": "of well-being.",
+      "width": 0.11884269933171755,
+      "x": 0.0634600077493271,
+      "y": 0.29466776912909864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02035645638662109,
+      "text": "词汇注释与难句分析•",
+      "width": 0.2012711884186783,
+      "x": 0.39194915174405065,
+      "y": 0.2529069773691527
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01496879520141281,
+      "text": "• 经典搭配",
+      "width": 0.10394123726547563,
+      "x": 0.06561412748884526,
+      "y": 0.22943420750978416
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283861,
+      "text": "③education outcome（教育成果）",
+      "width": 0.25211863763929554,
+      "x": 0.5317796667523861,
+      "y": 0.23110465110466039
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013359520413460002,
+      "text": "①economic activity（经济活动）",
+      "width": 0.23728813040096947,
+      "x": 0.06567797039273561,
+      "y": 0.21075581389535913
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011906032012299561,
+      "text": "④contribute to...（有助于⋯⋯）",
+      "width": 0.2563559129178866,
+      "x": 0.5296610223193055,
+      "y": 0.21220930216086187
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014561553145142403,
+      "text": "②environmental quality（环境质量）",
+      "width": 0.2711864347439651,
+      "x": 0.06567797178055977,
+      "y": 0.19186046502908138
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011797448754466866,
+      "text": "⑤ sense of well-being（幸福感）",
+      "width": 0.233050840534626,
+      "x": 0.5296610174975177,
+      "y": 0.19331395333576495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "So,what Kennedy was referring to was that while GDP has been the most common method for measuring",
+      "width": 0.8474576231626434,
+      "x": 0.099576262571221,
+      "y": 0.1511627911445853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "the economic activity of nations , as a measure, it is no longer enough.",
+      "width": 0.5911016810692519,
+      "x": 0.0635593363456705,
+      "y": 0.13226744230737586
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015992182110427633,
+      "text": "结构切分：",
+      "width": 0.09110169565700436,
+      "x": 0.10381355819197809,
+      "y": 0.11336828310516045
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988371162864445,
+      "text": "36",
+      "width": 0.02754237319041848,
+      "x": 0.07627118601072298,
+      "y": 0.058139535305195666
+    }
+  ],
+  "vision_ocr_text": "［B It excludes GDP as an indicator.\n［B］它不包含 GDP 指标。\n［C］ Its criteria are questionable.\n［C］它的标准有问题。\n［D］ Its results are enlightening.\n［D］它的结果具有启发性。\n［精准定位］第三段首句针对上段末反问“英国如果真像GDP反映的那么喜人，人民为何还支持脱\n欧？”作出回答：最近一项年度调查提供了一些解释；随后介绍调查结果：在“经济增长一民生福祉”的转\n化方面，英国表现最差。第四段进而对比“富国VS穷国”情况：前者在健康、教育等方面持续下滑，后者\n却在民主、公平等方面提升显著。第五段作出评论：富国应吸取教训——以 GDP以外的标准进行衡量，\n情况会大不相同。可见作者通过调查结果启示富国：“唯GDP 论”掩盖国家整体发展实情（“富”未必\n“福”），由此解答了英国人民执意脱欧的疑问，因此［D］正确。\n［命题解密］正确项［D］enlightening 是第三段首句 sheds some lights on 的同义替换，同时与第五段\na lesson that rich countries can learn 相符。\n［A］将第三段②句163 国家承担的角色“研究对象”偷换为“研究发起者”。［B］将第三段③句研究指\n标“不止包括GDP，还有其他多套不同标准”曲解为“不包括GDP”。［C］将第三段③句暗含的对研究“采\n取多套衡量标准”的肯定态度篡改为否定态度。\n［技巧总结］本题需要对文中大篇幅（第三至五段）涉及的大量信息（涉及研究方法，研究结论，研究\n细节，研究意义等）进行概括引申，难以直接确定正确答案。解题可以首先从选项入手，通过排除法（先\n宏观推测一-再微观细节）锁定潜在正确项，再判断段落或段群主旨（遇到难以理解的关键表述可利用上\n下文推知其义），对锁定的选项进行验证。另外需注意：与段落乃至全文核心无关联的选项为干扰项。\n具体来看，可首先从选项人手分析。［A］介绍其“发起者”，［B］说明其“采用指标”，而作者以重笔墨\n说明该调查，显然不会纠缠于这类细枝末节，带着这一推断发掘选项漏洞，发现选项中 sponsored by\n（163 countries） 和excludes GDP 偷换原文信息。［C］questionable 表明其“局限性”，显然背离文中 a more\nrounded.••、a lesson.•.can learn 体现的正面态度，由此初步判断［D］正确。再看文章，第三段首句起头\n总结，暗示段群主旨，而其中 sheds some light on 不好理解，故转而借助第五段 This is a lesson that rich\ncountries can learn 明确作者对研究意义的肯定，确认［D］正确。\nVI① So, what Kennedy was referring to was that\n因此，肯尼迪所要指的是：尽管 GDP\nwhile GDP has been\nthe\nmost common method for\n一直是衡量国家经济活动的最常用办法，\nmeasuring the economic activity of nations, as a measure，\n但作为一种衡量标准，它已不足以担此重\nit is no longer enough. ② It does not include important\n任。它并不包含环境质量和教育成果等重\nfactors such\nas environmental quality or education\n要因素—所有那些有助提升个人幸福感\noutcomes - all things that contribute to a person's sense\n的因素。\nof well-being.\n词汇注释与难句分析•\n• 经典搭配\n③education outcome（教育成果）\n①economic activity（经济活动）\n④contribute to...（有助于⋯⋯）\n②environmental quality（环境质量）\n⑤ sense of well-being（幸福感）\nSo,what Kennedy was referring to was that while GDP has been the most common method for measuring\nthe economic activity of nations , as a measure, it is no longer enough.\n结构切分：\n36",
+  "pdf_text_layer": "<BJ It 巳xc lud es GDP as an indicator.                                      [ BJ 它不包含 GDP 指标 。\n\n [CJ Its crit eria are questiona ble.                                        [CJ 它 的标准 有 问题 。\n\n [ DJ Its res ult s ar e enlig htening.                                      [ DJ 它 的 结果具有启发性。\n\n      ［精准定位］ 第 三 段首句针对上段末反问“英国如果 真 像 GDP 反映的那么 喜 人，人民为何还支持脱\n欧？”作出回答 ： 最 近 一 项 年度 调 查 提供了一些解释；随后介绍调查结果：在“ 经济增长 →民生福祉”的转\n化 方面，英国表现最差。第 四段进而对比“ 富国 vs 穷国” 情况：前者在健康、教育 等方 面持续下滑，后者\n却在民主、公平 等方 面提升显 著。第五段 作出评论： 富国应 吸取教训 一一 以 GDP 以外的标准进 行衡量，\n情况会大不相同。可 见作 者通过调查结果启示富国 ： “唯 GDP 论”掩 盖国家整体发展实情（“富”未必\n“福勺，由此解答了英国人民执意脱欧 的 疑 问 ，因 此 ［ DJ 正确。\n      ［命题解密］ 正确项［ D] e n l i g hte ning 是第 三 段首句 s h e ds som e lights on 的同义替换，同时与第五段\na lesson t hat rich co untries can l ea rn 相符 。\n      [ A］将第 三 段 ② 句 1 63 国家承 担的角色“研究 对象”偷换为“研究发起者” 。［ BJ 将第 三 段 ③句 研究指\n标“ 不止包括 GDP ，还有其 他 多套 不同标准”曲解为“不 包 括 GDP” 。［ CJ 将第三段③ 句暗含的对研究“采\n取多套衡 量 标准”的 肯定态度 篡改为 否定态度 。\n      ［技巧总结］ 本题需要对文中大篇幅（第 三 至五段）涉及 的 大量信息（涉及研究方法，研究结论，研究\n细节 ， 研究 意义等） 进行概括引申，难以 直接 确定正确答案 。解题 可以首先从选项入手，通过排除法（先\n宏观推测→再微 观细节）锁定潜在正确项 ，再 判断段落或段群主旨（遇到难以理解的关键表述可利用上\n下文推知其义），对锁定的 选项进行 验 证 。 另外 需注意 ： 与段落乃至全文核 心无 关联 的选项为 干扰项 。\n      具 体来 看，可首 先从选项入手分析 。［ A ］ 介绍其“发起 者 ”， ［ BJ 说明其“采用指标”，而作者以 重笔墨\n说明该调查，显然不会纠缠于这类 细枝 末节 ， 带着这一推 断 发掘选项漏洞，发现选项中 sponsored by\n( 163 co untri es ） 和 exclud es GDP 偷换原文信息 。 ［ CJ qu es tion a b l e 表 明卫： “局 限性”，显然背离文中 a more\nro unded . . . 、 a lesson . . . can l ea rn 体现的 正面态度，由 此初 步判 断 ［ DJ 正确 。 再看文章，第 三 段 首 句起头\n总结，暗示段群主 旨 ， 而且： 中 sh e d s some light o n 不 好理解，故转而借助 第五段 This is a lesson t hat rich\nco untries can l earn 明确作者对研究 意义 的 肯定， 确认 ［ DJ 正确 。\n\n      VJJ O So, w hat K ennedy was r efe rri 吨 to was tha t\n                                                                                                          因此，肯尼迪所要指的是 2 尽管 GDP\nwhil e GDP        has    been t he most common m ethod for\n                                                                                             一直是衡量国家经济活动的最常用办法，\nmeasunng the 巳co n o mi c act ivity of na ti ons , as a meas ure ,\n                                                                                             但作为一种衡量标准，它已不足以担此重\nit is no longer enough. @ It does not include importa nt\n                                                                                             任 。 它并不包含环境质量和教育成果等重\nfactors   s uch     as   environmenta l     quality   or   edu cat ion\n                                                                                             要因素 一一所有那些有助提升个人幸福感\noutcomes -        a ll t hings t hat contribute to a per son ’ s sense\n                                                                                             的因素 。\nof wel l being.\n\n\n                                            ：？词汇：洋辱与难：句精：：~：：： ；／\n                                                                              ③④⑤                                                    教助幸\n                                                                                                                                       育于福\n                                                                                                                                           果\n\n\n                                                                                                               川 ωd\n                                                                                      hbo\n\n                                                              ”出／qy q ？”叭叩\n                                                                                                                                           成\n                                                                                                                  比－\n                                                                                e ca\n                                                                                 unn       mH\n                                                                                       rt 0·              川                      、\n\n\n\n\n                                                                                    Hunuρi\n                                                                                      －\n\n\n\n．经典搭配\n                                                                                                  内UHUP\n                                                                                                                           E   ，，‘\n\n\n\n\n                                                                                                                           （咆\n                                                                                cst n\n                                                                                                          EW                   』＝\n                                                                                                                                44\n\n\n                                                              ’\n                                                                                                                                           u   h\n( econom ic act i v it y （经济活动）\n                                                                                             se                        e\n                                                                                                                      LU\n                                                                                                                               ／。、\n                                                                                                                                           感   ）\n                                                                                                  41\n( environme ntal qu a li ty （环境质量）                                                  v\n\n\n\n\n      So, what Kennedy was referring to was that while GDP has been the most common method for measuring\nthe economic activity of nations , as a measure , it is no longer enough.\n      结构切分：\n\n\n\n\n 36",
+  "quality": {
+    "vision_line_count": 54,
+    "vision_character_count": 1950,
+    "pdf_text_character_count": 6052,
+    "nonempty": true
+  }
+}

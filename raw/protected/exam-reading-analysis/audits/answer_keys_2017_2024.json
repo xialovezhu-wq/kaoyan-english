@@ -1,0 +1,166 @@
+{
+  "schema": "kaoyan_english_reading_answer_keys_v1",
+  "generated_date": "2026-07-11",
+  "scope": {
+    "years": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+    "texts_per_year": 4,
+    "questions_per_text": 5,
+    "text_count": 32,
+    "question_count": 160,
+    "internet_used": false,
+    "mapping_note": "Within each text, answer_keys, question_numbers, and answer_evidence_pages are positionally aligned."
+  },
+  "answer_keys": {
+    "2017": {
+      "text-1": ["A", "C", "D", "D", "C"],
+      "text-2": ["B", "A", "B", "A", "D"],
+      "text-3": ["D", "B", "D", "C", "A"],
+      "text-4": ["C", "C", "A", "B", "D"]
+    },
+    "2018": {
+      "text-1": ["D", "C", "A", "D", "B"],
+      "text-2": ["D", "A", "B", "C", "A"],
+      "text-3": ["B", "C", "D", "D", "B"],
+      "text-4": ["B", "A", "A", "C", "D"]
+    },
+    "2019": {
+      "text-1": ["A", "D", "B", "C", "B"],
+      "text-2": ["D", "A", "A", "C", "B"],
+      "text-3": ["C", "D", "B", "A", "C"],
+      "text-4": ["C", "D", "C", "B", "A"]
+    },
+    "2020": {
+      "text-1": ["C", "B", "D", "B", "C"],
+      "text-2": ["D", "A", "C", "A", "D"],
+      "text-3": ["A", "C", "D", "C", "B"],
+      "text-4": ["C", "A", "B", "C", "B"]
+    },
+    "2021": {
+      "text-1": ["C", "B", "C", "D", "D"],
+      "text-2": ["B", "D", "C", "C", "A"],
+      "text-3": ["A", "B", "D", "A", "A"],
+      "text-4": ["C", "B", "B", "D", "A"]
+    },
+    "2022": {
+      "text-1": ["A", "C", "D", "D", "B"],
+      "text-2": ["C", "B", "C", "D", "A"],
+      "text-3": ["B", "A", "A", "B", "C"],
+      "text-4": ["D", "A", "D", "B", "C"]
+    },
+    "2023": {
+      "text-1": ["C", "B", "A", "C", "D"],
+      "text-2": ["A", "D", "B", "C", "D"],
+      "text-3": ["A", "C", "A", "A", "D"],
+      "text-4": ["B", "C", "A", "B", "D"]
+    },
+    "2024": {
+      "text-1": ["D", "D", "A", "B", "A"],
+      "text-2": ["A", "B", "D", "C", "B"],
+      "text-3": ["B", "C", "C", "D", "A"],
+      "text-4": ["A", "B", "A", "D", "B"]
+    }
+  },
+  "evidence": {
+    "2017": {
+      "source_id": "SRC-EXAM-016",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+      "sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+      "method": "embedded_text_layer_explicit_answer_determinations",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "11-18", "answer_evidence_pages": [11, 13, 15, 17, 18], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "20-28", "answer_evidence_pages": [20, 22, 24, 27, 28], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "30-39", "answer_evidence_pages": [30, 33, 36, 38, 39], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "41-49", "answer_evidence_pages": [41, 44, 45, 47, 49], "confidence": "high"}
+      }
+    },
+    "2018": {
+      "source_id": "SRC-EXAM-018",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+      "sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+      "method": "embedded_text_layer_explicit_answer_determinations",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "11-19", "answer_evidence_pages": [11, 13, 15, 17, 19], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "21-29", "answer_evidence_pages": [21, 22, 24, 28, 29], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "31-38", "answer_evidence_pages": [31, 33, 34, 38, 38], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "41-48", "answer_evidence_pages": [41, 43, 45, 48, 48], "confidence": "high"}
+      }
+    },
+    "2019": {
+      "source_id": "SRC-EXAM-020",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+      "sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+      "method": "embedded_text_layer_explicit_answer_determinations",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "11-17", "answer_evidence_pages": [11, 13, 15, 16, 17], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "19-25", "answer_evidence_pages": [19, 21, 23, 25, 26], "confidence": "high", "note": "Question 30's explicit answer determination continues on PDF page 26, one page beyond the corpus locator range."},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "27-36", "answer_evidence_pages": [28, 30, 32, 34, 36], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "38-46", "answer_evidence_pages": [38, 40, 42, 44, 46], "confidence": "high"}
+      }
+    },
+    "2020": {
+      "source_id": "SRC-EXAM-022",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+      "sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+      "method": "direct_page_image_vision_ocr_with_explicit_answer_determinations",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "10-16", "answer_evidence_pages": [10, 12, 14, 15, 16], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "19-25", "answer_evidence_pages": [19, 20, 21, 24, 25], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "27-33", "answer_evidence_pages": [27, 29, 30, 32, 33], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "35-42", "answer_evidence_pages": [35, 37, 39, 41, 42], "confidence": "high"}
+      }
+    },
+    "2021": {
+      "source_id": "SRC-EXAM-024",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+      "sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+      "method": "embedded_text_layer_explicit_answer_determinations",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "10-16", "answer_evidence_pages": [10, 12, 14, 16, 16], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "19-25", "answer_evidence_pages": [19, 21, 22, 25, 25], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "27-34", "answer_evidence_pages": [27, 29, 32, 34, 34], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "36-43", "answer_evidence_pages": [36, 38, 39, 41, 43], "confidence": "high"}
+      }
+    },
+    "2022": {
+      "source_id": "SRC-EXAM-026",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2022年考研英语一真题解析.pdf",
+      "sha256": "b57a9187dad60b2a67eb52be153a64df907308659c80fb754badfe40a06b3d6a",
+      "method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "16-24", "answer_evidence_pages": [17, 19, 21, 23, 24], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "25-33", "answer_evidence_pages": [26, 28, 30, 31, 33], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "34-42", "answer_evidence_pages": [35, 37, 39, 40, 42], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "43-51", "answer_evidence_pages": [45, 47, 48, 50, 51], "confidence": "high"}
+      }
+    },
+    "2023": {
+      "source_id": "SRC-EXAM-028",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+      "sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+      "method": "embedded_text_layer_explicit_answer_determinations",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "10-12", "answer_evidence_pages": [10, 10, 10, 11, 12], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "14-16", "answer_evidence_pages": [14, 15, 15, 15, 16], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "18-20", "answer_evidence_pages": [18, 18, 19, 20, 20], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "22-24", "answer_evidence_pages": [22, 23, 23, 24, 24], "confidence": "high"}
+      }
+    },
+    "2024": {
+      "source_id": "SRC-EXAM-030",
+      "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+      "sha256": "4e90c222818ba0db7d4011289044d1fe393c2e597027f62c0317a9e52746d96f",
+      "method": "direct_embedded_page_image_vision_ocr_plus_protected_ocr_cross_check_and_visual_review",
+      "texts": {
+        "text-1": {"question_numbers": [21, 22, 23, 24, 25], "analysis_page_range": "10-14", "answer_evidence_pages": [11, 12, 13, 14, 14], "confidence": "high"},
+        "text-2": {"question_numbers": [26, 27, 28, 29, 30], "analysis_page_range": "15-19", "answer_evidence_pages": [16, 17, 18, 18, 19], "confidence": "high"},
+        "text-3": {"question_numbers": [31, 32, 33, 34, 35], "analysis_page_range": "20-24", "answer_evidence_pages": [21, 22, 23, 24, 24], "confidence": "high"},
+        "text-4": {"question_numbers": [36, 37, 38, 39, 40], "analysis_page_range": "25-30", "answer_evidence_pages": [26, 27, 28, 29, 30], "confidence": "high"}
+      }
+    }
+  },
+  "quality_notes": [
+    "All 160 answers were read from the supplied local analysis PDFs; no internet lookup and no memory-only answer inference were used.",
+    "For 2022 and 2024, direct page images were OCRed with macOS Vision, cross-checked against raw/reference_sources/analysis_page_ocr, and sampled by visual inspection.",
+    "The answer-analysis PDFs remain private-study references. This file stores only answer keys and page locators, not the publisher's long-form explanations."
+  ]
+}

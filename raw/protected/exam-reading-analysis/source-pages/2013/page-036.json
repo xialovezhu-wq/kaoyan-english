@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P036",
+  "year": 2013,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017703374641348746,
+      "text": "【深层解读】考研阅读文章中，特殊标点符号有“路标”的作用，体现语义或段落重点。如冒号、破折",
+      "width": 0.8404255058929211,
+      "x": 0.09787234818385875,
+      "y": 0.9040697674848496
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693899445614503,
+      "text": "号常引出对标点之前内容的解释说明/例证，反向表明之前内容为作者想强调的重点（内容较凝练、抽",
+      "width": 0.8765957082500895,
+      "x": 0.0617021446834659,
+      "y": 0.8851744185458961
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768442424988026,
+      "text": "象，故加以说明）；比如本段②句中的冒号提示“过去掌握着未来的钥匙”为关键信息，而冒号后旨在对这",
+      "width": 0.8787233774898616,
+      "x": 0.06170215202634547,
+      "y": 0.866279069992117
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "一结论性内容详细解释。",
+      "width": 0.21063829378317328,
+      "x": 0.06170212707117938,
+      "y": 0.8459302324024282
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011734028683181297,
+      "text": "MI",
+      "width": 0.021276595938296727,
+      "x": 0.1021276597436176,
+      "y": 0.8168187744462778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01457657434794235,
+      "text": "① This long perspective makes the pessimistic®",
+      "width": 0.40212765176787624,
+      "x": 0.13191490132882774,
+      "y": 0.8168187743309991
+    },
+    {
+      "confidence": 1,
+      "height": 0.013176147132684557,
+      "text": "这种长远视角使得对人类前景的悲观",
+      "width": 0.33829786577297527,
+      "x": 0.5978723479379804,
+      "y": 0.810951759848155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014586049543676705,
+      "text": "view of our prospects seem more likely to be a passing",
+      "width": 0.47446805648221313,
+      "x": 0.0638298085319429,
+      "y": 0.7979139503949547
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "态度更像是一股短暂的风潮。诚然，未来并",
+      "width": 0.37446806813014377,
+      "x": 0.5617021392682614,
+      "y": 0.790697674402186
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371052051864,
+      "text": "fad®. ② To be sure, the future is not all rosy®",
+      "width": 0.3893616945688961,
+      "x": 0.06170213792831767,
+      "y": 0.7761627914361834
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016258219851974953,
+      "text": ".⑧But",
+      "width": 0.09158960735524885,
+      "x": 0.44675838666709694,
+      "y": 0.7760278666580576
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186023378924,
+      "text": "非一片光明。不过，我们已经拥有足够的知",
+      "width": 0.37446806813014377,
+      "x": 0.559574474605141,
+      "y": 0.7703488371069426
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "we are now knowledgcable\" enough to reduce many of the",
+      "width": 0.4744680564822132,
+      "x": 0.06382979363832626,
+      "y": 0.7587209304392756
+    },
+    {
+      "confidence": 1,
+      "height": 0.01666929824411323,
+      "text": "识，有能力降低曾经威胁前人生存的许多危",
+      "width": 0.3768567674942599,
+      "x": 0.5594418782761051,
+      "y": 0.7542016771874087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0131609865708332,
+      "text": "risks that threatened the existence of earlier humans，",
+      "width": 0.4702127471224952,
+      "x": 0.06382980252917775,
+      "y": 0.7411994784768668
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "险，并改善后人的命运。",
+      "width": 0.20212766050382425,
+      "x": 0.559574469641705,
+      "y": 0.7353324640738108
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013320169361815903,
+      "text": "and to improve the lot of those to come. ［419 words］",
+      "width": 0.4510638113240249,
+      "x": 0.06170214252947675,
+      "y": 0.7235984352934424
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014536778650196758,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20212766050382425,
+      "x": 0.3744680826204283,
+      "y": 0.6962190349415355
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01457657434794235,
+      "text": "① pessimistic ［ipes：'mistik］a. 悲观的",
+      "width": 0.2872340369770545,
+      "x": 0.06170213403806842,
+      "y": 0.6686046514664074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014576574347942461,
+      "text": "② pessimistic view（悲观看法）",
+      "width": 0.22978722958164366,
+      "x": 0.5276595744644974,
+      "y": 0.6686046512847212
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014567099152208107,
+      "text": "②fad ［feed］n. 时尚；一时流行的狂热",
+      "width": 0.2936170155765446,
+      "x": 0.06170213260686444,
+      "y": 0.6497093027122545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014567099152208107,
+      "text": "③a passing fad（一时的风尚）",
+      "width": 0.22553190566201242,
+      "x": 0.5255319176299867,
+      "y": 0.6497093025807484
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014557623956473753,
+      "text": "③rosy ［'rouz］a.美好的",
+      "width": 0.18936170330484406,
+      "x": 0.06170212592736526,
+      "y": 0.6308139536103028
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014557623956473864,
+      "text": "④to be sure（的确，诚然）",
+      "width": 0.193617012664562,
+      "x": 0.5255319202421871,
+      "y": 0.63081395364664
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014548148760739621,
+      "text": "④knowledgeable ［'npldsabal］c. 知识渊博的",
+      "width": 0.34468084437246543,
+      "x": 0.06170212813291627,
+      "y": 0.611918604882105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013094660200693498,
+      "text": "⑤reduce risk（減少风险）",
+      "width": 0.193617012664562,
+      "x": 0.5255319206251658,
+      "y": 0.6133720932408173
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014847476292775608,
+      "text": "经典搭配",
+      "width": 0.08026278291949789,
+      "x": 0.08788224022960416,
+      "y": 0.592918173595252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "⑥threaten the existence of...（威胁⋯•⋯的生存）",
+      "width": 0.37234042801019795,
+      "x": 0.5276595763317804,
+      "y": 0.5958279008841156
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011921636439675254,
+      "text": "①long perspective（长远视角）",
+      "width": 0.22978722958164366,
+      "x": 0.06382979176236964,
+      "y": 0.5741279069338321
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175341903,
+      "text": "⑦improve the lot of（改善⋯⋯命运）",
+      "width": 0.2872340369770544,
+      "x": 0.5276595739582814,
+      "y": 0.5755813952175617
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01630435058315227,
+      "text": "• 语篇分析•",
+      "width": 0.12349114163231306,
+      "x": 0.42548847327927813,
+      "y": 0.5449001503482758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "第七段总结全文，积极展望人类未来。关键词为：①a passing fad； ②knowledgeable enough。",
+      "width": 0.7617020934592676,
+      "x": 0.10000000757887707,
+      "y": 0.517441860309405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021696575617386138,
+      "text": "①句回应文章前两段内容：以长远视角看未来，则悲观看法只会是“一时风潮”。a passing fad 意力a",
+      "width": 0.8427730880620825,
+      "x": 0.10201567960047149,
+      "y": 0.4951712491572732
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "short-lived popular fashion“一时的风尚，短暂的潮流”；seem more likely to be 不涉及明显比较，而是用委",
+      "width": 0.8787233774898616,
+      "x": 0.06170213371960827,
+      "y": 0.4781976742326123
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014622054790113914,
+      "text": "婉语气“•⋯更像是一种⋯⋯”传达坚定态度。",
+      "width": 0.38936169456889613,
+      "x": 0.06170213533257315,
+      "y": 0.45930232588501196
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "②③句先退后进总结作者看法：人类未来当然并非满是光明，但我们现在有能力防患于未然。To",
+      "width": 0.8425531751326932,
+      "x": 0.10212767377103942,
+      "y": 0.4387222944380138
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "be sure， ...not all rosy（rosy 为喻义，指 very encouraging,very hopeful）让步之中暗含转折，提示下文将",
+      "width": 0.8787233774898616,
+      "x": 0.061702151707196576,
+      "y": 0.4198174705322504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "收篇：对人类前景积极展望。knowledgeable enough 是作者对未来持乐观态度的信心来源，to reduce.•",
+      "width": 0.8744680390103172,
+      "x": 0.06382981902675619,
+      "y": 0.39960886553714225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "of earlier humans 和 to improve...those to come 与上文所述“以史为鉴、把握未来”暗合，两者虽为“结果",
+      "width": 0.8787233774898616,
+      "x": 0.06170213371960827,
+      "y": 0.3807040420265684
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "状语”，但实质上传达作者的期望：科技、文化的发展赋予我们足够的知识，若再以理性看待未来（重视过",
+      "width": 0.8787233774898616,
+      "x": 0.061702138515707515,
+      "y": 0.36046511597800956
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860233789352,
+      "text": "去，从中总结经验教训），则未来值得期待。注：句中lot 意为 one's fortune，or share”命运，运气”。",
+      "width": 0.8255318794541686,
+      "x": 0.06382981521972392,
+      "y": 0.3401162789674077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017612413135314697,
+      "text": "【深层解读】To be sure,of course, certainly, admittedly 等逻辑词含让步语义，其语用功能在于“委",
+      "width": 0.8446808443724654,
+      "x": 0.09787235432972449,
+      "y": 0.32267441879298897
+    },
+    {
+      "confidence": 1,
+      "height": 0.017752645534828804,
+      "text": "婉退后一步，以便进行更强的还击（即，为后文重在展现的内容做铺垫）”，这类词尤其容易出现在“收篇”",
+      "width": 0.882978715969406,
+      "x": 0.06170212033976539,
+      "y": 0.3023255814383379
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186023378924,
+      "text": "之时，能更好地突显全文观点。末段共三句话，以“进一退一再进”的方式反复强调作者核心观点：人类",
+      "width": 0.8808510467296338,
+      "x": 0.06170214501816169,
+      "y": 0.2819767443889194
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "拥有光明的前景。",
+      "width": 0.15319148638776242,
+      "x": 0.06170213067845921,
+      "y": 0.26308139526216656
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01744186023378924,
+      "text": "•真题精解•；",
+      "width": 0.13191489590943312,
+      "x": 0.42553191506656,
+      "y": 0.238372093197059
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013291743774612952,
+      "text": "34. 1o ensure the future of mankind, it is crucial to",
+      "width": 0.4106382704873121,
+      "x": 0.07234044216769135,
+      "y": 0.2063953487059338
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "34.为保证人类的未来，关键要",
+      "width": 0.25957445333932194,
+      "x": 0.5914893723197008,
+      "y": 0.20469361165789957
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011876155997503801,
+      "text": "—。",
+      "width": 0.02553191439796043,
+      "x": 0.8872340429712325,
+      "y": 0.20469361145819898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013189411536344786,
+      "text": "LA」 adopt an optimistic view of the world",
+      "width": 0.3531914630919012,
+      "x": 0.07446809689376574,
+      "y": 0.18448500676353552
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "［A］ 树立积极的世界观",
+      "width": 0.1999999912640521,
+      "x": 0.5914893638360591,
+      "y": 0.1831395350056516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016163143371820676,
+      "text": "「B7 draw on our experience from the past",
+      "width": 0.3536102061963263,
+      "x": 0.07423966972192522,
+      "y": 0.16100612404595627
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "［B］ 从过去汲取经验",
+      "width": 0.17659574610586382,
+      "x": 0.5914893628779191,
+      "y": 0.16101694929085464
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111715677353364,
+      "text": "［C］ explore our planet's abundant resources",
+      "width": 0.3702127587704258,
+      "x": 0.07446809240202108,
+      "y": 0.13950456334927097
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "［C］ 勘探地球上的丰富资源",
+      "width": 0.23829786286099275,
+      "x": 0.5893617044843973,
+      "y": 0.13808139556524457
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013323959191432921,
+      "text": "LDJ curb our ambition to reshape history",
+      "width": 0.34468084437246543,
+      "x": 0.07446809189887361,
+      "y": 0.11603650588170311
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014627740156230917,
+      "text": "［D］抑制我们重塑历史的野心",
+      "width": 0.25957445333932183,
+      "x": 0.5893617116636723,
+      "y": 0.1147327247291059
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "［精准定位］第六段②句指出：过去掌握着通向未来的钥匙，我们如今已经了解了地球及人类历史的",
+      "width": 0.8425531751326931,
+      "x": 0.0978723401783344,
+      "y": 0.08996088658528312
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "形成模式，所以能更准确地预测未来；末段进一步明确：我们已拥有足够的知识去防范前人的危机、改善",
+      "width": 0.8787233774898616,
+      "x": 0.06170213225506936,
+      "y": 0.07105606232093564
+    },
+    {
+      "confidence": 1,
+      "height": 0.01310603031123625,
+      "text": "36",
+      "width": 0.023404254258133986,
+      "x": 0.0765957451847628,
+      "y": 0.050847457810591745
+    }
+  ],
+  "vision_ocr_text": "【深层解读】考研阅读文章中，特殊标点符号有“路标”的作用，体现语义或段落重点。如冒号、破折\n号常引出对标点之前内容的解释说明/例证，反向表明之前内容为作者想强调的重点（内容较凝练、抽\n象，故加以说明）；比如本段②句中的冒号提示“过去掌握着未来的钥匙”为关键信息，而冒号后旨在对这\n一结论性内容详细解释。\nMI\n① This long perspective makes the pessimistic®\n这种长远视角使得对人类前景的悲观\nview of our prospects seem more likely to be a passing\n态度更像是一股短暂的风潮。诚然，未来并\nfad®. ② To be sure, the future is not all rosy®\n.⑧But\n非一片光明。不过，我们已经拥有足够的知\nwe are now knowledgcable\" enough to reduce many of the\n识，有能力降低曾经威胁前人生存的许多危\nrisks that threatened the existence of earlier humans，\n险，并改善后人的命运。\nand to improve the lot of those to come. ［419 words］\n•词汇注释与难句分析\n① pessimistic ［ipes：'mistik］a. 悲观的\n② pessimistic view（悲观看法）\n②fad ［feed］n. 时尚；一时流行的狂热\n③a passing fad（一时的风尚）\n③rosy ［'rouz］a.美好的\n④to be sure（的确，诚然）\n④knowledgeable ［'npldsabal］c. 知识渊博的\n⑤reduce risk（減少风险）\n经典搭配\n⑥threaten the existence of...（威胁⋯•⋯的生存）\n①long perspective（长远视角）\n⑦improve the lot of（改善⋯⋯命运）\n• 语篇分析•\n第七段总结全文，积极展望人类未来。关键词为：①a passing fad； ②knowledgeable enough。\n①句回应文章前两段内容：以长远视角看未来，则悲观看法只会是“一时风潮”。a passing fad 意力a\nshort-lived popular fashion“一时的风尚，短暂的潮流”；seem more likely to be 不涉及明显比较，而是用委\n婉语气“•⋯更像是一种⋯⋯”传达坚定态度。\n②③句先退后进总结作者看法：人类未来当然并非满是光明，但我们现在有能力防患于未然。To\nbe sure， ...not all rosy（rosy 为喻义，指 very encouraging,very hopeful）让步之中暗含转折，提示下文将\n收篇：对人类前景积极展望。knowledgeable enough 是作者对未来持乐观态度的信心来源，to reduce.•\nof earlier humans 和 to improve...those to come 与上文所述“以史为鉴、把握未来”暗合，两者虽为“结果\n状语”，但实质上传达作者的期望：科技、文化的发展赋予我们足够的知识，若再以理性看待未来（重视过\n去，从中总结经验教训），则未来值得期待。注：句中lot 意为 one's fortune，or share”命运，运气”。\n【深层解读】To be sure,of course, certainly, admittedly 等逻辑词含让步语义，其语用功能在于“委\n婉退后一步，以便进行更强的还击（即，为后文重在展现的内容做铺垫）”，这类词尤其容易出现在“收篇”\n之时，能更好地突显全文观点。末段共三句话，以“进一退一再进”的方式反复强调作者核心观点：人类\n拥有光明的前景。\n•真题精解•；\n34. 1o ensure the future of mankind, it is crucial to\n34.为保证人类的未来，关键要\n—。\nLA」 adopt an optimistic view of the world\n［A］ 树立积极的世界观\n「B7 draw on our experience from the past\n［B］ 从过去汲取经验\n［C］ explore our planet's abundant resources\n［C］ 勘探地球上的丰富资源\nLDJ curb our ambition to reshape history\n［D］抑制我们重塑历史的野心\n［精准定位］第六段②句指出：过去掌握着通向未来的钥匙，我们如今已经了解了地球及人类历史的\n形成模式，所以能更准确地预测未来；末段进一步明确：我们已拥有足够的知识去防范前人的危机、改善\n36",
+  "pdf_text_layer": "【深层解读】 考 研阅读文 章 中，特殊标点符 号有“路标” 的作用，体现 1:s· 义或段落重点。 如 冒号、 破折\n号常引 l·H 对标点之前内容的解释说明 ／ 例证，反向表明之前内容为作者想强调的重点（ 内 容较凝练 、抽\n象，故 加以说明 ）； 比如本段 ② 句中 的 冒号提示“ 过 去掌握着未来 的钥匙”为 关键信息 ，而 冒号后旨在 对这\n一 结论性内容详细解释 。\n\n       ，回 0 T hi s long perspective makes the pessimistic①\n                                                                                    这种长远视角使得对人类前景的悲观\nview of o ur pro spect s seem more likely to b巳 a pas sing\n                                                                            态度更像是一股短暂的风潮 。 诚然，未来并\nfad ( . @To be s ur e , the futur e is not a ll rosy®. ＠ 因 But              非一片光明 。 不过，我们已经拥有足够的知\nwe a re now knowledgeable(!) enoug h to I edu ce ma ny of th e             识，有能力降低曾经威胁前人生存的许 多 危\nri sks t hat threaten ed th e exi s t ence of ea rli er humans,             险，并改善后人的命运 。\nan d to improve the lot of t hose to com e. [ 419 words]\n                                                           与…                         J\n                                                 词…              难 …\n                                                                   旬 …   分…\n                                                                         …    析 …\n                                                           ．\n                                                      「」\n                                                      ．\n\n\n                                                           释…\n                                                           …\n                                                 …    ·\n                                                           注 ·     …\n\n\n① 1>essi mi s tiι ［ 1pes1' m1 st1k ］ α ． 悲观 的                          ( pess imi sti c v i e w （悲观看法）\n( fad ［陆d ] 77 . Fl才 Ji句； 一 时流行的研热                                     ( a passing f ad （ 一 时的风尚）\n@ rosy [ ' roυ2 1 ］ α ． 美 好的                                           ( to be s ur e （ 的 lifO ，诚然）\n@ knowledgeable [ ' n 日J1d3abal ］ “ －知识渊博的                             ( reduc e ri s k （ 减少风险）\n．经典搭配                                                                                   ex iste nce of. . . （｝.成\n( long p e rsp ec tiv e （ 氏远视角）                                        ( improve th e lot of （改善 ……命 运）\n\n                                                    :： ~：号第分；析＜ :I\n       第七段总结全立，积极展望人类未来。关键词为： ① a passing fad ; ( knowledgeable enough 。\n       ① 旬回应文章前两段内容：以长远视角看未来，则悲观看法只会是“一时风潮” 。 a passing fad 意为 a\ns ho rt- li ved popu la r fas hi on“ 一 时的风尚 ，短暂 的潮流 ”； s eem more li kely to h 不涉及明显比较，而是用委\n婉语 气“ ．．．．． ． 更像是 一 种……”传达坚定态度 。\n\n       ②③ 旬先退后进总结作者看法：人类未来当然并非满是光明，但我们现在有能力防患于未然。 To\nbe s ur e , . .. not a ll rosy(rosy 为 H俞义，指 v e ry e n co ura g i 吨， very hope [ ul) 让 步之中暗含转 折 ，提示下文将\n收 篇 ： 对人类前景积极展望 。 know l edg ea b l e e no u g h 是作者对未来持乐观态度的信心来源， to r edu ce.\nof ea rli er hu mans 和 to im prove ... t hose to com e 与上文所 述“以史为鉴、把握未来”暗合，两者虽为“结果\n状语”，但 实质上传达 作者的期 望 ： 科技、 文 化的发展赋予我们足够的知识，若再以理性 看待未来（重 视过\n去， 从中总结 经验教 训｜｜ 〉 ，则未来值得期待 。 注 ：句中 l ot 意为 o n e ’ s fo rtun e, or s h a r e“命运，运气” 。\n       E 深层解读】 To be sur飞 of co urs e , certainly, adm it ted l y 等逻辑同含让步语义，其语用功能在于“委\n婉退后 一 步，以便进行更强的还击（ 即 ，为后文重在展现的内容做铺垫）”，这类词尤其容易 出现 在“收篇”\n之时 ，能更好 地 突显全文 观点 。 末段共 三 句话，以“进→退→再进 ” 的方式反复强调l 作者核心观点：人类\n拥有光明的前 景。\n\n                                                      :\" ·：真：•需解－~ ：： 1'\n 34. 1o ensure the future of mankind, it is crucial to                              34. 为保证人类的未来，关键要               。\n\n\n\n\n [ A] adopt a n opt imi s ti c view of the world                                    [A］树立 积极的世界观\n\n [ BJ d raw on o ur expe ri ence fr om th e past                                    [ BJ 从过 去汲取经验\n\n [CJ 巳 xp l o r e o ur p la net 's a bund ant r esou rces                           [CJ 勘探 地 球上的丰 富 资源\n\n [ DJ curb o ur ambition to res hap e h 山 tory                                      [ DJ 抑制 我 们 重塑历史 的野心\n\n       ［ 精准定位］ 第六段 ② 句指出 ： 过去掌握着通向未来的钥匙，我 们如 今已经 了解了地球及人 类历史 的\n形成模 式， 所以能 更准 Teft1 地预测未来；末段进一步 明确： 我 们 已 拥 有足够 的知识 去 防范前人的危机、改 善\n\n  36",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2038,
+    "pdf_text_character_count": 3945,
+    "nonempty": true
+  }
+}

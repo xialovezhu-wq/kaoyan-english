@@ -1,0 +1,113 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2013-T2",
+  "source_id": "RAW-ARTICLE-20260711-014",
+  "ingest_date": "2026-07-11",
+  "year": 2013,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 2,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2013年考研英语一真题.pdf",
+  "truth_pages": [
+    6,
+    7
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "analysis_page_range": "18-27",
+  "analysis_anchor_status": "approximate_text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2013/text-2.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2013/text-2.json",
+  "article_path": "articles/2026-07-11-2013-english-i-text-2.md",
+  "passage_paragraphs": [
+    "An old saying has it that half of all advertising budgets are wasted — the trouble is, no one knows which half. In the internet age, at least in theory, this fraction can be much reduced. By watching what people search for, click on and say online, companies can aim “behavioural” ads at those most likely to buy.",
+    "In the past couple of weeks a quarrel has illustrated the value to advertisers of such fine-grained information: Should advertisers assume that people are happy to be tracked and sent behavioural ads? Or should they have explicit permission?",
+    "In December 2010 America’s Federal Trade Commission (FTC) proposed adding a “do not track” (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed. Microsoft’s Internet Explorer and Apple’s Safari both offer DNT; Google’s Chrome is due to do so this year. In February the FTC and the Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.",
+    "On May 31st Microsoft set off the row. It said that Internet Explorer 10, the version due to appear with Windows 8, would have DNT as a default.",
+    "Advertisers are horrified. Human nature being what it is, most people stick with default settings. Few switch DNT on now, but if tracking is off it will stay off. Bob Liodice, the chief executive of the Association of National Advertisers, says consumers will be worse off if the industry cannot collect information about their preferences. People will not get fewer ads, he says. “They’ll get less meaningful, less targeted ads.”",
+    "It is not yet clear how advertisers will respond. Getting a DNT signal does not oblige anyone to stop tracking, although some companies have promised to do so. Unable to tell whether someone really objects to behavioural ads or whether they are sticking with Microsoft’s default, some may ignore a DNT signal and press on anyway.",
+    "Also unclear is why Microsoft has gone it alone. After all, it has an ad business too, which it says will comply with DNT requests, though it is still working out how. If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect method: there is no guarantee that DNT by default will become the norm. DNT does not seem an obviously huge selling point for windows 8 — though the firm has compared some of its other products favourably with Google’s on that count before. Brendon Lynch, Microsoft’s chief privacy officer, blogged: “We believe consumers should have more control.” Could it really be that simple?"
+  ],
+  "questions": [
+    {
+      "number": 26,
+      "prompt": "It is suggested in Paragraph 1 that “behavioural” ads help advertisers to",
+      "options": {
+        "A": "provide better online services.",
+        "B": "ease competition among themselves.",
+        "C": "avoid complaints from consumers.",
+        "D": "lower their operational costs."
+      }
+    },
+    {
+      "number": 27,
+      "prompt": "“the industry” (Line 5, Para.3) refers to",
+      "options": {
+        "A": "internet browser developers.",
+        "B": "digital information analysts.",
+        "C": "e-commerce conductors.",
+        "D": "online advertisers."
+      }
+    },
+    {
+      "number": 28,
+      "prompt": "Bob Liodice holds that setting DNT as a default",
+      "options": {
+        "A": "may cut the number of junk ads.",
+        "B": "fails to affect the ad industry.",
+        "C": "will not benefit consumers.",
+        "D": "goes against human nature."
+      }
+    },
+    {
+      "number": 29,
+      "prompt": "Which of the following is true according to Paragraph 6?",
+      "options": {
+        "A": "Advertisers are willing to implement DNT.",
+        "B": "DNT may not serve its intended purpose.",
+        "C": "DNT is losing its popularity among consumers.",
+        "D": "Advertisers are obliged to offer behavioural ads."
+      }
+    },
+    {
+      "number": 30,
+      "prompt": "The author’s attitude towards what Brendon Lynch said in his blog is one of",
+      "options": {
+        "A": "indulgence.",
+        "B": "understanding.",
+        "C": "appreciation.",
+        "D": "skepticism."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 436,
+    "paragraphs": 7,
+    "source_token_count": 439,
+    "final_token_count": 439,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

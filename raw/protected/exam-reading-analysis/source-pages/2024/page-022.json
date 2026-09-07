@@ -1,0 +1,518 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2024-P022",
+  "year": 2024,
+  "pdf_page": 22,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2024年考研英语一真题解析.pdf",
+  "source_sha256": "4e90c222818ba0db7d4011289044d1fe393c2e597027f62c0317a9e52746d96f",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.01308139509594708,
+      "text": "续表",
+      "width": 0.03696098573349915,
+      "x": 0.8665297743377093,
+      "y": 0.9273255815944683
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013132772804529846,
+      "text": "题干",
+      "width": 0.041067762267378405,
+      "x": 0.08008213580676252,
+      "y": 0.8996579248342866
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014823261117445807,
+      "text": "由 The problem、open-source Al art generators 可定位至第三段① ②句（these open-source",
+      "width": 0.7926077973247535,
+      "x": 0.1437371823095599,
+      "y": 0.8996579246127416
+    },
+    {
+      "confidence": 1,
+      "height": 0.013364800569540813,
+      "text": "定位",
+      "width": 0.03901437400043875,
+      "x": 0.08213552379717966,
+      "y": 0.8819840365981032
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013364800569540813,
+      "text": "programs、questions）。",
+      "width": 0.18275153118631113,
+      "x": 0.1416837839277205,
+      "y": 0.8819840367313396
+    },
+    {
+      "confidence": 1,
+      "height": 0.01602151864202972,
+      "text": "［A］由 lack flexibility、prompts 可定位至强调根据提示生成的图像与艺术家作品高度相像的第",
+      "width": 0.7926077973247534,
+      "x": 0.13963039858021634,
+      "y": 0.8546180161201731
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014823261117445807,
+      "text": "二段②③句（prompts.looks..a million miles away）。",
+      "width": 0.437371639429851,
+      "x": 0.1437371747665941,
+      "y": 0.8369441276621806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016172336743658144,
+      "text": "［B］由 produce artworks、unpredictable styles 可定位至第二段③句（produce something,looks..",
+      "width": 0.7967145492873138,
+      "x": 0.13963041498673306,
+      "y": 0.8181299886409491
+    },
+    {
+      "confidence": 1,
+      "height": 0.013354856584607777,
+      "text": "选项",
+      "width": 0.04106776226737842,
+      "x": 0.08008213570409312,
+      "y": 0.8110465118270265
+    },
+    {
+      "confidence": 1,
+      "height": 0.01312282881959681,
+      "text": "定位",
+      "width": 0.03901437400043874,
+      "x": 0.08213552386220362,
+      "y": 0.7936046513619102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011972633979475455,
+      "text": "a million miles away...style）.",
+      "width": 0.24845994344272093,
+      "x": 0.14168378846344443,
+      "y": 0.8021664763883924
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329187765088835,
+      "text": "［C］由 unauthorized use of online images 可定位至第三段①句（scraping images..without",
+      "width": 0.7946611733060337,
+      "x": 0.14168379368579212,
+      "y": 0.7848837211414645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01350055290056873,
+      "text": "permission）。",
+      "width": 0.10892855142049745,
+      "x": 0.14163428827857716,
+      "y": 0.765778793304231
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016217084947714344,
+      "text": "［D］由 collect...without consent 可定位至第三段①句（scraping..without permission）。",
+      "width": 0.7207391956962057,
+      "x": 0.13963040935928914,
+      "y": 0.7468643102007011
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883923242536,
+      "text": "第二段③句强调输人提示词生成的图像与艺术家作品高度相像，实际是肯定AI 绘画生成",
+      "width": 0.7556467839485205,
+      "x": 0.17864478806680748,
+      "y": 0.7034883720790763
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906268651622,
+      "text": "A",
+      "width": 0.016427104599809866,
+      "x": 0.1416837781929082,
+      "y": 0.6947674423114106
+    },
+    {
+      "confidence": 1,
+      "height": 0.016091127080275713,
+      "text": "器对用户命令的执行能力强，而非批驳其缺乏灵活性。",
+      "width": 0.4537987455653684,
+      "x": 0.18069816574400982,
+      "y": 0.6845930236706252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883923242425,
+      "text": "第二段③句“输入格雷格•鲁特科夫斯基这一提示词，系统就会自动生成与其创作风格十",
+      "width": 0.7556467839485205,
+      "x": 0.1786447859078166,
+      "y": 0.6627906976563189
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906268651622,
+      "text": "B",
+      "width": 0.016427104599809894,
+      "x": 0.14168377841878088,
+      "y": 0.6453488374470695
+    },
+    {
+      "confidence": 1,
+      "height": 0.01767388825541627,
+      "text": "分接近的作品”的言外之意即“生成器生成的艺术作品风格严格遵照提示词，具有高度确",
+      "width": 0.7535934079672404,
+      "x": 0.17864477997941874,
+      "y": 0.6436716076298652
+    },
+    {
+      "confidence": 1,
+      "height": 0.016130903020008414,
+      "text": "定性”，选项有悖文意。",
+      "width": 0.19096508425406977,
+      "x": 0.17864477032163034,
+      "y": 0.6248574688398896
+    },
+    {
+      "confidence": 1,
+      "height": 0.013142716789463105,
+      "text": "正误",
+      "width": 0.03901437400043874,
+      "x": 0.08213552375073399,
+      "y": 0.6060433296683941
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883923242425,
+      "text": "第三段指出这些开源软件/AI 绘画生成器是通过从互联网抓取图像的方式加以构建的，且",
+      "width": 0.7535934079672403,
+      "x": 0.17864476691987072,
+      "y": 0.6046511626023323
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883923242425,
+      "text": "判断",
+      "width": 0.04106776226737842,
+      "x": 0.08008213488273791,
+      "y": 0.587209302137216
+    },
+    {
+      "confidence": 1,
+      "height": 0.014823261117445918,
+      "text": "往往并没有取得艺术家的使用许可，也没有给予他们适当的归属认定（without permission",
+      "width": 0.7556467839485206,
+      "x": 0.17864477106475435,
+      "y": 0.5855188142940373
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906268651622,
+      "text": "C",
+      "width": 0.014373716332870212,
+      "x": 0.1416837784865423,
+      "y": 0.5683139537261394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01614416202906188,
+      "text": "and proper attribution to artists），因此引发了有关“道德”和“版权”的棘手问题。可见，开",
+      "width": 0.7535934079672404,
+      "x": 0.17864476817585975,
+      "y": 0.5667046748562721
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01614581926926517,
+      "text": "源 AI 绘画生成器的问题在于“所用在线图像未经授权，涉嫌侵犯版权”，选项明确了开源",
+      "width": 0.7535934079672403,
+      "x": 0.1786447780663456,
+      "y": 0.5494186049993559
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371663109846,
+      "text": "AI 绘画生成器的根本问题。",
+      "width": 0.23613961384108292,
+      "x": 0.18069816258664537,
+      "y": 0.529069767671352
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883923242425,
+      "text": "第三段①句中开源 AI绘画生成器未经许可收集的是“艺术家创作的图像”而非“用户的个",
+      "width": 0.7535934079672403,
+      "x": 0.17864476691987072,
+      "y": 0.5072674416720997
+    },
+    {
+      "confidence": 1,
+      "height": 0.01017441852878398,
+      "text": "D",
+      "width": 0.016427104599809894,
+      "x": 0.1416837781929082,
+      "y": 0.5000000001015237
+    },
+    {
+      "confidence": 1,
+      "height": 0.01767388825541627,
+      "text": "人信息”。",
+      "width": 0.08213552453475681,
+      "x": 0.1786447642213279,
+      "y": 0.48688711489980163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01767388825541616,
+      "text": "本题借由题干可精准定位至第三段②句 questions about ethics and copyright，难点在于锁",
+      "width": 0.7556467839485205,
+      "x": 0.17864477630089373,
+      "y": 0.4635119727287502
+    },
+    {
+      "confidence": 1,
+      "height": 0.016150791533588782,
+      "text": "定的答案源较为抽象，正确解题还需进一步借助上下文语义逻辑加以合理推导。具体来看，借",
+      "width": 0.7926077973247535,
+      "x": 0.1396303849926542,
+      "y": 0.44622093037484034
+    },
+    {
+      "confidence": 1,
+      "height": 0.013325024086094261,
+      "text": "技巧",
+      "width": 0.04106776226737842,
+      "x": 0.08008213570409312,
+      "y": 0.43023255833865437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016232001196971102,
+      "text": "助②句首 As a result 提示的句间因果关系（scraping images..often without permission and",
+      "width": 0.7946611733060335,
+      "x": 0.14168379699688036,
+      "y": 0.42732558170114854
+    },
+    {
+      "confidence": 1,
+      "height": 0.013358171065014135,
+      "text": "总结",
+      "width": 0.03901437400043874,
+      "x": 0.08213552395973955,
+      "y": 0.41106043355054656
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01549050582311573,
+      "text": "proper attribution to artists ~are raising tricky questions about ethics and copyright），可推知",
+      "width": 0.7906567363155445,
+      "x": 0.1416342329773529,
+      "y": 0.40903031787549105
+    },
+    {
+      "confidence": 1,
+      "height": 0.016183938512508544,
+      "text": "“版权问题”和“道德问题”具体指“未获艺术家授权便将其作品用于图像生成”及“在将艺术家",
+      "width": 0.7926077973247535,
+      "x": 0.13963038914049816,
+      "y": 0.392246293990558
+    },
+    {
+      "confidence": 1,
+      "height": 0.01610272830541215,
+      "text": "作品用于图像生成时未注明作品的创作者”，对比各选项发现，仅C项契合文意。",
+      "width": 0.6735113024135719,
+      "x": 0.1416837805796616,
+      "y": 0.3734321551860267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014823261117445918,
+      "text": "33. After searching online,Rutkowski found",
+      "width": 0.35934290985746276,
+      "x": 0.08418891563081687,
+      "y": 0.32554161912626245
+    },
+    {
+      "confidence": 1,
+      "height": 0.014823261117445918,
+      "text": "33. 在网上搜索之后，鲁特科夫斯基发现了",
+      "width": 0.3326488746729066,
+      "x": 0.5297741276679468,
+      "y": 0.325541619391005
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014823261117445807,
+      "text": "［A］ a unique way to reach audiences",
+      "width": 0.31416836798479014,
+      "x": 0.08624230785565414,
+      "y": 0.2993158497346944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014823261117445807,
+      "text": "［A］一种独特的吸引受众的方式",
+      "width": 0.27720737917987626,
+      "x": 0.5297741315086245,
+      "y": 0.29931584960388036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017107631896485453,
+      "text": "［B］ a new method to identify Al images",
+      "width": 0.34737284440733196,
+      "x": 0.08400415262329865,
+      "y": 0.2707652177621154
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013247129446832262,
+      "text": "［B］一种识别 AI 图像的新方法",
+      "width": 0.2648870495782383,
+      "x": 0.5318275243308573,
+      "y": 0.27309007980172273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882835814389,
+      "text": "［C］ Al-generated work bearing his name",
+      "width": 0.35112935678970403,
+      "x": 0.08418890925059644,
+      "y": 0.2456395355685269
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883923242314,
+      "text": "［C］带有他的名字的AI作品",
+      "width": 0.24845994344272093,
+      "x": 0.5297741375394198,
+      "y": 0.24563953484070444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014927663987963413,
+      "text": "［D］ heated disputes regarding his copyright",
+      "width": 0.3738842655495169,
+      "x": 0.08409826899826336,
+      "y": 0.21778575962739966
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014823261117445807,
+      "text": "［D］有关其版权的激烈争议",
+      "width": 0.238193014393682,
+      "x": 0.5297741273685252,
+      "y": 0.21778791339470582
+    },
+    {
+      "confidence": 1,
+      "height": 0.013328339110214582,
+      "text": "题干",
+      "width": 0.04106776226737842,
+      "x": 0.08008213570409312,
+      "y": 0.19476744205958463
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011972633979475455,
+      "text": "由 searching online、Rutkowski 定位至第四段",
+      "width": 0.3655030623726223,
+      "x": 0.14373717883422266,
+      "y": 0.185860889204697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011972633979475455,
+      "text": "3 ④句（he tried searching.. The online search...）.",
+      "width": 0.3942504981097775,
+      "x": 0.5195071889327911,
+      "y": 0.1858608893112863
+    },
+    {
+      "confidence": 1,
+      "height": 0.014823261117445807,
+      "text": "定位",
+      "width": 0.04106776226737842,
+      "x": 0.08008213570409312,
+      "y": 0.17559863152064825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883923242425,
+      "text": "LAJ由 way、reach audiences 定位至第四段②句（a good way to reach new audiences）。",
+      "width": 0.7186858197149255,
+      "x": 0.14168379137457002,
+      "y": 0.1526162789686113
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016222057212037955,
+      "text": "［B］由 identify Al images 定位至表达“分辨、鉴别”语义的第四段①句（tracks..images）。",
+      "width": 0.737166301831723,
+      "x": 0.1375770041406069,
+      "y": 0.13372093039300903
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883923242425,
+      "text": "选项",
+      "width": 0.041067762267378405,
+      "x": 0.08008213563564685,
+      "y": 0.12645348834361136
+    },
+    {
+      "confidence": 1,
+      "height": 0.013199066762369593,
+      "text": "定位",
+      "width": 0.04106776226737842,
+      "x": 0.08008213570409312,
+      "y": 0.10889395643967359
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016218742187917523,
+      "text": "LC」由 bearing his name 定位至第四段④句（had his name attached to it）。",
+      "width": 0.6262833599883001,
+      "x": 0.13757699800893028,
+      "y": 0.11459521106732928
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860490405303,
+      "text": "［D］由 disputes、copyright 定位至体现“不满”的第三段②③句（copyright、 Rutkowski have had",
+      "width": 0.7967145492873138,
+      "x": 0.13757700697852,
+      "y": 0.09738372088125091
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906268651511,
+      "text": "cnough）。",
+      "width": 0.07802874800087747,
+      "x": 0.14168377892563927,
+      "y": 0.08139534919125557
+    },
+    {
+      "confidence": 1,
+      "height": 0.017712007498659643,
+      "text": "22",
+      "width": 0.026694044398800756,
+      "x": 0.08624230037075704,
+      "y": 0.04215116263270424
+    }
+  ],
+  "vision_ocr_text": "续表\n题干\n由 The problem、open-source Al art generators 可定位至第三段① ②句（these open-source\n定位\nprograms、questions）。\n［A］由 lack flexibility、prompts 可定位至强调根据提示生成的图像与艺术家作品高度相像的第\n二段②③句（prompts.looks..a million miles away）。\n［B］由 produce artworks、unpredictable styles 可定位至第二段③句（produce something,looks..\n选项\n定位\na million miles away...style）.\n［C］由 unauthorized use of online images 可定位至第三段①句（scraping images..without\npermission）。\n［D］由 collect...without consent 可定位至第三段①句（scraping..without permission）。\n第二段③句强调输人提示词生成的图像与艺术家作品高度相像，实际是肯定AI 绘画生成\nA\n器对用户命令的执行能力强，而非批驳其缺乏灵活性。\n第二段③句“输入格雷格•鲁特科夫斯基这一提示词，系统就会自动生成与其创作风格十\nB\n分接近的作品”的言外之意即“生成器生成的艺术作品风格严格遵照提示词，具有高度确\n定性”，选项有悖文意。\n正误\n第三段指出这些开源软件/AI 绘画生成器是通过从互联网抓取图像的方式加以构建的，且\n判断\n往往并没有取得艺术家的使用许可，也没有给予他们适当的归属认定（without permission\nC\nand proper attribution to artists），因此引发了有关“道德”和“版权”的棘手问题。可见，开\n源 AI 绘画生成器的问题在于“所用在线图像未经授权，涉嫌侵犯版权”，选项明确了开源\nAI 绘画生成器的根本问题。\n第三段①句中开源 AI绘画生成器未经许可收集的是“艺术家创作的图像”而非“用户的个\nD\n人信息”。\n本题借由题干可精准定位至第三段②句 questions about ethics and copyright，难点在于锁\n定的答案源较为抽象，正确解题还需进一步借助上下文语义逻辑加以合理推导。具体来看，借\n技巧\n助②句首 As a result 提示的句间因果关系（scraping images..often without permission and\n总结\nproper attribution to artists ~are raising tricky questions about ethics and copyright），可推知\n“版权问题”和“道德问题”具体指“未获艺术家授权便将其作品用于图像生成”及“在将艺术家\n作品用于图像生成时未注明作品的创作者”，对比各选项发现，仅C项契合文意。\n33. After searching online,Rutkowski found\n33. 在网上搜索之后，鲁特科夫斯基发现了\n［A］ a unique way to reach audiences\n［A］一种独特的吸引受众的方式\n［B］ a new method to identify Al images\n［B］一种识别 AI 图像的新方法\n［C］ Al-generated work bearing his name\n［C］带有他的名字的AI作品\n［D］ heated disputes regarding his copyright\n［D］有关其版权的激烈争议\n题干\n由 searching online、Rutkowski 定位至第四段\n3 ④句（he tried searching.. The online search...）.\n定位\nLAJ由 way、reach audiences 定位至第四段②句（a good way to reach new audiences）。\n［B］由 identify Al images 定位至表达“分辨、鉴别”语义的第四段①句（tracks..images）。\n选项\n定位\nLC」由 bearing his name 定位至第四段④句（had his name attached to it）。\n［D］由 disputes、copyright 定位至体现“不满”的第三段②③句（copyright、 Rutkowski have had\ncnough）。\n22",
+  "pdf_text_layer": "",
+  "quality": {
+    "vision_line_count": 62,
+    "vision_character_count": 1926,
+    "pdf_text_character_count": 0,
+    "nonempty": true
+  }
+}

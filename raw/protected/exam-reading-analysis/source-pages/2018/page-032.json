@@ -1,0 +1,622 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P032",
+  "year": 2018,
+  "pdf_page": 32,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.01814759398500121,
+      "text": "索，选项中只有［B］直接聚焦事件（说明了裁定的原因），其余均与裁定无关。",
+      "width": 0.6398077941077617,
+      "x": 0.0638780755622875,
+      "y": 0.9223422727767566
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314195742209745,
+      "text": "I ①DeepMind has almost apologized. ② The NHS",
+      "width": 0.43923241230543436,
+      "x": 0.10660980298018981,
+      "y": 0.888020833229454
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "DeepMind 差不多已经道歉了。NHS",
+      "width": 0.3326226083088104,
+      "x": 0.6076759002927468,
+      "y": 0.880813953329063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "trust has mended® its ways. ⑧ Further arrangements®-",
+      "width": 0.47974411798480826,
+      "x": 0.06396588610354499,
+      "y": 0.8704427080435934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "信托已经改过自新。NHS 和 DeepMind 之",
+      "width": 0.3710021389146152,
+      "x": 0.5671641783952662,
+      "y": 0.8619186046579667
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013263081510861752,
+      "text": "and there may be many - between",
+      "width": 0.3475479505258126,
+      "x": 0.06396590259779,
+      "y": 0.8515624999716006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906312545178,
+      "text": "the NHS and",
+      "width": 0.13219615287124314,
+      "x": 0.41364605837248086,
+      "y": 0.8531976746780298
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "间进一步的协定——也许有很多——将会",
+      "width": 0.3688699346655413,
+      "x": 0.5692963728768953,
+      "y": 0.8457031247442706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016255782296260235,
+      "text": "DeepMind will be carefully scrutinised® to ensure that all",
+      "width": 0.4821419652059931,
+      "x": 0.06595682150663434,
+      "y": 0.8325810171651807
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "受到仔细审查，以确保征得患者所有必要的",
+      "width": 0.3688699346655413,
+      "x": 0.5692963796395107,
+      "y": 0.8255208333195646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "necessary permissions® have been asked of patients and all",
+      "width": 0.4818763222338821,
+      "x": 0.06609809424908576,
+      "y": 0.8151041668790787
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "许可，并清除所有不必要的数据。在患者知",
+      "width": 0.3688699346655413,
+      "x": 0.5692963790247275,
+      "y": 0.8079427085480722
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011930716534455654,
+      "text": "unnecessary data has been cleaned. ④ There are lessons",
+      "width": 0.4818763222338821,
+      "x": 0.06609809424908576,
+      "y": 0.7979651166596189
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "情同意方面有许多教训需要汲取。但是在",
+      "width": 0.3688699346655414,
+      "x": 0.5692963782322612,
+      "y": 0.7890625002877286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550024022658592,
+      "text": "about informed® patient consent® to learn. ⑤ But privacy",
+      "width": 0.47974411798480826,
+      "x": 0.06396588610354499,
+      "y": 0.7790697675564157
+    },
+    {
+      "confidence": 1,
+      "height": 0.016306322688857677,
+      "text": "本案中，隐私并非唯一的角度，甚至都不算",
+      "width": 0.3688699346655413,
+      "x": 0.5692963728768953,
+      "y": 0.7714843749874087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013263081510861752,
+      "text": "is not the only angle in this case and not even the most",
+      "width": 0.4840085264829559,
+      "x": 0.06396589206235984,
+      "y": 0.7601744186810551
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629118248820305,
+      "text": "最重要的。德纳姆女士决定将指责的矛头",
+      "width": 0.3688699346655413,
+      "x": 0.5692963790247275,
+      "y": 0.7526041665204277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126816600561142,
+      "text": "important. ⑥ Ms Denham chose to concentrate the blame",
+      "width": 0.4840085264829559,
+      "x": 0.06396589206235984,
+      "y": 0.7427325581796016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "对准 NHS 信托，是因为在现行的法律下，",
+      "width": 0.3710021097391103,
+      "x": 0.5692963854289522,
+      "y": 0.7337239582201134
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00729772262275219,
+      "text": "On",
+      "width": 0.03198294338715009,
+      "x": 0.06609808014544415,
+      "y": 0.7252604167276737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314195742209745,
+      "text": "the NHS trust, since under existing law it",
+      "width": 0.44776117095072004,
+      "x": 0.10021322369308377,
+      "y": 0.7238372092152121
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "NHS信托“掌控”着数据而 DeepMind 只不",
+      "width": 0.3688699346655413,
+      "x": 0.5692963790247275,
+      "y": 0.7165697674400127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013096535578370094,
+      "text": "“controlled” the data and DeepMind merely “processed®”",
+      "width": 0.4797441179848082,
+      "x": 0.06609808546388593,
+      "y": 0.7063802086075806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "过在“处理”数据。但是这种区分不得要领：",
+      "width": 0.3710021389146152,
+      "x": 0.5692963756173192,
+      "y": 0.697674418561621
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715577,
+      "text": "it. ⑦ But this distinction misses the point that it is",
+      "width": 0.4840085264829559,
+      "x": 0.06396589206235984,
+      "y": 0.6875000000400666
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "赋予数据价值的，是处理及聚合信息，而非",
+      "width": 0.3688699346655414,
+      "x": 0.5692963751245855,
+      "y": 0.6787790694809526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "processing and aggregation®",
+      "width": 0.23454156295747192,
+      "x": 0.06396588838622508,
+      "y": 0.6686046512773458
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715577,
+      "text": "，not the mere possession of",
+      "width": 0.2515991385990529,
+      "x": 0.29637527149649334,
+      "y": 0.6686046509303283
+    },
+    {
+      "confidence": 1,
+      "height": 0.01664465107023727,
+      "text": "单单拥有信息。",
+      "width": 0.1323642621304747,
+      "x": 0.5692123265468232,
+      "y": 0.6595555817600338
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013202519466479545,
+      "text": "bits, that gives the data value.",
+      "width": 0.25799572217076955,
+      "x": 0.06609809032186463,
+      "y": 0.651041666609006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "• 词汇注释与难句分析•",
+      "width": 0.2196162061527172,
+      "x": 0.37526652104411057,
+      "y": 0.606104650985313
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013096535578370094,
+      "text": "①mend［ mend］w. 纠正，改正",
+      "width": 0.21321960799324807,
+      "x": 0.06396588719029851,
+      "y": 0.5813802085615534
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015988372266292572,
+      "text": "⑦process［'prouses］.处理，加工；，过程；方法；程序",
+      "width": 0.4008528816996296,
+      "x": 0.528784650322893,
+      "y": 0.5799418605383655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "②arrangement［o'reind3mont］n.（解决问题的）办法，非",
+      "width": 0.4157782530921367,
+      "x": 0.06396587995713002,
+      "y": 0.5625000002017644
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883822003852,
+      "text": "⑧aggregation［.eegri'gen］n. 聚集，集成",
+      "width": 0.2985074570256483,
+      "x": 0.5287846540031673,
+      "y": 0.5624999997262317
+    },
+    {
+      "confidence": 1,
+      "height": 0.013469653824965233,
+      "text": "正式协议",
+      "width": 0.07264396565366203,
+      "x": 0.0830810028512007,
+      "y": 0.5463174987327117
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015081198265155082,
+      "text": "• 经典搭配",
+      "width": 0.10676784770666525,
+      "x": 0.5287056297172562,
+      "y": 0.5375175404818127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "③scrutinise［skru：'tnais］. 仔细查看，密切审查",
+      "width": 0.3603411468447509,
+      "x": 0.06396588412915272,
+      "y": 0.5273437497950468
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247940689325333,
+      "text": "①ask the permission of sb 得到⋯⋯的许可",
+      "width": 0.3283581998106627,
+      "x": 0.5330490423832259,
+      "y": 0.5201822916652301
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014973958333333481,
+      "text": "④ permission［po'mtjon］n.许可，授权",
+      "width": 0.27718550206142445,
+      "x": 0.06396588782856275,
+      "y": 0.5084635415660717
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014973958333333481,
+      "text": "②miss the point 不得要领",
+      "width": 0.2025586305111361,
+      "x": 0.5287846528414468,
+      "y": 0.501302083081846
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "⑤informed［ i'foimd］a. 消息灵通的，知情的",
+      "width": 0.3304904040597365,
+      "x": 0.06396588568335138,
+      "y": 0.4895833332960384
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01459544524550438,
+      "text": "⑥ consent［kon'sent］n. 许可，同意",
+      "width": 0.24946693434997913,
+      "x": 0.06396589108727063,
+      "y": 0.4723837211416869
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011870154490073448,
+      "text": "Further arrangements一 and there may be many— between the NHS and DeepMind will be carefully",
+      "width": 0.840085264829559,
+      "x": 0.1066098280116596,
+      "y": 0.4360465120472158
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338783755898476,
+      "text": "scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has",
+      "width": 0.8827291747580066,
+      "x": 0.06609811022227569,
+      "y": 0.4156976744950085
+    },
+    {
+      "confidence": 1,
+      "height": 0.011900435512264496,
+      "text": "been cleaned.",
+      "width": 0.10874200095182167,
+      "x": 0.0660980840390145,
+      "y": 0.398255814285588
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01171875,
+      "text": "and there may be many",
+      "width": 0.16844349381572657,
+      "x": 0.1812366758000258,
+      "y": 0.3691406248062016
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013263081510861752,
+      "text": "插人语",
+      "width": 0.05543709895350968,
+      "x": 0.24733475598166732,
+      "y": 0.3515624999716007
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "句子主干：",
+      "width": 0.085287841738524,
+      "x": 0.06609808440792347,
+      "y": 0.3268229168999852
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013293362533052688,
+      "text": "Further arrangements",
+      "width": 0.16417909990533133,
+      "x": 0.14925373424776076,
+      "y": 0.3268229164203399
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0132933625330528,
+      "text": "between the NHS and DeepMind",
+      "width": 0.24307036536601495,
+      "x": 0.34328358266880493,
+      "y": 0.32682291663594054
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01459544524550438,
+      "text": "will be carefully scrutinised",
+      "width": 0.20469082017245754,
+      "x": 0.6055437131547096,
+      "y": 0.3255208334916847
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008949420104424122,
+      "text": "to ensure",
+      "width": 0.07042288552278775,
+      "x": 0.8464516711240154,
+      "y": 0.3298276156047143
+    },
+    {
+      "confidence": 1,
+      "height": 0.013126816600561142,
+      "text": "主语",
+      "width": 0.0362473336506072,
+      "x": 0.21108742029267788,
+      "y": 0.30664062518955626
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "后置定语修饰arrangements",
+      "width": 0.20682302442153144,
+      "x": 0.3688699386847567,
+      "y": 0.3037790695209234
+    },
+    {
+      "confidence": 1,
+      "height": 0.013594360401232963,
+      "text": "被动谓语",
+      "width": 0.07481760641356949,
+      "x": 0.6800752058539454,
+      "y": 0.3064295640617697
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "目的状语",
+      "width": 0.07249466730121445,
+      "x": 0.8464818768326907,
+      "y": 0.30523255832676444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019226664056380627,
+      "text": "并列的宾语从句1:that",
+      "width": 0.18812944693045677,
+      "x": 0.15324870301593066,
+      "y": 0.2739186451959915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "all necessary permissions have been asked of patients",
+      "width": 0.40724946527134626,
+      "x": 0.36886994196454,
+      "y": 0.27734374994645206
+    },
+    {
+      "confidence": 1,
+      "height": 0.010492369532585144,
+      "text": "and",
+      "width": 0.05330490199831195,
+      "x": 0.77611940312309,
+      "y": 0.280523255750586
+    },
+    {
+      "confidence": 1,
+      "height": 0.016336765761176708,
+      "text": "连接代词",
+      "width": 0.07478657097023261,
+      "x": 0.2877666287808945,
+      "y": 0.25709324517485665
+    },
+    {
+      "confidence": 1,
+      "height": 0.013338783755898476,
+      "text": "主语",
+      "width": 0.038379530605804846,
+      "x": 0.4456289976395283,
+      "y": 0.2584635417672615
+    },
+    {
+      "confidence": 1,
+      "height": 0.013338783755898476,
+      "text": "被动谓语",
+      "width": 0.07462686425641207,
+      "x": 0.6012793191511117,
+      "y": 0.25846354191261034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338783755898476,
+      "text": "宾语 并列连词",
+      "width": 0.1279317735486004,
+      "x": 0.7270788880657851,
+      "y": 0.2584635417672615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "并列的宾语从句2：（that） all unnecessary data",
+      "width": 0.34968015477488645,
+      "x": 0.15565033122662916,
+      "y": 0.24127906972441193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010416666356225845,
+      "text": "has been cleaned.",
+      "width": 0.13646054678163833,
+      "x": 0.507462692067603,
+      "y": 0.24414062509060352
+    },
+    {
+      "confidence": 1,
+      "height": 0.013308502733707428,
+      "text": "主语",
+      "width": 0.03624733365060723,
+      "x": 0.4221748403784734,
+      "y": 0.22070312511503387
+    },
+    {
+      "confidence": 1,
+      "height": 0.013308502733707428,
+      "text": "被动谓语",
+      "width": 0.07249466730121445,
+      "x": 0.5437100229439709,
+      "y": 0.22070312526038283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "功能注释：本句主干 Further arrangements will be carefully scrutinised，采用被动语态凸显判决后",
+      "width": 0.8379530605804851,
+      "x": 0.10447762150689421,
+      "y": 0.19010416636296645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "NHS的改进举措；目的状语 to ensure 后面接两个并列的宾语从句，具体介绍举措细则，两个表示绝对的",
+      "width": 0.8784648246108688,
+      "x": 0.06396587228944854,
+      "y": 0.16992187503031486
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01627604166666663,
+      "text": "形容词 all...all...凸显 NHS整改彻底、力度大。",
+      "width": 0.41791042816570567,
+      "x": 0.06396589814173843,
+      "y": 0.15104166655861284
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01497395833333337,
+      "text": "• 语篇分析•",
+      "width": 0.11940298572780988,
+      "x": 0.42643923327682004,
+      "y": 0.12760416684031917
+    },
+    {
+      "confidence": 1,
+      "height": 0.017578125,
+      "text": "第二至四段评述事件，借以阐明文章主旨：“仅聚焦隐私”掩盖了问题实质，即科技垄断之势愈加明显。",
+      "width": 0.8123667262936185,
+      "x": 0.10447761627749792,
+      "y": 0.10026041639347272
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "32",
+      "width": 0.025586352521557193,
+      "x": 0.07889125892045809,
+      "y": 0.06831395324185374
+    }
+  ],
+  "vision_ocr_text": "索，选项中只有［B］直接聚焦事件（说明了裁定的原因），其余均与裁定无关。\nI ①DeepMind has almost apologized. ② The NHS\nDeepMind 差不多已经道歉了。NHS\ntrust has mended® its ways. ⑧ Further arrangements®-\n信托已经改过自新。NHS 和 DeepMind 之\nand there may be many - between\nthe NHS and\n间进一步的协定——也许有很多——将会\nDeepMind will be carefully scrutinised® to ensure that all\n受到仔细审查，以确保征得患者所有必要的\nnecessary permissions® have been asked of patients and all\n许可，并清除所有不必要的数据。在患者知\nunnecessary data has been cleaned. ④ There are lessons\n情同意方面有许多教训需要汲取。但是在\nabout informed® patient consent® to learn. ⑤ But privacy\n本案中，隐私并非唯一的角度，甚至都不算\nis not the only angle in this case and not even the most\n最重要的。德纳姆女士决定将指责的矛头\nimportant. ⑥ Ms Denham chose to concentrate the blame\n对准 NHS 信托，是因为在现行的法律下，\nOn\nthe NHS trust, since under existing law it\nNHS信托“掌控”着数据而 DeepMind 只不\n“controlled” the data and DeepMind merely “processed®”\n过在“处理”数据。但是这种区分不得要领：\nit. ⑦ But this distinction misses the point that it is\n赋予数据价值的，是处理及聚合信息，而非\nprocessing and aggregation®\n，not the mere possession of\n单单拥有信息。\nbits, that gives the data value.\n• 词汇注释与难句分析•\n①mend［ mend］w. 纠正，改正\n⑦process［'prouses］.处理，加工；，过程；方法；程序\n②arrangement［o'reind3mont］n.（解决问题的）办法，非\n⑧aggregation［.eegri'gen］n. 聚集，集成\n正式协议\n• 经典搭配\n③scrutinise［skru：'tnais］. 仔细查看，密切审查\n①ask the permission of sb 得到⋯⋯的许可\n④ permission［po'mtjon］n.许可，授权\n②miss the point 不得要领\n⑤informed［ i'foimd］a. 消息灵通的，知情的\n⑥ consent［kon'sent］n. 许可，同意\nFurther arrangements一 and there may be many— between the NHS and DeepMind will be carefully\nscrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has\nbeen cleaned.\nand there may be many\n插人语\n句子主干：\nFurther arrangements\nbetween the NHS and DeepMind\nwill be carefully scrutinised\nto ensure\n主语\n后置定语修饰arrangements\n被动谓语\n目的状语\n并列的宾语从句1:that\nall necessary permissions have been asked of patients\nand\n连接代词\n主语\n被动谓语\n宾语 并列连词\n并列的宾语从句2：（that） all unnecessary data\nhas been cleaned.\n主语\n被动谓语\n功能注释：本句主干 Further arrangements will be carefully scrutinised，采用被动语态凸显判决后\nNHS的改进举措；目的状语 to ensure 后面接两个并列的宾语从句，具体介绍举措细则，两个表示绝对的\n形容词 all...all...凸显 NHS整改彻底、力度大。\n• 语篇分析•\n第二至四段评述事件，借以阐明文章主旨：“仅聚焦隐私”掩盖了问题实质，即科技垄断之势愈加明显。\n32",
+  "pdf_text_layer": "索，选项中只有［ BJ 直接聚焦事件（说明了裁定的原因），其余均与裁定无关 。\n\n\n      皿 OD ee pMind has almost apologized. @Th e N HS\n                                                                                          Deep Mind 差不多已经道歉了。 NHS\ntrus t has mended( its ways. @) Further arrangements® -                               信托已经改过自新 。 NHS 和 DeepMind 之\nand there may be many - between the NHS and                                           间进一步的协定一一一 也许有很多 一一一将会\nDeepMind wil l be carefully scrutinised③ to e口su r巳 th a t all\n                                                                                      受到仔细审查，以确保征得患者所有必要的\nnecessary permissions© have been asked of pati ents and all\n                                                                                      许可，并清除所有不必要的数据 。 在患者知\nunnecessary data ha s been cl ea n ed. 。 Th ere ar e lessons                          情同意方面有许多教训需妥汲取 。 但是在\na bout informed® patient consent® to learn. 0But privacy\n                                                                                      本案中，隐私并非唯一的角度，甚至都不算\nis not the only ang le in thi s case and not even the most                            最重要的 。 德、 纳姆女士决定将指责的矛头\nimportant. 0 Ms Denham chose to concentrate the blame\n                                                                                      对准 NHS 信托，是因为在现行的法律下，\non         the   N HS   tru st,   s ince   under   exis ting         law    it\n                                                                                      NHS 信托 “ 掌控”着数据而 DeepMind 只不\n“ contro lled\" the data and Deep Mind merely “ processed( ,,\n                                                                                      过在“处理”数据 。 但是这种区分不得要领：\nit.    @ But thi s di s tinction miss 巳S the point that it is\n                                                                                      赋予数据价值的，是处理及聚合信息，而非\nprocessing and aggregation® , not the mer e possession of\n                                                                                      羊羊拥有信息 。\nbits, that gives the data value.\n\n                                                               释…      句                    J\n                                                                                分 …\n                                                                 与                    析\n                                                   词…\n                                                               …                      …\n                                                        「」 …\n                                                                 …\n                                                        －      注 …     难…\n                                                                       …    －   u     －\n\n\n\n① mend[ mend ]v. 纠正，改正                                                $     ( process[ ' prauses]v. 处理，加 工 ； n. 过 程 ； 方法；程序 ！\n           rangement[a' re111d3mant] 11. （解决 问 题 的 ） 办 法，非            旦     ( a1\n      正式协议                                                            ♂\n                                                                      号     ·经典搭配\n( scrutinise[ skru: 't1na1s}v . 仔细 查看， 密切审查\n④ permission[ pa 'm1Jan] 11. 许可，授权\n                                                                      ; ( as k the permission of\n                                                                      1,\n                                                                      >\n                                                                                                         sb 得到 ……的许可\n                                                                      \\)    ( miss the po int 不 得要领\n⑤ informed [ 1旷 fo:md］ α ．消 息灵通 的，知 情 的                               盯\n⑥ consent [ ka旷 sent ]n. 许可，同 意\n\n\n\n           Further arrangements       and there may be many - between the NHS and DeepMind will be carefully\nscrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has\nbeen cleaned.\n\n                   - and there may be many -\n                              插入语\n\n                                           b巳tween the NHS and DeepMind                   will be carefully scrutinised\n                              语\n                         、王                    后置定i吾修饰arrangements                                  被动谓i吾\n\n                 社列的宾语从句 l ：由at                all nee巳ssary permissions           hav巳 been asked of    patients     and\n                         连接代词                  主语                                         被动谓语             宾语并列连词\n                 并列的宾语从句2: ( that) all unnecessary data                    has been cleaned.\n                                                        主语                      被动谓语\n\n           功能注释： 本句主干 Furth e r arra ngem ent s w ill be ca refu ll y sc rutini sed ，采用被动语态 凸显判决 后\nN HS 的改进 举措 ；目的状语 to e n s ure 后面接两 个 并 列的 宾语 从 句 ， 具体 介 绍举措细 则，两个 表示绝对 的\n形容词 all. . . all. ..凸 显 N HS 整改 彻底、力度大 。\n\n                                                     ：：－语毒分析.＜： ；／\n           第二至四段评述事件，借以阐明文章主旨：“仅聚焦隐私”掩盖了问题实质，即科技垄断之势愈加明显。\n\n\n      32",
+  "quality": {
+    "vision_line_count": 75,
+    "vision_character_count": 2104,
+    "pdf_text_character_count": 5075,
+    "nonempty": true
+  }
+}

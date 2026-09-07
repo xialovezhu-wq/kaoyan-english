@@ -1,0 +1,61 @@
+{
+  "package_name": "2011_kaoyan_english1_reading_text4_codex_ingest_pack",
+  "source_id": "RAW-ARTICLE-20260710-001",
+  "source_hash": "sha256:455ef9a81527a0b6aad26db4c6e09f37ec5bf0f3ec84642f6d6d69d13ce5dfc9",
+  "pipeline_handoff": "dataset/pipeline_handoff.json",
+  "created_at": "2026-07-10",
+  "scope": "Only 2011 考研英语一 Reading Comprehension Part A Text 4",
+  "source_files": [
+    {
+      "path": "/Users/xiazhibin/Desktop/2011年考研英语一真题解析.pdf",
+      "role": "external_original_pdf",
+      "sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+      "relevant_pdf_pages": "34-43"
+    },
+    {
+      "path": "practice_source/user_article_text4.png",
+      "role": "practice_safe_article_image",
+      "sha256": "bfc9e0c58904676aa0c7ac458a0294173a55d3b73ee65a3367f968c7ceb06eb7"
+    },
+    {
+      "path": "practice_source/user_questions_text4.png",
+      "role": "practice_safe_questions_image",
+      "sha256": "8cb0b4f4c6d7c2d529767c7eb448284f35615cd4e8040fbc176146be1505f730"
+    }
+  ],
+  "dataset_files": [
+    "dataset/text4_practice_safe.md",
+    "dataset/text4_practice_safe.json",
+    "dataset/text4_practice_safe.jsonl",
+    "dataset/pipeline_handoff.json"
+  ],
+  "protected_evidence": {
+    "directory": "protected_source_pages/",
+    "pdf_pages": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "page_34_crop": "Previous Text tail removed.",
+    "page_43_crop": "Following Part B opening removed.",
+    "text_extraction_into_practice_dataset": false,
+    "visibility": "restricted_raw_evidence"
+  },
+  "practice_policy": {
+    "active_article": "articles/2026-07-10-2011-english-i-text-4.md",
+    "default_sources": [
+      "active_article",
+      "dataset/",
+      "practice_source/"
+    ],
+    "protected_sources_excluded_by_default": true,
+    "minimum_access_after_explicit_review_request": true
+  }
+}

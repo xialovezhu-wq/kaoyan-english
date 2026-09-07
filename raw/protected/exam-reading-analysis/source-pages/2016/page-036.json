@@ -1,0 +1,494 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P036",
+  "year": 2016,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "词汇注释与难句分析",
+      "width": 0.18803418941095107,
+      "x": 0.39529914595386517,
+      "y": 0.9113372096682346
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013130666068821961,
+      "text": "①comprehensive ［kpmpri'hensiv］a. 全面的",
+      "width": 0.33333331380833137,
+      "x": 0.06837607595908225,
+      "y": 0.8851744185605848
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907236987034,
+      "text": "$",
+      "width": 0.01282051291438302,
+      "x": 0.5021367520043469,
+      "y": 0.8851744185908088
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01313066606882185,
+      "text": "①rule out（排除）",
+      "width": 0.13247863710956254,
+      "x": 0.532051280682093,
+      "y": 0.8851744187640732
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01457467943313373,
+      "text": "②lenient ［hinont］a. 宽大的，仁慈的",
+      "width": 0.2927350357260677,
+      "x": 0.06623931730434512,
+      "y": 0.8648255816262911
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014574679433133841,
+      "text": "②political influence（政治影响，政治影响力）",
+      "width": 0.3418803443835472,
+      "x": 0.5299145251372862,
+      "y": 0.8648255815172794
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565203615708344,
+      "text": "③penalty ［'penalti］ n. 处罚，惩罚",
+      "width": 0.2585470012877129,
+      "x": 0.06623932185614351,
+      "y": 0.845930233007105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "③account for（解释，说明）",
+      "width": 0.20085469134252032,
+      "x": 0.5341880406179137,
+      "y": 0.8487614083006958
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01325194807686736,
+      "text": "④fine ［fann」n. 罚款",
+      "width": 0.16452991390411317,
+      "x": 0.06623931734281521,
+      "y": 0.8270348836768638
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015239869755591995,
+      "text": "• 经典搭配",
+      "width": 0.10277622537741046,
+      "x": 0.07040675995974299,
+      "y": 0.8005196000844768
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01368970013037818,
+      "text": "Their analysis ruled out the possibility that it was firm's political influence, rather than their CSR",
+      "width": 0.8418803443835472,
+      "x": 0.10897436824626025,
+      "y": 0.7685788789693346
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011804144882938239,
+      "text": "stand,that accounted for the leniency: Companies that contributed more to political campaigns did not",
+      "width": 0.8846153801096149,
+      "x": 0.06837607947510686,
+      "y": 0.7483702739390437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181297,
+      "text": "receive lower fines.",
+      "width": 0.15811965561645272,
+      "x": 0.06837607160416673,
+      "y": 0.728161669042046
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "功能注释：本句主干力 Their analysis ruled out the possibility。第一个 that 从句做 possibility 的同",
+      "width": 0.8418803443835473,
+      "x": 0.10683761260167357,
+      "y": 0.7046936117124056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "位语，具体说明“可能性”的情况，其中包含 it was A rather than B that...的强调句式。冒号后内容具",
+      "width": 0.882478622465811,
+      "x": 0.06623931507051345,
+      "y": 0.684485006563202
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "体解释主句，其中出现第二个 that 从句修饰 companies，说明企业的政治影响对减少企业所受处罚作用",
+      "width": 0.882478622465811,
+      "x": 0.06623933007051314,
+      "y": 0.6642441860470503
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "不大。",
+      "width": 0.05555555596232643,
+      "x": 0.06623931673037521,
+      "y": 0.6438953487178352
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014789525346619259,
+      "text": "结构切分：",
+      "width": 0.09196717450806366,
+      "x": 0.10679419001736029,
+      "y": 0.624872679370247
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693899445614614,
+      "text": "Their analysis ruled out the possibilit",
+      "width": 0.32692307016442235,
+      "x": 0.11324786505133587,
+      "y": 0.597131682052094
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "主语",
+      "width": 0.040598289065077314,
+      "x": 0.1645299156437434,
+      "y": 0.5813953489591399
+    },
+    {
+      "confidence": 1,
+      "height": 0.014593629202911074,
+      "text": "谓语",
+      "width": 0.040598289065077287,
+      "x": 0.2606837617041066,
+      "y": 0.5827900914963793
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "宾语",
+      "width": 0.04059828906507734,
+      "x": 0.35470085536062373,
+      "y": 0.5813953489954771
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "L, rather than their CSR stand，",
+      "width": 0.2435897417123395,
+      "x": 0.5705128192720353,
+      "y": 0.5710560624360606
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "同位语从句",
+      "width": 0.10042734567126022,
+      "x": 0.30128205265582286,
+      "y": 0.5566860467280352
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "插入语",
+      "width": 0.06623931855478127,
+      "x": 0.6068376052067364,
+      "y": 0.5566860467321881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175341903,
+      "text": "that",
+      "width": 0.03418803443835472,
+      "x": 0.1260683756440705,
+      "y": 0.5377906978919802
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012080558120349472,
+      "text": "it was",
+      "width": 0.04937409530903239,
+      "x": 0.2370650895080937,
+      "y": 0.5390178605193732
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113697106,
+      "text": "firm's political influence..",
+      "width": 0.22435896684935824,
+      "x": 0.38675214275053454,
+      "y": 0.5363372096350119
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02120053317431836,
+      "text": "：that accounted for the Leniency",
+      "width": 0.2788769214944967,
+      "x": 0.5955667990341672,
+      "y": 0.5328217148009804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "引导词 强调句式it was...that...",
+      "width": 0.26923076021922987,
+      "x": 0.11111111523226547,
+      "y": 0.5174418605237945
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "主语",
+      "width": 0.042735043047943455,
+      "x": 0.49786324797389153,
+      "y": 0.5188953492135004
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395175341903,
+      "text": "谓语",
+      "width": 0.04059828906507734,
+      "x": 0.6880341891391137,
+      "y": 0.518895348984519
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395175342125,
+      "text": "宾语",
+      "width": 0.04059828906507734,
+      "x": 0.8034188045913929,
+      "y": 0.5188953489966313
+    },
+    {
+      "confidence": 1,
+      "height": 0.022767533223974068,
+      "text": "^解释说明",
+      "width": 0.10087373114822007,
+      "x": 0.2754178341378752,
+      "y": 0.49370344297390356
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014782090541436754,
+      "text": "：Companies",
+      "width": 0.10477483386956798,
+      "x": 0.11107412073541903,
+      "y": 0.4751670947184916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013293638689421572,
+      "text": "did not receive lower fines.",
+      "width": 0.23076922513701864,
+      "x": 0.2329059886067043,
+      "y": 0.47653194260101106
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "that contributed more to political campaigns",
+      "width": 0.36111110460277707,
+      "x": 0.5320512889165602,
+      "y": 0.4706649280610278
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013303113885155926,
+      "text": "主语",
+      "width": 0.03846153874314906,
+      "x": 0.14957264970656958,
+      "y": 0.4576271186589105
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "谓语",
+      "width": 0.040598289065077287,
+      "x": 0.27136752232109385,
+      "y": 0.4576271183630999
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "宾语",
+      "width": 0.040598289065077287,
+      "x": 0.3867521372409657,
+      "y": 0.45762711894845387
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "定语从句",
+      "width": 0.08333333577395863,
+      "x": 0.5277777770782985,
+      "y": 0.4517601042504039
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.019348232811401855,
+      "text": "•语篇分析。",
+      "width": 0.10960326679837445,
+      "x": 0.43771973548115045,
+      "y": 0.4103840232257352
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "第四段介绍研究发现，并表明该发现的可靠性。关键词：①The study found；②more Ienient penalties。",
+      "width": 0.8183760688767094,
+      "x": 0.10683761340708678,
+      "y": 0.3837209301676898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "①句说明研究发现：被诉企业（among prosecuted firms）中，CSR 计划最全面的企业受到的处罚较轻",
+      "width": 0.8418803443835473,
+      "x": 0.10683760740224336,
+      "y": 0.36310299865540163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "（the most comprehensive CSR programmes- more lenient penalties）。这一结果验证了第二段 its good",
+      "width": 0.882478622465811,
+      "x": 0.06837607688141083,
+      "y": 0.3441981744237578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "deeds earn it greater consideration 及第一段末 CSR may create monetary value for companies，展现了CSR",
+      "width": 0.8846153801096149,
+      "x": 0.06623931528707303,
+      "y": 0.32398956959068803
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629915697478257,
+      "text": "的光环效应：企业的CSR投入借助光环效应为其树立好形象、赢得人们（检察官）的更多体谅和关照，为",
+      "width": 0.8803418648220069,
+      "x": 0.06837607362532139,
+      "y": 0.3037790698660908
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "企业带来经济收益（宽大的处罚，句中关键词 lenient 意为 not strict in the way you punish someone or in",
+      "width": 0.882478622465811,
+      "x": 0.06837606541239373,
+      "y": 0.28343023261681766
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01766168340710339,
+      "text": "the standard you expect “宽大的，仁慈的”）。句中tend.to（趋于，往往）说明这一发现的普遍适用性。",
+      "width": 0.8504273163837571,
+      "x": 0.06623933203248043,
+      "y": 0.2614080837010704
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "②句排除“政治影响促使企业获得宽大处罚”的可能，说明研究发现的可靠性。Their analysis 回指",
+      "width": 0.8418803443835472,
+      "x": 0.1068376046030982,
+      "y": 0.24119947866203262
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "①句the study； 句子以 ruled out the possibility（rule out 意为“排除”）辅以“强调取舍结构 it was A rather",
+      "width": 0.8846153801096149,
+      "x": 0.06837608168664523,
+      "y": 0.22229465429230733
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "than B...that account for C”起到“双重否定加强肯定”的效果：排除“干扰因素政治影响（A）促使企业获",
+      "width": 0.8824786224658109,
+      "x": 0.06623932362286364,
+      "y": 0.20203488341986997
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "得宽大处罚（C）”的可能，强调研究可靠地体现了旨在研究的企业CSR 立场（B）和企业获得的宽大处理",
+      "width": 0.8824786224658109,
+      "x": 0.0662393138917385,
+      "y": 0.18313953513888792
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016308632170516812,
+      "text": "（C）之间的因果关系。其中 stand 意为a position or opinion that you state firmly and publicly”［公开表明",
+      "width": 0.8824786224658109,
+      "x": 0.0662393148087614,
+      "y": 0.16101694912618292
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629872179093539,
+      "text": "的］主张、立场”。",
+      "width": 0.1411013905237824,
+      "x": 0.06833819456640311,
+      "y": 0.14228668577811254
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "冒号后内容进一步解释说明：更多政治上的贡献并未带来更低的处罚（即“宽大处理”）（contributed",
+      "width": 0.8418803443835473,
+      "x": 0.10897435339583339,
+      "y": 0.12190352028345108
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "more to political campaigns lower fines = the leniency），也即企业的“政治影响力”与“所受处罚”之间",
+      "width": 0.882478622465811,
+      "x": 0.06623931242094089,
+      "y": 0.10169491495008198
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "不存在因果关系。fine 意力“罚款、处罚”。",
+      "width": 0.35470086095886816,
+      "x": 0.06837606820290208,
+      "y": 0.08139534874811616
+    },
+    {
+      "confidence": 1,
+      "height": 0.011815514993481102,
+      "text": "36",
+      "width": 0.02350427367636887,
+      "x": 0.08119658091466458,
+      "y": 0.06249999979720422
+    }
+  ],
+  "vision_ocr_text": "词汇注释与难句分析\n①comprehensive ［kpmpri'hensiv］a. 全面的\n$\n①rule out（排除）\n②lenient ［hinont］a. 宽大的，仁慈的\n②political influence（政治影响，政治影响力）\n③penalty ［'penalti］ n. 处罚，惩罚\n③account for（解释，说明）\n④fine ［fann」n. 罚款\n• 经典搭配\nTheir analysis ruled out the possibility that it was firm's political influence, rather than their CSR\nstand,that accounted for the leniency: Companies that contributed more to political campaigns did not\nreceive lower fines.\n功能注释：本句主干力 Their analysis ruled out the possibility。第一个 that 从句做 possibility 的同\n位语，具体说明“可能性”的情况，其中包含 it was A rather than B that...的强调句式。冒号后内容具\n体解释主句，其中出现第二个 that 从句修饰 companies，说明企业的政治影响对减少企业所受处罚作用\n不大。\n结构切分：\nTheir analysis ruled out the possibilit\n主语\n谓语\n宾语\nL, rather than their CSR stand，\n同位语从句\n插入语\nthat\nit was\nfirm's political influence..\n：that accounted for the Leniency\n引导词 强调句式it was...that...\n主语\n谓语\n宾语\n^解释说明\n：Companies\ndid not receive lower fines.\nthat contributed more to political campaigns\n主语\n谓语\n宾语\n定语从句\n•语篇分析。\n第四段介绍研究发现，并表明该发现的可靠性。关键词：①The study found；②more Ienient penalties。\n①句说明研究发现：被诉企业（among prosecuted firms）中，CSR 计划最全面的企业受到的处罚较轻\n（the most comprehensive CSR programmes- more lenient penalties）。这一结果验证了第二段 its good\ndeeds earn it greater consideration 及第一段末 CSR may create monetary value for companies，展现了CSR\n的光环效应：企业的CSR投入借助光环效应为其树立好形象、赢得人们（检察官）的更多体谅和关照，为\n企业带来经济收益（宽大的处罚，句中关键词 lenient 意为 not strict in the way you punish someone or in\nthe standard you expect “宽大的，仁慈的”）。句中tend.to（趋于，往往）说明这一发现的普遍适用性。\n②句排除“政治影响促使企业获得宽大处罚”的可能，说明研究发现的可靠性。Their analysis 回指\n①句the study； 句子以 ruled out the possibility（rule out 意为“排除”）辅以“强调取舍结构 it was A rather\nthan B...that account for C”起到“双重否定加强肯定”的效果：排除“干扰因素政治影响（A）促使企业获\n得宽大处罚（C）”的可能，强调研究可靠地体现了旨在研究的企业CSR 立场（B）和企业获得的宽大处理\n（C）之间的因果关系。其中 stand 意为a position or opinion that you state firmly and publicly”［公开表明\n的］主张、立场”。\n冒号后内容进一步解释说明：更多政治上的贡献并未带来更低的处罚（即“宽大处理”）（contributed\nmore to political campaigns lower fines = the leniency），也即企业的“政治影响力”与“所受处罚”之间\n不存在因果关系。fine 意力“罚款、处罚”。\n36",
+  "pdf_text_layer": "…\n                                                                                              词…                                     ，五\n                                                                                                                        分\n                                                                                                   注 …   难·\n                                                                                                         与\n                                                                                                                  旬\n                                                                                                         …\n\n                                                                                                                        …品’”’\n                                                                                                                            …\n                                                                                                   …\n                                                                                                                                「厅\n                                                                                                                  － …\n                                                                                                         释\n                                                                                                    广」   …\n\n\n\n\n                                                                                                         :\n                                                                                                   ，\n\n\n\n\n( comprehensive [kompr11 hens1v Jα ． 全面的                                                                     )\\    ( rule o ut （排除）\n( lenient [ 'li:mant ］ α ．宽大的，仁慈的                                                                                  ② political 山r时政治影 M 治影响力）\n( penalty [ 1penalt1 ] n . 处罚，惩罚                                                                             ~     @ ace川\n( fine [ fam] n . 罚 款\n\n． 经典搭配\n\n\n       Their analysis ruled out the possibility that it was firm ’s political influence , rather than their CSR\nstand, that accounted for the leniency: Companies that contributed more to political campaigns did not\nreceive lower fines.\n       功能注释：本句主干为 Their analysis ruled out the possibi l ity 。第一个 that 从句做 pos s ibility 的同\n位语，具体说明“可能性”的情况，其中包含 it was A rather than B that ... 的强调句式 。冒号 后内容具\n体解释主句 ，其 中出现第 二 个 th at 从句修饰 companies ，说 明企业的政治影响对减少企业所 受 处罚作用\n不大 。\n       结构切分：\n\n        Their analysis ruled out th巳 possibility\n                      主语                       谓语\n                                                                                                                         I , rather than their CSR stand, I\n                                                                 同位语从句\n\n\n\n\n                叩一 十\n                   α\n                                                                                                                                     插入语\n\n\n\n\n               阳一   －                         川一甫一 灿一\n                                                   能－hu「\n                                         i\n\n                                                                                          firm ’ s political influence ..\"! that accounted for the leniency\n                                   调一   一句－\n                              I\n\n\n                                                                 时一 m一\n                                                                              M一说 一空\n                     Z\n                     叫一\n\n\n\n                                                                   解－\n        己 J－\n                              5                                           t\n\n                                                                                                         主语                                谓语            宾语\n                                                        －\n\n\n                             －\n\n\n                                                                  也   一释 一\n                                                                         时一\n                              E\n                                                                                        h 一\n                                                        Et\n\n\n\n\n                                                                      语\n                                                                                    一明 －      m一\n                                                                                               到\n                             m一面                   m一订\n                              !\n                                   臼－   d －\n                                                                                               自 一\n                     甲 一一二\n        h·\n\n                         －                                                                        五q\n                                                                                                                   that contributed more to political campaigns\n                                                        － E 到可\n                 2\n\n\n                                                                                                                  定语从句\n\n\n                                                                                                   :－ ~··语篇分析＜ 1'\n       第四段介绍研究发现，并表明该发现的可靠性 。 关键词： ①The study found ;( more lenient penalti销。\n       ① 旬说明研究发现：被诉企业 （ among prosecuted firms ） 中， CSR 计划最全面的企业受到的处罚较轻\n( the most comprehensive CSR programmes • more lenient penalties ） 。 这 一 结果验证了第 二 段 it s good\ndeeds earn it greater consid e ration 及第 一 段末 CSR may er巳ate monetary va lue for companies ，展现了 CSR\n的光环效应：企业的 CSR 投入借助光环效应为 其 树 立好 形象、 赢得 人们（检 察官） 的 更多 体谅和 关照，为\n企业带来经济收益（宽大的处罚，句中关键词 l巳ni e n t： 意为 not strict in the way you puni s h someone or in\nthe sta ndard you expect “宽大的，仁慈的勺 。 句中 tend · to （趋于 ，往往） 说明这 一发 现的 普 遍适用性 。\n       ②旬排除“政治影晌促使企业获得宽大处罚”的可能，说明研究发现的可靠性。 Th eir a n a lys i s 回指\n①句 th e study ；句子以 rul ed out the poss ibility( rul巳 o ut 意为“ 排除”）辅以“强调取 舍结 构 it was A rather\nthan B. .. that account for C”起到“双重否定加强肯定”的效果：排除“ 干 扰因 素政治影 响 CA ）促使企 业 获\n得宽大处罚（。”的可能，强调研究可靠地体现了旨在研究的企业 CSR 立场 CB ）和企业获得的宽大处理\nCC ）之间的因果关系 。其 中 stand 意为 a position or opinion that you stat e firmly and publicl y“［公开表 明\n的 ］主 张、立场” 。\n       冒号后 内容进 一 步解释说明：更 多政治上 的 贡 献 并未 带来 更 低的处罚 （ 即“ 宽大处理”） Ccontribut ed\nmore to po litical campaigns 手 lowe r fin es = the l e ni e ncy ），也即企业的“政治 影 响力” 与“ 所 受处罚”之 间\n不存在因果关系 。 fine 意为“罚款 、处罚” 。\n\n  36",
+  "quality": {
+    "vision_line_count": 59,
+    "vision_character_count": 1942,
+    "pdf_text_character_count": 6770,
+    "nonempty": true
+  }
+}

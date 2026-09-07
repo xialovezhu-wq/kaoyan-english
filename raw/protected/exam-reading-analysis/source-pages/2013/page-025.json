@@ -1,0 +1,526 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2013-P025",
+  "year": 2013,
+  "pdf_page": 25,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf",
+  "source_sha256": "6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.016791821769505555,
+      "text": "．真题精解。",
+      "width": 0.12175712074877881,
+      "x": 0.41140289103941247,
+      "y": 0.9022145546231581
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013244367795941736,
+      "text": "29. Which of the following is true according to Paragraph 6？",
+      "width": 0.4797441179848082,
+      "x": 0.05756930030930174,
+      "y": 0.8748370273026305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "29.根据第六段，下面哪项正确？",
+      "width": 0.27931767713499334,
+      "x": 0.5522388161659788,
+      "y": 0.8720930229947247
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01316477640045044,
+      "text": "［A］ Advertisers are willing to implement DN'T.",
+      "width": 0.4029850567731985,
+      "x": 0.057569310339413426,
+      "y": 0.8531976744871836
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018971149738018278,
+      "text": "［A］广告商愿意实施“禁止追踪”。",
+      "width": 0.2942430777030055,
+      "x": 0.5522388047732306,
+      "y": 0.8487614082579376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "LB」 DNT may not serve its intended purpose.",
+      "width": 0.38592748113161746,
+      "x": 0.05756931329879669,
+      "y": 0.8298565841950778
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860233789352,
+      "text": "［B］“禁止追踪”可能不能取得预期目的。",
+      "width": 0.34968015477488645,
+      "x": 0.5522388173673543,
+      "y": 0.8270348838365937
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013689700130378069,
+      "text": "［CJ DNT is losing its popularity among consumers.",
+      "width": 0.4349680038072866,
+      "x": 0.0575693084375079,
+      "y": 0.8063885269262102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017602937939580454,
+      "text": "［C］“禁止追踪”正在失去其消费者青睐度。",
+      "width": 0.35394456327303414,
+      "x": 0.5522388093229712,
+      "y": 0.8037790698831053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013179936962301797,
+      "text": "［D］ Advertisers are obliged to offer behavioural ads.",
+      "width": 0.44349679162807726,
+      "x": 0.05756930584907435,
+      "y": 0.783430232659422
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01765220883306029,
+      "text": "［D］广告商有责任提供“行”广告。",
+      "width": 0.31130062416908155,
+      "x": 0.552238811902666,
+      "y": 0.7803129074756948
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "［精准定位］第六段②③句指出：DNT信号并不意味着企业必须停止追踪；由于不知道消费者真实",
+      "width": 0.8379530605804851,
+      "x": 0.08742005007223093,
+      "y": 0.7542372881346698
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "心理，企业很可能会忽略 DNT 默认信号。由此可知，DNT 可能并不能达到限制企业获取用户在线行为",
+      "width": 0.8805969705089328,
+      "x": 0.046908346579222125,
+      "y": 0.73533246416102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "信息的预期目标，B正确。",
+      "width": 0.23240937329615055,
+      "x": 0.046908322072607,
+      "y": 0.7151162793733841
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186023378924,
+      "text": "［命题解密］正确项［B］是对第六段②③句（尤其是③句 some may ignore a DN'T signal and press on",
+      "width": 0.8422174690786329,
+      "x": 0.08742005712735013,
+      "y": 0.69331395367671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014629635071039537,
+      "text": "anyway）的合理归纳。",
+      "width": 0.1855010694573076,
+      "x": 0.04477611586836117,
+      "y": 0.6744186048675701
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018203972837604887,
+      "text": "［A］与②句“广告商可能不会因 DNT信号而停止追踪用户信息”所暗传的“广告商并非乐意实施 DNT”",
+      "width": 0.8466404756214149,
+      "x": 0.0852149022645221,
+      "y": 0.6533489902096952
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "及③句“广告商不予理睬 DNT 信号”相悖；［C］将③句“广告商不清楚消费者是否坚持 DNT 默认项”捏造出",
+      "width": 0.8805969705089328,
+      "x": 0.046908329265789646,
+      "y": 0.6336375487463604
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "“DNT正在失去其对消费者的青睐”，而文意并不谈及 DNT 是否受到消费者欢迎；［D］首先将②句“广告商无",
+      "width": 0.8827291747580067,
+      "x": 0.044776130211615084,
+      "y": 0.6133720928857131
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01774696016871169,
+      "text": "义务履行 DNT（does not oblige）”做偷换兼反向干扰，从而曲解为“广告商有义务提供行为广告”。",
+      "width": 0.7739871665123088,
+      "x": 0.04690834539523131,
+      "y": 0.5912646676226017
+    },
+    {
+      "confidence": 1,
+      "height": 0.018041255110401222,
+      "text": "［技巧总结］Which 型细节题的解题思路是：根据选项关键词一一回文对应。正确项通常对应段落",
+      "width": 0.8402291584197239,
+      "x": 0.08734794180349548,
+      "y": 0.5709495097241043
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "主题，而干扰项或反向曲解、或偷换概念、或断章取义。如本题：纵观选项，［A］、［D］就广告商而言，可定",
+      "width": 0.8784648246108687,
+      "x": 0.04904050479477894,
+      "y": 0.5508474578286063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "位至②③句（anyone/some companies/some 指代“广告商”），但［A］与③句 ignore 相悖、［D］将②句 oblige",
+      "width": 0.8827291747580067,
+      "x": 0.046908334582617145,
+      "y": 0.5319426333313758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "对象“DNT”偷换为“行为广告”；［B］、［C］虽说就 DNT 而言，但全段均围绕 DNT 开展，故转而借选项内",
+      "width": 0.8805969705089328,
+      "x": 0.04690834628071467,
+      "y": 0.5116279070354224
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "部关键词做定位，［C］借 popularity among consumers 定位至③句 whether someone really objects to",
+      "width": 0.8827291747580067,
+      "x": 0.046908326586881696,
+      "y": 0.48956975205284614
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "behavioural ads （someone 指代 consumers），但选项未见句中中 whether“疑间”之意，也偷换了 consumers",
+      "width": 0.8848613790070805,
+      "x": 0.046908340746992516,
+      "y": 0.4693611474974183
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "的讨厌对象为“行为广告”；最终将正确项落在［B］。",
+      "width": 0.43283579955821283,
+      "x": 0.04690832082323911,
+      "y": 0.4491279067846956
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011792774772395376,
+      "text": "① Also unclear is why Microsoft has gone it",
+      "width": 0.3901918896297651,
+      "x": 0.11940299396443495,
+      "y": 0.4171511627332507
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "同样不清楚的是微软为何单独行动。毕",
+      "width": 0.35181235902396035,
+      "x": 0.5714285782065699,
+      "y": 0.4084302322970502
+    },
+    {
+      "confidence": 1,
+      "height": 0.011902591551142816,
+      "text": "alone.",
+      "width": 0.049179208438209554,
+      "x": 0.04683896639098287,
+      "y": 0.39811847157397773
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907236987034,
+      "text": "②",
+      "width": 0.023454157389828617,
+      "x": 0.10447761184346521,
+      "y": 0.3982558137506924
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013087080541459017,
+      "text": "After all, it has an ad business too, which it",
+      "width": 0.3795308975599009,
+      "x": 0.1300639716891329,
+      "y": 0.39825581382221276
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "竟，微软也有广告业务，据称也将遵从 DNT 请",
+      "width": 0.39445626895240804,
+      "x": 0.5287846626453311,
+      "y": 0.38787483720141325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "says will comply\" with DNT requests,though it is still",
+      "width": 0.4584221630205843,
+      "x": 0.0490405139054862,
+      "y": 0.37936046517764765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013200782268578903,
+      "text": "working out how. ⑧If it is trying to upset Google, which",
+      "width": 0.45842216302058436,
+      "x": 0.04904051190655233,
+      "y": 0.3617992175538305
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "求，不过如何实施还在研究中。如果微软这是",
+      "width": 0.39019188962976525,
+      "x": 0.5309168455750046,
+      "y": 0.3676662322172064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013210257464313035,
+      "text": "relies almost wholly on advertising，",
+      "width": 0.31130062416908166,
+      "x": 0.04904052466030619,
+      "y": 0.34289439368440444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418055249546,
+      "text": "it has chosen an",
+      "width": 0.14712152426375036,
+      "x": 0.36034115500565156,
+      "y": 0.3459302327419973
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157196119524817,
+      "text": "试图去击败几乎全部依赖厂告的合歌的话，那",
+      "width": 0.39445626895240804,
+      "x": 0.5287846547562054,
+      "y": 0.3487614083722159
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02218497747548087,
+      "text": "indirect method: there is no guarantee®that DNT by",
+      "width": 0.4630785736025633,
+      "x": 0.04673007777708096,
+      "y": 0.3217561473750389
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555729041665355,
+      "text": "它选择了一种间接的方法：无法保证DNT默",
+      "width": 0.39232409387883904,
+      "x": 0.5309168450861668,
+      "y": 0.327034883879198
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011938691916335231,
+      "text": "default will become the norm. ④ DNT does not seem an",
+      "width": 0.45842216302058436,
+      "x": 0.04904052222105104,
+      "y": 0.30813953481173906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "认值会成为行规。对Windows&而言，DNT",
+      "width": 0.39658847320148183,
+      "x": 0.5287846578555491,
+      "y": 0.30638852695628027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013232997685398873,
+      "text": "obviously huge selling point for Windows 8—though the",
+      "width": 0.4584221630205843,
+      "x": 0.04904051774343913,
+      "y": 0.28924418635128246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "看来并非一个明显巨大卖点——尽管此前微",
+      "width": 0.39445626895240793,
+      "x": 0.5287846554136326,
+      "y": 0.287483703031405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "firm has compared some of its other products favourably®",
+      "width": 0.45628995877151046,
+      "x": 0.04904051597671823,
+      "y": 0.2703488374402445
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "软曾将其他一些产品与谷歌同类产品在这一",
+      "width": 0.39445626895240804,
+      "x": 0.5287846537700647,
+      "y": 0.26727509762415036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "with Google's on that count beforc. ⑤圖 Brendon Lynch，",
+      "width": 0.45628995877151046,
+      "x": 0.04904051597671823,
+      "y": 0.25145348853036076
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "方面相比有优势。徽软首席隐私官布伦丹。",
+      "width": 0.39232409387883904,
+      "x": 0.5287846520797701,
+      "y": 0.2456395348842595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "Microsoft's chief privacy officer, blogged®： “We believe",
+      "width": 0.45628995877151046,
+      "x": 0.05117272240528945,
+      "y": 0.23255813986757012
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "林奇在其博客里写道：“我们认为消费者应该",
+      "width": 0.39232409387883904,
+      "x": 0.5309168442475031,
+      "y": 0.22674418607854252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "consumers should have more control. ”⑥ Could it really",
+      "width": 0.45842216302058436,
+      "x": 0.04904051190655233,
+      "y": 0.21511627902933472
+    },
+    {
+      "confidence": 1,
+      "height": 0.017690109615997374,
+      "text": "有更多控制权。”真的能这么简单吗？",
+      "width": 0.30916844909551267,
+      "x": 0.5309168411061173,
+      "y": 0.2046936113439206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696884,
+      "text": "be that simple？ ［434 words］",
+      "width": 0.23454157754522437,
+      "x": 0.046908313750486666,
+      "y": 0.19476744209140728
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.21321960799324813,
+      "x": 0.3688699411526296,
+      "y": 0.15116279039661418
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696884,
+      "text": "①comply ［kom'plan］v. 遵守；顺从",
+      "width": 0.2686567142406339,
+      "x": 0.046908319692049665,
+      "y": 0.1264534888573957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0179053185971495,
+      "text": "• 经典搭配",
+      "width": 0.11528775888009013,
+      "x": 0.5073881028642498,
+      "y": 0.12331478238489835
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013689700130378069,
+      "text": "②guarantee ［geran'ti］n. 保证",
+      "width": 0.24093816111694102,
+      "x": 0.0490405113125317,
+      "y": 0.11016949157212341
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322731231928187,
+      "text": "①go it alone（单独行动，独自干）",
+      "width": 0.2515991385990529,
+      "x": 0.5117270806365077,
+      "y": 0.10886571077711016
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011781404661852402,
+      "text": "③favourably ［ fervorbli］ad. 有利地",
+      "width": 0.285714289882215,
+      "x": 0.04904050607168575,
+      "y": 0.09447674401958794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "②comply with（顺从，遵从）",
+      "width": 0.21108741833192668,
+      "x": 0.5117270789203906,
+      "y": 0.08996088685202408
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014646690547699404,
+      "text": "④blog ［blog］v. 发博客",
+      "width": 0.18550105486955515,
+      "x": 0.04904051635520113,
+      "y": 0.07692307677223031
+    },
+    {
+      "confidence": 1,
+      "height": 0.011898896218589528,
+      "text": "25",
+      "width": 0.02345415738982859,
+      "x": 0.8912579961274026,
+      "y": 0.059322034192539674
+    }
+  ],
+  "vision_ocr_text": "．真题精解。\n29. Which of the following is true according to Paragraph 6？\n29.根据第六段，下面哪项正确？\n［A］ Advertisers are willing to implement DN'T.\n［A］广告商愿意实施“禁止追踪”。\nLB」 DNT may not serve its intended purpose.\n［B］“禁止追踪”可能不能取得预期目的。\n［CJ DNT is losing its popularity among consumers.\n［C］“禁止追踪”正在失去其消费者青睐度。\n［D］ Advertisers are obliged to offer behavioural ads.\n［D］广告商有责任提供“行”广告。\n［精准定位］第六段②③句指出：DNT信号并不意味着企业必须停止追踪；由于不知道消费者真实\n心理，企业很可能会忽略 DNT 默认信号。由此可知，DNT 可能并不能达到限制企业获取用户在线行为\n信息的预期目标，B正确。\n［命题解密］正确项［B］是对第六段②③句（尤其是③句 some may ignore a DN'T signal and press on\nanyway）的合理归纳。\n［A］与②句“广告商可能不会因 DNT信号而停止追踪用户信息”所暗传的“广告商并非乐意实施 DNT”\n及③句“广告商不予理睬 DNT 信号”相悖；［C］将③句“广告商不清楚消费者是否坚持 DNT 默认项”捏造出\n“DNT正在失去其对消费者的青睐”，而文意并不谈及 DNT 是否受到消费者欢迎；［D］首先将②句“广告商无\n义务履行 DNT（does not oblige）”做偷换兼反向干扰，从而曲解为“广告商有义务提供行为广告”。\n［技巧总结］Which 型细节题的解题思路是：根据选项关键词一一回文对应。正确项通常对应段落\n主题，而干扰项或反向曲解、或偷换概念、或断章取义。如本题：纵观选项，［A］、［D］就广告商而言，可定\n位至②③句（anyone/some companies/some 指代“广告商”），但［A］与③句 ignore 相悖、［D］将②句 oblige\n对象“DNT”偷换为“行为广告”；［B］、［C］虽说就 DNT 而言，但全段均围绕 DNT 开展，故转而借选项内\n部关键词做定位，［C］借 popularity among consumers 定位至③句 whether someone really objects to\nbehavioural ads （someone 指代 consumers），但选项未见句中中 whether“疑间”之意，也偷换了 consumers\n的讨厌对象为“行为广告”；最终将正确项落在［B］。\n① Also unclear is why Microsoft has gone it\n同样不清楚的是微软为何单独行动。毕\nalone.\n②\nAfter all, it has an ad business too, which it\n竟，微软也有广告业务，据称也将遵从 DNT 请\nsays will comply\" with DNT requests,though it is still\nworking out how. ⑧If it is trying to upset Google, which\n求，不过如何实施还在研究中。如果微软这是\nrelies almost wholly on advertising，\nit has chosen an\n试图去击败几乎全部依赖厂告的合歌的话，那\nindirect method: there is no guarantee®that DNT by\n它选择了一种间接的方法：无法保证DNT默\ndefault will become the norm. ④ DNT does not seem an\n认值会成为行规。对Windows&而言，DNT\nobviously huge selling point for Windows 8—though the\n看来并非一个明显巨大卖点——尽管此前微\nfirm has compared some of its other products favourably®\n软曾将其他一些产品与谷歌同类产品在这一\nwith Google's on that count beforc. ⑤圖 Brendon Lynch，\n方面相比有优势。徽软首席隐私官布伦丹。\nMicrosoft's chief privacy officer, blogged®： “We believe\n林奇在其博客里写道：“我们认为消费者应该\nconsumers should have more control. ”⑥ Could it really\n有更多控制权。”真的能这么简单吗？\nbe that simple？ ［434 words］\n•词汇注释与难句分析。\n①comply ［kom'plan］v. 遵守；顺从\n• 经典搭配\n②guarantee ［geran'ti］n. 保证\n①go it alone（单独行动，独自干）\n③favourably ［ fervorbli］ad. 有利地\n②comply with（顺从，遵从）\n④blog ［blog］v. 发博客\n25",
+  "pdf_text_layer": "：·真题信解. :;/\n 29. Which of the following is true according to Paragraph 6?      29. 根据第六段， 下面哪项正确 7\n\n [A] Advertisers are wi lling to impl ement DNT.                   [ A］ 广告商愿 意实施“禁止追踪” 。\n\n [ BJ DNT may not se rve it s int end ed purpose.                  ［ 曰“ 禁 止追踪”可能不能取得预期目的 。\n\n [ CJ D NT is los ing its popu larit y among cons umers.           [ CJ “禁 止追踪”正在失去其消费者青 睐度 。\n\n [ DJ Adverti ser s a re o bliged to offer behavioural ads.        [ DJ 广 告 商有 责 任提供“行为”广告 。\n\n      ［ 精准定位 ］第 六 段 ②③ 句指出： DNT 信号并不 意 味 着 企业必须 停 止追踪；由于不知道消费者 真 实\n心理，企业很可能 会 忽略 ONT 默认信号 。 由此可知， ONT 可能并不能达到限制企业获取用户在线行为\n信息的预期目标，［ BJ 正确 。\n      ［ 命题解密 ］正确项 ［ BJ 是 对第 六 段 ②③ 句（尤其 是③ 句 some ma y ignore a DNT signa l and press on\nanyway ）的合理归纳 。\n     [ A］ 与 ②句“广告商可能不 会 因 ONT 信号而停止追踪用户信息”所暗传的 “ 广告商并非乐意实施 DNT”\n及③句“广告商不予理睬 DNT 信 号 ”相悖； ［ CJ 将 ③ 句“广告商不清楚消费者 是 否坚持 DNT 默认项”捏造出\n“DNT 正在失去其对消费者的 青 i昧”，而文意并不谈及 DNT 是否受到消费者欢迎；［ DJ 首先将 ② 句“广告商无\n义务履行 DNT(does not oblige）”做偷换兼反向干扰 ， 从而曲解为“广告商有义务提供行为广告” 。\n      ［ 技巧总结 ］ Which 型细节题的解题思路是：根据选项关键词 一一 回文对应 。 正确项通常对应段落\n主题，而干扰项或反向曲解、或偷换概念、或断 章 取义 。 如本题：纵观选项， ［ A］ 、［ DJ 就广告商而 言 ，可定\n位至 ②③ 句（ anyone/ some compani es/ some 指代“广告商勺，但［ A］ 与 ③ 句 ignor e 相悖、［ DJ 将 ② 句 ob li ge\n对象“ DNT”偷换为“行为广告”； ［ 町、 ［ CJ 虽说就 DNT 而 言 ，但全段均围绕 ONT 开展，故转而借选项内\n部关键词做定位，［ CJ 借 popularity among consum e rs 定位至 ③ 句 wheth e r someone really objects to\nbehavioura l ads ( som e on e 指代 consumers ），但选项未见句中中 w h et h 巳r“疑问”之意，也偷换了 consumers\n的讨厌对象为“行为广 告 ”； 最终 将正确项落在［ BJ 。\n\n\n          0 Also uncl ear is why Microsoft has gone 1t               同样不清楚的是微软为何单独行动 。 毕\nalone. f} Aft er all , it has an ad business too, whi ch it\n                                                                 竟，微软也有广告业务，据称也将遵从 ONT 请\nsays wi ll comply( with ONT reque：山， though it is still\n                                                                 求，不过如何实施还在研究中 。 如采微软这是\nwork ing out how. @) If it is trying to upset Google , which\n                                                                 试图去击败几乎全部依赖广告的谷歌的话，那\nreli es almost wholl y on aclv e rti s 1n 日， it has chosen an\nindirect method: there is no guarantee® that DNT by              它选择了一种间接的方法 ： 无法保证 DNT 默\n\ndefau lt will become the norm . 。 ONT does not seem an           认值会成为行规 。       对 Windows 8 而言， DNT\n\nobviously huge selling point for Windows 8- though the           看来并非一个明显巨大卖点 一一尽管此前微\nfirm has compared some of its other products favourablycr,       软曾将其他一些产品与谷歌同类产品在这 一\nwith Google ’s on that count befor e. 0 囚 Brendon Lynch ,        方面相比有优势 。 微软首席隐私官布伦丹 －\nMicrosoft ’ s chief privacy officer, blo跑到:1® ：“ We beli eve     J林奇在其博客里写道：“我们认为消费者应该\ncons umers should have more contro l. ”。 Cou l d it rea ll y\n                                                                 有更多控制权 。 ”具的能这么简单吗？\nbe t hat simple? [ 434 words]\n\n\n\n                                           ：＿：. ：司同时在旬：耸听＜ 1'\n( <: omply [ kam'plar] v .   边．守 ； JI阪 从\n② guar川山e [ g皮 ran'ti: ] n. 保证\n( favourably [ 1fe1varabl1] a d . 有 利 J也\n                                                          :\n                                                          $     ·经典搭配\n                                                                ( go it alo时单独行动，独自 干 ）\n                                                          ！② co m 川l川队遵从 ）\n( blog [ bl 口g] v. 发筒、 客\n                                                                                                 25",
+  "quality": {
+    "vision_line_count": 63,
+    "vision_character_count": 2251,
+    "pdf_text_character_count": 3352,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P014",
+  "year": 2014,
+  "pdf_page": 14,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.019898945677514157,
+      "text": "•真题精解•：>",
+      "width": 0.15769942418825583,
+      "x": 0.42753326550569876,
+      "y": 0.9064749456860484
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014688782286799706,
+      "text": "24. According to Paragraph 3, being unemployed makes one",
+      "width": 0.5063829677771791,
+      "x": 0.0787234098702757,
+      "y": 0.8735465117770438
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019092947517345138,
+      "text": "24.根据第三段可知，失业会使人们感",
+      "width": 0.3382978768184268,
+      "x": 0.5978723410056802,
+      "y": 0.871895424612211
+    },
+    {
+      "confidence": 1,
+      "height": 0.0091503267973857,
+      "text": "feel",
+      "width": 0.03191489369476434,
+      "x": 0.11489361751431994,
+      "y": 0.8588235294434331
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "到",
+      "width": 0.019148936216858647,
+      "x": 0.6382978723968898,
+      "y": 0.8561046513724895
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013337892644545657,
+      "text": "-。",
+      "width": 0.017021276028220234,
+      "x": 0.7127659578369537,
+      "y": 0.8529411766694641
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013226065292857081,
+      "text": "［AJ uneasy",
+      "width": 0.09791374937327885,
+      "x": 0.07870270134103496,
+      "y": 0.8284160369006838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015245017506717917,
+      "text": "［A］ 不安",
+      "width": 0.08324039210761647,
+      "x": 0.5998691663410892,
+      "y": 0.8281333052668708
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013275483698626744,
+      "text": "［B］ insulted",
+      "width": 0.1043073719945447,
+      "x": 0.07869737616672437,
+      "y": 0.8022285377532383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013360692940506236,
+      "text": "［B］受辱",
+      "width": 0.07659574486743448,
+      "x": 0.6021276593747934,
+      "y": 0.8023255817034322
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014792651132820467,
+      "text": "［C］ enraged",
+      "width": 0.10468833017166547,
+      "x": 0.07850689961548561,
+      "y": 0.7738536748157182
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013280893462935262,
+      "text": "LCJ愤怒",
+      "width": 0.0808510615907867,
+      "x": 0.6000000016970078,
+      "y": 0.7745098039942431
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015879604863185515,
+      "text": "［D］ guilty",
+      "width": 0.0940467352154611,
+      "x": 0.07425322719919426,
+      "y": 0.7449671742679461
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01311559490129055,
+      "text": "LD」内疚",
+      "width": 0.08085106159078659,
+      "x": 0.6000000005419928,
+      "y": 0.7470588233407716
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "［精准定位］第三段集中论述了失业带给人们的打击：经济窘迫，心理尴尬，感到不被需要，失去原有",
+      "width": 0.8425531496946839,
+      "x": 0.10212766993989231,
+      "y": 0.7194767446243957
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "的目标感及有序感，无比渴望早日找到工作。可见，失业令人内心恐慌不安，［A］正确。",
+      "width": 0.7382978534333093,
+      "x": 0.06808512321951538,
+      "y": 0.7005813952329105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "［命题解密］正确项［A］ uneasy 体现了第三段关键词汇 hurting.•. financially terrifying..",
+      "width": 0.8425531496946839,
+      "x": 0.10212766993989231,
+      "y": 0.681686046949977
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "psychologically embarrassing...not wanted 所述失业者困境。",
+      "width": 0.5191489033315374,
+      "x": 0.0659574675540894,
+      "y": 0.6627450982107812
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "［B］将①句 hurting（痛苦的，受伤的）错误理解 insulted（被侮辱的，被冒犯的）。LC］对②句 that",
+      "width": 0.8446808445956059,
+      "x": 0.10425531182453776,
+      "y": 0.6437908496695297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "support is minimal and extraordinarily bard to get 过度推导：文中只说明实情“失业金极低且极难获得”，",
+      "width": 0.8829787097214739,
+      "x": 0.06595744482011417,
+      "y": 0.6248366011619191
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "未指出失业者感到愤怒。［D］对②句 psychologically embarrassing 断章取义：由③句解释可知，该短语并",
+      "width": 0.8787233783824233,
+      "x": 0.06808512664212149,
+      "y": 0.6058823527505444
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014605183071560335,
+      "text": "非指“内疚感”而是“不被需要感”",
+      "width": 0.27872341346009943,
+      "x": 0.06808509978970713,
+      "y": 0.5886627910060027
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "［技巧总结］本题需要综合段中描述，概括出失业者心理。解题时可从两个方向同时人手，一，概括",
+      "width": 0.8446808445956058,
+      "x": 0.10212766419155878,
+      "y": 0.5666666664487607
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "相关内容，得出正确项；二，关联段中信息，借助相关内容理解较抽象晦涩、或容易产生歧义的表述，排",
+      "width": 0.8787233783824233,
+      "x": 0.06808512559602237,
+      "y": 0.5494186045933755
+    },
+    {
+      "confidence": 1,
+      "height": 0.014574783300262517,
+      "text": "除断章取义或过度推导的选项。",
+      "width": 0.2702127507819983,
+      "x": 0.06808511734836246,
+      "y": 0.5305232562053384
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "具体来看，解题时可首先综合第三段关键词 hurting... financially terrifying... psychologically",
+      "width": 0.8404255132565553,
+      "x": 0.10851064162400204,
+      "y": 0.5116279067736083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "cmbarrassing...not wanted.•等，大概得出［A］ uneasy 正确。随后可发现，文中与［B］insulted 相关的信息",
+      "width": 0.8808510732833452,
+      "x": 0.06595744340088058,
+      "y": 0.4912790695640318
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "为hurting，但根据①句冒号后及②句对其解释，可发现并非此意。与LCJ enraged 相关的信息为 you know",
+      "width": 0.8808510732833453,
+      "x": 0.06808511046471022,
+      "y": 0.4723837208724454
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017753457711413012,
+      "text": "that support is minimal and extraordinarily hard to get，但从中无法得知失业者的“愤怒”。与［D］ guilty 相关",
+      "width": 0.8808510732833453,
+      "x": 0.06595744735832734,
+      "y": 0.4534883722384504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017694558037651853,
+      "text": "的信息为 psychologically embarrassing，但由③句对其解释，可知并非指“内疚感”。从而最终确定［A］。",
+      "width": 0.8382978768184267,
+      "x": 0.06808510869716951,
+      "y": 0.4345930234012412
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014683082056980545,
+      "text": "I OBut in Osborneland, your first instinct\" is to fall",
+      "width": 0.44680850441885184,
+      "x": 0.10851064151397834,
+      "y": 0.4039215685327394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014605183071560224,
+      "text": "但在奧斯本世界，你的第一本能是陷入",
+      "width": 0.32553191203267184,
+      "x": 0.6170212820953661,
+      "y": 0.3967320259120549
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014595683104072443,
+      "text": "into dependency®",
+      "width": 0.14042552494911398,
+      "x": 0.06808511220629397,
+      "y": 0.3836601306518296
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01314219431160324,
+      "text": "permanent dependency if you can get",
+      "width": 0.31914891502409604,
+      "x": 0.23617021801986704,
+      "y": 0.3836601308587534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "依赖—若能够得到，你希望能永远依",
+      "width": 0.3659574428280651,
+      "x": 0.5765957497207191,
+      "y": 0.37645348883615226
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "it — supported by a state only too ready® to indulge your",
+      "width": 0.48723403521424513,
+      "x": 0.06808511198862212,
+      "y": 0.36337209355998945
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "赖——它被一个非常愿意纵容你错误的政",
+      "width": 0.3638297771585398,
+      "x": 0.5787234129313683,
+      "y": 0.35610465164138483
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "falschood®. ②巴 It is as though 20 years of ever-tougher",
+      "width": 0.4872340352142451,
+      "x": 0.06808511614287731,
+      "y": 0.343023256324977
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "府所支持。这好像二十年来日益严厉的求",
+      "width": 0.3659574428280651,
+      "x": 0.5765957447987334,
+      "y": 0.3339869283650677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458048290676539,
+      "text": "reforms of the job search and benefit administration",
+      "width": 0.48936170088377035,
+      "x": 0.06595745150846939,
+      "y": 0.32267441902026095
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "职和救济管理体系改革从来都没有发生过。",
+      "width": 0.36808510849759035,
+      "x": 0.5765957473043963,
+      "y": 0.31372549028309193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013360692940506347,
+      "text": "system never happened. ⑧ The principle of British welfare",
+      "width": 0.4872340352142451,
+      "x": 0.06808511614287731,
+      "y": 0.3023255817397693
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "英国福利制度的原则不再是“为防失业风险",
+      "width": 0.3659574428280651,
+      "x": 0.5765957503306482,
+      "y": 0.2947712417433259
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "is no longer that you can insure® yourself against the risk",
+      "width": 0.4872340352142451,
+      "x": 0.06808511079713271,
+      "y": 0.2816993466427101
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "而给自己投保，从而在灾难发生时无条件获",
+      "width": 0.3638297771585398,
+      "x": 0.5787234129313683,
+      "y": 0.27450980411024806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "of unemployment and receive unconditional® payments®if",
+      "width": 0.48723403521424513,
+      "x": 0.06808510396202652,
+      "y": 0.26143790856901483
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "得付款。甚至“求职者津贴”这一术语就是",
+      "width": 0.3659574428280652,
+      "x": 0.5765957512455417,
+      "y": 0.25290697732788403
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01333029316920853,
+      "text": "the disaster happens. ④Even the very phrase \"jobseeker's",
+      "width": 0.48723403521424513,
+      "x": 0.06808511476876376,
+      "y": 0.24248366024727208
+    },
+    {
+      "confidence": 1,
+      "height": 0.014559583102955576,
+      "text": "意在将失业者定义为不具有领取救济金这",
+      "width": 0.3638297771585399,
+      "x": 0.5765957451707302,
+      "y": 0.23398692806089239
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014696382385453344,
+      "text": "allowance”is about redefining the unemployed",
+      "width": 0.43191487396357164,
+      "x": 0.06808512340828485,
+      "y": 0.2222222219227744
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.009150326797385588,
+      "text": "as a",
+      "width": 0.044680851172670066,
+      "x": 0.5085106376849416,
+      "y": 0.2222222223307443
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "一基本权利的“求职者”，而这一权利是他或",
+      "width": 0.3638297771585399,
+      "x": 0.5765957451707302,
+      "y": 0.21366279109968633
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013155494640076038,
+      "text": "\"jobseeker” who had no fundamental right to a benefit he",
+      "width": 0.48723403521424513,
+      "x": 0.06808511492479231,
+      "y": 0.20196078418338126
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "她通过缴纳国民保险所赢得的。取而代之",
+      "width": 0.3638297771585399,
+      "x": 0.5765957466866876,
+      "y": 0.1933139538070825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013085195129992955,
+      "text": "or she has earned through making national insurance",
+      "width": 0.4872340352142451,
+      "x": 0.06808511614287731,
+      "y": 0.1816860468560484
+    },
+    {
+      "confidence": 1,
+      "height": 0.01461658228456586,
+      "text": "的是，申请人获得一种具有时限、附带积极",
+      "width": 0.3659574428280651,
+      "x": 0.5765957503306482,
+      "y": 0.1729651167576639
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01176470588235301,
+      "text": "contributions. 5 Instead, the claimant receives a time-",
+      "width": 0.48510636954471986,
+      "x": 0.06808511916381013,
+      "y": 0.16274509793059555
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016011172026590637,
+      "text": "寻找工作的条件的“津贴”；没有权利，没有",
+      "width": 0.3638297771585398,
+      "x": 0.5787234123249854,
+      "y": 0.1526162790240927
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019048568625855244,
+      "text": "limited “allowance，\" conditional on actively seeking a job；",
+      "width": 0.4855885706642122,
+      "x": 0.06788627711672675,
+      "y": 0.13945789125919206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "保障，有的只是一周71.7鎊，欧盟最低的",
+      "width": 0.3638297771585399,
+      "x": 0.5765957466866876,
+      "y": 0.13202614399121093
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016727455612880693,
+      "text": "no entitlement® and no insurance®，at £71.70 a week，",
+      "width": 0.4853624658109585,
+      "x": 0.06800870042875347,
+      "y": 0.12058762897102027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014688782286799817,
+      "text": "补貼。",
+      "width": 0.05106382991162295,
+      "x": 0.5765957451292949,
+      "y": 0.11176470572297825
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "one of the least generous in the EU.［424 words］",
+      "width": 0.4170212727396881,
+      "x": 0.06595745123653886,
+      "y": 0.0986928106138838
+    },
+    {
+      "confidence": 1,
+      "height": 0.01045751665152761,
+      "text": "14",
+      "width": 0.021276594578534716,
+      "x": 0.08297872377456243,
+      "y": 0.06078431353684999
+    }
+  ],
+  "vision_ocr_text": "•真题精解•：>\n24. According to Paragraph 3, being unemployed makes one\n24.根据第三段可知，失业会使人们感\nfeel\n到\n-。\n［AJ uneasy\n［A］ 不安\n［B］ insulted\n［B］受辱\n［C］ enraged\nLCJ愤怒\n［D］ guilty\nLD」内疚\n［精准定位］第三段集中论述了失业带给人们的打击：经济窘迫，心理尴尬，感到不被需要，失去原有\n的目标感及有序感，无比渴望早日找到工作。可见，失业令人内心恐慌不安，［A］正确。\n［命题解密］正确项［A］ uneasy 体现了第三段关键词汇 hurting.•. financially terrifying..\npsychologically embarrassing...not wanted 所述失业者困境。\n［B］将①句 hurting（痛苦的，受伤的）错误理解 insulted（被侮辱的，被冒犯的）。LC］对②句 that\nsupport is minimal and extraordinarily bard to get 过度推导：文中只说明实情“失业金极低且极难获得”，\n未指出失业者感到愤怒。［D］对②句 psychologically embarrassing 断章取义：由③句解释可知，该短语并\n非指“内疚感”而是“不被需要感”\n［技巧总结］本题需要综合段中描述，概括出失业者心理。解题时可从两个方向同时人手，一，概括\n相关内容，得出正确项；二，关联段中信息，借助相关内容理解较抽象晦涩、或容易产生歧义的表述，排\n除断章取义或过度推导的选项。\n具体来看，解题时可首先综合第三段关键词 hurting... financially terrifying... psychologically\ncmbarrassing...not wanted.•等，大概得出［A］ uneasy 正确。随后可发现，文中与［B］insulted 相关的信息\n为hurting，但根据①句冒号后及②句对其解释，可发现并非此意。与LCJ enraged 相关的信息为 you know\nthat support is minimal and extraordinarily hard to get，但从中无法得知失业者的“愤怒”。与［D］ guilty 相关\n的信息为 psychologically embarrassing，但由③句对其解释，可知并非指“内疚感”。从而最终确定［A］。\nI OBut in Osborneland, your first instinct\" is to fall\n但在奧斯本世界，你的第一本能是陷入\ninto dependency®\npermanent dependency if you can get\n依赖—若能够得到，你希望能永远依\nit — supported by a state only too ready® to indulge your\n赖——它被一个非常愿意纵容你错误的政\nfalschood®. ②巴 It is as though 20 years of ever-tougher\n府所支持。这好像二十年来日益严厉的求\nreforms of the job search and benefit administration\n职和救济管理体系改革从来都没有发生过。\nsystem never happened. ⑧ The principle of British welfare\n英国福利制度的原则不再是“为防失业风险\nis no longer that you can insure® yourself against the risk\n而给自己投保，从而在灾难发生时无条件获\nof unemployment and receive unconditional® payments®if\n得付款。甚至“求职者津贴”这一术语就是\nthe disaster happens. ④Even the very phrase \"jobseeker's\n意在将失业者定义为不具有领取救济金这\nallowance”is about redefining the unemployed\nas a\n一基本权利的“求职者”，而这一权利是他或\n\"jobseeker” who had no fundamental right to a benefit he\n她通过缴纳国民保险所赢得的。取而代之\nor she has earned through making national insurance\n的是，申请人获得一种具有时限、附带积极\ncontributions. 5 Instead, the claimant receives a time-\n寻找工作的条件的“津贴”；没有权利，没有\nlimited “allowance，\" conditional on actively seeking a job；\n保障，有的只是一周71.7鎊，欧盟最低的\nno entitlement® and no insurance®，at £71.70 a week，\n补貼。\none of the least generous in the EU.［424 words］\n14",
+  "pdf_text_layer": "：：：~：：草草：精单：：~：：： 1'\n 24. According to Paragraph 3, being unemployed makes one                 24. 根据第 三段可知 ，失 业会使人们感\n       feel                                                                     到    。\n\n\n\n\n [ A］ 川easy                                                               [ A ］不安\n\n [ BJ ins ulted                                                           [ BJ 受辱\n\n [CJ enrag巳d                                                              [CJ 愤怒\n\n [ DJ gu ilty                                                             [ DJ 内 疚\n\n       ［精准定位］ 第 三 段 集 中论述了失业带给人们的打－ 击： 经济窘 迫，心理尴尬，感到不被需要，失去原有\n的 目标感及有序感，无比渴望早日找到工作 。 可见，失业 令 人内心恐慌不安， ［ A］正确 。\n       ［命题解密］ 正确项 ［ A] un easy 体 现了第 三 段关键词汇 hurting. . . fin a ncia ll y t errif ymg ...\npsycho logica ll y embarrass in g . . . not wanted 所述失业者 ｜利境 。\n       [ BJ 将 ① 句 hurting （痛苦的，受伤的）错误理解为 insu l t ed （被侮辱 的，被 冒 犯的） 。［ CJ 对 ② 句 that\nsupport is minima l and extraordin a ril y ha rd to get 过度推导：文中只说明实情“失业金极低且极难获得”，\n未指 出 失业者感到愤怒 。［ DJ 对 ②句 psychologically em ba rrass in g 断章取义 ：由 ③ 句解释可知，该短语并\n非指“内 疚感” 而 是“不被需要感” 。\n       ［技巧总结］ 本题需要综合段中 tiW 述，概括出 失 业 者 心理 。 解题时可从两个方向同时入手：一，概括\n相关内容，得 ti：＼ 正确项； 二 ， 关联段 中信息，借助相关内容理解较为抽象 H每涩、或容易产生歧义的表述，排\n除 断 章取义或过度推导的选顷 。\n       具｛本 来看，解题 日才可 首先综，合第 ＝气 段关键同 hurtin\ncm barn证ss in g . .. not wa口1巳d ... 等：，大 概得 1-H [ A] un巳asy 正确 。 ｜随后可 发 现，文中与 ［ BJ in su l ted 相 关 的信息\n为 hurt:i 吨，但根据①句冒号后及 ② 句对其解释，可发现并非 此 意。与［ CJ enraged 相 关 的信息为 yo u know\nth at support is minimal and extraordinaril y ha rd to get ，但从中无法得知失业者的“愤怒” 。 与［ DJ gu ilty 相关\n的 信息为 psycho l ogi ca ll y embarrassing ，但由③句 对其解释，可知并非 指“内 疚感”。 从而 最终 确定 ［ A］ 。\n\n          O But in Osborneland, yo ur first instinct'( is to fa ll\n                                                                            但在奥斯本世界，你的第一本能是陷入\ninto dependency®         perman ent dependency if yo u can get\n                                                                        依赖 一一一 若能够得到 ， 你希望能永远依\nit -   s upported by a state onl y too read yCll to indulge yo ur\n                                                                        赖 一－一 它被一个非常足、意纵容你错误的政\nfa lsehood@. 8 回 It is as th o ug h 20 years o f ever tough er\n                                                                        府所支持 。 这好像 二 十年来日益严厉的求\nreforms of the job searc h and            be 1巳f i t adm inistrat ion\n                                                                        职和救济管理体系改革从来都没有发生过 。\nsys t em never ha ppened. @Th e princip le of Br i t i ιh we lfare\n                                                                        英国福利制度的原则不再是 “ 为防失业风险\nis no longer that yo u can insure® yo ur se lf aga inst the ri s k\n                                                                        而给自己投保，从而在灾难发生时无条件获\no f unemployment a nd r巴cei ve unconditional@ payments(            if\n                                                                        得付款 。 甚至“求职者津贝占”这一术语就是\nth e di saste r happe ns. OEve n t he ve ry phrase “ jobseeke r 's\n                                                                        意在将失业者定义为不具有领取救济金这\na ll owa nce ”   is a bo ut   red efinin g t he un emp loyed as a\n                                                                        一基本权利的“求职者”，而这一权利是他或\n“ jo bseeke ,” w ho had no funda r内 e n ta l ri g ht tc a benefit he\n                                                                        她通过缴纳国民保险所 赢 得的 。 取而代之\nor s he has ea rn ed throu g h making na ti onal insurance\n                                                                        的是，申请人获得 一 种具有时限、附带积极\nco ntribution 日，   0 Inst ead,    th e claim a nt receives a t im e-\n                                                                        寻找工作的条件的“津贴”；没有权利，没有\nlimi ted “ a llowa nce,\" conditiona l on act ive ly seeking a job;\n                                                                        保障，有的只是 一 周 71. 7 镑，欧盟最低的\nno entitlement® a nd no insurance® , a t £ 71. 70 a wee k,\n                                                                        手卡贴 。\none of th e leas t ge nero us in t he EU. ［ι24 wo rd s]\n\n\n  14",
+  "quality": {
+    "vision_line_count": 64,
+    "vision_character_count": 2219,
+    "pdf_text_character_count": 4053,
+    "nonempty": true
+  }
+}

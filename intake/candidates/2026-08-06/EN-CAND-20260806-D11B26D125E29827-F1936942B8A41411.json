@@ -1,0 +1,857 @@
+{
+  "article_id": "RAW-ARTICLE-20260710-001",
+  "article_source_hash": "455ef9a81527a0b6aad26db4c6e09f37ec5bf0f3ec84642f6d6d69d13ce5dfc9",
+  "candidate_id": "EN-CAND-20260806-D11B26D125E29827-F1936942B8A41411",
+  "capture_coverage": {
+    "covered_signal_count": 6,
+    "declared_signal_count": 6,
+    "schema_version": "english_candidate_coverage_v2",
+    "unmatched_signal_ids": []
+  },
+  "capture_event_ids": [
+    "EVT-20260806-507660196D4F941D",
+    "EVT-20260806-8F4D09BF50F3F1B3",
+    "EVT-20260806-4DF6447806282008"
+  ],
+  "capture_event_sha256": {
+    "EVT-20260806-4DF6447806282008": "3ad0a45b4fb435e909f77027c181b2f2ce81cb8bb1c11c0d3572b3391dadae62",
+    "EVT-20260806-507660196D4F941D": "b34a07b978b75013521a4d99d69c87d4cad53d9717cb1efcf58f3514b9b10e08",
+    "EVT-20260806-8F4D09BF50F3F1B3": "13fa1f9647e6206a627def21534cd3ac68ffb9af904c4550b05f623b760b40a7"
+  },
+  "created_at": "2026-08-06T19:42:55.016862Z",
+  "evidence_manifest": {
+    "evidence_manifest_sha256": "a6151fdd234c448a4d7e3bd51b8406460ea6ce1210d4261b2474e46271fc7aad",
+    "object_count": 15,
+    "objects": [
+      {
+        "bytes": 48,
+        "evidence_id": "EVT-20260806-507660196D4F941D.source_sentence",
+        "evidence_ref": "EVT-20260806-507660196D4F941D.source_sentence",
+        "kind": "source_sentence",
+        "role": "source_sentence",
+        "sequence": 1,
+        "sha256": "3085f5d215494635c30901844f589c6f7a4d6b3c3ad3ed33a8822417b059e6d4",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 208,
+        "evidence_id": "EVT-20260806-507660196D4F941D.user_first_translation",
+        "evidence_ref": "EVT-20260806-507660196D4F941D.user_first_translation",
+        "kind": "user_first_translation",
+        "role": "user_first_translation",
+        "sequence": 2,
+        "sha256": "a54b2a021677e904c885244837d54af23625faf69d067e29109306eaa6130cc3",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 131,
+        "evidence_id": "EVT-20260806-507660196D4F941D.user_evidence_verbatim",
+        "evidence_ref": "EVT-20260806-507660196D4F941D.user_evidence_verbatim",
+        "kind": "user_evidence_verbatim",
+        "role": "user_evidence_verbatim",
+        "sequence": 3,
+        "sha256": "3947b19a0c54bb7b80df3623a83aea69e5445c04ef293bcac54ef8681b0bf847",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 57,
+        "evidence_id": "EVT-20260806-507660196D4F941D.corrected_meaning",
+        "evidence_ref": "EVT-20260806-507660196D4F941D.corrected_meaning",
+        "kind": "corrected_meaning",
+        "role": "corrected_meaning",
+        "sequence": 4,
+        "sha256": "a1dd03ff3a7f4709a557011d9dba5e410a14b13f13a39c7fe8db1731c4dd5c97",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 118,
+        "evidence_id": "EVT-20260806-507660196D4F941D.teaching_explanation",
+        "evidence_ref": "EVT-20260806-507660196D4F941D.teaching_explanation",
+        "kind": "teaching_explanation",
+        "role": "teaching_explanation",
+        "sequence": 5,
+        "sha256": "0a4534084b1c369b5d08e72aeff57518d36e6ed501cfecfa8e630408dec6ef29",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 49,
+        "evidence_id": "EVT-20260806-8F4D09BF50F3F1B3.source_sentence",
+        "evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3.source_sentence",
+        "kind": "source_sentence",
+        "role": "source_sentence",
+        "sequence": 6,
+        "sha256": "6532054d55562a64a90e8b862f03b6cf06e0884842459544d630b4969d1a48c1",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 248,
+        "evidence_id": "EVT-20260806-8F4D09BF50F3F1B3.user_first_translation",
+        "evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3.user_first_translation",
+        "kind": "user_first_translation",
+        "role": "user_first_translation",
+        "sequence": 7,
+        "sha256": "9684b57274c546bf35c6f3be7414ba1f32c0ebbff5601f12a3573ba12c9782c0",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 113,
+        "evidence_id": "EVT-20260806-8F4D09BF50F3F1B3.user_evidence_verbatim",
+        "evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3.user_evidence_verbatim",
+        "kind": "user_evidence_verbatim",
+        "role": "user_evidence_verbatim",
+        "sequence": 8,
+        "sha256": "2e2b61de950dfe0ee4c48589f786bd75ef3622dc801f629b172560d974665289",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 48,
+        "evidence_id": "EVT-20260806-8F4D09BF50F3F1B3.corrected_meaning",
+        "evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3.corrected_meaning",
+        "kind": "corrected_meaning",
+        "role": "corrected_meaning",
+        "sequence": 9,
+        "sha256": "b31b1e592ba4d8f424a01769f34f77c5cfe19340b3e479ea2a91f358e1f2ea5e",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 111,
+        "evidence_id": "EVT-20260806-8F4D09BF50F3F1B3.teaching_explanation",
+        "evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3.teaching_explanation",
+        "kind": "teaching_explanation",
+        "role": "teaching_explanation",
+        "sequence": 10,
+        "sha256": "be096fb403a61cb15c2e7f48a4d13a29018a05b1c4990273fcfb1d19d9c8b8c3",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 47,
+        "evidence_id": "EVT-20260806-4DF6447806282008.source_sentence",
+        "evidence_ref": "EVT-20260806-4DF6447806282008.source_sentence",
+        "kind": "source_sentence",
+        "role": "source_sentence",
+        "sequence": 11,
+        "sha256": "1de84d8e79d69502952319dccc07a6d32652a9b7b48ab3dace250cb1eba0b6c9",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 78,
+        "evidence_id": "EVT-20260806-4DF6447806282008.user_first_translation",
+        "evidence_ref": "EVT-20260806-4DF6447806282008.user_first_translation",
+        "kind": "user_first_translation",
+        "role": "user_first_translation",
+        "sequence": 12,
+        "sha256": "a72367d02a0fb5778a3a3979abe82a9d238b89b6a85ffc85ab494d567d27957f",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 164,
+        "evidence_id": "EVT-20260806-4DF6447806282008.user_evidence_verbatim",
+        "evidence_ref": "EVT-20260806-4DF6447806282008.user_evidence_verbatim",
+        "kind": "user_evidence_verbatim",
+        "role": "user_evidence_verbatim",
+        "sequence": 13,
+        "sha256": "4f19b2286f4b887871e073abe6d46162d0d1dd26183269424c99768f75161614",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 48,
+        "evidence_id": "EVT-20260806-4DF6447806282008.corrected_meaning",
+        "evidence_ref": "EVT-20260806-4DF6447806282008.corrected_meaning",
+        "kind": "corrected_meaning",
+        "role": "corrected_meaning",
+        "sequence": 14,
+        "sha256": "8548ecc1b15b406eb31135406b31b4252ee50dbb038a2e671f4b0e379bd01d72",
+        "source": "english_capture_event_v2"
+      },
+      {
+        "bytes": 159,
+        "evidence_id": "EVT-20260806-4DF6447806282008.teaching_explanation",
+        "evidence_ref": "EVT-20260806-4DF6447806282008.teaching_explanation",
+        "kind": "teaching_explanation",
+        "role": "teaching_explanation",
+        "sequence": 15,
+        "sha256": "9eabf3e43aeda7b33eb368c845629ad24844e7f278d3f388c8bd44f8dd2a4cb3",
+        "source": "english_capture_event_v2"
+      }
+    ],
+    "schema_version": "study-intake-evidence-manifest-v1",
+    "total_bytes": 1627
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none",
+  "items": [
+    {
+      "bank_match_ids": [
+        "20260806-003"
+      ],
+      "bank_status": "existing_bank",
+      "candidate_status": "familiarity_candidate",
+      "candidate_type": "单词",
+      "card": {
+        "adopted_pattern": "Many factors contribute to [PHENOMENON_OR_TENDENCY].",
+        "example_translation": "许多因素促成了怀孕员工在广泛的工作场所分享经验和专业知识的能力，包括支持性政策和弹性安排。",
+        "meaning": "怀孕的",
+        "old_word_example": "Many factors contribute to the ability of pregnant employees to share experience and expertise across a broad range of workplaces, including supportive policies and flexible schedules.",
+        "review_note": "pregnant 是形容词，作前置定语修饰 employees 或 celebrities，表示“怀孕的”。",
+        "review_old_words": [
+          "a broad range of"
+        ],
+        "structure_breakdown": "pregnant 修饰 employees；the ability of pregnant employees to share... 是 contribute to 的名词短语。",
+        "usage": "pregnant celebrities 中，pregnant 是形容词，作前置定语修饰 celebrities。"
+      },
+      "evidence_origin": "live_user",
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "grounding": {
+        "naturalness_check": "生成例句为新模型例句；a broad range of 自然修饰 workplaces，未改变目标词义。",
+        "old_word_sources": [
+          {
+            "item": "a broad range of",
+            "source_id": "20260703-025",
+            "source_type": "four_layer_matches.user_old_word_candidates"
+          }
+        ],
+        "sentence_pattern": {
+          "note": "未采用不相关的候选句型。",
+          "reference_ids": [],
+          "status": "not_requested"
+        },
+        "status": "passed",
+        "syllabus_occurrence": {
+          "note": "share、experience、expertise 均自然出现。",
+          "reference_ids": [
+            "SYL-VOCAB-P058-L01",
+            "SYL-VOCAB-P027-L11",
+            "SYL-VOCAB-P027-L14"
+          ],
+          "status": "verified"
+        },
+        "user_evidence_ref": "EVT-20260806-507660196D4F941D:learning.user_evidence_verbatim",
+        "writing_pattern": {
+          "note": "使用 Many factors contribute to 加名词短语，并展开两个因素。",
+          "reference_ids": [
+            "WRITING-APPROVED-PATTERN-011"
+          ],
+          "status": "approved"
+        },
+        "writing_vocabulary": {
+          "note": "share experience and expertise 使用自然。",
+          "reference_ids": [
+            "WRITING-APPROVED-VOCAB-046"
+          ],
+          "status": "approved"
+        }
+      },
+      "item": "pregnant",
+      "item_id": "SIG-F4B2553AA84F5F4E",
+      "mastered_status": "clear",
+      "mastery_proposal": null,
+      "sentence_record_id": "SENT-04A0AAE5A1399D9E",
+      "sequence": 1,
+      "source_event_id": "EVT-20260806-507660196D4F941D",
+      "source_signal_ids": [
+        "SIG-F4B2553AA84F5F4E"
+      ],
+      "tier": "A",
+      "user_evidence": [
+        "unknown"
+      ]
+    },
+    {
+      "bank_match_ids": [
+        "20260806-004"
+      ],
+      "bank_status": "existing_bank",
+      "candidate_status": "familiarity_candidate",
+      "candidate_type": "单词",
+      "card": {
+        "adopted_pattern": "Many factors contribute to [PHENOMENON_OR_TENDENCY].",
+        "example_translation": "许多因素促成了涵盖广泛学科的趣味教育播客的受欢迎程度，包括生动的叙事和分享经验与专业知识的专家主持人。",
+        "meaning": "有趣的；具有娱乐性的",
+        "old_word_example": "Many factors contribute to the popularity of entertaining educational podcasts across a broad range of subjects, including vivid storytelling and expert hosts who share experience and expertise.",
+        "review_note": "entertaining 描述事物带给人的感受；本句不是 entertained。",
+        "review_old_words": [
+          "a broad range of"
+        ],
+        "structure_breakdown": "entertaining 修饰 educational podcasts；the popularity of entertaining educational podcasts 是 contribute to 的名词短语。",
+        "usage": "news ... is entertaining 中，entertaining 作表语，表示新闻本身令人觉得有趣；不要与 entertained 混淆。"
+      },
+      "evidence_origin": "live_user",
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "grounding": {
+        "naturalness_check": "生成例句为新模型例句；entertaining 作形容词修饰 podcasts，a broad range of 自然修饰 subjects。",
+        "old_word_sources": [
+          {
+            "item": "a broad range of",
+            "source_id": "20260703-025",
+            "source_type": "four_layer_matches.user_old_word_candidates"
+          }
+        ],
+        "sentence_pattern": {
+          "note": "未采用不相关的候选句型。",
+          "reference_ids": [],
+          "status": "not_requested"
+        },
+        "status": "passed",
+        "syllabus_occurrence": {
+          "note": "share、experience、expertise 均自然出现。",
+          "reference_ids": [
+            "SYL-VOCAB-P058-L01",
+            "SYL-VOCAB-P027-L11",
+            "SYL-VOCAB-P027-L14"
+          ],
+          "status": "verified"
+        },
+        "user_evidence_ref": "EVT-20260806-507660196D4F941D:learning.user_evidence_verbatim",
+        "writing_pattern": {
+          "note": "使用 Many factors contribute to 加名词短语，并展开两个因素。",
+          "reference_ids": [
+            "WRITING-APPROVED-PATTERN-011"
+          ],
+          "status": "approved"
+        },
+        "writing_vocabulary": {
+          "note": "share experience and expertise 使用自然。",
+          "reference_ids": [
+            "WRITING-APPROVED-VOCAB-046"
+          ],
+          "status": "approved"
+        }
+      },
+      "item": "entertaining",
+      "item_id": "SIG-BAEB752DE5F33946",
+      "mastered_status": "clear",
+      "mastery_proposal": null,
+      "sentence_record_id": "SENT-04A0AAE5A1399D9E",
+      "sequence": 2,
+      "source_event_id": "EVT-20260806-507660196D4F941D",
+      "source_signal_ids": [
+        "SIG-BAEB752DE5F33946"
+      ],
+      "tier": "A",
+      "user_evidence": [
+        "unknown"
+      ]
+    },
+    {
+      "bank_match_ids": [
+        "20260806-001"
+      ],
+      "bank_status": "existing_bank",
+      "candidate_status": "familiarity_candidate",
+      "candidate_type": "单词",
+      "card": {
+        "adopted_pattern": "Many factors contribute to [PHENOMENON_OR_TENDENCY].",
+        "example_translation": "许多因素促成了各类社区中长期存在的支持网络的建立，包括稳定的资金支持和分享经验与专业知识的志愿者。",
+        "meaning": "长期存在的；持久的",
+        "old_word_example": "Many factors contribute to the creation of permanent support networks across a broad range of communities, including stable funding and volunteers who share experience and expertise.",
+        "review_note": "permanent 表示长期持续存在的；在 a permanent source 中修饰 source。",
+        "review_old_words": [
+          "a broad range of"
+        ],
+        "structure_breakdown": "permanent 修饰 support networks；the creation of permanent support networks 是 contribute to 的名词短语。",
+        "usage": "a permanent source 中，permanent 修饰 source，表示长期、持续存在的。"
+      },
+      "evidence_origin": "live_user",
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "grounding": {
+        "naturalness_check": "生成例句为新模型例句；permanent 修饰 support networks，a broad range of 自然修饰 communities。",
+        "old_word_sources": [
+          {
+            "item": "a broad range of",
+            "source_id": "20260703-025",
+            "source_type": "four_layer_matches.user_old_word_candidates"
+          }
+        ],
+        "sentence_pattern": {
+          "note": "未采用不相关的候选句型。",
+          "reference_ids": [],
+          "status": "not_requested"
+        },
+        "status": "passed",
+        "syllabus_occurrence": {
+          "note": "share、experience、expertise 均自然出现。",
+          "reference_ids": [
+            "SYL-VOCAB-P058-L01",
+            "SYL-VOCAB-P027-L11",
+            "SYL-VOCAB-P027-L14"
+          ],
+          "status": "verified"
+        },
+        "user_evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3:learning.user_evidence_verbatim",
+        "writing_pattern": {
+          "note": "使用 Many factors contribute to 加名词短语，并展开两个因素。",
+          "reference_ids": [
+            "WRITING-APPROVED-PATTERN-011"
+          ],
+          "status": "approved"
+        },
+        "writing_vocabulary": {
+          "note": "share experience and expertise 使用自然。",
+          "reference_ids": [
+            "WRITING-APPROVED-VOCAB-046"
+          ],
+          "status": "approved"
+        }
+      },
+      "item": "permanent",
+      "item_id": "SIG-A2A68C7A871E842A",
+      "mastered_status": "clear",
+      "mastery_proposal": null,
+      "sentence_record_id": "SENT-9AA95D26B5BBAFD6",
+      "sequence": 3,
+      "source_event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+      "source_signal_ids": [
+        "SIG-A2A68C7A871E842A"
+      ],
+      "tier": "A",
+      "user_evidence": [
+        "unknown"
+      ]
+    },
+    {
+      "bank_match_ids": [
+        "20260806-002"
+      ],
+      "bank_status": "existing_bank",
+      "candidate_status": "familiarity_candidate",
+      "candidate_type": "单词",
+      "card": {
+        "adopted_pattern": "Many factors contribute to [PHENOMENON_OR_TENDENCY].",
+        "example_translation": "许多因素促成了网络八卦在各类社区中的传播，包括耸人听闻的标题和分享经验与专业知识的媒体人物。",
+        "meaning": "八卦；闲谈；绯闻消息",
+        "old_word_example": "Many factors contribute to the spread of online gossip across a broad range of communities, including sensational headlines and media figures who share experience and expertise.",
+        "review_note": "在本句语境中优先理解为八卦或绯闻消息。",
+        "review_old_words": [
+          "a broad range of"
+        ],
+        "structure_breakdown": "gossip 是 the spread of online gossip 中的不可数名词，表示传播的内容。",
+        "usage": "source for gossip 中，gossip 表示八卦消息或话题，不是一般的信息。"
+      },
+      "evidence_origin": "live_user",
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "grounding": {
+        "naturalness_check": "生成例句为新模型例句；gossip 作名词表示网络八卦，a broad range of 自然修饰 communities。",
+        "old_word_sources": [
+          {
+            "item": "a broad range of",
+            "source_id": "20260703-025",
+            "source_type": "four_layer_matches.user_old_word_candidates"
+          }
+        ],
+        "sentence_pattern": {
+          "note": "未采用不相关的候选句型。",
+          "reference_ids": [],
+          "status": "not_requested"
+        },
+        "status": "passed",
+        "syllabus_occurrence": {
+          "note": "share、experience、expertise 均自然出现。",
+          "reference_ids": [
+            "SYL-VOCAB-P058-L01",
+            "SYL-VOCAB-P027-L11",
+            "SYL-VOCAB-P027-L14"
+          ],
+          "status": "verified"
+        },
+        "user_evidence_ref": "EVT-20260806-8F4D09BF50F3F1B3:learning.user_evidence_verbatim",
+        "writing_pattern": {
+          "note": "使用 Many factors contribute to 加名词短语，并展开两个因素。",
+          "reference_ids": [
+            "WRITING-APPROVED-PATTERN-011"
+          ],
+          "status": "approved"
+        },
+        "writing_vocabulary": {
+          "note": "share experience and expertise 使用自然。",
+          "reference_ids": [
+            "WRITING-APPROVED-VOCAB-046"
+          ],
+          "status": "approved"
+        }
+      },
+      "item": "gossip",
+      "item_id": "SIG-9D5EE5D6EE1F5525",
+      "mastered_status": "clear",
+      "mastery_proposal": null,
+      "sentence_record_id": "SENT-9AA95D26B5BBAFD6",
+      "sequence": 4,
+      "source_event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+      "source_signal_ids": [
+        "SIG-9D5EE5D6EE1F5525"
+      ],
+      "tier": "A",
+      "user_evidence": [
+        "unknown"
+      ]
+    },
+    {
+      "bank_match_ids": [],
+      "bank_status": "new_candidate",
+      "candidate_status": "familiarity_candidate",
+      "candidate_type": "句型",
+      "card": {
+        "adopted_pattern": "Many factors contribute to [PHENOMENON_OR_TENDENCY].",
+        "example_translation": "许多因素促成了更具凝聚力的社区，包括资金支持，以及在各类行业中通过分享知识帮助社区分享经验和专业知识的项目。",
+        "meaning": "动名词短语作主语，表示某种行为或事情",
+        "old_word_example": "Many factors contribute to stronger communities, including funding and programs in which sharing knowledge helps communities share experience and expertise across a broad range of sectors.",
+        "review_note": "不要把 children 单独当作主语，也不要从被动结构中额外加入“应当”。",
+        "review_old_words": [
+          "a broad range of"
+        ],
+        "structure_breakdown": "in which 从句中，sharing knowledge 是主语，helps 是有限谓语，communities 是宾语；share experience and expertise 是 communities 的动作。",
+        "usage": "having children 整体作主语，表示生孩子这件事；先圈出 V-ing 短语，再寻找有限谓语 is。"
+      },
+      "evidence_origin": "live_user",
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "grounding": {
+        "naturalness_check": "生成例句为新模型例句；to 后接名词短语，sharing knowledge 明确作从句主语，旧词使用自然。",
+        "old_word_sources": [
+          {
+            "item": "a broad range of",
+            "source_id": "20260703-025",
+            "source_type": "four_layer_matches.user_old_word_candidates"
+          }
+        ],
+        "sentence_pattern": {
+          "note": "未采用不相关的候选句型。",
+          "reference_ids": [],
+          "status": "not_requested"
+        },
+        "status": "passed",
+        "syllabus_occurrence": {
+          "note": "share、experience、expertise 均自然出现。",
+          "reference_ids": [
+            "SYL-VOCAB-P058-L01",
+            "SYL-VOCAB-P027-L11",
+            "SYL-VOCAB-P027-L14"
+          ],
+          "status": "verified"
+        },
+        "user_evidence_ref": "EVT-20260806-4DF6447806282008:learning.user_evidence_verbatim",
+        "writing_pattern": {
+          "note": "使用 Many factors contribute to 加名词短语，并展开两个因素。",
+          "reference_ids": [
+            "WRITING-APPROVED-PATTERN-011"
+          ],
+          "status": "approved"
+        },
+        "writing_vocabulary": {
+          "note": "share experience and expertise 使用自然，sharing knowledge 体现 V-ing 形式。",
+          "reference_ids": [
+            "WRITING-APPROVED-VOCAB-046"
+          ],
+          "status": "approved"
+        }
+      },
+      "item": "V-ing phrase as subject",
+      "item_id": "SIG-289D632F082AF0B0",
+      "mastered_status": "clear",
+      "mastery_proposal": null,
+      "sentence_record_id": "SENT-8E4E56473003574C",
+      "sequence": 5,
+      "source_event_id": "EVT-20260806-4DF6447806282008",
+      "source_signal_ids": [
+        "SIG-289D632F082AF0B0"
+      ],
+      "tier": "A",
+      "user_evidence": [
+        "mistranslated",
+        "structure_trap"
+      ]
+    },
+    {
+      "bank_match_ids": [
+        "20260806-005"
+      ],
+      "bank_status": "existing_bank",
+      "candidate_status": "familiarity_candidate",
+      "candidate_type": "词组",
+      "card": {
+        "adopted_pattern": "Many factors contribute to [PHENOMENON_OR_TENDENCY].",
+        "example_translation": "许多因素促成了有效的教育，包括在广泛地区受到高度重视的指导，以及分享经验与专业知识的导师。",
+        "meaning": "受到……的高度重视",
+        "old_word_example": "Many factors contribute to effective education, including guidance that is highly valued by communities across a broad range of regions and mentors who share experience and expertise.",
+        "review_note": "主语是被重视的对象，by 后接重视它的主体。",
+        "review_old_words": [
+          "a broad range of"
+        ],
+        "structure_breakdown": "guidance 是 including 后的名词；that is highly valued by communities 是修饰 guidance 的定语从句，by communities 表示重视它的主体。",
+        "usage": "is highly valued by the public 表示受到公众高度重视；被动结构不自动增加“应当”。"
+      },
+      "evidence_origin": "live_user",
+      "evidence_states": [
+        "guided_understood"
+      ],
+      "grounding": {
+        "naturalness_check": "生成例句为新模型例句；that is highly valued by communities 明确呈现被动结构，a broad range of 自然修饰 regions。",
+        "old_word_sources": [
+          {
+            "item": "a broad range of",
+            "source_id": "20260703-025",
+            "source_type": "four_layer_matches.user_old_word_candidates"
+          }
+        ],
+        "sentence_pattern": {
+          "note": "未采用不相关的候选句型。",
+          "reference_ids": [],
+          "status": "not_requested"
+        },
+        "status": "passed",
+        "syllabus_occurrence": {
+          "note": "share、experience、expertise 均自然出现。",
+          "reference_ids": [
+            "SYL-VOCAB-P058-L01",
+            "SYL-VOCAB-P027-L11",
+            "SYL-VOCAB-P027-L14"
+          ],
+          "status": "verified"
+        },
+        "user_evidence_ref": "EVT-20260806-4DF6447806282008:learning.user_evidence_verbatim",
+        "writing_pattern": {
+          "note": "使用 Many factors contribute to 加名词短语，并展开两个因素。",
+          "reference_ids": [
+            "WRITING-APPROVED-PATTERN-011"
+          ],
+          "status": "approved"
+        },
+        "writing_vocabulary": {
+          "note": "share experience and expertise 使用自然。",
+          "reference_ids": [
+            "WRITING-APPROVED-VOCAB-046"
+          ],
+          "status": "approved"
+        }
+      },
+      "item": "be highly valued by",
+      "item_id": "SIG-4CD3629F3F6CE3F2",
+      "mastered_status": "clear",
+      "mastery_proposal": null,
+      "sentence_record_id": "SENT-8E4E56473003574C",
+      "sequence": 6,
+      "source_event_id": "EVT-20260806-4DF6447806282008",
+      "source_signal_ids": [
+        "SIG-4CD3629F3F6CE3F2"
+      ],
+      "tier": "A",
+      "user_evidence": [
+        "mistranslated",
+        "structure_trap"
+      ]
+    }
+  ],
+  "needs_user_decision": [],
+  "observed_signals": [
+    {
+      "canonical_term": "pregnant",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ],
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "signal_id": "SIG-F4B2553AA84F5F4E",
+      "signal_type": "vocabulary",
+      "source_event_id": "EVT-20260806-507660196D4F941D",
+      "surface_form": "pregnant"
+    },
+    {
+      "canonical_term": "entertaining",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ],
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "signal_id": "SIG-BAEB752DE5F33946",
+      "signal_type": "vocabulary",
+      "source_event_id": "EVT-20260806-507660196D4F941D",
+      "surface_form": "entertaining"
+    },
+    {
+      "canonical_term": "permanent",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ],
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "signal_id": "SIG-A2A68C7A871E842A",
+      "signal_type": "vocabulary",
+      "source_event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+      "surface_form": "permanent"
+    },
+    {
+      "canonical_term": "gossip",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ],
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "signal_id": "SIG-9D5EE5D6EE1F5525",
+      "signal_type": "vocabulary",
+      "source_event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+      "surface_form": "gossip"
+    },
+    {
+      "canonical_term": "V-ing phrase as subject",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ],
+      "knowledge_state": "structure_unresolved",
+      "provenance": "explicit_capture_candidate",
+      "signal_id": "SIG-289D632F082AF0B0",
+      "signal_type": "structure",
+      "source_event_id": "EVT-20260806-4DF6447806282008",
+      "surface_form": "V-ing phrase as subject"
+    },
+    {
+      "canonical_term": "be highly valued by",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ],
+      "knowledge_state": "mistranslated",
+      "provenance": "explicit_capture_candidate",
+      "signal_id": "SIG-4CD3629F3F6CE3F2",
+      "signal_type": "phrase",
+      "source_event_id": "EVT-20260806-4DF6447806282008",
+      "surface_form": "be highly valued by"
+    }
+  ],
+  "producer": {
+    "model": "gpt-5.6-luna",
+    "prompt_version": "study-intake-english-luna-critical-review-v2",
+    "role": "luna_candidate_consumer"
+  },
+  "reactivation_proposals": [],
+  "review_exclusion_proposals": [
+    {
+      "bank_id": "20260424-204",
+      "day_conflict_check": {
+        "event_count_scanned": 3,
+        "explicit_unknown_seen_anywhere_in_day": false,
+        "policy_version": "english_sentence_nonreport_policy_v2",
+        "study_date": "2026-08-06"
+      },
+      "item": "celebrities",
+      "normalized": "celebrities",
+      "proposal_type": "review_exclusion_proposal",
+      "reason": "appeared_in_sentence_but_not_reported_unknown",
+      "sentence_evidence": [
+        {
+          "capture_event_id": "EVT-20260806-507660196D4F941D",
+          "explicit_unknown": false,
+          "sentence_hash": "3085f5d215494635c30901844f589c6f7a4d6b3c3ad3ed33a8822417b059e6d4",
+          "spans": [
+            {
+              "end": 31,
+              "normalized": "celebrities",
+              "start": 20,
+              "surface_form": "celebrities"
+            }
+          ],
+          "user_evidence_verbatim": "C 选项这个“怀孕的”，我没翻译出来。然后这个“有娱乐性的”、“有趣的”，我也没翻译出来。"
+        }
+      ],
+      "source_capture_event_ids": [
+        "EVT-20260806-507660196D4F941D"
+      ]
+    }
+  ],
+  "runtime_identity": {
+    "observed": {
+      "model": "unavailable",
+      "reasoning_effort": "unavailable"
+    },
+    "provenance": {
+      "observed_at": null,
+      "reference": null,
+      "source": "request_only"
+    },
+    "requested": {
+      "model": "gpt-5.6-luna",
+      "reasoning_effort": "max"
+    },
+    "status": "requested_unverified"
+  },
+  "schema_version": "english_luna_candidate_v2",
+  "sentence_records": [
+    {
+      "corrected_meaning": "关于怀孕明星的新闻很有趣，具有娱乐性。",
+      "explanation": "pregnant 修饰 celebrities，表示怀孕的明星；entertaining 是表语，表示有趣的、具有娱乐性的。",
+      "sentence_hash": "3085f5d215494635c30901844f589c6f7a4d6b3c3ad3ed33a8822417b059e6d4",
+      "sentence_record_id": "SENT-04A0AAE5A1399D9E",
+      "sequence": 1,
+      "source_event_id": "EVT-20260806-507660196D4F941D",
+      "source_sentence": "news about pregnant celebrities is entertaining.",
+      "user_evidence_verbatim": "C 选项这个“怀孕的”，我没翻译出来。然后这个“有娱乐性的”、“有趣的”，我也没翻译出来。",
+      "user_first_translation": "说的是关于一个明星的新闻。明星前面也有一个形容词pregnant（好像是 entertaining这个词我也不知道什么意思 相关的词），具体指关于什么的新闻我没太看懂。"
+    },
+    {
+      "corrected_meaning": "明星妈妈长期都是八卦消息的来源。",
+      "explanation": "permanent 表示长期存在的、持久的；gossip 表示八卦、闲谈或绯闻消息；source 是来源。",
+      "sentence_hash": "6532054d55562a64a90e8b862f03b6cf06e0884842459544d630b4969d1a48c1",
+      "sentence_record_id": "SENT-9AA95D26B5BBAFD6",
+      "sequence": 2,
+      "source_event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+      "source_sentence": "celebrity moms are a permanent source for gossip.",
+      "user_evidence_verbatim": "A 选项的“长期存在的”，还有“八卦”是没翻译出来的，我还得快速入库这个东西。",
+      "user_first_translation": "提到一个 celebrity（明星）的妈妈，说她是一个什么样的资源。但资源前面修饰的那个词（好像拼写是 gossip）我没太理解是什么意思，不知道指代什么资源然后permanent，我不知道什么意思。"
+    },
+    {
+      "corrected_meaning": "生孩子这件事受到公众的高度重视。",
+      "explanation": "having children 是动名词短语作主语；is highly valued by 是被动结构，表示受到……高度重视。原句没有“应当”的情态含义。",
+      "sentence_hash": "1de84d8e79d69502952319dccc07a6d32652a9b7b48ab3dace250cb1eba0b6c9",
+      "sentence_record_id": "SENT-8E4E56473003574C",
+      "sequence": 3,
+      "source_event_id": "EVT-20260806-4DF6447806282008",
+      "source_sentence": "having children is highly valued by the public.",
+      "user_evidence_verbatim": "D 选项，它是动名词做主语，是“生孩子这个事情应当受到公众的高度重视”，我翻译错了是吧？这几个问题都要快速入库。",
+      "user_first_translation": "说她有一个孩子，而这个孩子对公众来说是非常有价值的。"
+    }
+  ],
+  "signal_outcomes": [
+    {
+      "signal_id": "SIG-F4B2553AA84F5F4E",
+      "terminal_status": "candidate"
+    },
+    {
+      "signal_id": "SIG-BAEB752DE5F33946",
+      "terminal_status": "candidate"
+    },
+    {
+      "signal_id": "SIG-A2A68C7A871E842A",
+      "terminal_status": "candidate"
+    },
+    {
+      "signal_id": "SIG-9D5EE5D6EE1F5525",
+      "terminal_status": "candidate"
+    },
+    {
+      "signal_id": "SIG-289D632F082AF0B0",
+      "terminal_status": "candidate"
+    },
+    {
+      "signal_id": "SIG-4CD3629F3F6CE3F2",
+      "terminal_status": "candidate"
+    }
+  ],
+  "source_id": "RAW-ARTICLE-20260710-001",
+  "study_date": "2026-08-06",
+  "validation": {
+    "blockers": [],
+    "status": "PASS"
+  }
+}

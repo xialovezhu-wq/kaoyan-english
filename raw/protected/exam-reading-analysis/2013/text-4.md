@@ -1,0 +1,885 @@
+---
+analysis_id: EXAM-ANALYSIS-2013-T4
+reference_id: EXAM-READING-2013-T4
+year: 2013
+text_no: 4
+visibility: hidden_until_review
+extraction_status: preprocessed_complete
+source_role: protected_derived_source
+---
+
+# 2013 English I Text 4｜答案与解析预处理
+
+> [!danger] 自主练习阶段禁止展开
+> 本文件已经保存标准答案和出版方解析转写。用户只陈述选项时不读取；只有明确要求核对答案、讲题或进入复盘后，才读取对应题号的最小区块。
+
+- 来源 PDF：`/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2013年考研英语一真题解析.pdf`
+- 来源 SHA-256：`6ded8c858911beceba7c7d3e87661b4888955b445ddd7b60e3431bfc67ef19ee`
+- 旧锚点：p40-45
+- 实际预处理页：p39–46
+- 逐页证据：8 页
+
+<details>
+<summary>答案与解析（仅复盘时展开）</summary>
+
+## 标准答案
+
+| 题号 | 正确选项 | 来源页 | 核验状态 |
+|---:|:---:|---:|---|
+| 36 | B | p40 | source_verified_high |
+| 37 | C | p41 | source_verified_high |
+| 38 | A | p42 | source_verified_high |
+| 39 | C | p44 | source_verified_high |
+| 40 | D | p45 | source_verified_high |
+
+## 逐题解析
+
+### Q36
+
+- 正确选项：B
+- 答案核验页：p40
+- 解析来源页：p40, p41
+- 核验：source_verified_high / explicit_solution_text
+
+```text
+• 真題精解•
+36. Three
+provisions of Arizona's plan were overturned
+36. 亚利桑那州方案中的三项条款被推
+because they
+翻，原因在于它们
+［A］ disturbed the power balance between different states
+［A］ 打破了各州间的权力平衡
+［B］ overstepped the authority of federal immigration law
+［B］逾越了联邦移民法的权威
+LC］ deprived the federal police of Constitutional powers
+［C］剥夺了联邦警察的宪法权力
+［D］ contradicted both the federal and state policies
+［D］与联邦及州政策都有所抵触
+［精准定位］第二段②③句指出，宪法规定“只有国会才有权制定统一的移民法；联邦法优先于州
+法”，而亚利桑那州已试图制定与联邦法并行的政策；第三段②句进一步明确多数大法官意见：国会已
+“先占领域”，亚利桑那州因此侵犯了联邦特权，故［B］正确。
+［命题解密］B］是对第三段②句后半部分的细化，其中 overstepped 与 intrude on、the authority of
+federal. ..与 federal's privileged powers 属同义表达。
+［A］源于首段②句 upset the balance of power，但文中主体为“联邦政府VS各州之间”，而非“各州之
+间”。［C］是对第二段①句 have state...enforce federal immigration law 的过度解读，亚利桑那州仅要求
+州警察执法，并未（也无法）剥夺联邦警察权力。［D］偷换概念，案件焦点是“州政策是否侵犯联邦特权”，
+而非“政策内容不统一、有矛盾”；另外，亚利桑那州移民法案本就属于州政策，不会自相矛盾。
+［技巧总结］由“下题针对第四段设题”推知本题对应的内容为前三段；而第三段②句 the overturned
+provision、the majority held （hold 引出“观点、依据”）分别对应题干信息 Three provisions. .. were
+overturned以及 because，故该句实为直接线索；句中“occupied the field”虽不明其意，但and...thus...明
+显为“结论性内容”，再结合上段②③句对宪法原则的强调，不难判定答案。
+40
+I
+①國
+However, the Justices said that Arizona
+不过，法官们表示亚利桑那州警察可以
+police would be allowed to verify"the legal status of
+对他们认为身份可疑的人口进行身份核查。
+people who come in contact with law enforcement
+因为国会一直设想未来联邦和州政府在移民
+② That's because Congress has always envisioned joint
+政策上能够通力合作，也明确鼓励州官员与
+federal-state immigration enforcement and explicitly
+encourages
+state officers to share information and
+联邦同事间能够共享信息，彼此协作。
+cooperate with federal colleagues.
+•词汇注释与难句分析•
+①verify ［'venfar］v. 核实；查证
+①come in contact with（接触到）
+②enforcement ［en'fossmant］n. 执行
+②law enforcement（执法）
+• 经典搭配
+•语篇分析，
+第四段借观点补充说明四项争议条款中一项被保留的原因。关键词为：①the Justices said； ②because。
+①句转而指出大法官认可的条款（said）：允许州警察核查人口身份。However...would be allowed
+10...转换视角，开始就获准条款展开介绍。come in contact with law enforcement 字面意思为“接触到、
+遇到执法”，即，（某人）受执法机关怀疑而发生接触，故此处指“（某人）疑似非法移民”。
+②句解释原因（because）：国会希望移民问题上联邦与各州能够通力合作。envision 意力 to imagine
+sth that you think might happen in the future, esp. sth that you think will be good”展望（尤指美好的
+事）”，has always envisioned 暗示移民问题复杂难解，国会很希望联邦和各州能够联手，因此明确鼓励大
+象互迪信息（explicitly encourages...），但更深层的实质性合作一直未达成，而亚利桑那州移民方案中这
+一条款正好是个契机，故获准保留。
+【深层解读】本段从结构来看为插人段：上两段聚焦5:3中的“5”，下段聚焦“3”，均围绕“4项争议内
+容中被推翻的3项”展开，而本段介绍“未遭推翻（即获认可）的1项”；看似是简单补充，实际上暗中回应
+首段裁决二，将含混的文意明朗化（把两项裁决串成一案）：首段②句“奥巴马政府完败”实指“大法官全
+票支持各州有权盘查疑似移民身份（The Justices 指代“全体法官”），为下文介绍奥巴马政府对裁决的不
+满与专断做好铺垫。
+•真題精解。
+37.
+```
+
+### Q37
+
+- 正确选项：C
+- 答案核验页：p41
+- 解析来源页：p41, p42
+- 核验：source_verified_high / explicit_solution_text
+
+```text
+On which of the following did the Justices agree，|
+37.由第四段可知，大法官认可下列哪项
+according to Paragraph 4？
+内容？
+LAJ Congress's intervention in immigration enforcement.
+［A］ 国会可以对移民执法问题进行干预。
+［B］ Federal officers'duty to withhold immigrants' information.
+［B］联邦官员有责任对移民的信息保密。
+LC」 States' legitimate role in immigration enforcement.
+［C］ 各州在移民执法问题上有其合法作用。
+［D］ States' independence from federal immigration law.
+［D］各州不受联邦移民法的约束。
+［精准定位］第四段①句指出：大法官表示允许亚利桑那州警察对疑似非法移民者进行法律身份核
+查。可见，大法官认同各州在移民执法问题上的合法角色，［C］正确。
+［命题解密］［C］中 States’ legitimate role 和 immigration enforcement 分别对应①句中 Arizona police
+would be allowed to 和 verify the legal status。
+［A］把第四段②句“对法官之所以同意各州有权核查移民身份的解释，即国会希望各州与联邦在移
+民问题上合作”曲解为“法官认同国会有权干预执法”。［B］利用第四段暗含之意“法官支持国会意愿”千
+扰，但②句后半句“国会鼓励联邦与各州在移民问题上能共享信息”与“对信息保密”矛盾；其次选项将文
+中“移民事务相关信息”缩小为“移民者信息”。［D］利用全段总基调“认可州执法权”干扰，但“独立于联
+41
+邦法之外”属臆造内容，违背上下文对宪法“联邦法优先于州法”的强调。
+［技巧总结］针对段落内容的细节题通常选项信息繁多，可以先进行纵向对比分析，把信息化整为
+零，分别比对原文。本题的选项共涉及三个主体：1）国会、2）联邦官员、3）各州；而题干锁定的①句仅提
+及“州警察”，故可以锁定答案的主体为“各州”。其次在文中寻找各主体的对应行为：1）设想联邦和各州
+在移民执法上能合作（②句）、2）被国会鼓励和各州同事分享信息、3）被法官允许盘查疑似移民身份、4）
+被国会鼓励与联邦合作。很明显只有第三项（［C］）能与题干信息“大法官认可”对应，其余项实质上是国
+会认可的内容。
+① Two of the three objecting Justices—Samuel
+投反对票的三位大法官中，塞缪尔•阿里
+Alito and Clarence Thomas—agreed
+with this
+托和克拉伦斯•托马斯赞同这一宪法逻辑，但
+Constitutional logic but disagreed about which Arizona
+在“亚利桑那移民法中哪些条款与联邦法规相
+rules conflicted®
+with the federal statute®
+．②國The
+抵触”这一问题上，他们持不同意见。唯一主
+only major objection came from Justice Antonin Scalia，
+要异议来自大法官安东宁•斯卡利亚，他可
+who offered an even more robust®defense of state
+以追溯到《外国人与煽动叛乱法案》的州级特
+privileges going back to the Alien and Sedition Acts.
+权进行了更强有力的辩护。
+•词汇注释与难句分析
+①conflict ［kpnflkt］v. 冲突
+①agree with（同意）
+②statute ［'staetJu:t］n. 法规；法令
+②conllict with（与⋯••相抵触、冲突）
+③robust ［rou'bast］a. 强有力的
+③go back to（追溯到）
+• 经典搭配
+•语篇分析
+第五段详细介绍反对票方（3）大法官所执观点。关键词为：objecting。
+①句介绍其中两位法官观点：认可联邦特权，但不认同三项条款侵权。this Constitutional logic 回指
+上文 Constitutional principles，即判决依据（第二段②句）：只有国会才能制定统一的归化法，联邦法律优
+先于各州法律。agree with...but disagree about 结构呈现出两位法官“有保留的反对意见”：承认宪法所
+规定的联邦特权，但并不认同三项条款与联邦移民法相抵触。
+②句介绍另一位较激进法官的态度：坚决强调州特权。only major objection 反向呼应上句 agreed
+with.，表明安东宁与前两位法官的态度差异：完全反对多数票方观点，即，不认可宪法规定的“联邦特
+权”；even more robust defense（robust 指“强有力的”）凸显其维护州特权的坚决立场，going back to...暗
+示这一法案订立之初认可各州拥有处理移民事务的权力。
+【深层解读】首段已知全文立意重在“裁定二”（on the more important matter..），即“批判奥巴马政
+府滥权、肯定州应有权利”，而本段聚焦的是裁定一当中的少数方看法，因此并非全文主要段落，故若涉
+```
+
+### Q38
+
+- 正确选项：A
+- 答案核验页：p42
+- 解析来源页：p42, p43, p44
+- 核验：source_verified_high / explicit_solution_text
+
+```text
+及命题，更多只会侧重段落细节，解题时应结合段落主旨而非全文主旨。
+•真题精解。
+38. It can be inferred from Paragraph 5 that the Alien and
+38.从第五段可以推知，《外国人和煽动叛
+Sedition Acts
+乱法案》
+。
+［A stood in favor of the states
+［A］维护各州利益
+［B supported the federal statute
+［B］支持联邦法规
+「Cl undermined the states' interests
+［C］损害各州利益
+「D］ violated the Constitution
+［D］违反了宪法
+42
+［精准定位］第五段②句末表明，州政府特权可追溯到《外国人和煽动叛乱法案》，即此法案是支持州
+级拥有特权的，Antonin 法官正是以此为其论据极力捍卫州特权，因此［A］正确。
+L命题解密1LA］由第五段②句后半句提炼而出，对短语 going back to 的正确理解是解题关键。
+［B］利用惯常思维“任何法案理应遵循、支持联邦法规”干扰，背离文意及实际。［C］将 going back to
+内含的“顺承逻辑”曲解为“反向对立关系”
+’。［D］从“亚利桑那移民法诸多条款被判违宪，《法案》肯定州
+特权”简单推出“该法案违宪”，脱离语境。
+［技巧总结］本题形式上考查细节，微观看实际考查短语认知；但宏观上更要考查对（就争议问题的）
+人物态度的把握。第五段针对5:3投票中的少数反对票展开，题干所涉法案位于②句末，而该句聚焦的
+是反对者中最激进的法官看法（即坚决维护州特权），going back to...整个结构既然是作为这一特权的
+限定修饰语，则法案只能扮演“支撑法官观点”的角色，［B］和［D］与“州特权”无关，［C］与法官态度相反，
+只有［A］是大法官提及该法案的用意。
+VI ①The 8-0 objection to President Obama turns on
+最高法院8:0投票反对奥巴马总统的
+what Justice Samuel Alito describes in his objection as "a
+原因在于“其对于联邦行政权令人震惊的维
+shocking assertion" of federal executive power”. @The
+护”，诚如塞缪尔•阿里托在其反对意见中
+White House argued that Arizona's laws conflicted with
+所述。白宫认力亚利桑那州移民法与自己
+its enforcement priorities, even if state laws complied
+的执法优先权相抵触，即便州法律一字一句
+with federal statutes to the letter. ③ In effect, the White
+严格遵循联邦法律。事实上，白宫断言自己
+可以废除任何其他虽合法却不被白宫认可
+House claimed that it could invalidate®any otherwise
+的州级法律。
+legitimate® state law that it disagrees with.
+•词汇注释与难句分析•
+①assertion ［o'so:jon］ n. 声明
+①turn on（以
+••为中心、取决于）
+②invalidate ［un'veelidert］v. 使无效
+②comply with（遵守；符合）
+③legitimate ［u'dstumtt］a. 合法的
+③to the letter（丝毫不差；不折不扣）
+• 经典搭配
+①in effect（实际上，事实上）
+语篇分析•
+第六，七段围绕裁定二展开论述。
+第六段具体论述裁定二的投票结果及其依据。关键词为：8：0 objection。
+①句解释裁定二（8:0）原因：白宫企图滥用权力。turn on（意为 if a situation turns on a particular
+thing or idea, it depends on that thing“取决于”）体现因果逻辑；what...describes in... as...引出“阿里托
+法官在反对意见中的说辞”，借以呈现促成此裁决的“白宫不当之举（a shocking assertion of...）”；
+shocking（让人震惊的/愤慨的）修饰 assertion（意力 the act of stating or claiming sth strongly”强烈主张”）
+突显奥巴马（政府）公然蔑视“各权力之间分立与制衡”这一宪法原则，由此招致法官全票否决。注：由首
+段背景说明可知，8:0裁决具体针对的是亚利桑那州移民法中获准保留的一项条款，也就是第四段中所
+述的“州警察有权对疑似非法移民进行盘查”。
+②③句借宫（奥巴马政府）说辞展示其滥权表现。两句虽为并列结构（The White House argued、
+the White House claimed），但其实通过 argue（提出理由［说明］）与claim（［无证据］断言、声称）暗藏的态
+度递变以及③句中In effect（用以“引出事实”）逐层展现奥巴马政府过错：白宫执法优先权虽为宪法规
+定，但“冠州以罪名”应属联邦法院特权，白宫有越权之嫌；而事实上也确实越权了—声称自己有权推
+翻任何其不认可的州法律，无视联邦立法机构权威（总统提出反对后仍需国会复议）。注：③句中
+otherwise为生僻用法：in other respects“在其他方面；亦”，该词与 any 一起彰显白宫的权力跋扈：不止是
+43
+移民法而已，其他方面的州法律，但凡不我认可，就算合法也不能生效。
+【深层解读】argue（to state, giving reasons, that sth is true）及 claim（to state that sth is true, even
+though it has not been proved）两词突显奥马政府言论带有强烈主观色彩：自认有理有据，但却未经事
+实论证，再加上 a shocking assertion 也已对此做了铺垫，尽现奥巴马政府“自视最高唯一决策者”的咄咄
+逼人之势，又一次暗示作者站位（支持8:0裁决），同时为下文批驳竖起鲜明的靶子。
+```
+
+### Q39
+
+- 正确选项：C
+- 答案核验页：p44
+- 解析来源页：p44, p45
+- 核验：source_verified_high / explicit_solution_text
+
+```text
+•真題精解•必
+39. The White House claims that its power of enforcement
+39.白宫宣称其执法权
+-。
+［A］ is dependent on the states'
+Support
+［A］ 倚赖各州支持
+［B］ is established by federal statutes
+［B］基于联邦法规规定
+［C］ outweighs that held by the states
+［C］ 大于各州执法权
+［D］ rarely goes against state laws
+［D］鲜少与州法律抵触
+［精准定位］第六段②③句指出，白宫认定亚利桑那州法律与其执法优先权相抵触；它更有权宣布任
+何它不认可的州法律无效，故［C］正确。
+［命题解密］LC］是对②③句白宫说辞的总结：outweighs..
+the states 是对
+priorities、could
+invalidate any...state law 的概括。
+［A］与原文相悖：奥巴马政府极力凸显自身行政权，全然漠视各州应有的行政权。［B］与“最高法院一
+致裁决反对奥巴马总统”的大背景相盾。［DJ对②句提到的.•state laws complied with federal statute .••
+断章取义，但该内容意在凸显白宫的专断：就算州法律与联邦条文法完全吻合，也仍然冒犯其特权。
+［技巧总结］当所有选项方向性非常明确时，除了细节定位以外，还应借助段落、段群或全文主旨解
+题。本题四个选项“黑白分明”：［A］、［B］和［D］中的“遵循联邦法规、依赖各州、尊重各州法规”均体现
+“奥巴马政府循规蹈矩的乖形象”，而这完全背离开篇就指出的“8:0全票反对奥巴马政府”以及本段对该
+内容的细述，所以本题利用主旨便可迎刃而解。
+① Some powers do belong exclusively®to the
+联邦政府确实在一些问题上拥有专属
+federal government,and control of citizenship and the
+权，其中包括对公民身份和边界的控制权。
+borders is among
+them. ② But if Congress wanted to
+但是如果国会想阻止各州自行其是对移民
+prevent states from using their own resources to check
+身份进行核查，它有权如此。（可）国会从未
+immigration status, it could. ③It never did so.
+④西The
+这么做过。实质上奥巴马政府宣称的是：因
+Administration® was in essence asserting that because it
+为它自己不想执行国会在移民事务上的意
+didn't want to carry out Congress's immigration wishes，
+愿，所以任何州也不允许执行。每位大法官
+no state should be allowed to do so either.
+⑤ Every
+理当抵制这一惊人言论。
+Justice rightly" rejected this remarkable®claim.
+• 词汇注释与难句分析，
+①exclusively ［uk'sklussivl］ad. 唯一地；专有地
+• 经典搭配
+②administration ［od minis'trerjan］ n. 管理；行政
+①in essence（实际上，其实）
+③rightly ［'rartl］ad. 合适地；恰当地
+② carry out（执行、贯彻、完成、实现）
+④remarkable ［ri'ma:kabl］a. 值得注意的；惊人的
+• 语篇分析，
+第七段详细阐述裁定二中大法官所执观点。关键词为：rightly rejected。
+①句让步认可联邦政府在某些问题上的专权。注意此处 federal government 并非宏观意义上的=
+权合一的联邦当局，而是专指行政分支，即 Obama Administration。强调词 do（的确）与表“部分”的 some
+44
+powers，连同②句首词But一起，表明上下文为“••⋯倒是事实，但⋯⋯•”的逻辑，即本句旨在为下文“批
+驳”作铺垫。and 表句内语意递进，将联邦行政机构专权范围直接挂钩本文聚焦的内容。
+②至⑤句转而揭示奥巴马政府越权之举，阐释大法官一致反对的理由。
+②③句对比立法分支的做法侧面反衬行政分支之过。两句中 it 均回指 Congress, so 回指 to
+prevent...status，句间暗含转折逻辑，即 it could，（but） it never did so。 to prevent... status 细化①句
+control of citizenship，两句言外之意：三权分立宪制下，国会也有权干涉州执法，却从未干涉过，而奥巴
+马政府企图“一家独大”，有悖宪法原则。
+④句明确指出行政分支之过。The administration 与①句 the federal government 同指，视角回到联
+邦政府说明其言行；in essence asserting（in essence = when you consider the most important points，用于
+“引出最重要的点”），呼应上段③句 In effect，（the White House） claimed，进一步明确奥巴马政府言行
+的要害之处：越过、甚至背离国会意愿，对州执法横加干涉。it didn't want to..，no state should be
+allowed...either（我不想，各州也别想）突显奥巴马政府“横向无视国会、纵向无视州权力”的独断专横。
+⑤句顺而重申裁决并表明其公正性。remarkable（非凡、不同寻常的）为褒词贬用，实际强调奥巴马
+政府言行“远超容忍程度”； Every justice rejected...呼应开篇以及上段8-0 objection to President Obama，
+以副词 rightly（公正地，正确地）收束全篇，昭示作者对“0支持裁定结果”的赞许。
+【深层解读】考研阅读文章结尾段常常也是“观点总结段”，为了既体现论述的客观又突显自身观点，
+```
+
+### Q40
+
+- 正确选项：D
+- 答案核验页：p45
+- 解析来源页：p45
+- 核验：source_verified_high / explicit_solution_text
+
+```text
+常常采取“让步一转折”的论证形式，即“先对敌方进行部分肯定，后转而发起批驳”。本段首句让步肯定
+奥巴马政府的法定权力，随后痛斥其“可恨之处（公然越权）”，并在结尾对法官裁决（对其遏制）表示“大
+快人心”，实现全篇的圆合。
+．真题精解•泌
+40. What can be learned from the last paragraph？
+40.从最后一段可以了解到什么？
+LA］ Immigration issues are usually decided by Congress.
+［A］移民同题常由国会定夺。
+［B］ The Administration is dominant over immigration issues.
+［B］ 奥巴马政府在移民问题上居主导地位。
+［C］ Justices wanted to strengthen its coordination with
+［C］大法官想要加强自己同国会间的合作。
+Congress.
+LD」 Justices intended to check the power of the Administration.
+［D］大法官准备限制奥巴马政府的权力。
+［精准定位］第七段④句明确：联邦政府断言只要自己不愿履行国会的移民意愿，它也有权阻止各州
+履行；⑤句转而指出：所有法官对该断言一致投出反对票。因此，法院裁决意在打击奥巴马政府滥用行
+政权，限制其滥权之举，［D］符合文意。
+［命题解密JD］是对大法官一边倒裁定的概括，体现裁决意图：要通过限制奥巴马政府权力，维持
+“白宫 VS国会、联邦VS州”间的权力平衡。
+［A］将②句国会权力“也可干预各州的移民执法问题”放大扭曲为“决定移民问题”。［B］把④句“白
+宫宣称内容”偷换为“事实”，事实上这一宣称遭到高院一致反对。［C］过度解读④⑤句内容：大法官在移
+民问题上确实认可国会意愿，但“加强与之的合作”首先在文中并无依据，其次高院作为联邦司法机构，
+实际上独立于行政、立法之外，三权合一却又相互制衡，因而不会与任何方合作。
+［技巧总结］文章最后一题常落脚于全文，所以“态度题”或“标题题”是常见题型，但也应切记，其他
+题型同样与全文主题密切相关，正确项不会落在“配角或次要情节”上。本文主人公为“最高法院、联邦
+政府（白宫、奥巴马政府）、亚利桑那州政府”，核心事件为“移民法案”，［A］涉及事件，［C］涉及主人公（大
+法官），但国会只是文中配角；［B］淡定指出奥巴马政府在移民问题上的权力，丝毫没有全篇“博弈较量”
+的汹涌之感；只有［D］既围绕主人公展开，又体现“博弈较量”。
+45
+```
+
+## 完整出版方解析 OCR
+
+### PDF p39
+
+•词汇注释与难句分析。淡
+①overturn ［rouva't3n］z. 推翻，倾覆
+3。经典搭配
+②contest ［'kpntest］v. 质疑，提出异议
+①have sb do sth（使某人做某事）
+③provision ［pro vI32n］n. 规定，条款
+②run parallel to（与⋯⋯平行）
+①fashion ［'feeJon］v. 使成形，做成
+③contested provision（受质疑条款）
+⑤parallel ［'peeralel］ a. 平行的
+•语篇分析•》
+第二至五段围绕“裁定一”展开论述。
+第二段综述裁定一的投票结果及依据。关键词为：① Washington alone； ②precede； ③noncontroversial。
+①句交代具体投票结果：四项争议条款里有三项遭多数法官否决。the majority overturned three of the
+four provisions 呼应开篇 On a five to three vote... knocked out much of..开启对涉案法规的细述。
+contested（引争议的）与 controversial 含义相近，两者连用突显亚利桑那州移民法案的影响力之大：从事件
+本身到规定细节都饱受质疑。不定式 to have ...law（have 此处为使动词，意力“命令某人做某事”）形为对
+亚利桑那移民法宗旨的补充说明，实则暗示大法官多数票反对的原因：州政府涉嫌侵犯联邦政府特权。
+②③句解释原因（即投票依据）：亚利桑那州已试图制定与联邦法并行的政策，此举违反宪法。
+②句提出宪法依据：一、华盛顿（国会所在地）独享制定统一移民法的权力；二、联邦法律优先于州法
+律。The Constitutional principles... noncontroversial 与①句 the four contested provisions of Arizona's
+controversial plan 反差鲜明，与 alone（唯一地）和 precede一起，突出强调一条铁律：各州有权制定自己的
+法律，但宪法至高无上，必须首先遵从宪法。注：naturalize 意为“归化、人籍”，Rule of Naturalization 实指
+“移民政策”，被 uniform（统一标准的）限定，侧面表明美国在移民问题上不允许各州自行制定法律。
+③句直击州政府要害：已试图制定与联邦移民法并行的政策，违反宪法。主句从州政府行动人手：
+过去完成时态 had attempted to fashion state policies 表明这一企图已坐实，因此有违“依据一”——侵犯
+了国会专属权；注意 fashion 取僻意 shape or make sth”制定（法律、政策）”。that 定语从句从州政策内容
+入手：ran parallel to 与②句 precede 对立，因此有违“依据二”—联邦法律优于州法律，两者不可并行。
+【深层解读】首段已知最高法院对矛盾双方“州政府 VS联邦政府”均有惩处，而本段聚焦前者（5:3），预
+示文中结构力“总一分”形式，后文还会细述针对后者的裁决（8:0）。另外，本段④句中的 attempted （to
+try to do sth, especially sth difficult）与首段②句effort 如出一辙，动作分别由双方发出，突显两方都很强
+势坚决，一方面暗示现有联邦移民法的温和无力引发州不满，反衬成文背景，另一方面②句中的
+Washington宏观上代表联邦政府，具体指代“立法分支（国会）”，提示除关注纵向的“联邦VS州”之间的
+博弈，还应关注横向的三权分立情况，即行政（奥巴马政府）、立法（国会）、司法（最高法院）三者间的制衡
+关系。
+IIl ①Justice Anthony Kennedy, joined by Chief
+大法官安东尼•肯尼迪以及首席大法官约
+Justice John Roberts and the Court's liberals, ruled
+翰•罗伯茨和高院自由派大法官栽定亚利桑那
+that the state flew too close to the federal sun. ②0n
+州肆意挑衅联邦权威。针对被推翻的（三项）条
+the overturned provisions the majority held Congress
+款，多数大法官认 国会已慎重地“先占领城”，
+had deliberately" *occupied the field" and Arizona had
+因此亚利桑那州侵犯了联邦特权。
+thus intruded® on the federal's privileged® powers.
+•词汇注释与难句分析•
+①dcliberately ［dr'liborot］ad. 有意地；慎重地
+• 经典搭配
+②intrude ［in'tru:d］v. 闯入，侵人
+①intrude on（侵犯，违背）
+③privileged ［'prrvaldsd］a. 享有特权的
+②privileged powers（特权）
+39
+
+### PDF p40
+
+•语篇分析•
+第三至五段详述裁定一中大法官争议双方（5:3）所执观点。第三、四段先介绍多数票方（5）观点。
+第三段借观点明确四项争议条款中三项被认定无效的原因。关键词为：①ruled； ②the majority held。
+①句概述多数票方法官的裁定（ruled）。the federal sun 喻指“联邦权威”，the state flew too close to
+the federal sun 暗示州政府太过自行其是，藐视联邦特权（fly too close to the sun 语出希腊神话典故，详
+见“背景知识”），而这与宪法相悖，直接点明判决亚利桑那州败诉的原因。
+②句细述多数票方法官的观点（held）。完成时态 Congress had “occupied the field” 细说原因：作为
+联邦立法分支的国会已“先占领域（即移民立法）”，依照宪法，州政府不得再有任何介人（“occupy the
+field”详见“背景知识”），副词 deliberately 强调国会不仅“先占”而已，而且是按计划执行的慎重之举，加
+倍突显亚利桑那州属明知故犯，法官裁决理据充分；federal's privileged powers 呼应上段 Washington
+alone，具体指“作为联邦政府分支之一的国会不容侵犯的专权”。
+【深层解读】两句话中的关键词•.ruled 与 the majority held...提示本段是继上段笼统介绍后的细
+化说明，进一步明确裁定内容及原因；而两段反复对原因着墨无非想加以强调，故为潜在考点。两句中
+均涉及难理解信息，如①句裁定中的 flew too close to the federal sun 以及②句原因中的 occupied the
+field，但根据前两段已知信息“州多项条款被推翻、州制定了与联邦法并行的移民政策，违背宪法原则”，
+不难推断裁定内容。②句中 Congress（国会）看似突兀，实际回应上段 Washington，突出强调联邦（具体
+为立法机构）权威：联邦法优先于州法，故能推知“先占领域”大致含义。
+• 真題精解•
+36. Three
+provisions of Arizona's plan were overturned
+36. 亚利桑那州方案中的三项条款被推
+because they
+翻，原因在于它们
+［A］ disturbed the power balance between different states
+［A］ 打破了各州间的权力平衡
+［B］ overstepped the authority of federal immigration law
+［B］逾越了联邦移民法的权威
+LC］ deprived the federal police of Constitutional powers
+［C］剥夺了联邦警察的宪法权力
+［D］ contradicted both the federal and state policies
+［D］与联邦及州政策都有所抵触
+［精准定位］第二段②③句指出，宪法规定“只有国会才有权制定统一的移民法；联邦法优先于州
+法”，而亚利桑那州已试图制定与联邦法并行的政策；第三段②句进一步明确多数大法官意见：国会已
+“先占领域”，亚利桑那州因此侵犯了联邦特权，故［B］正确。
+［命题解密］B］是对第三段②句后半部分的细化，其中 overstepped 与 intrude on、the authority of
+federal. ..与 federal's privileged powers 属同义表达。
+［A］源于首段②句 upset the balance of power，但文中主体为“联邦政府VS各州之间”，而非“各州之
+间”。［C］是对第二段①句 have state...enforce federal immigration law 的过度解读，亚利桑那州仅要求
+州警察执法，并未（也无法）剥夺联邦警察权力。［D］偷换概念，案件焦点是“州政策是否侵犯联邦特权”，
+而非“政策内容不统一、有矛盾”；另外，亚利桑那州移民法案本就属于州政策，不会自相矛盾。
+［技巧总结］由“下题针对第四段设题”推知本题对应的内容为前三段；而第三段②句 the overturned
+provision、the majority held （hold 引出“观点、依据”）分别对应题干信息 Three provisions. .. were
+overturned以及 because，故该句实为直接线索；句中“occupied the field”虽不明其意，但and...thus...明
+显为“结论性内容”，再结合上段②③句对宪法原则的强调，不难判定答案。
+40
+
+### PDF p41
+
+I
+①國
+However, the Justices said that Arizona
+不过，法官们表示亚利桑那州警察可以
+police would be allowed to verify"the legal status of
+对他们认为身份可疑的人口进行身份核查。
+people who come in contact with law enforcement
+因为国会一直设想未来联邦和州政府在移民
+② That's because Congress has always envisioned joint
+政策上能够通力合作，也明确鼓励州官员与
+federal-state immigration enforcement and explicitly
+encourages
+state officers to share information and
+联邦同事间能够共享信息，彼此协作。
+cooperate with federal colleagues.
+•词汇注释与难句分析•
+①verify ［'venfar］v. 核实；查证
+①come in contact with（接触到）
+②enforcement ［en'fossmant］n. 执行
+②law enforcement（执法）
+• 经典搭配
+•语篇分析，
+第四段借观点补充说明四项争议条款中一项被保留的原因。关键词为：①the Justices said； ②because。
+①句转而指出大法官认可的条款（said）：允许州警察核查人口身份。However...would be allowed
+10...转换视角，开始就获准条款展开介绍。come in contact with law enforcement 字面意思为“接触到、
+遇到执法”，即，（某人）受执法机关怀疑而发生接触，故此处指“（某人）疑似非法移民”。
+②句解释原因（because）：国会希望移民问题上联邦与各州能够通力合作。envision 意力 to imagine
+sth that you think might happen in the future, esp. sth that you think will be good”展望（尤指美好的
+事）”，has always envisioned 暗示移民问题复杂难解，国会很希望联邦和各州能够联手，因此明确鼓励大
+象互迪信息（explicitly encourages...），但更深层的实质性合作一直未达成，而亚利桑那州移民方案中这
+一条款正好是个契机，故获准保留。
+【深层解读】本段从结构来看为插人段：上两段聚焦5:3中的“5”，下段聚焦“3”，均围绕“4项争议内
+容中被推翻的3项”展开，而本段介绍“未遭推翻（即获认可）的1项”；看似是简单补充，实际上暗中回应
+首段裁决二，将含混的文意明朗化（把两项裁决串成一案）：首段②句“奥巴马政府完败”实指“大法官全
+票支持各州有权盘查疑似移民身份（The Justices 指代“全体法官”），为下文介绍奥巴马政府对裁决的不
+满与专断做好铺垫。
+•真題精解。
+37.
+On which of the following did the Justices agree，|
+37.由第四段可知，大法官认可下列哪项
+according to Paragraph 4？
+内容？
+LAJ Congress's intervention in immigration enforcement.
+［A］ 国会可以对移民执法问题进行干预。
+［B］ Federal officers'duty to withhold immigrants' information.
+［B］联邦官员有责任对移民的信息保密。
+LC」 States' legitimate role in immigration enforcement.
+［C］ 各州在移民执法问题上有其合法作用。
+［D］ States' independence from federal immigration law.
+［D］各州不受联邦移民法的约束。
+［精准定位］第四段①句指出：大法官表示允许亚利桑那州警察对疑似非法移民者进行法律身份核
+查。可见，大法官认同各州在移民执法问题上的合法角色，［C］正确。
+［命题解密］［C］中 States’ legitimate role 和 immigration enforcement 分别对应①句中 Arizona police
+would be allowed to 和 verify the legal status。
+［A］把第四段②句“对法官之所以同意各州有权核查移民身份的解释，即国会希望各州与联邦在移
+民问题上合作”曲解为“法官认同国会有权干预执法”。［B］利用第四段暗含之意“法官支持国会意愿”千
+扰，但②句后半句“国会鼓励联邦与各州在移民问题上能共享信息”与“对信息保密”矛盾；其次选项将文
+中“移民事务相关信息”缩小为“移民者信息”。［D］利用全段总基调“认可州执法权”干扰，但“独立于联
+41
+
+### PDF p42
+
+邦法之外”属臆造内容，违背上下文对宪法“联邦法优先于州法”的强调。
+［技巧总结］针对段落内容的细节题通常选项信息繁多，可以先进行纵向对比分析，把信息化整为
+零，分别比对原文。本题的选项共涉及三个主体：1）国会、2）联邦官员、3）各州；而题干锁定的①句仅提
+及“州警察”，故可以锁定答案的主体为“各州”。其次在文中寻找各主体的对应行为：1）设想联邦和各州
+在移民执法上能合作（②句）、2）被国会鼓励和各州同事分享信息、3）被法官允许盘查疑似移民身份、4）
+被国会鼓励与联邦合作。很明显只有第三项（［C］）能与题干信息“大法官认可”对应，其余项实质上是国
+会认可的内容。
+① Two of the three objecting Justices—Samuel
+投反对票的三位大法官中，塞缪尔•阿里
+Alito and Clarence Thomas—agreed
+with this
+托和克拉伦斯•托马斯赞同这一宪法逻辑，但
+Constitutional logic but disagreed about which Arizona
+在“亚利桑那移民法中哪些条款与联邦法规相
+rules conflicted®
+with the federal statute®
+．②國The
+抵触”这一问题上，他们持不同意见。唯一主
+only major objection came from Justice Antonin Scalia，
+要异议来自大法官安东宁•斯卡利亚，他可
+who offered an even more robust®defense of state
+以追溯到《外国人与煽动叛乱法案》的州级特
+privileges going back to the Alien and Sedition Acts.
+权进行了更强有力的辩护。
+•词汇注释与难句分析
+①conflict ［kpnflkt］v. 冲突
+①agree with（同意）
+②statute ［'staetJu:t］n. 法规；法令
+②conllict with（与⋯••相抵触、冲突）
+③robust ［rou'bast］a. 强有力的
+③go back to（追溯到）
+• 经典搭配
+•语篇分析
+第五段详细介绍反对票方（3）大法官所执观点。关键词为：objecting。
+①句介绍其中两位法官观点：认可联邦特权，但不认同三项条款侵权。this Constitutional logic 回指
+上文 Constitutional principles，即判决依据（第二段②句）：只有国会才能制定统一的归化法，联邦法律优
+先于各州法律。agree with...but disagree about 结构呈现出两位法官“有保留的反对意见”：承认宪法所
+规定的联邦特权，但并不认同三项条款与联邦移民法相抵触。
+②句介绍另一位较激进法官的态度：坚决强调州特权。only major objection 反向呼应上句 agreed
+with.，表明安东宁与前两位法官的态度差异：完全反对多数票方观点，即，不认可宪法规定的“联邦特
+权”；even more robust defense（robust 指“强有力的”）凸显其维护州特权的坚决立场，going back to...暗
+示这一法案订立之初认可各州拥有处理移民事务的权力。
+【深层解读】首段已知全文立意重在“裁定二”（on the more important matter..），即“批判奥巴马政
+府滥权、肯定州应有权利”，而本段聚焦的是裁定一当中的少数方看法，因此并非全文主要段落，故若涉
+及命题，更多只会侧重段落细节，解题时应结合段落主旨而非全文主旨。
+•真题精解。
+38. It can be inferred from Paragraph 5 that the Alien and
+38.从第五段可以推知，《外国人和煽动叛
+Sedition Acts
+乱法案》
+。
+［A stood in favor of the states
+［A］维护各州利益
+［B supported the federal statute
+［B］支持联邦法规
+「Cl undermined the states' interests
+［C］损害各州利益
+「D］ violated the Constitution
+［D］违反了宪法
+42
+
+### PDF p43
+
+［精准定位］第五段②句末表明，州政府特权可追溯到《外国人和煽动叛乱法案》，即此法案是支持州
+级拥有特权的，Antonin 法官正是以此为其论据极力捍卫州特权，因此［A］正确。
+L命题解密1LA］由第五段②句后半句提炼而出，对短语 going back to 的正确理解是解题关键。
+［B］利用惯常思维“任何法案理应遵循、支持联邦法规”干扰，背离文意及实际。［C］将 going back to
+内含的“顺承逻辑”曲解为“反向对立关系”
+’。［D］从“亚利桑那移民法诸多条款被判违宪，《法案》肯定州
+特权”简单推出“该法案违宪”，脱离语境。
+［技巧总结］本题形式上考查细节，微观看实际考查短语认知；但宏观上更要考查对（就争议问题的）
+人物态度的把握。第五段针对5:3投票中的少数反对票展开，题干所涉法案位于②句末，而该句聚焦的
+是反对者中最激进的法官看法（即坚决维护州特权），going back to...整个结构既然是作为这一特权的
+限定修饰语，则法案只能扮演“支撑法官观点”的角色，［B］和［D］与“州特权”无关，［C］与法官态度相反，
+只有［A］是大法官提及该法案的用意。
+VI ①The 8-0 objection to President Obama turns on
+最高法院8:0投票反对奥巴马总统的
+what Justice Samuel Alito describes in his objection as "a
+原因在于“其对于联邦行政权令人震惊的维
+shocking assertion" of federal executive power”. @The
+护”，诚如塞缪尔•阿里托在其反对意见中
+White House argued that Arizona's laws conflicted with
+所述。白宫认力亚利桑那州移民法与自己
+its enforcement priorities, even if state laws complied
+的执法优先权相抵触，即便州法律一字一句
+with federal statutes to the letter. ③ In effect, the White
+严格遵循联邦法律。事实上，白宫断言自己
+可以废除任何其他虽合法却不被白宫认可
+House claimed that it could invalidate®any otherwise
+的州级法律。
+legitimate® state law that it disagrees with.
+•词汇注释与难句分析•
+①assertion ［o'so:jon］ n. 声明
+①turn on（以
+••为中心、取决于）
+②invalidate ［un'veelidert］v. 使无效
+②comply with（遵守；符合）
+③legitimate ［u'dstumtt］a. 合法的
+③to the letter（丝毫不差；不折不扣）
+• 经典搭配
+①in effect（实际上，事实上）
+语篇分析•
+第六，七段围绕裁定二展开论述。
+第六段具体论述裁定二的投票结果及其依据。关键词为：8：0 objection。
+①句解释裁定二（8:0）原因：白宫企图滥用权力。turn on（意为 if a situation turns on a particular
+thing or idea, it depends on that thing“取决于”）体现因果逻辑；what...describes in... as...引出“阿里托
+法官在反对意见中的说辞”，借以呈现促成此裁决的“白宫不当之举（a shocking assertion of...）”；
+shocking（让人震惊的/愤慨的）修饰 assertion（意力 the act of stating or claiming sth strongly”强烈主张”）
+突显奥巴马（政府）公然蔑视“各权力之间分立与制衡”这一宪法原则，由此招致法官全票否决。注：由首
+段背景说明可知，8:0裁决具体针对的是亚利桑那州移民法中获准保留的一项条款，也就是第四段中所
+述的“州警察有权对疑似非法移民进行盘查”。
+②③句借宫（奥巴马政府）说辞展示其滥权表现。两句虽为并列结构（The White House argued、
+the White House claimed），但其实通过 argue（提出理由［说明］）与claim（［无证据］断言、声称）暗藏的态
+度递变以及③句中In effect（用以“引出事实”）逐层展现奥巴马政府过错：白宫执法优先权虽为宪法规
+定，但“冠州以罪名”应属联邦法院特权，白宫有越权之嫌；而事实上也确实越权了—声称自己有权推
+翻任何其不认可的州法律，无视联邦立法机构权威（总统提出反对后仍需国会复议）。注：③句中
+otherwise为生僻用法：in other respects“在其他方面；亦”，该词与 any 一起彰显白宫的权力跋扈：不止是
+43
+
+### PDF p44
+
+移民法而已，其他方面的州法律，但凡不我认可，就算合法也不能生效。
+【深层解读】argue（to state, giving reasons, that sth is true）及 claim（to state that sth is true, even
+though it has not been proved）两词突显奥马政府言论带有强烈主观色彩：自认有理有据，但却未经事
+实论证，再加上 a shocking assertion 也已对此做了铺垫，尽现奥巴马政府“自视最高唯一决策者”的咄咄
+逼人之势，又一次暗示作者站位（支持8:0裁决），同时为下文批驳竖起鲜明的靶子。
+•真題精解•必
+39. The White House claims that its power of enforcement
+39.白宫宣称其执法权
+-。
+［A］ is dependent on the states'
+Support
+［A］ 倚赖各州支持
+［B］ is established by federal statutes
+［B］基于联邦法规规定
+［C］ outweighs that held by the states
+［C］ 大于各州执法权
+［D］ rarely goes against state laws
+［D］鲜少与州法律抵触
+［精准定位］第六段②③句指出，白宫认定亚利桑那州法律与其执法优先权相抵触；它更有权宣布任
+何它不认可的州法律无效，故［C］正确。
+［命题解密］LC］是对②③句白宫说辞的总结：outweighs..
+the states 是对
+priorities、could
+invalidate any...state law 的概括。
+［A］与原文相悖：奥巴马政府极力凸显自身行政权，全然漠视各州应有的行政权。［B］与“最高法院一
+致裁决反对奥巴马总统”的大背景相盾。［DJ对②句提到的.•state laws complied with federal statute .••
+断章取义，但该内容意在凸显白宫的专断：就算州法律与联邦条文法完全吻合，也仍然冒犯其特权。
+［技巧总结］当所有选项方向性非常明确时，除了细节定位以外，还应借助段落、段群或全文主旨解
+题。本题四个选项“黑白分明”：［A］、［B］和［D］中的“遵循联邦法规、依赖各州、尊重各州法规”均体现
+“奥巴马政府循规蹈矩的乖形象”，而这完全背离开篇就指出的“8:0全票反对奥巴马政府”以及本段对该
+内容的细述，所以本题利用主旨便可迎刃而解。
+① Some powers do belong exclusively®to the
+联邦政府确实在一些问题上拥有专属
+federal government,and control of citizenship and the
+权，其中包括对公民身份和边界的控制权。
+borders is among
+them. ② But if Congress wanted to
+但是如果国会想阻止各州自行其是对移民
+prevent states from using their own resources to check
+身份进行核查，它有权如此。（可）国会从未
+immigration status, it could. ③It never did so.
+④西The
+这么做过。实质上奥巴马政府宣称的是：因
+Administration® was in essence asserting that because it
+为它自己不想执行国会在移民事务上的意
+didn't want to carry out Congress's immigration wishes，
+愿，所以任何州也不允许执行。每位大法官
+no state should be allowed to do so either.
+⑤ Every
+理当抵制这一惊人言论。
+Justice rightly" rejected this remarkable®claim.
+• 词汇注释与难句分析，
+①exclusively ［uk'sklussivl］ad. 唯一地；专有地
+• 经典搭配
+②administration ［od minis'trerjan］ n. 管理；行政
+①in essence（实际上，其实）
+③rightly ［'rartl］ad. 合适地；恰当地
+② carry out（执行、贯彻、完成、实现）
+④remarkable ［ri'ma:kabl］a. 值得注意的；惊人的
+• 语篇分析，
+第七段详细阐述裁定二中大法官所执观点。关键词为：rightly rejected。
+①句让步认可联邦政府在某些问题上的专权。注意此处 federal government 并非宏观意义上的=
+权合一的联邦当局，而是专指行政分支，即 Obama Administration。强调词 do（的确）与表“部分”的 some
+44
+
+### PDF p45
+
+powers，连同②句首词But一起，表明上下文为“••⋯倒是事实，但⋯⋯•”的逻辑，即本句旨在为下文“批
+驳”作铺垫。and 表句内语意递进，将联邦行政机构专权范围直接挂钩本文聚焦的内容。
+②至⑤句转而揭示奥巴马政府越权之举，阐释大法官一致反对的理由。
+②③句对比立法分支的做法侧面反衬行政分支之过。两句中 it 均回指 Congress, so 回指 to
+prevent...status，句间暗含转折逻辑，即 it could，（but） it never did so。 to prevent... status 细化①句
+control of citizenship，两句言外之意：三权分立宪制下，国会也有权干涉州执法，却从未干涉过，而奥巴
+马政府企图“一家独大”，有悖宪法原则。
+④句明确指出行政分支之过。The administration 与①句 the federal government 同指，视角回到联
+邦政府说明其言行；in essence asserting（in essence = when you consider the most important points，用于
+“引出最重要的点”），呼应上段③句 In effect，（the White House） claimed，进一步明确奥巴马政府言行
+的要害之处：越过、甚至背离国会意愿，对州执法横加干涉。it didn't want to..，no state should be
+allowed...either（我不想，各州也别想）突显奥巴马政府“横向无视国会、纵向无视州权力”的独断专横。
+⑤句顺而重申裁决并表明其公正性。remarkable（非凡、不同寻常的）为褒词贬用，实际强调奥巴马
+政府言行“远超容忍程度”； Every justice rejected...呼应开篇以及上段8-0 objection to President Obama，
+以副词 rightly（公正地，正确地）收束全篇，昭示作者对“0支持裁定结果”的赞许。
+【深层解读】考研阅读文章结尾段常常也是“观点总结段”，为了既体现论述的客观又突显自身观点，
+常常采取“让步一转折”的论证形式，即“先对敌方进行部分肯定，后转而发起批驳”。本段首句让步肯定
+奥巴马政府的法定权力，随后痛斥其“可恨之处（公然越权）”，并在结尾对法官裁决（对其遏制）表示“大
+快人心”，实现全篇的圆合。
+．真题精解•泌
+40. What can be learned from the last paragraph？
+40.从最后一段可以了解到什么？
+LA］ Immigration issues are usually decided by Congress.
+［A］移民同题常由国会定夺。
+［B］ The Administration is dominant over immigration issues.
+［B］ 奥巴马政府在移民问题上居主导地位。
+［C］ Justices wanted to strengthen its coordination with
+［C］大法官想要加强自己同国会间的合作。
+Congress.
+LD」 Justices intended to check the power of the Administration.
+［D］大法官准备限制奥巴马政府的权力。
+［精准定位］第七段④句明确：联邦政府断言只要自己不愿履行国会的移民意愿，它也有权阻止各州
+履行；⑤句转而指出：所有法官对该断言一致投出反对票。因此，法院裁决意在打击奥巴马政府滥用行
+政权，限制其滥权之举，［D］符合文意。
+［命题解密JD］是对大法官一边倒裁定的概括，体现裁决意图：要通过限制奥巴马政府权力，维持
+“白宫 VS国会、联邦VS州”间的权力平衡。
+［A］将②句国会权力“也可干预各州的移民执法问题”放大扭曲为“决定移民问题”。［B］把④句“白
+宫宣称内容”偷换为“事实”，事实上这一宣称遭到高院一致反对。［C］过度解读④⑤句内容：大法官在移
+民问题上确实认可国会意愿，但“加强与之的合作”首先在文中并无依据，其次高院作为联邦司法机构，
+实际上独立于行政、立法之外，三权合一却又相互制衡，因而不会与任何方合作。
+［技巧总结］文章最后一题常落脚于全文，所以“态度题”或“标题题”是常见题型，但也应切记，其他
+题型同样与全文主题密切相关，正确项不会落在“配角或次要情节”上。本文主人公为“最高法院、联邦
+政府（白宫、奥巴马政府）、亚利桑那州政府”，核心事件为“移民法案”，［A］涉及事件，［C］涉及主人公（大
+法官），但国会只是文中配角；［B］淡定指出奥巴马政府在移民问题上的权力，丝毫没有全篇“博弈较量”
+的汹涌之感；只有［D］既围绕主人公展开，又体现“博弈较量”。
+45
+
+### PDF p46
+
+7 Part B
+社会科学家应致力于解决全球性问题
+外教朗读
+学 总体分析
+本文摘自 Natre《自然》2012年04月26日一篇题力 Make Social Sciences Relevant（使社会科学更
+具相关性）的文章。作者指出社会科学家不应局限于学科问题和内部辩论，而应加强跨学科合作，致力
+于解决全球性问题，按照“指出问题‘社会科学在应对全球性挑战中贡献不足’（第一至三段）——分析原
+因‘社会科学对现实问题缺乏恰当、全面的关注’（第四、五段）提出解决方案‘合理利用基金，投人跨
+领域合作，解决全球性问题’（第六、七段）”的脉络行文。
+净二.语篇分析
+I The social sciences are flourishing". As of
+社会科学正蓬勃发展。至2005年，来自
+2005,there were almost half a million professional
+世界各领域的专业社会科学家巴有近50万，
+social scientists from all fields in the world, working
+他们活跃于学术界内外。根据《2010 世界社
+both inside and outside academia®. According to the
+会科学报告》，自2000年以来，全球社会科学
+World Social Science Report 2010, the number of
+专业的学生数量每年以约11%的速度增长。
+social-science students worldwide has swollen® by about
+11% every year since 2000.
+Yet this enormous®
+resource is not contributing
+但是，如此巨大的资源并没有为应对当今
+enough to today's global challenges including climate
+诸多全球性挑战（包括气候变化、安全问题、可
+change, security, sustainable® development and health.
+持续发展及健康问题）做出足够贡献。（41）
+（41）
+Humanity has the necessary
+人类已经拥有了从转基因作物
+agro-technological® tools to eradicate®hunger, from
+到人工肥料的各种必要农业技术工具来消除
+genetically engineered crops to artificial® fertilizers®
+饥饿。（然而）这里的问题也是社会性的，如粮
+Here, too,the problems are social: the organization and
+食、财富和繁荣的组织与分布。
+distribution of food, wealth and prosperity.
+［（42）
+This is a shame - the
+（42）
+这真令人遗憾
+community should be grasping the opportunity to raise
+社科界本应正在抓住这一机遇提升自己在现
+its influence in the real world. To paraphrase" the
+实世界的影响力。套用卓越的社会科学家约
+great social scientist Joseph Schumpeter: there is no 瑟夫•熊彼特的话：没有创造性的毁坏就没有
+radical innovation without creative destruction®
+彻底的革新。
+•词汇注释与难句分析•
+①flourishing ［'flarJu］a. 繁荣的
+⑧artificial ［ra:t'frjal］ a. 人造的
+②academia［reko'di:mr］ n. 学术界
+⑨fertilizer［'fslaizo］ n. 肥料
+知识补充
+③swell ［swel］v. 增加，上涨
+10 paraphrase ［'peerofrerz］v.（用更容易
+④enormous ［i'no:mos］a. 庞大的，巨大的
+理解的文字）解释
+⑤sustainable ［so'sternbal］a. 可持续的
+① destruction ［dr'strAkjan］n. 破坏，毁灭
+⑥agro-technological 农业技术的
+S
+• 经典搭配
+⑦eradicate ［i'raedikert］v. 根除
+as of 直至，在…⋯时
+•语篇分析•以
+第一至三段文章第一部分，提出问题情形：社会科学在蓬勃发展，却在应对全球性挑战中贡献不足。
+第一段从正面现象入手：社会科学在蓬勃发展。
+46
+
+</details>
+
+## 读取边界
+
+- 本页不得用于自主练习、题干翻译或选项含义讨论。
+- 用户解锁后优先读取对应 Q 区块；若 OCR 文字存在歧义，再查看同页逐页证据的 PDF 文字层或外部视觉原页。
+- 本次预处理不写 `master_bank.csv`、句式卡、Tutor 或 review 文件。

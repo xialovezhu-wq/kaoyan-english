@@ -1,0 +1,110 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2014-T1",
+  "source_id": "RAW-ARTICLE-20260711-017",
+  "ingest_date": "2026-07-11",
+  "year": 2014,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 1,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2014年考研英语一真题.pdf",
+  "truth_pages": [
+    4,
+    5
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "analysis_page_range": "9-16",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2014/text-1.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2014/text-1.json",
+  "article_path": "articles/2026-07-11-2014-english-i-text-1.md",
+  "passage_paragraphs": [
+    "In order to “change lives for the better” and reduce “dependency”, George Osborne, Chancellor of the Exchequer, introduced the “upfront work search” scheme. Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit — and then they should report weekly rather than fortnightly. What could be more reasonable?",
+    "More apparent reasonableness followed. There will now be a seven-day wait for the jobseeker’s allowance. “Those first few days should be spent looking for work, not looking to sign on,” he claimed. “We’re doing these things because we know they help people stay off benefits and help those on benefits get into work faster.” Help? Really? On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with “reforms” to an obviously indulgent system that demands too little effort from the newly unemployed to find work, and subsidises laziness. What motivated him, we were to understand, was his zeal for “fundamental fairness” — protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.",
+    "Losing a job is hurting: you don’t skip down to the jobcentre with a song in your heart, delighted at the prospect of doubling your income from the generous state. It is financially terrifying, psychologically embarrassing and you know that support is minimal and extraordinarily hard to get. You are now not wanted; you are now excluded from the work environment that offers purpose and structure in your life. Worse, the crucial income to feed yourself and your family and pay the bills has disappeared. Ask anyone newly unemployed what they want and the answer is always: a job.",
+    "But in Osborneland, your first instinct is to fall into dependency - permanent dependency if you can get it — supported by a state only too ready to indulge your falsehood. It is as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened. The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens. Even the very phrase “jobseeker’s allowance” is about redefining the unemployed as a “jobseeker” who had no fundamental right to a benefit he or she has earned through making national insurance contributions. Instead, the claimant receives a time-limited “allowance,” conditional on actively seeking a job; no entitlement and no insurance, at £71.70 a week, one of the least generous in the EU."
+  ],
+  "questions": [
+    {
+      "number": 21,
+      "prompt": "George Osborne’s scheme was intended to",
+      "options": {
+        "A": "encourage jobseekers’ active engagement in job seeking.",
+        "B": "provide the unemployed with easier access to benefits.",
+        "C": "guarantee jobseekers’ legitimate right to benefits.",
+        "D": "motivate the unemployed to report voluntarily."
+      }
+    },
+    {
+      "number": 22,
+      "prompt": "The phrase “to sign on” (Line 3, Para. 2) most probably means",
+      "options": {
+        "A": "to check on the availability of jobs at the jobcentre.",
+        "B": "to accept the government’s restrictions on the allowance.",
+        "C": "to register for an allowance from the government.",
+        "D": "to attend a governmental job-training program."
+      }
+    },
+    {
+      "number": 23,
+      "prompt": "What prompted the chancellor to develop his scheme?",
+      "options": {
+        "A": "A desire to secure a better life for all.",
+        "B": "An eagerness to protect the unemployed.",
+        "C": "An urge to be generous to the claimants.",
+        "D": "A passion to ensure fairness for taxpayers."
+      }
+    },
+    {
+      "number": 24,
+      "prompt": "According to Paragraph 3, being unemployed makes one feel",
+      "options": {
+        "A": "uneasy.",
+        "B": "insulted.",
+        "C": "enraged.",
+        "D": "guilty."
+      }
+    },
+    {
+      "number": 25,
+      "prompt": "To which of the following would the author most probably agree?",
+      "options": {
+        "A": "Unemployment benefits should not be made conditional.",
+        "B": "The British welfare system indulges jobseekers’ laziness.",
+        "C": "The jobseekers’ allowance has met their actual needs.",
+        "D": "Osborne’s reforms will reduce the risk of unemployment."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 427,
+    "paragraphs": 4,
+    "source_token_count": 428,
+    "final_token_count": 428,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

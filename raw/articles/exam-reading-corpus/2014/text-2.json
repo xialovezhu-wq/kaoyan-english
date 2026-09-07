@@ -1,0 +1,112 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2014-T2",
+  "source_id": "RAW-ARTICLE-20260711-018",
+  "ingest_date": "2026-07-11",
+  "year": 2014,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 2,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2014年考研英语一真题.pdf",
+  "truth_pages": [
+    6,
+    7
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "analysis_page_range": "19-25",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2014/text-2.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2014/text-2.json",
+  "article_path": "articles/2026-07-11-2014-english-i-text-2.md",
+  "passage_paragraphs": [
+    "All around the world, lawyers generate more hostility than the members of any other profession — with the possible exception of journalism. But there are few places where clients have more grounds for complaint than America.",
+    "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation. The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools. But most law graduates never get a big-firm job. Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare.",
+    "There are many reasons for this. One is the excessive costs of a legal education. There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject, then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam. This leaves today’s average law-school graduate with $100,000 of debt on top of undergraduate debts. Law-school debt means that they have to work fearsomely hard.",
+    "Reforming the system would help both lawyers and their customers. Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them. One idea is to allow people to study law as an undergraduate degree. Another is to let students sit for the bar after only two years of law school. If the bar exam is truly a stern enough test for a would-be lawyer, those who can sit it earlier should be allowed to do so. Students who do not need the extra training could cut their debt mountain by a third.",
+    "The other reason why costs are so high is the restrictive guild-like ownership structure of the business. Except in the District of Columbia, non-lawyers may not own any share of a law firm. This keeps fees high and innovation slow. There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically.",
+    "In fact, allowing non-lawyers to own shares in law firms would reduce costs and improve services to customers, by encouraging law firms to use technology and to employ professional managers to focus on improving firms’ efficiency. After all, other countries, such as Australia and Britain, have started liberalizing their legal professions. America should follow."
+  ],
+  "questions": [
+    {
+      "number": 26,
+      "prompt": "A lot of students take up law as their profession due to",
+      "options": {
+        "A": "the growing demand from clients.",
+        "B": "the increasing pressure of inflation.",
+        "C": "the prospect of working in big firms.",
+        "D": "the attraction of financial rewards."
+      }
+    },
+    {
+      "number": 27,
+      "prompt": "Which of the following adds to the costs of legal education in most American states?",
+      "options": {
+        "A": "Higher tuition fees for undergraduate studies.",
+        "B": "Receiving training by professional associations.",
+        "C": "Admissions approval from the bar association.",
+        "D": "Pursuing a bachelor’s degree in another major."
+      }
+    },
+    {
+      "number": 28,
+      "prompt": "Hindrance to the reform of the legal system originates from",
+      "options": {
+        "A": "the rigid bodies governing the profession.",
+        "B": "lawyers’ and clients’ strong resistance.",
+        "C": "the stern exam for would-be lawyers.",
+        "D": "non-professionals’ sharp criticism."
+      }
+    },
+    {
+      "number": 29,
+      "prompt": "The guild-like ownership structure is considered “restrictive” partly because it",
+      "options": {
+        "A": "prevents lawyers from gaining due profits.",
+        "B": "bans outsiders’ involvement in the profession.",
+        "C": "aggravates the ethical situation in the trade.",
+        "D": "keeps lawyers from holding law-firm shares."
+      }
+    },
+    {
+      "number": 30,
+      "prompt": "In this text, the author mainly discusses",
+      "options": {
+        "A": "the factors that help make a successful lawyer in America.",
+        "B": "a problem in America’s legal profession and solutions to it.",
+        "C": "the role of undergraduate studies in America’s legal education.",
+        "D": "flawed ownership of America’s law firms and its causes."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 420,
+    "paragraphs": 6,
+    "source_token_count": 430,
+    "final_token_count": 430,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

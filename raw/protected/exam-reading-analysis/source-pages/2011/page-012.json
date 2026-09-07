@@ -1,0 +1,390 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P012",
+  "year": 2011,
+  "pdf_page": 12,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.024304945745555195,
+      "text": "place of the listener's choosing. ④®The widespread availability of",
+      "width": 0.5112926686993082,
+      "x": 0.08050631389340228,
+      "y": 0.9130044977337304
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "以自主选择“消费”它们的时间和地点。",
+      "width": 0.34255317513269323,
+      "x": 0.6127659684797525,
+      "y": 0.9126466753561943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01697237519583772,
+      "text": "such recordings has thus brought about a crisis in the institution®",
+      "width": 0.5067159638150047,
+      "x": 0.08071605867436688,
+      "y": 0.8979437756419179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "因此，这类音乐录音的普遍可得性已经子",
+      "width": 0.3404255350127474,
+      "x": 0.6127659534723497,
+      "y": 0.890988371831934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01173781913448968,
+      "text": "of the traditional classical concert.",
+      "width": 0.2638297918188663,
+      "x": 0.08085106483524762,
+      "y": 0.880704041460748
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696884,
+      "text": "致（听）传统古典音乐会的习俗陷入危机。",
+      "width": 0.3404255350127475,
+      "x": 0.6127659593021367,
+      "y": 0.8720930235594306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555729041665244,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.21914892706252231,
+      "x": 0.39148936406448354,
+      "y": 0.8270348839373376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014589839373293945,
+      "text": "①devoted ［di'vautd］a. 挚爱的；忠诚的；全心全意的",
+      "width": 0.3978723424081584,
+      "x": 0.08085106568041925,
+      "y": 0.7950581399215568
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696884,
+      "text": "⑥institution ［unsti 'tju:Jon］n. 由来已久的习惯，制度",
+      "width": 0.38510638520917817,
+      "x": 0.5446808467393826,
+      "y": 0.796511628137919
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095175953,
+      "text": "② concertgoer ［'kpnsat/gaua］ n. 音乐会常客",
+      "width": 0.3255319085739951,
+      "x": 0.08085106373427908,
+      "y": 0.7744458932486904
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "• 经典搭配",
+      "width": 0.10425531955165723,
+      "x": 0.5446808513411927,
+      "y": 0.7703488373917949
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013204572098196032,
+      "text": "（substitute L'sabsutju:t」n. 代替者；代替物",
+      "width": 0.3255319085739951,
+      "x": 0.08085106427683227,
+      "y": 0.7542372882196106
+    },
+    {
+      "confidence": 1,
+      "height": 0.014561413786091215,
+      "text": "①live/recorded performance（现场/录音演奏）",
+      "width": 0.3510638229719556,
+      "x": 0.5446808500831712,
+      "y": 0.747066492814362
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "④instrumentalist ［unstro'mentalist］ n. 乐器演奏家",
+      "width": 0.382978715969406,
+      "x": 0.0808510719621054,
+      "y": 0.7325581396335328
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014604999935145191,
+      "text": "②of one's choosing（自主选择）",
+      "width": 0.23617020818113366,
+      "x": 0.5468085136487948,
+      "y": 0.7252906977963491
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014648585462508024,
+      "text": "⑤troupe ［tru:p］n. 演出团，剧团，歌舞团",
+      "width": 0.30638297277552484,
+      "x": 0.08297872944202479,
+      "y": 0.7122093027164074
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "③bring about（引起，导致）",
+      "width": 0.20425531518368323,
+      "x": 0.5446808521953924,
+      "y": 0.7046936112411761
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020860495436766602,
+      "text": "，语篇分析•泌",
+      "width": 0.16595744358674258,
+      "x": 0.4319148961498911,
+      "y": 0.661016949419553
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "第四段进行第二轮反驳：“录音音乐无法替代现场演奏”的看法错误，事实上录音已使传统的听音乐",
+      "width": 0.8361702256530296,
+      "x": 0.12127659194298863,
+      "y": 0.6366279067423022
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "会习俗陷入危机。关键词为：①missing the point；②crisiso",
+      "width": 0.4893617120407921,
+      "x": 0.080851063766838,
+      "y": 0.6147327248878354
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "①句承上引出音乐会忠实听众观点的还击（录音音乐无法取代现场演奏），并再次表明作者的反击",
+      "width": 0.8404255058929211,
+      "x": 0.11702127910141204,
+      "y": 0.5930232556945794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017606727769197583,
+      "text": "（你们没有抓住核心问题）。Devoted concertgoers who reply that...（devoted contertegoers “忠实的音乐",
+      "width": 0.8808510467296339,
+      "x": 0.07872341831071486,
+      "y": 0.5710560628854877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "会听众”与上段的I”我，代表‘选择录音的普通音乐爱好者’”相对）引出音乐会忠实听众对上段观点的还",
+      "width": 0.8765957082500895,
+      "x": 0.0829787478810343,
+      "y": 0.5494186046226316
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "击：录音音乐无法替代。missing the point 则是作者的再次驳回，且预示下文：说明“核心问题”所指。",
+      "width": 0.840425505892921,
+      "x": 0.0829787469205605,
+      "y": 0.5273794003004193
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "②③④句论证①句观点，揭示核心问题：音乐录音已经使传统的古典音乐会习俗陷入危机。三句以",
+      "width": 0.8404255058929211,
+      "x": 0.11914894217765308,
+      "y": 0.5084745762250824
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "the recorded performances... These recordings... such recordings 衔接，回应①句 recordings。",
+      "width": 0.7829786693776837,
+      "x": 0.08297876346718604,
+      "y": 0.48691860471368553
+    },
+    {
+      "confidence": 1,
+      "height": 0.018743789802163402,
+      "text": "②句指出古典音乐乐团面临的最大竞争：20 世纪伟大古典音乐家的演奏录音。本句颠倒语序，不仅将",
+      "width": 0.8406225306387166,
+      "x": 0.11905705518324294,
+      "y": 0.4646091262148069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "For 介词结构放在句首凸显古典音乐面临全方位、多角度的争夺；更将 but also...置于句尾，辅助 not only.•",
+      "width": 0.8787233774898616,
+      "x": 0.08085108819655827,
+      "y": 0.44186046503324217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "but also...的递进逻辑（这一结构表面并列，实则语义递进，强调重点在于 but also 之后内容），凸显最重要语义",
+      "width": 0.8765957082500895,
+      "x": 0.08297873535823799,
+      "y": 0.4215116277330968
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "信息：20世纪伟大古典音乐家的演奏录音。",
+      "width": 0.3510638229719555,
+      "x": 0.08297873032253283,
+      "y": 0.39960886553714225
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017640838722517538,
+      "text": "③句进而解释②句：为什么这些录音是最具威胁的竞争对手？句子以 These recordings are...and",
+      "width": 0.8425531751326932,
+      "x": 0.11914893592301527,
+      "y": 0.3793604652028727
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095176064,
+      "text": "very often.•.；moreover，they. •.形成递进之势，逐级展示 20世纪录音音乐的各项优势：第一重（cheap，",
+      "width": 0.8808510467296339,
+      "x": 0.08085106357135342,
+      "y": 0.3572359843397087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "available everywhere）从录音音乐众所周知的优点人手；第二重（much higher in artistic quality than",
+      "width": 0.8808510467296339,
+      "x": 0.08085107972028939,
+      "y": 0.3370273796655795
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "today's live performances）还击①句音乐会忠实听众观点（recordings are no substitute for live performance）；",
+      "width": 0.882978715969406,
+      "x": 0.07872339693551003,
+      "y": 0.3154069769751283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "第三重（can be “consumed” at a time and place of the listener's choosing） 回应上段，指出录音音乐最大的竞争",
+      "width": 0.8787233774898617,
+      "x": 0.08085106622847366,
+      "y": 0.29335071688044556
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "力：任何时间任何地点均可“消费”。",
+      "width": 0.29361701557654457,
+      "x": 0.08085106374364263,
+      "y": 0.27180232540751537
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "④句总结意群，回应首句，揭示“核心问题”所指：这些音乐录音已使传统的听音乐会习俗陷入危机。",
+      "width": 0.8425531751326932,
+      "x": 0.11914893592301527,
+      "y": 0.2529069765993758
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016297262059973838,
+      "text": "句子以 has thus brought about 形成因果逻辑：The widespread availability of such recordings 表明“因”，",
+      "width": 0.8787233774898617,
+      "x": 0.08297874410967893,
+      "y": 0.22946544988414397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580364177559701,
+      "text": "概述③句提到的录音音乐种种优势；a crisis in the institution of the traditional classical concert",
+      "width": 0.8808510467296338,
+      "x": 0.08297874076284256,
+      "y": 0.20925684487928875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "（institution 此处意为“风俗，惯例”）述出“果”，明确首句 the point 所指：传统的古典音乐习俗已经陷人",
+      "width": 0.8787233774898616,
+      "x": 0.08085107612209046,
+      "y": 0.1874999996989397
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "危机（即：现场音乐会已经完全失去了立足之基）。",
+      "width": 0.4212765875663467,
+      "x": 0.08085107318491165,
+      "y": 0.16558018277883058
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018927564210655445,
+      "text": "【深层解读】第三、四段均为典型的驳论段落，不仅涉及两种观点的对立（本文作者观点 VS 音乐会",
+      "width": 0.8425531751326931,
+      "x": 0.1170212782315258,
+      "y": 0.14534883730564307
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017969986916831826,
+      "text": "忠实听众观点）；还涉及两种事物多层面的比较/对比（录音音乐VS现场演奏）。阅读的主要任务也就随",
+      "width": 0.8788147555052779,
+      "x": 0.08080490925150718,
+      "y": 0.12315329261326313
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "之包括两项：1）辨别观点（哪是作者观点，哪是音乐会忠实听众观点）；2）识别对比具体信息（具体关注点",
+      "width": 0.8787233774898617,
+      "x": 0.08085108085613296,
+      "y": 0.1029986962505075
+    },
+    {
+      "confidence": 1,
+      "height": 0.017692004530805994,
+      "text": "在哪儿—是两种音乐形式的质量、成本？还是可及性、多样性？对比结论如何—到底谁优谁劣）。",
+      "width": 0.8531914630919013,
+      "x": 0.08085106843277293,
+      "y": 0.08139534889473321
+    },
+    {
+      "confidence": 1,
+      "height": 0.011734028683181186,
+      "text": "12",
+      "width": 0.023404254258133972,
+      "x": 0.09574468157660676,
+      "y": 0.044980442996753967
+    }
+  ],
+  "vision_ocr_text": "place of the listener's choosing. ④®The widespread availability of\n以自主选择“消费”它们的时间和地点。\nsuch recordings has thus brought about a crisis in the institution®\n因此，这类音乐录音的普遍可得性已经子\nof the traditional classical concert.\n致（听）传统古典音乐会的习俗陷入危机。\n•词汇注释与难句分析。\n①devoted ［di'vautd］a. 挚爱的；忠诚的；全心全意的\n⑥institution ［unsti 'tju:Jon］n. 由来已久的习惯，制度\n② concertgoer ［'kpnsat/gaua］ n. 音乐会常客\n• 经典搭配\n（substitute L'sabsutju:t」n. 代替者；代替物\n①live/recorded performance（现场/录音演奏）\n④instrumentalist ［unstro'mentalist］ n. 乐器演奏家\n②of one's choosing（自主选择）\n⑤troupe ［tru:p］n. 演出团，剧团，歌舞团\n③bring about（引起，导致）\n，语篇分析•泌\n第四段进行第二轮反驳：“录音音乐无法替代现场演奏”的看法错误，事实上录音已使传统的听音乐\n会习俗陷入危机。关键词为：①missing the point；②crisiso\n①句承上引出音乐会忠实听众观点的还击（录音音乐无法取代现场演奏），并再次表明作者的反击\n（你们没有抓住核心问题）。Devoted concertgoers who reply that...（devoted contertegoers “忠实的音乐\n会听众”与上段的I”我，代表‘选择录音的普通音乐爱好者’”相对）引出音乐会忠实听众对上段观点的还\n击：录音音乐无法替代。missing the point 则是作者的再次驳回，且预示下文：说明“核心问题”所指。\n②③④句论证①句观点，揭示核心问题：音乐录音已经使传统的古典音乐会习俗陷入危机。三句以\nthe recorded performances... These recordings... such recordings 衔接，回应①句 recordings。\n②句指出古典音乐乐团面临的最大竞争：20 世纪伟大古典音乐家的演奏录音。本句颠倒语序，不仅将\nFor 介词结构放在句首凸显古典音乐面临全方位、多角度的争夺；更将 but also...置于句尾，辅助 not only.•\nbut also...的递进逻辑（这一结构表面并列，实则语义递进，强调重点在于 but also 之后内容），凸显最重要语义\n信息：20世纪伟大古典音乐家的演奏录音。\n③句进而解释②句：为什么这些录音是最具威胁的竞争对手？句子以 These recordings are...and\nvery often.•.；moreover，they. •.形成递进之势，逐级展示 20世纪录音音乐的各项优势：第一重（cheap，\navailable everywhere）从录音音乐众所周知的优点人手；第二重（much higher in artistic quality than\ntoday's live performances）还击①句音乐会忠实听众观点（recordings are no substitute for live performance）；\n第三重（can be “consumed” at a time and place of the listener's choosing） 回应上段，指出录音音乐最大的竞争\n力：任何时间任何地点均可“消费”。\n④句总结意群，回应首句，揭示“核心问题”所指：这些音乐录音已使传统的听音乐会习俗陷入危机。\n句子以 has thus brought about 形成因果逻辑：The widespread availability of such recordings 表明“因”，\n概述③句提到的录音音乐种种优势；a crisis in the institution of the traditional classical concert\n（institution 此处意为“风俗，惯例”）述出“果”，明确首句 the point 所指：传统的古典音乐习俗已经陷人\n危机（即：现场音乐会已经完全失去了立足之基）。\n【深层解读】第三、四段均为典型的驳论段落，不仅涉及两种观点的对立（本文作者观点 VS 音乐会\n忠实听众观点）；还涉及两种事物多层面的比较/对比（录音音乐VS现场演奏）。阅读的主要任务也就随\n之包括两项：1）辨别观点（哪是作者观点，哪是音乐会忠实听众观点）；2）识别对比具体信息（具体关注点\n在哪儿—是两种音乐形式的质量、成本？还是可及性、多样性？对比结论如何—到底谁优谁劣）。\n12",
+  "pdf_text_layer": "place cf the listener ’ s choosin忌。因 The widespread availability of\n                                                                                 以自主选择“消费”它们的时间和地点 。\nsuch r 己corclings has thus brought about a crisis in the institution®\n                                                                                 因此，这类音乐录音的普遍可得性已经导\nof the traditional classical concert.\n                                                                                 效 （ 听 ） 传统古典音乐会的习俗陷入危机 。\n\n                                                                                    J\n                                                                 难 …\n                                                       注                   析 …\n                                                           释…\n                                                                       旬\n                                                                与…\n                                             词\n                                             …\n                                                  r」\n                                                       一               －   －\n                                                                           …\n\n                                              ·        －   …     …     …\n                                                                           分 …\n\n( devoted [ d1 1vaut 1d ］ ι 挚爱 的；忠诚的；全心全意的                             ® institution [, 111st11tju:Jan] 11 . 由来 已 久 的 习惯， 制度’\n( concertgoer [' konsat,gaua］ η．音乐会常客                                  ．经典搭配\n( substitute [ 1sAb吼叫 u:t ］ η ．代 替者；代替物\n                                                                       ( live/ recorded performanceCl\n( instrumentalist [ 11nstru' mental 1 st ］ η 乐 器演奏家\n                                                                       ( of one’s c h oos in g （自主选择）\n( troupe [ tr u :p ］ η ．演出团，剧团，歌舞团\n                                                                       ( bring a b ou t （ 引起，导致）\n\n\n\n                                                  ：·董事分析：－~ ：：i d\n       第四段进行第二轮反驳：“录音音乐无法替代现场演奏”的看法错误，事实上录音已使传统的昕音乐\n会习俗陷入危机。关键词为： ① missing the point ； ② crisis 。\n       ① 旬承上引出音乐会忠实昕众观点的还击（录音音乐无法取代现场演奏） ， 并再次表明作者的反击\n\n（ 你们没有抓住核心问题）。 Devot e d concertgoers who r eply that ... ( d evo t ed co nt e rt egoe r s “ 忠 实 的 音 乐\n会 听众”与上段的 I“我，代表‘选择录音 的 普通音乐爱好者”’相对 ）引 出 音 乐会忠实昕众对上段观点的还\n击：录音音乐无法替代 。 mi ssing the p oi nt 则 是作者 的再 次驳 回， 且预示下文 ：说明 “核 心问题”所指 。\n       ②③④ 旬论证 ① 旬观点，揭示核心问题 ： 音乐录音已经使传统的古典音乐会习俗陆入危机。 三 句以\n\nth e r ecorded performan ces .. . These r ecordings . . . s uch r ecordings 衔接，回应 ① 句 recordmgs 。\n       ②旬指出古典音乐乐团面临的最大竞争： 20 世纪伟大古典音乐家的演奏录音。 本句颠倒语序，不仅将\n\nFor 介词结构放在句首凸显古典音乐面｜｜备全方位、多角度的争夺；更将 but also.. . 置于句尾， 辅助 not only...\n\nbut also ...的递进逻辑（这 一结构 表 面并列 ，实 则语义递进 ，强 调 重点在于 but a lso 之后 内容），凸显最重要语义\n信息： 20 世纪伟大古典音 乐家的演奏录音。\n       ③ 旬进而解释 ② 旬：为什么这些录音是最具威胁的竞争对手？ 句子以 These r ecordings are .. . and\nvery oft en . . . ; moreove r, th ey .. . 形成递进之势，逐级展示 20 世纪录 音音 乐的各项优势：第 一重 （ cheap,\nava il a ble eve r yw h e r e ）从录音音乐众 所周知的优点入手；第 二重 （ much hig her in arti stic qu a lity than\ntoday ’ s live p e rforman ces ） 还击①句音乐会忠实昕众观点（ recordings are no substitute for li ve performance);\n第 三 重（ can be “ cons umed ” at a time and place of the li stener ’ s choosing）回应上段，指出录 音音 乐最大的竞争\n\n力：任何时间任何地点均可“消费” 。\n       ④ 旬总结意群，回应首旬，揭示“核心问题”所指 ： 这些音乐录音已使传统的听音乐会习俗陆入危机 。\n\n句子以 has thus brought a bout 形成因 果逻辑 ： The widespread a、，a i l a b il it y of s uch reco rdings 表 明“因”，\n\n概述 ③ 句提到的录 音音 乐种种优势； a cr isi s in the institution of the traditional cla ssica l concert\n( in st itution 此处 意为“风俗，惯 例勺述出“ 果”， 明确 首句 th e point 所指：传统的古典音乐习俗已经陷入\n危机（即：现场 音 乐会已 经完全失去 了立足之基） 。\n       E 深层解读】 第 三 、 四段均为典型的驳论段 落 ， 不仅涉及 两种观 点 的对 立 （本文作者观点 vs 音乐会\n忠 实 听众观 点） ；还涉 及两 种 事 物 多层面 的比 较／对 比（ 录音音乐 vs 现场 演奏） 。 阅读的主要任务也就随\n之包括两项： 1) 辨别观点（｜那是作者观点，哪是 音 乐会忠实昕众观点） ; 2 ）识 别对比 具 体 信息（具 体 关注点\n在哪儿           是两 种 音 乐形式的质 量、 成本？还是可及性、多样性？对比结论如何                                                        到底谁优谁劣） 。\n\n\n  12",
+  "quality": {
+    "vision_line_count": 46,
+    "vision_character_count": 2100,
+    "pdf_text_character_count": 3984,
+    "nonempty": true
+  }
+}

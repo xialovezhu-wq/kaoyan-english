@@ -1,0 +1,1203 @@
+---
+analysis_id: EXAM-ANALYSIS-2018-T2
+reference_id: EXAM-READING-2018-T2
+year: 2018
+text_no: 2
+visibility: hidden_until_review
+extraction_status: preprocessed_complete
+source_role: protected_derived_source
+---
+
+# 2018 English I Text 2｜答案与解析预处理
+
+> [!danger] 自主练习阶段禁止展开
+> 本文件已经保存标准答案和出版方解析转写。用户只陈述选项时不读取；只有明确要求核对答案、讲题或进入复盘后，才读取对应题号的最小区块。
+
+- 来源 PDF：`/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf`
+- 来源 SHA-256：`ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6`
+- 旧锚点：p21-29
+- 实际预处理页：p20–30
+- 逐页证据：11 页
+
+<details>
+<summary>答案与解析（仅复盘时展开）</summary>
+
+## 标准答案
+
+| 题号 | 正确选项 | 来源页 | 核验状态 |
+|---:|:---:|---:|---|
+| 26 | D | p21 | source_verified_high |
+| 27 | A | p22 | source_verified_high |
+| 28 | B | p24 | source_verified_high |
+| 29 | C | p28 | source_verified_high |
+| 30 | A | p29 | source_verified_high |
+
+## 逐题解析
+
+### Q26
+
+- 正确选项：D
+- 答案核验页：p21
+- 解析来源页：p21, p22
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+何不信任总统推特白宫新闻之余，更是明确③句媒体素养亟待增强的原因。
+•真题精解•
+26. According to Paragraphs 1 and 2, many young Americans
+26. 根据第一、二段，许多美国年轻人
+cast doubts on
+对
+产生怀疑。
+［A］ the justification of the news-filtering practice
+［A］新闻过滤这一做法的正当性
+［B］ people's preference for social media platforms
+［B］人们对社交媒体平台的偏好
+［C］ the administration's ability to handle information
+［C］政府处理信息的能力
+［D］ social media as a reliable source of news
+［D］社交媒体作为可靠的新闻来源
+［精准定位］先由首段“超2/3美国年轻人反对总统特朗普使用推特，他们更倾向于从别的渠道而非
+总统社交平台获取白宫消息”可推知“美国年轻人不太信任由推特这一社交媒体作为白宫新闻的可靠来
+源”，再结合第二段①②句“美国人依靠社交媒体获取新闻资讯，却又越来越不信任媒体”不难敲定“美国
+人对社交媒体作为可靠新闻来源产生了怀疑”，即［D］正确。
+［命题解密］题干十正确项［D］是对第一二段段落主旨（尤其是第二段①②句）的合理概括。
+21
+［A］由首段末句 prefer news...filtered through...not...捏造出“新闻过滤这一做法不被年轻人认
+可”，而文意实为“年轻人认为由总统推特透露出来的白消息没有其他渠道透露出来的更可靠”；［B］根
+据第二段①句“人们依赖社交媒体获取新闻资讯”捏造而来，虽属事实，却并非年轻人质疑的对象（即②
+句“（包括社交媒体在内的）所有媒体（信息资讯）”；［C］根据第二段④句“2016年总统选举期间，密西根
+州推特用户分享的网络内容中充斥虚假信息”捏造出“年轻人质疑政府处理（网络虚假）信息的能力”。
+［技巧总结］概括推理题意在考查学生明辨整体语义的能力，解题过程中重在关联主旨，即重在利
+用段/句群关联锁定语义重心以推导段/句群主旨。如本题，首先可由首段两句间语义逻辑“先浅层后深
+层”（The implication is that... ）着重掌握末句“千禧一代更愿意选择相信其他渠道而非总统推特发出的
+白宫消息”；再由第二段句间语义逻辑“先陈述事实后转折引出语义重点并以调查研究发现予以佐证”
+（... Yet...Such a trend...according to...And a survey...found...）着重掌握①②句矛盾僵局“一方面
+离不开社交媒体、一方面又不信任媒体”；最后再结合两段语义重心的语义关联“社交媒体、新闻资讯、信
+任/意愿”不难做出合理推导“年轻人对社交媒体作为可靠的新闻来源产生了怀疑”。捷径：由题干 cast
+doubts on 与第二段②句 distrust 的同义关系可将解题线索定位至该段①②句，从而锁定怀疑对象“（包
+括社交媒体在内的）所有媒体（所提供的新闻信息）”，而唯有［D］重心落于“信息资讯”。
+```
+
+### Q27
+
+- 正确选项：A
+- 答案核验页：p22
+- 解析来源页：p22, p23, p24
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+27. The phrase “beef up”（Line 2, Para. 2） is closest in
+27.第二段第二行中 beef up 的词义最
+meaning to
+接近_
+-。
+［A］ sharpen
+［A］增强
+［B］ define
+［B］界定
+「CI boast
+［C］ 吹嘘
+［D］ share
+［D］分享
+［精准定位］将被考词所在句“随着美国人越来越不信任媒体，他们开始
+自身的媒体素养”与
+其前文“大多数美国人依靠社交媒体来查阅每日头条”结合，可推测语义逻辑：美国人一方面要依靠社交
+媒体来获取信息，一方面又不信任媒体上的信息，这种矛盾僵局需要依靠自身来突破，即逼迫其开始强
+化自身媒体素养来对媒体信息进行判别、选择。选项中唯有［A］契合这一语义逻辑，故正确。且由第三
+段首句“作为数字原住民的年轻人们确实能够更加娴熟地区分辨别事实与虚假消息”可推知他们的媒体
+信息资讯辨识能力得以提升，由此侧推 beef up 应该理解为“增强”更契合。
+［命题解密］正确项［A］是基于第二段①②句间 Most Americans rely on social media to check daily
+headlines. Yet as distrust has risen toward all media 所示矛盾僵局，对 people may be starting to beef up
+their media literacy skills 的合理推断。
+［B］由②句划线词后的术语“媒体素养”捏造出“定义/界定”；［C］由“虚假新闻”捏造出“吹嘘”之意；
+［D］由常识“社交媒体上的分享行为”捏造出“分享”，却与文中矛盾僵局“人们依赖媒体却又不信任媒体”
+所暗藏问题解决之策“从自身突破，
+__其自身媒体素养”无法完美衔接。
+［技巧总结］解答词义题的关键步骤是：一、由句内寻找特情感色彩表达词，初步筛选句意基调；
+二、根据句间语义逻辑揣摩被考词与上下文情感基调的“同向”、“反向”关系；三、结合两线索，最终确定
+正确选项。如本题，首先根据被考词所在句内的负面情感基调词 distrust 揣摩该句意在说明“对媒体的
+不信任增强，被迫提升自身媒体素养”初步锁定［A］，然后根据被考词所在句与前文形成的语义转折关联
+（Yet）“依赖媒体却又不信任媒体”可进一步揣摩“为了解决这种离不开却又不信任的矛盾僵局，人们只
+能增强自身媒体素养，以辨识媒体信息真伪”，从而敲定［A］。
+22
+① Young people who are digital natives are indeed
+身为数字原住民的年轻人在网络空间中
+becoming more skillful
+at separating fact from
+fiction in
+分辨事实与虚构的能力的确正在变得更加娴
+cyberspace®
+. ②A Knight Foundation focus-group® survey of
+熟。奈特基金会针对14～24岁年轻人的专
+young people between ages 14 and 24 found they use
+“distributed trust”
+to verify®
+stories.
+⑧ They cross-check®
+题调查发现，这些年轻人利用“分布式信任”
+sources and prefer news from different perspectives®—
+验证新闻，他们交叉核对新闻来源，更愿意接
+especially those that are open about any bias®
+.④“Many
+受从不同视角解读的新闻—尤其那些对一
+young people assume® a great deal of personal responsibility
+切偏袒性看法兼收并蓄的新闻。“许多年轻
+for educating themselves and actively seeking out opposing
+人在自我教育及积极寻求对立观点方面开始
+viewpoints，" the survey concluded.
+承担很多的个人责任”，该调查总结道。
+•词汇注释与难句分析。
+*KZRZ201
+①cyberspace ［'saubospeis］n. 网络空间
+⑥ bias ［'baios］n.偏见
+②focus-group［'foukosgrup］n.（代表公众的）焦点小组
+⑦ assume［o'sju:m］v.开始承担（责任）
+（选自各阶层，讨论某专项问题；所得信息常为市场
+• 经典搭配
+调查人员或某政党所用）
+①skillful at（⋯⋯方面技巧纯熟）
+③ verify［'verifai］v. 核对，核实
+②be open about（不隐瞒，对⋯⋯开诚布公）
+④ cross-check［ krps tjek］v. 核对，核实；交叉检查
+③assume responsibility （开始承担责任）
+⑤ perspectiveLpa spektiv」n.（思考问题的）角度，观点，
+④seek out（找出，找到）
+想法
+•语篇分析•必
+第三至五段为第二部分，阐释现状：美国人（尤其年轻一代）媒体素养的确在增强，其新闻处理时责
+任意识在增强。
+第三段阐释现状之一：美国年轻一代对信息甄别的判断力在提升。关键词为：becoming more
+skillful。
+①句总述年轻人信息甄别能力增强。are indeed becoming more skillful at... 呼应第二段②句中的
+may be starting to beef up，先借indeed”确定性”消除 may“可能性”并引出现状从而开启现状阐释“媒体
+素养的确在提升”；再借 more skillful 预示下文将提出论据证实“甄别能力提升”。
+②③④句以调查研究说明①句。句群借由 verify stories、cross-check sources、assume a great deal of
+personal responsibility 所展示的语义场“核验新闻真实性”与①句 separating fact from fiction”辨识真伪”
+实现强关联。
+②句先指出年轻一代利用“分布式信任”辦识新闻真伪。distributed trust 加引号，表特定称谓，预示
+下文将着重论述。注：stories 此处借上下文语境可知其指“新闻报道（的题材）”。编者注：信任模式已经
+从20世纪的“机构性信任”转变21世纪的“分布式信任”。信任不再是由上而下的，不再是不透明和
+线性的，它现在是去中介化和双向的。新的以信用为基础的信任模式正在被更多的人所接受。
+③句后解释“分布式信任”的具体操作办法：交叉核验新闻来源、审慎辨别新闻观点。本句与上句形
+成“抽象一具体”逻辑，句子借 cross-check、from different perspectives、open about any bias 强调年轻一代
+多方核验新闻来源、多角度解读新闻内容、兼收并蓄对立观点以形成对新闻的全面理解，展现其对待网
+络新闻资讯基于多因素的网络分布式信任机制，强化其真伪辨识过程中的审辨式思维。
+④句总结年轻一代在修炼自己并积极寻求对立观点方面自我责任意识增强。assume a great deal of
+personal responsibility...”开始承担起非常多的自我责任”所蕴藏的今昔对比与①句显性对比 are indeed
+becoming more skillful at...“的的确确变得更加善于⋯⋯”形成呼应，暗示两句间因果逻辑：新闻查阅过
+程中个人责任意识的增强一网络信息真伪的区辨能力增强；educating 此处虽意表“教育”，但更具“教导、
+23
+训练”之意，强调“年轻人处理媒体新闻（诸如查阅或分享等时）自我约束力的提升”；actively 借其主观能
+动性反衬年轻人兼收并蓄各种对立观点、积极开展审辨式思维的媒体素养。
+【深层解读】digital natives 聚焦“身为数字原住民的年轻一代”：Young people who are digital natives
+将第二段骤然宽泛的 Most Americans/people 收窄回首段 young Americans、Millennials，并借 digital
+natives 深层内涵（一方面借“数字原住民年轻一代深谙网络信息技术”暗示“其网络媒体信息甄别能力相
+较非数字原住民一代更为娴熟”，另一方面借“数字原住民年轻一代自幼生活在网络世界中、与网络世界
+难舍难分”暗示“其相较非数字原住民一代更有可能更积极努力地提升媒体甄辨能力，以满足自身从网
+络获取新闻资讯之需”）暗示全文聚焦年轻一代以阐释美国人媒体素养的提升。注：首句 more 为纵比
+```
+
+### Q28
+
+- 正确选项：B
+- 答案核验页：p24
+- 解析来源页：p24, p25, p26, p27
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+“相较此前虚假新闻并不盛行时期、并非十分着意增强自身媒体素养而言，现在已经开始增强自身素养
+的他们更加善于辨识信息真假”，而非横比。
+•真题精解，
+28. According to the Knight Foundation survey, young people
+28. 根据奈特基金会的调查，年轻人
+。
+［A］ tend to voice their opinions in cyberspace
+［A］倾向于在网络空间发表自身观点
+［B］ verify news by referring to diverse sources
+［B］通过查阅多种来源以验证新闻
+LC］ have a strong sense of responsibility
+［C］有强烈责任感
+［D］ like to exchange views on “distributed trust”
+［D］喜欢就“分布式信任”交换意见
+［精准定位］第三段②③④句介绍奈特基金会的调查结果，其中②句指出年轻人利用分布式信任来
+验证新闻，③句进而做出解释：他们交叉核对新闻来源、倾向于多角度分析的新闻资讯，尤其是对各种观
+点兼收并蓄的新闻资讯。由此可见，［B］正确。
+［命题解密］正确项［B］契合段中所述年轻人多重角度验证新闻真伪的方式方法，是对②③句 verify
+stories...cross-check sources 的合理改写。
+［A］根据①句调查对象 digital natives 的特点“自幼熟悉信息技术”合理推导而来，但它并非调查结
+果；［C］将④句所示“年轻人在新闻审视过程中的自我责任意识”泛化为“对社会、对集体、对他人等的责
+任意识”；［D］将②句 use “distributed trust” to verify stories“利用分布式信任来验证新闻真伪”曲解为
+“喜欢就分布式信任交换意见”，将“信息甄辨方式”偷换为“讨论焦点”。
+［技巧总结］本题为研究结论类的事实细节题。常规解题思路为“（题干/选项）定位法十排除法”：
+即，首先根据题干已知关键信息 the Knight Foundation survey 定位至第三段②③④句；随后根据各选项
+关键信息词分别定位至段中各句（［A］对①，［B］ ③，［C］对④，［D］ ②）并仔细甄别发现［A］、［C］、［D］
+与句意不符，唯有［B］与句意相似。非常规解题思路则为“作为论据的调查实为论点服务，故找寻与调查
+相关的论点即可”：即，本段②③④句均意在说明①句论点“年轻人越来越擅长辨别信息真伪”，而四个选
+项中唯有［B］“验证新闻”与此挂钩，故正确。
+V ① Such active research can have another effect.
+这种积极的探索研究有时可以产生另
+②A 2014 survey conducted in Australia, Britain, and the
+一种效果。威斯康星大学麦迪逊分校 2014
+United States by the University of Wisconsin-Madison
+年在澳大利亚，英国和美国进行的一项调查
+found that young people's reliance® on social media led to
+发现，年轻人对社交媒体的依赖使其政治参
+greater political engagement®
+与度提升。
+24
+•词汇注释与难句分析•以
+①reliance［ri'laions］n. 信赖
+①reliance on（对⋯⋯的依赖）
+②engagement_I geid3mont］n.参加，参与
+②political engagement（政治参与）
+• 经典搭配
+•语篇分析。以
+第四段为上段末句的补充：对信息的积极探索使年轻一代政治参与度提升。关键词为：① have
+another effect； ②greater political engagement。
+①句概述年轻人新闻处理时的积极探索研究会产生另一效果。Such active research 以“照应上段末
+句末尾 actively seeking out..”之形行“回指上段末句全句‘年轻一代在积极修炼自己并寻找对立观点
+方面承担起非常多的自我责任”之实；have another effect 借 another 反衬上文已述一个效果（即“信息甄
+别能力的提升”）并预示下文“另一效果”。
+②句借调查明晰效果：政治参与度提升（反衬年轻人政治信息处理能力提升）。led to 与 another
+effect 因果关联复现，由此可推知 young people's reliance on social media 虽形式上呼应第二段段首，实则
+指向上段所述“依赖社交媒体的年轻人在网络上开展各项调查研究以辨识信息真伪这一具体行事方
+式”；greater political engagement 呼应文首两段“年轻一代反对总统使用推特、2016年总统大选时推特用
+户在网上分享信息”，同时借第二段延及内容“大选期间推特用户分享信息中近1/4属于虚假消息”暗示
+写作视角可能将由上段“信息甄别能力”过渡到“信息分享时虚假新闻问题处理能力的提升”
+【深层解读】本段看似独立，却关联全篇：“年轻一代政治参与度提升”似乎与全篇着意强调“媒体素
+养提升”无关，但两者内藏因果关联“媒体素养提升（新闻处理时责任意识的提升）一政治参与度提升”；
+且借回应首段“年轻一代反对总统推特”暗示“随着年轻一代在处理网络媒体信息过程中责任意识的提
+升，他们在处理政治信息时也将变得审辨而思，即对待总统推文信息将保持高度警惕”，铺垫后文阐释。
+V（
+1 Social media allows users to experience news
+社交媒体让用户能够更亲密、更即时地
+events|
+more intimately®
+and immediately® while also
+体验新闻事件，同时也允许他们转发新闻以
+permitting them to re-share news as a projection®of their
+授射其价值观和兴趣爱好。这迫使用户对
+values
+and interests. ② This forces
+users to be more
+其在信息传递中的角色更为留心。巴纳研
+conscious® of their role in passing along information. 3A
+究小组一项调查显示，美国人就虛假新闻现
+survey by Barna research group found the top reason
+象给出的首要原因是“读者错误”，而不是报
+given by Americans for the fake news phenomenon is
+道时编造新闻或犯事实错误。约三分之一
+“reader error，” more so than made-up stories or factual
+的美国人认，虚假新闻问题在于通过社交
+mistakes in reporting. ④ About a third say the problem of
+媒体“对事实新闻进行扭曲或夸大”。换句
+fake news lies in “misinterpretation®or exaggeration®of
+话说，在社交媒体上分享新闻的选择可能是
+actual news” via social media. ⑤ In other words, the
+该问题的核心。“这意味着在抵制该问题的
+choice to share news on social media may be the heart of
+过程中存在着真正的个人责任，”巴纳研究
+the issue.
+⑥ “This indicates®there is a real personal
+小组主编罗戈萨尼•斯通表示。
+responsibility in counteracting® this problem， ” says
+Roxanne Stone, editor in chief at Barna Group.
+，词汇注释与难句分析。
+①intimately［'ntmttl］ad. 亲密地，密切地
+③projection［ pra'dsekJn］n. 体现
+②immediately［i'midatlJad. 立即地，即刻地
+④conscious［'konJos］a. 慎重的，有意的
+25
+⑤ misinterpretation［'misinito:pri'tei/on］n.错误理解
+②pass along（传递）
+⑥exaggeration［Igzeedso 'retjon］n. 夸大
+③top reason（首要原因）
+⑦ indicate［'ndikeit ］v.表明
+④lie in（在于）
+⑧ counteract［ kauntor'eekt］.抵抗，抵制
+⑤in other words（换句话说）
+• 经典搭配
+⑥editor in chief（主编）
+①conscious of（对⋯⋯留心）
+1. Social media allows users to experience news events more intimately and immediately while also
+permitting them to re-share news as a projection of their values and interests.
+结构切分：
+Social media
+allows
+句子主干：
+users to experience news events
+more intimately and immediately
+主语
+谓语
+宾语
+宾语补足语
+状语
+状语从句
+while
+（social media is） also permitting
+them
+to re-share news
+衔接词
+主语
++
+谓语
+宾语
+宾谱补足语
+news的补足语
+as a projection of their values and interests
+功能注释：本句主干为 Social media allows users to experience news events，谓语结构采用了 allow sb
+to do sth 的用法。while 引导状语从句时，如果主句和从句的主语一致，且从句谓语又含有be，则从句中
+有时可省略主语和 be，因此可判断出句中 while 后省略了 social media is。allows...（is）permitting...两
+个并列谓语结构引出社交媒体的双重功效。
+2.A survey by Barna research group found the top reason given by Americans for the fake news
+phenomenon is “ reader error，”
+more so than made-up stories or factual mistakes in reporting.
+by Barna research group
+后置定语
+句子主干：
+A survey
+found
+宾语
+the top reason
+I5
+"reader error
+主语
+谓语
+执句
+主语 系动词
+表语
+后置定语1
+后置定语2
+状语
+given by Americans
+For the fake news phenomenon more so than made-up stories or factual mistakes in reporting，
+功能注释：本句主干力 A survey found （that）.•，宾语部分为省略 that 的宾语从句。more so than
+made-up stories or factual mistakes in reporting 做宾语从句的状语，其中so 指代“被当成首要原因”这一
+情况，more than 表示“比⋯⋯更⋯⋯”，因此整句话可理解为：比起报道过程中编造新闻或犯事实错误，
+读者错误更能被指为虚假新闻的首要原因。
+•语篇分析•x/
+第五段阐释现状之二：美国人对信息分享的自我责任意识在增强。关键词为：more conscious of their
+role in passing along information。
+①②句总述：用户在社交媒体上传递信息时会审慎而为。This forces 实现句间因果关联（This 回指
+首句第二分句内容）。
+①句先指出社交媒体的双重功效：既能亲密、即时体验新闻事件，又能将其转发以体现自身价值观
+及兴趣点。while also 以并列之形连接 allows 及 permitting，实际将语义重点落于后者，用以强调社交媒
+体的信息转发功能；并借 as a projection of...反衬用户转发信息的真实意图“以投射自身价值与兴趣”，
+26
+由此锁定信息转发与转发者之间的关联以暗示其转发时应小心谨慎。注：intimately（having a close and
+friendly relationship“亲密地，亲切地”）用以说明社交媒体能够拉近用户对新闻事件的亲近感，新闻事件
+借助社交媒体更能给用户以更亲密、更深刻的情感冲击、用户的新闻体验感非常强烈。
+②句后指出用户在信息转发时会承担自我责任：审慎而为。forces 以其隐性因果关联表明用户在信
+息转发时审慎而为的动机：以求积极正面彰显自身兴趣点及价值观；conscious”（尤指因自认为很重要
+而）在意的，刻意的”表明用户对其在信息传递过程中的角色极为重视。
+③至⑥句分述，借“分析虚假新闻现象的原因”阐释“用户分享信息时审慎而为的原因”。
+③④句先分析虚假新闻现象的原因。the fake news phenomenon/problem 实现内部联结。
+③句概述最大原因：读者错误。reader error 加引号，同第三段 distributed trust，既表引用，亦表特殊
+称谓，预示后文必有详解，同时锁定虚假新闻背后的最重要原因与读者（而非新闻工作者）相关。注…
+more so than...“.⋯比•⋯更能被指为首要原因”套入文意即为“相较报道中编造新闻或犯事实错误，
+读者错误更能被指为虚假新闻问题的首要原因”。
+④句细说“读者错误”：通过社交媒体对真实新闻资讯进行误读或夸大。misinterpretation or
+exaggeration of actual news 着重两点：一、新闻工作者发布的新闻信息是真实无误的（actual news）；二、
+读者对新闻事实进行了曲解或夸大（misinterpretation or exaggeration）。via 着意强调社交媒体只是充当
+媒介的作用，暗示读者而非社交媒体应该对其所分享的信息内容负责。
+⑤⑥句呼应①②句，明确指出信息分享时需承担个人责任。In other words 实现⑤⑥句与③④句间
+化繁为简的逻辑；This indicates 实现句群内部衔接。
+⑤句明示虚假新闻问题的核心：选择分享。本句重现社交媒体给用户提供信息分享选择（the
+choice...on social media 复现①句 Social media... permitting them to re-share news）的同时，更强调其负
+面影响“为虚假新闻创造了‘机会’（the heart of the issue，其中 the issue 指代 the fake news phenomenon/
+problem）深层暗示用户在做出分享选择时应先辨识新闻的真假，从而将虚假新闻扼杀在分享之时。
+⑥句指出选择分享的深层内涵：承担真实个人责任。This indicates 则表明个人责任因选择分享而
+起（This 回指⑤句“选择分享是虚假新闻问题的核心”）；a real personal responsibility in counteracting this
+problem 一方面表明抵制虚假新闻问题中需要承担真实个人责任，另一方面回应第三段强调指出以年轻
+一代为代表的美国人在新闻处理过程中承担起越来越多的自我责任。注：counteract （to reduce or
+prevent the bad effect of something, by doing something that has the opposite effect"抵抗，抵制”）此处意
+指通过某种方式方法来减少或者预防某一事件的负面影响，套人文中即指，通过对新闻分享行的严格
+审视以求做到“不传递虚假新闻信息（不传谣）”，从而得以减少虚假新闻问题带来的负面影响。
+【深层解读】一、本段呈现第二段所述虚假新闻问题的原因及抵制措施：借③句 the top reason...for
+the fake news phenomenon、④句 the problem of fake news lies in. ...⑤句 the choice...the heart of the
+issue、⑥句 responsibility in counteracting this problem 所示核心语义“虚假新闻问题”呼应第二段③句所
+述现象“虚假新闻充斥媒体”分析其原因“读者对事实信息的夸大或扭曲”并给出相应抵制措施“新闻分
+享时增强自我责任意识”。二、第二部分均围绕第三段末句“新闻处理时责任意识增强（即媒体素养增
+强）”展开细述，该句实为全文核心论点：a、信息真伪辨识时判断力得以提升（第三段）；b、政治参与度得
+以提升（第四段）；c、信息分享时责任感得以增强（第五段）；但鉴于b一个与媒体信息处理能力（即媒
+体素养）无关的独立效果，故而将其分立处理，将第三、五段分别阐释为当前美国人（尤其年轻一代）的媒
+体素养现状。换而言之，全文核心论述点即为：美国年轻一代（数字原住民）的媒体素养主要体现在两个
+方面：一是对新闻的辨识能力，这个是前提，他们的解决办法是通过分布式信任来核验新闻的真实性；第
+二是分享转发时体现的责任意识，也就是类似于我们现在所宣讲的“不信谣、不传谣”。
+27
+```
+
+### Q29
+
+- 正确选项：C
+- 答案核验页：p28
+- 解析来源页：p28
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+•真题精解•
+29. The Barna survey found that a main cause for the fake
+29. 巴纳调查发现虚假新闻问题的主要
+news problem is
+原因是
+［A］ readers' outdated values
+［A］读者过时的价值观
+［B］ journalists' biased reporting
+［B］记者有偏见的报道
+［C］ readers' misinterpretation
+［C］ 读者的曲解
+［D］ journalists’ made-up stories
+［D］记者捏造的新闻
+［精准定位］第五段③④⑤⑥句介绍巴纳调查结果，其中③句指出虚假新闻问题的最重要原因是
+“读者错误”，④句进而做出解释：对事实新闻信息的误读或夸大，故［C］正确。
+［命题解密］题干十正确项［C］是对③④句中 top reason、reader error、 misinterpretation or
+exaggeration of actual news 的完美替换。
+［A］由①句碎片信息 re-share、their values 捏造而来，而句子并无“读者价值观过时”之意；［B］由前
+文第三段③句中 bias及本段③句中 in reporting 捏造而来，而文中仅言及“记者报道中可能会捏造新闻、
+或者会犯事实性错误”而并未言及“记者报道带有偏见”；［D］由③句 made-up stories..in reporting 而
+来，可它并非题干所考查的“主要原因”。
+［技巧总结］主次因果细节题的解题思路为：于文中找寻因果关联词，再于关联词前后定位主次因果，
+最后可借主次因果的注释性内容辅助解答。如本题，首先由题干 main cause for the fake news problem 定位
+至③句 the top reason. .. for the fake news phenomenon，然后借其后 more so than 锁定 reader error，最后再借
+reader error 的解释性表达 misinterpretation or exaggeration of actual news 锁定［C］。
+① So when young people are critical of an over-
+因此，当年轻人批评过度推特的总统
+tweeting president,they reveal" a mental discipline®in
+时，他们展现出思维技能中的一种自制
+thinking skills—and in their choices on when to share on
+力——一种选择何时在社交媒体分享的自
+social media. ［411 words］
+制力。
+•词汇注释与难句分析，
+①reveal［ri'vi：］w.展现，显露
+S
+② discipline［'disiplin］ . 自制力
+•语篇分析•泌
+第六段为第三部分，呼应首段总结收篇：美国年轻一代反对总统推特实则反映其网络审辨式思维技
+能的提升。关键词为：reveal a mental discipline。
+独句成段，reveal（to show something that was previously hidden）揭示全文“由表象到实质”的写作手
+法，展示文章立意高度“由年轻一代反对总统推特谈及其网络生活中审辨式思维能力的提升”；and形似
+并列，实则更借后者的具象“新闻分享时”明示前者的抽象“思维能力中”。注：1.mental discipline 本义
+“心理/精神/大脑自制力”，但鉴于“自制力”已暗藏“大脑思维活动”，故而将 mental 省译，直接处理为“自
+制力”；2.choice on sth 相当于 choice over sth，即“在⋯•⋯方面做出的选择”。
+So 解读：So借其后 when 情境“年轻人对过度推特的总统表示批判”与首段的呼应表明其辖域第二
+至五段（中间段）分析，却又借破折号后 when to share on social media 表明其更意在强调第五段解读“人
+们在转发信息时更加小心、谨慎”，间接说明年轻一代批判总统推特的两个原因：一、对总统通过社交平
+台发送的信息持审辨式思维；二、分享总统信息时尤为审慎，绝不跟风附和。
+【全文梳理】全篇首尾相接，圆满收篇：全文以“年轻一代反对总统使用推特这一社交平台发布新闻
+事件”开篇，在历经中间段落对“美国人（尤其年轻一代）在新闻查阅及新闻分享中承担起更多自我责任，
+其媒体素养在提升”的分析阐释之后，本段对文首引子做出最终点评“年轻人对总统过度推特的这种批
+28
+```
+
+### Q30
+
+- 正确选项：A
+- 答案核验页：p29
+- 解析来源页：p29
+- 核验：source_verified_high / embedded_text_layer_explicit_answer_determinations
+
+```text
+判态度恰恰反映出其思维技能中的自制力”，就此圆满收缩全篇。
+• 真题精解•
+30. Which of the following would be the best title for the text？
+30. 下面哪项是全文最佳标题？
+［A］ A Rise in Critical Skills for Sharing News Online
+［A］网上新闻分享辨识力的提升
+［B］ A Counteraction Against the Over-tweeting Trend
+［B］对过度推特趋势的反击
+［C］ The Accumulation of Mutual Trust on Social Media
+［C］社交媒体上相互信任的积聚
+［D］ The Platforms for Projection of Personal Interests
+［D］体现个人兴趣爱好的平台
+［精准定位］文首两段先提出现象“美国人离不开媒体却又不信任媒体”及其因应之策“增强媒体素
+养”；第三至五段进而阐释现状，指出美国人（尤其年轻一代）媒体素养的确得以提升，其信息真伪辨识能
+力提高、信息分享行为中自我责任意识增强；最后末段呼应首段作结“年轻一代反对总统推特实质是其
+审辦思维能力的展示，是其在新闻分享行为中的一种自制行为”。由此可见，［A］最契合文意。
+［命题解密］正确项［A］是对全文主旨“以年轻一代为代表的美国人的媒体素养正在提升”的概括。
+［B］利用首末段“年轻一代反对特朗普总统过度推特”捏造而来，却偏离文意重心；［C］利用第二三段
+distrust、distributed trust 捏造而来，而文中所言信任实际针对“网络媒体信息”而非“网络人际沟通”；
+［D］利用第五段首句 as a projection of...interests 设置干扰，可文意重点并不在 platforms“社交媒体平
+台”而在 news on the platforms“社交平台上的新闻资讯”。
+［技巧总结］解答文章主旨题重在关联文章主题词、主题句。主题词通常可以借由高频词体现，主题
+句常位于文首末段。如本题，文中频出 share、news、skills 等词，且文首两段借由具体事例“年轻一代反
+对总统使用推特发布白宫消息”以及转折对比词yet 引出文章主述话题“依赖媒体却又不信任媒体的美
+国人不得不主动去提升自身媒体素养（media literacy skills）”，并于文末再度呼应首段事例升华事件背后
+真实内涵“年轻一代对推特总统的微词实际反映出其思维能力中的一种自制能力（a mental discipline in
+thinking skills），即在选择于社交媒体上分享新闻时的一种大脑自制力，也即对推特总统所发推特的辦
+识力”，借此两点不难锁定［A］为正确项。
+```
+
+## 完整出版方解析 OCR
+
+### PDF p20
+
+•词汇注释与难句分析•
+①disapprove［diso'pru:v］u. 不赞同，反对
+④filter［'ilt］.（消息，信息等）慢慢传开，走漏，泄露
+②implication［Impli' ket/on］n. 含意，暗示
+⑤ platform［'plaetfoim］n. 平台
+③Millennial［mi'lenial］n.千禧一代
+• 语篇分析。
+第一二段为第一部分，提出现象及其因应之策。
+第一段借由最新调查初步勾勒现象：美国年轻一代不信任社交媒体的新闻资讯。关键词为：①
+disapprove of； ②prefer...not...。
+①句概述调查结果：超2/3美国年轻人反对总统使用推特。more than two-thirds 衬托出“年轻一代反
+对总统使用推特发布政见和新闻资讯”乃普遍现象；disapprove 借其内涵“认为某人或其思想行为等不妥、
+甚至错误”暗示“年轻一代对于总统使用推文的行为并非随意附和、而是持有批判性看法”，且就此设悬
+“成长于社交媒体之下的年轻人为何‘只许州官放火不许百姓点灯’，他们到底是反对特朗普作为个人使用
+推特这一社交媒体本身，还是反对特朗普作为美国总统使用推特来发布有关美国政府的信息资讯”。
+②句细说调查内涵：美国年轻一代并不相信来自于社交媒体的新闻资讯。prefer”觉着⋯⋯更可取”
+所蕴藏的情感偏好回应上句disapprove 所传递的反感情绪，形成语义对比；取舍结构 to be filtered
+through...not （to be filtered through）...明确对比内容：偏好从其他渠道发布的白宫新闻VS厌恶从总
+统社交平台透露的白宫新闻，就此解除上句悬念：“年轻一代并非反对总统使用推特这一社交平台本身，
+而是反对其使用推特等社交平台来透露白宫消息”，即“年轻人反对总统推特的原因是因为他使用推特
+透簬白宫/美国政府消息”。
+【深层解读】开篇由浅入深，初步勾勒现象：判断句式 The implication is 明确两句间“浅层一深层”语义
+逻辑，并将语义重心落于②句，即，②句揭示①句表象“年轻人反对总统推特”的本质“反对总统使用社交平台
+发送白宫消息”；取舍结构 prefer A not B 借强调“年轻人对白宫信息来源的情感偏好：认为其他渠道发布的要
+比总统社交平台透露的更为可取”影射全篇现象“美国年轻一代对社交媒体新闻资讯可信度产生怀疑”。
+II ①Most Americans rely on social media to check
+大多数美国人依赖社交媒体来查阅每
+daily headlines.
+② Yet as distrust has risen toward all
+日新闻头条。然而，随着对所有媒体的越来
+media,people may be starting to beef up their media
+越不信任，人们可能开始增强他们的媒体素
+literacy®skills. ③ Such a trend is badly needed. ④During
+养。这种趋势迫勿需要。按照牛津大学的
+the 2016 presidential campaign®
+，nearly a quarter of web
+说法，2016年总统竞选期间，在政治关键州
+content shared by Twitter users in the politically critical®
+密西根的推特用户分享的网络内容中，有近
+state of Michigan was fake® news, according to the
+四分之一是虛假新闻。一项专为 BuzzFeed
+University of Oxford. ⑤ And a survey conducted for
+新闻板块开展的调查发现，44%的脸书用户
+BuzzFeed News found 44 percent of Facebook users rarely
+很少或从不相信来自于该传媒巨头的新闻。
+or never trust news from the media giant®.
+词汇注释与难句分析•
+①literacy［'utoros］n. 有文化，读写能力
+• 经典搭配
+②campaign［keem'pein］n.运动，活动
+①beef up（加强；改进；充实）
+③critical［'kritukal］a.紧要的，关键性的
+②presidential campaign（总统竞选）
+④fake［ ferkJa. 虚假的，伪造的
+③media giant（传媒巨头）
+⑤giant［'dsaient］n.巨头，大公司
+20
+
+### PDF p21
+
+•语篇分析•以
+第二段明晰现象，并提出因应之策：“增强自身媒体素养”。关键词为：①rely on VS distrust； ②beef
+up their media literacy skillso
+①②句呈现现象全貌及因应之策。Yet、As 实现内部“转折＋因果”强关联。
+①句补充现象：美国人依靠社交媒体获取新闻资讯。rely on”（为了生活或生存而）依赖”强调美国人无法
+脱离社交媒体获取新闻资讯的生活常态；daily headlines 借 daily 说明美国人民对社交媒体的依赖程度。
+②句呈现现象全貌：（依赖却又）不信任社交媒体；并给出因应之策：增强媒体素养。Yet 镨域 as 从
+句而非全句，即as从句与①句构成语义对比，主句与该语义对比形成因果逻辑（as 内藏因果关联）“人们
+陷入离不开而又不信任媒体的矛盾僵局，所以不得不去提升自身媒体素养以破除僵局”；绝对表达词all
+形似说明社会大背景“人们对所有媒体信任缺失”，实则强调“社交媒体的可信度愈发低下”；media
+literacy skills 中 literacy 与 skills 均表“技能，能力”，整体可译为“媒体素养（指媒体认识/评判/运用的态
+度与能力，如信息选择、理解、质疑、评估、思辨性反应能力等）”。
+③句（过渡句）承上强调因应之策的迫切性，启下分析“迫切性的原因”。Such a trend 即指②句“人
+们开始增强自身媒体素养这一趋势”；程度副词 badly“非常”既强调提升媒体素养的迫切性，又反衬媒体
+信任缺失的严重性。
+④⑤句借用调查数据说明③句“媒体素养亟待增强”原因。借 nearly a quarter of... was fake news、
+44 percent...rarely or never trust 说明 badly needed.
+④句说明原因之一：网络充斥虚假新闻。nearly a quarter of 以庞大占比基数凸显虚假新闻问题的
+严重性；politically critical 此处强调密西根州选票结果对于2016年美国总统大选极为关键。注：During
+the 2016 presidential campaign 表面锁定事件发生时间范围，实际借2016年总统大选期间所发生事件
+“超级关键的摇摆州密西根竟然出现近1/4的大选推文是虚假信息”影射全篇写作契机“社交媒体信息
+传播过程中虚假新闻现象左右着美国网民（尤其年轻一代）的选举意向，从而给2016年总统大选这种全
+球重大政治事件造成严重影响”。
+⑤句说明原因之二：社交媒体新闻可信度低下。rarely or never 虽以并列词 or 衔接，却借 or 更凸显
+后者（即 never），强调用户对社交媒体平台上信息的信任缺失严重。
+【深层解读】④⑤句语义衔接功能强大：形似毫无关联的两个调查数据，实际内藏因果关联“社交媒
+体充斥虚假新闻-用户对媒体缺失信任”，在呼应②句强调媒体信任缺失严重程度、明确首段年轻人为
+何不信任总统推特白宫新闻之余，更是明确③句媒体素养亟待增强的原因。
+•真题精解•
+26. According to Paragraphs 1 and 2, many young Americans
+26. 根据第一、二段，许多美国年轻人
+cast doubts on
+对
+产生怀疑。
+［A］ the justification of the news-filtering practice
+［A］新闻过滤这一做法的正当性
+［B］ people's preference for social media platforms
+［B］人们对社交媒体平台的偏好
+［C］ the administration's ability to handle information
+［C］政府处理信息的能力
+［D］ social media as a reliable source of news
+［D］社交媒体作为可靠的新闻来源
+［精准定位］先由首段“超2/3美国年轻人反对总统特朗普使用推特，他们更倾向于从别的渠道而非
+总统社交平台获取白宫消息”可推知“美国年轻人不太信任由推特这一社交媒体作为白宫新闻的可靠来
+源”，再结合第二段①②句“美国人依靠社交媒体获取新闻资讯，却又越来越不信任媒体”不难敲定“美国
+人对社交媒体作为可靠新闻来源产生了怀疑”，即［D］正确。
+［命题解密］题干十正确项［D］是对第一二段段落主旨（尤其是第二段①②句）的合理概括。
+21
+
+### PDF p22
+
+［A］由首段末句 prefer news...filtered through...not...捏造出“新闻过滤这一做法不被年轻人认
+可”，而文意实为“年轻人认为由总统推特透露出来的白消息没有其他渠道透露出来的更可靠”；［B］根
+据第二段①句“人们依赖社交媒体获取新闻资讯”捏造而来，虽属事实，却并非年轻人质疑的对象（即②
+句“（包括社交媒体在内的）所有媒体（信息资讯）”；［C］根据第二段④句“2016年总统选举期间，密西根
+州推特用户分享的网络内容中充斥虚假信息”捏造出“年轻人质疑政府处理（网络虚假）信息的能力”。
+［技巧总结］概括推理题意在考查学生明辨整体语义的能力，解题过程中重在关联主旨，即重在利
+用段/句群关联锁定语义重心以推导段/句群主旨。如本题，首先可由首段两句间语义逻辑“先浅层后深
+层”（The implication is that... ）着重掌握末句“千禧一代更愿意选择相信其他渠道而非总统推特发出的
+白宫消息”；再由第二段句间语义逻辑“先陈述事实后转折引出语义重点并以调查研究发现予以佐证”
+（... Yet...Such a trend...according to...And a survey...found...）着重掌握①②句矛盾僵局“一方面
+离不开社交媒体、一方面又不信任媒体”；最后再结合两段语义重心的语义关联“社交媒体、新闻资讯、信
+任/意愿”不难做出合理推导“年轻人对社交媒体作为可靠的新闻来源产生了怀疑”。捷径：由题干 cast
+doubts on 与第二段②句 distrust 的同义关系可将解题线索定位至该段①②句，从而锁定怀疑对象“（包
+括社交媒体在内的）所有媒体（所提供的新闻信息）”，而唯有［D］重心落于“信息资讯”。
+27. The phrase “beef up”（Line 2, Para. 2） is closest in
+27.第二段第二行中 beef up 的词义最
+meaning to
+接近_
+-。
+［A］ sharpen
+［A］增强
+［B］ define
+［B］界定
+「CI boast
+［C］ 吹嘘
+［D］ share
+［D］分享
+［精准定位］将被考词所在句“随着美国人越来越不信任媒体，他们开始
+自身的媒体素养”与
+其前文“大多数美国人依靠社交媒体来查阅每日头条”结合，可推测语义逻辑：美国人一方面要依靠社交
+媒体来获取信息，一方面又不信任媒体上的信息，这种矛盾僵局需要依靠自身来突破，即逼迫其开始强
+化自身媒体素养来对媒体信息进行判别、选择。选项中唯有［A］契合这一语义逻辑，故正确。且由第三
+段首句“作为数字原住民的年轻人们确实能够更加娴熟地区分辨别事实与虚假消息”可推知他们的媒体
+信息资讯辨识能力得以提升，由此侧推 beef up 应该理解为“增强”更契合。
+［命题解密］正确项［A］是基于第二段①②句间 Most Americans rely on social media to check daily
+headlines. Yet as distrust has risen toward all media 所示矛盾僵局，对 people may be starting to beef up
+their media literacy skills 的合理推断。
+［B］由②句划线词后的术语“媒体素养”捏造出“定义/界定”；［C］由“虚假新闻”捏造出“吹嘘”之意；
+［D］由常识“社交媒体上的分享行为”捏造出“分享”，却与文中矛盾僵局“人们依赖媒体却又不信任媒体”
+所暗藏问题解决之策“从自身突破，
+__其自身媒体素养”无法完美衔接。
+［技巧总结］解答词义题的关键步骤是：一、由句内寻找特情感色彩表达词，初步筛选句意基调；
+二、根据句间语义逻辑揣摩被考词与上下文情感基调的“同向”、“反向”关系；三、结合两线索，最终确定
+正确选项。如本题，首先根据被考词所在句内的负面情感基调词 distrust 揣摩该句意在说明“对媒体的
+不信任增强，被迫提升自身媒体素养”初步锁定［A］，然后根据被考词所在句与前文形成的语义转折关联
+（Yet）“依赖媒体却又不信任媒体”可进一步揣摩“为了解决这种离不开却又不信任的矛盾僵局，人们只
+能增强自身媒体素养，以辨识媒体信息真伪”，从而敲定［A］。
+22
+
+### PDF p23
+
+① Young people who are digital natives are indeed
+身为数字原住民的年轻人在网络空间中
+becoming more skillful
+at separating fact from
+fiction in
+分辨事实与虚构的能力的确正在变得更加娴
+cyberspace®
+. ②A Knight Foundation focus-group® survey of
+熟。奈特基金会针对14～24岁年轻人的专
+young people between ages 14 and 24 found they use
+“distributed trust”
+to verify®
+stories.
+⑧ They cross-check®
+题调查发现，这些年轻人利用“分布式信任”
+sources and prefer news from different perspectives®—
+验证新闻，他们交叉核对新闻来源，更愿意接
+especially those that are open about any bias®
+.④“Many
+受从不同视角解读的新闻—尤其那些对一
+young people assume® a great deal of personal responsibility
+切偏袒性看法兼收并蓄的新闻。“许多年轻
+for educating themselves and actively seeking out opposing
+人在自我教育及积极寻求对立观点方面开始
+viewpoints，" the survey concluded.
+承担很多的个人责任”，该调查总结道。
+•词汇注释与难句分析。
+*KZRZ201
+①cyberspace ［'saubospeis］n. 网络空间
+⑥ bias ［'baios］n.偏见
+②focus-group［'foukosgrup］n.（代表公众的）焦点小组
+⑦ assume［o'sju:m］v.开始承担（责任）
+（选自各阶层，讨论某专项问题；所得信息常为市场
+• 经典搭配
+调查人员或某政党所用）
+①skillful at（⋯⋯方面技巧纯熟）
+③ verify［'verifai］v. 核对，核实
+②be open about（不隐瞒，对⋯⋯开诚布公）
+④ cross-check［ krps tjek］v. 核对，核实；交叉检查
+③assume responsibility （开始承担责任）
+⑤ perspectiveLpa spektiv」n.（思考问题的）角度，观点，
+④seek out（找出，找到）
+想法
+•语篇分析•必
+第三至五段为第二部分，阐释现状：美国人（尤其年轻一代）媒体素养的确在增强，其新闻处理时责
+任意识在增强。
+第三段阐释现状之一：美国年轻一代对信息甄别的判断力在提升。关键词为：becoming more
+skillful。
+①句总述年轻人信息甄别能力增强。are indeed becoming more skillful at... 呼应第二段②句中的
+may be starting to beef up，先借indeed”确定性”消除 may“可能性”并引出现状从而开启现状阐释“媒体
+素养的确在提升”；再借 more skillful 预示下文将提出论据证实“甄别能力提升”。
+②③④句以调查研究说明①句。句群借由 verify stories、cross-check sources、assume a great deal of
+personal responsibility 所展示的语义场“核验新闻真实性”与①句 separating fact from fiction”辨识真伪”
+实现强关联。
+②句先指出年轻一代利用“分布式信任”辦识新闻真伪。distributed trust 加引号，表特定称谓，预示
+下文将着重论述。注：stories 此处借上下文语境可知其指“新闻报道（的题材）”。编者注：信任模式已经
+从20世纪的“机构性信任”转变21世纪的“分布式信任”。信任不再是由上而下的，不再是不透明和
+线性的，它现在是去中介化和双向的。新的以信用为基础的信任模式正在被更多的人所接受。
+③句后解释“分布式信任”的具体操作办法：交叉核验新闻来源、审慎辨别新闻观点。本句与上句形
+成“抽象一具体”逻辑，句子借 cross-check、from different perspectives、open about any bias 强调年轻一代
+多方核验新闻来源、多角度解读新闻内容、兼收并蓄对立观点以形成对新闻的全面理解，展现其对待网
+络新闻资讯基于多因素的网络分布式信任机制，强化其真伪辨识过程中的审辨式思维。
+④句总结年轻一代在修炼自己并积极寻求对立观点方面自我责任意识增强。assume a great deal of
+personal responsibility...”开始承担起非常多的自我责任”所蕴藏的今昔对比与①句显性对比 are indeed
+becoming more skillful at...“的的确确变得更加善于⋯⋯”形成呼应，暗示两句间因果逻辑：新闻查阅过
+程中个人责任意识的增强一网络信息真伪的区辨能力增强；educating 此处虽意表“教育”，但更具“教导、
+23
+
+### PDF p24
+
+训练”之意，强调“年轻人处理媒体新闻（诸如查阅或分享等时）自我约束力的提升”；actively 借其主观能
+动性反衬年轻人兼收并蓄各种对立观点、积极开展审辨式思维的媒体素养。
+【深层解读】digital natives 聚焦“身为数字原住民的年轻一代”：Young people who are digital natives
+将第二段骤然宽泛的 Most Americans/people 收窄回首段 young Americans、Millennials，并借 digital
+natives 深层内涵（一方面借“数字原住民年轻一代深谙网络信息技术”暗示“其网络媒体信息甄别能力相
+较非数字原住民一代更为娴熟”，另一方面借“数字原住民年轻一代自幼生活在网络世界中、与网络世界
+难舍难分”暗示“其相较非数字原住民一代更有可能更积极努力地提升媒体甄辨能力，以满足自身从网
+络获取新闻资讯之需”）暗示全文聚焦年轻一代以阐释美国人媒体素养的提升。注：首句 more 为纵比
+“相较此前虚假新闻并不盛行时期、并非十分着意增强自身媒体素养而言，现在已经开始增强自身素养
+的他们更加善于辨识信息真假”，而非横比。
+•真题精解，
+28. According to the Knight Foundation survey, young people
+28. 根据奈特基金会的调查，年轻人
+。
+［A］ tend to voice their opinions in cyberspace
+［A］倾向于在网络空间发表自身观点
+［B］ verify news by referring to diverse sources
+［B］通过查阅多种来源以验证新闻
+LC］ have a strong sense of responsibility
+［C］有强烈责任感
+［D］ like to exchange views on “distributed trust”
+［D］喜欢就“分布式信任”交换意见
+［精准定位］第三段②③④句介绍奈特基金会的调查结果，其中②句指出年轻人利用分布式信任来
+验证新闻，③句进而做出解释：他们交叉核对新闻来源、倾向于多角度分析的新闻资讯，尤其是对各种观
+点兼收并蓄的新闻资讯。由此可见，［B］正确。
+［命题解密］正确项［B］契合段中所述年轻人多重角度验证新闻真伪的方式方法，是对②③句 verify
+stories...cross-check sources 的合理改写。
+［A］根据①句调查对象 digital natives 的特点“自幼熟悉信息技术”合理推导而来，但它并非调查结
+果；［C］将④句所示“年轻人在新闻审视过程中的自我责任意识”泛化为“对社会、对集体、对他人等的责
+任意识”；［D］将②句 use “distributed trust” to verify stories“利用分布式信任来验证新闻真伪”曲解为
+“喜欢就分布式信任交换意见”，将“信息甄辨方式”偷换为“讨论焦点”。
+［技巧总结］本题为研究结论类的事实细节题。常规解题思路为“（题干/选项）定位法十排除法”：
+即，首先根据题干已知关键信息 the Knight Foundation survey 定位至第三段②③④句；随后根据各选项
+关键信息词分别定位至段中各句（［A］对①，［B］ ③，［C］对④，［D］ ②）并仔细甄别发现［A］、［C］、［D］
+与句意不符，唯有［B］与句意相似。非常规解题思路则为“作为论据的调查实为论点服务，故找寻与调查
+相关的论点即可”：即，本段②③④句均意在说明①句论点“年轻人越来越擅长辨别信息真伪”，而四个选
+项中唯有［B］“验证新闻”与此挂钩，故正确。
+V ① Such active research can have another effect.
+这种积极的探索研究有时可以产生另
+②A 2014 survey conducted in Australia, Britain, and the
+一种效果。威斯康星大学麦迪逊分校 2014
+United States by the University of Wisconsin-Madison
+年在澳大利亚，英国和美国进行的一项调查
+found that young people's reliance® on social media led to
+发现，年轻人对社交媒体的依赖使其政治参
+greater political engagement®
+与度提升。
+24
+
+### PDF p25
+
+•词汇注释与难句分析•以
+①reliance［ri'laions］n. 信赖
+①reliance on（对⋯⋯的依赖）
+②engagement_I geid3mont］n.参加，参与
+②political engagement（政治参与）
+• 经典搭配
+•语篇分析。以
+第四段为上段末句的补充：对信息的积极探索使年轻一代政治参与度提升。关键词为：① have
+another effect； ②greater political engagement。
+①句概述年轻人新闻处理时的积极探索研究会产生另一效果。Such active research 以“照应上段末
+句末尾 actively seeking out..”之形行“回指上段末句全句‘年轻一代在积极修炼自己并寻找对立观点
+方面承担起非常多的自我责任”之实；have another effect 借 another 反衬上文已述一个效果（即“信息甄
+别能力的提升”）并预示下文“另一效果”。
+②句借调查明晰效果：政治参与度提升（反衬年轻人政治信息处理能力提升）。led to 与 another
+effect 因果关联复现，由此可推知 young people's reliance on social media 虽形式上呼应第二段段首，实则
+指向上段所述“依赖社交媒体的年轻人在网络上开展各项调查研究以辨识信息真伪这一具体行事方
+式”；greater political engagement 呼应文首两段“年轻一代反对总统使用推特、2016年总统大选时推特用
+户在网上分享信息”，同时借第二段延及内容“大选期间推特用户分享信息中近1/4属于虚假消息”暗示
+写作视角可能将由上段“信息甄别能力”过渡到“信息分享时虚假新闻问题处理能力的提升”
+【深层解读】本段看似独立，却关联全篇：“年轻一代政治参与度提升”似乎与全篇着意强调“媒体素
+养提升”无关，但两者内藏因果关联“媒体素养提升（新闻处理时责任意识的提升）一政治参与度提升”；
+且借回应首段“年轻一代反对总统推特”暗示“随着年轻一代在处理网络媒体信息过程中责任意识的提
+升，他们在处理政治信息时也将变得审辨而思，即对待总统推文信息将保持高度警惕”，铺垫后文阐释。
+V（
+1 Social media allows users to experience news
+社交媒体让用户能够更亲密、更即时地
+events|
+more intimately®
+and immediately® while also
+体验新闻事件，同时也允许他们转发新闻以
+permitting them to re-share news as a projection®of their
+授射其价值观和兴趣爱好。这迫使用户对
+values
+and interests. ② This forces
+users to be more
+其在信息传递中的角色更为留心。巴纳研
+conscious® of their role in passing along information. 3A
+究小组一项调查显示，美国人就虛假新闻现
+survey by Barna research group found the top reason
+象给出的首要原因是“读者错误”，而不是报
+given by Americans for the fake news phenomenon is
+道时编造新闻或犯事实错误。约三分之一
+“reader error，” more so than made-up stories or factual
+的美国人认，虚假新闻问题在于通过社交
+mistakes in reporting. ④ About a third say the problem of
+媒体“对事实新闻进行扭曲或夸大”。换句
+fake news lies in “misinterpretation®or exaggeration®of
+话说，在社交媒体上分享新闻的选择可能是
+actual news” via social media. ⑤ In other words, the
+该问题的核心。“这意味着在抵制该问题的
+choice to share news on social media may be the heart of
+过程中存在着真正的个人责任，”巴纳研究
+the issue.
+⑥ “This indicates®there is a real personal
+小组主编罗戈萨尼•斯通表示。
+responsibility in counteracting® this problem， ” says
+Roxanne Stone, editor in chief at Barna Group.
+，词汇注释与难句分析。
+①intimately［'ntmttl］ad. 亲密地，密切地
+③projection［ pra'dsekJn］n. 体现
+②immediately［i'midatlJad. 立即地，即刻地
+④conscious［'konJos］a. 慎重的，有意的
+25
+
+### PDF p26
+
+⑤ misinterpretation［'misinito:pri'tei/on］n.错误理解
+②pass along（传递）
+⑥exaggeration［Igzeedso 'retjon］n. 夸大
+③top reason（首要原因）
+⑦ indicate［'ndikeit ］v.表明
+④lie in（在于）
+⑧ counteract［ kauntor'eekt］.抵抗，抵制
+⑤in other words（换句话说）
+• 经典搭配
+⑥editor in chief（主编）
+①conscious of（对⋯⋯留心）
+1. Social media allows users to experience news events more intimately and immediately while also
+permitting them to re-share news as a projection of their values and interests.
+结构切分：
+Social media
+allows
+句子主干：
+users to experience news events
+more intimately and immediately
+主语
+谓语
+宾语
+宾语补足语
+状语
+状语从句
+while
+（social media is） also permitting
+them
+to re-share news
+衔接词
+主语
++
+谓语
+宾语
+宾谱补足语
+news的补足语
+as a projection of their values and interests
+功能注释：本句主干为 Social media allows users to experience news events，谓语结构采用了 allow sb
+to do sth 的用法。while 引导状语从句时，如果主句和从句的主语一致，且从句谓语又含有be，则从句中
+有时可省略主语和 be，因此可判断出句中 while 后省略了 social media is。allows...（is）permitting...两
+个并列谓语结构引出社交媒体的双重功效。
+2.A survey by Barna research group found the top reason given by Americans for the fake news
+phenomenon is “ reader error，”
+more so than made-up stories or factual mistakes in reporting.
+by Barna research group
+后置定语
+句子主干：
+A survey
+found
+宾语
+the top reason
+I5
+"reader error
+主语
+谓语
+执句
+主语 系动词
+表语
+后置定语1
+后置定语2
+状语
+given by Americans
+For the fake news phenomenon more so than made-up stories or factual mistakes in reporting，
+功能注释：本句主干力 A survey found （that）.•，宾语部分为省略 that 的宾语从句。more so than
+made-up stories or factual mistakes in reporting 做宾语从句的状语，其中so 指代“被当成首要原因”这一
+情况，more than 表示“比⋯⋯更⋯⋯”，因此整句话可理解为：比起报道过程中编造新闻或犯事实错误，
+读者错误更能被指为虚假新闻的首要原因。
+•语篇分析•x/
+第五段阐释现状之二：美国人对信息分享的自我责任意识在增强。关键词为：more conscious of their
+role in passing along information。
+①②句总述：用户在社交媒体上传递信息时会审慎而为。This forces 实现句间因果关联（This 回指
+首句第二分句内容）。
+①句先指出社交媒体的双重功效：既能亲密、即时体验新闻事件，又能将其转发以体现自身价值观
+及兴趣点。while also 以并列之形连接 allows 及 permitting，实际将语义重点落于后者，用以强调社交媒
+体的信息转发功能；并借 as a projection of...反衬用户转发信息的真实意图“以投射自身价值与兴趣”，
+26
+
+### PDF p27
+
+由此锁定信息转发与转发者之间的关联以暗示其转发时应小心谨慎。注：intimately（having a close and
+friendly relationship“亲密地，亲切地”）用以说明社交媒体能够拉近用户对新闻事件的亲近感，新闻事件
+借助社交媒体更能给用户以更亲密、更深刻的情感冲击、用户的新闻体验感非常强烈。
+②句后指出用户在信息转发时会承担自我责任：审慎而为。forces 以其隐性因果关联表明用户在信
+息转发时审慎而为的动机：以求积极正面彰显自身兴趣点及价值观；conscious”（尤指因自认为很重要
+而）在意的，刻意的”表明用户对其在信息传递过程中的角色极为重视。
+③至⑥句分述，借“分析虚假新闻现象的原因”阐释“用户分享信息时审慎而为的原因”。
+③④句先分析虚假新闻现象的原因。the fake news phenomenon/problem 实现内部联结。
+③句概述最大原因：读者错误。reader error 加引号，同第三段 distributed trust，既表引用，亦表特殊
+称谓，预示后文必有详解，同时锁定虚假新闻背后的最重要原因与读者（而非新闻工作者）相关。注…
+more so than...“.⋯比•⋯更能被指为首要原因”套入文意即为“相较报道中编造新闻或犯事实错误，
+读者错误更能被指为虚假新闻问题的首要原因”。
+④句细说“读者错误”：通过社交媒体对真实新闻资讯进行误读或夸大。misinterpretation or
+exaggeration of actual news 着重两点：一、新闻工作者发布的新闻信息是真实无误的（actual news）；二、
+读者对新闻事实进行了曲解或夸大（misinterpretation or exaggeration）。via 着意强调社交媒体只是充当
+媒介的作用，暗示读者而非社交媒体应该对其所分享的信息内容负责。
+⑤⑥句呼应①②句，明确指出信息分享时需承担个人责任。In other words 实现⑤⑥句与③④句间
+化繁为简的逻辑；This indicates 实现句群内部衔接。
+⑤句明示虚假新闻问题的核心：选择分享。本句重现社交媒体给用户提供信息分享选择（the
+choice...on social media 复现①句 Social media... permitting them to re-share news）的同时，更强调其负
+面影响“为虚假新闻创造了‘机会’（the heart of the issue，其中 the issue 指代 the fake news phenomenon/
+problem）深层暗示用户在做出分享选择时应先辨识新闻的真假，从而将虚假新闻扼杀在分享之时。
+⑥句指出选择分享的深层内涵：承担真实个人责任。This indicates 则表明个人责任因选择分享而
+起（This 回指⑤句“选择分享是虚假新闻问题的核心”）；a real personal responsibility in counteracting this
+problem 一方面表明抵制虚假新闻问题中需要承担真实个人责任，另一方面回应第三段强调指出以年轻
+一代为代表的美国人在新闻处理过程中承担起越来越多的自我责任。注：counteract （to reduce or
+prevent the bad effect of something, by doing something that has the opposite effect"抵抗，抵制”）此处意
+指通过某种方式方法来减少或者预防某一事件的负面影响，套人文中即指，通过对新闻分享行的严格
+审视以求做到“不传递虚假新闻信息（不传谣）”，从而得以减少虚假新闻问题带来的负面影响。
+【深层解读】一、本段呈现第二段所述虚假新闻问题的原因及抵制措施：借③句 the top reason...for
+the fake news phenomenon、④句 the problem of fake news lies in. ...⑤句 the choice...the heart of the
+issue、⑥句 responsibility in counteracting this problem 所示核心语义“虚假新闻问题”呼应第二段③句所
+述现象“虚假新闻充斥媒体”分析其原因“读者对事实信息的夸大或扭曲”并给出相应抵制措施“新闻分
+享时增强自我责任意识”。二、第二部分均围绕第三段末句“新闻处理时责任意识增强（即媒体素养增
+强）”展开细述，该句实为全文核心论点：a、信息真伪辨识时判断力得以提升（第三段）；b、政治参与度得
+以提升（第四段）；c、信息分享时责任感得以增强（第五段）；但鉴于b一个与媒体信息处理能力（即媒
+体素养）无关的独立效果，故而将其分立处理，将第三、五段分别阐释为当前美国人（尤其年轻一代）的媒
+体素养现状。换而言之，全文核心论述点即为：美国年轻一代（数字原住民）的媒体素养主要体现在两个
+方面：一是对新闻的辨识能力，这个是前提，他们的解决办法是通过分布式信任来核验新闻的真实性；第
+二是分享转发时体现的责任意识，也就是类似于我们现在所宣讲的“不信谣、不传谣”。
+27
+
+### PDF p28
+
+•真题精解•
+29. The Barna survey found that a main cause for the fake
+29. 巴纳调查发现虚假新闻问题的主要
+news problem is
+原因是
+［A］ readers' outdated values
+［A］读者过时的价值观
+［B］ journalists' biased reporting
+［B］记者有偏见的报道
+［C］ readers' misinterpretation
+［C］ 读者的曲解
+［D］ journalists’ made-up stories
+［D］记者捏造的新闻
+［精准定位］第五段③④⑤⑥句介绍巴纳调查结果，其中③句指出虚假新闻问题的最重要原因是
+“读者错误”，④句进而做出解释：对事实新闻信息的误读或夸大，故［C］正确。
+［命题解密］题干十正确项［C］是对③④句中 top reason、reader error、 misinterpretation or
+exaggeration of actual news 的完美替换。
+［A］由①句碎片信息 re-share、their values 捏造而来，而句子并无“读者价值观过时”之意；［B］由前
+文第三段③句中 bias及本段③句中 in reporting 捏造而来，而文中仅言及“记者报道中可能会捏造新闻、
+或者会犯事实性错误”而并未言及“记者报道带有偏见”；［D］由③句 made-up stories..in reporting 而
+来，可它并非题干所考查的“主要原因”。
+［技巧总结］主次因果细节题的解题思路为：于文中找寻因果关联词，再于关联词前后定位主次因果，
+最后可借主次因果的注释性内容辅助解答。如本题，首先由题干 main cause for the fake news problem 定位
+至③句 the top reason. .. for the fake news phenomenon，然后借其后 more so than 锁定 reader error，最后再借
+reader error 的解释性表达 misinterpretation or exaggeration of actual news 锁定［C］。
+① So when young people are critical of an over-
+因此，当年轻人批评过度推特的总统
+tweeting president,they reveal" a mental discipline®in
+时，他们展现出思维技能中的一种自制
+thinking skills—and in their choices on when to share on
+力——一种选择何时在社交媒体分享的自
+social media. ［411 words］
+制力。
+•词汇注释与难句分析，
+①reveal［ri'vi：］w.展现，显露
+S
+② discipline［'disiplin］ . 自制力
+•语篇分析•泌
+第六段为第三部分，呼应首段总结收篇：美国年轻一代反对总统推特实则反映其网络审辨式思维技
+能的提升。关键词为：reveal a mental discipline。
+独句成段，reveal（to show something that was previously hidden）揭示全文“由表象到实质”的写作手
+法，展示文章立意高度“由年轻一代反对总统推特谈及其网络生活中审辨式思维能力的提升”；and形似
+并列，实则更借后者的具象“新闻分享时”明示前者的抽象“思维能力中”。注：1.mental discipline 本义
+“心理/精神/大脑自制力”，但鉴于“自制力”已暗藏“大脑思维活动”，故而将 mental 省译，直接处理为“自
+制力”；2.choice on sth 相当于 choice over sth，即“在⋯•⋯方面做出的选择”。
+So 解读：So借其后 when 情境“年轻人对过度推特的总统表示批判”与首段的呼应表明其辖域第二
+至五段（中间段）分析，却又借破折号后 when to share on social media 表明其更意在强调第五段解读“人
+们在转发信息时更加小心、谨慎”，间接说明年轻一代批判总统推特的两个原因：一、对总统通过社交平
+台发送的信息持审辨式思维；二、分享总统信息时尤为审慎，绝不跟风附和。
+【全文梳理】全篇首尾相接，圆满收篇：全文以“年轻一代反对总统使用推特这一社交平台发布新闻
+事件”开篇，在历经中间段落对“美国人（尤其年轻一代）在新闻查阅及新闻分享中承担起更多自我责任，
+其媒体素养在提升”的分析阐释之后，本段对文首引子做出最终点评“年轻人对总统过度推特的这种批
+28
+
+### PDF p29
+
+判态度恰恰反映出其思维技能中的自制力”，就此圆满收缩全篇。
+• 真题精解•
+30. Which of the following would be the best title for the text？
+30. 下面哪项是全文最佳标题？
+［A］ A Rise in Critical Skills for Sharing News Online
+［A］网上新闻分享辨识力的提升
+［B］ A Counteraction Against the Over-tweeting Trend
+［B］对过度推特趋势的反击
+［C］ The Accumulation of Mutual Trust on Social Media
+［C］社交媒体上相互信任的积聚
+［D］ The Platforms for Projection of Personal Interests
+［D］体现个人兴趣爱好的平台
+［精准定位］文首两段先提出现象“美国人离不开媒体却又不信任媒体”及其因应之策“增强媒体素
+养”；第三至五段进而阐释现状，指出美国人（尤其年轻一代）媒体素养的确得以提升，其信息真伪辨识能
+力提高、信息分享行为中自我责任意识增强；最后末段呼应首段作结“年轻一代反对总统推特实质是其
+审辦思维能力的展示，是其在新闻分享行为中的一种自制行为”。由此可见，［A］最契合文意。
+［命题解密］正确项［A］是对全文主旨“以年轻一代为代表的美国人的媒体素养正在提升”的概括。
+［B］利用首末段“年轻一代反对特朗普总统过度推特”捏造而来，却偏离文意重心；［C］利用第二三段
+distrust、distributed trust 捏造而来，而文中所言信任实际针对“网络媒体信息”而非“网络人际沟通”；
+［D］利用第五段首句 as a projection of...interests 设置干扰，可文意重点并不在 platforms“社交媒体平
+台”而在 news on the platforms“社交平台上的新闻资讯”。
+［技巧总结］解答文章主旨题重在关联文章主题词、主题句。主题词通常可以借由高频词体现，主题
+句常位于文首末段。如本题，文中频出 share、news、skills 等词，且文首两段借由具体事例“年轻一代反
+对总统使用推特发布白宫消息”以及转折对比词yet 引出文章主述话题“依赖媒体却又不信任媒体的美
+国人不得不主动去提升自身媒体素养（media literacy skills）”，并于文末再度呼应首段事例升华事件背后
+真实内涵“年轻一代对推特总统的微词实际反映出其思维能力中的一种自制能力（a mental discipline in
+thinking skills），即在选择于社交媒体上分享新闻时的一种大脑自制力，也即对推特总统所发推特的辦
+识力”，借此两点不难锁定［A］为正确项。
+Text 3
+科技巨头涉足医疗领域引发的问题
+一、文章总体分析
+本文选自 The Guardian 《卫报》2017. 07.05 一篇题力 The Guardian view on patient data: we need a
+better approach 的文章。文章由新近事件“英国信息委员会的裁定——全民医疗服务体系（NHS）把患者数
+据分享给 AI公司 DeepMind 的行侵犯病人隐私权”切入，指出隐私法不能解决“科技巨头垄断”这一根本
+性问题，要防范数字霸权时代的到来，真正维护患者权益，亟需决策者谨慎做出每一个决定。
+学二、语篇分析及试题精解
+1 ①Any fair-minded assessment of the dangers of
+对于英国国民医疗服务体系（NHS）与
+the deal between Britain's National Health Service
+DeepMind 公司之间协议的种种危害，任何
+（NHS） and DeepMind must start by acknowledging that
+公正的评价想必都会先承认双方均是好意。
+both sides mean well. ② DeepMind is one of the leading®
+DeepMind 是全球人工智能（AI）的领先企业
+artificial intelligence （Al） companies in the world. 3 The
+之一。这一技术成果应用于医疗保健方面
+potential of this work applied to healthcare is very great，
+的潜力是巨大的，但这也可能导致权力进一
+but it could also lead to further concentration of power in
+步集中于科技巨头。正是在这样的背景下，
+the tech giants. ④ It is against that background that the
+29
+
+### PDF p30
+
+information
+commissioner®
+， Elizabeth Denham，
+has
+英国信息委员会专员伊丽莎白•德纳姆对
+issued® her damning® verdict® against the Royal Free
+NHS下属的英国皇家自由信托医院做出了
+hospital trust under the NHS, which handed over to
+DeepMind the records of 1.6 million patients in 2015 on
+证据确凿的违法裁定，（鉴于）医院于2015
+the basis of a vague®agreement which took far too little
+年将160万病人的档業交予 DeepMind 处
+account of the patients'rights and their expectations of
+理，而此举是基于一项不确场的协定—远
+privacy.
+远未能考虑到患者的权利及其隐私权期望。
+•词汇注释与难句分析•
+①leadingL'li:dila.领先的，最重要的
+S
+• 经典搭配
+②commissioner［ko'mijona（r）］n. 专员，长官
+①apply to 应用于⋯⋯
+③issue［'Ju：；'isju：］ .发表（声明），发出（警告等）
+②against the background of 在⋯⋯的背景下
+④damning.deem］a.证明某人作恶的，（证据等）确凿
+③hand over 把某事交给某人负责/处理
+的
+④take account of 考虑⋯⋯
+⑤verdict［'vs:dlkt］n. 裁定，判决；意见
+⑥vague［vergJa. 不明确的，含糊其辞的
+S
+It is against that background that the information commissioner, Elizabeth Denham,has issued her damning
+verdict against the Royal Free hospital trust under the NHIS, which handed over to DeepMind the records of 1.6
+million patients in 2015 on the basis of a vague agreement which took far too little account of the patients’ rights and
+their expectations of privacy.
+结构切分：
+which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement
+关系代词
+谓语
+间接宾语
+直接宾语
+时间状语
+方式状语
+It is against that background that
+Elizabeth Denham，
+under the NHS
+被强调部分在句中做状语
+同位语
+花承小咸
+后置定语
+句子主干：
+the information commissioner, has issued her damning verdict against the Royal Free hospital trust
+主语
+谓语
+宾语
+后置定语
+which
+took far too little account of
+the patients’
+rights and their expectations
+of privacy：
+关系代词
+谓语部分
+并列宾语
+后置定语
+功能注释：本句 It is...that... 强调句型，状语 against that background 为强调部分，明确事件背
+景。句子主干 the information commissioner..verdict 引出事件，后置定语 against...引出裁定对象；嵌
+套一个 which 非限定性定语从句修饰 the Royal...under the NHS，实际解释案件始末。句末再嵌套一
+个 which 定语从句说明案件关键点 agreement 的问题所在。
+•语篇分析•以
+首段介绍事件：国民医疗服务体系（NHS）与人工智能公司 DeepMind 的协议被判触犯患者隐私权。
+关键词为：verdict。
+①②③句叙议结合交代事件背景。
+①句让步承认 NHS与 DeepMind 公司的协议初衷是好的。作者以“评述外界对某问题的看法”开启
+全文，带出背景人物 NHS、DeepMind 及背景事件a deal between...（两方商业协定）的同时，更借助“表
+绝对概念的 Any +表褒义的fair-minded”，以及表“相当确信”的must，间接传达自身观点：双方协议的
+30
+
+</details>
+
+## 读取边界
+
+- 本页不得用于自主练习、题干翻译或选项含义讨论。
+- 用户解锁后优先读取对应 Q 区块；若 OCR 文字存在歧义，再查看同页逐页证据的 PDF 文字层或外部视觉原页。
+- 本次预处理不写 `master_bank.csv`、句式卡、Tutor 或 review 文件。

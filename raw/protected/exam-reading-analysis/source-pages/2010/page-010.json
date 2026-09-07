@@ -1,0 +1,702 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2010-P010",
+  "year": 2010,
+  "pdf_page": 10,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+  "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017763157894736814,
+      "text": "与其原文细节的异同，即可发现［A］、［C］、［D］均在不同程度上偏离了原文含义，只有［B］符合原文信息。",
+      "width": 0.8755274347775753,
+      "x": 0.07172996079335002,
+      "y": 0.9328947369830589
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394998650797,
+      "text": "皿",
+      "width": 0.018987342002970767,
+      "x": 0.12236286927277622,
+      "y": 0.901162790945442
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01317319430802999,
+      "text": "1圓 We are even farther removed from the",
+      "width": 0.4135020969018881,
+      "x": 0.16033756258984344,
+      "y": 0.9026162792811978
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488375011236,
+      "text": "我们与20世纪初至二战前夕英国的",
+      "width": 0.3080168627416199,
+      "x": 0.6350211070609763,
+      "y": 0.8953488372673857
+    },
+    {
+      "confidence": 1,
+      "height": 0.011949204143725023,
+      "text": "unfocused newspaper reviews published in England between",
+      "width": 0.5021096807592914,
+      "x": 0.07172997602330773,
+      "y": 0.880813953925824
+    },
+    {
+      "confidence": 1,
+      "height": 0.014611383488303709,
+      "text": "杂感式报纸评论就更是无缘了，当时，新",
+      "width": 0.34599155404143767,
+      "x": 0.597046414909661,
+      "y": 0.8735465115406414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011903304175326701,
+      "text": "the turn of the 20th century and the eve of World War II, at",
+      "width": 0.5042194198695925,
+      "x": 0.06962023946745441,
+      "y": 0.8604651165953976
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739463,
+      "text": "闻用纸价廉如土，风格独特的艺术评论被",
+      "width": 0.34599155404143767,
+      "x": 0.5970464197092389,
+      "y": 0.853197674974983
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01185740483434583,
+      "text": "a time when newsprint was dirt-cheap and stylish arts",
+      "width": 0.49367084102010633,
+      "x": 0.06962026746463061,
+      "y": 0.8401162792891961
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "看作是对刊登它的出版物的一种装饰。",
+      "width": 0.3502109739110302,
+      "x": 0.5970464161562992,
+      "y": 0.8328488376142756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580783091093341,
+      "text": "criticism was considered an ornament\" to the publications in",
+      "width": 0.5021096807592914,
+      "x": 0.07172997602330773,
+      "y": 0.8183139535101183
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371246739463,
+      "text": "在那个遥远的年代，各大报纸的评论家们",
+      "width": 0.34810126397623387,
+      "x": 0.5949367096521785,
+      "y": 0.8110465118511943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013219094276428311,
+      "text": "which it appeared. ②In those far-off days, it was taken for",
+      "width": 0.49789026088969884,
+      "x": 0.07172996881675403,
+      "y": 0.7979651163633199
+    },
+    {
+      "confidence": 1,
+      "height": 0.014580783718510681,
+      "text": "会对所报道的事件撰写详尽入微的评论，",
+      "width": 0.34810126397623387,
+      "x": 0.5970464169118228,
+      "y": 0.7921052628492365
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317319430802999,
+      "text": "granted that the critics of major papers would write in detail",
+      "width": 0.5021096807592913,
+      "x": 0.0717299697811079,
+      "y": 0.7776162792402546
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "这被视作理所当然。他们从事的是严肃",
+      "width": 0.34599155404143767,
+      "x": 0.5970464170721081,
+      "y": 0.7703488374992078
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842035,
+      "text": "and at length about the events they covered.",
+      "width": 0.3670885950383903,
+      "x": 0.07172996775506635,
+      "y": 0.7572368422803002
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "③ Theirs was a",
+      "width": 0.13291139037385724,
+      "x": 0.44092827116328237,
+      "y": 0.757236842047742
+    },
+    {
+      "confidence": 1,
+      "height": 0.014672582400472645,
+      "text": "的工作，人们信任，即便是那些以轻松活",
+      "width": 0.34599155404143767,
+      "x": 0.5970464141888452,
+      "y": 0.7513157896344673
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011842105263157987,
+      "text": "serious business, and even those reviewers who wore their",
+      "width": 0.4957805801304075,
+      "x": 0.07172995690209585,
+      "y": 0.7368421051687373
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034271215137785,
+      "text": "泼的方式展现自己学问的评论家，如萧伯",
+      "width": 0.34599155404143755,
+      "x": 0.5970464199202093,
+      "y": 0.7296052630455867
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013173194935447219,
+      "text": "learning",
+      "width": 0.06962025279524676,
+      "x": 0.06962025443922608,
+      "y": 0.7151162790268375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011842105263157876,
+      "text": "lightly, like George",
+      "width": 0.18987341273583144,
+      "x": 0.14135021662786476,
+      "y": 0.716447368148498
+    },
+    {
+      "confidence": 1,
+      "height": 0.010464178888421327,
+      "text": "Bernard",
+      "width": 0.07813791016091803,
+      "x": 0.3290745035336186,
+      "y": 0.7178783759179356
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010526315475765102,
+      "text": "Shaw",
+      "width": 0.04430379557563974,
+      "x": 0.4198312250180873,
+      "y": 0.7177631580550703
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010526315475765102,
+      "text": "and Ernest",
+      "width": 0.101265821584552,
+      "x": 0.4746835459165848,
+      "y": 0.7177631580550703
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016080170556118545,
+      "text": "纳和欧内斯特•纽曼，也都清楚自己在做",
+      "width": 0.34599155404143767,
+      "x": 0.5970464173534021,
+      "y": 0.7092105265619217
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013249694046221228,
+      "text": "Newman, could be trusted to know what they were about",
+      "width": 0.4873417695667275,
+      "x": 0.07383966840229018,
+      "y": 0.6960526314908948
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371246739463,
+      "text": "什么。这些人相信新闻写作是他们的天",
+      "width": 0.34599155404143767,
+      "x": 0.597046415032727,
+      "y": 0.6875000002899054
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014611383488303709,
+      "text": "④ These men believed in journalism as a calling\"",
+      "width": 0.4071729962730043,
+      "x": 0.07383966729071295,
+      "y": 0.6743421050437293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013596584922389021,
+      "text": "，and were",
+      "width": 0.09719061623567832,
+      "x": 0.4788308509514883,
+      "y": 0.6741610096530951
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052544,
+      "text": "职，并为自己的文章能发表在日报上而感",
+      "width": 0.34599155404143767,
+      "x": 0.5970464197092389,
+      "y": 0.6684210524729934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013203794077823017,
+      "text": "proud to be published in the daily press.",
+      "width": 0.3755274056020704,
+      "x": 0.07172997434383094,
+      "y": 0.6539473685135566
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015087885605661433,
+      "text": "⑤8 “So few",
+      "width": 0.11407064434219272,
+      "x": 0.45984231577385326,
+      "y": 0.6537932665370695
+    },
+    {
+      "confidence": 1,
+      "height": 0.019124847336819295,
+      "text": "到自豪。“能够拥有足够的智慧或文学天",
+      "width": 0.34599155404143755,
+      "x": 0.5970464144877201,
+      "y": 0.6453488370168838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01645040261118036,
+      "text": "authors have brains enough or literary gift enough to keep",
+      "width": 0.5023296057152247,
+      "x": 0.0716460195580016,
+      "y": 0.6322234825541027
+    },
+    {
+      "confidence": 1,
+      "height": 0.015131578947368496,
+      "text": "賦能尽职尽责做好新闻写作工作本分的",
+      "width": 0.34599155404143755,
+      "x": 0.59704641460074,
+      "y": 0.6276315787184008
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329559338720221,
+      "text": "their own end up in journalism， ”Newman wrote， “that I",
+      "width": 0.5042194198695925,
+      "x": 0.07172996091611768,
+      "y": 0.613157894882472
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052544,
+      "text": "作家是如此之少”，纽曼写道，“以至于我",
+      "width": 0.34810126397623387,
+      "x": 0.5970464187766509,
+      "y": 0.6072368421159957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013341493355600531,
+      "text": "am tempted to define ‘journalism’as ‘a term of contempt",
+      "width": 0.5042194198695925,
+      "x": 0.07172995881520361,
+      "y": 0.5927631576502655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016080170556118545,
+      "text": "不禁想把‘新闻写作’定义成为“没读者的",
+      "width": 0.34599155404143767,
+      "x": 0.5970464187598719,
+      "y": 0.5872093029086071
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014703182797682901,
+      "text": "applied by writers who are not read to writers who are’.”",
+      "width": 0.4894514503260188,
+      "x": 0.07172997919704661,
+      "y": 0.571052631364195
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016447368421052655,
+      "text": "作家对有读者作家的蔑称’”。",
+      "width": 0.25105484037964576,
+      "x": 0.5970464219831728,
+      "y": 0.5651315792537253
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859998201137,
+      "text": "•词汇注释与难句分析",
+      "width": 0.20253164316910405,
+      "x": 0.3839662465589078,
+      "y": 0.5247093023846203
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01321909427642809,
+      "text": "①ornament ［'o:nomont］n.装饰；摆设；点缀",
+      "width": 0.3291139037385725,
+      "x": 0.07172996247670546,
+      "y": 0.501315789245184
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0133910304621645,
+      "text": "经典搭配",
+      "width": 0.08448863713280874,
+      "x": 0.5569117987326235,
+      "y": 0.5012986707458542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014718482368870744,
+      "text": "②about ［o'baut］prep.从事于，忙于",
+      "width": 0.2763713012461908,
+      "x": 0.06962025378618733,
+      "y": 0.4809210524713018
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034271215137674,
+      "text": "①be taken for granted（被视作理所当然）",
+      "width": 0.3143459925460086,
+      "x": 0.5358649800191898,
+      "y": 0.4796052634452961
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013310893585807393,
+      "text": "③calling ［'koil」n. 天职，使命感",
+      "width": 0.2637130708129182,
+      "x": 0.06962025520535524,
+      "y": 0.4636627908000932
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013310893585807393,
+      "text": "②in detail and at length（十分详尽）",
+      "width": 0.2721518813765983,
+      "x": 0.5379746956249919,
+      "y": 0.46366279092727347
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013157894736842146,
+      "text": "④casual ［'kee3oal」a. 马虎的，疏忽的，随便的（22题）",
+      "width": 0.4050632863382081,
+      "x": 0.06962025151444037,
+      "y": 0.4447368422221606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014580783091093341,
+      "text": "③kcep/hold one's end up（在困难面前坚持下去，表现好）",
+      "width": 0.4156118068366843,
+      "x": 0.5358649868137253,
+      "y": 0.44331395356099035
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014749082138663772,
+      "text": "⑤layout ［'leraut］n. 布局，安排，设计（22题）",
+      "width": 0.34388184410664135,
+      "x": 0.07172996688831075,
+      "y": 0.4256578946927878
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01329559338720221,
+      "text": "④be tempted to（不禁）",
+      "width": 0.17510548695551498,
+      "x": 0.5379746823924957,
+      "y": 0.42565789464628023
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013280293816014366,
+      "text": "⑥elaborate ［i'leebort］a. 详尽而复杂的；精心制作的（22题）",
+      "width": 0.4113923869670919,
+      "x": 0.07172997096793073,
+      "y": 0.4084302328059072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906247189124,
+      "text": "a term of contempt（轻蔑的称呼）",
+      "width": 0.25949365094332577,
+      "x": 0.5527426216802359,
+      "y": 0.40843023282601787
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "1. We are even farther removed from the unfocused newspaper reviews published in England between the",
+      "width": 0.8417721341718452,
+      "x": 0.11181436327272709,
+      "y": 0.3750000002477676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011842105263157876,
+      "text": "turn of the 20th century and the eve of World War Il, at a time when newsprint was dirt-cheap and stylish",
+      "width": 0.879746796296158,
+      "x": 0.07172996858187898,
+      "y": 0.3559210528506702
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01185740483434572,
+      "text": "arts criticism was considered an ornament to the publications in which it appeared.",
+      "width": 0.6751054869555152,
+      "x": 0.07172996369523814,
+      "y": 0.3355263157601791
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015131578947368385,
+      "text": "句子主干；",
+      "width": 0.07594936801188307,
+      "x": 0.10970464062486016,
+      "y": 0.3151315789831435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011903304175326701,
+      "text": "We are even farther removed from the unfocused newspaper reviews",
+      "width": 0.5210970409969526,
+      "x": 0.19831224550890747,
+      "y": 0.31513157925350044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013219094276428311,
+      "text": "主语 系动词",
+      "width": 0.09704640900883574,
+      "x": 0.1919831255799703,
+      "y": 0.2979651165268373
+    },
+    {
+      "confidence": 1,
+      "height": 0.011903304175326701,
+      "text": "表语",
+      "width": 0.0548523197210542,
+      "x": 0.3354430391373632,
+      "y": 0.2979651167165218
+    },
+    {
+      "confidence": 1,
+      "height": 0.010526315475764991,
+      "text": "removed的状语",
+      "width": 0.12025315994058461,
+      "x": 0.5232067553672605,
+      "y": 0.29934210527484884
+    },
+    {
+      "confidence": 1,
+      "height": 0.01334149335560042,
+      "text": "后置定语",
+      "width": 0.06751055015432672,
+      "x": 0.5991561177498408,
+      "y": 0.2802631576956872
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013234393847616155,
+      "text": "published in England between the turn of the 20th century and the eve of World War II，",
+      "width": 0.6097046248543558,
+      "x": 0.26793249007809655,
+      "y": 0.26308139539675024
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02058497039895313,
+      "text": "when newsprint was dirt-cheap",
+      "width": 0.23114945829256545,
+      "x": 0.13673147900582544,
+      "y": 0.23384731606330134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.008858628963169357,
+      "text": "and",
+      "width": 0.029535864324916117,
+      "x": 0.3881856548276966,
+      "y": 0.23982558160897693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014875920195328574,
+      "text": "stylish arts criticism was considered",
+      "width": 0.2599078264108807,
+      "x": 0.42597696634134585,
+      "y": 0.23657660758124777
+    },
+    {
+      "confidence": 1,
+      "height": 0.013326193156995347,
+      "text": "同位语",
+      "width": 0.052742613433196084,
+      "x": 0.8037974691272838,
+      "y": 0.2412790698698607
+    },
+    {
+      "confidence": 1,
+      "height": 0.014939874096920658,
+      "text": "关系副词",
+      "width": 0.06979694694679509,
+      "x": 0.11594540830626096,
+      "y": 0.22072773718800398
+    },
+    {
+      "confidence": 1,
+      "height": 0.011842105263157876,
+      "text": "主语1",
+      "width": 0.06118143129075235,
+      "x": 0.18776371396960273,
+      "y": 0.2223684210600676
+    },
+    {
+      "confidence": 1,
+      "height": 0.013157894736842146,
+      "text": "谓语1",
+      "width": 0.04852320450441788,
+      "x": 0.2932489457857658,
+      "y": 0.22236842083404618
+    },
+    {
+      "confidence": 1,
+      "height": 0.013166991033052078,
+      "text": "并列连词",
+      "width": 0.06965418390744504,
+      "x": 0.36496193764577245,
+      "y": 0.222340923218861
+    },
+    {
+      "confidence": 1,
+      "height": 0.011842105263157876,
+      "text": "主语2",
+      "width": 0.04641350186349791,
+      "x": 0.48945147738048733,
+      "y": 0.22236842115454436
+    },
+    {
+      "confidence": 1,
+      "height": 0.013280293816014366,
+      "text": "谓语2",
+      "width": 0.04641350186349791,
+      "x": 0.6097046411417893,
+      "y": 0.22093023266055822
+    },
+    {
+      "confidence": 1,
+      "height": 0.013184960264908674,
+      "text": "定语从句",
+      "width": 0.06966128814288808,
+      "x": 0.7130596507901472,
+      "y": 0.21942496165459646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418123144902,
+      "text": "at a time",
+      "width": 0.06329113757861049,
+      "x": 0.8037974691853783,
+      "y": 0.22819767482893138
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011842105263157876,
+      "text": "an ornament to the publications in which it appeared.",
+      "width": 0.373417724842779,
+      "x": 0.13502110005223908,
+      "y": 0.20921052611838797
+    },
+    {
+      "confidence": 1,
+      "height": 0.013402692267769245,
+      "text": "主语2的补语",
+      "width": 0.09493670636791574,
+      "x": 0.2784810148540168,
+      "y": 0.19186046536404677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014718482368870744,
+      "text": "功能注释：旬中介词短语 at a time.•是主句时间状语的同位语，进一步解释说明它是怎样一个时",
+      "width": 0.8375527143022525,
+      "x": 0.11181436613097125,
+      "y": 0.16842105261249785
+    },
+    {
+      "confidence": 1,
+      "height": 0.016447368421052655,
+      "text": "期。该同位语结构比较复杂，介词短语中嵌套了两个定语从句。",
+      "width": 0.5379746621243128,
+      "x": 0.07172997299902494,
+      "y": 0.1480263158015861
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013264993617409182,
+      "text": "2. Theirs was a serious business, and even those reviewers who wore their learning lightly, like George",
+      "width": 0.8417721341718452,
+      "x": 0.11181436327272709,
+      "y": 0.13081395370706994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0132190942764282,
+      "text": "Bernard Shaw and Ernest Newman, could be trusted to know what they were about.",
+      "width": 0.681434587584399,
+      "x": 0.07172997494900973,
+      "y": 0.11046511642993817
+    },
+    {
+      "confidence": 1,
+      "height": 0.013188494506635173,
+      "text": "10",
+      "width": 0.023206750931748926,
+      "x": 0.08649789050195253,
+      "y": 0.055232558378218166
+    }
+  ],
+  "vision_ocr_text": "与其原文细节的异同，即可发现［A］、［C］、［D］均在不同程度上偏离了原文含义，只有［B］符合原文信息。\n皿\n1圓 We are even farther removed from the\n我们与20世纪初至二战前夕英国的\nunfocused newspaper reviews published in England between\n杂感式报纸评论就更是无缘了，当时，新\nthe turn of the 20th century and the eve of World War II, at\n闻用纸价廉如土，风格独特的艺术评论被\na time when newsprint was dirt-cheap and stylish arts\n看作是对刊登它的出版物的一种装饰。\ncriticism was considered an ornament\" to the publications in\n在那个遥远的年代，各大报纸的评论家们\nwhich it appeared. ②In those far-off days, it was taken for\n会对所报道的事件撰写详尽入微的评论，\ngranted that the critics of major papers would write in detail\n这被视作理所当然。他们从事的是严肃\nand at length about the events they covered.\n③ Theirs was a\n的工作，人们信任，即便是那些以轻松活\nserious business, and even those reviewers who wore their\n泼的方式展现自己学问的评论家，如萧伯\nlearning\nlightly, like George\nBernard\nShaw\nand Ernest\n纳和欧内斯特•纽曼，也都清楚自己在做\nNewman, could be trusted to know what they were about\n什么。这些人相信新闻写作是他们的天\n④ These men believed in journalism as a calling\"\n，and were\n职，并为自己的文章能发表在日报上而感\nproud to be published in the daily press.\n⑤8 “So few\n到自豪。“能够拥有足够的智慧或文学天\nauthors have brains enough or literary gift enough to keep\n賦能尽职尽责做好新闻写作工作本分的\ntheir own end up in journalism， ”Newman wrote， “that I\n作家是如此之少”，纽曼写道，“以至于我\nam tempted to define ‘journalism’as ‘a term of contempt\n不禁想把‘新闻写作’定义成为“没读者的\napplied by writers who are not read to writers who are’.”\n作家对有读者作家的蔑称’”。\n•词汇注释与难句分析\n①ornament ［'o:nomont］n.装饰；摆设；点缀\n经典搭配\n②about ［o'baut］prep.从事于，忙于\n①be taken for granted（被视作理所当然）\n③calling ［'koil」n. 天职，使命感\n②in detail and at length（十分详尽）\n④casual ［'kee3oal」a. 马虎的，疏忽的，随便的（22题）\n③kcep/hold one's end up（在困难面前坚持下去，表现好）\n⑤layout ［'leraut］n. 布局，安排，设计（22题）\n④be tempted to（不禁）\n⑥elaborate ［i'leebort］a. 详尽而复杂的；精心制作的（22题）\na term of contempt（轻蔑的称呼）\n1. We are even farther removed from the unfocused newspaper reviews published in England between the\nturn of the 20th century and the eve of World War Il, at a time when newsprint was dirt-cheap and stylish\narts criticism was considered an ornament to the publications in which it appeared.\n句子主干；\nWe are even farther removed from the unfocused newspaper reviews\n主语 系动词\n表语\nremoved的状语\n后置定语\npublished in England between the turn of the 20th century and the eve of World War II，\nwhen newsprint was dirt-cheap\nand\nstylish arts criticism was considered\n同位语\n关系副词\n主语1\n谓语1\n并列连词\n主语2\n谓语2\n定语从句\nat a time\nan ornament to the publications in which it appeared.\n主语2的补语\n功能注释：旬中介词短语 at a time.•是主句时间状语的同位语，进一步解释说明它是怎样一个时\n期。该同位语结构比较复杂，介词短语中嵌套了两个定语从句。\n2. Theirs was a serious business, and even those reviewers who wore their learning lightly, like George\nBernard Shaw and Ernest Newman, could be trusted to know what they were about.\n10",
+  "pdf_text_layer": "与其原文细节的异 同，即可 发现［ A］ 、 ［ CJ 、 ［ DJ 均在不同程度上偏离了原文含义，只有［ BJ 相 合原文信 息 。\n\n        且 ＠ 囚因 W e a re eve n farth e r rem oved fr o m the                              我们与 20 世纪初至二战前夕英国的\nunfocus ed n巳w s pap e r reviews publ is hed in Eng la nd betv1 ee n               杂感式报纸评论就更是无缘了，当时，新\nth 巳 turn o f th e 20 th ce ntur y and th e eve of W orld War Tl ， ι               闯用纸价廉如土，风格独特的艺术许论被\na t im e w he n n ew s pr int was dirt- cheap a nd s t ylis h a rts                看作是对刊登它的出版物的一种装饰 。\nc riti c i 日m was co ns ide red an ornament( to th e p ubli cat ion s l 川          在那个遥远的年代，各大报纸的评论家们\nw hi c h it ap peared. @In th ose far off days , it was ta ke n for                会对所报道的事件撰写详尽入微的评论，\ng ra n ted t ha t th e criti cs o f majo r pa per s wo ul d w rit e n d eta il     这被视作理所当然 。 他们从事的是严肃\na nd a t le ng th a bo ut th e e ve n ts th ey covered. @Th 巳 ir s was a           的工作 ， 人们信任，即使是那些以轻松活\n叩 门 o u s bu s iness, a nd eve n th ose review e r s w ho wor e th eir             泼的方式展现自己学问的评论家，如萧伯\nl巳a rn i n g li g htly ,   li ke Geo rge Bernard S haw a nd E rn es t              纳和欧内斯特·纽曼，也都清楚自己在做\nN e w m a n, could b巳 tru s t e d to know what t hey we r e about®.                什么 。 这些人相信新闻写作是他们的夭\n。 Th es e men be li eved in journa li s m as 日 calling'\" , an d wer巳               职，并为自己的文章能发表在日报上而感\nproud to be p 由 li s h e d in th e dail y press.             0 曰 ：旦旦~I             到自 豪 。 “ 能够拥有足够的智慧或丈学夭\na uth o1「S have bra in s e nou g h o r li t 巳rary g ift e no ug h to k e叩          赋能尽耳气尽贵做好新闯写作工作本分的\nth 巳 ir ow n 巳 nd    up in jour\na m te mpted to define ‘ jo ur a li川n ' as 'a t e rm of co nt empt                 不禁想把‘新闻写作 P 定义成为‘没读者的\na pp lied by write r s who a r℃ not rea d to wr i t巳rs who a r e ’ ·”              作 家 对有读者作家的蔑称，，， 。\n\n\n\n                                                 I：~：：~ft.注：释与难句：分析＜ fl\n① on山nent [ ';:,:na mant ］ 凡装创Ii ；摆设，点缀                             Ii · 经典搭配\n( about [ a' baut ］ 户’ψ．从 事于， 忙于                                    > ( be ta ken fo r gra nt ed （被 视作理所 当然）\n( calling [ 1k::>: l11J］ 凡 天 帜 ， 侦命感                                ; (,     n detail a nd a t l e n g th （ －！－ 分详尽）\n( casual [ 1Jrn~3ua1 ］ α ．马虎的，疏忽 的，随 便的（ 22 题）                      l\\    G:l kcep/ holcl one’s end L\n( layout [ 1le,aut] n . 布局，安 宁｜卡， 设计（ 22 题）                         >     ( be tempted t o （不祭）\n® el阳百te ［， ＇阳吭］ α 详尽而复杂｛巾和心iM作的也题）                                 { ( a term of co nt叫 （轻蔑 的称呼 ）\n       l. We are even farther removed from the unfocused newspaper reviews published in England between the\nturn of the 20th century and the eve of World Wa r II , at a time when newsprint was dirt-cheap and stylish\narts criticism was considered an ornament to the publications in which it appeared.\n       句子主干， l w巳            are     even farther removed from th巳 u nfocused newspaper rev iews\n                     主语系动词                    表语                         removed的状语               .\n                                                                                   后置定语\n                                   published in England between the tum of the 20th century and the eve of World War II,\n\n           wh巳n     newsprint was dirt-cheap       and    stylish arts criticism was considered\n       关系副词主语 l                       谓语 l      并列连词              主谓2                谓语2\n           an ornament to the publications in which it appe创ed .\n                                    主滔2 的补诏\n\n       功能注释：句中介词 短 语 a t a tim e . .. 是主句 时间状识的同位话，进 一 步解释 说明它 是怎 样 一 个时\n期 。 该同位情结构 比 较复杂，介词短语中嵌 套了 两个定语从句 。\n       2. Theirs was a serious business, and even those reviewers who wore their learning lightly , like George\nBernard Shaw and Ernest Newman, could be trusted to know what they were about.\n\n\n\n  10",
+  "quality": {
+    "vision_line_count": 85,
+    "vision_character_count": 2611,
+    "pdf_text_character_count": 3735,
+    "nonempty": true
+  }
+}

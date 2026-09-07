@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P011",
+  "year": 2018,
+  "pdf_page": 11,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "（appeal to 意为“对⋯有吸引力”）表面展现机器人的“傲娇”——低薪工作对其不具吸引力，实际指“基于",
+      "width": 0.8800856199301065,
+      "x": 0.029978611528522554,
+      "y": 0.9200260076313267
+    },
+    {
+      "confidence": 1,
+      "height": 0.01626243702921981,
+      "text": "成本收益比等考虑，雇主们对使用机器人替代某些低薪工作不感兴趣”。",
+      "width": 0.605995733619193,
+      "x": 0.03211991053821622,
+      "y": 0.9011627906567189
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01760251934413637,
+      "text": "④句转而指出中产工作（middle-class occupations）已经引起、且将继续引起机器人兴趣（受威胁极",
+      "width": 0.8394004266380808,
+      "x": 0.07280514235547779,
+      "y": 0.8822674419020079
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "大）。have aroused their interest、or soon will 侧面说明技术的“进步”——机器人开始能以比人类更高效",
+      "width": 0.8779443031983356,
+      "x": 0.03211993280482912,
+      "y": 0.8660598179505722
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903906,
+      "text": "的方式完成更为有利可图的中产工作，直指中产阶级面临境况——极有可能很快会大范围被机器人取",
+      "width": 0.8800856199301066,
+      "x": 0.029978609597503973,
+      "y": 0.8472041613250871
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "代（回应②句 disproportionately squeezed）。",
+      "width": 0.3618843692472611,
+      "x": 0.029978589873157373,
+      "y": 0.8283485046234671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017608189303791266,
+      "text": "⑤句补充说明富人（the rich）拥有机器人，他们将会很好（不受威胁，甚至从中获益）。own 一词带有",
+      "width": 0.8394004266380807,
+      "x": 0.07066381612421437,
+      "y": 0.8081395349252637
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "强烈的“控制，支配”意味，暗含和前文的对比：富人不是机器人的“取代对象”，而是机器人的“拥有者/控",
+      "width": 0.8800856199301066,
+      "x": 0.02997861064522499,
+      "y": 0.791937581577782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "制者”。they will be fine 为低调陈述，以“舒适的，安全的”传递“极好的，美妙的——不仅不受威胁，反而",
+      "width": 0.8800856199301066,
+      "x": 0.029978609597503973,
+      "y": 0.7717815342117269
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "从中受益”之意。",
+      "width": 0.14132762046609343,
+      "x": 0.029978589820486422,
+      "y": 0.7542262676063778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "【深层解读】本段为“逐层深入”论证结构：①句明确作者观点——②句援引研究证明①句—③④",
+      "width": 0.8436830601016224,
+      "x": 0.06638116630893187,
+      "y": 0.735370611412362
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "⑤句分类比较论证②句。作者暗中反驳长期以来的普遍认识“只有重复性的低端工作会被机器人所取",
+      "width": 0.8800856199301066,
+      "x": 0.029978612112034352,
+      "y": 0.7165149547320644
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "代”，力证“随着科技的进步，如今中产阶级受到自动化的威胁最大”。同时，作者传递正反两面观点：必",
+      "width": 0.8800856199301066,
+      "x": 0.02997861064522499,
+      "y": 0.6976592974847746
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "须认识到威胁的存在；但也无需如临大敌。",
+      "width": 0.36188436924726114,
+      "x": 0.027837254107632922,
+      "y": 0.6801040311366884
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.022199600973736855,
+      "text": "•真题精解 •次",
+      "width": 0.16071560739100677,
+      "x": 0.39608759111224145,
+      "y": 0.6538711296575916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011943553607082547,
+      "text": "21. Who will be most threatened by automation？",
+      "width": 0.4025695917706837,
+      "x": 0.03854389119531505,
+      "y": 0.6261378415687108
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "21.谁会受到自动化的最大威胁？",
+      "width": 0.2890792203588961,
+      "x": 0.5567451835304021,
+      "y": 0.6235370614231925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "［AJ Leading politicians.",
+      "width": 0.20342611261711266,
+      "x": 0.03854390351478412,
+      "y": 0.601430429091256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014983742072771422,
+      "text": "［A］ 政治领袖",
+      "width": 0.12216994771555467,
+      "x": 0.5566880463360893,
+      "y": 0.6029732456946801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011748873210852384,
+      "text": "［B］ Low-wage laborers.",
+      "width": 0.20128479588534182,
+      "x": 0.04068522719651534,
+      "y": 0.5812743824591269
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "［B］低薪劳动者",
+      "width": 0.1391862891186243,
+      "x": 0.556745184210954,
+      "y": 0.5799418605983648
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011900081436097665,
+      "text": "LC］ Robot owners.",
+      "width": 0.15845824201445013,
+      "x": 0.04068522786857789,
+      "y": 0.5578673602876607
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "［C］ 机器人拥有者",
+      "width": 0.16059957336191932,
+      "x": 0.5567451825374558,
+      "y": 0.5565669702069628
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011930323081146832,
+      "text": "［D］ Middle-class workers.",
+      "width": 0.22483939686040766,
+      "x": 0.03854390181069544,
+      "y": 0.5348837211032765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "［D］中产阶级工人",
+      "width": 0.16059957336191932,
+      "x": 0.5567451823462659,
+      "y": 0.533159948017847
+    },
+    {
+      "confidence": 1,
+      "height": 0.01625676644949048,
+      "text": "［精准定位］第二段②句指出，美国的工作中约一半处于被自动化的高风险，中产阶级尤其不堪负",
+      "width": 0.8394004266380807,
+      "x": 0.0685224787580475,
+      "y": 0.5084525358755182
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "担。④句进一步指出，许多中产职业已经引起、或很快会引起机器人的兴趣。可见，受自动化威胁最大",
+      "width": 0.8822269366618773,
+      "x": 0.027837286540581565,
+      "y": 0.4882964886421387
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "的是中产阶级工人，［D］正确。",
+      "width": 0.25267666053041193,
+      "x": 0.029978588706956757,
+      "y": 0.4707412225096532
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629078868771716,
+      "text": "［命题解密］正确项［D］ Middle-class workers 是对原文 the middle class,middle-class occupations 的",
+      "width": 0.8415417433698515,
+      "x": 0.06852249545907839,
+      "y": 0.4531859556521898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014538663881497826,
+      "text": "同义替换，是文中以 disproportionately squeezed...have aroused their interest, or soon will 指向的“受自",
+      "width": 0.875802986466565,
+      "x": 0.032119908301336056,
+      "y": 0.43604651160196384
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "动化威胁最大的群体”",
+      "width": 0.1905781537636943,
+      "x": 0.029978590719865878,
+      "y": 0.41715116287847975
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "［A］利用第一段the next presidential campaign 暗示群体“政治领袖”设置干扰，但这并非“自动化威",
+      "width": 0.8436830601016224,
+      "x": 0.06638115958516326,
+      "y": 0.39825581380871233
+    },
+    {
+      "confidence": 1,
+      "height": 0.017738606436819904,
+      "text": "胁对象”，而是“应该关注自动化威胁的主体”。［B］对第二段③句反向干扰：将“低薪工作不能吸引机器",
+      "width": 0.8800856199301066,
+      "x": 0.02783726468698125,
+      "y": 0.379063718812335
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017698914238938435,
+      "text": "人/受到自动化威胁较低（don't appeal to robots）”改为与之相悖的“受最大威胁”。［C］对第二段⑤句反",
+      "width": 0.8800856199301066,
+      "x": 0.027837266887195233,
+      "y": 0.360208062187542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "向干扰：将“富人/机器人拥有者将会很好/不受威胁（will be fine）”改与之完全相反的“受最大威胁”。",
+      "width": 0.8736616697347941,
+      "x": 0.025695920807121398,
+      "y": 0.34302325557833435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598424,
+      "text": "［技巧总结］本题设问 Who will be most threatened by automation？表明：这是典型的就“文中分类",
+      "width": 0.8415417433698515,
+      "x": 0.06852249433220482,
+      "y": 0.32412790706189154
+    },
+    {
+      "confidence": 1,
+      "height": 0.016279448148333042,
+      "text": "比较信息”设置的事实判断题。解题关键在于对所涉群体情形进行分类排序。具体来看，对第三段②③",
+      "width": 0.8800856199301066,
+      "x": 0.02997861064522499,
+      "y": 0.3049414822411136
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "④⑤句所述群体情形排序可得：富人很安全（The rich/robots owners... will be fine）一低薪者受威胁但",
+      "width": 0.8800856199301066,
+      "x": 0.027837282176274156,
+      "y": 0.2877906977622008
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013102186671779092,
+      "text": "较低（Lower-income jobs...don't appeal to robots ）一中产阶级受威胁最大（middle class/middle-class",
+      "width": 0.8822269366618775,
+      "x": 0.029978617579125427,
+      "y": 0.2717815344174208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "occupations...disproportionately squeezed /have aroused their interest, or soon will），可排除［B］、［C］，初",
+      "width": 0.8800856199301066,
+      "x": 0.029978615980699324,
+      "y": 0.252906977202739
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "步确定选［D］。最后排除出现在第一段，与受威胁群体无关的［A］，最终确定选［D］。",
+      "width": 0.7109207796411039,
+      "x": 0.027837260643402324,
+      "y": 0.23255813947489434
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "\" ① This isn't to be alarmist”. ② Optimists point out",
+      "width": 0.44539613102587705,
+      "x": 0.07280514690676167,
+      "y": 0.20203488411892134
+    },
+    {
+      "confidence": 1,
+      "height": 0.014595366578418312,
+      "text": "这并非是要危言耸听。乐观主义者指",
+      "width": 0.3254817801873803,
+      "x": 0.5781584634395005,
+      "y": 0.1947674420040958
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013219372658797801,
+      "text": "that technological upheaval® has benefited workers in the past.",
+      "width": 0.48608135354929966,
+      "x": 0.029978594237127506,
+      "y": 0.18313953493187574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "出，技术巨变过去已经使工人获益。工业",
+      "width": 0.36402568597903195,
+      "x": 0.5396145686042436,
+      "y": 0.17425227559271728
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "③ The Industrial Revolution didn't go so well for Luddites®",
+      "width": 0.4839400368175288,
+      "x": 0.03211992340065733,
+      "y": 0.16254876487568004
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903684,
+      "text": "革命对那些工作被机械化织机取代的卢德",
+      "width": 0.36402568597903195,
+      "x": 0.5396145629705126,
+      "y": 0.15539661879765876
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014584026039034192,
+      "text": "whose jobs were displaced by mechanized® looms®，but it",
+      "width": 0.4882226995124671,
+      "x": 0.029978579901154163,
+      "y": 0.1423927178216957
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "分子不太友好，但最终提升了生活水平，且",
+      "width": 0.36402568597903195,
+      "x": 0.5396145629705126,
+      "y": 0.13517441874828184
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013147548829315459,
+      "text": "eventually raised living standards and created more jobs than it",
+      "width": 0.4860813535492996,
+      "x": 0.029978589570817983,
+      "y": 0.12209302354250229
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "创建出比其曾毀掉的更多的工作。同样，",
+      "width": 0.3490363811624462,
+      "x": 0.5396145752217747,
+      "y": 0.11313394042754399
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01188685091016195,
+      "text": "destroyed. ④ Likewise, automation should eventually boost",
+      "width": 0.48822269951246705,
+      "x": 0.029978590886164676,
+      "y": 0.10319767464978813
+    },
+    {
+      "confidence": 1,
+      "height": 0.011824477633512243,
+      "text": "11",
+      "width": 0.021413275108483565,
+      "x": 0.8715203431738097,
+      "y": 0.06957087114693217
+    }
+  ],
+  "vision_ocr_text": "（appeal to 意为“对⋯有吸引力”）表面展现机器人的“傲娇”——低薪工作对其不具吸引力，实际指“基于\n成本收益比等考虑，雇主们对使用机器人替代某些低薪工作不感兴趣”。\n④句转而指出中产工作（middle-class occupations）已经引起、且将继续引起机器人兴趣（受威胁极\n大）。have aroused their interest、or soon will 侧面说明技术的“进步”——机器人开始能以比人类更高效\n的方式完成更为有利可图的中产工作，直指中产阶级面临境况——极有可能很快会大范围被机器人取\n代（回应②句 disproportionately squeezed）。\n⑤句补充说明富人（the rich）拥有机器人，他们将会很好（不受威胁，甚至从中获益）。own 一词带有\n强烈的“控制，支配”意味，暗含和前文的对比：富人不是机器人的“取代对象”，而是机器人的“拥有者/控\n制者”。they will be fine 为低调陈述，以“舒适的，安全的”传递“极好的，美妙的——不仅不受威胁，反而\n从中受益”之意。\n【深层解读】本段为“逐层深入”论证结构：①句明确作者观点——②句援引研究证明①句—③④\n⑤句分类比较论证②句。作者暗中反驳长期以来的普遍认识“只有重复性的低端工作会被机器人所取\n代”，力证“随着科技的进步，如今中产阶级受到自动化的威胁最大”。同时，作者传递正反两面观点：必\n须认识到威胁的存在；但也无需如临大敌。\n•真题精解 •次\n21. Who will be most threatened by automation？\n21.谁会受到自动化的最大威胁？\n［AJ Leading politicians.\n［A］ 政治领袖\n［B］ Low-wage laborers.\n［B］低薪劳动者\nLC］ Robot owners.\n［C］ 机器人拥有者\n［D］ Middle-class workers.\n［D］中产阶级工人\n［精准定位］第二段②句指出，美国的工作中约一半处于被自动化的高风险，中产阶级尤其不堪负\n担。④句进一步指出，许多中产职业已经引起、或很快会引起机器人的兴趣。可见，受自动化威胁最大\n的是中产阶级工人，［D］正确。\n［命题解密］正确项［D］ Middle-class workers 是对原文 the middle class,middle-class occupations 的\n同义替换，是文中以 disproportionately squeezed...have aroused their interest, or soon will 指向的“受自\n动化威胁最大的群体”\n［A］利用第一段the next presidential campaign 暗示群体“政治领袖”设置干扰，但这并非“自动化威\n胁对象”，而是“应该关注自动化威胁的主体”。［B］对第二段③句反向干扰：将“低薪工作不能吸引机器\n人/受到自动化威胁较低（don't appeal to robots）”改为与之相悖的“受最大威胁”。［C］对第二段⑤句反\n向干扰：将“富人/机器人拥有者将会很好/不受威胁（will be fine）”改与之完全相反的“受最大威胁”。\n［技巧总结］本题设问 Who will be most threatened by automation？表明：这是典型的就“文中分类\n比较信息”设置的事实判断题。解题关键在于对所涉群体情形进行分类排序。具体来看，对第三段②③\n④⑤句所述群体情形排序可得：富人很安全（The rich/robots owners... will be fine）一低薪者受威胁但\n较低（Lower-income jobs...don't appeal to robots ）一中产阶级受威胁最大（middle class/middle-class\noccupations...disproportionately squeezed /have aroused their interest, or soon will），可排除［B］、［C］，初\n步确定选［D］。最后排除出现在第一段，与受威胁群体无关的［A］，最终确定选［D］。\n\" ① This isn't to be alarmist”. ② Optimists point out\n这并非是要危言耸听。乐观主义者指\nthat technological upheaval® has benefited workers in the past.\n出，技术巨变过去已经使工人获益。工业\n③ The Industrial Revolution didn't go so well for Luddites®\n革命对那些工作被机械化织机取代的卢德\nwhose jobs were displaced by mechanized® looms®，but it\n分子不太友好，但最终提升了生活水平，且\neventually raised living standards and created more jobs than it\n创建出比其曾毀掉的更多的工作。同样，\ndestroyed. ④ Likewise, automation should eventually boost\n11",
+  "pdf_text_layer": "(appeal to 意为“对…有吸引力”） 表 面展现机 器 人的“傲娇”一一低薪 工 作对 其 不 具 l吸引力， 实 际指“基于\n成本收益比 等考 虑， 雇主 们对使用机器人 替 代 某 些低薪工作不感 兴 趣” 。\n     ④ 旬转 而 指出中产工作 （ middle-class occupations ）已经引起、且将继续引起机器人兴趣（受威胁极\n大）。 hav e arou sed their int er es t 、 or soo n will 侧面说明技术的“进步”               机器人 开 始能以比人 类 更 高 效\n的方式完成更为 有 利可图的中 产工 作， 直 指中 产 阶级面临境况 一一极有可能很快 会 大范围被机器人取\n代（回应 ② 句 dispropo rtiona t e l y sq u eezed ） 。\n     ⑤ 旬补充说明富人（ the rich ）拥有机器人，他们将会很好（不受威胁，甚至从中获益）。 ow n 一 词带有\n强烈的“控制 ，支配”意 味，暗 含 和1 前 文 的对比： 富 人不是机器人的“取代对象”，而 是 机器人的 “ 拥有者 ／ 控\n制者” 。 th ey will be fine 为低调陈述，以“ 舒 适的， 安全 的”传递“极好的， 美 妙的 一一 不仅不 受 威胁，反而\n从中受益”之 意 。\n     E 深层解读】本段为“逐层深入”论证结构 ： ① 句明确作 者 观点 一一② 句援引研究证明 ① 句 一一 ③④\n⑤ 句分类比较论证 ② 句 。 作者暗中反驳长期以来的普遍认识“只有 重复 性的低端 工 作 会 被机器人所取\n代”，力证“随 着 科技的进步 ， 如 今 中 产 阶 级受 到 自 动化的威胁 最 大” 。                             同时，作者传递正反两面观点： 必\n须认识到威胁的存在；但也无 需 如临大敌 。\n\n                                               ：：：~： 其题拮解0:: fl\n 21. Who will be most threatened by automation?                     21. 谁会受到自动化的最大威胁？\n\n [A] Leading politician s.                                          [ A］ 政治领袖\n\n [BJ Low- wage la borers.                                           [ BJ 低薪劳动 者\n\n [ C] Robot owners.                                                 [CJ 机器人拥有者\n\n [ DJ Middl e-cl as s workers.                                      [ DJ 中产阶级 工 人\n\n     ［ 精准定位］ 第 二 段 ② 句指出， 美国 的 工 作中约 一 半处于被自动化的 高 风险，中 产 阶级尤 其 不堪负\n担 。＠ 句进 一 步指出，许 多 中 产 职业 已经 引起、或很快会引起机器人的兴趣 。 可见， 受 自动化威胁 最 大\n的是中产阶级 工 人， ［ DJ 正确 。\n     ［命题解密］ 正确 项 ［ DJ Middl e- cl ass w ork er s 是 对原文 th e middl e cl ass 、 middl e- cl ass o ccup a ti o n s 的\n同义替换，是 文 中以 di s prop o rti o n a t e l y squ eezed ... have aroused their interes t, or soon wi ll 指向的“ 受自\n动化威胁最 大 的群体” 。\n     [ A］ 利用第 一 段 th e next presid entia l ca mpaign 暗示群体“政治领袖”设 置干 扰，但这 并 非 “ 自动化威\n胁对象”，而是“ 应该关注 自动化 威 胁的 主 体” 。 ［ BJ 对 第二 段 ③ 句反向干扰：将“低薪 工 作 不 能吸引机器\n人 ／受到自动化戚胁较低 （ d o n ’ t a ppea l to robo ts ）” 改为与之相悖的 “ 受最大威胁” 。 ［ CJ 对 第二 段 ⑤ 句反\n向干扰：将“ 富 人 ／机据人拥 有者 将 会 很好 ／不 受 威胁（ will be fine ）”改为与之 完全 相反的“ 受最大 威胁” 。\n     ［ 技巧总结］ 本题设问 Wh o wi ll be mos t thr ea tened by automat i on ？表明：这 是 典型的就“ 文 中分 类\n比较信息”设 置 的 事实 判断题 。 in阵题 关键 在 于 对所涉群体情形进行分类排序 。 具 体来 看 ，对第 三 段 ②③\n④⑤ 句所述群体情形排 序 可得： 富 人很 安全 （ The ri ch/ robots owner s ... will be f ine ）→低薪 者受 威胁但\n较低（ Low er income jobs ... do n ' t a ppeal    to robots ）→中产阶级 受 威胁 最 大（ middle cla ss/ midd le- class\noccupations . . . disproportionately squeezed / have aro used t heir interest, or soon wi ll) ，可排除 ［ 町、 ［ CJ ，初\n步确定选［ DJ 。最后 排除出现 在第一 段、 与受 威胁群体无关的［ A ］ ， 最 终确定选 ［ D]o\n\n        OThis isn ’ t to be alarmist'( . @ Optimi sts point out\n                                                                      这并非是妥危言耸听 。               乐观主义者指\nthat t巳chnologica l upheaval( has benefited workers in the past.\n                                                                   出，技术巨变过去已经使工人获益 。                      工业\n@ The Industrial Revolution didn 't go so well for Luddites®\n                                                                   革命对那些工作被机械化织机取代的卢德\nwhose jobs were displaced by mechanized® looms® , but it\n                                                                   分子不太友好，但最终提升了生活水平，且\neventually raised living standards and created more jobs than it\n                                                                                                       同样，\ndestroyed. 0 Likewise , automation should eventuall y boost\n\n                                                                                                           11",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 2211,
+    "pdf_text_character_count": 3488,
+    "nonempty": true
+  }
+}

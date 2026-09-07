@@ -1,0 +1,582 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P009",
+  "year": 2011,
+  "pdf_page": 9,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "@ One of the reasons why the appointment came",
+      "width": 0.3867521267776052,
+      "x": 0.11965811981098386,
+      "y": 0.9037711311807781
+    },
+    {
+      "confidence": 1,
+      "height": 0.014565124933369256,
+      "text": "但是，该任命让人感到如此意外的原因",
+      "width": 0.33974359049167957,
+      "x": 0.5683760655874937,
+      "y": 0.8953185956352094
+    },
+    {
+      "confidence": 1,
+      "height": 0.007390298210907975,
+      "text": "aS",
+      "width": 0.021367519809000805,
+      "x": 0.036324787460171946,
+      "y": 0.8866279071575711
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01188685091016195,
+      "text": "such a surprise, however, is that Gilbert is",
+      "width": 0.4358974186913689,
+      "x": 0.07051282185089701,
+      "y": 0.8849154744012901
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "之一是，吉尔伯特相对不为人知。甚至连曾",
+      "width": 0.38034185989409064,
+      "x": 0.5277777841982538,
+      "y": 0.8749999998842937
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014601037158147534,
+      "text": "comparatively\"little known. ② Even Tommasini , who had",
+      "width": 0.47008545038577026,
+      "x": 0.036324792969508156,
+      "y": 0.8647594279235126
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "在《纽约时报》上撰文大力支持任命吉尔伯特",
+      "width": 0.38034185989409053,
+      "x": 0.5277777924354332,
+      "y": 0.8589076722238106
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013107856011359664,
+      "text": "advocated Gilbert's appointment in the Times, calls him “an",
+      "width": 0.47222220601360837,
+      "x": 0.03632480229946337,
+      "y": 0.8459037714151302
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "的托马西尼也（只是）称其为“谦逊的音乐家，",
+      "width": 0.38247861552192874,
+      "x": 0.5277777894434514,
+      "y": 0.8386627906376851
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "unpretentious® musician with no air® of the formidable®",
+      "width": 0.46581196830559873,
+      "x": 0.03632478000318369,
+      "y": 0.8255813953834561
+    },
+    {
+      "confidence": 1,
+      "height": 0.014559454973714359,
+      "text": "在他身上没有那种令人生畏的大指挥家派",
+      "width": 0.38034185989409064,
+      "x": 0.527777784832157,
+      "y": 0.8211963586907945
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "conductor®about him.”",
+      "width": 0.19444444120272167,
+      "x": 0.036324787269009534,
+      "y": 0.806686046970181
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790663065616,
+      "text": "③",
+      "width": 0.017094015847200633,
+      "x": 0.24145299194819456,
+      "y": 0.806686046800951
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868706,
+      "text": "As a description of the next",
+      "width": 0.23931623644856137,
+      "x": 0.2670940178868304,
+      "y": 0.8049414825151168
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185994598424,
+      "text": "头”。对于一个迄今为止一直由像古斯塔夫",
+      "width": 0.38034185989409053,
+      "x": 0.5277777850102198,
+      "y": 0.7994186047363102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013249613683772532,
+      "text": "music director of an orchestra®",
+      "width": 0.2521367556278382,
+      "x": 0.03632478878152237,
+      "y": 0.7877906982518046
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013249614923921182,
+      "text": "that has hitherto” been led",
+      "width": 0.2200854649735226,
+      "x": 0.28632478612969176,
+      "y": 0.787790697468213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "•马勒和皮埃尔•布列兹这样的音乐家来指",
+      "width": 0.3782051334417573,
+      "x": 0.5299145304479247,
+      "y": 0.783430232847119
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011839598145999553,
+      "text": "by musicians like Gustav Mahler and Pierre Boulez, that",
+      "width": 0.47222220601360837,
+      "x": 0.03632480229946337,
+      "y": 0.7672301691712665
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "挥的交响乐团，这样描述其下任音乐总监，似",
+      "width": 0.38034185989409053,
+      "x": 0.5277777864525275,
+      "y": 0.7630813950768809
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053316018,
+      "text": "seems likely to have struck at least some Times readers as",
+      "width": 0.47008545038577015,
+      "x": 0.03632479264899529,
+      "y": 0.7470741221778442
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "乎至少可能会让一些《纽约时报》的读者觉得",
+      "width": 0.38034185989409064,
+      "x": 0.527777784832157,
+      "y": 0.7456395350273515
+    },
+    {
+      "confidence": 1,
+      "height": 0.01699549510048015,
+      "text": "faint praise.",
+      "width": 0.09835102088592705,
+      "x": 0.035402571334867336,
+      "y": 0.7249733384056959
+    },
+    {
+      "confidence": 1,
+      "height": 0.016311579779933694,
+      "text": "是一种牵强的赞美。",
+      "width": 0.17094017305975884,
+      "x": 0.5277777784273856,
+      "y": 0.7249674900741447
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "词汇注释与难句分析•",
+      "width": 0.20726496038199838,
+      "x": 0.3653846143602829,
+      "y": 0.6859557867805419
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013170229908083808,
+      "text": "①comparatively ［kom'paeratvl］ ad. 比较上，相对地",
+      "width": 0.3931623936611197,
+      "x": 0.03846154476488153,
+      "y": 0.6612483743110418
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013170230528158133,
+      "text": "⑥orchestra ［'o:kistro］n. 管弦乐队",
+      "width": 0.2628205045915243,
+      "x": 0.49786325460594727,
+      "y": 0.6612483743110418
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "②unpretentious ［ianpri'tenjos］ c. 不爱炫耀的",
+      "width": 0.3440170725718511,
+      "x": 0.03632479386898907,
+      "y": 0.6409883721276423
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "⑦hitherto ［ihoo'tu：］ ad.迄今",
+      "width": 0.22863247289712296,
+      "x": 0.4978632478730197,
+      "y": 0.6409883722729911
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014544333841152723,
+      "text": "③air ［co］n. 感觉；印象；神态",
+      "width": 0.23290598415279937,
+      "x": 0.03632478803043789,
+      "y": 0.6235370613785888
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014544333841152723,
+      "text": "• 经典搭配",
+      "width": 0.10470085071104207,
+      "x": 0.5021367528228978,
+      "y": 0.6235370612187051
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488328832031,
+      "text": "④formidable ［'fo:mdobal］a.可怕的；令人敬畏的",
+      "width": 0.3739316221860809,
+      "x": 0.036324789628113315,
+      "y": 0.6046511628253166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01175076319740409,
+      "text": "①with no air of（没有⋯⋯的架子）",
+      "width": 0.2628205045915243,
+      "x": 0.5021367540610755,
+      "y": 0.6059817946964123
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011864169831393823,
+      "text": "⑤conductor ［kon'dAkta」n. 指挥家",
+      "width": 0.26068374896368607,
+      "x": 0.03846154692841333,
+      "y": 0.5884265277571901
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011711071619596947,
+      "text": "②strike...as...（给某人以⋯⋯印象）",
+      "width": 0.28846154295007764,
+      "x": 0.5021367522963287,
+      "y": 0.5871261375823591
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011737532671468376,
+      "text": "As a description of the next music director of an orchestra that has hitherto been led by musicians like",
+      "width": 0.8397435613161747,
+      "x": 0.07692307714105849,
+      "y": 0.5552325582156796
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01323071319818192,
+      "text": "Gustav Mahler and Pierre Boulez, that seems likely to have struck at least some Times readers as faint praise.",
+      "width": 0.8782051042662524,
+      "x": 0.03632481293097587,
+      "y": 0.5348837214107194
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "As a description of the next music director of an orchestra",
+      "width": 0.38034185989409053,
+      "x": 0.1474359139988234,
+      "y": 0.5143042914615757
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010405011232869743,
+      "text": "like Gustav Mahler and Picrre Boulez，",
+      "width": 0.2521367556278381,
+      "x": 0.5534188041946279,
+      "y": 0.5143042909849029
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014947531592241381,
+      "text": "T定语从句",
+      "width": 0.08348692534758523,
+      "x": 0.48069243398949885,
+      "y": 0.49688669950567865
+    },
+    {
+      "confidence": 1,
+      "height": 0.013227498112791336,
+      "text": "后置定语",
+      "width": 0.07057114085093508,
+      "x": 0.7072357962149008,
+      "y": 0.4970199720912044
+    },
+    {
+      "confidence": 1,
+      "height": 0.013187293113440579,
+      "text": "方式状语",
+      "width": 0.06628438391603428,
+      "x": 0.23715695381451599,
+      "y": 0.4766912372361275
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007802340702210642,
+      "text": "that",
+      "width": 0.029914529556070157,
+      "x": 0.4444444441250988,
+      "y": 0.4837451234067054
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01040312093628093,
+      "text": "has hitherto been led by musicians",
+      "width": 0.23504272519288505,
+      "x": 0.5106837695260644,
+      "y": 0.48244473343501915
+    },
+    {
+      "confidence": 1,
+      "height": 0.013308207607393263,
+      "text": "关系代词作主语",
+      "width": 0.11538461426248059,
+      "x": 0.3995726489798709,
+      "y": 0.46488946685389965
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790663065616,
+      "text": "谓语",
+      "width": 0.03632478367530134,
+      "x": 0.5662393171634178,
+      "y": 0.4665697677602533
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790663065616,
+      "text": "动作的执行者",
+      "width": 0.10042734674924192,
+      "x": 0.6538461566894817,
+      "y": 0.46656976767304403
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014721498377766484,
+      "text": "句子主干：",
+      "width": 0.0748643018091614,
+      "x": 0.13884989967156292,
+      "y": 0.44031366955935547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418301824195,
+      "text": "that seems likely to have struck at least some Times readers as faint praise.",
+      "width": 0.4829059841527993,
+      "x": 0.2414529968659079,
+      "y": 0.4433139536942914
+    },
+    {
+      "confidence": 1,
+      "height": 0.011775334882798139,
+      "text": "主语",
+      "width": 0.034188031694401266,
+      "x": 0.23717948799895322,
+      "y": 0.42717815324357644
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "复合谓语（strike sb as sth意为“给某人以某种印象”）",
+      "width": 0.36965811093040446,
+      "x": 0.3226495772538148,
+      "y": 0.42587209305787477
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016287008094539535,
+      "text": "功能注释：本句主干为that seems likely to have struck...as faint praise，主语 that 承上指代。As引",
+      "width": 0.8397435613161748,
+      "x": 0.07478633200216912,
+      "y": 0.4037711314518838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "导的状语中，a description of...与主语 that 同指，且其中嵌套一个 that定语从句修饰 an orchestra，说明",
+      "width": 0.8760683486384142,
+      "x": 0.03632479127908373,
+      "y": 0.38491547480044364
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "由有影响力的大音乐家挂帅是纽约爱乐乐团一直以来的惯例。",
+      "width": 0.5277777648108868,
+      "x": 0.03632479720637999,
+      "y": 0.3647594280856066
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02180232431240603,
+      "text": "•语篇分析•认",
+      "width": 0.15598289825264405,
+      "x": 0.3995726540147036,
+      "y": 0.3372093031780994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017645990895046815,
+      "text": "第二段介绍古典音乐界高度赞赏的主旋律之外“存有的疑虑”（Gilbert 不够知名）。关键词为：",
+      "width": 0.8418803169440129,
+      "x": 0.07692309781004467,
+      "y": 0.3139534886607287
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011703511053316018,
+      "text": "comparatively little known。",
+      "width": 0.22649571726928475,
+      "x": 0.03846154590595584,
+      "y": 0.29648894641751544
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "①句提出段落主旨：古典音乐界对任命感到意外的原因是 Gilbert 不够知名。转折词 however 将话",
+      "width": 0.8376068056883366,
+      "x": 0.07692309986238434,
+      "y": 0.2761627910108786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016275667555155526,
+      "text": "题由上段古典音乐界的“强烈赞赏”转至本段“质疑之音”。such a surprise 提取上段 sudden、has been the",
+      "width": 0.8803418598940906,
+      "x": 0.03632480388486338,
+      "y": 0.2555266581589035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "talk 及 For the most part 等暗含信息：这一任命不同寻常、令人意外，古典音乐界高度赞赏中夹杂些许疑",
+      "width": 0.8782051042662523,
+      "x": 0.03632479960298483,
+      "y": 0.23537061141236204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018991562727988853,
+      "text": "虑。原因句式 One of the reasons why...is that... 直接指向其疑虑：Gilbert 相对不为人知。句中",
+      "width": 0.8762525627763503,
+      "x": 0.03624847544554513,
+      "y": 0.21514609243439475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "comparatively 语义内涵为：Gilbert并非真的毫无名气，只是相对“纽约爱乐乐团（注：历史最悠久的乐团",
+      "width": 0.8782051042662524,
+      "x": 0.036324800885036077,
+      "y": 0.19765929794967874
+    },
+    {
+      "confidence": 1,
+      "height": 0.017732935857090792,
+      "text": "之一，位列美国五大交响乐团）音乐总监”之位不够出名。",
+      "width": 0.478632472897123,
+      "x": 0.036324793423233304,
+      "y": 0.17732558182933345
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "②③句例证古典音乐界这一疑虑。As a. .，that seems likcly to...表明两句间“述一评”逻辑。",
+      "width": 0.8034187739939351,
+      "x": 0.0769230849403544,
+      "y": 0.15988372079756896
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "②句再次引述 Tommasini 话语，侧重说明 Gilbert的不够出名。递进强调词 Even 凸显本句和①句间",
+      "width": 0.8376068056883366,
+      "x": 0.07692310125839567,
+      "y": 0.14098837209359594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "“提出观点一给出典型例证”的逻辑，并在句内设置矛盾、以凸显 Gilbert的“不知名”：who 引导的从句回",
+      "width": 0.8803418598940905,
+      "x": 0.03418803560851043,
+      "y": 0.12209302316917747
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "应上段末句，强调 Tommasini 专门报上撰文对任命表示强烈支持；主句则引原话指出 Tommasini 对",
+      "width": 0.8782051042662523,
+      "x": 0.03632480707627535,
+      "y": 0.10319767472211894
+    },
+    {
+      "confidence": 1,
+      "height": 0.01626243702921981,
+      "text": "Gilbert的评价相当低调—谦逊的、没有令人生畏神态的指挥家派头的音乐家。整句深层内涵：就连如",
+      "width": 0.8782051042662524,
+      "x": 0.03632480561260013,
+      "y": 0.08257477245421907
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "此支持任命的音乐评论家也只能说到这个份上，Gilbert 的不出名可想而知。",
+      "width": 0.6410256380332816,
+      "x": 0.03632479316284632,
+      "y": 0.0637191160185111
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "9",
+      "width": 0.01282051279713492,
+      "x": 0.8867521366569882,
+      "y": 0.04796511659746261
+    }
+  ],
+  "vision_ocr_text": "@ One of the reasons why the appointment came\n但是，该任命让人感到如此意外的原因\naS\nsuch a surprise, however, is that Gilbert is\n之一是，吉尔伯特相对不为人知。甚至连曾\ncomparatively\"little known. ② Even Tommasini , who had\n在《纽约时报》上撰文大力支持任命吉尔伯特\nadvocated Gilbert's appointment in the Times, calls him “an\n的托马西尼也（只是）称其为“谦逊的音乐家，\nunpretentious® musician with no air® of the formidable®\n在他身上没有那种令人生畏的大指挥家派\nconductor®about him.”\n③\nAs a description of the next\n头”。对于一个迄今为止一直由像古斯塔夫\nmusic director of an orchestra®\nthat has hitherto” been led\n•马勒和皮埃尔•布列兹这样的音乐家来指\nby musicians like Gustav Mahler and Pierre Boulez, that\n挥的交响乐团，这样描述其下任音乐总监，似\nseems likely to have struck at least some Times readers as\n乎至少可能会让一些《纽约时报》的读者觉得\nfaint praise.\n是一种牵强的赞美。\n词汇注释与难句分析•\n①comparatively ［kom'paeratvl］ ad. 比较上，相对地\n⑥orchestra ［'o:kistro］n. 管弦乐队\n②unpretentious ［ianpri'tenjos］ c. 不爱炫耀的\n⑦hitherto ［ihoo'tu：］ ad.迄今\n③air ［co］n. 感觉；印象；神态\n• 经典搭配\n④formidable ［'fo:mdobal］a.可怕的；令人敬畏的\n①with no air of（没有⋯⋯的架子）\n⑤conductor ［kon'dAkta」n. 指挥家\n②strike...as...（给某人以⋯⋯印象）\nAs a description of the next music director of an orchestra that has hitherto been led by musicians like\nGustav Mahler and Pierre Boulez, that seems likely to have struck at least some Times readers as faint praise.\nAs a description of the next music director of an orchestra\nlike Gustav Mahler and Picrre Boulez，\nT定语从句\n后置定语\n方式状语\nthat\nhas hitherto been led by musicians\n关系代词作主语\n谓语\n动作的执行者\n句子主干：\nthat seems likely to have struck at least some Times readers as faint praise.\n主语\n复合谓语（strike sb as sth意为“给某人以某种印象”）\n功能注释：本句主干为that seems likely to have struck...as faint praise，主语 that 承上指代。As引\n导的状语中，a description of...与主语 that 同指，且其中嵌套一个 that定语从句修饰 an orchestra，说明\n由有影响力的大音乐家挂帅是纽约爱乐乐团一直以来的惯例。\n•语篇分析•认\n第二段介绍古典音乐界高度赞赏的主旋律之外“存有的疑虑”（Gilbert 不够知名）。关键词为：\ncomparatively little known。\n①句提出段落主旨：古典音乐界对任命感到意外的原因是 Gilbert 不够知名。转折词 however 将话\n题由上段古典音乐界的“强烈赞赏”转至本段“质疑之音”。such a surprise 提取上段 sudden、has been the\ntalk 及 For the most part 等暗含信息：这一任命不同寻常、令人意外，古典音乐界高度赞赏中夹杂些许疑\n虑。原因句式 One of the reasons why...is that... 直接指向其疑虑：Gilbert 相对不为人知。句中\ncomparatively 语义内涵为：Gilbert并非真的毫无名气，只是相对“纽约爱乐乐团（注：历史最悠久的乐团\n之一，位列美国五大交响乐团）音乐总监”之位不够出名。\n②③句例证古典音乐界这一疑虑。As a. .，that seems likcly to...表明两句间“述一评”逻辑。\n②句再次引述 Tommasini 话语，侧重说明 Gilbert的不够出名。递进强调词 Even 凸显本句和①句间\n“提出观点一给出典型例证”的逻辑，并在句内设置矛盾、以凸显 Gilbert的“不知名”：who 引导的从句回\n应上段末句，强调 Tommasini 专门报上撰文对任命表示强烈支持；主句则引原话指出 Tommasini 对\nGilbert的评价相当低调—谦逊的、没有令人生畏神态的指挥家派头的音乐家。整句深层内涵：就连如\n此支持任命的音乐评论家也只能说到这个份上，Gilbert 的不出名可想而知。\n9",
+  "pdf_text_layer": "n~ o 囱 One of the reasons why the appomtment came\n                                                                                                         但是，该任命让人感到如此意外的原因\nas   such    a    surprise,     however,       is    that          Gilbert            is\n                                                                                                 之一是，吉尔伯特相对不为人知 。 甚至连曾\ncomparatively( little known. @Even Tommasini, who had\n                                                                                                 在 《 纽约时报 》 上撰文大力支持任命吉尔伯特\nadvocated Gilbert ’ s appointment in th e Times, ca ll s him “ an                                的托马西尼也 （ 只是 ） 称其为 “ 谦逊的音乐家，\nunpretenti川s0 musician wit h no air<:il of the formidable(D                                      在他身 上 没有那种令人生畏的大指挥家派\nconductorc\" about him. ”@ As a desc ription of th e next                                         头” 。 对于一个迄今为止一直由像古斯塔夫\nmusic dirEctor of an orchestra® that has hitherto(                     been led                   ． 马勒和皮埃尔·布列兹这样的音乐家来指\nby musicians like Gusta v Mahl 巳r and Pi erre Boulez, that                                       挥的交响乐园，这样描述其下任音乐总监，似\nseems likely to have struck at least some Tim es readers as                                      乎至少可能会让 一 些 《 纽约时报 》 的读者觉得\nfa int praise.                                                                                   是 一 种牵强的 赞 美 。\n\n\n                                                                       释 …                     分 …\n                                                                                                             J\n                                                                                  难 …\n                                                      词\n                                                      …\n                                                                   注\n                                                                   φ\n                                                                             与\n                                                                             －\n                                                                                        旬            析\n                                                                                                     …\n                                                            「」 …\n                                                                                           －\n\n\n\n\n                                                      －                e     －                 －     ．\n\n\n\n\n( comparatively [ kam ’ pa'!rat 1v1I ］叫 ．比 较上，相对地                                11     ( or<: hestra [ 1;):k1 剖 ra］ 儿笆二弦乐队\n② u叩retentious [ 1Anpr1 'tenJ a旧］ α ．不爱炫耀 的                                      ！ ⑦ hi阳0 [ , t】l凸a'tt\n( air [ea］ η ．感觉；印 象； 衬l 态                                                       < ．经典搭配\n( formidable [ 'fo:m1daba l ］ α 可怕的；令人敬畏的                                        :(             with no a ir 叫有           的架子）\n( conductor [ kan1dAkta] 11. 指挥家                                                 f 今trik e.                 as.   （给某人以 ·      ·印象）\n\n\n      As a description of the next music director of an orchestra that has hitherto been led by musicians like\nGustav Mahler and Pierre Boulez , that seems likely to have struck at least some Times readers as faint praise.\n                 ' As a description of 阳『I    m\n                                                                                      ．定语丛句                                ↓ 后置定语\n                               方式状语                                     that                   has hitherto been led by musicians\n                                                            i十系代词作主语                                     谓iJi·      动作的执行者\n\n                 句子主干：        I that seems li ke ly to have struck at least some Times readers as faint praise.\n                                主语           复合谓i吾（slrike sh as s lh 意为“给某人以 某利3 印 象”）\n\n      功能注释： 本句主 干 为 that se巳ms li ke ly to have s truck .. . as fa in t p ra i se ，主语 t h at 承上指代。 As 引\n导的状语中， a descript ion of. .. 与主语 t h a t 同指 ，且其中嵌套 一 个 that 定语从句修饰 a n o rch es tra ，说明\n白有影响力的大音乐家挂帅是纽约 爱 乐乐团 一 直 以来的惯例 。\n\n                                                          C J话：篇分：析＜ ）\n      第二段介绍古典音乐界高度赞赏的主旋律之外“存有的疑虑”（ Gilbert 不够知名）。关键词为 ：\ncomparatively little known 。\n      ① 旬提出段落主旨：古典音乐界对任命感到意外的原因是 Gilbert 不够知名。 转折同 how e v e r 将话\n题由上段古典音乐界的“强烈赞赏”转至本段“质疑之 音 ” 。 s uch a surp ri se 提取上段 s udd e n 、 has bee n the\ntal k 及 For the most part 等 暗含信息：这 一 任命不同 寻 常、令人 意 外，古典 音 乐界 高度赞赏 中夹杂些许疑\n虑。原因句式。 ne of th e reasons why . .. is that. .. 直接 指向其疑虑： Gilb ert 相对不为人知 。 句中\ncomparatively i吾义内涵为： G il bert 并非真的毫元名气，只是相对“纽约爱乐乐 III C 注：历史 最 悠久的乐团\n之 一 ，位列 美 国五大交响乐团） 音 乐总监”之位不够出名 。\n      ②③ 旬例证古典音乐界这一疑虑。 As a ... , that seems li kely to ... 表 明两句间“述 一 评”逻辑 。\n      ② 旬再次引述 Tommasini 话语，侧重说明 Gilbert 的不够出名 。 递进强调同 Ev e n 凸显 本 句和 ① 句间\n“提出观点            给 出典 型例证”的逻辑，并在句 内 设置矛盾、以凸显 G il b e rt 的“不知名飞 who 引导的从句回\n应上段末句，强调 Tommas ini 专 门报 上撰文对任命表示强烈支持；主句 则引 原话指出 Tommas i ni 对\nGi lb ert 的评价相当低调                     谦逊的、没有令人 生畏 神态的指挥 家派头 的 音 乐 家 。 整句深层 内涵：就连如\n此支持任命的 音乐评论家 也只能说到这个份 上， G il b e rt 的不 ：·H 名 可想而知 。\n                                                                                                                                      9",
+  "quality": {
+    "vision_line_count": 70,
+    "vision_character_count": 2421,
+    "pdf_text_character_count": 5352,
+    "nonempty": true
+  }
+}

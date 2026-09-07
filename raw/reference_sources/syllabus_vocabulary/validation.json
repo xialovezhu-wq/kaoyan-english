@@ -1,0 +1,347 @@
+{
+  "schema": "syllabus_vocabulary_validation_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "SRC-SYLLABUS-VOCABULARY-BOOKLET-001",
+  "source_sha256": "ae3b987face205fe28ad1c50f6b4f1e3220a6669817645b912dcbd57661cff6c",
+  "printed_target_total": 5746,
+  "actual_occurrences": 5746,
+  "actual_unique_normalized": 5742,
+  "gap_target_minus_actual": 0,
+  "section_counts": [
+    {
+      "section": "part_1_true_exam",
+      "label": "第一部分：真题词汇",
+      "printed_target": 4249,
+      "actual": 4249,
+      "gap_target_minus_actual": 0
+    },
+    {
+      "section": "part_2_zero_frequency",
+      "label": "第二部分：零频词汇",
+      "printed_target": 1281,
+      "actual": 1281,
+      "gap_target_minus_actual": 0
+    },
+    {
+      "section": "part_3_beyond_syllabus",
+      "label": "第三部分：超纲词汇",
+      "printed_target": 216,
+      "actual": 216,
+      "gap_target_minus_actual": 0
+    }
+  ],
+  "verification_status_counts": {
+    "ocr_consensus_triple_unreviewed": 1438,
+    "ocr_consensus_dual_unreviewed": 3973,
+    "verified_manual_visual": 94,
+    "150dpi_only_pending_review": 21,
+    "ocr_majority_unreviewed": 177,
+    "300dpi_only_pending_review": 38,
+    "triple_ocr_no_majority_pending_review": 4,
+    "dual_ocr_close_mismatch_pending_review": 1
+  },
+  "pending_review_count": 64,
+  "manual_review": {
+    "sample_design": "stratified_boundary_heavy_10_per_section",
+    "sample_size": 30,
+    "pre_correction_matches": 26,
+    "pre_correction_accuracy": 0.8667,
+    "post_correction_matches": 30,
+    "post_correction_accuracy_within_sample": 1.0,
+    "targeted_visual_corrections_outside_sample": 5,
+    "targeted_visual_rejects": 5,
+    "page_column_coverage_audit": {
+      "sample_page_columns": 30,
+      "expected_printed_headwords": 1021,
+      "actual_occurrences": 1021,
+      "matching_page_columns": 30,
+      "rows": [
+        {
+          "pdf_page": 5,
+          "column": "left",
+          "expected_printed_headwords": 20,
+          "actual_occurrences": 20,
+          "match": true
+        },
+        {
+          "pdf_page": 5,
+          "column": "right",
+          "expected_printed_headwords": 23,
+          "actual_occurrences": 23,
+          "match": true
+        },
+        {
+          "pdf_page": 6,
+          "column": "left",
+          "expected_printed_headwords": 31,
+          "actual_occurrences": 31,
+          "match": true
+        },
+        {
+          "pdf_page": 6,
+          "column": "right",
+          "expected_printed_headwords": 34,
+          "actual_occurrences": 34,
+          "match": true
+        },
+        {
+          "pdf_page": 14,
+          "column": "left",
+          "expected_printed_headwords": 29,
+          "actual_occurrences": 29,
+          "match": true
+        },
+        {
+          "pdf_page": 14,
+          "column": "right",
+          "expected_printed_headwords": 34,
+          "actual_occurrences": 34,
+          "match": true
+        },
+        {
+          "pdf_page": 26,
+          "column": "left",
+          "expected_printed_headwords": 35,
+          "actual_occurrences": 35,
+          "match": true
+        },
+        {
+          "pdf_page": 26,
+          "column": "right",
+          "expected_printed_headwords": 39,
+          "actual_occurrences": 39,
+          "match": true
+        },
+        {
+          "pdf_page": 39,
+          "column": "left",
+          "expected_printed_headwords": 28,
+          "actual_occurrences": 28,
+          "match": true
+        },
+        {
+          "pdf_page": 39,
+          "column": "right",
+          "expected_printed_headwords": 34,
+          "actual_occurrences": 34,
+          "match": true
+        },
+        {
+          "pdf_page": 52,
+          "column": "left",
+          "expected_printed_headwords": 33,
+          "actual_occurrences": 33,
+          "match": true
+        },
+        {
+          "pdf_page": 52,
+          "column": "right",
+          "expected_printed_headwords": 29,
+          "actual_occurrences": 29,
+          "match": true
+        },
+        {
+          "pdf_page": 65,
+          "column": "left",
+          "expected_printed_headwords": 37,
+          "actual_occurrences": 37,
+          "match": true
+        },
+        {
+          "pdf_page": 65,
+          "column": "right",
+          "expected_printed_headwords": 31,
+          "actual_occurrences": 31,
+          "match": true
+        },
+        {
+          "pdf_page": 70,
+          "column": "left",
+          "expected_printed_headwords": 34,
+          "actual_occurrences": 34,
+          "match": true
+        },
+        {
+          "pdf_page": 70,
+          "column": "right",
+          "expected_printed_headwords": 32,
+          "actual_occurrences": 32,
+          "match": true
+        },
+        {
+          "pdf_page": 71,
+          "column": "left",
+          "expected_printed_headwords": 34,
+          "actual_occurrences": 34,
+          "match": true
+        },
+        {
+          "pdf_page": 71,
+          "column": "right",
+          "expected_printed_headwords": 36,
+          "actual_occurrences": 36,
+          "match": true
+        },
+        {
+          "pdf_page": 72,
+          "column": "left",
+          "expected_printed_headwords": 38,
+          "actual_occurrences": 38,
+          "match": true
+        },
+        {
+          "pdf_page": 72,
+          "column": "right",
+          "expected_printed_headwords": 38,
+          "actual_occurrences": 38,
+          "match": true
+        },
+        {
+          "pdf_page": 79,
+          "column": "left",
+          "expected_printed_headwords": 39,
+          "actual_occurrences": 39,
+          "match": true
+        },
+        {
+          "pdf_page": 79,
+          "column": "right",
+          "expected_printed_headwords": 38,
+          "actual_occurrences": 38,
+          "match": true
+        },
+        {
+          "pdf_page": 87,
+          "column": "left",
+          "expected_printed_headwords": 35,
+          "actual_occurrences": 35,
+          "match": true
+        },
+        {
+          "pdf_page": 87,
+          "column": "right",
+          "expected_printed_headwords": 36,
+          "actual_occurrences": 36,
+          "match": true
+        },
+        {
+          "pdf_page": 88,
+          "column": "left",
+          "expected_printed_headwords": 35,
+          "actual_occurrences": 35,
+          "match": true
+        },
+        {
+          "pdf_page": 88,
+          "column": "right",
+          "expected_printed_headwords": 32,
+          "actual_occurrences": 32,
+          "match": true
+        },
+        {
+          "pdf_page": 89,
+          "column": "left",
+          "expected_printed_headwords": 41,
+          "actual_occurrences": 41,
+          "match": true
+        },
+        {
+          "pdf_page": 89,
+          "column": "right",
+          "expected_printed_headwords": 43,
+          "actual_occurrences": 43,
+          "match": true
+        },
+        {
+          "pdf_page": 90,
+          "column": "left",
+          "expected_printed_headwords": 37,
+          "actual_occurrences": 37,
+          "match": true
+        },
+        {
+          "pdf_page": 90,
+          "column": "right",
+          "expected_printed_headwords": 36,
+          "actual_occurrences": 36,
+          "match": true
+        }
+      ]
+    },
+    "scope_warning": "boundary-heavy audit; do not extrapolate as whole-corpus accuracy",
+    "path": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_manual_review.jsonl"
+  },
+  "strategic_visual_review": {
+    "path": "raw/reference_sources/syllabus_vocabulary/syllabus_vocabulary_strategic_review.jsonl",
+    "review_scope": "writing_foundation",
+    "overlay_count": 59,
+    "baseline_verified_count": 35,
+    "total_verified_expected": 94,
+    "overlap_with_baseline": 0
+  },
+  "rejected_ocr_line_count": 6171,
+  "alphabetic_anomaly_count": 0,
+  "missing_body_pages": [],
+  "boundary_detection": [
+    {
+      "section": "part_2_zero_frequency",
+      "pdf_page": 71,
+      "split_by_column": {
+        "left": 0.279478,
+        "right": 0.2500865
+      },
+      "status": "automatic_exact_anchors",
+      "evidence": {
+        "page": 71,
+        "columns": {
+          "left": {
+            "expected_start": "abdomen",
+            "observed_start": "abdomen",
+            "previous": "yours",
+            "gap_ratio": 0.169606,
+            "split_ratio": 0.279478
+          },
+          "right": {
+            "expected_start": "ankle",
+            "observed_start": "ankle",
+            "previous": "zoo",
+            "gap_ratio": 0.148859,
+            "split_ratio": 0.250086
+          }
+        }
+      }
+    },
+    {
+      "section": "part_3_beyond_syllabus",
+      "pdf_page": 88,
+      "split_by_column": {
+        "left": 0.2240665,
+        "right": 0.2058265
+      },
+      "status": "automatic_exact_anchors",
+      "evidence": {
+        "page": 88,
+        "columns": {
+          "left": {
+            "expected_start": "abdicate",
+            "observed_start": "abdicate",
+            "previous": "zero",
+            "gap_ratio": 0.109267,
+            "split_ratio": 0.224067
+          },
+          "right": {
+            "expected_start": "capuchin",
+            "observed_start": "capuchin",
+            "previous": "zoom",
+            "gap_ratio": 0.145747,
+            "split_ratio": 0.205826
+          }
+        }
+      }
+    }
+  ],
+  "adaptive_right_crop_selection": "raw/reference_sources/syllabus_vocabulary/right_crop_selection.json",
+  "count_gate": "PASS",
+  "citation_gate": "on_demand_visual_required_except_verified_manual_visual",
+  "padding_or_fabrication": false
+}

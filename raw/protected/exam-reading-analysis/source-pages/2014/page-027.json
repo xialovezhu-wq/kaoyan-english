@@ -1,0 +1,414 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P027",
+  "year": 2014,
+  "pdf_page": 27,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013245437401799176,
+      "text": "③a string of（一连串，一系列）",
+      "width": 0.23093219917852761,
+      "x": 0.05296610249406955,
+      "y": 0.9244186044040339
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014698925919420125,
+      "text": "⑤telcphone number-sized bank accounts（巨额银行存款）",
+      "width": 0.4131355724115481,
+      "x": 0.5148305137147768,
+      "y": 0.922965116140863
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01049868766404205,
+      "text": "④be funded Irom（由",
+      "width": 0.16313558702724645,
+      "x": 0.05296610751038798,
+      "y": 0.9068241470979601
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013123359580052507,
+      "text": "资助）",
+      "width": 0.04257581517157427,
+      "x": 0.25191570854621737,
+      "y": 0.9055118109764374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011811023622047223,
+      "text": "⑥draw（sb's）attention to...（吸引对•",
+      "width": 0.2923728679788523,
+      "x": 0.5127118759682008,
+      "y": 0.9055118112369437
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011950445300324963,
+      "text": "•的注意力）",
+      "width": 0.08907193151013604,
+      "x": 0.8241081011510522,
+      "y": 0.905361986568182
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0225712057799492,
+      "text": "•语篇分析•必",
+      "width": 0.16123569240058516,
+      "x": 0.419382155140622,
+      "y": 0.8615341646430823
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290566,
+      "text": "首段引出现象：近年来科研界涌现出许多新奖项。关键词为：have joined the Nobel Prizes。",
+      "width": 0.7584745911346086,
+      "x": 0.09533898193975777,
+      "y": 0.8357558138151919
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370533,
+      "text": "①②③句为引子，通过“介绍基础物理学奖（FPP）”引出讨论话题。",
+      "width": 0.5550847546807651,
+      "x": 0.09533898126131235,
+      "y": 0.8154069772969775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "①句引用领奖者所言对 FPP 进行评价。以 interesting（意內 attracting your attention because it is",
+      "width": 0.8411016939243594,
+      "x": 0.09322032896472728,
+      "y": 0.7950581399315149
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660776443681689,
+      "text": "special, exciting or unusual）修饰 experiment（意力 a venture at sth new or different “尝试，实践”），再以副",
+      "width": 0.8792372663359076,
+      "x": 0.05084745753649558,
+      "y": 0.7747093021147001
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015091863517060378,
+      "text": "词indeed 限定，突显新奖项不同凡响，引人关注。",
+      "width": 0.41313557241154814,
+      "x": 0.050847472162869924,
+      "y": 0.7526246721779252
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "②③句进入主题：近年来许多类似 FPP 的新奖涌现，加入诺贝尔奖行列。its type 指 FPP 同类型的",
+      "width": 0.8368643691256585,
+      "x": 0.09533901233865354,
+      "y": 0.7322834642612307
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "奖项。far from the only one...（far from 意为“远不是”）强调科类似新奖项为数不少。a string of 原指",
+      "width": 0.8813558995038613,
+      "x": 0.0508474745065439,
+      "y": 0.7106299214051017
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "“一长串的（物品，如珍珠等）”，此处修饰 awards，形象说明新兴科研奖项数目繁多，且有层出不穷之势。",
+      "width": 0.8834745326718151,
+      "x": 0.050847488261549896,
+      "y": 0.6902887140853768
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506555,
+      "text": "lucrative（producing a large amount of money）照应①句 US$3-million，强调奖金极为丰厚。have joined",
+      "width": 0.8855932243025623,
+      "x": 0.04872881831482049,
+      "y": 0.6699475067219578
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "the Nobel Prizes 表明这些新奖引人关注的原因：可能改变诺奖“一家独大”的传统局面。",
+      "width": 0.7436440420333453,
+      "x": 0.04872881900451389,
+      "y": 0.649606298994396
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "④⑤句介绍新奖项设立背景。",
+      "width": 0.2521186331679538,
+      "x": 0.09322034191178587,
+      "y": 0.6305774276469425
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "④句指出新奖的资金来源：互联网大佬捐资。bank accounts 由 the telephone-number-sized 修饰，直",
+      "width": 0.8389830607564057,
+      "x": 0.09322034241840717,
+      "y": 0.6089238846744449
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370533,
+      "text": "观强调富有程度：账户数额高达数十亿美元（注：美国电话号码位数为10位）。",
+      "width": 0.6588983060756406,
+      "x": 0.050847465314933775,
+      "y": 0.5872093024859311
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "⑤句介绍公认的设奖原由：吸引大众关注有建树的科研人士。These bencfactors 回指“互联网大佬",
+      "width": 0.8389830607564056,
+      "x": 0.0932203410201022,
+      "y": 0.5682414696609834
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018813361020225794,
+      "text": "捐资者”；their chosen fields 意即“他们所在的互联网领域”。and they want to use their wealth to...（and",
+      "width": 0.8836157787805315,
+      "x": 0.05076470370393779,
+      "y": 0.545354001938392
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290455,
+      "text": "引出“结果”）表明前后分句逻辑关联：在物质上有所成后，便想追求精神满足。draw attention 1o...通常",
+      "width": 0.8792372663359075,
+      "x": 0.05084746119998424,
+      "y": 0.5261627904624788
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371190749362,
+      "text": "为 draw sb's attention to...的形式，此处省略的sb 泛指“大众”。",
+      "width": 0.5466101635461567,
+      "x": 0.05084745376717609,
+      "y": 0.5058139538850033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370533,
+      "text": "【深层解读】首句形式上传达领奖者观点，但as（正如⋯⋯）表明作者是借他人所言展示自己态度，",
+      "width": 0.8432203270923132,
+      "x": 0.09110169228011476,
+      "y": 0.4854651168754659
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859708370533,
+      "text": "因此开篇即定下“支持新奖项”的总体基调。末句的插入语 they say（they 为虚指，指代“人们”）看似不经",
+      "width": 0.8813558995038613,
+      "x": 0.050847484993831696,
+      "y": 0.46366279114872166
+    },
+    {
+      "confidence": 1,
+      "height": 0.019154763284317755,
+      "text": "意，实际上意在“客观”，表明大众对“大佬捐资科研”之举总体持理解、认可的态度。",
+      "width": 0.6970338784871887,
+      "x": 0.05084747349475304,
+      "y": 0.44160105012736994
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016356638410272906,
+      "text": "• 真题精解•；",
+      "width": 0.1314506676918702,
+      "x": 0.4152068708578768,
+      "y": 0.41842051807315583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013123359580052507,
+      "text": "31. The Fundamental Physics Prize is seen as",
+      "width": 0.37288133760064957,
+      "x": 0.0614406908606921,
+      "y": 0.38517060395095437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372442290566,
+      "text": "31. 基础物理学奖被视作",
+      "width": 0.2161016939243594,
+      "x": 0.5847457619008146,
+      "y": 0.3837209299246881
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906889427386,
+      "text": "-。",
+      "width": 0.021186439470313068,
+      "x": 0.8538135596610299,
+      "y": 0.3822674418314491
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013268326836933908,
+      "text": "［A］ a symbol of the entrepreneurs'wealth",
+      "width": 0.3601694801301335,
+      "x": 0.06144068006205194,
+      "y": 0.36337209292147576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014721815354555079,
+      "text": "［A］ 企业家财富的一种象征",
+      "width": 0.24152542348108996,
+      "x": 0.5847457648484381,
+      "y": 0.36191860462196757
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011849173097785659,
+      "text": "LB」 a handsome reward for researchers",
+      "width": 0.332627102789751,
+      "x": 0.061440690051099,
+      "y": 0.3398950129414048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014614997573412003,
+      "text": "［B］对研究人员的丰厚奖赏",
+      "width": 0.23940677569743773,
+      "x": 0.5847457670877219,
+      "y": 0.3385826770342716
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013192028511227583,
+      "text": "［C］ a possible replacement of the Nobel Prizes",
+      "width": 0.3961864193737279,
+      "x": 0.061440692580085186,
+      "y": 0.31686046513077815
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014645516403078096,
+      "text": "［C］ 诺贝尔奖可能的替代者",
+      "width": 0.23940677569743773,
+      "x": 0.5847457670877219,
+      "y": 0.3154069767295258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378959941113044,
+      "text": "［D］ an example of bankers' investments",
+      "width": 0.33898303152500897,
+      "x": 0.061440689604727095,
+      "y": 0.2933070868176437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014691295899118328,
+      "text": "［D］银行家投资的一项实例",
+      "width": 0.23940677569743773,
+      "x": 0.5847457661899463,
+      "y": 0.2919947507870537
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "［精准定位］首句开门见山指出300万美元奖金的 Fundamental Physics Prize（FPP）是个有吸引力的",
+      "width": 0.8389830022936123,
+      "x": 0.09110172289980391,
+      "y": 0.2657480313071453
+    },
+    {
+      "confidence": 1,
+      "height": 0.017716535433070946,
+      "text": "尝试。②③句接着说明一系列类似的奖金丰厚奖项（lucrative awards）已经加入诺贝尔奖队列当中。④",
+      "width": 0.8813558995038614,
+      "x": 0.050847482790442045,
+      "y": 0.24409448798512956
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070946,
+      "text": "句进一步说明 FPP 资金来源：拥有巨额资产（the telephone-number-sized bank accounts）的互联网大鳄。",
+      "width": 0.8834745326718152,
+      "x": 0.05084749036430404,
+      "y": 0.22375328111666692
+    },
+    {
+      "confidence": 1,
+      "height": 0.014752334809991718,
+      "text": "可见，该奖项是对获得成就的研究者的一笔丰厚奖赏，B」正确。",
+      "width": 0.5381355724115482,
+      "x": 0.05296611748066651,
+      "y": 0.20472440947792447
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018660517815216937,
+      "text": "［命题解密］［B］中 a handsome reward for researchers 是对原文 US$3-million、lucrative awards for",
+      "width": 0.8412976612076448,
+      "x": 0.0931124750685543,
+      "y": 0.18341217617995786
+    },
+    {
+      "confidence": 1,
+      "height": 0.014737074769388014,
+      "text": "researchers 的同义表达。",
+      "width": 0.21186439835705517,
+      "x": 0.048728815651980895,
+      "y": 0.16404199501271421
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506566,
+      "text": "［A］源于④⑤句中“奖项经费来自互联网大佬的巨额资产”、“他们在事业上获得了成功，想用财富去",
+      "width": 0.8389830607564056,
+      "x": 0.09110169520442422,
+      "y": 0.14370078729414715
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01640419947506566,
+      "text": "吸引公众关注科研能人”，但两句旨在介绍包括 FPP在内的新奖项的设立背景，而非“FPP 是企业家财富",
+      "width": 0.8792372663359076,
+      "x": 0.05084747316679188,
+      "y": 0.1233595798635041
+    },
+    {
+      "confidence": 1,
+      "height": 0.01640419947506555,
+      "text": "的标志”。［C］从③句“近年来许多奖金丰厚的奖项加入诺贝尔奖行列”过度推出“FPP 可能会取代诺贝",
+      "width": 0.8792372663359075,
+      "x": 0.050847459734588776,
+      "y": 0.10301837276171288
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017716535433070835,
+      "text": "尔奖”。［D］将④句 are funded from... bank accounts...误读为“银行家对 FPP投资”，但此处 bank",
+      "width": 0.8834745326718151,
+      "x": 0.050847485549685524,
+      "y": 0.08267716512127077
+    }
+  ],
+  "vision_ocr_text": "③a string of（一连串，一系列）\n⑤telcphone number-sized bank accounts（巨额银行存款）\n④be funded Irom（由\n资助）\n⑥draw（sb's）attention to...（吸引对•\n•的注意力）\n•语篇分析•必\n首段引出现象：近年来科研界涌现出许多新奖项。关键词为：have joined the Nobel Prizes。\n①②③句为引子，通过“介绍基础物理学奖（FPP）”引出讨论话题。\n①句引用领奖者所言对 FPP 进行评价。以 interesting（意內 attracting your attention because it is\nspecial, exciting or unusual）修饰 experiment（意力 a venture at sth new or different “尝试，实践”），再以副\n词indeed 限定，突显新奖项不同凡响，引人关注。\n②③句进入主题：近年来许多类似 FPP 的新奖涌现，加入诺贝尔奖行列。its type 指 FPP 同类型的\n奖项。far from the only one...（far from 意为“远不是”）强调科类似新奖项为数不少。a string of 原指\n“一长串的（物品，如珍珠等）”，此处修饰 awards，形象说明新兴科研奖项数目繁多，且有层出不穷之势。\nlucrative（producing a large amount of money）照应①句 US$3-million，强调奖金极为丰厚。have joined\nthe Nobel Prizes 表明这些新奖引人关注的原因：可能改变诺奖“一家独大”的传统局面。\n④⑤句介绍新奖项设立背景。\n④句指出新奖的资金来源：互联网大佬捐资。bank accounts 由 the telephone-number-sized 修饰，直\n观强调富有程度：账户数额高达数十亿美元（注：美国电话号码位数为10位）。\n⑤句介绍公认的设奖原由：吸引大众关注有建树的科研人士。These bencfactors 回指“互联网大佬\n捐资者”；their chosen fields 意即“他们所在的互联网领域”。and they want to use their wealth to...（and\n引出“结果”）表明前后分句逻辑关联：在物质上有所成后，便想追求精神满足。draw attention 1o...通常\n为 draw sb's attention to...的形式，此处省略的sb 泛指“大众”。\n【深层解读】首句形式上传达领奖者观点，但as（正如⋯⋯）表明作者是借他人所言展示自己态度，\n因此开篇即定下“支持新奖项”的总体基调。末句的插入语 they say（they 为虚指，指代“人们”）看似不经\n意，实际上意在“客观”，表明大众对“大佬捐资科研”之举总体持理解、认可的态度。\n• 真题精解•；\n31. The Fundamental Physics Prize is seen as\n31. 基础物理学奖被视作\n-。\n［A］ a symbol of the entrepreneurs'wealth\n［A］ 企业家财富的一种象征\nLB」 a handsome reward for researchers\n［B］对研究人员的丰厚奖赏\n［C］ a possible replacement of the Nobel Prizes\n［C］ 诺贝尔奖可能的替代者\n［D］ an example of bankers' investments\n［D］银行家投资的一项实例\n［精准定位］首句开门见山指出300万美元奖金的 Fundamental Physics Prize（FPP）是个有吸引力的\n尝试。②③句接着说明一系列类似的奖金丰厚奖项（lucrative awards）已经加入诺贝尔奖队列当中。④\n句进一步说明 FPP 资金来源：拥有巨额资产（the telephone-number-sized bank accounts）的互联网大鳄。\n可见，该奖项是对获得成就的研究者的一笔丰厚奖赏，B」正确。\n［命题解密］［B］中 a handsome reward for researchers 是对原文 US$3-million、lucrative awards for\nresearchers 的同义表达。\n［A］源于④⑤句中“奖项经费来自互联网大佬的巨额资产”、“他们在事业上获得了成功，想用财富去\n吸引公众关注科研能人”，但两句旨在介绍包括 FPP在内的新奖项的设立背景，而非“FPP 是企业家财富\n的标志”。［C］从③句“近年来许多奖金丰厚的奖项加入诺贝尔奖行列”过度推出“FPP 可能会取代诺贝\n尔奖”。［D］将④句 are funded from... bank accounts...误读为“银行家对 FPP投资”，但此处 bank",
+  "pdf_text_layer": "( a string o f （ － 连串， 一 系 列 ）                          \\\\   ® t clcpho附numbe「sized bank acco u川（ 巨额银行存款）\n( be fund ed from ( 1:l:1 …… 资 助 ）                      ll   ＠川 w(s b 's)a ttention to ... ( I吸引对……的注 意力）\n\n\n                                                  ；；语毒分析二：： J\n      首段引出现象：近年来科研界涌现出许多新奖项。关键词为： have joined the Nobel Prizes 。\n\n      ①②③旬为引子，通过 “ 介绍基础物理学奖（ FPP ）”引出讨论话题。\n      ①旬引用领奖者所言对 FPP 进行评价。 以 int e r es tin g （意为 a t tract in g yo ur at tent io n because it 1s\nspecial, exciting or unusual) 修饰 exp e riment （ 意为 a venture at s th new or different “尝 试， 实践勺 ，再以刚\n词 indeed 限定，突显新奖项不同凡 H向，引人关注 。\n      ②③旬进入主题：近年来许多类似 FPP 的新奖涌现，加入诺贝尔奖行列 。 it s t ype 指 FPP 同 类型 的\n奖项。 far from th e on ly one ... (far fro m 意为“远不是”） 强训科 类 似新 奖项为数不少 。 a s trin g o f 原指\n\n6 一 ！夭串的（物品，直I] 珍珠 等）”， 此处 修饰l awards ，形象说明新兴科研奖项数目繁多，且有层出不穷之势 。\nIucrative( produ c i 吨 a large amount of mon ey) n自 应①句 US$ 3- mil li o n ，强调奖金极为丰厚 。 h ave join ed\nt he Nobe l Pri zes 表 明这 些新奖 引人 关注 的原因：可能改 变诺奖“ 一 家独大”的传统局丽 。\n      ④⑤旬介绍新奖项设立背景。\n     ④旬指出新奖的资金来源：互联网大佬捐资。 bank accou nt s 由 t h e t e l e pf刚1 e- numb e r s i zed 修饰， 直\n观强调 富有程度 ：账户数额 高 达数十亿 美元（注 ： 美国 电话 号码位数为 10 位） 。\n     ⑤旬介绍公认的设奖原由：吸引大众关注有建树的科研人士。 Th 巳sc benefactors 回指“互联网大佬\n捐资者”； the ir chosen fi e l d s 意 即 “ 他们所 在的互联网领域” 。 a nd they want to use th eir wea lth to ... (and\n引出“结果勺 表 明前 后分句逻辑关联 ： 在物质上有 所成后，便 想追求精神满足 。 dr aw a ttention to ...通常\n为 draw s b ’ s a ttention to .. .的形式， 此 处省略的 sb 泛指“大众” 。\n     【 深层解读 】 首句形 式上 传达领奖者观点，但 as （ 正如……） 表 明作 者是 借他人所 言展示自己态度，\n因 此开 篇目J] 定下 “支捋 新奖项” 的 总 体 基 调 。末 句的插入语 l hey say( th ey 为虚指，指代“人 们” ）看 似不 经\n\n意，实 际上 意在“客 观 ” ， 表 明 大众对“大佬捐资科 研”之 举总体持理解、认可 的 态度 。\n\n                                                  ；去题向：－：：：     ii\n 31. The Fundamental Physics Prize is seen as                        31. 基础物理 学奖被视作                      。\n\n\n\n\n [ A] a symbo l of th e entrepreneu r s ’ wea lth                    [ A］企业家 财 富 的 一 利1 象征\n\n [ BJ a handsome r ewa rel for resea re he rs                        [ BJ 对 ｛i)f 究人员 的 三｜二 厚奖赏\n\n [ C] a poss ible rep lacemen t of th e No be l P川                   [ C J 诺贝尔奖可能的替代者\n\n [ DJ an exa mpl e of banke rs ’ inves tm ent s                      [ DJ 银行家投资的 一 项 实 例\n\n      ［精准定位］ 首句 fl二 门见山 指出 300 万美元奖金的 F und ame nt a l Ph ys i c日 Pr i ze(FPP ）是 个有 l吸引力的\n尝试。②①句接着 说明 一 系列类似的奖金丰厚奖 J]Jf ( lu cr a ti ve awa rd s ）已经 加 入诺贝尔奖 队列 当 中 。④\n句进 一步 说明 FPP 资 金来源 ：拥 有巨额资产（ t he telephon e- number- s ized ba nk acco unt s ） 的 互联 网 大腾 。\n\n可见 ， i亥 奖项是 对获得成就的研 究者 的 一 笔丰厚奖赏， ［ BJ 正确 。\n      ［命题解密 J [BJ 巨1=1 a handsom 巳 r ewa rd for r esea rc h e r s 是对原文 US$ 3 - million 、 lu cra ti ve awa rd s for\nresearcher 目 的同义 表达 。\n     [A ］源于④⑤句中 h 奖项经费’ 来自互联 网 大佬的巨额资产”、“ 他们在 事 业 上获得了成功，想 用财 富去\n｜吸引 公众关注科研能人”，但两句旨在介绍包括 FPP 在内的新奖项的设立背景，而 二｜｜三 “ FPP 是企业家财富\n的标志” 。［ CJ 从 ③句“ 近 年来 许 多奖金丰厚 的 奖项 加入诺贝 尔奖行 列”过度推出“ FPP 可能 会取 代诺贝\n尔奖” 。［ D J 将 ④ 句 a r e funded fr om ... ba nk acco unt s ...误读为“银行 家 对 FPP 投资”，但此处 bank\n\n                                                                                                             27",
+  "quality": {
+    "vision_line_count": 49,
+    "vision_character_count": 2078,
+    "pdf_text_character_count": 3017,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P017",
+  "year": 2019,
+  "pdf_page": 17,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.028828158974647522,
+      "text": ".词汇注释与难句分析•以",
+      "width": 0.26517891517052283,
+      "x": 0.3514455656968367,
+      "y": 0.9021136228167346
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883201122284,
+      "text": "①compensation ［kpmpen'seifon］n. 工资，报酬",
+      "width": 0.34978540860689605,
+      "x": 0.03648068494011425,
+      "y": 0.8808139539299621
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883201122284,
+      "text": "；③reminder ［ri'mainda］v.起提醒作用的东西",
+      "width": 0.36695277874286353,
+      "x": 0.48068669617041376,
+      "y": 0.8793604652671714
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013172238444288609,
+      "text": "②incentive LIn sentiv」1. 动力，鼓励",
+      "width": 0.27253218430739184,
+      "x": 0.03648068701552544,
+      "y": 0.8632812498903333
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02372875312964129,
+      "text": "•语篇分析•以",
+      "width": 0.15894800332876347,
+      "x": 0.40335861754035673,
+      "y": 0.8326123674239125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017638687044382095,
+      "text": "第七段收束全篇，回应开篇事件、肯定英国新规。关键词：Britain's new rule is a reminder。",
+      "width": 0.7660943838266225,
+      "x": 0.07725324493218219,
+      "y": 0.8079427081167467
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017623546222845676,
+      "text": "①句作者先明确观点：“合理设计高管薪酬”有利于公司长远发展以及所有股东利益。本句以 A can",
+      "width": 0.8433476374699519,
+      "x": 0.07725322691953031,
+      "y": 0.7890625001495234
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "provide incentives for sb to do sth 句式肯定 A的激励、促进作用。think beyond their own time at the",
+      "width": 0.8862660921536959,
+      "x": 0.03433477246750097,
+      "y": 0.7701822918716198
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "company and on behalf of all stakeholders（遏制高管只关注自己任期的短视行为，激励其关注企业长远发",
+      "width": 0.8841201782226563,
+      "x": 0.03433476951528111,
+      "y": 0.752604166840319
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "展、关注所有股东利益）指向本文主旨：倡导长期思维；the right compensation design（合理薪酬设计）则",
+      "width": 0.8798282916729268,
+      "x": 0.03648070121289296,
+      "y": 0.7324218749589756
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "为本段作者语义重点，是促进长期思维的有效方式，也是开篇的英国新规以及第五段的美国法案旨在实",
+      "width": 0.8841201782226563,
+      "x": 0.03433476951528111,
+      "y": 0.71354166659495
+    },
+    {
+      "confidence": 1,
+      "height": 0.017916683107614517,
+      "text": "现的效果。",
+      "width": 0.09296263181246243,
+      "x": 0.03399078786720121,
+      "y": 0.6938032863491428
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "②句聚焦英国新规，明确进行肯定：这是对银行家（乃至所有企业高管）的提醒：具备长期思维、关注",
+      "width": 0.8412017235389123,
+      "x": 0.07725322149234641,
+      "y": 0.6744186046372025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "社会发展。a reminder 概述新规警示作用；that 从句明确这一作用，强调银行家（以及所有企业的高管）",
+      "width": 0.8819742056039663,
+      "x": 0.03648070100702982,
+      "y": 0.6555232556667567
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "应意识到：不应仅仅考虑个人及企业的短期利益，更应考虑其行为长远的社会效应（not just for the short",
+      "width": 0.8841201782226562,
+      "x": 0.03648069226206226,
+      "y": 0.6366279069337142
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "term but for the long term 语义重点在于 for the long term，收束全篇，重申主旨）。",
+      "width": 0.699570817213792,
+      "x": 0.03433477006263169,
+      "y": 0.6162790696953422
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "【深层解读】1，本段采用先提出观点（理论铺陈）",
+      "width": 0.4077253194955679,
+      "x": 0.07510729518783836,
+      "y": 0.5973837206437433
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "-后聚焦英国新规（语义重点）的论证方式，意在",
+      "width": 0.4077253194955679,
+      "x": 0.5107296190075807,
+      "y": 0.598837209649439
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "肯定英国新规是鼓励长期思维的一项有效方案。2. society has an interest in their performance not just",
+      "width": 0.8841201782226562,
+      "x": 0.036480682777083856,
+      "y": 0.5784883718465048
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "for the short term but for the long term 回应开篇 to build a stronger economy for future generations，彰显",
+      "width": 0.8841201782226563,
+      "x": 0.034334759654766324,
+      "y": 0.561046512069497
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "全文主旨，耐心/长期思维是一种企业美德：关乎未来社会，关乎子孙后代。",
+      "width": 0.628755364051232,
+      "x": 0.03648069336064999,
+      "y": 0.5406976743174352
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01627604166666674,
+      "text": "• 真題精解•",
+      "width": 0.12017167164729192,
+      "x": 0.39699570999180467,
+      "y": 0.5143229166788128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013217660288015964,
+      "text": "25. Which of the following would be the best title for the text？",
+      "width": 0.5193132840670073,
+      "x": 0.04506439450083098,
+      "y": 0.4824218747009871
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629118248820305,
+      "text": "25. 下列哪项是本文的最佳标题？",
+      "width": 0.28326178330641527,
+      "x": 0.5815450768017278,
+      "y": 0.4811046509162723
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "［A］ Failure of Quarterly Capitalism",
+      "width": 0.30901286785419174,
+      "x": 0.042918461866895484,
+      "y": 0.45494186075409004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "［A］季度资本主义的失败",
+      "width": 0.221030044555664,
+      "x": 0.5815450649405156,
+      "y": 0.4549418607976947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327822233239806,
+      "text": "［B］ Patience as a Corporate Virtue",
+      "width": 0.2982832688551683,
+      "x": 0.045064375255892214,
+      "y": 0.4287790695894853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458030504484964,
+      "text": "［B］ 耐心，企业的美德",
+      "width": 0.18884120354285616,
+      "x": 0.5815450650526062,
+      "y": 0.4287790701726947
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011900435512264496,
+      "text": "［C］ Decisiveness Required of Top Executives",
+      "width": 0.3841201488788311,
+      "x": 0.045064395481900374,
+      "y": 0.4023437502505972
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "［C］高管必备的果决",
+      "width": 0.1802575038029598,
+      "x": 0.5815450693431553,
+      "y": 0.4010416669414886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715466,
+      "text": "［D］ Frustration of Risk-taking Bankers",
+      "width": 0.33476395240196816,
+      "x": 0.045064379077985814,
+      "y": 0.37500000002916545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "［D］冒险型银行家的挫败",
+      "width": 0.221030044555664,
+      "x": 0.5815450657693784,
+      "y": 0.3735465119750203
+    },
+    {
+      "confidence": 1,
+      "height": 0.01459544524550438,
+      "text": "［精准定位］文首段引入“英国银行业监管新规”并说明其长远目的“让银行及其他所有企业能够做",
+      "width": 0.8454935514009916,
+      "x": 0.07296138937461129,
+      "y": 0.3473837212628109
+    },
+    {
+      "confidence": 1,
+      "height": 0.017578125,
+      "text": "出更长远的决策，为后代建立更强健的经济”。第二至四段剖析现状“上市公司中短期主义盛行”并明确",
+      "width": 0.8819742056039663,
+      "x": 0.034334784601450306,
+      "y": 0.32552083331774495
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "其消极影响。第五至七段则说明削弱短期主义、鼓励长期主义的方法，可见，文章旨在倡导企业奉行长",
+      "width": 0.8819742642916166,
+      "x": 0.03433475075386995,
+      "y": 0.3066406251385575
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "期主义、多些耐心，以为后代建立更强健的经济，［B］正确。",
+      "width": 0.49356219951923075,
+      "x": 0.03433478500433307,
+      "y": 0.28776041658012774
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "［命题解密］［B］ 中 patience 指向 long-termism，与 short-termism/financial impatience 相对，a",
+      "width": 0.8454935514009916,
+      "x": 0.07510731564428196,
+      "y": 0.2714843751686159
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "Corporate Virtue 暗合 to build a stronger economy for future generations，体现作者对长期主义的倡导。",
+      "width": 0.8733905498798076,
+      "x": 0.03648070164271387,
+      "y": 0.2513020835210419
+    },
+    {
+      "confidence": 1,
+      "height": 0.01759326520065463,
+      "text": "［A］与第三段信息“投资者平均持股时间锐减/季度资本主义加剧”相悖。［C］由首段④句",
+      "width": 0.8433476374699519,
+      "x": 0.07296137930686938,
+      "y": 0.23110465156852233
+    },
+    {
+      "confidence": 1,
+      "height": 0.016306322688857677,
+      "text": "decisionmaking 臆断出“高管行事需果决”，但文意并非在于“高管必须果断”，而是在于“高管的决策应考",
+      "width": 0.8819742642916165,
+      "x": 0.03433474996639287,
+      "y": 0.21220930216627243
+    },
+    {
+      "confidence": 1,
+      "height": 0.018088648716608646,
+      "text": "虑长远（more long-term decisionmaking）”。［D］源自第一段③句“英国新规将惩罚银行家的有害冒险行",
+      "width": 0.8799345750075122,
+      "x": 0.0364314144931444,
+      "y": 0.19123968868241847
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "为”，但文章随后范围已经扩大，批驳的并非仅仅是“银行家的冒险行”，而是“所有公司的短期主义”。",
+      "width": 0.8669527493990385,
+      "x": 0.03648071551507297,
+      "y": 0.17441860454999325
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969939,
+      "text": "［技巧总结］本题以文章标题形式考查考生对全篇的把握，除“锁定答案”中所用梳理文章脉络这一",
+      "width": 0.8412017235389122,
+      "x": 0.07510730114899873,
+      "y": 0.15406976771677827
+    },
+    {
+      "confidence": 1,
+      "height": 0.01769924846788251,
+      "text": "基本解题思路外，还可以借助如下技巧：一、寻找文章主旨句或与主旨密切相关的句子；借助关键词复现",
+      "width": 0.8819742056039663,
+      "x": 0.034334779794583443,
+      "y": 0.13346354186766496
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "抓取文章重心；借词汇褒贬明确作者态度：1. 通过多条线索可判断第一段末句与文章主旨紧密相关（见",
+      "width": 0.8819742642916165,
+      "x": 0.03433474996639287,
+      "y": 0.11627906960813272
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "第一段深层解读）；2. 文中 corporations/companies/publicly traded companies 多次同义复现，Short-",
+      "width": 0.8819742056039663,
+      "x": 0.0364807193814929,
+      "y": 0.09883720963490406
+    },
+    {
+      "confidence": 1,
+      "height": 0.013157098243633869,
+      "text": "termism/financial impatience/quarterly capitalism/short-term thinking/long-term decisionmaking/long-",
+      "width": 0.884120119535006,
+      "x": 0.03433477528256902,
+      "y": 0.07994186037800277
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906312545178,
+      "text": "17",
+      "width": 0.023605150442857048,
+      "x": 0.8798283260446659,
+      "y": 0.059593023704192505
+    }
+  ],
+  "vision_ocr_text": ".词汇注释与难句分析•以\n①compensation ［kpmpen'seifon］n. 工资，报酬\n；③reminder ［ri'mainda］v.起提醒作用的东西\n②incentive LIn sentiv」1. 动力，鼓励\n•语篇分析•以\n第七段收束全篇，回应开篇事件、肯定英国新规。关键词：Britain's new rule is a reminder。\n①句作者先明确观点：“合理设计高管薪酬”有利于公司长远发展以及所有股东利益。本句以 A can\nprovide incentives for sb to do sth 句式肯定 A的激励、促进作用。think beyond their own time at the\ncompany and on behalf of all stakeholders（遏制高管只关注自己任期的短视行为，激励其关注企业长远发\n展、关注所有股东利益）指向本文主旨：倡导长期思维；the right compensation design（合理薪酬设计）则\n为本段作者语义重点，是促进长期思维的有效方式，也是开篇的英国新规以及第五段的美国法案旨在实\n现的效果。\n②句聚焦英国新规，明确进行肯定：这是对银行家（乃至所有企业高管）的提醒：具备长期思维、关注\n社会发展。a reminder 概述新规警示作用；that 从句明确这一作用，强调银行家（以及所有企业的高管）\n应意识到：不应仅仅考虑个人及企业的短期利益，更应考虑其行为长远的社会效应（not just for the short\nterm but for the long term 语义重点在于 for the long term，收束全篇，重申主旨）。\n【深层解读】1，本段采用先提出观点（理论铺陈）\n-后聚焦英国新规（语义重点）的论证方式，意在\n肯定英国新规是鼓励长期思维的一项有效方案。2. society has an interest in their performance not just\nfor the short term but for the long term 回应开篇 to build a stronger economy for future generations，彰显\n全文主旨，耐心/长期思维是一种企业美德：关乎未来社会，关乎子孙后代。\n• 真題精解•\n25. Which of the following would be the best title for the text？\n25. 下列哪项是本文的最佳标题？\n［A］ Failure of Quarterly Capitalism\n［A］季度资本主义的失败\n［B］ Patience as a Corporate Virtue\n［B］ 耐心，企业的美德\n［C］ Decisiveness Required of Top Executives\n［C］高管必备的果决\n［D］ Frustration of Risk-taking Bankers\n［D］冒险型银行家的挫败\n［精准定位］文首段引入“英国银行业监管新规”并说明其长远目的“让银行及其他所有企业能够做\n出更长远的决策，为后代建立更强健的经济”。第二至四段剖析现状“上市公司中短期主义盛行”并明确\n其消极影响。第五至七段则说明削弱短期主义、鼓励长期主义的方法，可见，文章旨在倡导企业奉行长\n期主义、多些耐心，以为后代建立更强健的经济，［B］正确。\n［命题解密］［B］ 中 patience 指向 long-termism，与 short-termism/financial impatience 相对，a\nCorporate Virtue 暗合 to build a stronger economy for future generations，体现作者对长期主义的倡导。\n［A］与第三段信息“投资者平均持股时间锐减/季度资本主义加剧”相悖。［C］由首段④句\ndecisionmaking 臆断出“高管行事需果决”，但文意并非在于“高管必须果断”，而是在于“高管的决策应考\n虑长远（more long-term decisionmaking）”。［D］源自第一段③句“英国新规将惩罚银行家的有害冒险行\n为”，但文章随后范围已经扩大，批驳的并非仅仅是“银行家的冒险行”，而是“所有公司的短期主义”。\n［技巧总结］本题以文章标题形式考查考生对全篇的把握，除“锁定答案”中所用梳理文章脉络这一\n基本解题思路外，还可以借助如下技巧：一、寻找文章主旨句或与主旨密切相关的句子；借助关键词复现\n抓取文章重心；借词汇褒贬明确作者态度：1. 通过多条线索可判断第一段末句与文章主旨紧密相关（见\n第一段深层解读）；2. 文中 corporations/companies/publicly traded companies 多次同义复现，Short-\ntermism/financial impatience/quarterly capitalism/short-term thinking/long-term decisionmaking/long-\n17",
+  "pdf_text_layer": "：·词同时难；句分析＜ fl\n( compensation [ kompen'se1fan ］ η ．工资，报酬               ；① re川\n( incentive [ 1n'sent1v］ 凡动力，鼓励\n\n                                              ；吁：第分析：~ ： ： rt\n     第七段收束全篇，回应开篇事件、肯定英国新规。关键词： Britain’s new rule is a reminder 。\n     ① 旬作者先明确观点：“合理设计高管薪酬”有利子公司长远发展以及所有股东利益 。 本句以 A can\nprovide incentives for s b to do st h 句式 肯定 A 的激励、促进作用。 t hink beyond their own time at t he\ncompa ny and on beha lf of a ll sta k e h o ld e rs （遏制高 管只关注自己 任期的短视行为，激励其 关注企 业 l夭远发\n展、关注所有股东利益）指向本文主旨 ： 倡导长期思维 川1 e ri g ht com pensation d es i g n （合理薪酬设计）则\n为本段作者语义重点，是促进长期思维的有效方式，也是开篇的英国新规以及第五段的 美国法案 旨在 实\n现的效果 。\n     ② 旬聚焦英国新规，明确进行肯定：这是对银行家（乃至所有企业高管 ） 的提醒 ： 具备长期思维、关注\n社会发展。 a rem ind e r 概述新规警示作用； t hat 从句明确这 － 作用，强调银行家（以及所有企业的 高管）\n应意识到 ： 不应仅仅考虑个人及企业的短期利益，更应考虑其行为长远的社会效应（ not ju st for th e s hort\nt巳rm but for th e lo ng te rm 语义重点在于 for the long term ， 收束 全篇，重申主旨）。\n     E 深层解读】 1. 本段采用先提出观点（理论铺陈） 一一后聚焦英国新 规（语义 重点）的论证方式，意在\n肯定英国新 规是鼓励长 期思维的 一 项有效方案 。 2 . soc iety has an interest in their performance not jus t\nfor t he s hort term but fo r th e long term 回应开篇 to build a stro鸣er eco nomy for futur e generat i ons ，彰显\n全文主旨，耐心／长期J 思维是 一 种企业 美德 ： 关乎未来社会 ， 关乎子 孙后代 。\n\n                                              ＞：：真：题需解.~ ：： ；／\n 25. Which of the following would be the best title for the text?     25. 下列哪项是本文的最佳标题？\n\n [A ] Failure of Quarterly Capita lism                                [A］季度资本主义 的 失败\n\n [BJ Pati ence as a Corporate Virtu e                                 [ BJ 耐心，企业的 美德\n\n [CJ Decis iveness R eq uired of Top Executives                       [CJ 高管必备的果决\n\n [ DJ Frustration of Ri s k-ta king Bankers                           〔 DJ 冒险型银行家的挫败\n\n     ［精准定位］文首段引人“英国银行业监管新规”并说明其长远目的“让银行及其他所有企业能够做\n出更长远的决策，为后代建立更强健的经济”。第 二至 四段剖析现状“上市公司中短期主义盛行”并明确\n其消极影 响 。第 五至七段则说明削弱短期主义、鼓励长期主义的方法，可见，文 章 旨在倡导企业 奉行长\n期主义、 多些 耐心，以为后代建 立更强健 的经济，［ BJ 正确 。\n     ［命题解密 ］ [ BJ 中 pat i ence 指 向 long termism ，与 short termism/ fin ancial im pati e n ce 相对， a\nCorpo rate Virtu e 暗合 to bui ld a stronger economy for fu ture generat i o n s ，体现作者对长期 主义的倡导 。\n     [A］与第 三 段信息“投资者平均持股时 间 锐减 ／季 度资本主义加剧”相悖 。［ CJ 由首段 ④句\nd ec i s i o nm a king 臆断出“高管行事需果决”，但文意并非在于“高管必须果断”，而是在于“高管的决策应 考\n虑民远（ more long term dec i s i o nmaking ）” 。［ DJ 源自第一段③句“英国新规将惩罚银行家的有害冒险行\n为”，但文章随后范围已经扩大， tlt 驳的并非仅仅是“银行家的冒险行为”，而是“所有公司的短期主义” 。\n     ［技巧总结］本题以文章标题形式考查考生对全篇的把握，除“锁定答案”中所用梳理文章脉络这一\n基本解题思路外，还可以借助如下技巧：一、寻找文章主旨旬或与主旨密切相关的旬子；借助关键词复现\n抓取文章重心；借词汇褒贬明确作者态度： 1. 通过多条线索可判断第 一 段末句与文 掌主旨紧密 相 关（见\n第一段深层 f侨民） ; 2 . 文 中 corporations/ compa nies/ p ubli cly traded compa ni es 多次同义复现， S h ort­\ntermism/ fin ancia l impatience/ quarterl y capitali sm/ sho rt term thinking/ long-t erm dec isionmaki ng/ long-\n                                                                                                            17",
+  "quality": {
+    "vision_line_count": 48,
+    "vision_character_count": 2148,
+    "pdf_text_character_count": 2759,
+    "nonempty": true
+  }
+}

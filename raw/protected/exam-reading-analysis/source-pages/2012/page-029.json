@@ -1,0 +1,606 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2012-P029",
+  "year": 2012,
+  "pdf_page": 29,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2012年考研英语一真题解析.pdf",
+  "source_sha256": "399dadaa5bdb4af4146abe48262e66514813b04945c5cd626ba4b17c3e17ef58",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01324331776030252,
+      "text": "［A］ strict inspection",
+      "width": 0.1737288115813217,
+      "x": 0.06144068112671199,
+      "y": 0.9186046510864929
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013243317135352206,
+      "text": "［A］严格审查",
+      "width": 0.12076271013365658,
+      "x": 0.5932203407110167,
+      "y": 0.9186046511046615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283972,
+      "text": "LB shared efforts",
+      "width": 0.15466101447665212,
+      "x": 0.059322036681165445,
+      "y": 0.898255813895358
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014760149884505136,
+      "text": "［B］ 共同努力",
+      "width": 0.11870245997354134,
+      "x": 0.5931911443773372,
+      "y": 0.8966896925750986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014698711010294296,
+      "text": "［C］ individual wisdom",
+      "width": 0.1906779564589433,
+      "x": 0.057203392787477526,
+      "y": 0.8748361730013221
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015061724076577354,
+      "text": "LC］个人智慧",
+      "width": 0.1187792644901895,
+      "x": 0.5931527414829169,
+      "y": 0.8747365802214717
+    },
+    {
+      "confidence": 1,
+      "height": 0.013210933455320983,
+      "text": "［D］ persistent innovation",
+      "width": 0.2139830434299564,
+      "x": 0.05932203974688615,
+      "y": 0.8545216248586222
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015436683694781905,
+      "text": "［D］不断创新",
+      "width": 0.12098717188060171,
+      "x": 0.5931081077274385,
+      "y": 0.8527467742593073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［精准定位］第二段③句指出将“发现声明”转变为“成熟发现”需要通过“集体（collective）审查和认",
+      "width": 0.8368644057906609,
+      "x": 0.08898305831582767,
+      "y": 0.8283093056036497
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453462,
+      "text": "可”，④句进一步指出经过这一过程后，“单个研究者的我、此时、此地”转变为“集体的任何人、任何时间、",
+      "width": 0.8813558837423816,
+      "x": 0.04872884017330065,
+      "y": 0.8066841412703687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "任何地点”，由此可推知，“取信过程”需要集体共同的努力，［B］为正确选项。",
+      "width": 0.6398304926505737,
+      "x": 0.048728829469204586,
+      "y": 0.7876802093897151
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "［命题解密］题干＋正确项实为③句的同义改写，其中题干的 requires、正确项中的 shared efforts 分",
+      "width": 0.8368644057906608,
+      "x": 0.08898305657236014,
+      "y": 0.7673656620591033
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01326617719617773,
+      "text": "别对应 takes、collective scrutiny and acceptance。",
+      "width": 0.40466101447665215,
+      "x": 0.05084746392163145,
+      "y": 0.7483617298932015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599599118313977,
+      "text": "［A］源自③句中 scrutiny（仔细审查），但却遗漏原文重要信息 collective（集体的，共同的）。［C］将④",
+      "width": 0.8389830142544515,
+      "x": 0.0868644145888762,
+      "y": 0.7267365664004728
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "句取信过程需要“集体能力”偷换为“个人智慧”。［D］利用与文章主题“科学研究”的相关概念“不断创",
+      "width": 0.8771186084637905,
+      "x": 0.04872883081047761,
+      "y": 0.7049418607412433
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024886,
+      "text": "新”捏造而成，与文意不符。",
+      "width": 0.23093220289533042,
+      "x": 0.04872881144958061,
+      "y": 0.6845930239243829
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860813925736,
+      "text": "［技巧总结］推理引申题的典型解法为对比分析四个选项。本题初看选项，似乎都可算作发现声明取",
+      "width": 0.8389830142544515,
+      "x": 0.08686441908342805,
+      "y": 0.6642441857682864
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860813925847,
+      "text": "信过程所需要的因素，但与主旨相关的选项似乎唯有［B］、［C］，而［B］和［C］侧重点相反，前者侧重“集体”，",
+      "width": 0.879237275278591,
+      "x": 0.04872882626808935,
+      "y": 0.6438953487043327
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034090659565292,
+      "text": "后者侧重“个人”；由此不难推测［B］可能正确。回到原文，发现第二段④句出现 individual 和 community 两",
+      "width": 0.8771186084637906,
+      "x": 0.04872882039734225,
+      "y": 0.6235465120021433
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017756178994634997,
+      "text": "个关键词，并明确表明该过程是从“个人的••⋯”变成了“集体的⋯•⋯”，印证③句 takes collective.. t0.•，",
+      "width": 0.8792372752785911,
+      "x": 0.048728827314800376,
+      "y": 0.6028833554869899
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "就此可断定“集体努力（［B］）”是作者强调的该过程必不可少的因素。",
+      "width": 0.5677965795104863,
+      "x": 0.0487288217913671,
+      "y": 0.5825688073067414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010174418183172884,
+      "text": "1 Once",
+      "width": 0.06779660868599127,
+      "x": 0.1271186459394902,
+      "y": 0.5523255816303128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790720928375,
+      "text": "a discovery claim becomes public, the",
+      "width": 0.33474576815136536,
+      "x": 0.19703389976965627,
+      "y": 0.5508720929796604
+    },
+    {
+      "confidence": 1,
+      "height": 0.014574887086960642,
+      "text": "发现声明一旦公开化，发现者即会获得",
+      "width": 0.32838982605797384,
+      "x": 0.5932203449953773,
+      "y": 0.5450581401961829
+    },
+    {
+      "confidence": 1,
+      "height": 0.011895084756073704,
+      "text": "discoverer",
+      "width": 0.08693981717695015,
+      "x": 0.050809753876516324,
+      "y": 0.5303896669682828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014692995838850198,
+      "text": "receivcs intellectual® credit.",
+      "width": 0.24788133318519956,
+      "x": 0.13983052390881257,
+      "y": 0.5305232560513184
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907209283972,
+      "text": "②",
+      "width": 0.025423728257246758,
+      "x": 0.40042372940951215,
+      "y": 0.5305232558066952
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014091657311075867,
+      "text": "But, unlike",
+      "width": 0.10407485378403958,
+      "x": 0.42783545400040535,
+      "y": 0.530018124931781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017693315858453462,
+      "text": "学术發誉。但和采矿声明不同的是，其随后",
+      "width": 0.36652542026731305,
+      "x": 0.5550847450835045,
+      "y": 0.5203145476630615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017175023865106054,
+      "text": "with mining claims, the community takes control of what",
+      "width": 0.4812047896376076,
+      "x": 0.05069058692153074,
+      "y": 0.5079867924705774
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938477,
+      "text": "的发展掌握在科学界手中。在科学界这个",
+      "width": 0.3686440579066086,
+      "x": 0.5529661029534754,
+      "y": 0.5013106157279021
+    },
+    {
+      "confidence": 1,
+      "height": 0.01386428348046298,
+      "text": "happens next.",
+      "width": 0.11882275058024244,
+      "x": 0.050758117718539546,
+      "y": 0.48798064896581694
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013391904718441539,
+      "text": "③ Within the complex social structure of",
+      "width": 0.35169489844123447,
+      "x": 0.1800847583535352,
+      "y": 0.4895150723200655
+    },
+    {
+      "confidence": 1,
+      "height": 0.015072083879423381,
+      "text": "复杂的社会结构中，研究者做出发现；编辑",
+      "width": 0.3686440579066085,
+      "x": 0.5550847543941533,
+      "y": 0.4823066844322281
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011904127163468337,
+      "text": "the scientific community, researchers make discoveries；",
+      "width": 0.4788135360805299,
+      "x": 0.050847464459735106,
+      "y": 0.46920052402838286
+    },
+    {
+      "confidence": 1,
+      "height": 0.01507208387942327,
+      "text": "和评审者通过控制发现的发表过程来扮演",
+      "width": 0.3686440579066086,
+      "x": 0.5529661029534754,
+      "y": 0.46199213620231994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011827342632088733,
+      "text": "editors and",
+      "width": 0.09750793632084279,
+      "x": 0.05082230397877269,
+      "y": 0.44902818929637167
+    },
+    {
+      "confidence": 1,
+      "height": 0.010745470989422357,
+      "text": "reviewers",
+      "width": 0.08277296427331055,
+      "x": 0.1567067368242111,
+      "y": 0.44884238072121396
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.007478892725073294,
+      "text": "act",
+      "width": 0.02966101630012119,
+      "x": 0.2436440686154761,
+      "y": 0.4505813956613183
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.007478892725073294,
+      "text": "aS",
+      "width": 0.023305083324074993,
+      "x": 0.2754237291359851,
+      "y": 0.4505813955159693
+    },
+    {
+      "confidence": 1,
+      "height": 0.013323326410816017,
+      "text": "gatekeepers by controlling",
+      "width": 0.22669491302898692,
+      "x": 0.30508474896749804,
+      "y": 0.4488859762090863
+    },
+    {
+      "confidence": 1,
+      "height": 0.016028375488121305,
+      "text": "看门人的角色；其他科学家则使用这一新发",
+      "width": 0.370762695545904,
+      "x": 0.5529661087312853,
+      "y": 0.44036697272412495
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014599651996617613,
+      "text": "the publication process; other scientists use the new finding",
+      "width": 0.48093220289533034,
+      "x": 0.050847462561868555,
+      "y": 0.42726081282173445
+    },
+    {
+      "confidence": 1,
+      "height": 0.014683470969743873,
+      "text": "现来满足自己的需要；最后，公众（包括其他",
+      "width": 0.370762695545904,
+      "x": 0.5529661135617936,
+      "y": 0.42136304089070975
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565362217854427,
+      "text": "to suit their own purposes; and finally, the public （including",
+      "width": 0.4809321737198255,
+      "x": 0.05084746931946587,
+      "y": 0.40694626496726116
+    },
+    {
+      "confidence": 1,
+      "height": 0.016382699868938366,
+      "text": "科学家）接受这个新发现以及可能随之而来",
+      "width": 0.370762695545904,
+      "x": 0.5529661141709038,
+      "y": 0.4010484929333318
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011795543905635753,
+      "text": "other scientists）",
+      "width": 0.13559321737198257,
+      "x": 0.0508474608055341,
+      "y": 0.38794233259125877
+    },
+    {
+      "confidence": 1,
+      "height": 0.011984971372671849,
+      "text": "receives",
+      "width": 0.06792530183810347,
+      "x": 0.19485090833019209,
+      "y": 0.3879028633442938
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011795543905635641,
+      "text": "the new discovery and possibly",
+      "width": 0.26906779710466955,
+      "x": 0.2627118596750665,
+      "y": 0.3879423330466355
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371162864556,
+      "text": "的技术。在发现声明通过科学界的逐级审",
+      "width": 0.3686440579066085,
+      "x": 0.5550847553157634,
+      "y": 0.37936046570853865
+    },
+    {
+      "confidence": 1,
+      "height": 0.013144259371576261,
+      "text": "accompanying technology.",
+      "width": 0.20550846369726936,
+      "x": 0.05084746563547541,
+      "y": 0.3662790696184697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013144258746625948,
+      "text": "As a discovery claim works its",
+      "width": 0.2372881304009694,
+      "x": 0.296610171805165,
+      "y": 0.3662790700435654
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765295,
+      "text": "查之时，与该科技相容或相抗的理念间的相",
+      "width": 0.3686440579066085,
+      "x": 0.5550847488009331,
+      "y": 0.3590116276138693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01444898582848464,
+      "text": "way through",
+      "width": 0.12106246656487138,
+      "x": 0.05281622565625435,
+      "y": 0.3452464375214944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011867932535873926,
+      "text": "the",
+      "width": 0.03177965940982386,
+      "x": 0.1800847462484779,
+      "y": 0.3459302323837302
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018222712595528434,
+      "text": "community, the interaction®",
+      "width": 0.25715885198822896,
+      "x": 0.22846003969471682,
+      "y": 0.3443229072910833
+    },
+    {
+      "confidence": 1,
+      "height": 0.011795543905635641,
+      "text": "and",
+      "width": 0.02966101630012119,
+      "x": 0.5021186443452312,
+      "y": 0.3473132370971551
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441859564024997,
+      "text": "互作用、相互对抗把个人的研究发现转变成",
+      "width": 0.370762695545904,
+      "x": 0.5550847585564971,
+      "y": 0.33720930288513873
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013212838304152208,
+      "text": "confrontation between shared and competing beliefs about the",
+      "width": 0.4851694781739214,
+      "x": 0.04872881417045471,
+      "y": 0.3255813950908535
+    },
+    {
+      "confidence": 1,
+      "height": 0.01603599613334683,
+      "text": "科学界的可信发现。",
+      "width": 0.1716101593542737,
+      "x": 0.5529661088557021,
+      "y": 0.3168604653815037
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247126833014544,
+      "text": "science and the technology involved transforms an individual’'s",
+      "width": 0.48305084053462594,
+      "x": 0.05084745303777199,
+      "y": 0.3052325585125577
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013281416611777619,
+      "text": "discovery claim into the community's credible discovery.",
+      "width": 0.4279660868599127,
+      "x": 0.05296611339207744,
+      "y": 0.28488372081396385
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014685375193624672,
+      "text": "•词汇注释与难句分析。",
+      "width": 0.21610169565700427,
+      "x": 0.3665254260592096,
+      "y": 0.2572674423764154
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014635847249162337,
+      "text": "①intellectual ［unt：'lektfoal］ a. 智力的",
+      "width": 0.28813559420933915,
+      "x": 0.05084745895465242,
+      "y": 0.23110465087210452
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0131480690692386,
+      "text": "①take control of（掌控）",
+      "width": 0.18855931881964783,
+      "x": 0.5169491565859388,
+      "y": 0.23394495391045178
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534884011604854,
+      "text": "②interaction ［inte'reekJon］n. 相互作用，相互影响",
+      "width": 0.38559321737198254,
+      "x": 0.050847455897342124,
+      "y": 0.21220930210756972
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011803163925910853,
+      "text": "②act as（担任⋯⋯角色）",
+      "width": 0.19279660868599124,
+      "x": 0.5169491508741654,
+      "y": 0.21494102220053346
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01467788141333104,
+      "text": "• 经典搭配",
+      "width": 0.10809166435985676,
+      "x": 0.05082704994756058,
+      "y": 0.19033547798206363
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01467585094946855,
+      "text": "③work one's way through（排除困难朝特定方向前进）",
+      "width": 0.4173728694879303,
+      "x": 0.5148305102348485,
+      "y": 0.19462647469005478
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013237602588858532,
+      "text": "As a discovery claim works its way through the community, the interaction and confrontation between",
+      "width": 0.8368644057906609,
+      "x": 0.09533897517670356,
+      "y": 0.14809960674252642
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01728224098135578,
+      "text": "shared and competing beliefs about the science and the technology involved transforms an individual’s",
+      "width": 0.8815478585646213,
+      "x": 0.05286135551578967,
+      "y": 0.1266825882752659
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014622512057443027,
+      "text": "discovery claim into the community's credible discovery.",
+      "width": 0.4555084636972694,
+      "x": 0.05508475307368164,
+      "y": 0.1074705109610059
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534884011604854,
+      "text": "29",
+      "width": 0.027542373190418523,
+      "x": 0.8919491526173613,
+      "y": 0.04651162783431384
+    }
+  ],
+  "vision_ocr_text": "［A］ strict inspection\n［A］严格审查\nLB shared efforts\n［B］ 共同努力\n［C］ individual wisdom\nLC］个人智慧\n［D］ persistent innovation\n［D］不断创新\n［精准定位］第二段③句指出将“发现声明”转变为“成熟发现”需要通过“集体（collective）审查和认\n可”，④句进一步指出经过这一过程后，“单个研究者的我、此时、此地”转变为“集体的任何人、任何时间、\n任何地点”，由此可推知，“取信过程”需要集体共同的努力，［B］为正确选项。\n［命题解密］题干＋正确项实为③句的同义改写，其中题干的 requires、正确项中的 shared efforts 分\n别对应 takes、collective scrutiny and acceptance。\n［A］源自③句中 scrutiny（仔细审查），但却遗漏原文重要信息 collective（集体的，共同的）。［C］将④\n句取信过程需要“集体能力”偷换为“个人智慧”。［D］利用与文章主题“科学研究”的相关概念“不断创\n新”捏造而成，与文意不符。\n［技巧总结］推理引申题的典型解法为对比分析四个选项。本题初看选项，似乎都可算作发现声明取\n信过程所需要的因素，但与主旨相关的选项似乎唯有［B］、［C］，而［B］和［C］侧重点相反，前者侧重“集体”，\n后者侧重“个人”；由此不难推测［B］可能正确。回到原文，发现第二段④句出现 individual 和 community 两\n个关键词，并明确表明该过程是从“个人的••⋯”变成了“集体的⋯•⋯”，印证③句 takes collective.. t0.•，\n就此可断定“集体努力（［B］）”是作者强调的该过程必不可少的因素。\n1 Once\na discovery claim becomes public, the\n发现声明一旦公开化，发现者即会获得\ndiscoverer\nreceivcs intellectual® credit.\n②\nBut, unlike\n学术發誉。但和采矿声明不同的是，其随后\nwith mining claims, the community takes control of what\n的发展掌握在科学界手中。在科学界这个\nhappens next.\n③ Within the complex social structure of\n复杂的社会结构中，研究者做出发现；编辑\nthe scientific community, researchers make discoveries；\n和评审者通过控制发现的发表过程来扮演\neditors and\nreviewers\nact\naS\ngatekeepers by controlling\n看门人的角色；其他科学家则使用这一新发\nthe publication process; other scientists use the new finding\n现来满足自己的需要；最后，公众（包括其他\nto suit their own purposes; and finally, the public （including\n科学家）接受这个新发现以及可能随之而来\nother scientists）\nreceives\nthe new discovery and possibly\n的技术。在发现声明通过科学界的逐级审\naccompanying technology.\nAs a discovery claim works its\n查之时，与该科技相容或相抗的理念间的相\nway through\nthe\ncommunity, the interaction®\nand\n互作用、相互对抗把个人的研究发现转变成\nconfrontation between shared and competing beliefs about the\n科学界的可信发现。\nscience and the technology involved transforms an individual’'s\ndiscovery claim into the community's credible discovery.\n•词汇注释与难句分析。\n①intellectual ［unt：'lektfoal］ a. 智力的\n①take control of（掌控）\n②interaction ［inte'reekJon］n. 相互作用，相互影响\n②act as（担任⋯⋯角色）\n• 经典搭配\n③work one's way through（排除困难朝特定方向前进）\nAs a discovery claim works its way through the community, the interaction and confrontation between\nshared and competing beliefs about the science and the technology involved transforms an individual’s\ndiscovery claim into the community's credible discovery.\n29",
+  "pdf_text_layer": "[A] stri ct inspection                                                             [ A］ 严格 审查\n [ BJ shar ed e fforts                                                              [ BJ 共同 努力\n\n [ CJ indi vidual w isdom                                                           [CJ 个人 智慧\n [ DJ per sistent innovation                                                        [DJ 不断创新\n\n      ［精准定位］ 第 二 段 ③ 句指出将 “发 现 声 明”转变为“成熟发现” 需要 通过 “集 体（ coll ec tive ） 审查 和认\n可”， ④ 句进 一 步 指出 经 过这 － 过 程后，“单 个研究者的我、 此 时、此地”转 变 为 “集 体的任何人 、 任何时间 、\n任何地 点 ”，由此可推知，“取 信 过 程”需要集 体共同的努力，［因为正确 选 项 。\n      ［命题解密］ 题干＋ 正 确 项 实 为 ③ 句 的同义改 写 ，其中题干的 r equir es 、 正 确 项 中的 s h a r e d effo rt s 分\n别对应 t a k es 、 co ll e cti ve scrutiny and acce pt a n ce 。\n      [ A ］ 源自 ③ 句中 sc rutin y （仔细 审 查 ） ，但却遗漏原 文重要 信息 coll ec ti ve （集 体的， 共 同的） 。［ CJ 将 ④\n句取 信 过 程需要“集 体能力”偷 换 为 “个人智慧 ” 。［ D J 利用与 文章主题“ 科 学 研 究 ”的相 关概念“不 断创\n新”捏造而成， 与 文 意不 符 。\n      ［技巧总结］ 推理引申 题 的典型 解法为 对比分析四个选项 。 本题初 看 选 项 ，似乎都可 算 作 发 现 声 明取\n信 过 程所 需要 的因 素 ，但 与主 旨相 关 的 选 项似乎 H住有 ［ BJ 、 ［ CJ ， 而 ［ BJ 和［ CJ 侧 重点 相反，前 者 侧 重“集 体” ，\n后 者侧 重 “个人”；由此 不 难推测 ［ BJ 可 能正 确 。 回到原文，发现 第 二 段 ④旬 出现 individua l 和 communi ty 两\n个 关键 词 ，并 明确 表 明 该 过 程是 从 “个人 的 … …” 变 成了“ 集 体的……” ， 印证 ③句 takes coll ective. . . to . . . ,\n就此可断定“集 体 努 力 C[ B］） ”是 作者强调 的 该 过 程 必不可少的 因素。\n\n\n      皿    0 Once    a di scover y claim becomes pub li c, the                      发现声明一旦公开化，发现者 l'lr 会获得\ndi scoverer receives intellectual(       credit .    @ But,     unlike         学术赞誉 。 但和采矿声明不同的是，其随后\nwith mining claims , th e communit y ta kes control of what\n                                                                               的发展掌握在科学界手中 。 在科学界这个\nhappens ne xt. @ Within the complex soιi a l structure of                      复杂的社会结构中，研究者做出发现；编辑\nthe scientific communit y, r e 吕 ea r c h ers make dis coveri es ;             和评审者通过控制发现的发表过程来扮演\neditors a nd r evi ew ers act as gatekeepers by controlling                    看门人的角色；其他科学家则使用这一新发\nthe publication process ; other scienti sts use t he new finding               现来满足自己的需要；最后，公众（包括其他\nto suit their own purposes; and finall y , the public ( including              科学家）接受这个新发现以及可能随之而来\nother sci 巳ntists ) receives the new discovery and possibly                    的技术 。 在发现声明通过科学界的逐级审\naccompanying techno l ogy. 。因 As a disCJvery claim works its                   查之时，与该科技相容或相抗的理念间的相\nway    through     the    community ,      the      i「1teraction②        and   互作用、相互对抗把个人的研究发现转变成\nconfrontation between shared and competing beliefs about the                   科学界的可信发现 。\nscience and the technology involved transforms an individual’ 5\ndiscovery claim into the community ’ s credible discovery.\n\n                                            ： · 词ii：注释与难句分析.                       •fl\n( intellectual [ ,mt11 lektf ual］ ι 智 力的                            I\\    ( take cont ro l of （掌控）\n( interaction [ ,mta'rrekfa n] 11 . 相 互作用，相互影 响                     ！②沉ct as\n． 经典搭配                                                              i     ③ WO 川川ay 川川~ 除因对f 秽J 特定方 向前进 ）\n\n\n\n      As a discovery claim works its way through the community, the interaction and confrontation between\nshared and competing beliefs about the science and the technology involved t ransforms an individual ’s\ndiscovery claim into the community ’s credible discovery.\n\n\n\n\n                                                                                                        29",
+  "quality": {
+    "vision_line_count": 73,
+    "vision_character_count": 2204,
+    "pdf_text_character_count": 3408,
+    "nonempty": true
+  }
+}

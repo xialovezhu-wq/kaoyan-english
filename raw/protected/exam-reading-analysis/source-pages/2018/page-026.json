@@ -1,0 +1,630 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P026",
+  "year": 2018,
+  "pdf_page": 26,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.014567015539995176,
+      "text": "⑤ misinterpretation［'misinito:pri'tei/on］n.错误理解",
+      "width": 0.38247861552192874,
+      "x": 0.07692308922621498,
+      "y": 0.920026007586723
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014567015539995287,
+      "text": "②pass along（传递）",
+      "width": 0.1581196538804822,
+      "x": 0.5405982938473046,
+      "y": 0.9200260075825701
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488328832031,
+      "text": "⑥exaggeration［Igzeedso 'retjon］n. 夸大",
+      "width": 0.2863247873222394,
+      "x": 0.07478632706537594,
+      "y": 0.9011627910956654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "③top reason（首要原因）",
+      "width": 0.19444444120272164,
+      "x": 0.5405982913466448,
+      "y": 0.9011627907928554
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0159883722372266,
+      "text": "⑦ indicate［'ndikeit ］v.表明",
+      "width": 0.20512820475416021,
+      "x": 0.07692307876608229,
+      "y": 0.8808139532164158
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "④lie in（在于）",
+      "width": 0.11752136259644252,
+      "x": 0.5405982926547702,
+      "y": 0.8822674419314213
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "⑧ counteract［ kauntor'eekt］.抵抗，抵制",
+      "width": 0.29700853628592555,
+      "x": 0.07692308440587724,
+      "y": 0.8633720933226173
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "⑤in other words（换句话说）",
+      "width": 0.22863247289712307,
+      "x": 0.5384615394328488,
+      "y": 0.8633720927512996
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015523746822838413,
+      "text": "• 经典搭配",
+      "width": 0.1049880543812739,
+      "x": 0.07677947744905103,
+      "y": 0.8425288244048985
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01310785663143399,
+      "text": "⑥editor in chief（主编）",
+      "width": 0.18376067765128312,
+      "x": 0.5405982921216519,
+      "y": 0.8459037713303434
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011716741579251844,
+      "text": "①conscious of（对⋯⋯留心）",
+      "width": 0.22222222060136082,
+      "x": 0.07905983172211156,
+      "y": 0.8270348839666486
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "1. Social media allows users to experience news events more intimately and immediately while also",
+      "width": 0.8440170725718511,
+      "x": 0.11538461805168147,
+      "y": 0.7819767439540611
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "permitting them to re-share news as a projection of their values and interests.",
+      "width": 0.6324786155219287,
+      "x": 0.07692308991913331,
+      "y": 0.7613784132298795
+    },
+    {
+      "confidence": 1,
+      "height": 0.016425008736599245,
+      "text": "结构切分：",
+      "width": 0.08990969393494937,
+      "x": 0.11743831606636913,
+      "y": 0.742514239852014
+    },
+    {
+      "confidence": 1,
+      "height": 0.013625058148090341,
+      "text": "Social media",
+      "width": 0.10271105939525946,
+      "x": 0.20505472799526378,
+      "y": 0.7192049128341234
+    },
+    {
+      "confidence": 1,
+      "height": 0.011839598145999553,
+      "text": "allows",
+      "width": 0.05982905911214037,
+      "x": 0.3162393158499127,
+      "y": 0.7209302326585092
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "句子主干：",
+      "width": 0.08547008652987946,
+      "x": 0.11538461414246769,
+      "y": 0.7093023254245069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903906,
+      "text": "users to experience news events",
+      "width": 0.24786324437216184,
+      "x": 0.3952991439463978,
+      "y": 0.7178153444153439
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "more intimately and immediately",
+      "width": 0.24358973311648535,
+      "x": 0.6709401786874838,
+      "y": 0.7178153443994664
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "主语",
+      "width": 0.04059829128403966,
+      "x": 0.22649572649117103,
+      "y": 0.7002600780816611
+    },
+    {
+      "confidence": 1,
+      "height": 0.017610079290342973,
+      "text": "谓语",
+      "width": 0.04273504326493971,
+      "x": 0.32692307672935345,
+      "y": 0.6989596880373004
+    },
+    {
+      "confidence": 1,
+      "height": 0.013654096228868706,
+      "text": "宾语",
+      "width": 0.03846153930313956,
+      "x": 0.40384615370007854,
+      "y": 0.7002600777499934
+    },
+    {
+      "confidence": 1,
+      "height": 0.016407804154295547,
+      "text": "宾语补足语",
+      "width": 0.0963028202093354,
+      "x": 0.49565200878652355,
+      "y": 0.6989181908124857
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "状语",
+      "width": 0.04059829128403969,
+      "x": 0.7863247862718996,
+      "y": 0.6976592980927365
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016389246569808336,
+      "text": "状语从句",
+      "width": 0.0834977567537793,
+      "x": 0.3610288999223702,
+      "y": 0.67857863259013
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956245,
+      "text": "while",
+      "width": 0.04273504326493974,
+      "x": 0.2158119659031427,
+      "y": 0.659883720875432
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017568497105909686,
+      "text": "（social media is） also permitting",
+      "width": 0.23717948082072332,
+      "x": 0.28846154065267254,
+      "y": 0.6553966191316173
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010403121246318037,
+      "text": "them",
+      "width": 0.05555555515034016,
+      "x": 0.5277777770544595,
+      "y": 0.6612483743840195
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010467383889445125,
+      "text": "to re-share news",
+      "width": 0.11752136259644252,
+      "x": 0.6089743626120352,
+      "y": 0.6598837211543205
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017659222041056966,
+      "text": "衔接词",
+      "width": 0.05982905911214034,
+      "x": 0.2094017103584597,
+      "y": 0.6409883724688683
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "主语",
+      "width": 0.03418803534133941,
+      "x": 0.33333333300596846,
+      "y": 0.6409883721882041
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790663065616,
+      "text": "+",
+      "width": 0.02350427361336993,
+      "x": 0.39529914495079366,
+      "y": 0.6409883721933929
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "谓语",
+      "width": 0.04059829128403969,
+      "x": 0.4508547003134136,
+      "y": 0.6409883721351243
+    },
+    {
+      "confidence": 1,
+      "height": 0.017659222041056966,
+      "text": "宾语",
+      "width": 0.04059829128403969,
+      "x": 0.5470085467297751,
+      "y": 0.6409883725270078
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017555266579974083,
+      "text": "宾谱补足语",
+      "width": 0.09188033882564162,
+      "x": 0.6282051306512818,
+      "y": 0.6423927180611775
+    },
+    {
+      "confidence": 1,
+      "height": 0.015170749669267236,
+      "text": "news的补足语",
+      "width": 0.10915392261162316,
+      "x": 0.7007649199432378,
+      "y": 0.6174146252433415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013242054357640365,
+      "text": "as a projection of their values and interests",
+      "width": 0.3012820475416019,
+      "x": 0.5405982943648828,
+      "y": 0.6001300389444957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014604817131250725,
+      "text": "功能注释：本句主干为 Social media allows users to experience news events，谓语结构采用了 allow sb",
+      "width": 0.841880316944013,
+      "x": 0.11752138700520148,
+      "y": 0.5712209305215377
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "to do sth 的用法。while 引导状语从句时，如果主句和从句的主语一致，且从句谓语又含有be，则从句中",
+      "width": 0.8803418598940905,
+      "x": 0.0747863240059465,
+      "y": 0.5494148245514521
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "有时可省略主语和 be，因此可判断出句中 while 后省略了 social media is。allows...（is）permitting...两",
+      "width": 0.8803418598940905,
+      "x": 0.07692309815124505,
+      "y": 0.5290697674606019
+    },
+    {
+      "confidence": 1,
+      "height": 0.016256766449490367,
+      "text": "个并列谓语结构引出社交媒体的双重功效。",
+      "width": 0.3696581109304045,
+      "x": 0.07692308585424207,
+      "y": 0.508452535748338
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01331009759394497,
+      "text": "2.A survey by Barna research group found the top reason given by Americans for the fake news",
+      "width": 0.841880316944013,
+      "x": 0.1175213884083353,
+      "y": 0.4895968793382782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327040539606339,
+      "text": "phenomenon is “ reader error，”",
+      "width": 0.2542734820801715,
+      "x": 0.07905984439438701,
+      "y": 0.4707412221757753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013117306564192077,
+      "text": "more so than made-up stories or factual mistakes in reporting.",
+      "width": 0.5106837197881811,
+      "x": 0.33119659313297517,
+      "y": 0.46944083249020474
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013686444266409747,
+      "text": "by Barna research group",
+      "width": 0.18214334812492533,
+      "x": 0.1770678744363804,
+      "y": 0.4471662426561587
+    },
+    {
+      "confidence": 1,
+      "height": 0.014030698371956696,
+      "text": "后置定语",
+      "width": 0.07300673388158388,
+      "x": 0.2156333857127319,
+      "y": 0.4253974415911551
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "句子主干：",
+      "width": 0.0811965825680793,
+      "x": 0.07692307681730345,
+      "y": 0.4083224967617123
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "A survey",
+      "width": 0.07051281901664078,
+      "x": 0.17307692454616677,
+      "y": 0.40832249653849795
+    },
+    {
+      "confidence": 1,
+      "height": 0.011888740896713546,
+      "text": "found",
+      "width": 0.04700854722673986,
+      "x": 0.26282051304719173,
+      "y": 0.40962288689951154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0162624370292197,
+      "text": "宾语",
+      "width": 0.04273504326493971,
+      "x": 0.32692307696337874,
+      "y": 0.4011627906982471
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013951762910007104,
+      "text": "the top reason",
+      "width": 0.10147029811064096,
+      "x": 0.37116307314757596,
+      "y": 0.40791008234949133
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01453488328832031,
+      "text": "I5",
+      "width": 0.014957264778035051,
+      "x": 0.4850427352391876,
+      "y": 0.4069767442570026
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012757257925363419,
+      "text": "\"reader error",
+      "width": 0.09856591306726514,
+      "x": 0.5148196059321942,
+      "y": 0.4122260222674019
+    },
+    {
+      "confidence": 1,
+      "height": 0.013126757737098926,
+      "text": "主语",
+      "width": 0.03632478732223948,
+      "x": 0.18589743509600276,
+      "y": 0.3938953486612846
+    },
+    {
+      "confidence": 1,
+      "height": 0.013126757737098926,
+      "text": "谓语",
+      "width": 0.03846153930313956,
+      "x": 0.26923076842535326,
+      "y": 0.3938953486491722
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "执句",
+      "width": 0.03846153930313956,
+      "x": 0.3269230765877465,
+      "y": 0.38808139571049105
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01527399948576491,
+      "text": "主语 系动词",
+      "width": 0.11771420538995281,
+      "x": 0.4016129819348593,
+      "y": 0.39207230252569314
+    },
+    {
+      "confidence": 1,
+      "height": 0.013279855948895913,
+      "text": "表语",
+      "width": 0.03632478732223943,
+      "x": 0.5512820505238619,
+      "y": 0.39244186027707917
+    },
+    {
+      "confidence": 1,
+      "height": 0.014601037158147534,
+      "text": "后置定语1",
+      "width": 0.0811965825680793,
+      "x": 0.1602564095706612,
+      "y": 0.3647594278871753
+    },
+    {
+      "confidence": 1,
+      "height": 0.013587577135262263,
+      "text": "后置定语2",
+      "width": 0.08350203096524711,
+      "x": 0.3610267612528129,
+      "y": 0.36457249045396645
+    },
+    {
+      "confidence": 1,
+      "height": 0.01314754882931557,
+      "text": "状语",
+      "width": 0.03846153930313956,
+      "x": 0.5641025632971483,
+      "y": 0.3647594279575588
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013260955463305302,
+      "text": "given by Americans",
+      "width": 0.14102563803328158,
+      "x": 0.1388888896906242,
+      "y": 0.3472041610946446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598435,
+      "text": "For the fake news phenomenon more so than made-up stories or factual mistakes in reporting，",
+      "width": 0.6602563803328154,
+      "x": 0.2863248095397886,
+      "y": 0.3430232560371822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "功能注释：本句主干力 A survey found （that）.•，宾语部分为省略 that 的宾语从句。more so than",
+      "width": 0.8418803169440129,
+      "x": 0.11752138597243786,
+      "y": 0.3211963589352528
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016269996975426193,
+      "text": "made-up stories or factual mistakes in reporting 做宾语从句的状语，其中so 指代“被当成首要原因”这一",
+      "width": 0.8824786155219289,
+      "x": 0.07692309509694133,
+      "y": 0.30232558152310185
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "情况，more than 表示“比⋯⋯更⋯⋯”，因此整句话可理解为：比起报道过程中编造新闻或犯事实错误，",
+      "width": 0.8824786155219287,
+      "x": 0.07692309422621503,
+      "y": 0.2819767444314213
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "读者错误更能被指为虚假新闻的首要原因。",
+      "width": 0.3696581109304045,
+      "x": 0.07692307666620808,
+      "y": 0.26137841343003865
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02393376904749278,
+      "text": "•语篇分析•x/",
+      "width": 0.1648675980577049,
+      "x": 0.4380037334485377,
+      "y": 0.23321825636054572
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018021608360102026,
+      "text": "第五段阐释现状之二：美国人对信息分享的自我责任意识在增强。关键词为：more conscious of their",
+      "width": 0.8419810307869264,
+      "x": 0.11746702924101486,
+      "y": 0.20438988976259598
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01332521810643228,
+      "text": "role in passing along information。",
+      "width": 0.2799145204387249,
+      "x": 0.07692308333476855,
+      "y": 0.1872561769557165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "①②句总述：用户在社交媒体上传递信息时会审慎而为。This forces 实现句间因果关联（This 回指",
+      "width": 0.8397435613161747,
+      "x": 0.11538462120088708,
+      "y": 0.1656976743028984
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "首句第二分句内容）。",
+      "width": 0.181623922023445,
+      "x": 0.07692308353955954,
+      "y": 0.14680232552382877
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "①句先指出社交媒体的双重功效：既能亲密、即时体验新闻事件，又能将其转发以体现自身价值观",
+      "width": 0.841880316944013,
+      "x": 0.11538463627158317,
+      "y": 0.12483745126501311
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "及兴趣点。while also 以并列之形连接 allows 及 permitting，实际将语义重点落于后者，用以强调社交媒",
+      "width": 0.8803418598940905,
+      "x": 0.07692309595039049,
+      "y": 0.10598179462568547
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "体的信息转发功能；并借 as a projection of...反衬用户转发信息的真实意图“以投射自身价值与兴趣”，",
+      "width": 0.8824786155219287,
+      "x": 0.07692309422621503,
+      "y": 0.08712613789914836
+    },
+    {
+      "confidence": 1,
+      "height": 0.011703511053315907,
+      "text": "26",
+      "width": 0.023504273613369944,
+      "x": 0.08974358949317258,
+      "y": 0.06827048141775693
+    }
+  ],
+  "vision_ocr_text": "⑤ misinterpretation［'misinito:pri'tei/on］n.错误理解\n②pass along（传递）\n⑥exaggeration［Igzeedso 'retjon］n. 夸大\n③top reason（首要原因）\n⑦ indicate［'ndikeit ］v.表明\n④lie in（在于）\n⑧ counteract［ kauntor'eekt］.抵抗，抵制\n⑤in other words（换句话说）\n• 经典搭配\n⑥editor in chief（主编）\n①conscious of（对⋯⋯留心）\n1. Social media allows users to experience news events more intimately and immediately while also\npermitting them to re-share news as a projection of their values and interests.\n结构切分：\nSocial media\nallows\n句子主干：\nusers to experience news events\nmore intimately and immediately\n主语\n谓语\n宾语\n宾语补足语\n状语\n状语从句\nwhile\n（social media is） also permitting\nthem\nto re-share news\n衔接词\n主语\n+\n谓语\n宾语\n宾谱补足语\nnews的补足语\nas a projection of their values and interests\n功能注释：本句主干为 Social media allows users to experience news events，谓语结构采用了 allow sb\nto do sth 的用法。while 引导状语从句时，如果主句和从句的主语一致，且从句谓语又含有be，则从句中\n有时可省略主语和 be，因此可判断出句中 while 后省略了 social media is。allows...（is）permitting...两\n个并列谓语结构引出社交媒体的双重功效。\n2.A survey by Barna research group found the top reason given by Americans for the fake news\nphenomenon is “ reader error，”\nmore so than made-up stories or factual mistakes in reporting.\nby Barna research group\n后置定语\n句子主干：\nA survey\nfound\n宾语\nthe top reason\nI5\n\"reader error\n主语\n谓语\n执句\n主语 系动词\n表语\n后置定语1\n后置定语2\n状语\ngiven by Americans\nFor the fake news phenomenon more so than made-up stories or factual mistakes in reporting，\n功能注释：本句主干力 A survey found （that）.•，宾语部分为省略 that 的宾语从句。more so than\nmade-up stories or factual mistakes in reporting 做宾语从句的状语，其中so 指代“被当成首要原因”这一\n情况，more than 表示“比⋯⋯更⋯⋯”，因此整句话可理解为：比起报道过程中编造新闻或犯事实错误，\n读者错误更能被指为虚假新闻的首要原因。\n•语篇分析•x/\n第五段阐释现状之二：美国人对信息分享的自我责任意识在增强。关键词为：more conscious of their\nrole in passing along information。\n①②句总述：用户在社交媒体上传递信息时会审慎而为。This forces 实现句间因果关联（This 回指\n首句第二分句内容）。\n①句先指出社交媒体的双重功效：既能亲密、即时体验新闻事件，又能将其转发以体现自身价值观\n及兴趣点。while also 以并列之形连接 allows 及 permitting，实际将语义重点落于后者，用以强调社交媒\n体的信息转发功能；并借 as a projection of...反衬用户转发信息的真实意图“以投射自身价值与兴趣”，\n26",
+  "pdf_text_layer": "( misinterpretation[ 1mi s川t;:i:pdte白n]n . 错误理解                               ( pass along C 传递）\n® exaggeration [ 1gzced3;:i1re归n]n . 夸大                                       ( top reason （首要原因）\n( indicate[ 11nd1ke1t ]v . 表明                                                 @ li e in （在于）\n( counteract[ kaunt;:ir I cekt Jv. 抵抗，抵制                                      ( 1n other wo rd s （换告\n．经典搭配                                                                         ® editor in chi ef （主编）\n( conscious of （对 …… 留心）\n\n\n       1. Social media allows users to experience news events more intimately and immediately while also\npermitting them to re-share news as a projection of their values and interests.\n       结构切分：\n\n                    Fδ －\n                             m\n                             －一\n                               M 一语\n                               主\n                                         AU9U\n                        。一\n                                   ρuv\n       句   子\n               干\n               主                                allows\n                                                 语        users to experience news events      more intimately and immediately\n                                                 谓       语 ？\n                                                           句\n                                                         宾 ？从          宾语补足语                                 状i吾\n                                                 一   一     士语\n                                                           ？状\n                      while               (social media is) also permitting   them\n                    衔接词                         主i吾＋谓i吾                       宾i吾\n\n\n\n\n       功能注释： 本句主干为 Soc i a l media a llows users to experience news eve n ts ，谓语结构采用了 a llow sb\nto do sth 的用法。 wh il e 引导状语从句时，如果主句和从句的主语一致，且从句谓语又含有 be ， 则从句 中\n有时可省略主语和 b e ，因 此可判断出 句中 w hil e 后省略了 soc i a l m edi a i s 。 a l l ows . . . ( is) permitti ng ... 两\n个并列谓语结构引出社交媒体的双重功效。\n       2. A survey by Barna research group found the top reason given by Americans for the fake news\nphenomenon is “ reader error ,” more so than made-up stories or factual mistakes in reporting.\n                by Barna resear℃h group\n                      后置定语\n句子主干 ：         性旦旦旦\n                 主语\n\n               后置定语1                                                             状语\n        I given I>y Americans! I岛r the 缸ke ne附 phenomenon IIm\n\n       功自E 注释： 本句主干为 A survey found (that) .. . ，宾 i吾部分为省 II俗 that 的宾 i吾从句。 more so t han\nmade- up stories or factual mistakes in reporting 做宾语从句的状语 ，其中 so 指代“被当成首要原因 ”这 一\n情况， more than 表示“比……更……”，因此整句话可理解为：比起报道过程中编造新闻或犯 事实错误，\n读者错误更能被指为虚假新闻的首要原因。\n\n                                                              ：： ：~号：篇分析：~ ：：i i/\n       第五段阐释现状之二：美国人对信息分享的自我责任意识在增强。关键词为： more conscious of their\nrole in passing along information0\n       ①② 句总述：用户在社交媒体上传递信息时会审慎而为。 T hi s forces 实现句间因果关联（ T hi s 回指\n首句第二分句内容）。\n       ① 旬先指出社交媒体的双重功效：既能亲密、即时体验新闻事件，又能将其转发以体现自身价值观\n及兴趣点。 w hil e a lso 以 并列之形连接 a ll ows 及 p e rmit ting ，实际将语义重点落于后者，用以强调社交媒\n体的信息转发功能；并借 as a projection of. ..反衬用户转 发信息 的 真实意图“ 以投射自身价值与兴趣”，\n  26",
+  "quality": {
+    "vision_line_count": 76,
+    "vision_character_count": 1901,
+    "pdf_text_character_count": 3165,
+    "nonempty": true
+  }
+}

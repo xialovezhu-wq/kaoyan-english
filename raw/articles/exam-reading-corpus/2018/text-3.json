@@ -1,0 +1,110 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2018-T3",
+  "source_id": "RAW-ARTICLE-20260711-035",
+  "ingest_date": "2026-07-11",
+  "year": 2018,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 3,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2018年考研英语一真题.pdf",
+  "truth_pages": [
+    8,
+    9
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "analysis_page_range": "31-38",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2018/text-3.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2018/text-3.json",
+  "article_path": "articles/2026-07-11-2018-english-i-text-3.md",
+  "passage_paragraphs": [
+    "Any fair-minded assessment of the dangers of the deal between Britain’s National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well. DeepMind is one of the leading artificial intelligence (AI) companies in the world. The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants. It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients’ rights and their expectations of privacy.",
+    "DeepMind has almost apologized. The NHS trust has mended its ways. Further arrangements — and there may be many — between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned. There are lessons about informed patient consent to learn. But privacy is not the only angle in this case and not even the most important. Ms Denham chose to concentrate the blame on the NHS trust, since under existing law it “controlled” the data and DeepMind merely “processed” it. But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.",
+    "The great question is who should benefit from the analysis of all the data that our lives now generate. Privacy law builds on the concept of damage to an individual from identifiable knowledge about them. That misses the way the surveillance economy works. The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+    "The use of privacy law to curb the tech giants in this instance feels slightly maladapted. This practice does not address the real worry. It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives. What matters is that they will belong to a private monopoly which developed them using public resources. If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done. We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later. A long struggle will be needed to avoid a future of digital feudalism. Ms Denham’s report is a welcome start."
+  ],
+  "questions": [
+    {
+      "number": 31,
+      "prompt": "What is true of the agreement between the NHS and DeepMind?",
+      "options": {
+        "A": "It caused conflicts among tech giants.",
+        "B": "It failed to pay due attention to patients’ rights.",
+        "C": "It fell short of the latter’s expectations.",
+        "D": "It put both sides into a dangerous situation."
+      }
+    },
+    {
+      "number": 32,
+      "prompt": "The NHS trust responded to Denham’s verdict with",
+      "options": {
+        "A": "empty promises.",
+        "B": "tough resistance.",
+        "C": "necessary adjustments.",
+        "D": "sincere apologies."
+      }
+    },
+    {
+      "number": 33,
+      "prompt": "The author argues in Paragraph 2 that",
+      "options": {
+        "A": "privacy protection must be secured at all costs.",
+        "B": "leaking patients’ data is worse than selling it.",
+        "C": "making profits from patients’ data is illegal.",
+        "D": "the value of data comes from the processing of it."
+      }
+    },
+    {
+      "number": 34,
+      "prompt": "According to the last paragraph, the real worry arising from this deal is",
+      "options": {
+        "A": "the vicious rivalry among big pharmas.",
+        "B": "the ineffective enforcement of privacy law.",
+        "C": "the uncontrolled use of new software.",
+        "D": "the monopoly of big data by tech giants."
+      }
+    },
+    {
+      "number": 35,
+      "prompt": "The author’s attitude toward the application of AI to healthcare is",
+      "options": {
+        "A": "ambiguous.",
+        "B": "cautious.",
+        "C": "appreciative.",
+        "D": "contemptuous."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 432,
+    "paragraphs": 4,
+    "source_token_count": 431,
+    "final_token_count": 431,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

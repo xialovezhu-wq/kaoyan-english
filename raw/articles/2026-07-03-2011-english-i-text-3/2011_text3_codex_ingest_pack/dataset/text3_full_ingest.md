@@ -1,0 +1,250 @@
+# 2011 考研英语一 Reading Text 3｜Codex 入库包
+> 范围：仅限 2011 年考研英语一第三篇阅读 Text 3。
+> 可见性规则：本文件含答案与解析。初次练习时不得向学习者展示答案、解析、错项分析；仅在学习者明确要求复盘或提交答案后开放。
+
+## 元数据
+- 创建时间（UTC）：2026-07-02T08:22:14.942551+00:00
+- 题目：Text 3 新媒介给营销传播带来的机遇和风险
+- 来源说明：McKinsey Quarterly, 2010-09, Beyond Paid Media: Marketing’s New Vocabulary（据上传解析 PDF）。
+
+## 文章原文（Clean English）
+
+### P1
+The rough guide to marketing success used to be that you got what you paid for. No longer. While traditional “paid” media – such as television commercials and print advertisements – still play a major role, companies today can exploit many alternative forms of media. Consumers passionate about a product may create “earned” media by willingly promoting it to friends, and a company may leverage “owned” media by sending e-mail alerts about products and sales to customers registered with its Web site. The way consumers now approach the process of making purchase decisions means that marketing’s impact stems from a broad range of factors beyond conventional paid media.
+
+### P2
+Paid and owned media are controlled by marketers promoting their own products. For earned media, such marketers act as the initiator for users’ responses. But in some cases, one marketer’s owned media become another marketer’s paid media – for instance, when an e-commerce retailer sells ad space on its Web site. We define such sold media as owned media whose traffic is so strong that other organizations place their content or e-commerce engines within that environment. This trend, which we believe is still in its infancy, effectively began with retailers and travel providers such as airlines and hotels and will no doubt go further. Johnson & Johnson, for example, has created BabyCenter, a stand-alone media property that promotes complementary and even competitive products. Besides generating income, the presence of other marketers makes the site seem objective, gives companies opportunities to learn valuable information about the appeal of other companies’ marketing, and may help expand user traffic for all companies concerned.
+
+### P3
+The same dramatic technological changes that have provided marketers with more (and more diverse) communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways. Such hijacked media are the opposite of earned media: an asset or campaign becomes hostage to consumers, other stakeholders, or activists who make negative allegations about a brand or product. Members of social networks, for instance, are learning that they can hijack media to apply pressure on the businesses that originally created them.
+
+### P4
+If that happens, passionate consumers would try to persuade others to boycott products, putting the reputation of the target company at risk. In such a case, the company’s response may not be sufficiently quick or thoughtful, and the learning curve has been steep. Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign, which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg.
+
+## 中文参考译文
+
+### P1
+营销成功的大致准则曾经是：你的花费物有所值。如今已不再如此。虽然传统的“付费”媒介——如电视广告和平面广告——仍然发挥主要作用，但今天的企业还可以利用许多替代性媒介。热衷于某一产品的消费者可能会通过主动向朋友推荐该产品来创造“赢得（口碑）”媒介；企业也可以通过向在其网站注册的消费者发送产品和促销信息邮件来利用“自有”媒介。如今消费者做购买决策的方式表明，营销影响力来自传统付费媒介之外的广泛因素。
+
+### P2
+付费媒介和自有媒介由推销自己产品的营销者控制。对于赢得媒介，这些营销者只是用户反应的发起者。但在某些情况下，一个营销者的自有媒介会成为另一个营销者的付费媒介——例如，一个电子商务零售商在自己的网站上出售广告空间。我们把这种“出售媒介”定义为一种自有媒介：它的流量强到足以让其他机构把自己的内容或电子商务引擎放入该环境中。我们认为这种趋势仍处在初期，它实际上始于零售商和航空公司、酒店等旅游服务提供商，并且必将继续发展。比如，强生创建了 BabyCenter，这是一个独立的媒介资产，用于推广互补性甚至竞争性产品。除产生收入外，其他营销者的存在会使网站显得客观，也给企业机会了解其他公司营销吸引力的宝贵信息，并可能帮助相关各方扩大用户流量。
+
+### P3
+同样是这些重大的技术变革，在给营销者带来更多且更多样的传播选择的同时，也增加了一种风险：充满激情的消费者会以更快、更可见、破坏性更强的方式表达意见。这种“劫持媒介”是赢得媒介的反面：一种资产或一次活动会被消费者、其他利益相关者或激进分子当作人质，用来对某个品牌或产品发表负面指控。例如，社交网络成员正在意识到，他们可以劫持媒介，对最初创建这些媒介的企业施压。
+
+### P4
+如果这种情况发生，充满激情的消费者会试图说服他人抵制产品，从而危及目标公司的声誉。在这种情况下，公司的回应可能不够迅速或周到，而学习曲线已经很陡峭。比如，丰田汽车在当年早些时候的召回危机中，通过一次相对迅速且精心组织的社交媒体回应活动缓解了部分损害；该活动包括在 Twitter 和社会新闻网站 Digg 等平台上与消费者直接互动的努力。
+
+## 段落与句际解析
+
+### P1｜lead_and_main_claim
+**句际逻辑：**
+- S1-S2 用 used to be / No longer 构成今昔对比：旧规则是“花钱买到相应效果”，新情形不再完全由付费媒介决定。
+- S3 让步：传统 paid media 仍重要，但 alternative forms of media 进入营销体系。
+- S4 用并列结构介绍两种新媒介：earned media 由热情消费者主动推荐生成；owned media 由企业自有渠道触达注册用户。
+- S5 总结主旨：消费者决策路径变化使营销影响来自 broader range of factors，而不是 conventional paid media 单一渠道。
+**核心信息：**
+- 今昔对比
+- paid / earned / owned media 三类媒介的初步界定
+- 全文主旨句：marketing’s impact stems from a broad range of factors beyond conventional paid media
+**词汇/概念：**
+- paid media: 付费媒介，如电视广告和平面广告
+- earned media: 赢得/口碑媒介，由消费者主动推荐产生
+- owned media: 自有媒介，企业自建并可控制的沟通渠道
+- leverage: 利用，充分发挥作用
+- stem from: 源自，是……的结果
+
+### P2｜definition_of_sold_media_and_opportunities
+**句际逻辑：**
+- S1-S2 对比三类基本媒介与营销者的关系：paid/owned 可控，earned 只能由营销者发起、由用户响应发展。
+- S3 用转折引出 sold media 的衍生关系：A 的 owned media 可以成为 B 的 paid media。
+- S4 给出 sold media 的定义，核心条件是 traffic is so strong。
+- S5 说明 sold media 仍处于 infancy，但趋势会 go further。
+- S6-S7 用 Johnson & Johnson 的 BabyCenter 举例，说明 sold media 既能产生收入，也能增强客观感、学习机会和用户流量。
+**核心信息：**
+- sold media = 强流量 owned media 出售给其他营销者后形成的媒介
+- sold media 的特征是 strong traffic
+- 出售媒介给营销者带来机会
+**词汇/概念：**
+- initiator: 发起者
+- sold media: 出售媒介；由强流量自有媒介出售广告空间衍生
+- traffic: 用户访问量/流量
+- in its infancy: 处在萌芽/初期阶段
+- stand-alone media property: 独立媒介资产
+- complementary and competitive products: 互补性和竞争性产品
+
+### P3｜definition_of_hijacked_media_and_risks
+**句际逻辑：**
+- S1 与前两段形成转折：同样的技术变革既创造更多传播选择，也放大消费者负面发声的风险。
+- S2 定义 hijacked media：它是 earned media 的反面，企业资产或营销活动被消费者等用作施压工具。
+- S3 用 social networks 举例：原本由企业创建的媒介可能被用户反向利用。
+**核心信息：**
+- hijacked media 是 earned media 的反面/对立衍生
+- 负面意见更快、更可见、更具破坏性
+- 企业原本创建的媒介可能被反向施压
+**词汇/概念：**
+- voice their opinions: 发表意见
+- hijacked media: 劫持媒介；消费者等将企业资产/活动作为施压工具
+- stakeholders: 利益相关者
+- activists: 激进分子
+- negative allegations: 负面指控/负面评论
+- apply pressure on: 向……施加压力
+
+### P4｜corporate_response_to_hijacked_media
+**句际逻辑：**
+- S1 说明劫持媒介的后果：boycott products → reputation at risk。
+- S2 指出企业应对难点：反应必须足够快且周到；learning curve has been steep 表示企业在高压中快速学习应对。
+- S3 用 Toyota Motor 举例，说明有效社交媒体回应可缓解危机损害。
+**核心信息：**
+- 劫持媒介会引发抵制和声誉风险
+- 企业回应需要 quick and thoughtful
+- Toyota 是有效回应 hijacked media 的例子
+**词汇/概念：**
+- boycott: 抵制
+- put ... at risk: 使……处于风险中
+- learning curve: 学习曲线；在短时间内掌握新应对能力的难度/进度
+- alleviate: 减轻，缓解
+- well-orchestrated: 精心策划/组织良好的
+- engage with consumers: 与消费者互动
+
+## 媒介类型表
+
+### paid media｜付费媒介
+- 定义：企业付费购买空间或时段以宣传产品。
+- 例子：television commercials; print advertisements; website ad space
+- 文中作用：传统媒介，仍重要，但不再是唯一决定因素。
+
+### owned media｜自有媒介
+- 定义：企业自建并控制的沟通渠道。
+- 例子：company website; email alerts; product catalogs
+- 文中作用：可被企业用于推销自身产品，也可在流量足够大时衍生为 sold media。
+
+### earned media｜赢得/口碑媒介
+- 定义：消费者因热情主动推荐或传播而形成的媒介。
+- 例子：users recommending products to friends; reviews/comments/ratings
+- 文中作用：可带来正向口碑，也存在被反向利用为 hijacked media 的风险。
+
+### sold media｜出售媒介
+- 定义：流量强大的 owned media 出售空间给其他营销者后形成的媒介。
+- 例子：e-commerce retailer selling ad space; BabyCenter
+- 文中作用：给营销者带来收入、客观感、学习机会和流量扩展。
+
+### hijacked media｜劫持媒介
+- 定义：企业资产或活动被消费者/利益相关者/激进分子用作施压工具，发布负面指控。
+- 例子：social-network users pressuring businesses; Toyota recall-crisis response context
+- 文中作用：给企业带来声誉风险，需要迅速、周到的社交媒体回应。
+
+## 题目（含答案与解析，默认隐藏）
+
+### Q31
+Consumers may create “earned” media when they are ____.
+
+- [A] obsessed with online shopping at certain Web sites.（着迷于在某些网站进行网络购物。）
+- [B] inspired by product-promoting e-mails sent to them.（受到发送给他们的产品促销邮件的启发。）
+- [C] eager to help their friends promote quality products.（渴望帮助朋友推销优质产品。）
+- [D] enthusiastic about recommending their favorite products.（热衷于推荐自己最喜欢的产品。）
+
+<details><summary>答案与解析（仅复盘时展开）</summary>
+
+- 正确答案：D
+- 定位：P1 S4: Consumers passionate about a product may create “earned” media by willingly promoting it to friends.
+- 解析：题干询问 earned media 的生成条件。原句中的 passionate about a product 与 willingly promoting it to friends 表明：消费者因喜欢某产品而主动推荐，便生成赢得/口碑媒介。D 用 enthusiastic about recommending their favorite products 对原句进行同义概括。
+- 错项分析：
+  - A: 把 Web sites 和消费者热情揉在一起，但原文中的网站注册、邮件提醒属于 owned media，不是 earned media。
+  - B: product-promoting e-mails 是企业利用 owned media 的方式，不是消费者创造 earned media 的条件。
+  - C: 原文是消费者向朋友推荐产品，不是帮助朋友推销产品；动作方向被扭曲。
+- 考点：细节定位, 同义改写, 媒介定义辨析
+
+</details>
+
+### Q32
+According to Paragraph 2, sold media feature ____.
+
+- [A] a safe business environment.（安全的商业环境。）
+- [B] random competition.（随机的竞争。）
+- [C] strong user traffic.（强大的用户访问量。）
+- [D] flexibility in organization.（组织形式灵活。）
+
+<details><summary>答案与解析（仅复盘时展开）</summary>
+
+- 正确答案：C
+- 定位：P2 S4: sold media = owned media whose traffic is so strong that other organizations place content or e-commerce engines there.
+- 解析：第二段对 sold media 的定义明确包含核心条件：原本的 owned media 拥有足够强的 traffic，强到可以吸引其他组织把内容或电商引擎放入其中。因此其特征是 strong user traffic。
+- 错项分析：
+  - A: that environment 指网站/媒介环境，不等于安全商业环境；safe 没有依据。
+  - B: competitive products 只出现在 BabyCenter 个例中，不能概括 sold media 的总体特征；random competition 更无依据。
+  - D: P2 的重点是流量与出售广告空间，不是组织形式灵活。
+- 考点：定义句, 段落核心信息, 总体特征 vs 个例特征
+
+</details>
+
+### Q33
+The author indicates in Paragraph 3 that earned media ____.
+
+- [A] invite constant conflicts with passionate consumers.（招致与狂热消费者的不断冲突。）
+- [B] can be used to produce negative effects in marketing.（可能被用于制造营销中的负面效应。）
+- [C] may be responsible for fiercer competition.（可能是竞争愈演愈烈的原因。）
+- [D] deserve all the negative comments about them.（理应受到所有对其负面评论。）
+
+<details><summary>答案与解析（仅复盘时展开）</summary>
+
+- 正确答案：B
+- 定位：P3 S2-S3: hijacked media are the opposite of earned media; social network members can hijack media to apply pressure on the businesses that created them.
+- 解析：第三段并非直接重复 earned media 的正面作用，而是通过 hijacked media 的定义说明：同样由消费者参与形成的媒介可能从正向口碑转为负向施压。hijacked media 是 earned media 的反面，说明 earned media 所依赖的消费者传播机制也可能被反向利用，产生营销负面效果。
+- 错项分析：
+  - A: 冲突是消费者与品牌/企业之间的，不是消费者与 earned media 本身之间。
+  - C: campaign 在文中指商业活动/营销活动，不是 competition；竞争加剧不是本段主旨。
+  - D: negative allegations 是针对 brand or product，不是针对 earned media；deserve all 也过度绝对。
+- 考点：暗示题, 概念关系, 正反衍生关系
+
+</details>
+
+### Q34
+Toyota Motor’s experience is cited as an example of ____.
+
+- [A] responding effectively to hijacked media.（有效回应劫持媒介。）
+- [B] persuading customers into boycotting products.（说服顾客抵制产品。）
+- [C] cooperating with supportive consumers.（与给予支持的消费者合作。）
+- [D] taking advantage of hijacked media.（利用劫持媒介。）
+
+<details><summary>答案与解析（仅复盘时展开）</summary>
+
+- 正确答案：A
+- 定位：P4 S2-S3: company response should be quick/thoughtful; Toyota alleviated damage with a quick, well-orchestrated social-media response campaign.
+- 解析：Toyota 的例子紧跟在公司应对 hijacked media 风险的论点之后。其 social-media response campaign 相对迅速且组织良好，并缓解了召回危机造成的部分损害，因此例证的是企业对劫持媒介/社交媒体危机的有效回应。
+- 错项分析：
+  - B: boycott 是消费者可能发起的行为，不是 Toyota 的行为。
+  - C: 原文只说 Toyota 与 consumers directly engage，并未说这些消费者是 supportive。
+  - D: Toyota 是危机受害方并进行回应，不是在利用劫持媒介谋利。
+- 考点：例证题, 论点论据关系, 上下文衔接
+
+</details>
+
+### Q35
+Which of the following is the text mainly about?
+
+- [A] Alternatives to conventional paid media.（传统付费媒介的替代选择。）
+- [B] Conflict between hijacked and earned media.（劫持媒介和赢得（口碑）媒介的冲突。）
+- [C] Dominance of hijacked media.（劫持媒介的支配地位。）
+- [D] Popularity of owned media.（自有媒介的流行。）
+
+<details><summary>答案与解析（仅复盘时展开）</summary>
+
+- 正确答案：A
+- 定位：全文。P1 总领：marketing’s impact stems from a broad range of factors beyond conventional paid media；P2 讲 sold media 机遇；P3-P4 讲 hijacked media 风险与应对。
+- 解析：全文以付费媒介不再单独决定营销效果开篇，随后依次介绍 earned/owned/sold/hijacked media 及其机会和风险。文章核心不是某一种媒介的流行或支配，而是 conventional paid media 之外的多种替代/补充媒介对营销的影响。
+- 错项分析：
+  - B: earned 与 hijacked 的关系只在第三段出现，且更准确说是正反衍生，不是全文主旨。
+  - C: hijacked media 占据后半部分，但 dominance 无依据，也以偏概全。
+  - D: owned media 是全文涉及的概念之一，但不是中心；popularity 无依据。
+- 考点：主旨题, 篇章结构, 以偏概全干扰
+
+</details>
+
+## 全文结构与主旨
+- P1: 今昔对比，总领全文：传统 paid media 不再是唯一影响因素，现代营销来自多种媒介合力。
+- P2: 从 paid/owned/earned 的关系引出 sold media，重点说明新媒介带来的机会。
+- P3: 转入风险，定义 hijacked media，并说明其与 earned media 的正反关系。
+- P4: 说明劫持媒介造成的抵制与声誉风险，并以 Toyota 例证企业应快速、周到回应。
+
+**核心主旨：** Modern marketing is shaped by alternatives and complements to conventional paid media, including earned, owned, sold, and hijacked media; these new media bring both opportunities and risks.

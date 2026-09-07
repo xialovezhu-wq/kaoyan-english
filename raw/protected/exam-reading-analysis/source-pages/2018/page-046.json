@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P046",
+  "year": 2018,
+  "pdf_page": 46,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017662428077865888,
+      "text": "词汇注释与难句分析•",
+      "width": 0.20770877816253142,
+      "x": 0.39186295774956936,
+      "y": 0.9142441865364429
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0149156939040207,
+      "text": "①measure［'mese］n. 议案",
+      "width": 0.1905781470566817,
+      "x": 0.06209850760120948,
+      "y": 0.8923476003984514
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883462037573,
+      "text": "⑦ transformLtreens fom］v.改造，改革",
+      "width": 0.28265523819349014,
+      "x": 0.5267666008176018,
+      "y": 0.8909883720407835
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014540538713625817,
+      "text": "②bareLbeaJa.勉强的",
+      "width": 0.16274089339130468,
+      "x": 0.062098504749743794,
+      "y": 0.873540856324079
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013087050614808415,
+      "text": "• 经典搭配",
+      "width": 0.10492504987844309,
+      "x": 0.5289079236903288,
+      "y": 0.8735408559872199
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01491569390402081,
+      "text": "③omission［ou'mi/on］n.遗漏",
+      "width": 0.21413275753334876,
+      "x": 0.06209850078364687,
+      "y": 0.8573281451356823
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883462037573,
+      "text": "①be bound to 一定，肯定",
+      "width": 0.19271948323878907,
+      "x": 0.5267665979523399,
+      "y": 0.8546511627747951
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0149156939040207,
+      "text": "④eliminate［iliminett］v.消除，根除",
+      "width": 0.26766594326974785,
+      "x": 0.062098507139215955,
+      "y": 0.8385214006972046
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883462037573,
+      "text": "②amount to（意义、效果、价值等方面）等同，接近",
+      "width": 0.37259100773594345,
+      "x": 0.526766590907189,
+      "y": 0.8372093023968882
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01491569390402081,
+      "text": "⑤embarrassing［Im'beerosig］a.令人难堪的",
+      "width": 0.3169164712296845,
+      "x": 0.062098505605714574,
+      "y": 0.8210116730291162
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014587668902524498,
+      "text": "③keep...afloat 使⋯⋯（经济上）维持下去",
+      "width": 0.32334045060050187,
+      "x": 0.526766601493111,
+      "y": 0.81971465647675
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0149156939040207,
+      "text": "⑥ collapse［ko'leeps］n.（系统或制度等的）崩溃；瓦解",
+      "width": 0.3961455890371056,
+      "x": 0.06209851565275332,
+      "y": 0.8035019453392256
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01491569390402081,
+      "text": "④collective bargaining（工会与雇主的）集体谈判",
+      "width": 0.3683083353717286,
+      "x": 0.526766605822854,
+      "y": 0.8022049288190437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011884294131386586,
+      "text": "If it clears the House, this measure would still have to get through the Senate— where someone is bound",
+      "width": 0.8394003990275454,
+      "x": 0.10492505975817609,
+      "y": 0.7671854733961636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013092706484862604,
+      "text": "to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not",
+      "width": 0.8822269476166648,
+      "x": 0.0642398526013748,
+      "y": 0.7470817119025339
+    },
+    {
+      "confidence": 1,
+      "height": 0.011707085734366185,
+      "text": "comprehensive reform.",
+      "width": 0.1841541676858643,
+      "x": 0.0642398349472177,
+      "y": 0.7295719842132422
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883462037573,
+      "text": "结构切分：",
+      "width": 0.08993576224857716,
+      "x": 0.10278372551382706,
+      "y": 0.7093023257523698
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01491569390402081,
+      "text": "句子主干：",
+      "width": 0.08137044669565233,
+      "x": 0.06209850324032515,
+      "y": 0.6815823608681878
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418547119535,
+      "text": "this measure",
+      "width": 0.09421841273116335,
+      "x": 0.15203426101486095,
+      "y": 0.6845930232119053
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883462037573,
+      "text": "would still have to get through the Senate",
+      "width": 0.3019271763059423,
+      "x": 0.3169165000161937,
+      "y": 0.6802325583416556
+    },
+    {
+      "confidence": 1,
+      "height": 0.013252947890186495,
+      "text": "主语",
+      "width": 0.04496787747735048,
+      "x": 0.17344753821528625,
+      "y": 0.6640726331849524
+    },
+    {
+      "confidence": 1,
+      "height": 0.013252948508652218,
+      "text": "谓语",
+      "width": 0.03854389810653308,
+      "x": 0.4496788006867152,
+      "y": 0.6640726326573295
+    },
+    {
+      "confidence": 1,
+      "height": 0.015938730400669288,
+      "text": "条件状语从句",
+      "width": 0.1183516464087521,
+      "x": 0.10685109523668225,
+      "y": 0.6371244519130362
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627303715964379,
+      "text": "定语从句",
+      "width": 0.0749464673248349,
+      "x": 0.5096359735966832,
+      "y": 0.6348897534212956
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013120983979736045,
+      "text": "If it clears the House，",
+      "width": 0.16059957179694967,
+      "x": 0.17773019068075435,
+      "y": 0.6147859924079028
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013087050614808415,
+      "text": "-where someone is bound to point out",
+      "width": 0.28051390201138265,
+      "x": 0.4047109318851008,
+      "y": 0.6133720933979718
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014781121923147289,
+      "text": "宾语从句",
+      "width": 0.0750495735591502,
+      "x": 0.6744666475717572,
+      "y": 0.5972606017068867
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011833393156296501,
+      "text": "that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.",
+      "width": 0.8137044815442759,
+      "x": 0.06852250512365035,
+      "y": 0.5828488377323885
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01625984095413857,
+      "text": "功能注释：本句主干为 this measure would still have to get through the Senate。条件状语从句 If it",
+      "width": 0.8415417643851578,
+      "x": 0.10492505529594967,
+      "y": 0.5537790697969676
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0176454617046351,
+      "text": "clears the House 回应提案（it=this measure）目前进展“正在众议院（the House）接受审议”。破折号后内",
+      "width": 0.8800856406100621,
+      "x": 0.062098513977624066,
+      "y": 0.5348837211585359
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017734066212378385,
+      "text": "容修饰 the Senate，以“参议院必会有人提出质疑”侧面凸显“提案缺陷明显”，其中 that 宾语从句为 it",
+      "width": 0.8800856406100621,
+      "x": 0.0642398395450759,
+      "y": 0.5159883723213265
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837217932081,
+      "text": "amounts to A not B 取舍判断结构。",
+      "width": 0.3040685124880498,
+      "x": 0.062098508602513286,
+      "y": 0.49709302322477766
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017711443350627465,
+      "text": "•语篇分析•",
+      "width": 0.13276230354382018,
+      "x": 0.42826553049789723,
+      "y": 0.472114137700139
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837217932081,
+      "text": "第四段作者发起评判，指出法案缺陷、批驳立法者。关键词：① bare,bare minimum； ② getting",
+      "width": 0.8415417643851578,
+      "x": 0.10492505529594967,
+      "y": 0.44476744188999073
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012798851720708493,
+      "text": "frightened。",
+      "width": 0.09451754918289913,
+      "x": 0.06409026298963387,
+      "y": 0.42819359772636245
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837217932081,
+      "text": "①句概述指出该法案作用极其有限、并非全面邮政改革。If it..this measure would still have",
+      "width": 0.8415417060341479,
+      "x": 0.10492507436515314,
+      "y": 0.40843023271484546
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883462037573,
+      "text": "to.（it 与 this measure 同指）以让步假设语气（假使⋯•⋯提案还必须⋯⋯回应上段②句 moving",
+      "width": 0.884368312974277,
+      "x": 0.06209850981371778,
+      "y": 0.3909883722588068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883462037462,
+      "text": "through the House，说明立法进程，并暗示提案前景未卜：即便能在众议院获批准，还必须经过参议院一",
+      "width": 0.884368312974277,
+      "x": 0.06209850981371778,
+      "y": 0.3720930234579347
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883462037573,
+      "text": "关。注：clear 与 get through 此处均为专用表述，两者近义：clear 意力 to give or get official permission for",
+      "width": 0.8822269476166648,
+      "x": 0.06423985407175319,
+      "y": 0.35319767460619056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016308856226900037,
+      "text": "something to be done “被批准，获许可”；get through 意为 if a new law gets through parliament, it is",
+      "width": 0.884368312974277,
+      "x": 0.06209850760279702,
+      "y": 0.33398184153427213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01491569390402081,
+      "text": "officially approved “［新法律］经由⋯通过”（同时有其另外一层含义 to come successfully to the end of an",
+      "width": 0.8822269476166648,
+      "x": 0.06209852644862683,
+      "y": 0.31517509739193583
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01752292383196452,
+      "text": "unpleasant experience or period of time“艰难地挣扎、熬过［一段困难时期］”）。",
+      "width": 0.657387552936036,
+      "x": 0.062098517723630696,
+      "y": 0.2950581397195824
+    },
+    {
+      "confidence": 1,
+      "height": 0.01761152772124186,
+      "text": "破折号之后推测提案在参议院必遭异议，由此揭示法案明显缺陷、暗示作者态度“不希望提案就此",
+      "width": 0.8394003990275454,
+      "x": 0.10278374588237277,
+      "y": 0.2761627912748148
+    },
+    {
+      "confidence": 1,
+      "height": 0.017543660372920766,
+      "text": "通过”（注：两院的立法规则不同，众议院强调“多数决定”原则；而参议院突出“一致同意”原则，参议员个",
+      "width": 0.8800856406100621,
+      "x": 0.06209851253758126,
+      "y": 0.2587209308533034
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837217932081,
+      "text": "人可以阻止立法进程）。",
+      "width": 0.20128479879171396,
+      "x": 0.06209849794889682,
+      "y": 0.2398255812795257
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016267381908055656,
+      "text": "where someone is bound to point out（be bound to 意“很有可能，肯定会”）以“极其肯定的推测语",
+      "width": 0.8394003990275454,
+      "x": 0.10278373213504972,
+      "y": 0.22238372078533963
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837217932081,
+      "text": "气”侧面说明“法案缺陷显而易见”。that 从句以取舍判断结构 it amounts to A, not B（amount to 意力“等",
+      "width": 0.8779443336034596,
+      "x": 0.06423983090399053,
+      "y": 0.20348837212254878
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837217932081,
+      "text": "同于，根本就是”）直击法案缺陷——治标不治本：the bare, bare minimum necessary to...（中心词为 the",
+      "width": 0.8822269476166646,
+      "x": 0.06423983432871283,
+      "y": 0.18459302341251982
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837217932081,
+      "text": "minimum;keep...afloat 意为“使不欠债，勉强维持”）以四重强调（最低值一勉强维持邮局运转的最低值",
+      "width": 0.8800856406100622,
+      "x": 0.06209850493586836,
+      "y": 0.1656976741756011
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837217932081,
+      "text": "一刚刚够勉强维持邮局运转的最低值一刚刚，刚刚够勉强维持邮局运转的最低值）凸显法案仅为“勉强",
+      "width": 0.8822269476166646,
+      "x": 0.059957199799804496,
+      "y": 0.14825581411019428
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01621271076524,
+      "text": "维持邮局运转的最低配”；comprehensive reform（全面彻底的改革）则是改变 USPS现状、使其得以摆脱",
+      "width": 0.8800856406100621,
+      "x": 0.06209849851723895,
+      "y": 0.1277561606714226
+    },
+    {
+      "confidence": 1,
+      "height": 0.01621271076524,
+      "text": "困境的正确途径，也是当前提案未能达到的高度。",
+      "width": 0.41755886333166525,
+      "x": 0.06423984544872828,
+      "y": 0.10894941618570653
+    },
+    {
+      "confidence": 1,
+      "height": 0.01312286906359883,
+      "text": "46",
+      "width": 0.023554603182790845,
+      "x": 0.07708779474158102,
+      "y": 0.07263294442433066
+    }
+  ],
+  "vision_ocr_text": "词汇注释与难句分析•\n①measure［'mese］n. 议案\n⑦ transformLtreens fom］v.改造，改革\n②bareLbeaJa.勉强的\n• 经典搭配\n③omission［ou'mi/on］n.遗漏\n①be bound to 一定，肯定\n④eliminate［iliminett］v.消除，根除\n②amount to（意义、效果、价值等方面）等同，接近\n⑤embarrassing［Im'beerosig］a.令人难堪的\n③keep...afloat 使⋯⋯（经济上）维持下去\n⑥ collapse［ko'leeps］n.（系统或制度等的）崩溃；瓦解\n④collective bargaining（工会与雇主的）集体谈判\nIf it clears the House, this measure would still have to get through the Senate— where someone is bound\nto point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not\ncomprehensive reform.\n结构切分：\n句子主干：\nthis measure\nwould still have to get through the Senate\n主语\n谓语\n条件状语从句\n定语从句\nIf it clears the House，\n-where someone is bound to point out\n宾语从句\nthat it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.\n功能注释：本句主干为 this measure would still have to get through the Senate。条件状语从句 If it\nclears the House 回应提案（it=this measure）目前进展“正在众议院（the House）接受审议”。破折号后内\n容修饰 the Senate，以“参议院必会有人提出质疑”侧面凸显“提案缺陷明显”，其中 that 宾语从句为 it\namounts to A not B 取舍判断结构。\n•语篇分析•\n第四段作者发起评判，指出法案缺陷、批驳立法者。关键词：① bare,bare minimum； ② getting\nfrightened。\n①句概述指出该法案作用极其有限、并非全面邮政改革。If it..this measure would still have\nto.（it 与 this measure 同指）以让步假设语气（假使⋯•⋯提案还必须⋯⋯回应上段②句 moving\nthrough the House，说明立法进程，并暗示提案前景未卜：即便能在众议院获批准，还必须经过参议院一\n关。注：clear 与 get through 此处均为专用表述，两者近义：clear 意力 to give or get official permission for\nsomething to be done “被批准，获许可”；get through 意为 if a new law gets through parliament, it is\nofficially approved “［新法律］经由⋯通过”（同时有其另外一层含义 to come successfully to the end of an\nunpleasant experience or period of time“艰难地挣扎、熬过［一段困难时期］”）。\n破折号之后推测提案在参议院必遭异议，由此揭示法案明显缺陷、暗示作者态度“不希望提案就此\n通过”（注：两院的立法规则不同，众议院强调“多数决定”原则；而参议院突出“一致同意”原则，参议员个\n人可以阻止立法进程）。\nwhere someone is bound to point out（be bound to 意“很有可能，肯定会”）以“极其肯定的推测语\n气”侧面说明“法案缺陷显而易见”。that 从句以取舍判断结构 it amounts to A, not B（amount to 意力“等\n同于，根本就是”）直击法案缺陷——治标不治本：the bare, bare minimum necessary to...（中心词为 the\nminimum;keep...afloat 意为“使不欠债，勉强维持”）以四重强调（最低值一勉强维持邮局运转的最低值\n一刚刚够勉强维持邮局运转的最低值一刚刚，刚刚够勉强维持邮局运转的最低值）凸显法案仅为“勉强\n维持邮局运转的最低配”；comprehensive reform（全面彻底的改革）则是改变 USPS现状、使其得以摆脱\n困境的正确途径，也是当前提案未能达到的高度。\n46",
+  "pdf_text_layer": "：：：~：词汇萍在当难角学玩＜ 1'\n( measure[' me3a J η．议案                                  Ii   ( transform[ trrens Ifo:m] v . 改造，改革\n② bare[ bea]a . 勉强的                                      >    ·经典搭配\n( omission[ au Im归n]n. 遗漏                                (\\   ( be bound to 一定 ， 肯定\n( eliminate[ 1111m\n                川me1t]v. 'I肖除，根除                         i    ② a mo u 川 to （意义 、 效果、价值等方面）等同，接近\n( embarrassir\n@ collapse [ka 1lreps］ η．（系统或制度等的）崩溃；瓦解\n\n\n\n      If it clears the House , this measure would still have to get through the Senate     where someone is bound\nto point out that it amounts to the bare , bare minimum necessary to keep the Postal Service afloat, not\ncomprehensive reform.\n      结构切分：\n\n句子主干： I this measure\n               主语\n\n      条件状语从句                                                  定语从句\n\n               If it clears 由e House,\n                                                                                      UM\n\n出at it amounts to 由eb缸巴， bare minimum necessary to ke巳p the Postal Service afloat, not comprehensive refo口n .\n\n\n      功能注释： 本句主干为 t hi s measure would still have to get t hrough t he Senate 。 条件状语从句 If lt\nclears the H o u se 回应提案（ it =t hi s meas ur e ）目前 进 展“正在众议院（ the H o u se ）接受审议”。破 折 号后 内\n容修饰 the Se nate ， 以“ 参议院 必 会有 人提出质疑”侧面凸显 “提案缺陷明显”，其中 t hat 宾语从句为 it\namo unts to A not B 取舍判断结构。\n\n                                               ＞：：语毒分析：• ： ： ／\n      第四段作者发起评判，指出法案缺陷、批驳立法者。关键词： ① bare, bare minimum ; (                                                      getting\nfrightened 。\n\n      ① 旬概述指出该法案件用极其有限、并非全面邮政改革。 If it. . . this m easure would still have\nto ... (it 与 th i s m eas ure 同指）以让步假设语 气（假使 ……提 案还必须 …… ）回应上段②句 moving\nthrough the H ouse ，说明立法进程，并暗示提案 前 景未 忆即便能在 众议院获 批 准，还 必须 经 过 参议 院 一\n关。注： clear 与 get t hrough 此处均为 专 用 表述，两者 近义： cl ea r 意为 to give or get official permi ssion for\nsom ething to be done “被 批 准，获许可”； get t hrough 意为 if a new law ge ts t hrough parliament , it is\nofficially approved “［新法律］经由 …通过”（同时有其 另外一层含义 to com e s uccessfu lly to the end of a n\nunpl easant experience or period of time“艰难地挣扎、熬过 〔一段 困难时期 ］ 勺 。\n      破折号之后推测提案在参议院必遭异议，由此揭示法案明显缺陷、暗示作者态度“不希望提案就此\n通过”（注：两院的 立法 规则不同，众议院强调“多数决定”原则；而参议院突出“－致同意”原则，参议员个\n人可以阻止立法进程） 。\n      where someone is bound to point out( be bound to 意为“很有可能，肯定会”）以“极其肯定的推测语\n气 ”侧面说明 “法案缺陷显 而 易见 ” 。 that 从句以取舍判断结构 it amo unts to A, not BC amo unt to 意为“等\n同于，根本就 是 ” ）直击法案缺陷一一治标不治本： th e bare, bare minimum necessary to ... （中心词为 the\nminimum; keep .. . a flo at 意为“使不欠债 ，勉强维持”）以四 重强调（最 低值 →勉强维持 邮 局运转 的 最 低值\n→刚刚够勉强维持邮局运转的最低值→刚刚，刚刚够勉强维持邮局运转的最低值）凸显法案仅为“勉强\n维持邮局运转的最低配”； comprehensive reform （ 全面 彻底的改 革） 则 是改变 USPS 现 状、使 其得 以 摆脱\n困境的正确途径，也是 当 前提案未能达到的高度 。\n\n\n 46",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 2133,
+    "pdf_text_character_count": 2661,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2016-T2",
+  "source_id": "RAW-ARTICLE-20260711-026",
+  "ingest_date": "2026-07-11",
+  "year": 2016,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 2,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2016年考研英语一真题.pdf",
+  "truth_pages": [
+    6,
+    7
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "analysis_page_range": "20-29",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2016/text-2.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2016/text-2.json",
+  "article_path": "articles/2026-07-11-2016-english-i-text-2.md",
+  "passage_paragraphs": [
+    "For the first time in history more people live in towns than in the country. In Britain this has had a curious result. While polls show Britons rate “the countryside” alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support.",
+    "A century ago Octavia Hill launched the National Trust not to rescue stylish houses but to save “the beauty of natural places for everyone forever.” It was specifically to provide city dwellers with spaces for leisure where they could experience “a refreshing air.” Hill’s pressure later led to the creation of national parks and green belts. They don’t make countryside any more, and every year concrete consumes more of it. It needs constant guardianship.",
+    "At the next election none of the big parties seem likely to endorse this sentiment. The Conservatives’ planning reform explicitly gives rural development priority over conservation, even authorising “off-plan” building where local people might object. The concept of sustainable development has been defined as profitable. Labour likewise wants to discontinue local planning where councils oppose development. The Liberal Democrats are silent. Only Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land. Its Campaign to Protect Rural England struck terror into many local Conservative parties.",
+    "The sensible place to build new houses, factories and offices is where people are, in cities and towns where infrastructure is in place. The London agents Stirling Ackroyd recently identified enough sites for half a million houses in the London area alone, with no intrusion on green belt. What is true of London is even truer of the provinces.",
+    "The idea that “housing crisis” equals “concreted meadows” is pure lobby talk. The issue is not the need for more houses but, as always, where to put them. Under lobby pressure, George Osborne favours rural new-build against urban renovation and renewal. He favours out-of-town shopping sites against high streets. This is not a free market but a biased one. Rural towns and villages have grown and will always grow. They do so best where building sticks to their edges and respects their character. We do not ruin urban conservation areas. Why ruin rural ones?",
+    "Development should be planned, not let rip. After the Netherlands, Britain is Europe’s most crowded country. Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living. There is no doubt of the alternative — the corrupted landscapes of southern Portugal, Spain or Ireland. Avoiding this rather than promoting it should unite the left and right of the political spectrum."
+  ],
+  "questions": [
+    {
+      "number": 26,
+      "prompt": "Britain’s public sentiment about the countryside",
+      "options": {
+        "A": "is not well reflected in politics.",
+        "B": "is fully backed by the royal family.",
+        "C": "didn’t start till the Shakespearean age.",
+        "D": "has brought much benefit to the NHS."
+      }
+    },
+    {
+      "number": 27,
+      "prompt": "According to Paragraph 2, the achievements of the National Trust are now being",
+      "options": {
+        "A": "largely overshadowed.",
+        "B": "properly protected.",
+        "C": "effectively reinforced.",
+        "D": "gradually destroyed."
+      }
+    },
+    {
+      "number": 28,
+      "prompt": "Which of the following can be inferred from Paragraph 3?",
+      "options": {
+        "A": "Labour is under attack for opposing development.",
+        "B": "The Conservatives may abandon “off-plan” building.",
+        "C": "Ukip may gain from its support for rural conservation.",
+        "D": "The Liberal Democrats are losing political influence."
+      }
+    },
+    {
+      "number": 29,
+      "prompt": "The author holds that George Osborne’s preference",
+      "options": {
+        "A": "shows his disregard for the character of rural areas.",
+        "B": "stresses the necessity of easing the housing crisis.",
+        "C": "highlights his firm stand against lobby pressure.",
+        "D": "reveals a strong prejudice against urban areas."
+      }
+    },
+    {
+      "number": 30,
+      "prompt": "In the last paragraph, the author shows his appreciation of",
+      "options": {
+        "A": "the size of population in Britain.",
+        "B": "the enviable urban lifestyle in Britain.",
+        "C": "the town-and-country planning in Britain.",
+        "D": "the political life in today’s Britain."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 446,
+    "paragraphs": 6,
+    "source_token_count": 453,
+    "final_token_count": 453,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

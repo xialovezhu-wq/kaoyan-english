@@ -1,0 +1,614 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2016-P011",
+  "year": 2016,
+  "pdf_page": 11,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "source_sha256": "63b5d02e83061120a264e052ec968f3f788e87e8672f239d6eddf1515c1d5171",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017638943807708807,
+      "text": "绍其新近立法内容：禁止雇用极瘦模特走T台；取缔鼓吹过度瘦削的网站。可见，“以超瘦为美”的标准",
+      "width": 0.8805970288599426,
+      "x": 0.034115137915444405,
+      "y": 0.9067796608108469
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "将会被重新界定，［A］正确。",
+      "width": 0.2345415775452244,
+      "x": 0.034115140687231406,
+      "y": 0.8895348836318371
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014627740156230917,
+      "text": "［命题解密］［A］是结合②③句对①句 its fashion industry has lost an absolute right to define physical",
+      "width": 0.8443496733277068,
+      "x": 0.07249466589478208,
+      "y": 0.8706395351388879
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "beauty做出的正确解读。",
+      "width": 0.20895521408285284,
+      "x": 0.034115144984159934,
+      "y": 0.8500651890649281
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "［B］曲解②句内容：法规禁止的是“时尚业雇用过瘦的T台模特（介词结构 on runways 修饰",
+      "width": 0.840085264829559,
+      "x": 0.07249468701866549,
+      "y": 0.8311603650735128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771723,
+      "text": "models）”，而非“模特在（当前的）T台上行走”。［C］将文中对象从“提倡极端节食的网站”偷换为“普通",
+      "width": 0.8805969705089329,
+      "x": 0.03198295363146136,
+      "y": 0.8109517603352447
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017601043024771834,
+      "text": "节食网站”，且“取締前者”大概率对后者有负面影响，“兴盛”含义恰恰相反。［D］过度推断①句内容：时",
+      "width": 0.8784648246108688,
+      "x": 0.03411512834843926,
+      "y": 0.7920469363023012
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "尚业“兴衰与否”与其“是否拥有定义美的绝对权”并无直接关联，选项过于武断。",
+      "width": 0.6780383837610541,
+      "x": 0.034115143258065556,
+      "y": 0.7731421121106281
+    },
+    {
+      "confidence": 1,
+      "height": 0.0176275730754748,
+      "text": "［技巧总结］当选项为完整的陈述性内容时，应对其分解：“名词性部分”往往取自原文，用于引导定",
+      "width": 0.8422174690786328,
+      "x": 0.07249468750226114,
+      "y": 0.752906976932524
+    },
+    {
+      "confidence": 1,
+      "height": 0.017618097879740557,
+      "text": "位；“描述或评论的谓语或修饰成分”是需要判断正误的内容。由于正确项不会偏离段落/文章主旨，据",
+      "width": 0.8805969705089327,
+      "x": 0.03411517180843311,
+      "y": 0.7340116280953146
+    },
+    {
+      "confidence": 1,
+      "height": 0.016304842340899572,
+      "text": "此可先对“名词部分”进行初步过滤，再逐一定位原文比对。本题中，［A］Physical beauty，［B］runways、",
+      "width": 0.8827291747580067,
+      "x": 0.0341151677915721,
+      "y": 0.7151162789503933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "［C］Websites about dieting、［D］the fashion industry 当中，［B］与［C］重心分别落在“T台”和“网站”上，涉",
+      "width": 0.8805970288599427,
+      "x": 0.03198294175339757,
+      "y": 0.6962190352892184
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "及细节但偏离主线，而LD」断然否定了时尚业前景，超出原文信息范围，故属于过度推断。",
+      "width": 0.7505330364745161,
+      "x": 0.034115151130190376,
+      "y": 0.6758720929341626
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627907236987034,
+      "text": "①",
+      "width": 0.01918976530290241,
+      "x": 0.10660980841997737,
+      "y": 0.6482558138233669
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019388563785279533,
+      "text": "Such measures have a couple of uplifting\"",
+      "width": 0.40533975342263684,
+      "x": 0.12570220824266545,
+      "y": 0.645179068221577
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "这些法令有几种积极的目的。它们",
+      "width": 0.31343282841815545,
+      "x": 0.5948827360467858,
+      "y": 0.6366279069772829
+    },
+    {
+      "confidence": 1,
+      "height": 0.010430247718383301,
+      "text": "motives.",
+      "width": 0.07036247034601681,
+      "x": 0.03411514097304701,
+      "y": 0.6277705344671587
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175342014,
+      "text": "② They suggest beauty should not be defined by",
+      "width": 0.4179104281657056,
+      "x": 0.11513860937130475,
+      "y": 0.6264534882408174
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "表明美不应由最终危害健康的外表来界",
+      "width": 0.35394456327303414,
+      "x": 0.5543710048951104,
+      "y": 0.6191860468879189
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395175341903,
+      "text": "looks that end up impinging on health. ⑧ That's a start.",
+      "width": 0.49466951855282026,
+      "x": 0.03411514029715045,
+      "y": 0.6075581396398
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837229543426,
+      "text": "定。这是第一条。其次，极瘦模特禁令似",
+      "width": 0.35394456327303414,
+      "x": 0.5543709975212656,
+      "y": 0.5988372091466143
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013087080541459017,
+      "text": "④ And the ban on ultra-thin models seems to go beyond",
+      "width": 0.49680172280189416,
+      "x": 0.0362473312003322,
+      "y": 0.5886571055200491
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883113696995,
+      "text": "乎不仅仅是保护模特免于节食致死",
+      "width": 0.31343282841815556,
+      "x": 0.5543710083655491,
+      "y": 0.5813953493225119
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01309655573719315,
+      "text": "protecting models from starving themselves to death - as",
+      "width": 0.4925373143037464,
+      "x": 0.03411514636625017,
+      "y": 0.5697522814095863
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "正如一些（模特）已经做了的。它责令时",
+      "width": 0.35181235902396035,
+      "x": 0.5565032056692565,
+      "y": 0.5593220336530589
+    },
+    {
+      "confidence": 1,
+      "height": 0.011734028683181075,
+      "text": "some have done.",
+      "width": 0.13859275103071222,
+      "x": 0.03411514007632828,
+      "y": 0.5508474577572402
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013106030932927504,
+      "text": "⑤ It tells the fashion industry that it must",
+      "width": 0.3603411468447508,
+      "x": 0.17270788588821465,
+      "y": 0.5508474575704411
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014563309322590978,
+      "text": "尚业必须对其发送给女性，尤其是十几岁",
+      "width": 0.34968015477488656,
+      "x": 0.5565032073033882,
+      "y": 0.5421511629489655
+    },
+    {
+      "confidence": 1,
+      "height": 0.013153406289907688,
+      "text": "take responsibility",
+      "width": 0.1641790999053313,
+      "x": 0.03411514361520915,
+      "y": 0.5305232559733755
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015701219342367234,
+      "text": "for the signal®",
+      "width": 0.15604762411026382,
+      "x": 0.20031879189529336,
+      "y": 0.5295013103880027
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011734028683181297,
+      "text": "it sends women，",
+      "width": 0.17484007738744328,
+      "x": 0.35607676009803396,
+      "y": 0.5319426337242965
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "少女的信号负责，这些信号是她们必须用",
+      "width": 0.35181235902396024,
+      "x": 0.5543710054986809,
+      "y": 0.521512385947235
+    },
+    {
+      "confidence": 1,
+      "height": 0.013143931094173333,
+      "text": "especially teenage girls, about the social tape-measure they",
+      "width": 0.49680166445088436,
+      "x": 0.03411515303575198,
+      "y": 0.5116279069726488
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "来衡量自身个人价值的社会尺度。",
+      "width": 0.2899786692048578,
+      "x": 0.5543710089654459,
+      "y": 0.502607561881531
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010430248029228872,
+      "text": "must use to determine their individual worth.",
+      "width": 0.3795308975599008,
+      "x": 0.03198294574741295,
+      "y": 0.49413298563126196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01762567816066618,
+      "text": "• 词汇注释与难句分析•",
+      "width": 0.21748400190364336,
+      "x": 0.3475479799010568,
+      "y": 0.4491279071505472
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696884,
+      "text": "①uplifting ［Ap'lufun］c.（在道德、文化等方面）进行提升的",
+      "width": 0.41577825309213673,
+      "x": 0.0319829382193901,
+      "y": 0.422965116510012
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013149616460290336,
+      "text": "③go beyond（超出，胜过）",
+      "width": 0.19616204693941947,
+      "x": 0.49680170377975724,
+      "y": 0.4229651163222128
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "②impinge ［im'pinds］v.侵犯，侵害",
+      "width": 0.2665245099915601,
+      "x": 0.031982946310190136,
+      "y": 0.4040697679271631
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011734028683181297,
+      "text": "④protect...from...（保护•",
+      "width": 0.21108741833192662,
+      "x": 0.49893390629245876,
+      "y": 0.40547587980206
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011734028683181297,
+      "text": "••不受⋯⋯伤害，使⋯•",
+      "width": 0.1833688652082338,
+      "x": 0.7292110928400906,
+      "y": 0.40547587980206
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883113696995,
+      "text": "③signal ［'signal］ n.信号，暗号",
+      "width": 0.23454157754522437,
+      "x": 0.031982944525184506,
+      "y": 0.3851744189809422
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011734028683181186,
+      "text": "免于⋯⋯）",
+      "width": 0.08742003869372161,
+      "x": 0.5095948841446104,
+      "y": 0.3865710561485597
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395175342014,
+      "text": "• 经典搭配",
+      "width": 0.10660980399662406,
+      "x": 0.034115139312988645,
+      "y": 0.36046511627497435
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "⑤take responsibility for（对⋯⋯负责）",
+      "width": 0.2899786692048578,
+      "x": 0.4989339034359507,
+      "y": 0.36766623220282535
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208361927813272,
+      "text": "①end up doing（最终处于⋯⋯，结束，告终）",
+      "width": 0.33262260830881035,
+      "x": 0.031982941291832996,
+      "y": 0.3401162792291895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "⑥tape-measure（皮尺，卷尺）",
+      "width": 0.21535181224232197,
+      "x": 0.4989338998276663,
+      "y": 0.348761408140812
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014652375292125264,
+      "text": "②impinge on（损害，妨碍，侵犯）",
+      "width": 0.24520255502733626,
+      "x": 0.031982942191378066,
+      "y": 0.31976744211563213
+    },
+    {
+      "confidence": 1,
+      "height": 0.01310224048161912,
+      "text": "⑦individual worth（个人价值）",
+      "width": 0.23240937329615052,
+      "x": 0.4968017116004778,
+      "y": 0.3284883722524453
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011838254592875574,
+      "text": "It tells the fashion industry that it must take responsibility for the signal it sends women, especially",
+      "width": 0.8422174690786328,
+      "x": 0.07249466293758527,
+      "y": 0.2803129076578027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011734028683181186,
+      "text": "teenage girls, about the social tape-measure they must use to determine their individual worth.",
+      "width": 0.7697228163651708,
+      "x": 0.031982954326298246,
+      "y": 0.26010430227477266
+    },
+    {
+      "confidence": 1,
+      "height": 0.014655942556289214,
+      "text": "结构切分：",
+      "width": 0.08959435778411808,
+      "x": 0.07247361066029935,
+      "y": 0.23976505201833254
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01629726205997395,
+      "text": "向子主干",
+      "width": 0.08315565207720259,
+      "x": 0.07249466922487723,
+      "y": 0.21642764009900672
+    },
+    {
+      "confidence": 1,
+      "height": 0.011919742146557888,
+      "text": "It",
+      "width": 0.017057568347704805,
+      "x": 0.1791044780009877,
+      "y": 0.21773142089054032
+    },
+    {
+      "confidence": 1,
+      "height": 0.010466253275666082,
+      "text": "tells",
+      "width": 0.0362473336506072,
+      "x": 0.2281449897845045,
+      "y": 0.21773142120900812
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "the fashion industry",
+      "width": 0.17484007738744323,
+      "x": 0.2665245220205641,
+      "y": 0.2151162793370469
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01322352248966463,
+      "text": "that...",
+      "width": 0.05117270504311444,
+      "x": 0.4882729230434748,
+      "y": 0.21642764022882033
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "主语",
+      "width": 0.04264392451620011,
+      "x": 0.16631129973550338,
+      "y": 0.19882659710238115
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "谓语",
+      "width": 0.040511727561002464,
+      "x": 0.2281449888447653,
+      "y": 0.1975228159297987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "间接宾语",
+      "width": 0.08315565207720255,
+      "x": 0.3262260112215267,
+      "y": 0.19752281593282672
+    },
+    {
+      "confidence": 1,
+      "height": 0.022164276401564487,
+      "text": "直接宾语个",
+      "width": 0.09381662955931458,
+      "x": 0.45628997999646204,
+      "y": 0.19752281579916842
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372295434372,
+      "text": "宾语从句",
+      "width": 0.08315565207720255,
+      "x": 0.4456289975088401,
+      "y": 0.174418604631716
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01017441867694091,
+      "text": "1t",
+      "width": 0.01705756834770479,
+      "x": 0.08955223942245179,
+      "y": 0.1569767442104636
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095176064,
+      "text": "must take responsibility for the signal ....about the social tape-measure",
+      "width": 0.5799573384097156,
+      "x": 0.13219617571340792,
+      "y": 0.15384615357183773
+    },
+    {
+      "confidence": 1,
+      "height": 0.011853415776418075,
+      "text": "主语",
+      "width": 0.038379530605804846,
+      "x": 0.07889125783142595,
+      "y": 0.13808139514604134
+    },
+    {
+      "confidence": 1,
+      "height": 0.01461068467957094,
+      "text": "谓语",
+      "width": 0.042643920869262,
+      "x": 0.3837953104822133,
+      "y": 0.13662790742570974
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "定语从句",
+      "width": 0.08102345512200498,
+      "x": 0.283582088259893,
+      "y": 0.11603650596775827
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017371234868931107,
+      "text": "定语从句",
+      "width": 0.08370487366306167,
+      "x": 0.46027975992169723,
+      "y": 0.11558763846205233
+    },
+    {
+      "confidence": 1,
+      "height": 0.014992633108365294,
+      "text": "目的状语",
+      "width": 0.07907008942408955,
+      "x": 0.6161152744590678,
+      "y": 0.11605019500487168
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014637214730273906,
+      "text": "it sends women, especially teenage girls，",
+      "width": 0.3347547833823793,
+      "x": 0.07462687031002878,
+      "y": 0.09582790118288687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015437248632836353,
+      "text": "they must use",
+      "width": 0.11750422928119025,
+      "x": 0.4391156881502393,
+      "y": 0.09547905055032413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014637214730273906,
+      "text": "to determine their individual worth.",
+      "width": 0.2899786692048578,
+      "x": 0.6055437123668067,
+      "y": 0.09582790118288687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016302947426090952,
+      "text": "功能注释：本句主干为 It tells the fashion industry that.•，宾语从句主干为 it must take",
+      "width": 0.8443496733277067,
+      "x": 0.07249468137452603,
+      "y": 0.07235984344546342
+    },
+    {
+      "confidence": 1,
+      "height": 0.013215942208739007,
+      "text": "11",
+      "width": 0.02345415738982859,
+      "x": 0.8742004266622286,
+      "y": 0.0552325583897999
+    }
+  ],
+  "vision_ocr_text": "绍其新近立法内容：禁止雇用极瘦模特走T台；取缔鼓吹过度瘦削的网站。可见，“以超瘦为美”的标准\n将会被重新界定，［A］正确。\n［命题解密］［A］是结合②③句对①句 its fashion industry has lost an absolute right to define physical\nbeauty做出的正确解读。\n［B］曲解②句内容：法规禁止的是“时尚业雇用过瘦的T台模特（介词结构 on runways 修饰\nmodels）”，而非“模特在（当前的）T台上行走”。［C］将文中对象从“提倡极端节食的网站”偷换为“普通\n节食网站”，且“取締前者”大概率对后者有负面影响，“兴盛”含义恰恰相反。［D］过度推断①句内容：时\n尚业“兴衰与否”与其“是否拥有定义美的绝对权”并无直接关联，选项过于武断。\n［技巧总结］当选项为完整的陈述性内容时，应对其分解：“名词性部分”往往取自原文，用于引导定\n位；“描述或评论的谓语或修饰成分”是需要判断正误的内容。由于正确项不会偏离段落/文章主旨，据\n此可先对“名词部分”进行初步过滤，再逐一定位原文比对。本题中，［A］Physical beauty，［B］runways、\n［C］Websites about dieting、［D］the fashion industry 当中，［B］与［C］重心分别落在“T台”和“网站”上，涉\n及细节但偏离主线，而LD」断然否定了时尚业前景，超出原文信息范围，故属于过度推断。\n①\nSuch measures have a couple of uplifting\"\n这些法令有几种积极的目的。它们\nmotives.\n② They suggest beauty should not be defined by\n表明美不应由最终危害健康的外表来界\nlooks that end up impinging on health. ⑧ That's a start.\n定。这是第一条。其次，极瘦模特禁令似\n④ And the ban on ultra-thin models seems to go beyond\n乎不仅仅是保护模特免于节食致死\nprotecting models from starving themselves to death - as\n正如一些（模特）已经做了的。它责令时\nsome have done.\n⑤ It tells the fashion industry that it must\n尚业必须对其发送给女性，尤其是十几岁\ntake responsibility\nfor the signal®\nit sends women，\n少女的信号负责，这些信号是她们必须用\nespecially teenage girls, about the social tape-measure they\n来衡量自身个人价值的社会尺度。\nmust use to determine their individual worth.\n• 词汇注释与难句分析•\n①uplifting ［Ap'lufun］c.（在道德、文化等方面）进行提升的\n③go beyond（超出，胜过）\n②impinge ［im'pinds］v.侵犯，侵害\n④protect...from...（保护•\n••不受⋯⋯伤害，使⋯•\n③signal ［'signal］ n.信号，暗号\n免于⋯⋯）\n• 经典搭配\n⑤take responsibility for（对⋯⋯负责）\n①end up doing（最终处于⋯⋯，结束，告终）\n⑥tape-measure（皮尺，卷尺）\n②impinge on（损害，妨碍，侵犯）\n⑦individual worth（个人价值）\nIt tells the fashion industry that it must take responsibility for the signal it sends women, especially\nteenage girls, about the social tape-measure they must use to determine their individual worth.\n结构切分：\n向子主干\nIt\ntells\nthe fashion industry\nthat...\n主语\n谓语\n间接宾语\n直接宾语个\n宾语从句\n1t\nmust take responsibility for the signal ....about the social tape-measure\n主语\n谓语\n定语从句\n定语从句\n目的状语\nit sends women, especially teenage girls，\nthey must use\nto determine their individual worth.\n功能注释：本句主干为 It tells the fashion industry that.•，宾语从句主干为 it must take\n11",
+  "pdf_text_layer": "绍其新近立法内容 ： 禁 止 雇 用极瘦 模特走 T 台；取缔鼓吹过度瘦削的网站 。 可见，“以超瘦为 美 ”的标准\n将会被重新界定， ［ A ］ 正确 。\n     ［命题解密 J [ A ］ 是结合 ②③ 句对 ① 句 it s fa s hio n indu str y has lost an a bso lute right to defin e physi ca l\nb ea ut y 做 出的 正确解读 。\n     [ BJ 曲 解②句 内 容 ： 法 规 禁 止的 是“ 时尚业雇用过瘦的 T 台模特（介词结构 on runway s 修饰\nmodel s ）”， 而非“模特在 （当前 的 )T 台上 行 走”。［ CJ 将文中对象从“提倡极端节食的网站”偷换为“普通\n节食网站” ，且“ 取缔前 者”大 概 率 对后 者有 负面影响，“兴盛”含义恰恰相反 。［ DJ 过 度推 断 ① 句内容：时\n尚业 “兴衰与否”与其“是否 拥有定义 美 的绝对权”并无 直 接关联，选项过于武断 。\n     ［技巧总结］ 当应项为完整 的陈述性内容时 ，应 对其分解：“名同性部分”往往取自原文，用于引导定\n位；“描述或评论的谓语或修饰成分”是需要判断正误的 内 容。由于正确项不会偏离段落 ／ 文章主旨 ，据\n此可先 对“名词部分”进行初步过滤，再逐 一 定位原文 比对 。本题 中， ［ A] Physical b ea uty 、 ［ B] ru 口ways 、\n[C] W ebs ites a bo ut dieting 、［ D]the fash ion indu st ry 当 中， ［ BJ 与［ CJ 重 心分别落在“ T 台呼口 “ 网站”上，涉\n及细节但偏离主线，而［ DJ 断然否定了时尚业前景，超出原文信息范围，故属于过度推 断 。\n\n     Il' 0 S uch measu res have a co upl e of uplifting①                              这些法令有几种积极的目的 。                它们\nmotives.  8 T hey s ugges t bea ut y s hould not be defin ed by                 表明美不应由最终危害健康的外表来界\nlooks tha t encl up impinging ( on hea lth . @That ’ s a start.\n                                                                                定 。 这是第一条 。 其次，极疫模特禁令似\n。 And th e ban on ult ra- thin models seem s to go beyo nd\n                                                                                乎不仅仅是保护模特免于节食致死一－\nprotecting mode ls fr om starv 门1g th emse lves to deat h                 as\n                                                                                正如一些（模特 〉 已经做了的 。 它责令时\nsome have clone. 0I t te ll s the fashion industry th at it mu s t\n                                                                                 尚业必须对其发送给女性 ， 尤其是十几岁\ntake r espons ibili ty       for   th巳    signal③   it   send s   women,\n                                                                                 少女的信号负责，这些信号是她们必须用\nespeciall y tee nage girls, a bout the socia l tape- measure they\n                                                                                来衡量自身个人价值的社会尺度 。\nmust use to determine their individua l wort h.\n\n\n                                               ：－： 词汇注辱与难句分析j :;J\n( uplifting [ Ap1 l由日］ α （在道德、文化等方面）进行提刑的                          \\i    ( go beyond （超 出 ，胜 过 ）\n                >ind:\n( signal [ 'signal] n. 信 号 ，暗号                                     <       免于 …… ）\n．经典搭配                                                              ~     @ ra ke 陀spon 剖 b i lit y fo r （对· ·负 责）\n                                                                   (r    ⑥ t a p e- m easu r e （皮尺，卷尺）\n( end up doing （最终处于 …… ．结束，告终）                                    引     四 俨\n\n( impinge on （损 害 ．妨碍，侵犯）\n                                                                   \\i训   ⑦ indi川id u a l wort h （个人价值）\n\n\n\n     It tells the fashion industry that it must take responsibility for the signal it sends women, especially\nteenage girls, about the social tape-measure they must use to determine their individual worth.\n     结构切分：\n\n     句子主干               lt     tells     th巳 fashion industry\n\n                  主语谓语                        间接宾语                直接宾语\n\n                                                                  宾语从句\n        it   m ust take responsibility for th 宇 signal ... .about th 巳 social tape-measure\n     主语                                             ↑谓语\n                                         定i吾从句                    定语从句                   目的状语\n      it sends women, especi ally 忧enage girls,           I I they must use 忡→ to determine their individual worth .\n     功挖注释： 本句主干为 It                           tell s the fas hion indu str y tha t ...，宾语从句主干为 it mus t take\n                                                                                                                    11",
+  "quality": {
+    "vision_line_count": 74,
+    "vision_character_count": 2094,
+    "pdf_text_character_count": 3769,
+    "nonempty": true
+  }
+}

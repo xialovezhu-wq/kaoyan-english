@@ -1,0 +1,558 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2017-P037",
+  "year": 2017,
+  "pdf_page": 37,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2017年考研英语一真题解析.pdf",
+  "source_sha256": "a10c0135b9e5c72781322f658455f0d18ae94c6276a79c8f17bb218203edad18",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.014565164844195122,
+      "text": "So，",
+      "width": 0.0319148929974505,
+      "x": 0.08723404263248043,
+      "y": 0.9127604164123738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164223313332,
+      "text": "what Kennedy was referring to",
+      "width": 0.25106383461988613,
+      "x": 0.13829787243473782,
+      "y": 0.9127604169702711
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008781492399672741,
+      "text": "was",
+      "width": 0.04893616683610519,
+      "x": 0.3914893625748552,
+      "y": 0.9156976744155596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "，表语",
+      "width": 0.046808508516267944,
+      "x": 0.47872340473122776,
+      "y": 0.9098837207890921
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011809593066573143,
+      "text": "that",
+      "width": 0.03617021327710335,
+      "x": 0.5468085101486823,
+      "y": 0.9140624997408622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01041666666666674,
+      "text": "as a measure，",
+      "width": 0.11063829815114723,
+      "x": 0.6042553203925114,
+      "y": 0.9127604167281526
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111676399906402,
+      "text": "it is no longer enough.",
+      "width": 0.18085105546558178,
+      "x": 0.7425531934108263,
+      "y": 0.9127604165832827
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "连词",
+      "width": 0.04255319187659344,
+      "x": 0.08723404232918049,
+      "y": 0.8938802084357174
+    },
+    {
+      "confidence": 1,
+      "height": 0.015046913176774979,
+      "text": "主语从句",
+      "width": 0.08104604619149944,
+      "x": 0.22117910557343204,
+      "y": 0.8936393341883664
+    },
+    {
+      "confidence": 1,
+      "height": 0.014550024022658703,
+      "text": "系动词",
+      "width": 0.05957446571524816,
+      "x": 0.4000000006884753,
+      "y": 0.8938802082029025
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023255812625090244,
+      "text": "“从句引导词",
+      "width": 0.12978722666966097,
+      "x": 0.46595745211729717,
+      "y": 0.8909883727208852
+    },
+    {
+      "confidence": 1,
+      "height": 0.013308502733707428,
+      "text": "状语",
+      "width": 0.04893617047608345,
+      "x": 0.6191489354268519,
+      "y": 0.8909883720604156
+    },
+    {
+      "confidence": 1,
+      "height": 0.014610586067040798,
+      "text": "主系表",
+      "width": 0.05957446571524816,
+      "x": 0.7765957452806738,
+      "y": 0.8909883725346133
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020625197639068005,
+      "text": "个让步状语从句",
+      "width": 0.14051121427812652,
+      "x": 0.6254890723919987,
+      "y": 0.8646874013813566
+    },
+    {
+      "confidence": 1,
+      "height": 0.013247940689325333,
+      "text": "while",
+      "width": 0.053191487115758065,
+      "x": 0.11702127838361033,
+      "y": 0.84156976744559
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011794452245036835,
+      "text": "GDP",
+      "width": 0.05319148711575805,
+      "x": 0.17872340591020605,
+      "y": 0.8430232562041925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010667054603497261,
+      "text": "has been",
+      "width": 0.08523024493501385,
+      "x": 0.24036360235603915,
+      "y": 0.8427769378789856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247940689325333,
+      "text": "the most common method for measuring the economic activity of nations",
+      "width": 0.5872340311530893,
+      "x": 0.3404255302745194,
+      "y": 0.8415697673729156
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014640867089231735,
+      "text": "引导词 主语 系动词",
+      "width": 0.20425531518368323,
+      "x": 0.11489361754493654,
+      "y": 0.8196614581492031
+    },
+    {
+      "confidence": 1,
+      "height": 0.013187378644943237,
+      "text": "表语",
+      "width": 0.0446808501964307,
+      "x": 0.40851063817306127,
+      "y": 0.8196614585242924
+    },
+    {
+      "confidence": 1,
+      "height": 0.013263081510861752,
+      "text": "定语",
+      "width": 0.040425529916777836,
+      "x": 0.721276596929909,
+      "y": 0.8226744187537295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715355,
+      "text": "功能注释：句子主干力 what Kennedy was referring to was that...as a measure, it is no longer enough. 主",
+      "width": 0.8361701674133767,
+      "x": 0.09787237355394973,
+      "y": 0.7994186047275668
+    },
+    {
+      "confidence": 1,
+      "height": 0.014550024022658703,
+      "text": "语从句呼应首段，聚焦肯尼迪观点；表语从句明确其观点：GDP 不足以作为唯一评判标准，其中嵌套的状语",
+      "width": 0.8765957082500895,
+      "x": 0.05744683549197641,
+      "y": 0.7790697677889737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01769924908876419,
+      "text": "从句实现“让步—转折”逻辑“肯定 GDP曾经起到的重要作用后，明确现在应改变GDP 挂帅”。",
+      "width": 0.7957446848163169,
+      "x": 0.05744681401737343,
+      "y": 0.7584635415956203
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.021802326043446785,
+      "text": "•语篇分析•》",
+      "width": 0.1617021196671115,
+      "x": 0.41702127897495495,
+      "y": 0.7311046508590906
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "第六、七段总结收篇：明确GDP缺陷，并指出解决办法。",
+      "width": 0.46808510700254957,
+      "x": 0.09574467586042747,
+      "y": 0.7063802085063153
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "第六段明确 GDP缺陷：无法衡量环境质量等有助于提升个人幸福感的重要因素。关键词为：not",
+      "width": 0.8382978366531488,
+      "x": 0.09787236525498577,
+      "y": 0.6888020835937162
+    },
+    {
+      "confidence": 1,
+      "height": 0.013671875,
+      "text": "include important factors。",
+      "width": 0.22127659630229454,
+      "x": 0.05531915087012932,
+      "y": 0.6712239585066984
+    },
+    {
+      "confidence": 1,
+      "height": 0.017608406022191048,
+      "text": "①句回应首段“肯尼迪之言”，指出其真实意指：GDP 虽广泛使用于衡量经济发展，却已难当“衡量国",
+      "width": 0.8361701674133767,
+      "x": 0.09574470014437562,
+      "y": 0.6497093023388711
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017623546222845787,
+      "text": "家成就”重任。So作用有二：一、开启本段作者集中评论；二、表明作者观点与上文分析间因果关联。句",
+      "width": 0.8744680390103172,
+      "x": 0.05744682519696914,
+      "y": 0.6308139535016619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "子以 while 形成让步转折，将语义重点落于主句，并借今昔对比词 no longer enough 强调现今情形“GDP",
+      "width": 0.8787233774898616,
+      "x": 0.05744682961677114,
+      "y": 0.6132812496979281
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014973958333333481,
+      "text": "已然无法全面反映一国整体发展状况”（回应上段 no longer regarded as the sole measure）。",
+      "width": 0.7680851011785841,
+      "x": 0.0574468187936865,
+      "y": 0.5957031248411697
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "②句解释①句，说明GDP 为何难当重任：没有涵盖其他诸如环境质量、教育成果等与个人幸福感紧",
+      "width": 0.8361701674133767,
+      "x": 0.09574469307522673,
+      "y": 0.5741279068356038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768410826722766,
+      "text": "密相关的重要因素。does not include 回应首两段 except、misses，明确唯GDP论的不全面性；all things",
+      "width": 0.8787233774898616,
+      "x": 0.05744681646783512,
+      "y": 0.5552325581528248
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338783755898476,
+      "text": "that contribute to a person's sense of well-being 回应首段 everything except that which makes life",
+      "width": 0.8787233774898617,
+      "x": 0.057446807247977516,
+      "y": 0.5406976743314911
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "worthwhile，以强褒义色彩词 important、contribute to 以及绝对表达词 all 反衬 GDP 严重缺陷：将一切能",
+      "width": 0.8765957082500895,
+      "x": 0.05744681942105467,
+      "y": 0.5201822914398155
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "够提升民众幸福感的因素都排除在外，所衡量的内容与民众福祉毫无关联。",
+      "width": 0.6361701907092379,
+      "x": 0.057446825900700105,
+      "y": 0.49999999992790023
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017744670311609867,
+      "text": "【深层解读】本段借由So 回应第二部分“新研究”、Kennedy 回应第一部分“经典评论”，开启对GDP",
+      "width": 0.8425531751326932,
+      "x": 0.09361702243365343,
+      "y": 0.4796511629057316
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016306322688857677,
+      "text": "缺陷的正面论述：段中两处否定表达 it is no longer enough... It does not include... 突出强调唯 GDP论",
+      "width": 0.8765957082500895,
+      "x": 0.057446834030983496,
+      "y": 0.4622093023237336
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "的严重缺陷：只能反映一国的宏观经济状况，而无法评估那些关乎生活质量，幸福感的精神财富及隐性",
+      "width": 0.8765957082500895,
+      "x": 0.05744683298741719,
+      "y": 0.443313953495176
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017638686423500416,
+      "text": "影响等，预示下文即将给出问题解决办法“不可唯 GDP论，而应关注民生福祉”。",
+      "width": 0.6765957315459507,
+      "x": 0.05744682137596071,
+      "y": 0.4244186050132899
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550024022658703,
+      "text": "VE ① The sharp® hit® to growth predicted around",
+      "width": 0.4191489183265744,
+      "x": 0.10000000542891138,
+      "y": 0.39388020820290237
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "据预测，世界范围内和英国的经济增长都",
+      "width": 0.3468085136122375,
+      "x": 0.5829787253853705,
+      "y": 0.38662790732385754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172238444288609,
+      "text": "the world and in the UK could lead to a decline in the",
+      "width": 0.4659574377627773,
+      "x": 0.057446818857972884,
+      "y": 0.3735465116679736
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458030504484975,
+      "text": "将遭受重创，而这可能会导致我们赖以提升幸",
+      "width": 0.3872340253291239,
+      "x": 0.5425532039737359,
+      "y": 0.3662790701145552
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013338783755898476,
+      "text": "everyday services we depend on for our well-being and",
+      "width": 0.4638297685230051,
+      "x": 0.05744681013566084,
+      "y": 0.3531976742830415
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333337,
+      "text": "福感和促进个人发展所必需的日常服务（水",
+      "width": 0.3872340253291239,
+      "x": 0.5425532049418209,
+      "y": 0.34570312491384414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "for growth. ② But policymakers who refocus® efforts",
+      "width": 0.4680851070025495,
+      "x": 0.05531915330723585,
+      "y": 0.3313802085935246
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969939,
+      "text": "平）的下降。但，政策制定者们应重新集中精",
+      "width": 0.387234025329124,
+      "x": 0.5425531962290551,
+      "y": 0.3226744187342202
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715466,
+      "text": "on improving well-being rather than simply worrying",
+      "width": 0.4659574377627773,
+      "x": 0.0595744803739302,
+      "y": 0.3125000000097856
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "力于提升（社会）福利，而非仅仅忧心 GDP数",
+      "width": 0.3872340253291239,
+      "x": 0.5425531952609701,
+      "y": 0.30523255832676455
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01823541770378745,
+      "text": "about GDP figures could avoid the forecasted® doom®",
+      "width": 0.46202305801042165,
+      "x": 0.05728138912335037,
+      "y": 0.28997719091418117
+    },
+    {
+      "confidence": 1,
+      "height": 0.01459544524550438,
+      "text": "字；如此才有可能避免预期的灾难，甚至可能",
+      "width": 0.38510638520917817,
+      "x": 0.5446808526993623,
+      "y": 0.28488372127319295
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "and may even see progress.［452 words］",
+      "width": 0.34680851361223763,
+      "x": 0.05531914398111533,
+      "y": 0.27018229144950523
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "取得进步。",
+      "width": 0.09361701703253589,
+      "x": 0.5425531945475618,
+      "y": 0.2630208332323555
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023528342445691464,
+      "text": "•词汇注释与难句分析。》",
+      "width": 0.2702127704183564,
+      "x": 0.36170212705525945,
+      "y": 0.2148437500794783
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "①sharp ［Jairp］a. 强烈的，剧烈的",
+      "width": 0.2574468132193762,
+      "x": 0.05744680873073739,
+      "y": 0.19331395383548544
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0134162505467732,
+      "text": "• 经典搭配",
+      "width": 0.10434468101909145,
+      "x": 0.5212319139412356,
+      "y": 0.19314652582605107
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014625726267695427,
+      "text": "②hit ［htt］n.击中",
+      "width": 0.1425531838686412,
+      "x": 0.05744681399653044,
+      "y": 0.17578125003490064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172238444288498,
+      "text": "①lead to（导致，引起）",
+      "width": 0.17446807686609167,
+      "x": 0.521276601111027,
+      "y": 0.17578125001491818
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01497395833333337,
+      "text": "③refocus ［iri:Faukos］v. 重新集中，改变重点",
+      "width": 0.34042553501274747,
+      "x": 0.05744681036596664,
+      "y": 0.15820312492837907
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013308502733707428,
+      "text": "②everyday services（日常服务）",
+      "width": 0.23829786286099264,
+      "x": 0.5212766024702128,
+      "y": 0.15820312527249525
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014610586067040798,
+      "text": "④forecast ［'o:kast］v.预测",
+      "width": 0.21276594846303226,
+      "x": 0.05744681475784553,
+      "y": 0.14098837217124116
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610586067040687,
+      "text": "③depend on（依赖，取决于）",
+      "width": 0.21702127238266344,
+      "x": 0.5212765995533492,
+      "y": 0.14098837253461338
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "⑤doom ［dum］n.（不可避免的）厄运，劫数",
+      "width": 0.32765957781376726,
+      "x": 0.05744680356120151,
+      "y": 0.12354651182967158
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013172238444288498,
+      "text": "④worry about（担心，忧虑）",
+      "width": 0.21489361770280446,
+      "x": 0.5212765969388713,
+      "y": 0.12354651168614239
+    },
+    {
+      "confidence": 1,
+      "height": 0.011930716534455654,
+      "text": "37",
+      "width": 0.02553191439796043,
+      "x": 0.8957446813542113,
+      "y": 0.06510416694158438
+    }
+  ],
+  "vision_ocr_text": "So，\nwhat Kennedy was referring to\nwas\n，表语\nthat\nas a measure，\nit is no longer enough.\n连词\n主语从句\n系动词\n“从句引导词\n状语\n主系表\n个让步状语从句\nwhile\nGDP\nhas been\nthe most common method for measuring the economic activity of nations\n引导词 主语 系动词\n表语\n定语\n功能注释：句子主干力 what Kennedy was referring to was that...as a measure, it is no longer enough. 主\n语从句呼应首段，聚焦肯尼迪观点；表语从句明确其观点：GDP 不足以作为唯一评判标准，其中嵌套的状语\n从句实现“让步—转折”逻辑“肯定 GDP曾经起到的重要作用后，明确现在应改变GDP 挂帅”。\n•语篇分析•》\n第六、七段总结收篇：明确GDP缺陷，并指出解决办法。\n第六段明确 GDP缺陷：无法衡量环境质量等有助于提升个人幸福感的重要因素。关键词为：not\ninclude important factors。\n①句回应首段“肯尼迪之言”，指出其真实意指：GDP 虽广泛使用于衡量经济发展，却已难当“衡量国\n家成就”重任。So作用有二：一、开启本段作者集中评论；二、表明作者观点与上文分析间因果关联。句\n子以 while 形成让步转折，将语义重点落于主句，并借今昔对比词 no longer enough 强调现今情形“GDP\n已然无法全面反映一国整体发展状况”（回应上段 no longer regarded as the sole measure）。\n②句解释①句，说明GDP 为何难当重任：没有涵盖其他诸如环境质量、教育成果等与个人幸福感紧\n密相关的重要因素。does not include 回应首两段 except、misses，明确唯GDP论的不全面性；all things\nthat contribute to a person's sense of well-being 回应首段 everything except that which makes life\nworthwhile，以强褒义色彩词 important、contribute to 以及绝对表达词 all 反衬 GDP 严重缺陷：将一切能\n够提升民众幸福感的因素都排除在外，所衡量的内容与民众福祉毫无关联。\n【深层解读】本段借由So 回应第二部分“新研究”、Kennedy 回应第一部分“经典评论”，开启对GDP\n缺陷的正面论述：段中两处否定表达 it is no longer enough... It does not include... 突出强调唯 GDP论\n的严重缺陷：只能反映一国的宏观经济状况，而无法评估那些关乎生活质量，幸福感的精神财富及隐性\n影响等，预示下文即将给出问题解决办法“不可唯 GDP论，而应关注民生福祉”。\nVE ① The sharp® hit® to growth predicted around\n据预测，世界范围内和英国的经济增长都\nthe world and in the UK could lead to a decline in the\n将遭受重创，而这可能会导致我们赖以提升幸\neveryday services we depend on for our well-being and\n福感和促进个人发展所必需的日常服务（水\nfor growth. ② But policymakers who refocus® efforts\n平）的下降。但，政策制定者们应重新集中精\non improving well-being rather than simply worrying\n力于提升（社会）福利，而非仅仅忧心 GDP数\nabout GDP figures could avoid the forecasted® doom®\n字；如此才有可能避免预期的灾难，甚至可能\nand may even see progress.［452 words］\n取得进步。\n•词汇注释与难句分析。》\n①sharp ［Jairp］a. 强烈的，剧烈的\n• 经典搭配\n②hit ［htt］n.击中\n①lead to（导致，引起）\n③refocus ［iri:Faukos］v. 重新集中，改变重点\n②everyday services（日常服务）\n④forecast ［'o:kast］v.预测\n③depend on（依赖，取决于）\n⑤doom ［dum］n.（不可避免的）厄运，劫数\n④worry about（担心，忧虑）\n37",
+  "pdf_text_layer": "So,     what Kennedy was referring to   was                                    it is no longer enough.\n   连词                主语从句                   系动词                                         主系表\n\n                                                                        让步状语从句\n\n          while   GDP    has been   the most common method for measuring the economic activity of nations\n          引导词主语系动词                          表语                                   定语\n    功能注释：句子主干为 what Kennedy was referring to was that. .. as a measure, it is no longer enough. 主\n语从句呼应首段，聚焦肯尼迪观点；表 i吾从句明确其观点： GDP 不足以作为唯一评判标准，其中嵌套的状语\n从句实现“让步              转折”逻辑“肯定 GDP 曾经起到的重要作用后，明确现在应改变 GDP 挂帅”。\n\n                                            ：：：~：垣篇分析；＜ ii\n    第六、七段总结收篇：明确 GDP 缺陷，并指出解决办法。\n    第六段明确 GDP 缺陷：无法衡 量 环境质 量 等有助于提升个人幸福感的重要因素。关键词为： not\ninclude important factors 。\n    ①旬回应首段“肯尼迪之言”，指出其真实意指： GDP 虽广泛使用于衡 量 经济发展，却已难当“衡 量 国\n家成就”重任 。 So 作用有 二 ： 一、开启本段 作者集中评论；二、表明作者观点与上文分析间因果关联。句\n子以 whil 巳形成让步转折，将语义重点落于主句，并借今昔对比词 no longer enough 强调现今情形“ GDP\n已然无法全面反映 一国整 体发展状况”（回应上段 no longer regarded as the sole measure ） 。\n    ②旬解释①旬，说明 GDP 为何难当重任：没有涵盖其他诸如环境质 量 、教育成果等与个人幸福感紧\n密相关的重要因素 。 does not i nclude 回应首两段 except 、 misses ，明确唯 GDP 论的不全面性； all things\nthat contribute to a person ’ s sense of we ll- be i ng 回应首段 eve ryth i ng except that which makes life\nworthwhile ，以强褒义色彩词 important 、 contribute to 以及绝对表达词 a ll 反衬 GDP 严重缺陷：将一切能\n够提升民众幸福感的因素都排除在外，所衡量的内容与民众福祉毫无关联。\n    E 深层解读】本段借由 So 回应第二部分“新研究”、 Kennedy 回应第一部分“经典评论”，开启对 GDP\n缺陆的正面论述： 段中两处否定表达 it is no longer enough ... It does not include ...突出强调唯 GDP 论\n的严重缺陷：只能反映 一国的宏 观 经济 状况，而无法评估那些关乎生活质 量、幸福感 的精神财富及隐性\n影响等，预示下文即将给出问题解决办法“不可唯 GDP 论，而应关注民生福祉”。\n\n          OThe sharp(   hit® to growth predicted around\n                                                                 据预测，世界范围内和美国的经济增长都\nthe world and in the UK could lead to a decline in the\n                                                             将遭受重创，而这可能会导致我们赖以提升幸\neveryday services we depend on for our well-being and\n                                                             福感和促进个人发展所必需的日常服务（水\nfor growth. @ But policymakers who refocus® effort s\n                                                             平）的下降 。 但，政策制定者们应重新集中精\non improving well being rather than simply worrying\n                                                             力于提升（社会）福利，而非仅仅忧心 GDP 数\nabout GDP figures could avoid the forecasted® doom®\n                                                             字；如此才有可能避免预期的灾难，1 甚至可能\nand may 巳ven see progress. [ 452 words]\n                                                             取得进步 。\n\n\n\n                                      ：：：•：词汇注：释，与难句分析~：：： ；／\n( sharp [J u:rp］ ι 强烈的，剧烈的                                 ·经典搭配\n( hit [hit] 11. 击中\n( refocus [ ,ri:'faukas] v. 重新集中，改变重点\n                                                     !l)\n                                                     币\n                                                           ( lead to （导致，引起）\n                                                           ( everyday services （日常服务）\n( fo recast [ 1f;:,:ka:st] v. 预测                     $     ( depend on （依赖，取决于）\n( doom [ du:m］凡（不 可避免的）厄运，却J 数                       ~ ®wo川\n\n\n                                                                                                       37",
+  "quality": {
+    "vision_line_count": 67,
+    "vision_character_count": 1984,
+    "pdf_text_character_count": 3318,
+    "nonempty": true
+  }
+}

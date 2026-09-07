@@ -1,0 +1,694 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P029",
+  "year": 2015,
+  "pdf_page": 29,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "drawing），并发现LA」似乎与该句最为接近，但对比后发现LA］实则偷换概念。随后将［B定位到第六段",
+      "width": 0.8838709317720853,
+      "x": 0.0516129266139572,
+      "y": 0.9127906974024623
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "④句，但对比发现与文意相反。LDJ符合第五、六段以 As so often is the case 形成“理论情形 VS现实情",
+      "width": 0.8838709317720853,
+      "x": 0.05161291384514022,
+      "y": 0.8938953487287704
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "况”的对比，并可概括第六段②③句，且顺应作者观点“最高法院应就数据隐私搜查提更新的指导原则”，",
+      "width": 0.886021482027494,
+      "x": 0.05161292122895647,
+      "y": 0.8749999999590445
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "故正确。将［C］定位到第五段②句，发现这是作者接受的事实，并非其担忧对象，也可排除。",
+      "width": 0.7741935143103966,
+      "x": 0.05161292800609188,
+      "y": 0.8561046510761542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011716741579251733,
+      "text": "① But the justices",
+      "width": 0.19139784299410306,
+      "x": 0.14838710319828885,
+      "y": 0.8270348839908734
+    },
+    {
+      "confidence": 1,
+      "height": 0.010424899186827652,
+      "text": "should",
+      "width": 0.05815949073204624,
+      "x": 0.3418879956028834,
+      "y": 0.8283631316766353
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139433941391,
+      "text": "not swallow®",
+      "width": 0.12903225238506616,
+      "x": 0.40430107595800463,
+      "y": 0.8270348841045179
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "但是法官们不应全盘接受加州的观点。",
+      "width": 0.33333332355205825,
+      "x": 0.5978494630895625,
+      "y": 0.8166449935012249
+    },
+    {
+      "confidence": 1,
+      "height": 0.012123324936171076,
+      "text": "California's",
+      "width": 0.10334543815025916,
+      "x": 0.05155308909737934,
+      "y": 0.8093453143162871
+    },
+    {
+      "confidence": 1,
+      "height": 0.010456043970135331,
+      "text": "argument",
+      "width": 0.0838709684518667,
+      "x": 0.16344085939413833,
+      "y": 0.8081395348655608
+    },
+    {
+      "confidence": 1,
+      "height": 0.011756433777133313,
+      "text": "whole.",
+      "width": 0.05591397652259239,
+      "x": 0.26236559145196553,
+      "y": 0.8081395350083153
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "② New, disruptive®",
+      "width": 0.18924730741060702,
+      "x": 0.34408602607964267,
+      "y": 0.8081395352453747
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903795,
+      "text": "新的破坏性技术有时需要宪法保护范围的",
+      "width": 0.36989247248722956,
+      "x": 0.5591397879038507,
+      "y": 0.7977893366677918
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "technology sometimes demands novel® applications of the",
+      "width": 0.48602148202749396,
+      "x": 0.05161291834109162,
+      "y": 0.7892441860205686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014555675000611168,
+      "text": "Constitution's protections. ⑧Orin Kerr, a law professor，",
+      "width": 0.48387096111591044,
+      "x": 0.05161290191516321,
+      "y": 0.7717815343276575
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0162718869619779,
+      "text": "新颖应用。法学教授奥林•克尔把“21世",
+      "width": 0.3720429933988131,
+      "x": 0.5591397968758621,
+      "y": 0.7776162791975204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011762104356862535,
+      "text": "compares the",
+      "width": 0.12688171680157,
+      "x": 0.05161290662609667,
+      "y": 0.7542262676357911
+    },
+    {
+      "confidence": 1,
+      "height": 0.015699651368417666,
+      "text": "explosion®",
+      "width": 0.10142784852247971,
+      "x": 0.17616779785198516,
+      "y": 0.7537780816704631
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "and accessibility® of digital",
+      "width": 0.2516128833477314,
+      "x": 0.27526882775265754,
+      "y": 0.7542262678486258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "纪数字信息爆炸及其可获取性”与“20世纪",
+      "width": 0.3720429933988132,
+      "x": 0.5591397967235324,
+      "y": 0.7587209304973127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317590048781303,
+      "text": "information in the 21st century with the establishment of",
+      "width": 0.48172041086050177,
+      "x": 0.049462375698781307,
+      "y": 0.7353706110919391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "汽车确立沩生活必需”相较：当时法官们不",
+      "width": 0.3720429933988131,
+      "x": 0.5569892572575826,
+      "y": 0.73667100129913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "automobile use as a virtual®",
+      "width": 0.23440859867976266,
+      "x": 0.051612907090226194,
+      "y": 0.7194767444753696
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458969599868909,
+      "text": "necessity\" of life in the 20th：",
+      "width": 0.24516127659724307,
+      "x": 0.29032258571571545,
+      "y": 0.7165149547055485
+    },
+    {
+      "confidence": 1,
+      "height": 0.014589696618763415,
+      "text": "得不为小轿车这一新兴私人领域明确新规；",
+      "width": 0.37419354365422175,
+      "x": 0.55698924593633,
+      "y": 0.7165149542695828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "The justices had to specify®",
+      "width": 0.2559139838585487,
+      "x": 0.05376344137717722,
+      "y": 0.6989596879940394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.010238732721157717,
+      "text": "novel",
+      "width": 0.04949124042804426,
+      "x": 0.31826513282397373,
+      "y": 0.700549238572328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013249614303846857,
+      "text": "rules for the new",
+      "width": 0.16774193690373346,
+      "x": 0.3677419339854093,
+      "y": 0.6989596877350461
+    },
+    {
+      "confidence": 1,
+      "height": 0.01309651609204987,
+      "text": "现在他们也必须解决第四修正案如何适用",
+      "width": 0.36989247248722956,
+      "x": 0.5591397883441988,
+      "y": 0.6976592980373632
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "personal domain® of the passenger car then; they must",
+      "width": 0.48387096111591044,
+      "x": 0.051612903931292156,
+      "y": 0.6801040311208109
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "于数字信息的问题。",
+      "width": 0.1698924724872295,
+      "x": 0.559139787331654,
+      "y": 0.6742522756414738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020930435319560625,
+      "text": "sort out® how the Fourth Amendment applies to digital",
+      "width": 0.48643320523775546,
+      "x": 0.04928212019955483,
+      "y": 0.658857266855422
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "information now.［420 words］",
+      "width": 0.25806450477013215,
+      "x": 0.04731183659342846,
+      "y": 0.6436931076526151
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "词汇注释与难句分析•",
+      "width": 0.2021505355834961,
+      "x": 0.3827957019716928,
+      "y": 0.6046511630651422
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903906,
+      "text": "①swallow ［'swplou］v.忍受，轻信",
+      "width": 0.2602150550255409,
+      "x": 0.04946236683131558,
+      "y": 0.5767230167885633
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "⑨domain ［dau'mein］n. 范围，领域",
+      "width": 0.26881719735952525,
+      "x": 0.5161290323686245,
+      "y": 0.576723016897575
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013228823211630325,
+      "text": "②disruptive ［dis'rApuv］a. 破坏的；扰乱的",
+      "width": 0.33763439471905043,
+      "x": 0.04946236831251786,
+      "y": 0.5595930230859454
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01177533488279825,
+      "text": "1Dsort out 解决",
+      "width": 0.12258063829862154,
+      "x": 0.5139784960119796,
+      "y": 0.5610465117525014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014568905526546772,
+      "text": "③novel ［'noval］a.新奇的；异常的",
+      "width": 0.27311826852651744,
+      "x": 0.04946237268297776,
+      "y": 0.5406976744895609
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "• 经典搭配",
+      "width": 0.11397849596463716,
+      "x": 0.5118279553689359,
+      "y": 0.5348837210738631
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014608597724428352,
+      "text": "④cxplosion ［rk'splouson］n. 爆炸；爆发；激增",
+      "width": 0.34623656639686,
+      "x": 0.049462359077555716,
+      "y": 0.5218023257492508
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0132704053960635,
+      "text": "①novel application（新的运用）",
+      "width": 0.240860205430251,
+      "x": 0.5139784954210754,
+      "y": 0.5159883725250605
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0145348832883202,
+      "text": "⑤accessibility ［okisesa/bilot］v.易接近，可达性",
+      "width": 0.36344085106482876,
+      "x": 0.04946236841919856,
+      "y": 0.5043604655142702
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01331009759394497,
+      "text": "②digital information（数字信息）",
+      "width": 0.2559139838585487,
+      "x": 0.5118279511083602,
+      "y": 0.4970930230859455
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534883908394525,
+      "text": "⑥virtual ［'vstjual］a. 几乎的，实际上的",
+      "width": 0.3010752751277043,
+      "x": 0.04946236407055638,
+      "y": 0.48546511635002587
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011743203251197598,
+      "text": "③automobile use（汽车使用）",
+      "width": 0.22365590609036967,
+      "x": 0.5161290324745286,
+      "y": 0.4811046512873851
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01312108777744414,
+      "text": "⑦necessity ［ni'sesit］n.（迫切）需要；必需品",
+      "width": 0.34408601614145135,
+      "x": 0.049462371140743824,
+      "y": 0.46802325578337767
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011782895449079067,
+      "text": "④passenger car（小客车）",
+      "width": 0.1935483785775991,
+      "x": 0.5182795709262543,
+      "y": 0.4622093024501759
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "⑧specify ［'spesifan］v. 具体指定；详述",
+      "width": 0.29892472487229566,
+      "x": 0.04946236575740061,
+      "y": 0.4505813951608001
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013124867130473006,
+      "text": "Orin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st",
+      "width": 0.8473118121807391,
+      "x": 0.09247314028955829,
+      "y": 0.4186046517401768
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013164559328354586,
+      "text": "century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to",
+      "width": 0.886021482027494,
+      "x": 0.05161290895041092,
+      "y": 0.3997093030483163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01320425214631038,
+      "text": "specify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth",
+      "width": 0.886021482027494,
+      "x": 0.05161292376044643,
+      "y": 0.3808139534456839
+    },
+    {
+      "confidence": 1,
+      "height": 0.011943553607082547,
+      "text": "Amendment applies to digital information now.",
+      "width": 0.3849462362436148,
+      "x": 0.05376344486743982,
+      "y": 0.36191860485327654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014700697364360749,
+      "text": "结构切分：",
+      "width": 0.09252986174363356,
+      "x": 0.09029421006918203,
+      "y": 0.3414868606544089
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01455945497371447,
+      "text": "a law professor，",
+      "width": 0.1333333235520583,
+      "x": 0.18279570514870197,
+      "y": 0.32119635876346886
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "in the 2Ist century",
+      "width": 0.15913977989783656,
+      "x": 0.6731182805457054,
+      "y": 0.31976744194824713
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016323568296990665,
+      "text": "句子主干：",
+      "width": 0.08615656632643479,
+      "x": 0.051545373467284834,
+      "y": 0.2905300763557531
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018150234098397222,
+      "text": "Orin Kerr，",
+      "width": 0.08847308525672323,
+      "x": 0.1482365762805981,
+      "y": 0.2845295341394234
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.025937795949075193,
+      "text": "compares the explosion and accessibility of digital information Ywith",
+      "width": 0.561898686335637,
+      "x": 0.2491983585248469,
+      "y": 0.28137672255500445
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "主语",
+      "width": 0.0430107520176814,
+      "x": 0.16989247302341737,
+      "y": 0.27034883706452617
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014589696618763526,
+      "text": "谓语 （compare A with B）+宾语",
+      "width": 0.27956988994891824,
+      "x": 0.4064516169610248,
+      "y": 0.26889534914072355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317590048781292,
+      "text": "the establishment of automobile use as a virtual necessity of life -",
+      "width": 0.5354838444636418,
+      "x": 0.15483872768753382,
+      "y": 0.2514534880932129
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017471547244584107,
+      "text": "in the 20th：",
+      "width": 0.09942641625037563,
+      "x": 0.829856685084194,
+      "y": 0.25071190125520215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02213588709639014,
+      "text": "解释说明个",
+      "width": 0.10123169238750751,
+      "x": 0.3418572730121126,
+      "y": 0.22512391670195453
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014550004420881946,
+      "text": "分句1：",
+      "width": 0.06021505135756272,
+      "x": 0.05806451783376343,
+      "y": 0.19765929771261914
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013096516092049981,
+      "text": "The justices had to specify novel rules for the new personal domain of the passenger car then",
+      "width": 0.789247307410607,
+      "x": 0.12903226685025204,
+      "y": 0.19765929803736315
+    },
+    {
+      "confidence": 1,
+      "height": 0.013209922105965277,
+      "text": "主语",
+      "width": 0.04086021276620716,
+      "x": 0.15268817277818675,
+      "y": 0.18010403142509523
+    },
+    {
+      "confidence": 1,
+      "height": 0.013209922105965277,
+      "text": "谓语",
+      "width": 0.04086021276620716,
+      "x": 0.26666666751858614,
+      "y": 0.180104031425095
+    },
+    {
+      "confidence": 1,
+      "height": 0.013209922105965277,
+      "text": "宾语",
+      "width": 0.040860212766207216,
+      "x": 0.3913978501975416,
+      "y": 0.18010403142509523
+    },
+    {
+      "confidence": 1,
+      "height": 0.01337901637520067,
+      "text": "目的状语",
+      "width": 0.07967585050142734,
+      "x": 0.5547857316586176,
+      "y": 0.18008374771347202
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013336195282260266,
+      "text": "时间状语",
+      "width": 0.08395715860220099,
+      "x": 0.8408171204628153,
+      "y": 0.1801051582429477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "分句2：",
+      "width": 0.06021505135756273,
+      "x": 0.05806451803089605,
+      "y": 0.1453488369373459
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "宾语",
+      "width": 0.04301075201768145,
+      "x": 0.3096774200485069,
+      "y": 0.15261627935874678
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "they must sort out.",
+      "width": 0.17204300807072564,
+      "x": 0.1225806446205512,
+      "y": 0.14369310800245128
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "how the Fourth Amendment applies to digital information now.",
+      "width": 0.5548386793870193,
+      "x": 0.37204303144627526,
+      "y": 0.14369310784620137
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "主语",
+      "width": 0.038709677182711094,
+      "x": 0.12903225842477348,
+      "y": 0.12790697703316545
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "谓语",
+      "width": 0.04301075201768137,
+      "x": 0.20860215118009937,
+      "y": 0.12790697674475882
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02211797190890663,
+      "text": "从句 可导词",
+      "width": 0.10967741746168869,
+      "x": 0.3096774204519513,
+      "y": 0.12613784119206384
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "主语",
+      "width": 0.04301075201768145,
+      "x": 0.4946236559624855,
+      "y": 0.12790697680532082
+    },
+    {
+      "confidence": 1,
+      "height": 0.013185351040645443,
+      "text": "谓语",
+      "width": 0.04301075201768134,
+      "x": 0.6580645168227005,
+      "y": 0.12790697668938544
+    },
+    {
+      "confidence": 1,
+      "height": 0.013185351040645443,
+      "text": "宾语",
+      "width": 0.040860212766207216,
+      "x": 0.789247312563133,
+      "y": 0.1279069765561489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013242054357640365,
+      "text": "功能注释：本句主干力 Orin Kerr compares...with...： The justices had to...； they must sort",
+      "width": 0.8451612619253305,
+      "x": 0.0924731409298077,
+      "y": 0.10013003885365246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016287008094539535,
+      "text": "out...。其中，a law professor 为 Orin Kerr 的同位语成分，补充说明该人物的职位；how 引导的从句做",
+      "width": 0.886021482027494,
+      "x": 0.049462369882310606,
+      "y": 0.07994186030822781
+    },
+    {
+      "confidence": 1,
+      "height": 0.013162669961877205,
+      "text": "29",
+      "width": 0.023655913426325892,
+      "x": 0.8967741939934423,
+      "y": 0.06241872557499717
+    }
+  ],
+  "vision_ocr_text": "drawing），并发现LA」似乎与该句最为接近，但对比后发现LA］实则偷换概念。随后将［B定位到第六段\n④句，但对比发现与文意相反。LDJ符合第五、六段以 As so often is the case 形成“理论情形 VS现实情\n况”的对比，并可概括第六段②③句，且顺应作者观点“最高法院应就数据隐私搜查提更新的指导原则”，\n故正确。将［C］定位到第五段②句，发现这是作者接受的事实，并非其担忧对象，也可排除。\n① But the justices\nshould\nnot swallow®\n但是法官们不应全盘接受加州的观点。\nCalifornia's\nargument\nwhole.\n② New, disruptive®\n新的破坏性技术有时需要宪法保护范围的\ntechnology sometimes demands novel® applications of the\nConstitution's protections. ⑧Orin Kerr, a law professor，\n新颖应用。法学教授奥林•克尔把“21世\ncompares the\nexplosion®\nand accessibility® of digital\n纪数字信息爆炸及其可获取性”与“20世纪\ninformation in the 21st century with the establishment of\n汽车确立沩生活必需”相较：当时法官们不\nautomobile use as a virtual®\nnecessity\" of life in the 20th：\n得不为小轿车这一新兴私人领域明确新规；\nThe justices had to specify®\nnovel\nrules for the new\n现在他们也必须解决第四修正案如何适用\npersonal domain® of the passenger car then; they must\n于数字信息的问题。\nsort out® how the Fourth Amendment applies to digital\ninformation now.［420 words］\n词汇注释与难句分析•\n①swallow ［'swplou］v.忍受，轻信\n⑨domain ［dau'mein］n. 范围，领域\n②disruptive ［dis'rApuv］a. 破坏的；扰乱的\n1Dsort out 解决\n③novel ［'noval］a.新奇的；异常的\n• 经典搭配\n④cxplosion ［rk'splouson］n. 爆炸；爆发；激增\n①novel application（新的运用）\n⑤accessibility ［okisesa/bilot］v.易接近，可达性\n②digital information（数字信息）\n⑥virtual ［'vstjual］a. 几乎的，实际上的\n③automobile use（汽车使用）\n⑦necessity ［ni'sesit］n.（迫切）需要；必需品\n④passenger car（小客车）\n⑧specify ［'spesifan］v. 具体指定；详述\nOrin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st\ncentury with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to\nspecify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth\nAmendment applies to digital information now.\n结构切分：\na law professor，\nin the 2Ist century\n句子主干：\nOrin Kerr，\ncompares the explosion and accessibility of digital information Ywith\n主语\n谓语 （compare A with B）+宾语\nthe establishment of automobile use as a virtual necessity of life -\nin the 20th：\n解释说明个\n分句1：\nThe justices had to specify novel rules for the new personal domain of the passenger car then\n主语\n谓语\n宾语\n目的状语\n时间状语\n分句2：\n宾语\nthey must sort out.\nhow the Fourth Amendment applies to digital information now.\n主语\n谓语\n从句 可导词\n主语\n谓语\n宾语\n功能注释：本句主干力 Orin Kerr compares...with...： The justices had to...； they must sort\nout...。其中，a law professor 为 Orin Kerr 的同位语成分，补充说明该人物的职位；how 引导的从句做\n29",
+  "pdf_text_layer": "draw ing ），并发现 ［ A ］ 似乎与该句 最 为接近，但对比后发 现 ［ A］实 则偷 换概念 。 随后将 ［ BJ 定位到第 六 段\n④句，但对 比 发现与文意 相 反 。［ DJ 符合第五、六段 以 A s so often is th e case 形成“理论情形 vs 现 实 情\n况”的对比，并可概括第六段 ②③ 句，且顺应作者观点“最高法院应就数据隐私搜 查 提更新的指导原则”，\n故正确 。 将 ［ CJ 定位到第五段 ② 句，发现这是作者接受 的 事实，并非其担忧对象， 也 可排除 。\n\n         斗     0 But    t he justices s ho uld not swallow①\n                                                                            但是法官们不应全盘接受加州的观点 。\nCalifornia's    arg um ent whole.     8 New,. disruptive®\n                                                                       新的破坏性技术有时需要宪法保护范围的\nt巳chnology sometimes demands novel (          ap plications of the\n                                                                       新颖应用 。 法学教授奥林·克尔把 “ 21 世\nConstitution ’ s protect ions. @Orin Kerr, a law professor,\ncompares the explosion® and accessibility® of digital                  纪数字信息爆炸及其可获取性”与“ z o 世纪\n\ninforma tion in the 21st cent ury w ith t h e 巳s t a bli s hm ent of   汽车确立为生活必需吁目较：当时法官们不\na utomobil e use as a virtual® necessity( of life in the 20t h:        得不为 小 轿车这 一 新兴私人领域明确新规；\nThe justices had to specify@ novel rules for the new                   现在他们也必须解决第四修正案如何适用\npersonal domain® of the passenger car then; they must                  于数字信息的问题 。\nsort on俨 how th e Fourth Amendment ap pli es to digita l\ninformation now. [ 420 words]\n\n\n                                           ： ·词汇注释与难旬分析. :1 1'\n( swallow [ 1swoJau] v . 忍受，轻信                                    ® domain [ dau1mem] n. 范围， 领 域\n( disruptive [ d1s1 rApt1v］ α ．破坏的；扰 乱的                           ( sort out 解决\n( novel [ 1nova!] a . 新奇的；异常的\n                                                                  ．经典搭配\n( explosion [1k1spJau3an] n. 爆炸；爆发；激增\n                                                                  ( novel app li cat i on （新的运用 ）\n( accessibility [ ak1 sesa1b归t1 ］ η 易接近，可达性\n                                                                  ( digital information （数 专\n( virtual [ 1v批jwl ］ α 几乎的，实际上的\n                                                                  ( automobil e u se （ 汽 车使用 ）\n( necessity [ m1ses1t1] n. （迫切 ） 需要；必需品\n                                                                  ( passenger ca r （小客车）\n( specify [ 1spes1fa1] v . 具 体指定；详述\n\n     Orin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st\ncentury with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to\nspecify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth\nAmendment applies to digital information now.\n     结构切分：\n                   a law professor,                                                    in the 21st century\n\n句子主干 I Orin Kerr, 'compares the explosion and accessibility of digital information 'with\n                主语                                谓语（ compare A with B) ＋ 宾 语\n               the establishm巳nt of automobile use as a virtual necessity of life\n\n                                         解释说明\n\n         I\n分句 1: The justices had to speci句             novel rules for the new personal domain of the passenger C衍生旦\n               主语             谓 i吾              宾语                     目的状语                                  时间状语\n\n分句2: Ithey        must sort 侧晤旦               how 巾 Fourtl\n               ［从句l 一一\n          主语谓语尸、 叫 寻 ｜ 守叫                                      主语                    谓语              宾语\n\n     功能注释： 本句主干为 Ori n                    K err compares . .. with .. . : Th e justices had to ... ; they mu s t sort\no ut ... 。 其中， a law professor 为 Orin Kerr 的同位语成分，补充说明该人物的职位； how 引导的从句做\n                                                                                                                29",
+  "quality": {
+    "vision_line_count": 84,
+    "vision_character_count": 2323,
+    "pdf_text_character_count": 3754,
+    "nonempty": true
+  }
+}

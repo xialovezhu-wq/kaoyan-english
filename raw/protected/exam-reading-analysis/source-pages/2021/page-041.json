@@ -1,0 +1,502 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P041",
+  "year": 2021,
+  "pdf_page": 41,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.017581208885589117,
+      "text": "者注：当法官同意主要意见书的决定，但有不同的理由或观点时，可独立撰写协同意见书加以陈述）。",
+      "width": 0.8571428067422328,
+      "x": 0.056722724937706956,
+      "y": 0.9300932092943154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01464713715046606,
+      "text": "前半部分中，the result is unhinged from the realities of modern broadband service 表明法官看法：判",
+      "width": 0.8487394770216161,
+      "x": 0.0987395112490959,
+      "y": 0.9127829563631344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01797603195739017,
+      "text": "决结果脱离如今宽带服务的现实。unhinged 本义为“从铰链上取下的”，此处引申为“与⋯⋯脱节的”；",
+      "width": 0.8928571344570388,
+      "x": 0.05672268689813136,
+      "y": 0.8921438081578367
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669367,
+      "text": "modern 一词表明现代宽带服务较过去已发生变化，判决结果落后于技术发展。",
+      "width": 0.6743697385108081,
+      "x": 0.0567227005135034,
+      "y": 0.8720930234625374
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016309648633161977,
+      "text": "后半部分中，Congress or the Supreme Court could intervene 点明挽救之策：让国会（立法机构）或最",
+      "width": 0.8487394770216161,
+      "x": 0.0987395112490959,
+      "y": 0.8531976748073624
+    },
+    {
+      "confidence": 1,
+      "height": 0.014738100663958531,
+      "text": "高法院（联邦法律的最终解释者）介人（暗示问题的真正解决超出了上诉法院的权限/能力）；avoid",
+      "width": 0.8907563020268846,
+      "x": 0.05882353522605333,
+      "y": 0.8355525966992196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016272876297586336,
+      "text": "trapping Internet regulation in technological anachronism （anachronism 意“过时”）呼应句内的 unhinged",
+      "width": 0.8928571344570388,
+      "x": 0.05672268689813136,
+      "y": 0.8139534885947378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860051669367,
+      "text": "from the realities，凸显更新法律、使其跟上技术发展的必要性。",
+      "width": 0.5399159337743858,
+      "x": 0.05672270569684075,
+      "y": 0.7936046511950956
+    },
+    {
+      "confidence": 1,
+      "height": 0.01611417270055948,
+      "text": "【深层解读】阅读时需借助逻辑衔接词、情感色彩表达词感知作者的情感态度。本段借 But 实现先扬",
+      "width": 0.8508403094517702,
+      "x": 0.09663867412127862,
+      "y": 0.7761627910747523
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01614320389281576,
+      "text": "后抑：①句先指出裁决结果，以 unanimously upheld、citing 等客观性表达肯定判决在法律程序上无懈可击；",
+      "width": 0.8907563020268847,
+      "x": 0.0588235217176502,
+      "y": 0.7556591212333766
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01607740036498373,
+      "text": "②句补充法官协同意见，以 unhinged from the realities、could intervene 明确问题所在：判决结果不符合当代",
+      "width": 0.8928571344570387,
+      "x": 0.05672268434711098,
+      "y": 0.7369186048738076
+    },
+    {
+      "confidence": 1,
+      "height": 0.016179976863327727,
+      "text": "现实，需依赖国会立法或最高法院的干预。",
+      "width": 0.35714283614259695,
+      "x": 0.05672269631945793,
+      "y": 0.7163781621763821
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01644096298319364,
+      "text": "• 真题精解",
+      "width": 0.09889123435195013,
+      "x": 0.4284955583079364,
+      "y": 0.6916341695939916
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016085142143239306,
+      "text": "39.Judge Patricia Millett argues that the appeals court’s",
+      "width": 0.46848739594623073,
+      "x": 0.06722689319022494,
+      "y": 0.6597869506482874
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016085142143239306,
+      "text": "39.帕特丽夏•米利特法官认为上诉法院的",
+      "width": 0.3865546077662121,
+      "x": 0.5504201718731966,
+      "y": 0.6597869504248135
+    },
+    {
+      "confidence": 1,
+      "height": 0.010420959894253956,
+      "text": "decision",
+      "width": 0.06520595807790296,
+      "x": 0.0692877779144752,
+      "y": 0.6437720782384788
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601353212298151,
+      "text": "裁定",
+      "width": 0.04411764641028615,
+      "x": 0.5525210091688065,
+      "y": 0.64244186083311
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010265382406079882,
+      "text": "-。",
+      "width": 0.01470588213676205,
+      "x": 0.6512605042047283,
+      "y": 0.6395348838083705
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "LAJ focus on trivialities",
+      "width": 0.20588234256457733,
+      "x": 0.06722689766028833,
+      "y": 0.6177325580376714
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01475745479212931,
+      "text": "［A］聚焦于琐事",
+      "width": 0.14285713445703885,
+      "x": 0.5525210134962705,
+      "y": 0.6177325585961243
+    },
+    {
+      "confidence": 1,
+      "height": 0.013379446834762332,
+      "text": "［B］",
+      "width": 0.035714283614259684,
+      "x": 0.06722689225274409,
+      "y": 0.594476744713063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013379446834762332,
+      "text": "conveys an ambiguous message",
+      "width": 0.26680671824196167,
+      "x": 0.10504201878518163,
+      "y": 0.5944767448765804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014711004757531843,
+      "text": "［B］传达模棱两可的信息",
+      "width": 0.2205882283763848,
+      "x": 0.5525210134378581,
+      "y": 0.5944767446322539
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013332998070037405,
+      "text": "［C］ is at odds with its earlier rulings",
+      "width": 0.3172268729678468,
+      "x": 0.06932774315893368,
+      "y": 0.5712209301137372
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013332998070037405,
+      "text": "［C］与过往的裁决不一致",
+      "width": 0.22268907550672112,
+      "x": 0.5525210100557632,
+      "y": 0.5712209301428071
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011984021304926706,
+      "text": "D］ is out of touch with reality",
+      "width": 0.25840335912098084,
+      "x": 0.07773108924203075,
+      "y": 0.547936084964534
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014740035949788455,
+      "text": "［D］与现实脱节",
+      "width": 0.14285713445703874,
+      "x": 0.5525210137938896,
+      "y": 0.546511628363566
+    },
+    {
+      "confidence": 1,
+      "height": 0.016269005090990274,
+      "text": "［精准定位］第四段②句指出，帕特丽夏•米利特法官认为判决结果与现实脱节，国会或最高法院",
+      "width": 0.8529411418819244,
+      "x": 0.0966386812859284,
+      "y": 0.5203488376063657
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669478,
+      "text": "可进行干预，以避免网络监管滞后于技术进步，D正确。",
+      "width": 0.472689060806539,
+      "x": 0.05882353209673058,
+      "y": 0.5000000001485838
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014778744206130123,
+      "text": "［命题解密］题干 the appeals court's decision 结合正确项 is out of touch with reality 是对②句 the",
+      "width": 0.8550419743120785,
+      "x": 0.09663866958415697,
+      "y": 0.4825581398461243
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016147075099411712,
+      "text": "result is unhinged from the realities...的同义改写。",
+      "width": 0.4495798158737506,
+      "x": 0.05672269370178018,
+      "y": 0.46205059918375746
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017527018342608613,
+      "text": "A、B均对②句“判决结果偏离现实（the result is unhinged from the realities）”断章取义，理解成帕特丽",
+      "width": 0.8508403094517702,
+      "x": 0.09873950113545961,
+      "y": 0.4418604651485839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017637335984271973,
+      "text": "夏•米利特法官认裁决“仅聚焦于琐事/并未处理重大问题”或“模棱两可，未切中现实情形”。C与①句",
+      "width": 0.8907563020268847,
+      "x": 0.058823538587397785,
+      "y": 0.4227696403351673
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016036756822812137,
+      "text": "“上诉法院援引了最高法院2005年的一项裁决”相悖，且与帕特丽夏•米利特法官的个人看法无关。",
+      "width": 0.8424369797311536,
+      "x": 0.05672269713547338,
+      "y": 0.40406976771901104
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739006,
+      "text": "［技巧总结］本题表面考查人物观点，实际考查考生对长难句核心信息的总结推理能力，解题时应",
+      "width": 0.8529411418819244,
+      "x": 0.09663867013046648,
+      "y": 0.38348868195308017
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599998385230006,
+      "text": "结合上下文（借助逻辑词、情感词、段落主旨等）对其做出合理推断。解题步骤：一、锁定第四段②句为正",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.3648255817841065
+    },
+    {
+      "confidence": 1,
+      "height": 0.016253522169415335,
+      "text": "确项来源，但该句较为抽象难懂，因此需结合上下文理解，而借But 可知，首句让步肯定此次裁决的法理",
+      "width": 0.8907563020268847,
+      "x": 0.05882353602137151,
+      "y": 0.3459302329261331
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600385505889612,
+      "text": "依据，故②句法官之言应转而传达该结果的不足或缺陷；二、结合定位处关键信息 unhinged from the",
+      "width": 0.8949579668871929,
+      "x": 0.05882352763833651,
+      "y": 0.3255659118877905
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016216749833839694,
+      "text": "realities、trapping Internet regulation in technological anachronism（注：构词法可用于辅助推测，unhinged",
+      "width": 0.8970587993173471,
+      "x": 0.05672269221107456,
+      "y": 0.30668604670520283
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01616255802098665,
+      "text": "的前缀un-具有否定含义）可知法官认为裁决脱离现实/落后于技术发展，初步判定D为正确项；三、识别",
+      "width": 0.8928571344570388,
+      "x": 0.05882352468324541,
+      "y": 0.28761651137846156
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016179976863327727,
+      "text": "干扰项，A、B在文中找不到信息支撑，C则违背文中事实，均可排除，最终确定正确项为D。",
+      "width": 0.7773108803927323,
+      "x": 0.05882356111665883,
+      "y": 0.2674418607786041
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815838,
+      "text": "① In the meantime, the court threw out the",
+      "width": 0.405462158438328,
+      "x": 0.13025211318279686,
+      "y": 0.2369186049056502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01468971534353114,
+      "text": "与此同时，法院驳回了FCC 试图终止所",
+      "width": 0.3487394770216161,
+      "x": 0.5987395086740658,
+      "y": 0.229651163261822
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014848418940558106,
+      "text": "FCC's attempt to block① all state",
+      "width": 0.3361344530403269,
+      "x": 0.06092437432017255,
+      "y": 0.21770972024674795
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "rules",
+      "width": 0.04621848619053126,
+      "x": 0.4096638660433899,
+      "y": 0.21947674425756558
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00755388155758141,
+      "text": "on",
+      "width": 0.023109243095265686,
+      "x": 0.4684873949702243,
+      "y": 0.21947674432349829
+    },
+    {
+      "confidence": 1,
+      "height": 0.008885439480351032,
+      "text": "net",
+      "width": 0.03151260405376921,
+      "x": 0.5042016806411826,
+      "y": 0.21947674419250907
+    },
+    {
+      "confidence": 1,
+      "height": 0.01623610332707426,
+      "text": "有州的网络中立法规的请求，但维护了 FCC",
+      "width": 0.3907563020268846,
+      "x": 0.5588235312869778,
+      "y": 0.2090545938521704
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020540017738799432,
+      "text": "neutrality, while preserving® the commission's power to",
+      "width": 0.4772304468761289,
+      "x": 0.05869513235943156,
+      "y": 0.1953691434468665
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371502384857,
+      "text": "如下权力：凭借“联邦法优先”原则，否决动摇",
+      "width": 0.3886554401963662,
+      "x": 0.5588235442925731,
+      "y": 0.1904069771121797
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01650452899551902,
+      "text": "preempt® individual state laws that undermine® its order.",
+      "width": 0.47281830480792386,
+      "x": 0.058726538672133524,
+      "y": 0.17857252507856947
+    },
+    {
+      "confidence": 1,
+      "height": 0.01797603195739017,
+      "text": "其现有规则的个别州法。这意味着会有更多",
+      "width": 0.3865546077662121,
+      "x": 0.5588235368311797,
+      "y": 0.16977363540692325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016919539866847466,
+      "text": "② That means more battles® like the one now going on",
+      "width": 0.4749479495950747,
+      "x": 0.06085281904549777,
+      "y": 0.1597567886897283
+    },
+    {
+      "confidence": 1,
+      "height": 0.017594757156270457,
+      "text": "类似当前“司法部和加州之争”的较量，后者",
+      "width": 0.3886554401963662,
+      "x": 0.5588235376486657,
+      "y": 0.15246338238991297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688379,
+      "text": "between the Justice Department and California, which",
+      "width": 0.4747898932366932,
+      "x": 0.06092438586064494,
+      "y": 0.14098837200327208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01474777772804392,
+      "text": "在FCC放弃监管后颁布了一项严厉的网络",
+      "width": 0.3865546077662121,
+      "x": 0.5588235332317399,
+      "y": 0.13372093054379874
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014790356556045436,
+      "text": "enacted® a tough net neutrality law in the wake of the",
+      "width": 0.4768907550672115,
+      "x": 0.058823525643915395,
+      "y": 0.12183755021846998
+    },
+    {
+      "confidence": 1,
+      "height": 0.014724553028213405,
+      "text": "中立法。",
+      "width": 0.07142856722851931,
+      "x": 0.5609243727407823,
+      "y": 0.11318242333205764
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696439,
+      "text": "FCC's abdication®",
+      "width": 0.15126049357801963,
+      "x": 0.060924377300625956,
+      "y": 0.10452729693395058
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627907124403869,
+      "text": "41",
+      "width": 0.02310924309526563,
+      "x": 0.913865546327017,
+      "y": 0.05523255799303062
+    }
+  ],
+  "vision_ocr_text": "者注：当法官同意主要意见书的决定，但有不同的理由或观点时，可独立撰写协同意见书加以陈述）。\n前半部分中，the result is unhinged from the realities of modern broadband service 表明法官看法：判\n决结果脱离如今宽带服务的现实。unhinged 本义为“从铰链上取下的”，此处引申为“与⋯⋯脱节的”；\nmodern 一词表明现代宽带服务较过去已发生变化，判决结果落后于技术发展。\n后半部分中，Congress or the Supreme Court could intervene 点明挽救之策：让国会（立法机构）或最\n高法院（联邦法律的最终解释者）介人（暗示问题的真正解决超出了上诉法院的权限/能力）；avoid\ntrapping Internet regulation in technological anachronism （anachronism 意“过时”）呼应句内的 unhinged\nfrom the realities，凸显更新法律、使其跟上技术发展的必要性。\n【深层解读】阅读时需借助逻辑衔接词、情感色彩表达词感知作者的情感态度。本段借 But 实现先扬\n后抑：①句先指出裁决结果，以 unanimously upheld、citing 等客观性表达肯定判决在法律程序上无懈可击；\n②句补充法官协同意见，以 unhinged from the realities、could intervene 明确问题所在：判决结果不符合当代\n现实，需依赖国会立法或最高法院的干预。\n• 真题精解\n39.Judge Patricia Millett argues that the appeals court’s\n39.帕特丽夏•米利特法官认为上诉法院的\ndecision\n裁定\n-。\nLAJ focus on trivialities\n［A］聚焦于琐事\n［B］\nconveys an ambiguous message\n［B］传达模棱两可的信息\n［C］ is at odds with its earlier rulings\n［C］与过往的裁决不一致\nD］ is out of touch with reality\n［D］与现实脱节\n［精准定位］第四段②句指出，帕特丽夏•米利特法官认为判决结果与现实脱节，国会或最高法院\n可进行干预，以避免网络监管滞后于技术进步，D正确。\n［命题解密］题干 the appeals court's decision 结合正确项 is out of touch with reality 是对②句 the\nresult is unhinged from the realities...的同义改写。\nA、B均对②句“判决结果偏离现实（the result is unhinged from the realities）”断章取义，理解成帕特丽\n夏•米利特法官认裁决“仅聚焦于琐事/并未处理重大问题”或“模棱两可，未切中现实情形”。C与①句\n“上诉法院援引了最高法院2005年的一项裁决”相悖，且与帕特丽夏•米利特法官的个人看法无关。\n［技巧总结］本题表面考查人物观点，实际考查考生对长难句核心信息的总结推理能力，解题时应\n结合上下文（借助逻辑词、情感词、段落主旨等）对其做出合理推断。解题步骤：一、锁定第四段②句为正\n确项来源，但该句较为抽象难懂，因此需结合上下文理解，而借But 可知，首句让步肯定此次裁决的法理\n依据，故②句法官之言应转而传达该结果的不足或缺陷；二、结合定位处关键信息 unhinged from the\nrealities、trapping Internet regulation in technological anachronism（注：构词法可用于辅助推测，unhinged\n的前缀un-具有否定含义）可知法官认为裁决脱离现实/落后于技术发展，初步判定D为正确项；三、识别\n干扰项，A、B在文中找不到信息支撑，C则违背文中事实，均可排除，最终确定正确项为D。\n① In the meantime, the court threw out the\n与此同时，法院驳回了FCC 试图终止所\nFCC's attempt to block① all state\nrules\non\nnet\n有州的网络中立法规的请求，但维护了 FCC\nneutrality, while preserving® the commission's power to\n如下权力：凭借“联邦法优先”原则，否决动摇\npreempt® individual state laws that undermine® its order.\n其现有规则的个别州法。这意味着会有更多\n② That means more battles® like the one now going on\n类似当前“司法部和加州之争”的较量，后者\nbetween the Justice Department and California, which\n在FCC放弃监管后颁布了一项严厉的网络\nenacted® a tough net neutrality law in the wake of the\n中立法。\nFCC's abdication®\n41",
+  "pdf_text_layer": "者注：当法官同意主要意见书的决定，但有不同的理由或观点时，可独立撰写协同意见书加以陈述）。\n    前半部分中,the result is unhinged from the realities of modern broadband service 表明法官看法：判\n决结果脱离如今宽带服务的现实。unhinged本义为“从較链上取下的”，此处引申为“与……脱节的”；\nmodern -词表明现代宽带服务较过去已发生变化，判决结果落后于技术发展。\n    后半部分中‘Congress or the Supreme Court could intervene点明挽救之策：让国会（立法机构）或最\n高法院（联邦法律的最终解释者）介入（暗示问题的真正解决超出了上诉法院的权限/能力）；avoid\ntrapping Internet regulation in technological anachronismCanachronism 意为''过时\"）呼应句内的 unhinged\nfrom the realities,凸显更新法律、使其跟上技术发展的必要性。\n    【深层解读】阅读时需借助逻辑衔接词、情感色彩表达词感知作者的情感态度。本段借But实现先扬\n后抑：①句先指出裁决结果,以unanimously upheld.citing等客观性表达肯定判决在法律程序上无懈可击；\n②句补充法官协同意见，以unhinged from the realities,could intervene明确问题所在：判决结果不符合当代\n现实，需依赖国会立法或最高法院的干预。\n                                                 「•真题精解・'\\也\n\n\n 39. Judge Patricia Millett argues that the appeals courts          39.帕特丽夏•米利特法官认为上诉法院的\n decision        ・                                                  裁定      。\n [A] focus on trivialities                                          :A］聚焦于琐事\n [B] conveys an ambiguous message                                   ［B］传达模棱两可的信息\n [C] is at odds w让h its earlier rulings                             ［C］与过往的裁决不一致\n [D] is out of touch with reality                                   ［D］与现实脱节\n    ［精准定位］第四段②句指岀，帕特丽夏•米利特法官认为判决结果与现实脱节，国会或最高法院\n可进行干预，以避免网络监管滞后于技术进步，D正确。\n    ［命题解密］题干 the appeals court's decision 结合正确项 is out of touch with reality 是对②句 the\nresult is unhinged from the realities...的同义改写。\n    A、B均对②句\"判决结果偏离现实（the result is unhinged from the realities）M断章取义，理解成帕特丽\n夏•米利特法官认为裁决“仅聚焦于琐事/并未处理重大问题”或“模棱两可，未切中现实情形”。C与①句\n“上诉法院援引了最高法院2005年的一项裁决”相悖，且与帕特丽夏•米利特法官的个人看法无关。\n    ［技巧总结］本题表面考查人物观点，实际考查考生对长难句核心信息的总结推理能力，解题时应\n结合上下文（借助逻辑词、情感词、段落主旨等）对其做出合理推断。解题步骤：一、锁定第四段②句为正\n确项来源，但该句较为抽象难懂，因此需结合上下文理解，而借But可知，首句让步肯定此次裁决的法理\n依据，故②句法官之言应转而传达该结果的不足或缺陷；二、结合定位处关键信息unhinged from the\nrealities‘trapping Internet regulation in technological anachronism （注：构词法可用于辅助推测，unhinged\n的前缀un-具有否定含义）可知法官认为裁决脱离现实/落后于技术发展，初步判定D为正确项；三、识别\n干扰项，A、B在文中找不到信息支撑，C则违背文中事实，均可排除，最终确定正确项为D。\n\n     V O In the meantime, the court threw out the\n                                                                         与此同时，法院驳回了 FCC试图终止所\nFCC's attempt        to   block®   all   state   rules   on   net\n                                                                    有州的网络中立法规的请求，但维护了 FCC\nneutrality, while preserving② the commission's power to\n                                                                    如下权力：凭借“联邦法优先”原则，否决动摇\npreempt1 individual state laws that undermine® its order.\n                                                                    其现有规则的个别州法。这意味着会有更多\n©That means more battles0 like the one now going on\n                                                                    类似当前“司法部和加州之争”的较量，后者\nbetween the Justice Department and California, which\n                                                                    在FCC放弃监管后颁布了 一项严厉的网络\nenacted® a tough net neutral让y law in the wake of the\n                                                                    中立法。\nFCC's abdication°.\n\n\n                                                                                          41",
+  "quality": {
+    "vision_line_count": 60,
+    "vision_character_count": 2213,
+    "pdf_text_character_count": 3103,
+    "nonempty": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "english_capture_event_v1",
+  "event_id": "EVT-20260806-8F4D09BF50F3F1B3",
+  "event_type": "sentence_captured",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260710-001",
+    "source_article": "articles/2026-07-10-2011-english-i-text-4.md",
+    "source_id": "RAW-ARTICLE-20260710-001",
+    "source_hash": "455ef9a81527a0b6aad26db4c6e09f37ec5bf0f3ec84642f6d6d69d13ce5dfc9",
+    "reference_id": "EXAM-READING-2011-T4",
+    "title": "2011 English I Text 4"
+  },
+  "source": {
+    "sentence_id": "Q37-A",
+    "source_sentence": "celebrity moms are a permanent source for gossip.",
+    "source_kind": "option",
+    "sentence_hash": "6532054d55562a64a90e8b862f03b6cf06e0884842459544d630b4969d1a48c1"
+  },
+  "learning": {
+    "first_translation": "提到一个 celebrity（明星）的妈妈，说她是一个什么样的资源。但资源前面修饰的那个词（好像拼写是 gossip）我没太理解是什么意思，不知道指代什么资源然后permanent，我不知道什么意思。",
+    "user_evidence_verbatim": "A 选项的“长期存在的”，还有“八卦”是没翻译出来的，我还得快速入库这个东西。",
+    "user_evidence": [
+      "unknown"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "明星妈妈长期都是八卦消息的来源。",
+    "explanation": "permanent 表示长期存在的、持久的；gossip 表示八卦、闲谈或绯闻消息；source 是来源。",
+    "first_breakpoint": "未识别 permanent 和 gossip，导致 a permanent source for gossip 无法完整理解。",
+    "restatement": ""
+  },
+  "candidates": [
+    {
+      "item": "permanent",
+      "candidate_type": "单词",
+      "meaning": "长期存在的；持久的",
+      "usage": "在 a permanent source 中修饰 source，表示长期、持续存在的来源。",
+      "review_note": "不要漏掉它表达的持续性。",
+      "decision": "长期库候选",
+      "reason": "用户明确未识别，直接影响选项理解。"
+    },
+    {
+      "item": "gossip",
+      "candidate_type": "单词",
+      "meaning": "八卦；闲谈；绯闻消息",
+      "usage": "source for gossip 表示八卦消息或话题的来源。",
+      "review_note": "本句不是一般的信息，而是明星八卦。",
+      "decision": "长期库候选",
+      "reason": "用户明确未识别，直接影响选项理解。"
+    }
+  ],
+  "idempotency_key": "2026-08-06-q37-a-option-language-v1",
+  "request_sha256": "c9b8a8f535aa7262d6fee89f40ced18b1a4dc6efae081e7616e334f4b4fee912",
+  "occurred_at": "2026-08-06T06:34:51Z",
+  "producer": {
+    "role": "foreground_producer",
+    "name": "english_learning_pipeline",
+    "version": "0.1.0"
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none"
+}

@@ -1,0 +1,590 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2010-P020",
+  "year": 2010,
+  "pdf_page": 20,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+  "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01907964718887223,
+      "text": "易”，而是表示“意义重大的事，非常重要的事”。［C］中 has been dismissed 表明判决结果，与第四段②句",
+      "width": 0.8768577210989783,
+      "x": 0.07006371696643432,
+      "y": 0.927325581656781
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "中 would be heard（即将听审，尚未作出判决）相矛盾。",
+      "width": 0.4522292828240769,
+      "x": 0.0700637063055836,
+      "y": 0.9069767440676973
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186052309915,
+      "text": "［技巧总结］ Which of the following is true of...为细节推理题的典型提问方式，此类题的解答步骤",
+      "width": 0.8407642955305927,
+      "x": 0.10828027236209219,
+      "y": 0.8866279067733341
+    },
+    {
+      "confidence": 1,
+      "height": 0.017707858366124762,
+      "text": "有：一、根据考查对象迅速定位；二、分析选项内容及措辞：含有 may 或表示可能性的副词，同时内容涉及",
+      "width": 0.8789808809415331,
+      "x": 0.07006371064388278,
+      "y": 0.8660130720044364
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "“较大的影响力”（不具备较大意义或影响力的内容不会成为命题人着眼的对象），很可能为正确项，确认",
+      "width": 0.8811040407840882,
+      "x": 0.0679405397990389,
+      "y": 0.8470588232393796
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "该项与主题是否契合。",
+      "width": 0.19108279576493042,
+      "x": 0.07006369574810807,
+      "y": 0.8241279068026779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "解答本题时，首先根据the Bilski case 迅速定位至第二段③④句；然后通过选项措辞及内容，判断",
+      "width": 0.8386411940390476,
+      "x": 0.1104034012288838,
+      "y": 0.8052287578949072
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01773065803876883,
+      "text": "［D］可能正确；再根据文章主题：the bilski case 为文中例子，旨在说明文章主题，而文章主题为第二段①",
+      "width": 0.8789808809415333,
+      "x": 0.07006370570757725,
+      "y": 0.78488372104659
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018697926265741516,
+      "text": "句：（十年来授子无数商业方法专利，现在美国专利法庭意欲缩减商业方法专利数量（对其采取限制措",
+      "width": 0.8791489902007649,
+      "x": 0.07210061476034704,
+      "y": 0.7634759104789356
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "施），今昔变化凸显美国专利相关法律实践或遭改变，最终确定选项。",
+      "width": 0.5796177938836937,
+      "x": 0.07006370872694298,
+      "y": 0.7441860463084919
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013134594212949602,
+      "text": "Curbs® on business-method claims® would be a",
+      "width": 0.39702759372572605,
+      "x": 0.17197452900408663,
+      "y": 0.7136627912056124
+    },
+    {
+      "confidence": 1,
+      "height": 0.014665982614155748,
+      "text": "对商业方法专利申请的限制也许是",
+      "width": 0.31210190023564477,
+      "x": 0.6326963937250651,
+      "y": 0.7049418607734446
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.012208746617136557,
+      "text": "dramatic®",
+      "width": 0.08297336352258979,
+      "x": 0.07210143001989412,
+      "y": 0.693023533823208
+    },
+    {
+      "confidence": 1,
+      "height": 0.012387498843124511,
+      "text": "about-face®",
+      "width": 0.09785243338882124,
+      "x": 0.15277229873123657,
+      "y": 0.6929341577131938
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.024930081336326793,
+      "text": "：because™it was the Federal Circuit",
+      "width": 0.34504168712842076,
+      "x": 0.22643930418310995,
+      "y": 0.685463506584163
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "一次戏剧性的180度逆转，因为正是联邦",
+      "width": 0.3545647469806853,
+      "x": 0.5902335510142576,
+      "y": 0.6830065356985101
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01189770480386576,
+      "text": "itself that introduced such patents with its 1998 decision in",
+      "width": 0.4989384200787225,
+      "x": 0.07218684715278297,
+      "y": 0.6712418299277478
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "巡回法院自己在1998年被称为“道富银",
+      "width": 0.35244161631363524,
+      "x": 0.592356689136176,
+      "y": 0.6640522875206307
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01457098356259423,
+      "text": "the so-called State Street Bank case, approving a patent on",
+      "width": 0.49893842007872247,
+      "x": 0.0721868449146372,
+      "y": 0.6496732023347807
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371107313326,
+      "text": "行案”的裁决中引入了此类专利，批准了",
+      "width": 0.3503184564710803,
+      "x": 0.5923566981710415,
+      "y": 0.6424418607581166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313215,
+      "text": "a way of pooling®mutual-fund assets.",
+      "width": 0.34394903529442516,
+      "x": 0.07218684052688508,
+      "y": 0.6293604658756069
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313437,
+      "text": "② That ruling®",
+      "width": 0.14861994901988979,
+      "x": 0.4182590292055541,
+      "y": 0.6293604658089886
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "一项共同基金资产筹集方法的专利。那",
+      "width": 0.35244161631363524,
+      "x": 0.592356689465263,
+      "y": 0.6220930229654686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014542483660130667,
+      "text": "produced an explosion® in business-method patent filings®",
+      "width": 0.4840764178828574,
+      "x": 0.0721868487655776,
+      "y": 0.6104575160938333
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534882938160631,
+      "text": "项裁决导致了商业方法专利申请卷宗的",
+      "width": 0.35244161631363524,
+      "x": 0.5923566909408469,
+      "y": 0.6031976748826637
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013297993529076568,
+      "text": "initially by emerging Internet companies trying to stake out",
+      "width": 0.49893842007872247,
+      "x": 0.07218683550204019,
+      "y": 0.5886627907695658
+    },
+    {
+      "confidence": 1,
+      "height": 0.01599027222278071,
+      "text": "激增，起初是新兴网络公司试图对特定类",
+      "width": 0.35244161631363524,
+      "x": 0.592356689762503,
+      "y": 0.5813953488666315
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01338539248198467,
+      "text": "exclusive rights to specific types of online transactions. 3",
+      "width": 0.49469215874462236,
+      "x": 0.07218682314892036,
+      "y": 0.5683139536874438
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "型的在线交易占得专有权。后来，更多的",
+      "width": 0.35244161631363524,
+      "x": 0.5923566909408469,
+      "y": 0.5594771243971612
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "Later, more established® companies raced to add such",
+      "width": 0.4989384200787226,
+      "x": 0.0721868399340995,
+      "y": 0.5477124182105936
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "老牌公司竞相将此类专利归入其卷宗，哪",
+      "width": 0.35244161631363524,
+      "x": 0.5923566890527668,
+      "y": 0.5405228757405969
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013246693953969157,
+      "text": "patents to their files, if only as a defensive move against",
+      "width": 0.4989384200787225,
+      "x": 0.07218684590543696,
+      "y": 0.5274509802473953
+    },
+    {
+      "confidence": 1,
+      "height": 0.014622282514385132,
+      "text": "怕只是作为一项防御性措施以防范可能",
+      "width": 0.35244161631363524,
+      "x": 0.5923566890527668,
+      "y": 0.520261438107519
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013159294377744546,
+      "text": "rivals that might beat them to the punch. ④In 2005, IBM",
+      "width": 0.4968152602361675,
+      "x": 0.07218684143181028,
+      "y": 0.5071895424689687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "先发制人的竞争对手。2005年，IBM 在一",
+      "width": 0.3545647469806854,
+      "x": 0.5923566958727146,
+      "y": 0.4985465115991895
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "noted in a court filing that it had been issued® more than",
+      "width": 0.49044583905951245,
+      "x": 0.0721868454118574,
+      "y": 0.4869186048608616
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "份法院案卷中注意到自己被授子了300多",
+      "width": 0.35244161631363535,
+      "x": 0.5923566835983133,
+      "y": 0.47965116310940803
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013168794345232437,
+      "text": "300 business-method patents, despite the fact that it",
+      "width": 0.4861995777254123,
+      "x": 0.07218684141861005,
+      "y": 0.466569767786281
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014553883496452813,
+      "text": "项商业方法专利，尽管它质疑授予这些专利",
+      "width": 0.35244161631363535,
+      "x": 0.5923566860045412,
+      "y": 0.4593023258516561
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013256193921456827,
+      "text": "questioned the legal basis for granting them. ⑤ Similarly，",
+      "width": 0.4989384200787225,
+      "x": 0.07218684923169298,
+      "y": 0.44622093054669765
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "的法律依据。无独有偶，一些华尔街投资公",
+      "width": 0.3545647469806854,
+      "x": 0.5923566958727146,
+      "y": 0.43725490193206684
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011890104705212123,
+      "text": "some Wall Street investment firms armed themselves with",
+      "width": 0.4989384200787225,
+      "x": 0.07218683467932246,
+      "y": 0.42732558147478183
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562149,
+      "text": "司也都以金融产品专利来武装自己，即使它",
+      "width": 0.3503184564710803,
+      "x": 0.5944798399810203,
+      "y": 0.4183006536958498
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01337589251449689,
+      "text": "patents for financial products, even as they took positions in",
+      "width": 0.4989384200787225,
+      "x": 0.07218683467932246,
+      "y": 0.4052287582675361
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045694,
+      "text": "们在法庭案例中表示反对这一做法。",
+      "width": 0.2951167673727295,
+      "x": 0.5923566881643076,
+      "y": 0.39673202588028855
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018210408578511195,
+      "text": "court cases opposing the practice\"",
+      "width": 0.28521229614491217,
+      "x": 0.07193805217524246,
+      "y": 0.3816691304621067
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.22080678556890831,
+      "x": 0.3842887537972868,
+      "y": 0.3430232557561663
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013094695097480735,
+      "text": "①curb ［ks:b］v. 起约束或控制作用的事物",
+      "width": 0.32908703309855997,
+      "x": 0.07218684673552433,
+      "y": 0.3183006535224884
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "①practice ［'preekus］ n.通常的做法，惯例，常规",
+      "width": 0.3651804586669455,
+      "x": 0.5329087045306463,
+      "y": 0.31686046543498947
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013153594771241894,
+      "text": "②claim ［kleim］n. 专利申请",
+      "width": 0.22080678556890831,
+      "x": 0.07006370071873048,
+      "y": 0.2993464050115179
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01575229619842733,
+      "text": "• 经典搭配",
+      "width": 0.10650036667774554,
+      "x": 0.536983363194985,
+      "y": 0.2915424566144512
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882938160631,
+      "text": "③dramatic ［dra meetlk］ a.戏剧性的",
+      "width": 0.27813163450981415,
+      "x": 0.07006369094572998,
+      "y": 0.27906976779690806
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013134594836266222,
+      "text": "①stake out exclusive rights to sth（宣布对⋯",
+      "width": 0.34182590462737505,
+      "x": 0.5371549939354276,
+      "y": 0.273202614248819
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013134594836266222,
+      "text": "•⋯•的独占",
+      "width": 0.07218683654901858,
+      "x": 0.878980890801924,
+      "y": 0.27320261408530155
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014578583037931248,
+      "text": "①about-face 1.政策或意见的180度转变",
+      "width": 0.31847132141229983,
+      "x": 0.07218684348705603,
+      "y": 0.2601307187145794
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0117647058823529,
+      "text": "权）",
+      "width": 0.031847131411842367,
+      "x": 0.5520169859129748,
+      "y": 0.2542483661143462
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014637482711692185,
+      "text": "⑤pool ［pu：］v. 集中（金钱、资源等）",
+      "width": 0.2760084746672592,
+      "x": 0.07218684316884745,
+      "y": 0.24117647031262068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014559583102955465,
+      "text": "②established companies（老牌公司）",
+      "width": 0.27813163450981415,
+      "x": 0.5371549896453052,
+      "y": 0.23398692798821785
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014696382385453455,
+      "text": "⑤ruling ［'rulg］n.裁决，裁定，判决",
+      "width": 0.27813163450981415,
+      "x": 0.07218683945422238,
+      "y": 0.22222222196153396
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013358793071671982,
+      "text": "⑦explosion ［ik'splouson］n.激增",
+      "width": 0.24628449945103373,
+      "x": 0.07430997755686111,
+      "y": 0.20494186059151343
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011827405293782456,
+      "text": "5）",
+      "width": 0.01061571077452561,
+      "x": 0.5074309979832257,
+      "y": 0.2136627910314679
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010174418430702326,
+      "text": "③race to do sth（争相⋯•••）",
+      "width": 0.21656050964705575,
+      "x": 0.5392781342953681,
+      "y": 0.2180232559554337
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013370192284677507,
+      "text": "④defensive move against（针对⋯⋯的防卫措施）",
+      "width": 0.3736730105106507,
+      "x": 0.5392781432938608,
+      "y": 0.197385621160873
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015032679738562149,
+      "text": "⑧riling ［'Failn］n.卷宗",
+      "width": 0.18471337458827525,
+      "x": 0.07006369548187084,
+      "y": 0.18431372565738646
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013377792383331144,
+      "text": "⑤beat sb to the punch（先下手 强）",
+      "width": 0.2866241863535194,
+      "x": 0.539278143801301,
+      "y": 0.17877907027537976
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01469448189330258,
+      "text": "⑨established ［：'steeblijt］ a. 地位稳固的",
+      "width": 0.29936305788233447,
+      "x": 0.07006369515649728,
+      "y": 0.16569767466464058
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013182094050388726,
+      "text": "10 issue ［'1ju：］v.（正式）发给，供给",
+      "width": 0.263269632313949,
+      "x": 0.07006369501075378,
+      "y": 0.14825581417072864
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011825505424948313,
+      "text": "Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit",
+      "width": 0.8428874553731477,
+      "x": 0.11252655885801191,
+      "y": 0.11627907002856075
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011912904377856304,
+      "text": "itself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a",
+      "width": 0.8811040407840881,
+      "x": 0.07218684192218079,
+      "y": 0.09593023280472357
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01335309284185271,
+      "text": "patent on a way of pooling mutual-fund assets.",
+      "width": 0.3800424608628107,
+      "x": 0.07218684225967734,
+      "y": 0.07385620921198266
+    },
+    {
+      "confidence": 1,
+      "height": 0.011812205096475403,
+      "text": "20",
+      "width": 0.023354564980384726,
+      "x": 0.08704883225503057,
+      "y": 0.05359477140112656
+    }
+  ],
+  "vision_ocr_text": "易”，而是表示“意义重大的事，非常重要的事”。［C］中 has been dismissed 表明判决结果，与第四段②句\n中 would be heard（即将听审，尚未作出判决）相矛盾。\n［技巧总结］ Which of the following is true of...为细节推理题的典型提问方式，此类题的解答步骤\n有：一、根据考查对象迅速定位；二、分析选项内容及措辞：含有 may 或表示可能性的副词，同时内容涉及\n“较大的影响力”（不具备较大意义或影响力的内容不会成为命题人着眼的对象），很可能为正确项，确认\n该项与主题是否契合。\n解答本题时，首先根据the Bilski case 迅速定位至第二段③④句；然后通过选项措辞及内容，判断\n［D］可能正确；再根据文章主题：the bilski case 为文中例子，旨在说明文章主题，而文章主题为第二段①\n句：（十年来授子无数商业方法专利，现在美国专利法庭意欲缩减商业方法专利数量（对其采取限制措\n施），今昔变化凸显美国专利相关法律实践或遭改变，最终确定选项。\nCurbs® on business-method claims® would be a\n对商业方法专利申请的限制也许是\ndramatic®\nabout-face®\n：because™it was the Federal Circuit\n一次戏剧性的180度逆转，因为正是联邦\nitself that introduced such patents with its 1998 decision in\n巡回法院自己在1998年被称为“道富银\nthe so-called State Street Bank case, approving a patent on\n行案”的裁决中引入了此类专利，批准了\na way of pooling®mutual-fund assets.\n② That ruling®\n一项共同基金资产筹集方法的专利。那\nproduced an explosion® in business-method patent filings®\n项裁决导致了商业方法专利申请卷宗的\ninitially by emerging Internet companies trying to stake out\n激增，起初是新兴网络公司试图对特定类\nexclusive rights to specific types of online transactions. 3\n型的在线交易占得专有权。后来，更多的\nLater, more established® companies raced to add such\n老牌公司竞相将此类专利归入其卷宗，哪\npatents to their files, if only as a defensive move against\n怕只是作为一项防御性措施以防范可能\nrivals that might beat them to the punch. ④In 2005, IBM\n先发制人的竞争对手。2005年，IBM 在一\nnoted in a court filing that it had been issued® more than\n份法院案卷中注意到自己被授子了300多\n300 business-method patents, despite the fact that it\n项商业方法专利，尽管它质疑授予这些专利\nquestioned the legal basis for granting them. ⑤ Similarly，\n的法律依据。无独有偶，一些华尔街投资公\nsome Wall Street investment firms armed themselves with\n司也都以金融产品专利来武装自己，即使它\npatents for financial products, even as they took positions in\n们在法庭案例中表示反对这一做法。\ncourt cases opposing the practice\"\n•词汇注释与难句分析•\n①curb ［ks:b］v. 起约束或控制作用的事物\n①practice ［'preekus］ n.通常的做法，惯例，常规\n②claim ［kleim］n. 专利申请\n• 经典搭配\n③dramatic ［dra meetlk］ a.戏剧性的\n①stake out exclusive rights to sth（宣布对⋯\n•⋯•的独占\n①about-face 1.政策或意见的180度转变\n权）\n⑤pool ［pu：］v. 集中（金钱、资源等）\n②established companies（老牌公司）\n⑤ruling ［'rulg］n.裁决，裁定，判决\n⑦explosion ［ik'splouson］n.激增\n5）\n③race to do sth（争相⋯•••）\n④defensive move against（针对⋯⋯的防卫措施）\n⑧riling ［'Failn］n.卷宗\n⑤beat sb to the punch（先下手 强）\n⑨established ［：'steeblijt］ a. 地位稳固的\n10 issue ［'1ju：］v.（正式）发给，供给\nCurbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit\nitself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a\npatent on a way of pooling mutual-fund assets.\n20",
+  "pdf_text_layer": "易 ”，而 是表示“意 义 重 大的 事 ，非常 重 要 的 事” 。 ［ CJ 中 has been di s mi ssed 表 明判决 结果，与第 四段 ② 句\n中 wo ul d be h ea rd （ 即 将 昕 审 ， 尚未作出判决〉相矛盾 。\n        ［ 技巧总结 J W h ich of t he fo llowing is tru e of. .. 为细节推理 题 的典 型提 问 方式 ，此 类题 的 解答步骤\n有 ： 一 、根 据 考查 对 象 迅速定位； 二 、分 析 选项 内 容及措辞 ： 含 有 m ay 或表示 可能性的副词 ， 同时内容涉 及\n“较大 的 影 H向 力气不具备较大 意 义或 影 响力的 内 容不 会 成为命题 人 着 ll良 的对 象），很可能为 正确 项 ，确认\n眩项与主题是否契合 。\n        解答本 题时 ，首 先根据 t he Bilski cas e 迅速定位 至 第 二 段 ③④ 句； 然后通 过选项措辞及内 容， 判断\n[ DJ 可能 正 确； 再 根据 文章 主题 ： t h e bil ski case 为文中例子，旨 在 说明 文章主题 ，而 文章主 题 为第二段①\n句： （ 十 年来授予无 数商业方法 专 利 ，） 现 在美国 专 利 法庭 意 欲 缩 减商业 方法专 利 数量 （对其 采取 限制措\n施 ），今昔变 化 凸显 美国专 利相 关 法律实践或遭改变 ， 最终 确定选项 。\n\n\n         nr o 囚囚 Curbs① on business method claims wo uld be a (\n                                                                                             对商 业 方法专利申请 的 限制也许是\ndrama tic(l) a bout-face® , b eca u se圆 i t was t he F ederal Circ ui t\n                                                                                      一 次戏剧性的 180 度逆转，因为 正 是联邦\nitse lf tha t introduced such paten ts w it h its 1998 decis ion in\n                                                                                      巡回法院自 己 在 1998 年被称为“道富银\nth e 吕O ca ll ed St at e Street Bank case ,     approv ing a pa t en t on\n                                                                                      行案”的裁决中引入了此类专利，批准了\na way of pooling(           mut ual fund assets.       8 T hat ruling:!])             一 项共同基金资产筹集方法的专利 。 那\nprod uced an explosion( in b usiness-met hod patent filin gs® ,\n                                                                                      项裁决导致了商业方法专利申请卷宗的\ninit iall y by em erg ing I n te rn 巳t compani es t r ying to sta ke out\n                                                                                      激增，起初是新兴网络公 司 试图对特定类\n巳 xc l u s i ve ri g ht s to s pecific t ypes of online tra nsactions.        @)\n                                                                                      型的在线交易 占 得专有权 。 后来，更多的\nI ，自 r e r,   mo re established® compa ni es raced to add s uch\n                                                                                      老牌公 司 竞相将此类专利归入其卷宗，哪\npa ten ts to th eir fil es, if only as a defens ive move agains t\n                                                                                      怕只是作为 一 项防御性措施以防范 可 能\nr i 飞a l s tha t m ig ht bea t t hem to t he punch. 。 I n 200 5 , IBM\n                                                                                      先发制人的竞争对手 。 2005 年， IBM 在 一\nnot ed in a co urt fili ng t hat it had b巳e n issued(              mor e t ha n\n                                                                                      份法院案卷中注意到自己被授予 了 300 多\n300 bu sin ess- met hod paten ts , despit e t he fact t ha t it\n                                                                                      项商业方法专利，尽管它质疑授予这些专利\nqu est ioned t he lega l basis for granting them .            0 Simil a r ly,         的法律依据 。 无独有偶， 一 些华尔街投资公\nsom e Wa ll Street investment fir ms armed t hem selves wit h\n                                                                                      司也都以金融产品专利来武装 自己 ，即使它\npa t en ts for fin a ncia l prod ucts, even as t hey took posit ions rn\n                                                                                      们 在法庭案例中表 示 反对这 一做法 。\nco urt cases opposing th e pract ice®.\n\n                                                                   与 e   难\n                                                                                 析           J\n                                                                           旬\n                                                   词\n                                                            土4 …\n                                                   …\n\n                                                       「」\n                                                                   －\n                                                                                 分\n                                                   …               释       … …\n\n\n( curb [ k3 : b ］ 儿起 约束或控 制 作用的 事 物                                          @ practice [ 'pr rektr s］ 凡 通常 的做 法，惯 例 ，常 规\n( claim [ k! erm ] n . 专 利申 请\n                                                                             ．经典搭配\n( dramatic ［ ιl ra1 m ret rk ] a. 戏 剧性的\n                                                                                 stake out\n® about-face n 政策或意 见的 1 80 度 转 变\n                                                                                 权）\n@ pool [ pu:1] v . 集 中 （金 钱、 资源等）\n                                                                             ( esta bl is hed com panies （老牌公司）\n@ ruling [ 'r u: l rJJ］ 凡 裁决 ， 裁定 ， 判 决\n                                                                             ( ra ce to do sth （争 相… … ）\n( explosion [ 1k1splau3an] n . 激增l\n                                                                             ( defensive move aga inst （针对 ……的防卫措施 ）\n( filin g [ 1 fa1 l 11J ］ 凡 卷宗\n                                                                             ( beat sb to the punch （先下手为 强 ）\n® established [ 1 1st re b lrft ］ α ． 地 位稳 固的\n( issue [ 11Ju:] v . （正 式 ）发给 ，供 给\n\n\n        Curbs on business-method claims would be a drama tic a bout- face , because it was the Federa l Circuit\nitsel f that introduced such patents with its 1998 decision in the so-called State Street Bank case , approv ing a\npaten t on a way of pooling mutual-fund assets.\n   20",
+  "quality": {
+    "vision_line_count": 71,
+    "vision_character_count": 2473,
+    "pdf_text_character_count": 5537,
+    "nonempty": true
+  }
+}

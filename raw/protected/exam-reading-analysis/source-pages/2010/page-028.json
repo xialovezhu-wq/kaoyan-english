@@ -1,0 +1,526 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2010-P028",
+  "year": 2010,
+  "pdf_page": 28,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2010年考研英语一真题解析.pdf",
+  "source_sha256": "f9eabaf9cc8a441381c6f093d134d3ddcbdc9e50ad335657e3ecf0a34acb5fe4",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.018522201167142982,
+      "text": "1 The supposed\"importance of influentials",
+      "width": 0.40077732714656666,
+      "x": 0.1502661156238775,
+      "y": 0.922103673641017
+    },
+    {
+      "confidence": 1,
+      "height": 0.014611283050416812,
+      "text": "有影响力人士的所谓重要性源于一个貌",
+      "width": 0.33050846962179714,
+      "x": 0.612288140655203,
+      "y": 0.9185282520369407
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185985309532,
+      "text": "derives from ® a plausible® -sounding but largely untested",
+      "width": 0.48516948013013345,
+      "x": 0.06567797584241902,
+      "y": 0.9026162794484524
+    },
+    {
+      "confidence": 1,
+      "height": 0.019739916070845354,
+      "text": "似合理、但很大程度上未经证实的被称作“两",
+      "width": 0.3690511769261854,
+      "x": 0.5718467888581582,
+      "y": 0.8947611101936941
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013236102857351661,
+      "text": "theory called the“two-step flow of communication”",
+      "width": 0.47457625582757124,
+      "x": 0.0677966257585305,
+      "y": 0.8850197111928507
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "级流动传播”的理论：信息从媒体流向有影响",
+      "width": 0.36652540886539153,
+      "x": 0.5741525495715415,
+      "y": 0.8764534886493671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011826544021024898,
+      "text": "Information flows from the media to the influentials and",
+      "width": 0.4830508469621797,
+      "x": 0.06779660696685207,
+      "y": 0.864651774079602
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "力人士，再从他们流向其他所有人。营销人员",
+      "width": 0.36652540886539153,
+      "x": 0.574152546750214,
+      "y": 0.8561046515151617
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014588362910587738,
+      "text": "from them to everyone else. ② Marketers have embraced®",
+      "width": 0.4809321845628292,
+      "x": 0.06779662559464456,
+      "y": 0.8429697768279325
+    },
+    {
+      "confidence": 1,
+      "height": 0.014548253449127913,
+      "text": "已经欣然接受这种两级流动，因为该理论认",
+      "width": 0.36864407126474197,
+      "x": 0.5741525443252561,
+      "y": 0.8357424443707877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013153974079427866,
+      "text": "the two-step flow because it suggests that if they can just",
+      "width": 0.4851694801301335,
+      "x": 0.06779662193175509,
+      "y": 0.8226018398557067
+    },
+    {
+      "confidence": 1,
+      "height": 0.014567353252355697,
+      "text": "为，他们只要能够找到有影响力人士并对其",
+      "width": 0.36864407126474197,
+      "x": 0.5741525443252561,
+      "y": 0.8153745073582576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016080050524838185,
+      "text": "find and influence the influentials, those select® people",
+      "width": 0.48305081773078307,
+      "x": 0.06779663068263087,
+      "y": 0.802233902792849
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "施加影响，这些精挑细选出来的人们就可以",
+      "width": 0.36864407126474197,
+      "x": 0.5720338946218664,
+      "y": 0.7936046514400648
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013192173685883435,
+      "text": "will do most of the work for them. ③ The theory also",
+      "width": 0.48305084696217976,
+      "x": 0.06779661645535068,
+      "y": 0.7818659658306465
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "为他们完成大部分工作。该理论似乎也解释",
+      "width": 0.36864407126474197,
+      "x": 0.5741525443252561,
+      "y": 0.7732558144923903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01321127348911122,
+      "text": "seems to explain the sudden and unexpected popularity of",
+      "width": 0.47881355139487536,
+      "x": 0.06779661812318369,
+      "y": 0.7614980288483973
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "了某些时式，品牌或地段突然出人意料地大",
+      "width": 0.36652540886539153,
+      "x": 0.5762711975376432,
+      "y": 0.7529069772830881
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013230373292339004,
+      "text": "certain looks, brands, or neighborhoods. ④In many such",
+      "width": 0.48305084696217976,
+      "x": 0.06779660558670682,
+      "y": 0.741130091678406
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "受欢迎的原因。在诸多此类情形中，粗略调查",
+      "width": 0.36652540886539153,
+      "x": 0.5741525488335473,
+      "y": 0.732558139838805
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016425755584756896,
+      "text": "cases, a cursory® search for causes finds that some small",
+      "width": 0.483050817730783,
+      "x": 0.06779662136059733,
+      "y": 0.7207621548363756
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988371218707664,
+      "text": "其原因会发现，的确有一小部分人在其他所",
+      "width": 0.3686440712647421,
+      "x": 0.5741525391557646,
+      "y": 0.7122093025628846
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013268572272201684,
+      "text": "group of people was wearing,promoting,or developing",
+      "width": 0.4830508469621798,
+      "x": 0.06779661444263886,
+      "y": 0.7003942183889502
+    },
+    {
+      "confidence": 1,
+      "height": 0.015996012518503022,
+      "text": "有人留意之前，就率先穿戴、推广或开发各类",
+      "width": 0.36652540886539153,
+      "x": 0.5741525520953763,
+      "y": 0.6918528249619931
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013287672075429469,
+      "text": "whatever it is before anyone else paid attention.",
+      "width": 0.4470338784871886,
+      "x": 0.06779662566636309,
+      "y": 0.6800262813219143
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395203117907,
+      "text": "⑤",
+      "width": 0.019067795340585558,
+      "x": 0.5296610177746225,
+      "y": 0.680232558285069
+    },
+    {
+      "confidence": 1,
+      "height": 0.01601511106854514,
+      "text": "东西。这种轶事证据与“只有某些特别的人才",
+      "width": 0.36652540886539153,
+      "x": 0.5741525475623607,
+      "y": 0.6714848883610607
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01607432033323275,
+      "text": "Anecdotal® evidence of this kind fits nicely with the idea that",
+      "width": 0.48516948013013345,
+      "x": 0.06779662071883148,
+      "y": 0.6583442839243769
+    },
+    {
+      "confidence": 1,
+      "height": 0.014580722863978046,
+      "text": "能推动潮流”的观点高度契合。",
+      "width": 0.24576270443269577,
+      "x": 0.5741525481367594,
+      "y": 0.6511169516371391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013325871681885149,
+      "text": "only certain special people can drive trends.",
+      "width": 0.34110169392435946,
+      "x": 0.06779660978217057,
+      "y": 0.6392904075330459
+    },
+    {
+      "confidence": 1,
+      "height": 0.0205035447761045,
+      "text": "词汇注释与难句分析",
+      "width": 0.18855931658397695,
+      "x": 0.39406780048272905,
+      "y": 0.5944767440601887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015111695137976389,
+      "text": "①supposed ［so'pauzd］a.误以为的；误信的；所谓的",
+      "width": 0.38771185747051606,
+      "x": 0.06567797441622489,
+      "y": 0.5709592638199541
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790656873025,
+      "text": "①derive from（起源于）",
+      "width": 0.17584744449776257,
+      "x": 0.5317796646508363,
+      "y": 0.5726744187602085
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014691501346743574,
+      "text": "② plausible ［'plo:zibal］a.（借口或解释）有道理的",
+      "width": 0.375,
+      "x": 0.06779660749092013,
+      "y": 0.5523255812747687
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013377440899962956,
+      "text": "②flow from...to...（从⋯⋯流向⋯⋯）",
+      "width": 0.3008474591134609,
+      "x": 0.5338983031410097,
+      "y": 0.5523255812501853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883837505563,
+      "text": "③embrace ［Im'breis］v.乐意采纳（建议等）",
+      "width": 0.3283898364538434,
+      "x": 0.06567796114278175,
+      "y": 0.5334302326815379
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013218913535721022,
+      "text": "③in many such cases（在诸多此类情形中）",
+      "width": 0.3241525408865392,
+      "x": 0.5296610144507983,
+      "y": 0.5334302325583247
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883837505674,
+      "text": "④select Lsi lekt」a. 精选的；优等的",
+      "width": 0.27118641937372784,
+      "x": 0.06567797881949199,
+      "y": 0.5130813951088635
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013161614126037557,
+      "text": "④a cursory search（粗略调查）",
+      "width": 0.22881355139487547,
+      "x": 0.5338983083067995,
+      "y": 0.5144546647073529
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013320141490279602,
+      "text": "⑤ cursory ［'ksser」a. 粗略的；仓促的",
+      "width": 0.27754237734038256,
+      "x": 0.06779660562712515,
+      "y": 0.49540078860885683
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011866653482484724,
+      "text": "⑤ pay attention（to）（关注，留心）",
+      "width": 0.24576270443269577,
+      "x": 0.5338983118726353,
+      "y": 0.4954007882466478
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015111695137976389,
+      "text": "⑥anecdotal ［'eenkdautl］a.轶事的；趣闻的；传闻的",
+      "width": 0.38983049063846986,
+      "x": 0.06567797891805313,
+      "y": 0.4750328516129507
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013339241293507387,
+      "text": "⑥anecdotal evidence（轶事证据）",
+      "width": 0.24788133760064945,
+      "x": 0.5296610230164127,
+      "y": 0.47503285160238296
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013241833048957097,
+      "text": "•经典搭配",
+      "width": 0.1059321991785276,
+      "x": 0.06567796714802436,
+      "y": 0.45784883720948744
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013381260609971468,
+      "text": "⑦fit nicely with（与⋯⋯高度契合）",
+      "width": 0.2690677862057741,
+      "x": 0.5296610194606723,
+      "y": 0.4563953488373945
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016425755584756896,
+      "text": "•语篇分析，",
+      "width": 0.11228813522163472,
+      "x": 0.430084747071386,
+      "y": 0.41392904042967815
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016425755584756896,
+      "text": "第二段指出 Gladwell 观点所依理论：两级流动传播。关键词：a plausible-sounding but largely untested",
+      "width": 0.8432203270923132,
+      "x": 0.10381355683519945,
+      "y": 0.3863337715284565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016864126207950747,
+      "text": "theory/two-step flow ofcommunication。",
+      "width": 0.3289172877753831,
+      "x": 0.06541904405073504,
+      "y": 0.366048781469536
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0190882557481723,
+      "text": "①句指出 Gladwell 观点的理论来源“两级流动理论”，并予以总体评判“貌似合理却未经证实”。主",
+      "width": 0.8411016939243594,
+      "x": 0.10381356721154894,
+      "y": 0.3442838372891739
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01789438771512286,
+      "text": "句先以 The supposed importance of influentials 回指上文 Gladwell观点（supposed 意力“误以为的，所谓",
+      "width": 0.8793504503038195,
+      "x": 0.06561556501419934,
+      "y": 0.3240235044540969
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016055220530004854,
+      "text": "的”，再次表明作者否定态度）；再以derives from（源自，源于）引出该观点的理论来源—两级流动传播",
+      "width": 0.8792372663359076,
+      "x": 0.0656779857939105,
+      "y": 0.3052325586202973
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016425755584756896,
+      "text": "（本文另一关键词）；最后以两个 from.•.to..结构解释“两级”所指、契合 Gladwell 观点：媒体一有影响",
+      "width": 0.8792372663359076,
+      "x": 0.0635593256067638,
+      "y": 0.2831800262885874
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016425755584756896,
+      "text": "力人士一其他所有人，即：有影响力人士起着“将信息直接散播给大众（引发社会流行潮）”的巨大作用。",
+      "width": 0.8665254088653915,
+      "x": 0.06567798436497345,
+      "y": 0.26281208929422595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017739816031537403,
+      "text": "句中 theory 的修饰评定成分 plausible-sounding、but largely untested 回应上段②句及本句 supposed",
+      "width": 0.8411016939243594,
+      "x": 0.10593219555900689,
+      "y": 0.24244415234313565
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016425755584756896,
+      "text": "对 Gladwell 观点的评判，完整表明作者批驳态度，其批驳逻辑基本设定：先退步说明 Gladwell 观点及两",
+      "width": 0.8771186331679538,
+      "x": 0.06567797589483666,
+      "y": 0.22207621571407254
+    },
+    {
+      "confidence": 1,
+      "height": 0.016425755584756896,
+      "text": "级流动理论的貌似合理性—后集中用切实证据将其推翻。",
+      "width": 0.5084745911346085,
+      "x": 0.0656779637547296,
+      "y": 0.20170827828933913
+    },
+    {
+      "confidence": 1,
+      "height": 0.016080050524838185,
+      "text": "②③④⑤句借指出营销者热衷两级流动理论的原因，侧面说明其貌似合理性。Marketers have",
+      "width": 0.8432203270923133,
+      "x": 0.10381357369960602,
+      "y": 0.18168604699239044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014607462713815522,
+      "text": "embraced the two-step flow because it suggests... The theory also seems to... 将因果关联跨越整个句",
+      "width": 0.8771186331679537,
+      "x": 0.06567796278043009,
+      "y": 0.16279069755799136
+    },
+    {
+      "confidence": 1,
+      "height": 0.01842962959279526,
+      "text": "群，并在②句原因和③④⑤句原因之间以并列之形传达递进之意。",
+      "width": 0.5575273886494253,
+      "x": 0.06552908885699535,
+      "y": 0.14092024385192692
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185985309543,
+      "text": "②句指出该理论受到营销者追捧，并从“理论本身”角度说明原因：它似乎可被用作理想的营销方",
+      "width": 0.8389830607564056,
+      "x": 0.10381356036029595,
+      "y": 0.12063953525202376
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185985309532,
+      "text": "法。主句借embrace 描绘“张开双手拥抱”的画面，形象说明营销人员对该理论的“欣然接受”。because",
+      "width": 0.8834745326718152,
+      "x": 0.06355933932087227,
+      "y": 0.10029069815484759
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01910918708229825,
+      "text": "从以i..will...（“ ⋯⋯就⋯•••”，只要某一条件具备，某事自然便会发生）、just（只需）、most of（绝",
+      "width": 0.8773535366716056,
+      "x": 0.06556001572279159,
+      "y": 0.07905023797546262
+    },
+    {
+      "confidence": 1,
+      "height": 0.011826544021024898,
+      "text": "28",
+      "width": 0.023305083600040605,
+      "x": 0.07838983124780052,
+      "y": 0.06241787148837563
+    }
+  ],
+  "vision_ocr_text": "1 The supposed\"importance of influentials\n有影响力人士的所谓重要性源于一个貌\nderives from ® a plausible® -sounding but largely untested\n似合理、但很大程度上未经证实的被称作“两\ntheory called the“two-step flow of communication”\n级流动传播”的理论：信息从媒体流向有影响\nInformation flows from the media to the influentials and\n力人士，再从他们流向其他所有人。营销人员\nfrom them to everyone else. ② Marketers have embraced®\n已经欣然接受这种两级流动，因为该理论认\nthe two-step flow because it suggests that if they can just\n为，他们只要能够找到有影响力人士并对其\nfind and influence the influentials, those select® people\n施加影响，这些精挑细选出来的人们就可以\nwill do most of the work for them. ③ The theory also\n为他们完成大部分工作。该理论似乎也解释\nseems to explain the sudden and unexpected popularity of\n了某些时式，品牌或地段突然出人意料地大\ncertain looks, brands, or neighborhoods. ④In many such\n受欢迎的原因。在诸多此类情形中，粗略调查\ncases, a cursory® search for causes finds that some small\n其原因会发现，的确有一小部分人在其他所\ngroup of people was wearing,promoting,or developing\n有人留意之前，就率先穿戴、推广或开发各类\nwhatever it is before anyone else paid attention.\n⑤\n东西。这种轶事证据与“只有某些特别的人才\nAnecdotal® evidence of this kind fits nicely with the idea that\n能推动潮流”的观点高度契合。\nonly certain special people can drive trends.\n词汇注释与难句分析\n①supposed ［so'pauzd］a.误以为的；误信的；所谓的\n①derive from（起源于）\n② plausible ［'plo:zibal］a.（借口或解释）有道理的\n②flow from...to...（从⋯⋯流向⋯⋯）\n③embrace ［Im'breis］v.乐意采纳（建议等）\n③in many such cases（在诸多此类情形中）\n④select Lsi lekt」a. 精选的；优等的\n④a cursory search（粗略调查）\n⑤ cursory ［'ksser」a. 粗略的；仓促的\n⑤ pay attention（to）（关注，留心）\n⑥anecdotal ［'eenkdautl］a.轶事的；趣闻的；传闻的\n⑥anecdotal evidence（轶事证据）\n•经典搭配\n⑦fit nicely with（与⋯⋯高度契合）\n•语篇分析，\n第二段指出 Gladwell 观点所依理论：两级流动传播。关键词：a plausible-sounding but largely untested\ntheory/two-step flow ofcommunication。\n①句指出 Gladwell 观点的理论来源“两级流动理论”，并予以总体评判“貌似合理却未经证实”。主\n句先以 The supposed importance of influentials 回指上文 Gladwell观点（supposed 意力“误以为的，所谓\n的”，再次表明作者否定态度）；再以derives from（源自，源于）引出该观点的理论来源—两级流动传播\n（本文另一关键词）；最后以两个 from.•.to..结构解释“两级”所指、契合 Gladwell 观点：媒体一有影响\n力人士一其他所有人，即：有影响力人士起着“将信息直接散播给大众（引发社会流行潮）”的巨大作用。\n句中 theory 的修饰评定成分 plausible-sounding、but largely untested 回应上段②句及本句 supposed\n对 Gladwell 观点的评判，完整表明作者批驳态度，其批驳逻辑基本设定：先退步说明 Gladwell 观点及两\n级流动理论的貌似合理性—后集中用切实证据将其推翻。\n②③④⑤句借指出营销者热衷两级流动理论的原因，侧面说明其貌似合理性。Marketers have\nembraced the two-step flow because it suggests... The theory also seems to... 将因果关联跨越整个句\n群，并在②句原因和③④⑤句原因之间以并列之形传达递进之意。\n②句指出该理论受到营销者追捧，并从“理论本身”角度说明原因：它似乎可被用作理想的营销方\n法。主句借embrace 描绘“张开双手拥抱”的画面，形象说明营销人员对该理论的“欣然接受”。because\n从以i..will...（“ ⋯⋯就⋯•••”，只要某一条件具备，某事自然便会发生）、just（只需）、most of（绝\n28",
+  "pdf_text_layer": "Il   0 困 Th e supposed(      im portance of influentia ls\n                                                                                       有 影响 力 人 士 的所谓重要性源 于一 个貌\nderives fro m 回 a plausible( - so unding but largely untested\n                                                                                   似合理 、但很 大 程度 上 未经 证 实 的 被称 作 “ 两\nt h eo ry ca ll ed the “ two-step fl ow of communication ” :\n                                                                                   级流动传播” 的 理 论： 信息从媒体流 向有 影 响\nInfo r mat ion flo ws from t h e m edia to the influentials and\n                                                                                   力人士，再从他们 流 向 其 他 所 有人 。 营销 人员\nfrom them to ever yone else.     8 M arketers ha ve embracedCD                     已 经 欣然 接 受 这 种 两 级流动， 因为 该理 论认\nth e two- s tep flo w beca use it s uggests that if they can just\n                                                                                   为，他们只要 能够 找到有 影 响力人士并对其\nfind a nd influ ence the influentials, those select® peopl e\n                                                                                   施加 影 响 ， 这些 精挑细选 出 来 的人们 就 可以\nw ill do mos t of the work for them.         8 The theory also                     为他们完成大 部分 工 作 。 该理 论似乎也 解释\nse em s to ex plain the s udd en and un expected popularity of\n                                                                                   了某些时式、品 牌或地段突然 出人 意 料 地 大\ncert a in looks , brands, or neighborhoods.        0 In m any such                 受欢迎的原因 。 在诸 多此类情形 中， 粗略调 查\ncas es , a cursory® sear ch for ca uses find s that some sma ll\n                                                                                   其原因会发现，的 确 有一小 部 分人在其他所\ngro up o f peop le was wearing, promoting, or developing\n                                                                                   有人留意之前 ，就率 先 穿戴、 推广 或 开发各 类\nw hatever it is befor e anyone else paid atte ntion.                     0         东西 。 这种轶事 证据 与 “只 有 某 些特别的人 才\nAnecdotal® evidence of this kind fits nicely with the idea that\n                                                                                   能推动 潮流” 的 观点高度契合 。\nonl y certain s pecial peo ple can drive trends.\n\n\n                                              词…\n                                                        …\n                                                        释                              J\n                                                                    难…\n                                                                               析\n                                                              与\n                                                              … …        旬 …\n                                                    E\n                                                    …                          分\n                                                                               e\n\n\n\n\n                                              e         注 …\n                                                          －              …     ．   －\n\n\n\n① supposed 〔 sa'pauzd ］ ι 误 以为的；误信的；所谓的                                  ( derive from （起源于）\n( plausible [ 1pl::>:z1bal ］ α ．（借口或解释）有道理的                              ( flow from. .. to ... (\n( embrace [ 1m 'bre1s] v. 乐 意采 纳（建议 等 ）                                  ( in many such cas e s （在诸 多 此 类情形中）\n( select [ s, 11ekt Jα． 精选的；优等的                                          ( a cursory sea r ch （粗略调 查 ）\n( cursory ［ ’ k3:sar ， ］ ι 粗略的；仓促的                                       ( pay atte ntion ( to) （关注，阳心）\n® anecdotal ［＇田rnkdautl ] a. 轶事 的；趣闻的；传闻的                                ( anecdotal ev id e n c e （轶 事 证据）\n．经典搭配                                                                    ( fi t ni cely w ith （与 …… 高度契合）\n\n\n                                                   ：斗毒分析.＜ fl\n      第二段指出 Gladwell 观点所侬理论 ： 两级流动传播。关键词： a plausible-sounding but largely untested\ntheory/ two-step flow of communication 。\n      ① 旬指出 Gladwell 观点的理论来源“两级流动理论”，并予以总体评判“貌似合理却未经证实”。 主\n句先以 The s uppos ed importance of influ e ntials 回指上文 G l adwe ll 观点 C s u ppo se d 葱、为“误 以 为 的，所谓\n的”，再次表明作者否定态度）；再以 de rives from （源自，源于）引出该观点的理论来源、                                                            两级流动传播\n（本文另 一 关键 词）； 最后 以两个 from ... to ...结构解 释“两级”所指、契合 G l a d w ell 观 点 ： 媒体→有影 Ill司\n力人士→其 他所有人 ， 即： 有影响力人士起着“将信息 直接 散播给大众（引发社 会 流行潮）”的 巨 大作用 。\n      句中 t h eo ry 的修饰评定成分 plausibl e so unding 、 but la rge ly untested @l J.iY. 上段 ② 句 及本句 s uppos ed\n对 G l a dw ell 观 点 的评判，完 整表 明作者批驳态度，其批驳逻 辑基本设定 ：先退 步说 明 G l a d we ll 观 点及两\n级流动理论 的貌似合理性 －一后集中用切实证据将其推翻 。\n      ②③④⑤ 旬借指出营销者热衷两级流动理论的原因，侧面说明其貌似合理性 。 M ark e te rs have\nemb race d t he two step fl ow beca use it suggests ... The th eory a lso seem s to .. . 将因果关联跨越 整 个句\n群，并在 ② 句原因和③④⑤句原因之间以并列之形传达递进之意 。\n      ② 旬指出该理论受到营销者追捧，并从“理论本身”角度说明原因：它似乎可被用作理想的营销方\n法。 主 句借 emb race 描绘“张开双手拥 抱”的画面，形 象说明 营 销人员对该理论的“欣然接受” 。 b eca u s e\n从句以 if. .. w ill. .. C “ 一 ……就……”，只 要某一条 件 具备，某事自然便会发生）， just （只需）、 most o f （绝\n 28",
+  "quality": {
+    "vision_line_count": 63,
+    "vision_character_count": 2395,
+    "pdf_text_character_count": 5012,
+    "nonempty": true
+  }
+}

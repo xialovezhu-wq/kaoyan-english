@@ -1,0 +1,534 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P022",
+  "year": 2015,
+  "pdf_page": 22,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.019193615807978404,
+      "text": "力（谓语）、具体情形（时间、条件、地点等），并与选项对比、初步判定正误；随后借助上下文检验。",
+      "width": 0.8052506136254789,
+      "x": 0.07274257838646203,
+      "y": 0.9184073732984519
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01626243702921981,
+      "text": "具体来看，首先根据题干可知正确项来自第一段②句 whether 宾语从句（during...已人题干，可忽",
+      "width": 0.8394004266380807,
+      "x": 0.11134904321200881,
+      "y": 0.9011627906982471
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017738606436820015,
+      "text": "略）。随后提取其“骨架”whether police can...without.••i..••，发现其针对主体（警方），针对行为（是",
+      "width": 0.8822269366618773,
+      "x": 0.07066382256841926,
+      "y": 0.8790637188123349
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017698914238938435,
+      "text": "否能搜查嫌疑人手机内容），具体情形（无搜查证、手机在嫌疑人身边），并排除“主体错误（police-*",
+      "width": 0.8800856199301066,
+      "x": 0.07280516310775173,
+      "y": 0.8602080623425808
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019328501196614445,
+      "text": "suspects）”的［A］、［D］。最后仔细对比［B］、［C］：［B］偷换“针对行为”，且与上文“个人数字数据保护”无",
+      "width": 0.8823402960181693,
+      "x": 0.0706048047727463,
+      "y": 0.8397438236054305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "关；［C］与原文一致，且与上文直接相关（“手机信息”属“数字数据”），故舍［B］选［C］。",
+      "width": 0.7130620963728748,
+      "x": 0.07280514619257752,
+      "y": 0.8224967492675451
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014595367198492637,
+      "text": "I ① California has asked the justices to refrain®",
+      "width": 0.43254817217245867,
+      "x": 0.11991435588379198,
+      "y": 0.7906371909064233
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "加州已请求大法官们（克制住）不要做",
+      "width": 0.33190578884548616,
+      "x": 0.6167023551489912,
+      "y": 0.7834302328616538
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "from a sweeping® ruling, particularly one that upsets® the",
+      "width": 0.48179872008575786,
+      "x": 0.07280514076011879,
+      "y": 0.7703488374740569
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "出全面性裁定，尤其是不要破坏“执法当局",
+      "width": 0.36830834867397033,
+      "x": 0.5781584618514516,
+      "y": 0.7630813954765903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "old assumption® that authorities may search through the",
+      "width": 0.47537471142765203,
+      "x": 0.07280514674870081,
+      "y": 0.7514534887700841
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722649,
+      "text": "在实施逮捕时可搜查嫌嫌疑人财物”这一古",
+      "width": 0.3704496654057411,
+      "x": 0.5781584686461657,
+      "y": 0.7441860465122008
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "possessions® of suspects® at the time of their arrest®.②It",
+      "width": 0.48179872008575786,
+      "x": 0.07280514076011879,
+      "y": 0.7308192455003186
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "老假定。该州认为，法官很难评估快速变化",
+      "width": 0.3704496654057412,
+      "x": 0.5781584630323187,
+      "y": 0.7223667102258555
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "is hard, the state argues, for judges to assess®",
+      "width": 0.445396131025877,
+      "x": 0.07280515347349951,
+      "y": 0.7119635890305644
+    },
+    {
+      "confidence": 1,
+      "height": 0.011873620384226236,
+      "text": "the",
+      "width": 0.034261239442788805,
+      "x": 0.5224839417347085,
+      "y": 0.7119635887813925
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627755754170701,
+      "text": "的新技术可能带来的影响。",
+      "width": 0.22912204493964772,
+      "x": 0.578158465520897,
+      "y": 0.703488372033034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014587806012137494,
+      "text": "implications\" of new and rapidly changing technologies.",
+      "width": 0.4668094152691721,
+      "x": 0.07280515025263712,
+      "y": 0.6918075425603172
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997386,
+      "text": "•词汇注释与难甸分析",
+      "width": 0.20556744396458182,
+      "x": 0.38543897462217536,
+      "y": 0.6482444736113779
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01324394434419185,
+      "text": "①refrain ［ri'frem］v. 抑制，克制",
+      "width": 0.24839399783547356,
+      "x": 0.07280514418412921,
+      "y": 0.6248374511926824
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014544333841152612,
+      "text": "⑧assess ［o'ses］v.评定；评估",
+      "width": 0.22698072820787685,
+      "x": 0.5374732350930637,
+      "y": 0.6235370611096935
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "②sweeping ［'swi:p］a.彻底的；影响广泛的，全面的",
+      "width": 0.4068522252342253,
+      "x": 0.07280515306811207,
+      "y": 0.6059817943739596
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01628511810798794,
+      "text": "⑨implication ［umpli/ke:jon］ .（行动、事件、决定等）可",
+      "width": 0.415417550624102,
+      "x": 0.5374732392061502,
+      "y": 0.6046511625587123
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013317658160225787,
+      "text": "③ upset ［Ap'set］v. 打乱，搅乱；推翻",
+      "width": 0.2783725782372486,
+      "x": 0.07066381562798532,
+      "y": 0.5884265279410864
+    },
+    {
+      "confidence": 1,
+      "height": 0.013317658160225787,
+      "text": "能的影响或后果",
+      "width": 0.1263383302652059,
+      "x": 0.5374732340567516,
+      "y": 0.5884265280743229
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013304427634289961,
+      "text": "④assumption ［o'sAmpjon］n.假定，假设",
+      "width": 0.3019271792123144,
+      "x": 0.07280514323645529,
+      "y": 0.571220930099027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015354032479275137,
+      "text": "• 经典搭配",
+      "width": 0.107301200486691,
+      "x": 0.5373558250765603,
+      "y": 0.5620904257037482
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "⑤possession ［po'zefon］ n. 财产，所有物",
+      "width": 0.29550319978560524,
+      "x": 0.0728051440044137,
+      "y": 0.5520156047765684
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013276075975792612,
+      "text": "①search through（搜 ）",
+      "width": 0.1862955056844543,
+      "x": 0.5374732334991617,
+      "y": 0.5448634590959653
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "⑥suspect ［so'spekst］n. 嫌疑犯",
+      "width": 0.22698072820787685,
+      "x": 0.07280514055344912,
+      "y": 0.5331599477738687
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011892520869816847,
+      "text": "②at the time of one's arrests（逮捕某人时）",
+      "width": 0.32976444288231865,
+      "x": 0.539614569315443,
+      "y": 0.529069767687579
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014570795513098589,
+      "text": "⑦arrest ［o'rest］n.逮捕，拘捕",
+      "width": 0.22912204493964766,
+      "x": 0.07066381463938391,
+      "y": 0.5159883722511887
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013234493791359436,
+      "text": "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old",
+      "width": 0.8415417433698515,
+      "x": 0.11349036186967823,
+      "y": 0.48546511612010246
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01162790663065616,
+      "text": "assumption that authorities may search through the possessions of suspects at the time of their arrest.",
+      "width": 0.8265524677846623,
+      "x": 0.07280514482287213,
+      "y": 0.4665697676439743
+    },
+    {
+      "confidence": 1,
+      "height": 0.013122977763995736,
+      "text": "California",
+      "width": 0.08779443178140342,
+      "x": 0.11777302075276722,
+      "y": 0.44331395342751523
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013660537560987618,
+      "text": "has asked",
+      "width": 0.08156829044736663,
+      "x": 0.2118925132889931,
+      "y": 0.44302438232054575
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0137425696741309,
+      "text": "the justices",
+      "width": 0.09654981971243787,
+      "x": 0.30825613819069386,
+      "y": 0.4415298778908562
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01964248823406478,
+      "text": "to refrain from a sweeping ruling",
+      "width": 0.2749608650061363,
+      "x": 0.41723661729320943,
+      "y": 0.43869498340694535
+    },
+    {
+      "confidence": 1,
+      "height": 0.013162669961877205,
+      "text": "主语",
+      "width": 0.04068522252342255,
+      "x": 0.14989293518368488,
+      "y": 0.4244186046084746
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "谓语",
+      "width": 0.0428265502169671,
+      "x": 0.2291220564404101,
+      "y": 0.4244186047947933
+    },
+    {
+      "confidence": 1,
+      "height": 0.013162669961877205,
+      "text": "宾语",
+      "width": 0.04068522252342255,
+      "x": 0.33404711077254995,
+      "y": 0.4244186046084746
+    },
+    {
+      "confidence": 1,
+      "height": 0.013433053372585158,
+      "text": "目的状语",
+      "width": 0.07935354444715709,
+      "x": 0.4988671241997206,
+      "y": 0.42424277557013534
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "同位语",
+      "width": 0.059957171765323836,
+      "x": 0.3854389728753681,
+      "y": 0.40116279105932817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014727742526249088,
+      "text": "定语从句",
+      "width": 0.08144475856503308,
+      "x": 0.5310120967355453,
+      "y": 0.3778105475216883
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "particularly one",
+      "width": 0.13918628911862424,
+      "x": 0.3768736640702382,
+      "y": 0.3691860468732817
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01308139557956256,
+      "text": "that upsets the old assumption",
+      "width": 0.26124195668889194,
+      "x": 0.6295503311309287,
+      "y": 0.37645348831123615
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014976212510206977,
+      "text": "主语 谓语",
+      "width": 0.09436404933417897,
+      "x": 0.625194848139549,
+      "y": 0.3573374752896059
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "宾语",
+      "width": 0.04282655021696713,
+      "x": 0.7837259116152853,
+      "y": 0.357558139838398
+    },
+    {
+      "confidence": 1,
+      "height": 0.01768454029594202,
+      "text": "同位语从句",
+      "width": 0.10501203865840514,
+      "x": 0.7065946220194019,
+      "y": 0.3341809858912387
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.008734160808965052,
+      "text": "that",
+      "width": 0.036402567136333386,
+      "x": 0.14561028020770767,
+      "y": 0.31831395366660475
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "authorities may search through the possessions of suspects at the time of their arrest.",
+      "width": 0.6980727623248921,
+      "x": 0.20342615723869556,
+      "y": 0.3139534886368477
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01706132777180569,
+      "text": "引导词 主语",
+      "width": 0.13730779187432654,
+      "x": 0.13048957438270833,
+      "y": 0.29452166177890227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014693248411458915,
+      "text": "谓语＋宾语",
+      "width": 0.08999102508427992,
+      "x": 0.4667817895997426,
+      "y": 0.2964324460167207
+    },
+    {
+      "confidence": 1,
+      "height": 0.013183469735134401,
+      "text": "时间状语",
+      "width": 0.0814059246545551,
+      "x": 0.7344576362271796,
+      "y": 0.2964605906605986
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014589696618763415,
+      "text": "功能注释：本句主干 California has asked the justices to..（加利福尼亚州已请求法官们⋯⋯）。",
+      "width": 0.8436830601016224,
+      "x": 0.11134903756160876,
+      "y": 0.26889534898084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "逗号后内容是对a sweeping ruling（笼统裁决）的进一步说明；其中 one 即指 one sweeping ruling；第一个",
+      "width": 0.8800856199301066,
+      "x": 0.07280515772766621,
+      "y": 0.24837451265856303
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "that 引导的句子做one 的定语，对笼统裁决做出限定：一个打破旧有假定的笼统裁决；第二个 that 引导的",
+      "width": 0.8800856199301066,
+      "x": 0.07280514843965781,
+      "y": 0.22951885581474785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "句子做 the old assumption 同位语，补充说明旧有假定的内容：执法当局可以在逮捕时搜查嫌疑犯物品。",
+      "width": 0.8543897022232698,
+      "x": 0.07280515743226218,
+      "y": 0.20930232552382877
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02468306562525402,
+      "text": "•语篇分析。泌",
+      "width": 0.16530628131267205,
+      "x": 0.43233615435642364,
+      "y": 0.1795189324056301
+    },
+    {
+      "confidence": 1,
+      "height": 0.016268107608948923,
+      "text": "第二至六段分析问题。第二至四段驳斥加州观点“（最高法院应判决）警方可以无证搜查嫌疑人手",
+      "width": 0.8394004266380807,
+      "x": 0.11349037183442125,
+      "y": 0.15669700882700932
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "机内容”。",
+      "width": 0.08351177639431422,
+      "x": 0.07280514068399917,
+      "y": 0.13654096227426626
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "第二段介绍加州观点：不应做出全面性裁定，尤其不能打破旧有假定“执法当局在逮捕时可以搜查",
+      "width": 0.8415417433698515,
+      "x": 0.11134904539216202,
+      "y": 0.11768530578028735
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "嫌疑人财物”。关键词：old assumption。",
+      "width": 0.3340471055772569,
+      "x": 0.07066381755398385,
+      "y": 0.09882964864577448
+    },
+    {
+      "confidence": 1,
+      "height": 0.013124867750547331,
+      "text": "22",
+      "width": 0.023554602802028132,
+      "x": 0.08565310569213368,
+      "y": 0.06827048103850719
+    }
+  ],
+  "vision_ocr_text": "力（谓语）、具体情形（时间、条件、地点等），并与选项对比、初步判定正误；随后借助上下文检验。\n具体来看，首先根据题干可知正确项来自第一段②句 whether 宾语从句（during...已人题干，可忽\n略）。随后提取其“骨架”whether police can...without.••i..••，发现其针对主体（警方），针对行为（是\n否能搜查嫌疑人手机内容），具体情形（无搜查证、手机在嫌疑人身边），并排除“主体错误（police-*\nsuspects）”的［A］、［D］。最后仔细对比［B］、［C］：［B］偷换“针对行为”，且与上文“个人数字数据保护”无\n关；［C］与原文一致，且与上文直接相关（“手机信息”属“数字数据”），故舍［B］选［C］。\nI ① California has asked the justices to refrain®\n加州已请求大法官们（克制住）不要做\nfrom a sweeping® ruling, particularly one that upsets® the\n出全面性裁定，尤其是不要破坏“执法当局\nold assumption® that authorities may search through the\n在实施逮捕时可搜查嫌嫌疑人财物”这一古\npossessions® of suspects® at the time of their arrest®.②It\n老假定。该州认为，法官很难评估快速变化\nis hard, the state argues, for judges to assess®\nthe\n的新技术可能带来的影响。\nimplications\" of new and rapidly changing technologies.\n•词汇注释与难甸分析\n①refrain ［ri'frem］v. 抑制，克制\n⑧assess ［o'ses］v.评定；评估\n②sweeping ［'swi:p］a.彻底的；影响广泛的，全面的\n⑨implication ［umpli/ke:jon］ .（行动、事件、决定等）可\n③ upset ［Ap'set］v. 打乱，搅乱；推翻\n能的影响或后果\n④assumption ［o'sAmpjon］n.假定，假设\n• 经典搭配\n⑤possession ［po'zefon］ n. 财产，所有物\n①search through（搜 ）\n⑥suspect ［so'spekst］n. 嫌疑犯\n②at the time of one's arrests（逮捕某人时）\n⑦arrest ［o'rest］n.逮捕，拘捕\nCalifornia has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old\nassumption that authorities may search through the possessions of suspects at the time of their arrest.\nCalifornia\nhas asked\nthe justices\nto refrain from a sweeping ruling\n主语\n谓语\n宾语\n目的状语\n同位语\n定语从句\nparticularly one\nthat upsets the old assumption\n主语 谓语\n宾语\n同位语从句\nthat\nauthorities may search through the possessions of suspects at the time of their arrest.\n引导词 主语\n谓语＋宾语\n时间状语\n功能注释：本句主干 California has asked the justices to..（加利福尼亚州已请求法官们⋯⋯）。\n逗号后内容是对a sweeping ruling（笼统裁决）的进一步说明；其中 one 即指 one sweeping ruling；第一个\nthat 引导的句子做one 的定语，对笼统裁决做出限定：一个打破旧有假定的笼统裁决；第二个 that 引导的\n句子做 the old assumption 同位语，补充说明旧有假定的内容：执法当局可以在逮捕时搜查嫌疑犯物品。\n•语篇分析。泌\n第二至六段分析问题。第二至四段驳斥加州观点“（最高法院应判决）警方可以无证搜查嫌疑人手\n机内容”。\n第二段介绍加州观点：不应做出全面性裁定，尤其不能打破旧有假定“执法当局在逮捕时可以搜查\n嫌疑人财物”。关键词：old assumption。\n22",
+  "pdf_text_layer": "为（谓语）、 具 体情形（时间、 条 件、地点 等） ，并与选项对比、初步判定正误；随后借助上下文检验 。\n       具体来看 ， 首先根据题干可 知正确项来自 第一 段 ② 句 wh ether 宾语从句（ during ...已入 题干，可忽\n略） 。 随后提~£其“骨架” wh e th e r police ca n . . . without ... if. ...， 发 现 其针对主 体（ 警方）， 针对行为（ 是\n否能搜查嫌疑人手机内容），具体情形（元搜查证、手机在嫌疑人身边），并 排除“主体错误（ poli ce •\ns u sp巳c t s ）＇’的 ［ A］、［ DJ 。 最后 仔细对比 ［町 、 ［ C] , [ B］ 偷换“针对行为”，且与上文“个人数 字 数据保护”无\n关；［ CJ 与原文 一 致，且与上 文直 接相 关（ “ 手 机 信息”属“数字数 据勺，故 含［ BJ 选 ［ CJ 。\n\n       [ 0 Californi a has as ked t he just ices to refrain①            加州已请求大法官们（克制住）不妥做\nfrom a sweeping( ruling, particularl y one t ha t upsets® th e\n                                                                    出全面性裁定，尤其是不妥破坏“执法当局\nold assumptionw tha t authoriti es may sea rch through the\n                                                                   在实施逮捕时可搜查嫌嫌疑人财物”这 一 古\npossessions® of suspects® at th e time of th eir an咽t① . @It\n                                                                   老假定 。 该州认为，法官很难评估快速变化\nis hard , the state arg ues,       fo r judges to assess® th e\n                                                                   的新技术可能带来的影响 。\nimplications® of new and rapid ly changi ng tec hnologies.\n\n\n                                           i ：：~：：词主注：军与难句究中斤：＜ 1'\n( refrain [ n 'frem] ，人 抖l 制．克制                               ® assess [ a'ses] v . 评定；评 估\n( sweeping [ 'sw i:piJJ］ α． 彻 底的；影 响 广泛的 ． 全面 的               ® implication [\n( upset [ /\\ p 1set ］ 。 打乱，搅乱，推翻                              能的 影 响或 后果\n( assumption [ a1s/\\ mpfan] 11 . 假 定， 假设\n                                                              ．经典搭配\n( possession [ pa' zefan] 11. 财 产 ，所有物\n                                                              ( sea rch through （搜查）\n( suspect [ sa'spekt ］ 凡嫌 疑 犯\n                                                              ( at the time of one's a rr es ts （逮捕某人时）\n( arrest [ a' rest ］ η ． 逮捕，拘捕\n\n       California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old\nassumption that authorities may search through the possessions of suspects at the time of their arrest.\n       Ca lifornia has asked     the justices   to refrain from a sweeping ruling,\n           主语        谓语             宾i吾                   目的状i吾\n                                           同位语\n\n                                                                          that   叩sets   th巳 old assumption\n                                           particularly one\n                                                                         主语谓语                 宾语\n                                                                                     同位语从句\n           that   authorities may search through the possessions of suspects at the time of their arrest.\n         引导词         主语                               谓语＋宾语                              时间状语\n\n       功能注释： 本 句主干为 Ca liforni a has as ked the ju sti ces to . . . （ 加利 福尼亚 州已 请求法官 们…… ）。\n逗号后 内 容是对 a sweeping ruling （笼统裁决）的进 一步 说明； 其 中 on e 即指 o ne sweeping ruling ；第 一 个\nthat 引导的句子做 one 的定语，对笼统裁决做出限定 ： 一 个打破旧有假定的笼统裁决；第 二 个 that 引导的\n句子做 the old assu mpti on 同 位语， 补充说明旧 有 假定的内 容 ：执 法当局 可以 在逮 捕时搜 查 嫌疑犯物品 。\n\n                                                 ：＂：~：：语贯穿析：~ ：：： 1'\n       第二至六段分析问题。第二至四段驳斥加州观点“（最高法院应判决） 警 方可以无证搜查嫌疑人手\n机内容”。\n       第二段介绍加州观点：不应做出全面性裁定，尤其不能打破旧有假定“执法当局在逮捕时可以搜查\n嫌疑人财物”。关键词： old assumption 。\n\n\n  22",
+  "quality": {
+    "vision_line_count": 64,
+    "vision_character_count": 1960,
+    "pdf_text_character_count": 3365,
+    "nonempty": true
+  }
+}

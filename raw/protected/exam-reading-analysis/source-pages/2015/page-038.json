@@ -1,0 +1,510 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2015-P038",
+  "year": 2015,
+  "pdf_page": 38,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "source_sha256": "c737c382888c85404f5949965068111e6ec7718a99acb334cce59a11a54cb1e1",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "forward、long overdue、 statistical review is more essential、pay strong attention to statistical review 可提炼出本",
+      "width": 0.8819742330891615,
+      "x": 0.0643776907247325,
+      "y": 0.9229651160071135
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "段主旨：人物2对新策/统计审查持支持态度。",
+      "width": 0.3841201577214042,
+      "x": 0.06437769418114334,
+      "y": 0.9024707413339811
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011809356500950607,
+      "text": "VI ①Professional scientists are expected to know how to",
+      "width": 0.44420598884919327,
+      "x": 0.10515023001209853,
+      "y": 0.8719115735949008
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "专业的科学家应当知道如何分析数据，",
+      "width": 0.33261802512258576,
+      "x": 0.6115879873045869,
+      "y": 0.863372093275898
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "analyse data, but statistical errors are alarmingly® common",
+      "width": 0.48497852757430127,
+      "x": 0.06437769506478055,
+      "y": 0.8517441862628166
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "但是据细胞生物学家大卫•沃克斯所说，统",
+      "width": 0.37339056384769376,
+      "x": 0.5686695212092004,
+      "y": 0.8444767443151422
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011754543790581606,
+      "text": "in published research, according",
+      "width": 0.27467811862703934,
+      "x": 0.06437768117288946,
+      "y": 0.832848837430796
+    },
+    {
+      "confidence": 1,
+      "height": 0.009102730819245841,
+      "text": "to",
+      "width": 0.027896994592589763,
+      "x": 0.34120171718868364,
+      "y": 0.8342002600719587
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011754543790581717,
+      "text": "David Vaux, a cell",
+      "width": 0.1824034326593615,
+      "x": 0.3669527870680303,
+      "y": 0.8328488373338967
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "计错误在已发表的研究中令人震惊地普遍。",
+      "width": 0.37339056384769376,
+      "x": 0.5708154504795866,
+      "y": 0.8241279070645262
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247724317295151,
+      "text": "biologist. ② Researchers should improve their standards, he",
+      "width": 0.4828326029420585,
+      "x": 0.06652361752038699,
+      "y": 0.8124999999282421
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "2012年他写道，研究人员应该提高他们的",
+      "width": 0.37124463921545103,
+      "x": 0.5686695246787552,
+      "y": 0.8036410924162504
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013287416515176731,
+      "text": "wrote in 2012, but journals should also take a tougher line，",
+      "width": 0.48068667830981593,
+      "x": 0.06652360762620814,
+      "y": 0.7936046509565851
+    },
+    {
+      "confidence": 1,
+      "height": 0.014954486345903906,
+      "text": "水准，但期刊杂志也应该采取更为严格的方",
+      "width": 0.37124463921545103,
+      "x": 0.5708154532731757,
+      "y": 0.7847854357541211
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "“engaging reviewers who are statistically literate® and editors",
+      "width": 0.48497852757430115,
+      "x": 0.06437768294031733,
+      "y": 0.7730819248657799
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "针，“让精通统计的评审专家以及能够核实",
+      "width": 0.37124463921545103,
+      "x": 0.5708154455210299,
+      "y": 0.7645348834889448
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02113301360250608,
+      "text": "who can verify® the process”，",
+      "width": 0.24126462149299727,
+      "x": 0.06602393174526879,
+      "y": 0.7504275768181393
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013215592065620174,
+      "text": "③ Vaux says that Science's",
+      "width": 0.22746780600520333,
+      "x": 0.3218884178843796,
+      "y": 0.7542262681128077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185994598424,
+      "text": "此（研究）过程的编辑参与（审查）”。沃克斯",
+      "width": 0.37124463921545103,
+      "x": 0.5708154509716736,
+      "y": 0.7441860465967753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013485897346962816,
+      "text": "idea to pass",
+      "width": 0.10196045859075095,
+      "x": 0.06369797859932214,
+      "y": 0.7327061070398664
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01453488328832031,
+      "text": "some papers to statisticians “has some merit®，",
+      "width": 0.3841201577214042,
+      "x": 0.16309013093007055,
+      "y": 0.7340116280142701
+    },
+    {
+      "confidence": 1,
+      "height": 0.0145348832883202,
+      "text": "说，《科学》要把一些论文交给统计学家（审",
+      "width": 0.37124463921545103,
+      "x": 0.5708154532731757,
+      "y": 0.7267441863354911
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013255284263501643,
+      "text": "but a weakness is that it relies on the board of reviewing",
+      "width": 0.48283260294205854,
+      "x": 0.0665236206677401,
+      "y": 0.7136627909843629
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016271887582052225,
+      "text": "查）这一想法“有一定优点，但是一个缺点在",
+      "width": 0.3690987145832083,
+      "x": 0.5708154480732027,
+      "y": 0.7061118335801657
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014595366578418312,
+      "text": "editors to identify *the papers that need scrutiny’ in the first",
+      "width": 0.48283260294205854,
+      "x": 0.0665236095089422,
+      "y": 0.6947674423190182
+    },
+    {
+      "confidence": 1,
+      "height": 0.016254876462938883,
+      "text": "于，它首先要依赖评审编辑委员会来鉴别",
+      "width": 0.3690987145832084,
+      "x": 0.5729613691890826,
+      "y": 0.6859557864607744
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "place”. ［423 words］",
+      "width": 0.1695278995096569,
+      "x": 0.062231757729077124,
+      "y": 0.6729518854811778
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01765733205450526,
+      "text": "‘哪些论文需要仔细评审””。",
+      "width": 0.24463518841939325,
+      "x": 0.5686695327001746,
+      "y": 0.6656976746781706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "词汇注释与难句分析。",
+      "width": 0.20171673970579418,
+      "x": 0.39484978717499986,
+      "y": 0.6176853057076129
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "①alarmingly ［o'la:mgl］ad. 让人担忧地，令人惊恐地",
+      "width": 0.41201714865305605,
+      "x": 0.06437769588806419,
+      "y": 0.5942782835001532
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01162790663065616,
+      "text": "S",
+      "width": 0.012875535895408019,
+      "x": 0.5021459232540127,
+      "y": 0.5959302328280828
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "①be expected to do sth（理应做某事）",
+      "width": 0.28969956176523515,
+      "x": 0.5300429217461379,
+      "y": 0.5942782832918199
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903906,
+      "text": "②literate ［'torat］a. 精通、熟练、通晓的",
+      "width": 0.3047210341909339,
+      "x": 0.0643776772822155,
+      "y": 0.5754226267154765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013654096228868595,
+      "text": "②be alarmingly common（惊人地普遍）",
+      "width": 0.2961373356619632,
+      "x": 0.5321888453664432,
+      "y": 0.5767230166870314
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903684,
+      "text": "③verify ［'verfan］w. 核实",
+      "width": 0.1931330411768234,
+      "x": 0.06437768622489297,
+      "y": 0.5578673604762705
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "③take a tough line（采取强硬、严厉措施）",
+      "width": 0.31974247732912964,
+      "x": 0.5278970046026025,
+      "y": 0.5578673604762705
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014954486345903795,
+      "text": "④merit ［'merit］n. 价值，优点",
+      "width": 0.2317596552696887,
+      "x": 0.06437768507974787,
+      "y": 0.5390117034735706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "④rely on sb to do sth（依赖某人做某事）",
+      "width": 0.3154506280646443,
+      "x": 0.527897000409738,
+      "y": 0.5390117035971171
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014133864478420133,
+      "text": "• 经典搭配",
+      "width": 0.10542448926109271,
+      "x": 0.06638646856838401,
+      "y": 0.5154621379034077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "⑤in the first place（首先）",
+      "width": 0.20171673970579418,
+      "x": 0.5278969969711372,
+      "y": 0.5201560471031382
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016294568660820463,
+      "text": "•语篇分析",
+      "width": 0.09442059595616908,
+      "x": 0.43562232026225894,
+      "y": 0.48110465125057267
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016290788067642836,
+      "text": "第六段介绍细胞生物学家大卫•沃克斯对新举措的评价。关键词：①has some merit；②a weakness。",
+      "width": 0.8390557990193139,
+      "x": 0.1051502134731756,
+      "y": 0.4531859560306216
+    },
+    {
+      "confidence": 1,
+      "height": 0.01755526657997397,
+      "text": "①句介绍沃克斯指出的问题：已发表论文中的统计错误很普遍。前半句先指出正常情况：科学家理",
+      "width": 0.8412016943640536,
+      "x": 0.10515022867634229,
+      "y": 0.4330299088844516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "应知道如何分析数据；被动语态 are expected to（被期望/要求）实际传达“应该”之意；后半句以but转而",
+      "width": 0.8819742330891616,
+      "x": 0.06437768297258677,
+      "y": 0.41547464223121344
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "指出现实情况：已发表的研究中普遍存在统计错误。alarmingly“令人担忧、恐惧的”修饰common，强调",
+      "width": 0.8819742330891616,
+      "x": 0.06437769287065524,
+      "y": 0.39531859542176817
+    },
+    {
+      "confidence": 1,
+      "height": 0.016264327015771296,
+      "text": "统计错误普遍存在、论文质量堪忧。",
+      "width": 0.30257510955869127,
+      "x": 0.06437768505434527,
+      "y": 0.3764534882818228
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "②句介绍沃克斯提出的对策：研究者应提升自身水准，期刊应加强统计审查。本句承接上句“统计",
+      "width": 0.8412016943640535,
+      "x": 0.10515021977076296,
+      "y": 0.35610465103877875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "错误问题”，先以 Researchers should...引出对研究人员的要求：提升自身科研素质，严防统计数据方面",
+      "width": 0.8819742330891615,
+      "x": 0.06437768402255607,
+      "y": 0.33720930218080536
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "的差错；后以 but journals should also...引出强调的重点：（不光是研究者）期刊也应采取行动：任命两类",
+      "width": 0.8819742330891615,
+      "x": 0.06437769936207145,
+      "y": 0.31664499335587615
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "人加入评审队伍；其中副词 statistically literate（literate 意为“熟练的，通晓的”）表示“在统计领域有专业",
+      "width": 0.8819742330891615,
+      "x": 0.06437769914211448,
+      "y": 0.2977893369890775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0222025500472407,
+      "text": "水准的”；verify the process（verify 意为“核实”）意指“跟进和监督整个评审程序”。",
+      "width": 0.6913012835892515,
+      "x": 0.06424483508440061,
+      "y": 0.27610123364940187
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "③句表明沃克斯对新举措的态度：有一定价值，但也有缺陷。句子借由 but 分成前后两部分，but 前",
+      "width": 0.8412016943640535,
+      "x": 0.10515021977076296,
+      "y": 0.2572674417364531
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "Science's idea to pass some papers to statisticians 实际呼应首段“《科学》欲额外增加一轮统计审查”、第二",
+      "width": 0.8819742330891615,
+      "x": 0.0643776983695822,
+      "y": 0.23837209279127047
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "段④句（审查流程的第二步）“SBoRE 小组把原稿交由外界统计专家审核”，并借 has some merit 表明沃",
+      "width": 0.8819742330891615,
+      "x": 0.06437769437816607,
+      "y": 0.21947674395406125
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "克斯对此流程持有保留的赞许态度；but 后 the board of reviewing editors to identify ‘the papers that",
+      "width": 0.8862660823536468,
+      "x": 0.06437769729957128,
+      "y": 0.2002600780671262
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "need scrutiny’呼应第二段③句（审查流程的第一步）“由期刊编辑、评审委员会或外部同行评审者标记需",
+      "width": 0.8819742330891615,
+      "x": 0.06437769270434636,
+      "y": 0.18010403138114672
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01755526657997397,
+      "text": "要接受额外审查的原稿”，并借a wcakness is...rely on sb to do sth“缺点在于⋯⋯依赖某人做某事”暗示",
+      "width": 0.8819742330891615,
+      "x": 0.06437768434061257,
+      "y": 0.16124837421124505
+    },
+    {
+      "confidence": 1,
+      "height": 0.014584026039034192,
+      "text": "沃克斯的不赞赏之处：尽管审查程序严谨，审查人员专业，但原稿的第一步筛查却是由杂志内部的评审",
+      "width": 0.8819742330891615,
+      "x": 0.06437769767215741,
+      "y": 0.1423927180033816
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "编委会全权掌控，难以避免主观因素，侧面表达了沃克斯对“《科学》新举措应进一步严谨完善”的期许。",
+      "width": 0.8690986852957053,
+      "x": 0.06437770466974375,
+      "y": 0.12209302319824722
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "【深层解读】本段引证人物3对 SBoRE 的中肯评价：借助段内三句的关键词句 statistical errors are",
+      "width": 0.8497853928930242,
+      "x": 0.10085838713717857,
+      "y": 0.10319767467124696
+    },
+    {
+      "confidence": 1,
+      "height": 0.01162790663065616,
+      "text": "38",
+      "width": 0.023605148989042257,
+      "x": 0.0772532193001856,
+      "y": 0.07122093033292776
+    }
+  ],
+  "vision_ocr_text": "forward、long overdue、 statistical review is more essential、pay strong attention to statistical review 可提炼出本\n段主旨：人物2对新策/统计审查持支持态度。\nVI ①Professional scientists are expected to know how to\n专业的科学家应当知道如何分析数据，\nanalyse data, but statistical errors are alarmingly® common\n但是据细胞生物学家大卫•沃克斯所说，统\nin published research, according\nto\nDavid Vaux, a cell\n计错误在已发表的研究中令人震惊地普遍。\nbiologist. ② Researchers should improve their standards, he\n2012年他写道，研究人员应该提高他们的\nwrote in 2012, but journals should also take a tougher line，\n水准，但期刊杂志也应该采取更为严格的方\n“engaging reviewers who are statistically literate® and editors\n针，“让精通统计的评审专家以及能够核实\nwho can verify® the process”，\n③ Vaux says that Science's\n此（研究）过程的编辑参与（审查）”。沃克斯\nidea to pass\nsome papers to statisticians “has some merit®，\n说，《科学》要把一些论文交给统计学家（审\nbut a weakness is that it relies on the board of reviewing\n查）这一想法“有一定优点，但是一个缺点在\neditors to identify *the papers that need scrutiny’ in the first\n于，它首先要依赖评审编辑委员会来鉴别\nplace”. ［423 words］\n‘哪些论文需要仔细评审””。\n词汇注释与难句分析。\n①alarmingly ［o'la:mgl］ad. 让人担忧地，令人惊恐地\nS\n①be expected to do sth（理应做某事）\n②literate ［'torat］a. 精通、熟练、通晓的\n②be alarmingly common（惊人地普遍）\n③verify ［'verfan］w. 核实\n③take a tough line（采取强硬、严厉措施）\n④merit ［'merit］n. 价值，优点\n④rely on sb to do sth（依赖某人做某事）\n• 经典搭配\n⑤in the first place（首先）\n•语篇分析\n第六段介绍细胞生物学家大卫•沃克斯对新举措的评价。关键词：①has some merit；②a weakness。\n①句介绍沃克斯指出的问题：已发表论文中的统计错误很普遍。前半句先指出正常情况：科学家理\n应知道如何分析数据；被动语态 are expected to（被期望/要求）实际传达“应该”之意；后半句以but转而\n指出现实情况：已发表的研究中普遍存在统计错误。alarmingly“令人担忧、恐惧的”修饰common，强调\n统计错误普遍存在、论文质量堪忧。\n②句介绍沃克斯提出的对策：研究者应提升自身水准，期刊应加强统计审查。本句承接上句“统计\n错误问题”，先以 Researchers should...引出对研究人员的要求：提升自身科研素质，严防统计数据方面\n的差错；后以 but journals should also...引出强调的重点：（不光是研究者）期刊也应采取行动：任命两类\n人加入评审队伍；其中副词 statistically literate（literate 意为“熟练的，通晓的”）表示“在统计领域有专业\n水准的”；verify the process（verify 意为“核实”）意指“跟进和监督整个评审程序”。\n③句表明沃克斯对新举措的态度：有一定价值，但也有缺陷。句子借由 but 分成前后两部分，but 前\nScience's idea to pass some papers to statisticians 实际呼应首段“《科学》欲额外增加一轮统计审查”、第二\n段④句（审查流程的第二步）“SBoRE 小组把原稿交由外界统计专家审核”，并借 has some merit 表明沃\n克斯对此流程持有保留的赞许态度；but 后 the board of reviewing editors to identify ‘the papers that\nneed scrutiny’呼应第二段③句（审查流程的第一步）“由期刊编辑、评审委员会或外部同行评审者标记需\n要接受额外审查的原稿”，并借a wcakness is...rely on sb to do sth“缺点在于⋯⋯依赖某人做某事”暗示\n沃克斯的不赞赏之处：尽管审查程序严谨，审查人员专业，但原稿的第一步筛查却是由杂志内部的评审\n编委会全权掌控，难以避免主观因素，侧面表达了沃克斯对“《科学》新举措应进一步严谨完善”的期许。\n【深层解读】本段引证人物3对 SBoRE 的中肯评价：借助段内三句的关键词句 statistical errors are\n38",
+  "pdf_text_layer": "forward 、 long overdue, statistical review is more essential 、 pay strong attention to statistical review 可提炼出本\n段主旨 ： 人物 2 对新策 ／统计审查持支持态度。\n\n\n      'VII OProfessional scientists are expected to know how to        专业的科学家应当知道如何分析数据，\nanalyse data, but statistical errors are alarmingty<D common\n                                                                    但是据细胞生物学家大卫·沃克斯所说，统\nin published research, according       to   David Vaux, a cell\n                                                                    计错误在已发表的研究中令人震惊地普遍 。\nbiologist. @Researchers should improve their standards, he\n                                                                    2012 年他写道，研究人员应该提高他们的\nwrote in 2012, but journals should also take a tougher line,\n                                                                    水准，但期刊杂志也应该采取更为严格的方\n“ engaging reviewers who are statistically literate( and editors    针，“让精通统计的评审专家以及能够核实\nwho can verify(   the process ” .   8 Vaux says that Science ’S     此（研究）过程的编辑参与（审查）” 。 沃克斯\nidea to pass some papers to statisticians “ has some merit® ,\n                                                                    说，《科学》妥把一些论文交给统计学家（审\nbut a weakness is that it relies on the board of reviewing\n                                                                    查〉这 一 想法“有 一 定优点，但是一个缺点在\n巳ditors to identify ‘ the papers that need scrutiny' in the first\n                                                                    于，它首先要依赖许审编辑委员会来鉴别\nplace” . [ 423 words]\n                                                                    ‘哪些论文需要仔细评审”’。\n\n\n\n                                            ： ： ~：：司主革乎当难句分析： ~ ： ： tt\n( alarmi ngly [ o1 Ja:m11J1I ］ αd. 让人担 忧地 ，令 人惊恐地          $ ( be expected to do sth （理应做菜事）\n( literate [1 1Itorot]a. 精通、熟练、通晓的                         > ( be alarmingly common （惊人地普遍）\n( verify [ 'verifa1] v. 核实                                 < ( take a tough l in e （采取强硬、严厉措施）\n( merit [ 'merit] n . 价值，优点\n．经典搭配                                                     :~   ( re ly on sb to do sth （依赖某人做某事）\n                                                               ⑤l山 fir叫ace（首先）\n\n                                                ： ·语篇分析 ··~ ·： 11\n      第六段介绍细胞生物学家大卫·沃克斯对新举措的评价。关键词： ① has some merit ; ( a weakness 。\n      ① 旬介绍沃克斯指出的问题：已发表论文中的统计错误很普遍。 前半句先指出正常情况：科 学家理\n应知道如 何分析数据；被动 语态 a re expected to （被期望／要求）实际传达“应该”之意；后半句以 but 转而\n指出现实情况：已发表的研究中普遍存在统计错误。 a larm i ngly“令人担忧、恐惧的\n统计错误普遍存在、论文质量堪忧。\n      ② 旬介绍沃克斯提出的对策 ： 研究者应提升自身水准，期刊应加强统计审查。 本句承接上句“统计\n错误问题”，先以 Researchers shou ld .. . 引出对研究人员的要求：提升自身科研素质，严防统计数据方面\n的 差错；后以 but journals shou ld a lso . .         引出强调的 重点 ：（不光是研究者）期刊也应采取行动：任命两类\n人加入评审队伍；其中副同 stat i s tica ll y literate( li t erate 意为“熟练的，通晓的勺表示“在统计领域有 专 业\n水准的”； verify t he process( verify 意为“核实勺意指“跟进和监督整个评审程序”。\n      ③ 旬表明沃克斯对新举措的态度：有一定价值，但也有缺陆。 句子借由 but 分成前后两部分， but 前\nScience ’ s id ea to pass some papers to statisticians 实际呼应首段“《科学》欲额外增加一轮统计审查”、第二\n段④句（审查流程的第 二 步）“ SBoRE 小组把原稿交由外界统计专家审核”，并借 has some merit 表明沃\n克斯对此流程持有保留的赞许态度； but 后 the board of reviewing editors to identify ‘ the papers t hat\nneed sc rut i 町’呼应第二段③句（审查流程的第 一 步）“由期刊编辑、评审委员会或外部同行评审者标记需\n要接受额 外 审查 的 原稿”，并借 a weakness is . . . re ly on sb to do sth“缺点在于……依赖某人做某事”暗示\n沃克斯的不赞赏之处 ： 尽管审查程序严谨，审查人员专 业，但原稿的第 一步筛查 却是由杂志内部的评审\n编委会全权掌控，难以避免主观因素，侧面表达了沃克斯对“《科学》新举措应进一步严谨完善”的期许。\n      【深层解读】本段引证人物 3 对 SBoRE 的中肯评价： 借助段内 三 句的关键词句 statistical errors are\n\n\n 38",
+  "quality": {
+    "vision_line_count": 61,
+    "vision_character_count": 2325,
+    "pdf_text_character_count": 3380,
+    "nonempty": true
+  }
+}

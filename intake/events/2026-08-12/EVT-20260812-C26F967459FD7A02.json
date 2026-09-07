@@ -1,0 +1,88 @@
+{
+  "schema_version": "english_capture_event_v2",
+  "event_id": "EVT-20260812-C26F967459FD7A02",
+  "event_type": "sentence_captured",
+  "article": {
+    "article_id": "RAW-ARTICLE-20260711-009",
+    "source_article": "articles/2026-07-11-2012-english-i-text-1.md",
+    "source_id": "RAW-ARTICLE-20260711-009",
+    "source_hash": "e5689d55cf9f7c217bf06f335ba6c5a97a78a1c5b4fb712e655c03c546d1a387",
+    "reference_id": "EXAM-READING-2012-T1",
+    "title": "2012 English I Text 1"
+  },
+  "source": {
+    "sentence_id": "Q21-D",
+    "source_sentence": "a cause of undesirable behaviors.",
+    "source_kind": "option",
+    "sentence_hash": "fd5e49d68e81660e62eeb801c5abf3da18ec6da95211607173f7d2121993f55f"
+  },
+  "learning": {
+    "first_translation": "它是一个原因，什么表现的原因？后面那个 undesirable 我不知道什么意思。",
+    "user_evidence_verbatim": "D 选项：它是一个原因，什么表现的原因？后面那个 undesirable 我不知道什么意思。",
+    "user_evidence": [
+      "unknown"
+    ],
+    "evidence_states": [
+      "guided_understood"
+    ],
+    "evidence_origin": "live_user",
+    "answer_protection": "practice_safe",
+    "hint_level": 5,
+    "translation": "不良行为的一个原因。",
+    "explanation": "undesirable 表示不良的、不受欢迎的；behavior 是行为，behaviors 是多种行为表现。a cause of sth 表示“某事的原因”。",
+    "first_breakpoint": "未识别 undesirable，因而无法确定 behaviors 的性质。",
+    "restatement": ""
+  },
+  "candidates": [
+    {
+      "item": "undesirable",
+      "candidate_type": "单词",
+      "meaning": "不良的；不受欢迎的；不可取的",
+      "usage": "undesirable behaviors 表示不良行为或不可取的行为。",
+      "review_note": "由 desire 构词，但整体含义是否定评价。",
+      "decision": "long_term_candidate",
+      "reason": "用户明确不会，直接阻断选项理解。",
+      "source_signal_ids": [
+        "SIG-145648AF7F686846"
+      ]
+    }
+  ],
+  "observed_signals": [
+    {
+      "signal_id": "SIG-145648AF7F686846",
+      "signal_type": "vocabulary",
+      "canonical_term": "undesirable",
+      "surface_form": "undesirable",
+      "knowledge_state": "unknown",
+      "provenance": "explicit_capture_candidate",
+      "evidence_refs": [
+        "learning.user_evidence_verbatim",
+        "source.source_sentence"
+      ]
+    }
+  ],
+  "source_signal_ids": [
+    "SIG-145648AF7F686846"
+  ],
+  "capture_coverage": {
+    "schema_version": "english_capture_coverage_v2",
+    "declared_signal_count": 1,
+    "covered_signal_count": 1,
+    "signals": [
+      {
+        "signal_id": "SIG-145648AF7F686846",
+        "terminal_status": "candidate"
+      }
+    ]
+  },
+  "idempotency_key": "2026-08-12-2012-t1-q21-d-option-language-v1",
+  "request_sha256": "6a2d57ec1bc12ac37ba6c6fb899a7432d81eff2ecff873ab47633dbcc0a58c9c",
+  "occurred_at": "2026-08-12T08:59:41Z",
+  "producer": {
+    "role": "foreground_producer",
+    "name": "english_learning_pipeline",
+    "version": "0.1.0"
+  },
+  "formal_write_count": 0,
+  "formal_writeback": "none"
+}

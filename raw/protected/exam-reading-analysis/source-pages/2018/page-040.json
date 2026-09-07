@@ -1,0 +1,358 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2018-P040",
+  "year": 2018,
+  "pdf_page": 40,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2018年考研英语一真题解析.pdf",
+  "source_sha256": "ca0b130dbf84553a3cc6155e5322d4aaa1e8f86f072ec134e32c26915944e4e6",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.016260547042667994,
+      "text": "①②③句为第一句群，指出 USPS财政困境。",
+      "width": 0.3760683778139191,
+      "x": 0.102564106285348,
+      "y": 0.9258720927512996
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01630023862047536,
+      "text": "①句概述：USPS 长期严重亏损。bleed red ink 意为 to lose a lot of money rather than making money",
+      "width": 0.841880316944013,
+      "x": 0.10256412315192502,
+      "y": 0.9069767443137995
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017703776241744018,
+      "text": "“出现严重赤字，严重亏损”；continue to（to keep existing or happening without stopping“持续”）强调严重",
+      "width": 0.8825533048144717,
+      "x": 0.05980267671218715,
+      "y": 0.8863910956605385
+    },
+    {
+      "confidence": 1,
+      "height": 0.014582136052482597,
+      "text": "亏损状态持续已久，且还在继续。",
+      "width": 0.2799145204387249,
+      "x": 0.06410257233939819,
+      "y": 0.8677325583558398
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "②③句分述：以具体数据说明①句。两句间以 Meanwhile 并列衔接，凸显 USPS 财政问题。",
+      "width": 0.7606837197881811,
+      "x": 0.10256411350334554,
+      "y": 0.8472041615399567
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "②句指出 USPS 2016财年净亏损额巨大，且己连续十年支出超过收入。主句以 a net loss of $5.6",
+      "width": 0.8397435613161748,
+      "x": 0.10470087491273064,
+      "y": 0.8283485044284989
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018400114131376766,
+      "text": "billion说明USPS2016财年净亏损额惊人。逗号后进而指出这已是USPS连续第十年亏损，回应①句",
+      "width": 0.8804799767342855,
+      "x": 0.061906962652811405,
+      "y": 0.8072185304014785
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "continue to bleed red ink （the 10th straight year 意为“连续第十年”，straight 此处意力 happening one after",
+      "width": 0.8846153711497671,
+      "x": 0.06196582754477447,
+      "y": 0.7892441860470844
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013102186671779092,
+      "text": "another in a series“连续的，一个接一个的”；expenses have exceeded revenue 回指 net loss，以及 bleed red ink）。",
+      "width": 0.8803418598940905,
+      "x": 0.06410258533073218,
+      "y": 0.7717815343556476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "③句进一步指出USPS 还背负高额的无资金准备负债。主句以 more than $120 billion 呈现 UsPs",
+      "width": 0.8397435613161747,
+      "x": 0.10470086983336566,
+      "y": 0.7483745120784597
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "的高额无资金准备负债；mostly for...costs 说明负债主要构成：员工医疗及退休费用。附注：unfunded",
+      "width": 0.8803418598940905,
+      "x": 0.06410258061461523,
+      "y": 0.7295188556924542
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014627498830093288,
+      "text": "liabilities（无资金准备负债）指付款人没有预留出用于履行未来付款义务的足够资金而形成的债务。",
+      "width": 0.8824786155219289,
+      "x": 0.06196582779815232,
+      "y": 0.710663198652245
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "USPS组织机构臃肿，每年须为退休员工医疗福利基金账户预先支付50多亿美元，这令其不堪重负，已",
+      "width": 0.8782051042662524,
+      "x": 0.06410258704956588,
+      "y": 0.6904069767629274
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837223722671,
+      "text": "数年无力支付（即，形成高额无资金准备负债）。",
+      "width": 0.3995726313691294,
+      "x": 0.06410257720005062,
+      "y": 0.6700581394773168
+    },
+    {
+      "confidence": 1,
+      "height": 0.017552417338436932,
+      "text": "④⑤句为第二句群，分析 USPS陷入财政困境的原因。",
+      "width": 0.4574701079447,
+      "x": 0.10246705076235804,
+      "y": 0.6496650721597361
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "④句概述：USPS 之所以濒临破产，原因有很多。this formerly stable federal institution 指代 USPS，",
+      "width": 0.8397435613161748,
+      "x": 0.104700877311998,
+      "y": 0.6306892069065756
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "回顾其“曾经财务稳健”，并说明其性质“隶属于联邦政府”。at the brink of bankruptcy（濒临破产）概指",
+      "width": 0.8782051042662524,
+      "x": 0.06410258234489576,
+      "y": 0.6118335503170818
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "前三句，强调其如今困境。二者构成今昔对比、体现 USPS的由“盛”到“衰”。There are many reasons 开",
+      "width": 0.8782051042662523,
+      "x": 0.06410258339037796,
+      "y": 0.5915697674545456
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837223722649,
+      "text": "启原因分析。注：find oneself 十介词短语意为“突然发现自己身处⋯⋯境地”，此处传递 USPS“大厦将",
+      "width": 0.8782051042662524,
+      "x": 0.06410258234489576,
+      "y": 0.572674418605224
+    },
+    {
+      "confidence": 1,
+      "height": 0.01453488328832031,
+      "text": "倾”的无奈与悲凉。",
+      "width": 0.16025640950832037,
+      "x": 0.06410256607917313,
+      "y": 0.5537790699837468
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016258656436042185,
+      "text": "⑤句指出根本原因（Fundamentally）：内忧外患夹击——身陷“技术变革”和“管理僵化”造成的历史困境。",
+      "width": 0.8290597831769837,
+      "x": 0.10470088800552486,
+      "y": 0.5331599482690537
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "本句主干为 the USPS is in a historic squeeze between A and B（USPS 被挤压在A和B中间），凸显",
+      "width": 0.8397435613161747,
+      "x": 0.10470087941135685,
+      "y": 0.5130039009583671
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938772,
+      "text": "USPS 被动境况：historic squeeze（squeeze 本义为“挤压，压榨”，这里用其喻意，凸显被动情形；historic 意",
+      "width": 0.8782051042662524,
+      "x": 0.06410257722940932,
+      "y": 0.4941482443614328
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "为“历史性的，有重大历史意义的”）强调USPS遭受内外夹击的困境，凸显其深远影响，且说明这不仅是",
+      "width": 0.8760683486384142,
+      "x": 0.06623933369361333,
+      "y": 0.4738372090303692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016290788067642836,
+      "text": "USPS 困境，更是一种时代现象。",
+      "width": 0.27350425355521035,
+      "x": 0.06410257676940335,
+      "y": 0.4531859560306216
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "A（technological change）及其 that 从句说明“技术变革”对USPS核心业务的巨大冲击。bread-and-",
+      "width": 0.8397435613161748,
+      "x": 0.1047008759124253,
+      "y": 0.43433029901589004
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "butter product 和 first-class mail 为同位语，凸显USPS 的核心产品/主要收入来源——普通邮件（注：",
+      "width": 0.8824786155219289,
+      "x": 0.06196580941318113,
+      "y": 0.4154746425438449
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "bread-and-butter 以“面包和黄油”作为“西方人基本食物”的地位，喻指“核心的，重要的”；first-class mail",
+      "width": 0.8824786155219289,
+      "x": 0.061965811619377684,
+      "y": 0.3966189858827148
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019127078112142204,
+      "text": "“第一类邮件”指包含信函、明信片等使用最多的邮件，又叫普通邮件）。has permanently decreased",
+      "width": 0.8826693066219526,
+      "x": 0.061858673091749805,
+      "y": 0.3741033156739352
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0145348832883202,
+      "text": "demand（permanent 意力 continuing for a long time or for all the time in the future“永久性的，难以逆转",
+      "width": 0.8782051042662524,
+      "x": 0.064102586729053,
+      "y": 0.3575581399328748
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "的”）强调技术变革对 USPS普通邮件的冲击：使人们对其巨大需求一去不复返（USPS元气大伤）。",
+      "width": 0.8290598415279935,
+      "x": 0.06410256615908003,
+      "y": 0.3355006502095934
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016254876462938883,
+      "text": "B（a regulatory structure）及其 that 从句说明“僵化的管理”使 USPS 难以调整适应新现实。regulatory",
+      "width": 0.8397435613161748,
+      "x": 0.1047008759124253,
+      "y": 0.316644993592068
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903684,
+      "text": "structure 指对 USPS运作实施监管的体系；management 指 USPS 管理者/管理层；the flexibility to adjust its",
+      "width": 0.884615371149767,
+      "x": 0.06196582607041552,
+      "y": 0.2977893366331851
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "operations to the new reality 代表着 USPS原本适应新技术/新现实的可能。整体以 a regulatory structure",
+      "width": 0.884615371149767,
+      "x": 0.06196582254477452,
+      "y": 0.27616279046568903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0159883722372266,
+      "text": "that denies management the flexibility （deny sb sth 意为“拒绝某人做某事，使某人无法完成某事”）指出“僵化",
+      "width": 0.8824786155219289,
+      "x": 0.06196582779815232,
+      "y": 0.2572674418731502
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01793657756750855,
+      "text": "过时的监管体系”使得“USPS管理层”无法灵活实施现代化调整（USPS陷入困境）。",
+      "width": 0.6860667241463014,
+      "x": 0.06402382709551806,
+      "y": 0.23688770553402827
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014593476591866716,
+      "text": "【深层解读】本段行文逻辑：引入问题情形（①②③句）一分析其中原因（④⑤句）（标志词为 There are",
+      "width": 0.8440170725718511,
+      "x": 0.10256412032019968,
+      "y": 0.219476744450801
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "many reasons）。前三句以“总分”结构（bleed red ink...net loss... expenses have exceeded revenue...",
+      "width": 0.8782051042662524,
+      "x": 0.0641025907087537,
+      "y": 0.20026007796053702
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014954486345903795,
+      "text": "unfunded liabilities）凸显规模庞大、盛极一时的美国邮政（USPS）如今面临情形“深陷财政困境、处于破产",
+      "width": 0.8803418598940906,
+      "x": 0.061965813386288086,
+      "y": 0.18010403112215345
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014623718236915773,
+      "text": "边缘”；后两句以另一总分结构（many reasons...Fundamentally）明确其中根本原因“内忧外患夹击",
+      "width": 0.8418803169440129,
+      "x": 0.0619658139104725,
+      "y": 0.16124837449736062
+    },
+    {
+      "confidence": 1,
+      "height": 0.0159883722372266,
+      "text": "‘新技术冲击’和‘管理僵化’造成的历史性困境”。",
+      "width": 0.4209401584720065,
+      "x": 0.0619658224092959,
+      "y": 0.1409883720063867
+    },
+    {
+      "confidence": 1,
+      "height": 0.011703511053316018,
+      "text": "40",
+      "width": 0.023504273613369944,
+      "x": 0.0769230768418193,
+      "y": 0.07412223642471005
+    }
+  ],
+  "vision_ocr_text": "①②③句为第一句群，指出 USPS财政困境。\n①句概述：USPS 长期严重亏损。bleed red ink 意为 to lose a lot of money rather than making money\n“出现严重赤字，严重亏损”；continue to（to keep existing or happening without stopping“持续”）强调严重\n亏损状态持续已久，且还在继续。\n②③句分述：以具体数据说明①句。两句间以 Meanwhile 并列衔接，凸显 USPS 财政问题。\n②句指出 USPS 2016财年净亏损额巨大，且己连续十年支出超过收入。主句以 a net loss of $5.6\nbillion说明USPS2016财年净亏损额惊人。逗号后进而指出这已是USPS连续第十年亏损，回应①句\ncontinue to bleed red ink （the 10th straight year 意为“连续第十年”，straight 此处意力 happening one after\nanother in a series“连续的，一个接一个的”；expenses have exceeded revenue 回指 net loss，以及 bleed red ink）。\n③句进一步指出USPS 还背负高额的无资金准备负债。主句以 more than $120 billion 呈现 UsPs\n的高额无资金准备负债；mostly for...costs 说明负债主要构成：员工医疗及退休费用。附注：unfunded\nliabilities（无资金准备负债）指付款人没有预留出用于履行未来付款义务的足够资金而形成的债务。\nUSPS组织机构臃肿，每年须为退休员工医疗福利基金账户预先支付50多亿美元，这令其不堪重负，已\n数年无力支付（即，形成高额无资金准备负债）。\n④⑤句为第二句群，分析 USPS陷入财政困境的原因。\n④句概述：USPS 之所以濒临破产，原因有很多。this formerly stable federal institution 指代 USPS，\n回顾其“曾经财务稳健”，并说明其性质“隶属于联邦政府”。at the brink of bankruptcy（濒临破产）概指\n前三句，强调其如今困境。二者构成今昔对比、体现 USPS的由“盛”到“衰”。There are many reasons 开\n启原因分析。注：find oneself 十介词短语意为“突然发现自己身处⋯⋯境地”，此处传递 USPS“大厦将\n倾”的无奈与悲凉。\n⑤句指出根本原因（Fundamentally）：内忧外患夹击——身陷“技术变革”和“管理僵化”造成的历史困境。\n本句主干为 the USPS is in a historic squeeze between A and B（USPS 被挤压在A和B中间），凸显\nUSPS 被动境况：historic squeeze（squeeze 本义为“挤压，压榨”，这里用其喻意，凸显被动情形；historic 意\n为“历史性的，有重大历史意义的”）强调USPS遭受内外夹击的困境，凸显其深远影响，且说明这不仅是\nUSPS 困境，更是一种时代现象。\nA（technological change）及其 that 从句说明“技术变革”对USPS核心业务的巨大冲击。bread-and-\nbutter product 和 first-class mail 为同位语，凸显USPS 的核心产品/主要收入来源——普通邮件（注：\nbread-and-butter 以“面包和黄油”作为“西方人基本食物”的地位，喻指“核心的，重要的”；first-class mail\n“第一类邮件”指包含信函、明信片等使用最多的邮件，又叫普通邮件）。has permanently decreased\ndemand（permanent 意力 continuing for a long time or for all the time in the future“永久性的，难以逆转\n的”）强调技术变革对 USPS普通邮件的冲击：使人们对其巨大需求一去不复返（USPS元气大伤）。\nB（a regulatory structure）及其 that 从句说明“僵化的管理”使 USPS 难以调整适应新现实。regulatory\nstructure 指对 USPS运作实施监管的体系；management 指 USPS 管理者/管理层；the flexibility to adjust its\noperations to the new reality 代表着 USPS原本适应新技术/新现实的可能。整体以 a regulatory structure\nthat denies management the flexibility （deny sb sth 意为“拒绝某人做某事，使某人无法完成某事”）指出“僵化\n过时的监管体系”使得“USPS管理层”无法灵活实施现代化调整（USPS陷入困境）。\n【深层解读】本段行文逻辑：引入问题情形（①②③句）一分析其中原因（④⑤句）（标志词为 There are\nmany reasons）。前三句以“总分”结构（bleed red ink...net loss... expenses have exceeded revenue...\nunfunded liabilities）凸显规模庞大、盛极一时的美国邮政（USPS）如今面临情形“深陷财政困境、处于破产\n边缘”；后两句以另一总分结构（many reasons...Fundamentally）明确其中根本原因“内忧外患夹击\n‘新技术冲击’和‘管理僵化’造成的历史性困境”。\n40",
+  "pdf_text_layer": "①②③ 旬为第一旬群，指出 USPS 财政困境。\n      ① 旬概述： USPS 长期严重亏损。 bl eed red ink 意为 to lose a lot of money rather than making money\n“出现严重赤字，严重亏损”； continu e to( to keep existing or happening wit hout stopping“持续”）强调严重\n亏损状态持续已久，且还在继续。\n      ②③ 旬分述：以具体数据说明 ① 旬。两旬间以 Meanwhile 并列衔接，凸显 USPS 财政问题。\n      ② 旬指出 USPS 20 1 6 财年净亏损额巨大，且已连续十年支出超过收入。 主句以 a net loss of                             $ 5. 6\nbillion 说明 USPS 2016 财年净亏损额惊 人 。逗号后进 而指出这已 是 USPS 连 续第 十年 亏损， 回应①句\ncontinue to bleed red ink ( the 10th straight year 意为“连续第十年”， straight 此处意为 happening one after\nanother in a series“连续的，一个接一个的”； expenses have exceeded reven ue 回指 net l oss ，以及 bleed red ink） 。\n      ③ 旬进一步指出 USPS 还背负高额的无资金准备负债。 主句以 more than                           $ 12 0 b illi on 呈现 USPS\n的高额元资金准备负债； mostly for. . . costs 说明负债主要构成 ： 员工医疗及退休费用。附注 ： unfund ed\nliabilities （元资金准备负债）指付款人没有预留出用于履行未来付款义务的足够资 金 而形成的债务 。\nUSPS 组织机构雕肿，每年须为退休员工医疗福利基金账户预先支付 50 多亿美元，这令其不堪重负，已\n数年无力支付（即，形成高额元资金准备负债） 。\n      ④⑤ 旬为第二旬群，分析 USPS 陷入财政困境的原因。\n      ④ 旬概述： USPS 之所以濒临破产，原因有很多。 this formerly stab le federa l inst i tuti on 指代 USPS,\n回顾其“曾经财务稳健”，并说明 其 性质“隶属于联邦政府” 。 at the brink of bankruptcy （濒 临破 产）概 指\n前 三句，强 调其如今困境 。二 者构成今昔对比、体现 USPS 的由“盛”到“衰” 。 Th e re ar e many reasons 开\n启原因分析。注 ： find oneself ＋ 介同短语意为“突然发现自己身处 …… 境地”，此处传递 USPS“大厦将\n倾”的无奈与悲凉 。\n      ⑤旬指出根本原因（ Fun由mentally ）：内忧外患夹击一一身陷“技术变革”和“管理僵化”造成的历史困境。\n      本旬主干为 the USPS is in a historic squeeze between A and B ( USPS 被挤压在 A 和 B 中间），凸显\nUSPS 被动境况 ： histori c squ eeze ( sq u eeze 本义为“挤压，压榨”，这里用其 l喻 意， 凸显被动情形； hi sto ric 意\n为“历史性的，有重大历史意义的”）强调 USPS 遭受内外夹击的困境，凸显其深远影响，且说明这不仅是\nUSPS 困境，更是一种时代现象 。\n      A ( technological change ）及其 that 从旬说明“技术变革”对 USPS 核心业务的巨大冲击 。 br ead-a nd­\nbutter product 和 fir st- class m ail 为 同位语，凸显 USPS 的核心 产品／主要收入来源 一一 普通 邮件（注：\nbread- and-butter 以“面包和黄油”作为“西方人基本食物”的地位，喻指“核心的，重要的”； fi rst- class mail\n“第一类邮件”指包含信函、明信片等使用最多的邮件，又 叫 普通 邮件） 。 ha s permanen tly dec reased\ndemand( permanent 意为 continuing for a long time or for all th e time in the future “永久性的，难以逆转\n的”）强调技术变革对 USPS 普通 邮件的冲击：使人们对其 巨大需求一去不复返 CUSPS 元气大伤）。\n      B( a regulatory structure ）及其 that 从旬说明“僵化的管理”使 USPS 难以调整适应新现实。 regulatory\nstructure 指对 USPS 运作实施监管的体系； management 指 USPS 管理者 ／管 理层； the fl exi bility to adjust its\noperations to the new real 町代表着 USPS 原本适应新技术 ／新现实的可能 。整 体以 a regulatory structure\nthat denies management the flexibility (deny sb sth 意为“拒绝某人做某事，使某人无法完成某 事 ”）指出“僵化\n过时的监管体系”使得“ USPS 管理层”无法 灵活实施现代化调 整 CUSPS 陷入困境）。\n      【深层解读】本段行文逻辑：引入问题情形（ ①②③ 旬）→分析其中原因（ ④⑤ 旬）（标志词为 There are\nmany reasons ）。 前 三 句以“总分”结构（ bl eed red ink ... net loss ... expenses have exceeded revenue.\nunfunded liabilities ）凸显规模庞大、盛极 一 时的 美国 邮政 CUSPS）如 今面 临情形“深陷财政困境、处于破 产\n边缘”；后两句以另 一总分结构（ many reasons ... Fundamenta ll y ）明确其中根本原因“内忧外患夹击\n‘新技术冲击’和‘管理僵化’造成的历史性困境”。\n\n\n\n\n 40",
+  "quality": {
+    "vision_line_count": 42,
+    "vision_character_count": 2410,
+    "pdf_text_character_count": 2744,
+    "nonempty": true
+  }
+}

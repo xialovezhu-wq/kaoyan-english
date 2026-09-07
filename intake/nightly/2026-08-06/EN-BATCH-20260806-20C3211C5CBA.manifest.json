@@ -1,0 +1,163 @@
+{
+  "schema_version": "english_nightly_manifest_v2",
+  "batch_id": "EN-BATCH-20260806-20C3211C5CBA",
+  "study_date": "2026-08-06",
+  "frozen_at": "2026-08-06T11:55:33Z",
+  "candidate_documents": [],
+  "runtime_identity_summary": {
+    "confirmed": [],
+    "requested_unverified": [],
+    "mismatch": [],
+    "unavailable": []
+  },
+  "capture_event_ids": [],
+  "source_snapshot": {
+    "article_source_hashes": {},
+    "sentence_hashes": {}
+  },
+  "uncovered_capture_event_ids": [
+    "EVT-20260806-4DF6447806282008",
+    "EVT-20260806-507660196D4F941D",
+    "EVT-20260806-8F4D09BF50F3F1B3"
+  ],
+  "review_status_proposals": {
+    "schema_version": "english_review_status_proposals_v2",
+    "study_date": "2026-08-06",
+    "policy_version": "english_sentence_nonreport_policy_v2",
+    "capture_event_ids": [
+      "EVT-20260806-507660196D4F941D",
+      "EVT-20260806-8F4D09BF50F3F1B3",
+      "EVT-20260806-4DF6447806282008"
+    ],
+    "daily_explicit_unknown_terms": [
+      "be highly valued by",
+      "entertaining",
+      "gossip",
+      "permanent",
+      "pregnant"
+    ],
+    "review_exclusion_proposals": [
+      {
+        "proposal_type": "review_exclusion_proposal",
+        "item": "celebrities",
+        "normalized": "celebrities",
+        "bank_id": "20260424-204",
+        "reason": "appeared_in_sentence_but_not_reported_unknown",
+        "source_capture_event_ids": [
+          "EVT-20260806-507660196D4F941D"
+        ],
+        "sentence_evidence": [
+          {
+            "capture_event_id": "EVT-20260806-507660196D4F941D",
+            "sentence_hash": "3085f5d215494635c30901844f589c6f7a4d6b3c3ad3ed33a8822417b059e6d4",
+            "spans": [
+              {
+                "surface_form": "celebrities",
+                "normalized": "celebrities",
+                "start": 20,
+                "end": 31
+              }
+            ],
+            "explicit_unknown": false,
+            "user_evidence_verbatim": "C 选项这个“怀孕的”，我没翻译出来。然后这个“有娱乐性的”、“有趣的”，我也没翻译出来。"
+          }
+        ],
+        "day_conflict_check": {
+          "study_date": "2026-08-06",
+          "explicit_unknown_seen_anywhere_in_day": false,
+          "event_count_scanned": 3,
+          "policy_version": "english_sentence_nonreport_policy_v2"
+        }
+      }
+    ],
+    "reactivation_proposals": [],
+    "needs_user_decision": []
+  },
+  "review_status_proposals_sha256": "256c218d41674f1b3be58593e7d4405b5d96b8fb8d89f60c5e2d886b99a07c3a",
+  "review_status_source_hashes": {
+    "master_bank": "adfe79d67dec99834a6212c85d51c3d93c7bc90ec5aaec81f2dcff824d36bad0",
+    "mastered_items": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+    "review_exclusion_ledger": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "formal_snapshot": {
+    "master_bank": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/master_bank.csv",
+      "sha256": "adfe79d67dec99834a6212c85d51c3d93c7bc90ec5aaec81f2dcff824d36bad0",
+      "column_count": 13,
+      "header": [
+        "id",
+        "date",
+        "type",
+        "item",
+        "source_article",
+        "source_sentence",
+        "meaning",
+        "usage",
+        "writing_value",
+        "tags",
+        "review_note",
+        "appear_count",
+        "last_seen"
+      ],
+      "row_count": 732
+    },
+    "mastered_items": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/mastered_items.csv",
+      "sha256": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+      "column_count": 7,
+      "header": [
+        "item",
+        "matched_id",
+        "matched_type",
+        "mastered_date",
+        "evidence_sentence",
+        "evidence_context",
+        "proof_note"
+      ],
+      "row_count": 0
+    },
+    "sentence_patterns": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/sentence_patterns.md",
+      "sha256": "8e48a523a7471e62382c534b0e99931dacc4d9f05c9abdb3d9da52f3755720ef",
+      "field_count": 15,
+      "fields": [
+        "title",
+        "骨架",
+        "难度等级",
+        "基本句型",
+        "从句类型",
+        "场景标签",
+        "可复用程度",
+        "中文解释",
+        "结构拆解",
+        "生成模板",
+        "相关词汇/搭配",
+        "常用变体",
+        "来源与示例",
+        "use_count",
+        "last_used"
+      ],
+      "card_count": 22
+    },
+    "review_exclusion_ledger": {
+      "path": "/Users/xiazhibin/Documents/kaoyan-english/bank/review_exclusion_ledger.jsonl",
+      "exists": false,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "event_count": 0
+    }
+  },
+  "authorization": {
+    "command": "apply-nightly",
+    "batch_id": "EN-BATCH-20260806-20C3211C5CBA",
+    "study_date": "2026-08-06",
+    "authorized": false,
+    "authorized_at": null,
+    "scope": [
+      "master_bank",
+      "mastered_items",
+      "sentence_patterns",
+      "review_exclusion_ledger"
+    ]
+  },
+  "status": "needs_preprocess"
+}

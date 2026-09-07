@@ -1,0 +1,574 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P011",
+  "year": 2020,
+  "pdf_page": 11,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.02461555086333167,
+      "text": "以定位到③⑤句，③句提到“文化之城”取得的成功（巨额投资和艺术发展）不应局限于城市，暗示小镇也",
+      "width": 0.8836588163907079,
+      "x": 0.05921486294744996,
+      "y": 0.8986429937939486
+    },
+    {
+      "confidence": 1,
+      "height": 0.021164431978699993,
+      "text": "应享有艺术发展和巨额投资；⑤句直接指出“文化之镇”奖带来的经济意义，正确答案中的 increase",
+      "width": 0.8878133353883455,
+      "x": 0.05927576271847139,
+      "y": 0.8824079036619642
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020573005053179272,
+      "text": "economic strength 正是对原文的同义替换。",
+      "width": 0.37008080115685105,
+      "x": 0.05705498380932313,
+      "y": 0.8661195956457324
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018520609653147502,
+      "text": "①Some might see the proposal as a booby prize",
+      "width": 0.3953368897779551,
+      "x": 0.1250292966343477,
+      "y": 0.8318718746086987
+    },
+    {
+      "confidence": 1,
+      "height": 0.01607014782415761,
+      "text": "有些人也许会认为上述提议不过是个安",
+      "width": 0.35668787462957974,
+      "x": 0.5796178496915795,
+      "y": 0.8255813952314366
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02032971079250001,
+      "text": "for the fact that Britain is no longer able to apply for",
+      "width": 0.46541577245575677,
+      "x": 0.054994217877684264,
+      "y": 0.8131882062260665
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600156202506675,
+      "text": "慰奖，因为英国已经不再有資格去申请更具声",
+      "width": 0.39490446298128734,
+      "x": 0.5392781254944945,
+      "y": 0.805232557934925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.024221118262372276,
+      "text": "the much more prestigious® title of European capital of",
+      "width": 0.4655368309122181,
+      "x": 0.05495260415805869,
+      "y": 0.7919671902957265
+    },
+    {
+      "confidence": 1,
+      "height": 0.01910901978314461,
+      "text": "望的“欧洲文化之都”称号了。“欧洲文化之",
+      "width": 0.3927813056925563,
+      "x": 0.5414012803632051,
+      "y": 0.7848837210545305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014579727948252907,
+      "text": "culture, a sought-after®award bagged®by Glasgow in",
+      "width": 0.4628450105297787,
+      "x": 0.055201690842683414,
+      "y": 0.7776162795043335
+    },
+    {
+      "confidence": 1,
+      "height": 0.01604112998976248,
+      "text": "都”是一个备受青睐的奖项，被格拉斯哥和利",
+      "width": 0.39490446298128734,
+      "x": 0.53927812587666,
+      "y": 0.7688953488360878
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016088612932042556,
+      "text": "1990 and Liverpool in 2008. ②A cynic® might speculate®",
+      "width": 0.46072185324104775,
+      "x": 0.053078567664684856,
+      "y": 0.7586206896635557
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362237,
+      "text": "物浦分别于1990年和2008年收入囊中。怀",
+      "width": 0.39490446298128723,
+      "x": 0.5392781327981037,
+      "y": 0.7485465115138654
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01607278557308356,
+      "text": "that the UK is on the verge of disappearing into an",
+      "width": 0.46072185324104775,
+      "x": 0.05520170964982275,
+      "y": 0.7398255809678707
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "疑者可能会推测，英国迫切想要在脱欧后的世",
+      "width": 0.39490446298128723,
+      "x": 0.5392781286650535,
+      "y": 0.7309437386646305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "endless fever of self-celebration® in its desperation® to",
+      "width": 0.46284501052977867,
+      "x": 0.05307855244919426,
+      "y": 0.7194767441495242
+    },
+    {
+      "confidence": 1,
+      "height": 0.016104440291001554,
+      "text": "界展现新形象，即将湮没于无休止的自我庆祝",
+      "width": 0.39702757979577674,
+      "x": 0.5371549949481839,
+      "y": 0.7107558137379772
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014664141106302653,
+      "text": "reinvent itself for the post-Brexit world: after town of",
+      "width": 0.4649681273442681,
+      "x": 0.053078565521072,
+      "y": 0.7019056260947901
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014582365697178856,
+      "text": "的狂热之中：文化之镇之后，谁知道还会有什",
+      "width": 0.39490446298128723,
+      "x": 0.5392781327344095,
+      "y": 0.6918604656719691
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014732726039990318,
+      "text": "culture, who knows what will followvillage of culture？",
+      "width": 0.4628450105297788,
+      "x": 0.05307856394954782,
+      "y": 0.681488203467304
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014724812793212472,
+      "text": "么称号呢一文化之乡？文化之郊？文化之村？",
+      "width": 0.3906581484038254,
+      "x": 0.5392781416913235,
+      "y": 0.6742286750335724
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882754898781,
+      "text": "Suburb of culture? Hamlet® of culture？",
+      "width": 0.31847132675211376,
+      "x": 0.05095541677256311,
+      "y": 0.6642441864568529
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017695099818511806,
+      "text": "•词汇注释与难句分析",
+      "width": 0.21443736837776645,
+      "x": 0.3630573269841528,
+      "y": 0.6220508168098404
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014553348728186921,
+      "text": "① prestigious ［pre'stidses］a. 有威望的，声誉高的",
+      "width": 0.3779193260941644,
+      "x": 0.05307855589134658,
+      "y": 0.6002722320387974
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627906896241491,
+      "text": "S",
+      "width": 0.010615710554451818,
+      "x": 0.4904458600890162,
+      "y": 0.6017441862321118
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014592917558285845,
+      "text": "⑦desperation Lidespo'rei/en」n. 极度渴望，拼命",
+      "width": 0.3630573060215311,
+      "x": 0.5201698644255401,
+      "y": 0.5988372096036553
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014608744917244731,
+      "text": "②sought-after ［'sortaft］a. 争相获得的，受欢迎的",
+      "width": 0.3864118743006051,
+      "x": 0.05307856184120494,
+      "y": 0.5843023262460971
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014701071322072545,
+      "text": "⑧hamlet ［'heemlat］n. 小村庄",
+      "width": 0.23354564231649955,
+      "x": 0.5201698553810283,
+      "y": 0.582848837510632
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014698433573146596,
+      "text": "③bag ［beeg］ v. 抢占，占有",
+      "width": 0.2059447999342051,
+      "x": 0.053078556917944476,
+      "y": 0.5666969148641035
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014923130319252631,
+      "text": "• 经典搭配",
+      "width": 0.106269330497762,
+      "x": 0.5158674565658572,
+      "y": 0.5637593650051141
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014555986477112759,
+      "text": "④cynic ［'sik］n. 悲观者；怀疑者",
+      "width": 0.2675159160907452,
+      "x": 0.050955414406856796,
+      "y": 0.5494186050978414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01474064015217147,
+      "text": "①booby prize（安慰奖）",
+      "width": 0.182590231655131,
+      "x": 0.5201698536295167,
+      "y": 0.5465116284730489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "⑤speculate ［'spekjulert］v.推测，猜测",
+      "width": 0.29299362142142943,
+      "x": 0.05307856359926393,
+      "y": 0.5303992743303481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013205376813718805,
+      "text": "②on the verge of（濒于•",
+      "width": 0.19320593715030243,
+      "x": 0.5222930006746717,
+      "y": 0.5303992741601127
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013205376813718916,
+      "text": "•，即将）",
+      "width": 0.0636942683859909,
+      "x": 0.7303609329513784,
+      "y": 0.5303992739965953
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014595555307211794,
+      "text": "⑥self-celebration n. 自我庆祝，自我赞美",
+      "width": 0.3163481897005036,
+      "x": 0.048832278530852175,
+      "y": 0.5130813959045274
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013234393782710852,
+      "text": "③reinvent oneself（以新形象示人）",
+      "width": 0.2717622104310863,
+      "x": 0.5180467106655607,
+      "y": 0.5130813956540754
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906896241602,
+      "text": "Some might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the",
+      "width": 0.847133727541653,
+      "x": 0.09129513904233692,
+      "y": 0.4840116280199025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014558624226038819,
+      "text": "much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990",
+      "width": 0.8853503158933606,
+      "x": 0.050955416283680756,
+      "y": 0.4636627909990042
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013295065902322212,
+      "text": "and Liverpool in 2008.",
+      "width": 0.19320593715030254,
+      "x": 0.04883227880630653,
+      "y": 0.44600725939321473
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014598193056137632,
+      "text": "结构切分：",
+      "width": 0.09341825287917564,
+      "x": 0.08917197837286793,
+      "y": 0.4273255819025894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013168446165247483,
+      "text": "Some might see",
+      "width": 0.11252653693646905,
+      "x": 0.12951167732794383,
+      "y": 0.4069767444040753
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013168446165247483,
+      "text": "the proposal as a booby prize for the fact",
+      "width": 0.2802547586375269,
+      "x": 0.24628451098555362,
+      "y": 0.4069767442296568
+    },
+    {
+      "confidence": 1,
+      "height": 0.013231756033784792,
+      "text": "主语",
+      "width": 0.03609341841477612,
+      "x": 0.13163481909409813,
+      "y": 0.38793103432958165
+    },
+    {
+      "confidence": 1,
+      "height": 0.013231756033784903,
+      "text": "谓语",
+      "width": 0.036093418414776146,
+      "x": 0.19108280272770442,
+      "y": 0.3879310344749304
+    },
+    {
+      "confidence": 1,
+      "height": 0.013231756033784903,
+      "text": "宾语",
+      "width": 0.04033970263655684,
+      "x": 0.2760084931350124,
+      "y": 0.3879310344567619
+    },
+    {
+      "confidence": 1,
+      "height": 0.013231756033784903,
+      "text": "宾补",
+      "width": 0.03609341841477609,
+      "x": 0.3715498934642326,
+      "y": 0.3879310343174691
+    },
+    {
+      "confidence": 1,
+      "height": 0.013231756033784903,
+      "text": "原因状语",
+      "width": 0.06794055260777154,
+      "x": 0.4458598728013614,
+      "y": 0.3879310344749304
+    },
+    {
+      "confidence": 1,
+      "height": 0.01466941660415455,
+      "text": "fact的同位语从句",
+      "width": 0.12951167382359186,
+      "x": 0.522292996655083,
+      "y": 0.36191860522138786
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017441860344362348,
+      "text": "Lhat Britain",
+      "width": 0.08492568443561421,
+      "x": 0.10403397216648164,
+      "y": 0.34011627934816757
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017695099818511806,
+      "text": "ig",
+      "width": 0.016985138151942886,
+      "x": 0.20169851383273343,
+      "y": 0.3384754991160437
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "no longer able to apply for the much more prestigious title of European capital of culture",
+      "width": 0.5774946946364183,
+      "x": 0.2441613633399649,
+      "y": 0.34301270428715436
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013252859323297339,
+      "text": "引导词 主语 系动词",
+      "width": 0.15074309493249544,
+      "x": 0.08492569395625757,
+      "y": 0.32395644284239467
+    },
+    {
+      "confidence": 1,
+      "height": 0.01461402041509674,
+      "text": "表语",
+      "width": 0.0360934184147762,
+      "x": 0.492569002303076,
+      "y": 0.3225952815105254
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014590279809359896,
+      "text": "European capital of culture的同位语",
+      "width": 0.25690021059557366,
+      "x": 0.5371549928126166,
+      "y": 0.30081669653901977
+    },
+    {
+      "confidence": 1,
+      "height": 0.013205376813718916,
+      "text": "后置定语",
+      "width": 0.06794055260777154,
+      "x": 0.6518046711028475,
+      "y": 0.2803992741601127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013226480103231353,
+      "text": "bagged by Glasgow in 1990 and Liverpool in 2008.",
+      "width": 0.3524416005263595,
+      "x": 0.2802547865379525,
+      "y": 0.2703488375557227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011796733212341204,
+      "text": "a sought-after award",
+      "width": 0.142250526488934,
+      "x": 0.7537155004763398,
+      "y": 0.2717785844378594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016333938294010864,
+      "text": "功能注释：句子主干是 Some might see the proposal as a booby prize,for the fact that. .. 作原因状",
+      "width": 0.8450106107271634,
+      "x": 0.08917198546444359,
+      "y": 0.2454627952325127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599628566181166,
+      "text": "语，that 引导的同位语从句解释 fact 的具体内容。同位语从句的主干为 Britain is no longer able to apply",
+      "width": 0.8853503158933604,
+      "x": 0.04883227937512746,
+      "y": 0.22674418593741674
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01467205435308061,
+      "text": "for the much more prestigious title of European capital of culture。其后的 a sought-after award... 2008",
+      "width": 0.8853503158933603,
+      "x": 0.04883227697900962,
+      "y": 0.2091651542239813
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016035854491910473,
+      "text": "是 European capital of culture 的同位语，过去分词短语 bagged by Glasgow in 1990 and Liverpool in 2008",
+      "width": 0.8853503158933604,
+      "x": 0.048832264282619255,
+      "y": 0.1904069767430645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018587657630768084,
+      "text": "作后置定语修饰 award。",
+      "width": 0.2066303728746166,
+      "x": 0.04849798078409811,
+      "y": 0.17054337996474966
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02041742286751358,
+      "text": "•语篇分析",
+      "width": 0.1019108213227371,
+      "x": 0.41188960037897115,
+      "y": 0.14382940112061215
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02212580665269903,
+      "text": "第二段为第二部分，量现质疑者对新提议的看法：英国脱欧后，因无法再申请“欧洲文化之都”，退而",
+      "width": 0.8473288943343833,
+      "x": 0.08271014846925492,
+      "y": 0.11619239240855628
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017460325452247294,
+      "text": "求其次设立“文化之镇”奖，不过是自欺欺人的自我庆祝罢了。关键词：①booby prize；②cynic。",
+      "width": 0.7983014741690152,
+      "x": 0.04246285900891051,
+      "y": 0.10027223265598051
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "①句引出质疑者观点：“文化之镇”只是个安慰奖。Some might see 呼应首段 Cooper and her",
+      "width": 0.8513800421191148,
+      "x": 0.08280254084773221,
+      "y": 0.08284883719700487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01605959596305062,
+      "text": "colleagues argue，标志着不同声音的出现。booby prize（a prize that is given as a joke to the person who is",
+      "width": 0.8895965495223391,
+      "x": 0.04458602139948145,
+      "y": 0.06533575309572592
+    },
+    {
+      "confidence": 1,
+      "height": 0.011627906896241602,
+      "text": "11",
+      "width": 0.0233545632197939,
+      "x": 0.8917197457963311,
+      "y": 0.04651162787455365
+    }
+  ],
+  "vision_ocr_text": "以定位到③⑤句，③句提到“文化之城”取得的成功（巨额投资和艺术发展）不应局限于城市，暗示小镇也\n应享有艺术发展和巨额投资；⑤句直接指出“文化之镇”奖带来的经济意义，正确答案中的 increase\neconomic strength 正是对原文的同义替换。\n①Some might see the proposal as a booby prize\n有些人也许会认为上述提议不过是个安\nfor the fact that Britain is no longer able to apply for\n慰奖，因为英国已经不再有資格去申请更具声\nthe much more prestigious® title of European capital of\n望的“欧洲文化之都”称号了。“欧洲文化之\nculture, a sought-after®award bagged®by Glasgow in\n都”是一个备受青睐的奖项，被格拉斯哥和利\n1990 and Liverpool in 2008. ②A cynic® might speculate®\n物浦分别于1990年和2008年收入囊中。怀\nthat the UK is on the verge of disappearing into an\n疑者可能会推测，英国迫切想要在脱欧后的世\nendless fever of self-celebration® in its desperation® to\n界展现新形象，即将湮没于无休止的自我庆祝\nreinvent itself for the post-Brexit world: after town of\n的狂热之中：文化之镇之后，谁知道还会有什\nculture, who knows what will followvillage of culture？\n么称号呢一文化之乡？文化之郊？文化之村？\nSuburb of culture? Hamlet® of culture？\n•词汇注释与难句分析\n① prestigious ［pre'stidses］a. 有威望的，声誉高的\nS\n⑦desperation Lidespo'rei/en」n. 极度渴望，拼命\n②sought-after ［'sortaft］a. 争相获得的，受欢迎的\n⑧hamlet ［'heemlat］n. 小村庄\n③bag ［beeg］ v. 抢占，占有\n• 经典搭配\n④cynic ［'sik］n. 悲观者；怀疑者\n①booby prize（安慰奖）\n⑤speculate ［'spekjulert］v.推测，猜测\n②on the verge of（濒于•\n•，即将）\n⑥self-celebration n. 自我庆祝，自我赞美\n③reinvent oneself（以新形象示人）\nSome might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the\nmuch more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990\nand Liverpool in 2008.\n结构切分：\nSome might see\nthe proposal as a booby prize for the fact\n主语\n谓语\n宾语\n宾补\n原因状语\nfact的同位语从句\nLhat Britain\nig\nno longer able to apply for the much more prestigious title of European capital of culture\n引导词 主语 系动词\n表语\nEuropean capital of culture的同位语\n后置定语\nbagged by Glasgow in 1990 and Liverpool in 2008.\na sought-after award\n功能注释：句子主干是 Some might see the proposal as a booby prize,for the fact that. .. 作原因状\n语，that 引导的同位语从句解释 fact 的具体内容。同位语从句的主干为 Britain is no longer able to apply\nfor the much more prestigious title of European capital of culture。其后的 a sought-after award... 2008\n是 European capital of culture 的同位语，过去分词短语 bagged by Glasgow in 1990 and Liverpool in 2008\n作后置定语修饰 award。\n•语篇分析\n第二段为第二部分，量现质疑者对新提议的看法：英国脱欧后，因无法再申请“欧洲文化之都”，退而\n求其次设立“文化之镇”奖，不过是自欺欺人的自我庆祝罢了。关键词：①booby prize；②cynic。\n①句引出质疑者观点：“文化之镇”只是个安慰奖。Some might see 呼应首段 Cooper and her\ncolleagues argue，标志着不同声音的出现。booby prize（a prize that is given as a joke to the person who is\n11",
+  "pdf_text_layer": "~~til.i!J®@-m.,®-mii:¥1J\"x1tz~\"llk~tl'.f9 ~~< e lii~Jf ~£*~M) ~mfru ~ -=r~m, lff ~1J,•-m\n  mZ$::,rt;*~»l lU e ffi~!3f J ®1iJ:Rtlffi tli \"Jt1tZffi\"~iffr* ~ ~m: ~JI.. , lE~~~ 't' ~ increase\n  economic strength lE~x,fl!{Jt ~ Iii] J/..t,:~ o\n ....................................................................................... . ........... ............................. .......... ...................................... ·····\n            Il O Some might see the proposal as a booby prize\n                                                                                                                          ~~A~*~R~ia~~~~~+~\n for the fact that Britain is no longer able to apply for\n                                                                                                                ~~' ~ f;J~OO ~~~~;frf\"-f-~-¼ tt,jj~J!-1'\n the much more prestigious (!) title of European capital of\n                                                                                                                ~ {11.J \" lit ~ j: ,f.t, ~ :ifs \" # -t 7                lit i)tj j: ,f.t, ~                                                           0   \"\n\n culture, a soogbt- afterCb award bagged~ by Glasgow in\n                                                                                                                                                                   :tis\" }l-+.a-- ~ -t ~ ~ ~ ~ '-~;li.Nr-lf ~ ;f•J\n 1990 and Liverpool in 2008. • A cynic® might speculate®\n                                                                                                                                                                   qh;'j~ J•j -f 1990 Jf-~ 2008 Jf-,lt.A t 'P o ·~\n that the UK is on the verge of disappearing into an\n                                                                                                                                                                   ·*~~~#~,~~~~~~~~~~~~\n endless fever of self-celebration$ in its desperationcr.> to\n                                                                                                                                                                   ~ Jl s.t fJi' 1fJ t.. , ir ~ it. il. -t ~ #- J1: ~ ro ~ ffi.. ~\n reinvent itself for the post-Brexit world: after to~ of\n culture, who knows what will follow-village of culture?\n                                                                                                                                                                   {11.J ~   IA .t t : j: ,f.t, .t <tA- .t 15 ,                                 \"* ~ il ~ ~~it\n                                                                                                                                                                   ~-½~ - j:,f.t,~f?j:~~~?j:~~#?\n Suburb of culture? HamletG> of culture?\n................................................................................................................................................................ ....................................................................................... .......................................\n                                                                                                                                                                   _                                                                                 _.\n\n\n\n\n                                                                                                  ::·~··ij·{c.itij}~~~-~{F{·;~::1\n (D prestigious [pre'stid3as] a. ~.Atffll'.19 ,JB:W:it&l'.19                                                                                        ~5      (Z)desperation [1despa 1re1Jan] n. tllli:ffltl;m1ftr\n                                                                                                                                                    i\n ® sought-after [ 1so:tafta] a. ,;,.;ffi~~il'.19 .~~ifl!a<J\n @ bag [breg] v. ~ i5, i5~\n © cynic ['s1n1k] n. ~~:i\" ,-1:1'1£:i\"\n                                                                                                                                                    ~\n                                                                                                                                                    ~~\n                                                                                                                                                    ~)\n                                                                                                                                                      •~-~f c\n                                                                                                                                                            @ hamlet ['haeml.n] n. Jj\\t,j\" El:\n\n\n                                                                                                                                                           (Dbooby prize (~it~)\n@speculate [ spekjulett] v. Htffl!l ,fflffllj                                                                                                       ~\n                                1\n                                                                                                                                                           ®on the verge of ( . T ··· ···, llP~)\n® self-celebration n. § Jltlxtsl, § ~Jr~                                                                                                            ~5     ®reinvent oneself (~i)r~~7J'A.)\n\n........s~~~ .~ight.-~~.th~-P~~P~;~i--~ -~--~i;;,··P;~~·r~/th~-\"i~~i-.th~t-Bribl~--is ~~. i~~g;r -~bi; ·to a pply ror the\nmuch more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990\nand Liverpool in 2008.\n             ta~W ~:\n                          Some might see the proposal as a booby prize for the fact\n                          ±ffi               ft                          ~ffi                            ~1~                               ffi!z;!~ffi-' ~\n                                                                                                                                                             fact~      liiJmilt»./jjJ\n                 -that Britain\n                       - - is-                                 no longer able to apply for the much more prestigious title of European capital of culture\n           ~l~iffl ±ffi ~~iffj                                                                                                                       ~ffi                                                                                        '   \"\n                                                                                                                                                                   European capital of culturetl9 lsiJ{u:~\n\n                                                                         Ibagged by Glasgow .m 1990 and .\n                                                                                                       L1verpool .m 2008 . Fctti-1½ \"\" I a sought-aft:er award I                               1\n                                                                                                                                                                                               1\n                                                                                                                                                                                                                              _\n                                                                                                                                                                                                                                   1\n\n            l)J ~ it ff : -ti) =f- .± T ~ Some might see the proposal as a booby prize, for the fact that ... -f1= ffi 1:§ ~\nffi- ,that sl ~~pij,&ffil>\\1iJfff~ fact ~J\\-f*P-lW o pij{rrffiJA1iJ~.±T.' 1 Britain is no longer able to apply\nfor the much more prestigious title of European capital of culture o ;it.ls'~ a sought-after award... 2008\n¾ European capital of culture ~fiil&i!,:i:t~?t-jjjffiffi bagged by Glasgow ·in 1990 and Liverpool in 2008\nf1:.Fa•~m~1tfi award o\n                                                                                                                  :··~··i1~~*fi··;· :•JI,\n                                                                                                                                      :J,.,I\n          •=•1:1•=•~   ,Mn!JJtQ.,lflf!li.t~Wia =•iilmtitl&, ffil~>li.Jli $il\"W: Hff Jtitz$\" ,ill iffi\n                                                                                                                  1. . . . . . . . . . .   .,   •••••••   ••• ••\n\n\n\n\n                                             ll.\n,Jt X>xutn'' Jtitzta\"• ,~l!A ~ ll!Xl!A tro ~ ft ~ ~- 7 o ~lliffl :©booby prlze;@cynico\n     <Diil ~I tfj n! jJ! A1,. : u 1C it z tl\" .R JI~~ It !t O Some might see 11¥ mi. 1t &: Cooper and her\ncolleagues argue,t;j~;l~liijpflftf9tfjJJL booby prize(a prize that is given as a joke to the person who is\n                                                                                                                                                                                                                                                                                   11",
+  "quality": {
+    "vision_line_count": 69,
+    "vision_character_count": 2359,
+    "pdf_text_character_count": 9438,
+    "nonempty": true
+  }
+}

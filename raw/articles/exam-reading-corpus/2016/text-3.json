@@ -1,0 +1,112 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2016-T3",
+  "source_id": "RAW-ARTICLE-20260711-027",
+  "ingest_date": "2026-07-11",
+  "year": 2016,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 3,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2016年考研英语一真题.pdf",
+  "truth_pages": [
+    8,
+    9
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2016年考研英语一真题解析.pdf",
+  "analysis_page_range": "32-40",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2016/text-3.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2016/text-3.json",
+  "article_path": "articles/2026-07-11-2016-english-i-text-3.md",
+  "passage_paragraphs": [
+    "“There is one and only one social responsibility of business,” wrote Milton Friedman, a Nobel prize-winning economist, “That is, to use its resources and engage in activities designed to increase its profits.” But even if you accept Friedman’s premise and regard corporate social responsibility (CSR) policies as a waste of shareholders’ money, things may not be absolutely clear-cut. New research suggests that CSR may create monetary value for companies — at least when they are prosecuted for corruption.",
+    "The largest firms in America and Britain together spend more than $15 billion a year on CSR, according to an estimate by EPG, a consulting firm. This could add value to their businesses in three ways. First, consumers may take CSR spending as a “signal” that a company’s products are of high quality. Second, customers may be willing to buy a company’s products as an indirect way to donate to the good causes it helps. And third, through a more diffuse “halo effect,” whereby its good deeds earn it greater consideration from consumers and others.",
+    "Previous studies on CSR have had trouble differentiating these effects because consumers can be affected by all three. A recent study attempts to separate them by looking at bribery prosecutions under America’s Foreign Corrupt Practices Act (FCPA). It argues that since prosecutors do not consume a company’s products as part of their investigations, they could be influenced only by the halo effect.",
+    "The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties. Their analysis ruled out the possibility that it was firms’ political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines.",
+    "In all, the study concludes that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company’s record in CSR. “We estimate that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials,” says one researcher.",
+    "Researchers admit that their study does not answer the question of how much businesses ought to spend on CSR. Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies. But at least they have demonstrated that when companies get into trouble with the law, evidence of good character can win them a less costly punishment."
+  ],
+  "questions": [
+    {
+      "number": 31,
+      "prompt": "The author views Milton Friedman’s statement about CSR with",
+      "options": {
+        "A": "tolerance.",
+        "B": "skepticism.",
+        "C": "approval.",
+        "D": "uncertainty."
+      }
+    },
+    {
+      "number": 32,
+      "prompt": "According to Paragraph 2, CSR helps a company by",
+      "options": {
+        "A": "guarding it against malpractices.",
+        "B": "protecting it from being defamed.",
+        "C": "winning trust from consumers.",
+        "D": "raising the quality of its products."
+      }
+    },
+    {
+      "number": 33,
+      "prompt": "The expression “more lenient” (Para.4) is closest in meaning to",
+      "options": {
+        "A": "less controversial.",
+        "B": "more effective.",
+        "C": "more lasting.",
+        "D": "less severe."
+      }
+    },
+    {
+      "number": 34,
+      "prompt": "When prosecutors evaluate a case, a company’s CSR record",
+      "options": {
+        "A": "has an impact on their decision.",
+        "B": "comes across as reliable evidence.",
+        "C": "increases the chance of being penalized.",
+        "D": "constitutes part of the investigation."
+      }
+    },
+    {
+      "number": 35,
+      "prompt": "Which of the following is true of CSR, according to the last paragraph?",
+      "options": {
+        "A": "Its negative effects on businesses are often overlooked.",
+        "B": "The necessary amount of companies’ spending on it is unknown.",
+        "C": "Companies’ financial capacity for it has been overestimated.",
+        "D": "It has brought much benefit to the banking industry."
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 427,
+    "paragraphs": 6,
+    "source_token_count": 433,
+    "final_token_count": 433,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

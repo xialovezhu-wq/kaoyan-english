@@ -1,0 +1,518 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2014-P015",
+  "year": 2014,
+  "pdf_page": 15,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2014年考研英语一真题解析.pdf",
+  "source_sha256": "d4cd2430f40f81b8971f12714e1f18d60eb4338b0df2cf00e83f7e5bd4c66fbb",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.016382699868938366,
+      "text": "•词汇注释与难句分析•",
+      "width": 0.21868364472955587,
+      "x": 0.3630573256447763,
+      "y": 0.9141546529374653
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627907209283861,
+      "text": "Qinstinct L'instinkt」n. 本能",
+      "width": 0.22080679414829532,
+      "x": 0.05095541617425994,
+      "y": 0.8909883720639628
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014673946100637436,
+      "text": "⑨insurance ［in'fuorons］n.保障，保障措施",
+      "width": 0.32696389969281314,
+      "x": 0.5159235679879883,
+      "y": 0.887942333052175
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011917461730237,
+      "text": "②dependency ［dr'pendonsi］n. 依赖性",
+      "width": 0.28662419227804725,
+      "x": 0.05307856442360906,
+      "y": 0.8720930232122186
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081395610444413,
+      "text": "• 经典搭配",
+      "width": 0.10615711285236695,
+      "x": 0.515923567777638,
+      "y": 0.8633720929651266
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014715855899675834,
+      "text": "③ready ［'redi］ a. 愿意的",
+      "width": 0.19957537303939174,
+      "x": 0.04883226935433105,
+      "y": 0.8502906974806317
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013378570151672653,
+      "text": "①first instinct（第一直觉）",
+      "width": 0.20382165726117252,
+      "x": 0.5138004214755709,
+      "y": 0.8427260810874158
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014607272641843139,
+      "text": "④falsehood ［'fo:lshod］n. 错误，虚伪",
+      "width": 0.2802547586375269,
+      "x": 0.0488322789766566,
+      "y": 0.8313953486295796
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01335571009084724,
+      "text": "②to0 ready to（非常愿意•",
+      "width": 0.20169850784243293,
+      "x": 0.5159235693979626,
+      "y": 0.8241279072528678
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013355710090847128,
+      "text": "，过分愿意⋯⋯）",
+      "width": 0.1252653918503801,
+      "x": 0.7473460735470574,
+      "y": 0.824127906918615
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013188073394495459,
+      "text": "⑤insure ［m'Jo：］ v. 保证，确保",
+      "width": 0.23354564681363746,
+      "x": 0.04883227408079623,
+      "y": 0.8124999999539833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247126833014544,
+      "text": "③ever-tougher（日益严厉）",
+      "width": 0.20169850784243293,
+      "x": 0.5159235693979626,
+      "y": 0.8052325584156584
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013108065368932276,
+      "text": "⑥unconditional［Ankon dtjonal］a. 无条件的，无限制的",
+      "width": 0.39278131243826325,
+      "x": 0.04883227652275488,
+      "y": 0.7935779813461736
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013138544200132274,
+      "text": "④insure... against the risk of（保障⋯⋯抵抗⋯⋯风险）",
+      "width": 0.4140127189314685,
+      "x": 0.5159235832448105,
+      "y": 0.7863372095784492
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882761704004,
+      "text": "⑦payment ［ peimont］n. 支付款，支付的金额",
+      "width": 0.3503184702204562,
+      "x": 0.04883227441737271,
+      "y": 0.7732558142514154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882761704004,
+      "text": "⑤ unconditional payment（无条件支付）",
+      "width": 0.30360932916517,
+      "x": 0.5116772849131688,
+      "y": 0.7659883725362991
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013325231259647241,
+      "text": "⑧entitlement ［in'tantalmant］n. 拥有或获得某物的权利",
+      "width": 0.39702758204434563,
+      "x": 0.04883228513493962,
+      "y": 0.7555701177810401
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01181268879501729,
+      "text": "⑥conditional on（以⋯为条件）",
+      "width": 0.23991506583845934,
+      "x": 0.5138004308635022,
+      "y": 0.7483617299985782
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0146510860398118,
+      "text": "Even the very phrase \"jobsecker's allowance\" is about redefining the unemployed as a “jobseeker” who",
+      "width": 0.8428874399470188,
+      "x": 0.0912951440657686,
+      "y": 0.7077326344471448
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013163308484838598,
+      "text": "had no fundamental right to a benefit he or she has earned through making national insurance contributions.",
+      "width": 0.8811039833273467,
+      "x": 0.04883228763568998,
+      "y": 0.687418086587875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "句子主干：",
+      "width": 0.09129511807613445,
+      "x": 0.08917197341416207,
+      "y": 0.66120576700829
+    },
+    {
+      "confidence": 1,
+      "height": 0.013355710715797553,
+      "text": "Even",
+      "width": 0.04458598798262206,
+      "x": 0.2059447983122983,
+      "y": 0.662516382474599
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "the very phrase “jobseeker's allowance”",
+      "width": 0.32908703449585425,
+      "x": 0.2696390770992065,
+      "y": 0.6598837215588294
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.010484928228595924,
+      "text": ".•1S",
+      "width": 0.04883227220440278,
+      "x": 0.6072186839190301,
+      "y": 0.6625163825400036
+    },
+    {
+      "confidence": 1,
+      "height": 0.016505145151680778,
+      "text": "逻辑衔接词",
+      "width": 0.10208162037348834,
+      "x": 0.1825048379385849,
+      "y": 0.6421834740055865
+    },
+    {
+      "confidence": 1,
+      "height": 0.015072083879423381,
+      "text": "主语",
+      "width": 0.04033970010691679,
+      "x": 0.4182590242830597,
+      "y": 0.6422018345499245
+    },
+    {
+      "confidence": 1,
+      "height": 0.01507208387942327,
+      "text": "系动词",
+      "width": 0.05732484064796417,
+      "x": 0.6178343953209224,
+      "y": 0.6422018350658634
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014740619559431734,
+      "text": "about redefining the unemployed as a \"jobseeker\"",
+      "width": 0.40552015048790707,
+      "x": 0.20382166066368995,
+      "y": 0.6218872868650249
+    },
+    {
+      "confidence": 1,
+      "height": 0.014614891412217501,
+      "text": "表语",
+      "width": 0.04033970010691679,
+      "x": 0.3333333351641637,
+      "y": 0.6046511633429852
+    },
+    {
+      "confidence": 1,
+      "height": 0.014914313900048937,
+      "text": "定语从句",
+      "width": 0.07870463667244743,
+      "x": 0.46489396665505256,
+      "y": 0.5812056338226963
+    },
+    {
+      "confidence": 1,
+      "height": 0.011873647707317803,
+      "text": "who",
+      "width": 0.038216561649950964,
+      "x": 0.3630573245890372,
+      "y": 0.5622542594583706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01332713548352793,
+      "text": "had no fundamental right to a benefit",
+      "width": 0.31634819644621054,
+      "x": 0.42038215977406407,
+      "y": 0.5622542593469376
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014717760748506947,
+      "text": "主语 谓语",
+      "width": 0.09766454440880551,
+      "x": 0.36305732537521507,
+      "y": 0.543604651075593
+    },
+    {
+      "confidence": 1,
+      "height": 0.014717759498606098,
+      "text": "宾语",
+      "width": 0.059447982758854545,
+      "x": 0.5498938426439273,
+      "y": 0.5436046518240898
+    },
+    {
+      "confidence": 1,
+      "height": 0.014919333501693388,
+      "text": "定语从句",
+      "width": 0.07870657325247699,
+      "x": 0.5965278179694846,
+      "y": 0.5216101007505558
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0133308326901177,
+      "text": "he or she",
+      "width": 0.07652363101184595,
+      "x": 0.235623535576567,
+      "y": 0.502782258432121
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011937913857156368,
+      "text": "has earned",
+      "width": 0.0892573462592231,
+      "x": 0.32692121922673606,
+      "y": 0.5042054616327933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013367139808784678,
+      "text": "through making national insurance contributions.",
+      "width": 0.39915071684738684,
+      "x": 0.428874741080907,
+      "y": 0.5026212317658669
+    },
+    {
+      "confidence": 1,
+      "height": 0.013367140433735103,
+      "text": "主语",
+      "width": 0.04033970010691673,
+      "x": 0.246284501883909,
+      "y": 0.4840116277216674
+    },
+    {
+      "confidence": 1,
+      "height": 0.013367140433735103,
+      "text": "谓语",
+      "width": 0.04033970376084134,
+      "x": 0.34607218662428063,
+      "y": 0.48401162784884766
+    },
+    {
+      "confidence": 1,
+      "height": 0.01331758124175264,
+      "text": "方式状语",
+      "width": 0.07863969181689257,
+      "x": 0.5710835505575773,
+      "y": 0.4838935352020084
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "功能注释：本句主干力 the very phrase “jobseeker's allowance”",
+      "width": 0.5966029843151341,
+      "x": 0.08917197076706133,
+      "y": 0.4606815205144025
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013298561501159267,
+      "text": "... is about redefining the",
+      "width": 0.2505307837007603,
+      "x": 0.6815286602196835,
+      "y": 0.46199213617688273
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "unemployed as a “jobseeker”。who 引导的定语从句进一步解释“jobsecker”这一称谓的内涵，其中含有",
+      "width": 0.8789808485243056,
+      "x": 0.048832288635936506,
+      "y": 0.43895348863731776
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01599408695925897,
+      "text": "省略 that 的定语从句 he or she. ..修饰 fundamental right to a benefit。",
+      "width": 0.6008492539212165,
+      "x": 0.048832273225166714,
+      "y": 0.4200524244034233
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0237128968945024,
+      "text": "•语篇分析•送",
+      "width": 0.1614984095781699,
+      "x": 0.411819798535989,
+      "y": 0.3893063426781672
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372412765295,
+      "text": "第四段正面批驳新政：无视失业者真实心理，无视多年来日益严格的福利改革，彻底偏离福利制度",
+      "width": 0.8386411703409363,
+      "x": 0.08917197859014762,
+      "y": 0.3648255811718877
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "的原则与初衷。关键词：the least generous。",
+      "width": 0.36305730827009997,
+      "x": 0.048832283678113465,
+      "y": 0.3444767446656607
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01915823335260114,
+      "text": "①句承接上段，发起批驳：奥斯本无视“失业者真实心理”及“当前福利制度真实情形”。",
+      "width": 0.7303609446090757,
+      "x": 0.08704881792900804,
+      "y": 0.32241153359874164
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016011231223690192,
+      "text": "But in Osborneland 体现对上段强转折、开启作者正面批驳，自造词 Osborneland（Osborne+land，奥",
+      "width": 0.8386411703409363,
+      "x": 0.08917198173505214,
+      "y": 0.3037790700326666
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859564024997,
+      "text": "斯本世界）传递作者强烈讽刺“奥斯本无视真实民生”。your first instinct is to fall into dependency",
+      "width": 0.8619957116371828,
+      "x": 0.048832293969094415,
+      "y": 0.28343023279066193
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01317283397889546,
+      "text": "permanent dependency... 和上段末 what they want and the answer is always: a job 形成强对比：真实情",
+      "width": 0.8768577721840577,
+      "x": 0.0509554027214885,
+      "y": 0.26598837196003944
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371162864556,
+      "text": "形是失业者无比渴望找到工作VS奥斯本世界失业者第一直觉是陷人依赖，且希望永久依赖。",
+      "width": 0.8832271765931813,
+      "x": 0.04883228040829249,
+      "y": 0.24418604699124213
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014552028276036078,
+      "text": "supported by a state only too ready to indulge your falsehood （only、too ready to 形成双重强调：随时准",
+      "width": 0.8789808485243055,
+      "x": 0.04883227871024688,
+      "y": 0.22529069800868284
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01603980583100928,
+      "text": "备，非常愿意）和上段 support is minimal and extraordinarily hard to get 形成另一组强对比：当前现实是",
+      "width": 0.8768577137212644,
+      "x": 0.0509554261807692,
+      "y": 0.2034883723582479
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938477,
+      "text": "救济金极低且极难获得VS奥斯本却认为当前政府过于纵容依赖。falsehood（错误、虚伪）回指",
+      "width": 0.8789808485243055,
+      "x": 0.04883229781852649,
+      "y": 0.18283093026482922
+    },
+    {
+      "confidence": 1,
+      "height": 0.014654896362424674,
+      "text": "dependency，承载奥斯本对失业者“依赖救济”的强烈不满。",
+      "width": 0.4946921629923971,
+      "x": 0.04883226739976739,
+      "y": 0.1642441859011743
+    },
+    {
+      "confidence": 1,
+      "height": 0.017693315858453462,
+      "text": "②句进一步指出奥斯本无视英国福利制度与日俱“严”的改革历史（即，当前实情已是“失业者难以陷",
+      "width": 0.8407643051439775,
+      "x": 0.08917199596304297,
+      "y": 0.14220183505133077
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016034091284515717,
+      "text": "入依赖”）。虚拟语气 It is as though...never...（好像.从未发生过）强调：与日俱严的改革实实在在已经",
+      "width": 0.8811040417901402,
+      "x": 0.048832275194809524,
+      "y": 0.1235465115528227
+    },
+    {
+      "confidence": 1,
+      "height": 0.01775617961958542,
+      "text": "发生，而奥斯本却对此无视。ever-tougher 展现直线递增：过去二十年英国救济管理体制与日俱“严”。",
+      "width": 0.8365180355378952,
+      "x": 0.04883228727351508,
+      "y": 0.10288335503161306
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016382699868938366,
+      "text": "③④⑤句直斥新政违背英国福利制度原则、无视失业者权利。Even.•Instead...逐步加强批驳。",
+      "width": 0.8152866290446898,
+      "x": 0.08917197133752772,
+      "y": 0.08256880723770088
+    },
+    {
+      "confidence": 1,
+      "height": 0.010484927916120657,
+      "text": "15",
+      "width": 0.021231422935865885,
+      "x": 0.893842887470496,
+      "y": 0.06684141534900456
+    }
+  ],
+  "vision_ocr_text": "•词汇注释与难句分析•\nQinstinct L'instinkt」n. 本能\n⑨insurance ［in'fuorons］n.保障，保障措施\n②dependency ［dr'pendonsi］n. 依赖性\n• 经典搭配\n③ready ［'redi］ a. 愿意的\n①first instinct（第一直觉）\n④falsehood ［'fo:lshod］n. 错误，虚伪\n②to0 ready to（非常愿意•\n，过分愿意⋯⋯）\n⑤insure ［m'Jo：］ v. 保证，确保\n③ever-tougher（日益严厉）\n⑥unconditional［Ankon dtjonal］a. 无条件的，无限制的\n④insure... against the risk of（保障⋯⋯抵抗⋯⋯风险）\n⑦payment ［ peimont］n. 支付款，支付的金额\n⑤ unconditional payment（无条件支付）\n⑧entitlement ［in'tantalmant］n. 拥有或获得某物的权利\n⑥conditional on（以⋯为条件）\nEven the very phrase \"jobsecker's allowance\" is about redefining the unemployed as a “jobseeker” who\nhad no fundamental right to a benefit he or she has earned through making national insurance contributions.\n句子主干：\nEven\nthe very phrase “jobseeker's allowance”\n.•1S\n逻辑衔接词\n主语\n系动词\nabout redefining the unemployed as a \"jobseeker\"\n表语\n定语从句\nwho\nhad no fundamental right to a benefit\n主语 谓语\n宾语\n定语从句\nhe or she\nhas earned\nthrough making national insurance contributions.\n主语\n谓语\n方式状语\n功能注释：本句主干力 the very phrase “jobseeker's allowance”\n... is about redefining the\nunemployed as a “jobseeker”。who 引导的定语从句进一步解释“jobsecker”这一称谓的内涵，其中含有\n省略 that 的定语从句 he or she. ..修饰 fundamental right to a benefit。\n•语篇分析•送\n第四段正面批驳新政：无视失业者真实心理，无视多年来日益严格的福利改革，彻底偏离福利制度\n的原则与初衷。关键词：the least generous。\n①句承接上段，发起批驳：奥斯本无视“失业者真实心理”及“当前福利制度真实情形”。\nBut in Osborneland 体现对上段强转折、开启作者正面批驳，自造词 Osborneland（Osborne+land，奥\n斯本世界）传递作者强烈讽刺“奥斯本无视真实民生”。your first instinct is to fall into dependency\npermanent dependency... 和上段末 what they want and the answer is always: a job 形成强对比：真实情\n形是失业者无比渴望找到工作VS奥斯本世界失业者第一直觉是陷人依赖，且希望永久依赖。\nsupported by a state only too ready to indulge your falsehood （only、too ready to 形成双重强调：随时准\n备，非常愿意）和上段 support is minimal and extraordinarily hard to get 形成另一组强对比：当前现实是\n救济金极低且极难获得VS奥斯本却认为当前政府过于纵容依赖。falsehood（错误、虚伪）回指\ndependency，承载奥斯本对失业者“依赖救济”的强烈不满。\n②句进一步指出奥斯本无视英国福利制度与日俱“严”的改革历史（即，当前实情已是“失业者难以陷\n入依赖”）。虚拟语气 It is as though...never...（好像.从未发生过）强调：与日俱严的改革实实在在已经\n发生，而奥斯本却对此无视。ever-tougher 展现直线递增：过去二十年英国救济管理体制与日俱“严”。\n③④⑤句直斥新政违背英国福利制度原则、无视失业者权利。Even.•Instead...逐步加强批驳。\n15",
+  "pdf_text_layer": "；二：词汇：注释与非句分析；： ： J\n( instinct [ 1rnst11Jkt] n. 本能                                   ® insurance ［ 旷Juara ns] 11. 保障，保障措施\n( dependency [ d1 1pe ndans1 ］ η ． 依赖性\n                                                                 ．经典搭配\n( ready [ ' red1 ］ α ．愿意的\n                                                                 ( fi rst in s tin ct （第一直觉）\n( falsehood [ 'fa:J s hud ］ 川．错误，虚伪\n                                                                 ( too ready to （非常愿意 ……，过分愿意……）\n( insure [ rn'J:i:] v. 保证， 确保\n                                                                 ③ eve r- tough e r （日益严厉）\n® unconditional ［八nkan1d1Jana！ ］ α．无条件的，无限制的\n                                                                 ( msure. .. ,\n( payment [ 1pe1mant ］ η． 支付款，支付的金额\n                                                                 ( uncond itiona l payment （无条件支付）\n( entitlement [ m'ta1ta!mant] 11 . 拥有或获得某物的权利\n                                                                 ( conditiona l on （以 … 为条件）\n\n\n     Even the very phrase “ jobseeker ’s allowance\" is about redefining the unemployed as a “ jobseeker ” who\nhad no fundamental right to a benefit he or she has earned through making national insurance contributions.\n\n     句子主干 ：｜         Even        the veηphrase “jobseeker’s a llowance\" . . . is\n                  逻辑衔接词                             主语                           系动词\n                     about redefining the unemployed as a 丁 obseeker”\n                                        表语\n\n                                                          定 i吾从句\n                                            w ho    had    no fundamenta l right to a benefi\n                                            主语谓语                       宾语\n                                                                            定语从句\n                         he or she     has earned    through making national insurance contribut10ns .\n                            主语            谓语                             方式状语\n     功能注释 ：本句主干为                       th e ve r y phras e “ jobseeker ’ s a llowance ”. . .   is about redefining the\nunemployed as a “ jobsee ke r” 。 w h o 引导的定语从句进－步解释“ j obseeke r”这一称谓的 内 涵，其中含有\n省 JI恪 th at 的定语从句 h e or s he ... 修 饰 fund ame nt a l right to a b en e fit 。\n\n                                                   ： ·语篇分析 ＜ fl\n     第四段正面批驳新政：无视失业者真实心理，无视多年来日益严格的福利改革，彻底偏离福利制度\n的原则与初衷。关键词： the least generous 。\n     ①旬承接上段，发起批驳：奥斯本无视“失业者真实心理”及“当前福利制度真实情形”。\n     But in Osbo rn e l a nd 体现对上段强转折、开启作者正面批驳，自造词 O s born e l a nd ( Osborn e + land ，奥\n斯本世界）传递作者强烈讽刺“奥斯本无视真实民生” 。 your first inst in ct is to fa ll into dependency-\npermanen t depend ency ...和上段末 what t hey wa nt and t he answer is a lways : a j ob 形成强对 比： 真实情\n形是失 业 者无 比 渴望找到工作 vs 奥斯本世界失 业 者第一直觉是陷入依赖，且希望永久依赖。\nsupported by a state onl y too ready to indulge yo ur fa lsehood ( on l y 、 too ready to 形成双重强调：随时准\n备，非常愿意）和上段 support is minimal and ext rao rdinaril y hard to get 形成另一组强对 比： 当前现实是\n救济金极低且极难获得 vs 奥斯本却认为当前政府过于纵容依赖 。 fals e h ood （错误、虚伪）回指\ndep endency ，承载奥斯本对失业者“依赖救济”的强烈不满 。\n     ②旬进一步指出奥斯本无视英国福利制度与日俱“严”的改革历史（即，当前实情己是“失业者难以陷\n入依赖”）。 虚拟语气 It is as though ... never. .. （好像． ．．从 未发生过）强调：与日俱严的改革实实在在已经\n发生，而奥斯本却对 此无视。 ever- tough er 展现直线递增 ：过 去二十年英国救济管理体制与日俱“严” 。\n     ③④⑤旬直斥新政违背英国福利制度原则 、 无视失业者权利。 E ven . •• Instead ...逐步加强批驳。\n                                                                                                                  15",
+  "quality": {
+    "vision_line_count": 62,
+    "vision_character_count": 2013,
+    "pdf_text_character_count": 3422,
+    "nonempty": true
+  }
+}

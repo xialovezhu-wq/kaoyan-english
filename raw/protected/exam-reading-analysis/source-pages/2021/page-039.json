@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2021-P039",
+  "year": 2021,
+  "pdf_page": 39,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2021黄皮书真题解析（英语一）.pdf",
+  "source_sha256": "33915c654b018f32cae0dbd25ac8d3e0c0d9047d6b9bf0dc7d04b2e2c8699fbd",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.3,
+      "height": 0.016127720971240822,
+      "text": "• 词汇注释与难句分析•",
+      "width": 0.22689075506721162,
+      "x": 0.36554622137395715,
+      "y": 0.9300932090096028
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013315579227696439,
+      "text": "①commission ［ko'mi/n］n. 委员会",
+      "width": 0.2626050239812891,
+      "x": 0.05042017896073596,
+      "y": 0.9054593874822001
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0279627163781625,
+      "text": "A GcpCkep］n.最高限瓶",
+      "width": 0.2331932670578561,
+      "x": 0.48319328413913903,
+      "y": 0.8921438085318218
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014836806590642904,
+      "text": "②agency ［'eidsansi］ n.（政府的）专门机构",
+      "width": 0.3214285672285194,
+      "x": 0.05042016748868153,
+      "y": 0.8866279072879847
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013081394403815727,
+      "text": "•经典搭配",
+      "width": 0.11344537753360584,
+      "x": 0.5147058812437013,
+      "y": 0.8866279073947492
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "③ conglomerate ［kon'gipmarat］n. 联合大企业；企业集团",
+      "width": 0.41386554695967304,
+      "x": 0.05042017114551354,
+      "y": 0.8691860469682173
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01475745479212942,
+      "text": "①at the expense of 在牺牲（或损害）••••••的情况下",
+      "width": 0.3907563020268846,
+      "x": 0.5210084019627482,
+      "y": 0.8675099865632967
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01464713715046606,
+      "text": "④impose ［u'pauz］v.迫使；把⋯•⋯强加于",
+      "width": 0.3277310939193461,
+      "x": 0.05042016501511691,
+      "y": 0.850199733764556
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016085142143239306,
+      "text": "•语篇分析•",
+      "width": 0.12815126334541332,
+      "x": 0.42016806708779747,
+      "y": 0.8241279073447378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01797603195739017,
+      "text": "第三段介绍 FCC 对自己去监管化政策的辩解，揭露其实质：维护网络运营商的利益。关键词：",
+      "width": 0.8508403094517702,
+      "x": 0.09243698794218212,
+      "y": 0.7962716378928477
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013315579227696328,
+      "text": "①other agencies； ②ended the investigations。",
+      "width": 0.36764705709409623,
+      "x": 0.05252100467248982,
+      "y": 0.7789613848690956
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016245781026096084,
+      "text": "①句介绍 FCC 对自身政策的解释：其他部门负责监管宽带运营商的反竞争行为（反竞争行为并非无",
+      "width": 0.8508403094517702,
+      "x": 0.09033614461760232,
+      "y": 0.7587209303280227
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019608553494022907,
+      "text": "人监管）。argued 引出 FCC 的说辞；other agencies 明确 FCC 口中的反竞争行为监管者是“FCC以外的",
+      "width": 0.8909330570169496,
+      "x": 0.0503313401609255,
+      "y": 0.7380762091416971
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016209008055584118,
+      "text": "其他部门”；such as 引出反竞争行为实例，favoring its own...service at the expense of...体现宽带运营",
+      "width": 0.8907563020268846,
+      "x": 0.05042016778907876,
+      "y": 0.7194767442815111
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014838741876472605,
+      "text": "商“偏祖自家服务而打压竞争对手”的行为，恰恰呼应第一段 favor affiliated websites over their rivals’。",
+      "width": 0.8739495837849229,
+      "x": 0.052521015166361915,
+      "y": 0.7017310251814728
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01750379300784166,
+      "text": "②句转而指出，FCC实际上还停止了对运营商反竞争行为的多项调查（FCC 实际上就是要对宽带运",
+      "width": 0.8487394770216161,
+      "x": 0.09243699195137671,
+      "y": 0.680232558520677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0175386300575876,
+      "text": "营商“去监管”）。Yet 提示转折，also 表示一致，两者的矛盾结合引出了 FCC的言行不一：自称是在将对反",
+      "width": 0.8907563020268847,
+      "x": 0.05042016327227211,
+      "y": 0.659786950985689
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860051669478,
+      "text": "竟争行为的监管交给其他部门（并不是要放松对宽带提供商的监管），实际却停止了对运营商“给对手的流",
+      "width": 0.888655410796002,
+      "x": 0.05252103748540231,
+      "y": 0.6424418604538165
+    },
+    {
+      "confidence": 1,
+      "height": 0.022973127911157576,
+      "text": "媒体服务设置了数据限额，却没对自己的服务这么做”的多项调查（明显是在“去监管”、放任其行为）。",
+      "width": 0.8489155852036668,
+      "x": 0.050332122739009146,
+      "y": 0.6185963075687395
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744379533749918,
+      "text": "【深层解读】1.本段实际借 The commission argued... Yet the FCC...ended 形成“树靶一-批驳”逻辑，体",
+      "width": 0.8529411418819244,
+      "x": 0.088235303901475,
+      "y": 0.6031957391214751
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017561855392354553,
+      "text": "现 FCC的言行不一，揭示其2017年规定的“去监管化”本质。2.本段所述宽带运营商的不良行为 favoring",
+      "width": 0.8949579668871929,
+      "x": 0.05042016503329459,
+      "y": 0.5843023257154443
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014817452462472014,
+      "text": "its own... service at the expense of...imposed...on their rivals'...but not their own 与首段所述行为 favor",
+      "width": 0.8949579668871929,
+      "x": 0.05042016503329459,
+      "y": 0.5665778959544852
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016193524499072853,
+      "text": "affiliated websites over their rivals’如出一辙，表明倡导者一直担忧的宽带运营商滥用权力现象已然成真。",
+      "width": 0.8781512486452312,
+      "x": 0.05042018277822459,
+      "y": 0.5450581398447378
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014534882953100348,
+      "text": "• 真题精解",
+      "width": 0.10084033150204347,
+      "x": 0.42016806853469263,
+      "y": 0.5203488375060079
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394403815727,
+      "text": "38.",
+      "width": 0.03151260405376926,
+      "x": 0.06092437063593049,
+      "y": 0.48837209351393507
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395673688268,
+      "text": "What can be learned about AT&T from Paragraph 3？",
+      "width": 0.4453781510134423,
+      "x": 0.10084033996946924,
+      "y": 0.48982558131771015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016288359219161164,
+      "text": "38. 从第三段可得知 AT&T的什么信息？",
+      "width": 0.3592436979731153,
+      "x": 0.5735294151100809,
+      "y": 0.48837209339124943
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882953100237,
+      "text": "［A］ It protects against unfair competition.",
+      "width": 0.36134453040326947,
+      "x": 0.06302521519052205,
+      "y": 0.4651162796959305
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016269005090990274,
+      "text": "［A］它对抗不公平竞争。",
+      "width": 0.21638654881589436,
+      "x": 0.575630257167683,
+      "y": 0.46338215741892297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "［B］ It engages in anti-competitive practices.",
+      "width": 0.37394958378492293,
+      "x": 0.06302521278190813,
+      "y": 0.44186046560695835
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01664447403462055,
+      "text": "［B］它进行了反竞争行为。",
+      "width": 0.23319326705785615,
+      "x": 0.5756302595593072,
+      "y": 0.4400798934308372
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815727,
+      "text": "［C］ It is under the FCC's investigation.",
+      "width": 0.33823528547048104,
+      "x": 0.06302522004487131,
+      "y": 0.41860465161107674
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01623997453367032,
+      "text": "LCJ它正接受 FCC调查。",
+      "width": 0.22268907550672112,
+      "x": 0.573529409042858,
+      "y": 0.41544607162813263
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394403815838,
+      "text": "LD］ It is in pursuit of quality service.",
+      "width": 0.32142856722851937,
+      "x": 0.060924366490782485,
+      "y": 0.3938953492854952
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016286423933331462,
+      "text": "［D］它追求高质量服务。",
+      "width": 0.21428571638574034,
+      "x": 0.5756302528365415,
+      "y": 0.39214380834160134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016299971569076588,
+      "text": "［精准定位］第三段①句指出，某些宽带运营商会进行反竞争行为，比如 AT&T 以牺牲 Netflix 和",
+      "width": 0.8508403094517702,
+      "x": 0.09033615176921282,
+      "y": 0.36918604694018353
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01600966091638556,
+      "text": "Apple TV的利益为代价，偏祖自家流媒体服务。由此可知，AT&T进行了反竞争行为，B正确。",
+      "width": 0.8193277053980008,
+      "x": 0.05252102944385656,
+      "y": 0.34883720961217957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016263199233500836,
+      "text": "［命题解密］正确项 B 是对 AT&T 行为 favoring its own video-streaming service at the expense of",
+      "width": 0.855042033112807,
+      "x": 0.09033613240818215,
+      "y": 0.329941860853874
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744766654409513,
+      "text": "Netflix...的正确解读，选项中的“anti-competitive practices”体现其性质 anti-competitive behavior。",
+      "width": 0.8424369797311536,
+      "x": 0.05042017612707001,
+      "y": 0.3095872169701116
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01610449563647398,
+      "text": "A将①句所述对抗反竞争行为的负责方由“（除FCC之外的）其他部门”歪曲为 AT&T，而后者实为",
+      "width": 0.8508403094517702,
+      "x": 0.09033614655562743,
+      "y": 0.2921511632459006
+    },
+    {
+      "confidence": 1,
+      "height": 0.01615288095690115,
+      "text": "受监管对象而非监管方。C错误有二：文中并未直接提及 AT&T受到反竞争行为调查；且即便其可能",
+      "width": 0.8928571344570388,
+      "x": 0.05042018342799295,
+      "y": 0.2716378165130412
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01606772330089823,
+      "text": "正在接受调查，调查者也并非FCC，而是①句所提及的 other agencies。D 将 AT&T“以竞争对手的利益",
+      "width": 0.8907563020268847,
+      "x": 0.05042015940672588,
+      "y": 0.25290697696683073
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764314184176141,
+      "text": "为代价偏祖自家流媒体服务”这一负面行为歪曲为“追求高质量服务”的正面行为。",
+      "width": 0.7079831749947314,
+      "x": 0.05042018600578531,
+      "y": 0.2323568577334918
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605804623681273,
+      "text": "［技巧总结］本题就长难句设题，解题关键在于利用语法知识及逻辑推理正确理解句内关系。具体",
+      "width": 0.8529411418819244,
+      "x": 0.08823532175861742,
+      "y": 0.2150466048305134
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016284488647501538,
+      "text": "来看，定位句主干指出 FCC以外的部门负责监管反竞争行为，such as 进而引出事例，这时有两种可能，",
+      "width": 0.8949579668871929,
+      "x": 0.05042018516984879,
+      "y": 0.19476744219938913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01609481857238848,
+      "text": "1.事例是在说明其他机构对抗不公平竞争（other agencies...）；2. 事例是在说明反竞争行为（anti-",
+      "width": 0.8928571344570387,
+      "x": 0.05042016371685884,
+      "y": 0.1757656460886876
+    },
+    {
+      "confidence": 1,
+      "height": 0.01757927423469552,
+      "text": "competitive behavior）。将事例具体内容和主句结合进行推理可知：事例在说明宽带运营商（包括",
+      "width": 0.8928571344570388,
+      "x": 0.05042016593849756,
+      "y": 0.15552325580265358
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016131591542900448,
+      "text": "AT&T）如何区别对待网络流量、进行反竞争活动，锁定答案B，同时排除不合逻辑的A。",
+      "width": 0.777310939193461,
+      "x": 0.050420154177779515,
+      "y": 0.13648468717098594
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016089012714899042,
+      "text": "此外，也可从文章主题（宽带运营商危及互联网自由）出发，首先将选项分为褒义选项（A、D）和贬义",
+      "width": 0.8508403094517702,
+      "x": 0.0903361384201235,
+      "y": 0.1177325582349994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016290295139927413,
+      "text": "选项（B、C）；随后利用 broadband-providing 确认 AT&T为宽带运营商，由此排除褒义选项 A、D；最后利",
+      "width": 0.8928571344570387,
+      "x": 0.05042017970775503,
+      "y": 0.09853528604488915
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016036756822812026,
+      "text": "用B、C选项内容返回文中寻找，排除与原文相悖的C（②句明确提到“FCC终止调查”），最终锁定 B。",
+      "width": 0.8592436979731154,
+      "x": 0.050420174980528996,
+      "y": 0.07989347545212055
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395673688379,
+      "text": "39",
+      "width": 0.02310924309526563,
+      "x": 0.9054621853641319,
+      "y": 0.059593022962574405
+    }
+  ],
+  "vision_ocr_text": "• 词汇注释与难句分析•\n①commission ［ko'mi/n］n. 委员会\nA GcpCkep］n.最高限瓶\n②agency ［'eidsansi］ n.（政府的）专门机构\n•经典搭配\n③ conglomerate ［kon'gipmarat］n. 联合大企业；企业集团\n①at the expense of 在牺牲（或损害）••••••的情况下\n④impose ［u'pauz］v.迫使；把⋯•⋯强加于\n•语篇分析•\n第三段介绍 FCC 对自己去监管化政策的辩解，揭露其实质：维护网络运营商的利益。关键词：\n①other agencies； ②ended the investigations。\n①句介绍 FCC 对自身政策的解释：其他部门负责监管宽带运营商的反竞争行为（反竞争行为并非无\n人监管）。argued 引出 FCC 的说辞；other agencies 明确 FCC 口中的反竞争行为监管者是“FCC以外的\n其他部门”；such as 引出反竞争行为实例，favoring its own...service at the expense of...体现宽带运营\n商“偏祖自家服务而打压竞争对手”的行为，恰恰呼应第一段 favor affiliated websites over their rivals’。\n②句转而指出，FCC实际上还停止了对运营商反竞争行为的多项调查（FCC 实际上就是要对宽带运\n营商“去监管”）。Yet 提示转折，also 表示一致，两者的矛盾结合引出了 FCC的言行不一：自称是在将对反\n竟争行为的监管交给其他部门（并不是要放松对宽带提供商的监管），实际却停止了对运营商“给对手的流\n媒体服务设置了数据限额，却没对自己的服务这么做”的多项调查（明显是在“去监管”、放任其行为）。\n【深层解读】1.本段实际借 The commission argued... Yet the FCC...ended 形成“树靶一-批驳”逻辑，体\n现 FCC的言行不一，揭示其2017年规定的“去监管化”本质。2.本段所述宽带运营商的不良行为 favoring\nits own... service at the expense of...imposed...on their rivals'...but not their own 与首段所述行为 favor\naffiliated websites over their rivals’如出一辙，表明倡导者一直担忧的宽带运营商滥用权力现象已然成真。\n• 真题精解\n38.\nWhat can be learned about AT&T from Paragraph 3？\n38. 从第三段可得知 AT&T的什么信息？\n［A］ It protects against unfair competition.\n［A］它对抗不公平竞争。\n［B］ It engages in anti-competitive practices.\n［B］它进行了反竞争行为。\n［C］ It is under the FCC's investigation.\nLCJ它正接受 FCC调查。\nLD］ It is in pursuit of quality service.\n［D］它追求高质量服务。\n［精准定位］第三段①句指出，某些宽带运营商会进行反竞争行为，比如 AT&T 以牺牲 Netflix 和\nApple TV的利益为代价，偏祖自家流媒体服务。由此可知，AT&T进行了反竞争行为，B正确。\n［命题解密］正确项 B 是对 AT&T 行为 favoring its own video-streaming service at the expense of\nNetflix...的正确解读，选项中的“anti-competitive practices”体现其性质 anti-competitive behavior。\nA将①句所述对抗反竞争行为的负责方由“（除FCC之外的）其他部门”歪曲为 AT&T，而后者实为\n受监管对象而非监管方。C错误有二：文中并未直接提及 AT&T受到反竞争行为调查；且即便其可能\n正在接受调查，调查者也并非FCC，而是①句所提及的 other agencies。D 将 AT&T“以竞争对手的利益\n为代价偏祖自家流媒体服务”这一负面行为歪曲为“追求高质量服务”的正面行为。\n［技巧总结］本题就长难句设题，解题关键在于利用语法知识及逻辑推理正确理解句内关系。具体\n来看，定位句主干指出 FCC以外的部门负责监管反竞争行为，such as 进而引出事例，这时有两种可能，\n1.事例是在说明其他机构对抗不公平竞争（other agencies...）；2. 事例是在说明反竞争行为（anti-\ncompetitive behavior）。将事例具体内容和主句结合进行推理可知：事例在说明宽带运营商（包括\nAT&T）如何区别对待网络流量、进行反竞争活动，锁定答案B，同时排除不合逻辑的A。\n此外，也可从文章主题（宽带运营商危及互联网自由）出发，首先将选项分为褒义选项（A、D）和贬义\n选项（B、C）；随后利用 broadband-providing 确认 AT&T为宽带运营商，由此排除褒义选项 A、D；最后利\n用B、C选项内容返回文中寻找，排除与原文相悖的C（②句明确提到“FCC终止调查”），最终锁定 B。\n39",
+  "pdf_text_layer": "[•词汇注释与难句分析\n\n（Dcommission [kRmiJn] n.委员会                          》⑤cap [keep] n.最高限额\n② 鹅ency『eid3onsi] n.（政府的）专门机构                        | •经典搭配\n③ conglomerate [kan'glomarat] n.联合大企业；企业集团           j   ①at the expense of在牺牲（或损害）.... 的情况下\n④ impose [im^auz] p・迫使；把... 强加于                      《\n                                            [•语篇分析]•]必\n\n     第三段介绍FCC对自己去监管化政策的辩解，揭露其实质：维护网络运营商的利益。关键词：\n（Dother agencies ；（Dended the investigationso\n    ① 句介绍FCC对自身政策的解释：其他部门负责监管宽带运营商的反竞争行为（反竞争行为并非无\n人监管）o argued引岀FCC的说辞;other agencies明确FCC 口中的反竞争行为监管者是\"FCC以外的\n其他部门M 5 such as引出反竞争行为实例,favoring its own. . . service at the expense of...体现宽带运营\n商\"偏袒自家服务而打压竞争对手\"的行为，恰恰呼应第一段favor affiliated websites over their rivals1 o\n    ② 句转而指出,FCC实际上还停止了对运营商反竞争行为的多项调查（FCC实际上就是要对宽带运\n营商“去监管”）。Yet提示转折,also表示一致，两者的矛盾结合引出了 FCC的言行不一：自称是在将对反\n竞争行为的监管交给其他部门（并不是要放松对宽带提供商的监管），实际却停止了对运营商“给对手的流\n媒体服务设置了数据限额，却没对自己的服务这么做”的多项调查（明显是在“去监管”、放任其行为）。\n    【深层解读】1.本段实际借The commission argued. . . Yet the FCC. . . ended形成\"树靶批驳\"逻辑，体\n现FCC的言行不一,揭示其2017年规定的“去监管化”本质。2.本段所述宽带运营商的不良行为favoring\nits own. . . service at the expense of. ..、imposed. . . on their rivals*. . . but not their own 与首段所述行为 favor\naffiliated websites over their rivals'如出一辙，表明倡导者一直担忧的宽带运营商滥用权力现象已然成真。\n                                                •真题精解・]/\n\n\n 38. What can be learned about AT&T from Paragraph 3?           3&从第三段可得知AT&T的什么信息？\n [A] It protects against unfair competition.                    [A]它对抗不公平竞争。\n [E] It engages in anti-competitive practices・                  [B]它进行了反竞争行为。\n [C] It is under the FCC's investigation.                       [C]它正接受FCC调查。\n [D] It is in pursuit of quality service・                       ED]它追求高质量服务。\n     [精准定位]第三段①句指出，某些宽带运营商会进行反竞争行为，比如AT&T以牺牲Netflix和\nApple TV的利益为代价，偏袒自家流媒体服务。由此可知，AT&T进行了反竞争行为，B正确。\n     [命题解密]正确项 B 是对 AT&T 行为 favoring its own video-streaming service at the expense of\nNetflix...的正确解读，选项中的\"anti-competitive practices\"体现其性质 anti-competitive behaviorQ\n    A将①句所述对抗反竞争行为的负责方由“（除FCC之外的）其他部门”歪曲为AT&T,而后者实为\n受监管对象而非监管方。C错误有二：文中并未直接提及AT&T受到反竞争行为调查；且即便其可能\n正在接受调查，调查者也并非FCC,而是①句所提及的other agencieso D将AT&T\"以竞争对手的利益\n为代价偏袒自家流媒体服务”这一负面行为歪曲为“追求高质量服务”的正面行为。\n     [技巧总结]本题就长难句设题，解题关键在于利用语法知识及逻辑推理正确理解句内关系。具体\n来看，定位句主干指出FCC以外的部门负责监管反竞争行为,such as进而引出事例，这时有两种可能，\n1.事例是在说明其他机构对抗不公平竞争（other agencies. . . ） ; 2.事例是在说明反竞争行为（anti­\ncompetitive behavior）。将事例具体内容和主句结合进行推理可知：事例在说明宽带运营商（包括\nAT&T）如何区别对待网络流量、进行反竞争活动，锁定答案为B,同时排除不合逻辑的A。\n    此外，也可从文章主题（宽带运营商危及互联网自由）出发，首先将选项分为褒义选项（A、D）和贬义\n选项（B、C）；随后利用broadband-providing确认AT&T为宽带运营商，由此排除褒义选项A、D；最后利\n用B、C选项内容返回文中寻找，排除与原文相悖的C（②句明确提到“FCC终止调查”），最终锁定Bo\n                                                                                                        39",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 2248,
+    "pdf_text_character_count": 2669,
+    "nonempty": true
+  }
+}

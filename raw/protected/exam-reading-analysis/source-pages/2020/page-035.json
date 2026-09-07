@@ -1,0 +1,510 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P035",
+  "year": 2020,
+  "pdf_page": 35,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "revenue（gross 意为 being the total amount of sth before anything is taken away”总的；毛的”）暗示该税征收基",
+      "width": 0.8869936113827396,
+      "x": 0.05970149488736908,
+      "y": 0.8997093024482508
+    },
+    {
+      "confidence": 1,
+      "height": 0.018168304014119396,
+      "text": "数较高，可能会给跨国公司带来沉重负担。",
+      "width": 0.35645425240304596,
+      "x": 0.05951652903527331,
+      "y": 0.8807347994333201
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02216508903434189,
+      "text": "③句进一步明确该税法的主要针对对象。句子先借 refer to A as B结构将“数字服务税”聚焦为",
+      "width": 0.8425640812250333,
+      "x": 0.10216549417674203,
+      "y": 0.8605043936932016
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02032501165317324,
+      "text": "“GAFA 税”，后借 meaning that 结构明确“GAFA税”主要征收对象是以谷歌、苹果、脸书和亚马逊为主的大",
+      "width": 0.8872308439008405,
+      "x": 0.05743633976536977,
+      "y": 0.8419648535421127
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "型跨国科技公司，最后再借破折号后 in other words （used to introduce an explanation of sth“换句话说；也就是",
+      "width": 0.8869936113827397,
+      "x": 0.05756930010820366,
+      "y": 0.823956442797677
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186034436246,
+      "text": "说：换言之”将征税对象进一步明晰为美国跨国科技公司，就此法国数字服务税法的矛头指向“美国科技巨",
+      "width": 0.8848613632344373,
+      "x": 0.057569325756626225,
+      "y": 0.8066860466446792
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019056261343012748,
+      "text": "头”厥然纸上。is designed to“旨在”、apply primarily to”“主要适用于”凸显该税法针对性强、目标极为明确。",
+      "width": 0.876332614456766,
+      "x": 0.05756929206799248,
+      "y": 0.7876588020448014
+    },
+    {
+      "confidence": 1,
+      "height": 0.02308391442965252,
+      "text": "【深层解读】一、重大事件开篇，预示全文主述话题：开篇句交代时间、主体、事件，为典型的新闻评述",
+      "width": 0.8446557747222454,
+      "x": 0.09790968309953202,
+      "y": 0.7666132572759464
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186034436246,
+      "text": "型写作手法，预测全文将围绕a digital services tax 这一话题展开论述。二、①②③句暗藏语义递进：a",
+      "width": 0.8869936113827396,
+      "x": 0.057569299781266806,
+      "y": 0.7500000001088265
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016080698819861405,
+      "text": "digital services tax-an entirely new tax>the tax-~GAFA tax 虽然同指税，含义却层层递进，从数字服务",
+      "width": 0.8848613632344374,
+      "x": 0.055437115900295805,
+      "y": 0.7325581393219682
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860344362348,
+      "text": "税到“GAFA”税，从强调该税的“新”到强调其“征税范围广、额度高”再到其“针对性强”，将税法内容逐",
+      "width": 0.8848613632344373,
+      "x": 0.055437127751118115,
+      "y": 0.7136627908307258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "步细化，一一呈现；同理，multinationals-GAFA— companies such as Google, Apple, Facebook and",
+      "width": 0.889125778259196,
+      "x": 0.05330490594502892,
+      "y": 0.6946460978560378
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511917,
+      "text": "Amazon-multinational tech companies based in the United States 虽同指新税征收对象，亦是层层深化，",
+      "width": 0.8869936113827398,
+      "x": 0.05543710726172159,
+      "y": 0.6742286753206059
+    },
+    {
+      "confidence": 1,
+      "height": 0.017695099818511695,
+      "text": "表明若实施该税法，美国大型科技公司首当其冲，为下文美国对此税法的反应做铺垫。",
+      "width": 0.7334754832098869,
+      "x": 0.05330490843059302,
+      "y": 0.6583484572093927
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01909055380985658,
+      "text": "•真题精解。",
+      "width": 0.11300639877624102,
+      "x": 0.432835818859925,
+      "y": 0.6351744188016235
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "36. The French Senate has passed a bill to",
+      "width": 0.35181237029013396,
+      "x": 0.0639658846043999,
+      "y": 0.6046511628888138
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.017774599217243447,
+      "text": "36.法国参议院通过了一项”",
+      "width": 0.2520384807561272,
+      "x": 0.5157949446231297,
+      "y": 0.6029709069222036
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019056261343012637,
+      "text": "”的法案。",
+      "width": 0.0895522380478373,
+      "x": 0.8187633273513479,
+      "y": 0.6016333939622674
+    },
+    {
+      "confidence": 1,
+      "height": 0.01462193452727778,
+      "text": "LAJ regulate digital services platforms",
+      "width": 0.32622600204935087,
+      "x": 0.06396589295187038,
+      "y": 0.5798548092242026
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014621933661874476,
+      "text": "［A］规范数字服务平台",
+      "width": 0.20255863682407826,
+      "x": 0.5159914682350824,
+      "y": 0.5798548098594702
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013237031964338453,
+      "text": "［B］ protect French companies' interests",
+      "width": 0.3390191861697424,
+      "x": 0.06396589004945707,
+      "y": 0.5594373864222839
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014598193056137632,
+      "text": "［B］保护法国公司利益",
+      "width": 0.20042642931169896,
+      "x": 0.5159914781799714,
+      "y": 0.5580762251236373
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842035,
+      "text": "［C］ impose a levy on tech multinationals",
+      "width": 0.3475479552653753,
+      "x": 0.06396590022800867,
+      "y": 0.5362976407580851
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014571813836071756,
+      "text": "［C］对跨国科技公司征税",
+      "width": 0.21961619533330556,
+      "x": 0.5159914774628019,
+      "y": 0.5348837214963047
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016132349543908964,
+      "text": "［D］ curb the influence of advertising",
+      "width": 0.31583929760319573,
+      "x": 0.059572686431568565,
+      "y": 0.5101190297594375
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014687881712039497,
+      "text": "［D］遏制广告影响力",
+      "width": 0.18123666329009236,
+      "x": 0.5159914787227576,
+      "y": 0.5116279075324344
+    },
+    {
+      "confidence": 1,
+      "height": 0.02052557663130028,
+      "text": "［精准定位」文首句指出，法国参议院通过一项数字服务税法案，将向为法国消费者/用户提供数字",
+      "width": 0.8443496236788449,
+      "x": 0.09381666993030016,
+      "y": 0.4840116285191297
+    },
+    {
+      "confidence": 1,
+      "height": 0.014643037384088564,
+      "text": "服务的大型跨国公司征收一项全新税费，故［C］正确。",
+      "width": 0.462686551395015,
+      "x": 0.0511727215572898,
+      "y": 0.4694767446690622
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019056261343012748,
+      "text": "［命题解密］正确项［C］impose a levy、tech multinationals 分别同义改写文首句中 impose an entirely",
+      "width": 0.8443496236788449,
+      "x": 0.09381664887486353,
+      "y": 0.45054446478561516
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394825570136,
+      "text": "new tax、multinationals that provide digital services。",
+      "width": 0.44136459817899054,
+      "x": 0.05330491325058992,
+      "y": 0.43313953512718595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372415033703,
+      "text": "［A］利用②句第一分句中碎片信息 Digital services、platform 杂糅而来，但该部分意在解释数字服务税",
+      "width": 0.8464818718271471,
+      "x": 0.08955224710500702,
+      "y": 0.41279069760685194
+    },
+    {
+      "confidence": 1,
+      "height": 0.019082640563078623,
+      "text": "法案中“数字服务”的含义，并非指向法案内容，［B］利用常识误导学生认为“法国对跨国公司收税”意在“保",
+      "width": 0.8869936113827397,
+      "x": 0.04904050230436587,
+      "y": 0.39244186051068364
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020293356069852164,
+      "text": "护本土公司利益”，但由第三段首句 in need of revenue 可知，法国数字服务税意在“提高本国财政收入”，",
+      "width": 0.8871815931622419,
+      "x": 0.05105938251074856,
+      "y": 0.37438143411712277
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017468239564428223,
+      "text": "［D］利用②句中 targeting advertising based on user data 所传递出的广告影响力“基于用户数据即可精准定",
+      "width": 0.8869936113827398,
+      "x": 0.049040516611401845,
+      "y": 0.3575317604624041
+    },
+    {
+      "confidence": 1,
+      "height": 0.01605431959979553,
+      "text": "投”捏造而来，但它错误属性同［A］，对应的原文指向的是“数字服务”的具体内容，而非法案本身的内容。",
+      "width": 0.8678038656790946,
+      "x": 0.04904050406267625,
+      "y": 0.3401162789399085
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018895348273690993,
+      "text": "［技巧总结］本题解答难点在子：明确题干中 bill 指向开篇句中a digital services tax。两者的对等关系",
+      "width": 0.8443496236788449,
+      "x": 0.0916844737682532,
+      "y": 0.31976744219673015
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014682606214187599,
+      "text": "可以借助 a digital services tax 前 passed”经表决通过（动议、法律等）”",
+      "width": 0.5714285656234396,
+      "x": 0.0511727179345487,
+      "y": 0.30217785852808743
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014682606214187488,
+      "text": "’、后 impose“推行，采用（规章制度），强",
+      "width": 0.31769721263575645,
+      "x": 0.6140724992471538,
+      "y": 0.30217785830279686
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "势实行”两词判断。然后再据由 which 从句所展示的a digital services tax 具体内容“向提供数字服务的大",
+      "width": 0.8869936113827397,
+      "x": 0.04904051882888579,
+      "y": 0.2817604359624587
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019056261343012748,
+      "text": "型跨国公司征收一项全新税种”锁定正确项［C］（粗犷型学习者甚至只借助“tax 一词与［C］中levy 一词同",
+      "width": 0.8848613632344375,
+      "x": 0.049040524486193,
+      "y": 0.2645190564075387
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511806,
+      "text": "义”即可做出选择）。",
+      "width": 0.16844348932868156,
+      "x": 0.04904051666675882,
+      "y": 0.24410163343471913
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627906896241491,
+      "text": "①",
+      "width": 0.025586353002312018,
+      "x": 0.12579957435172245,
+      "y": 0.21511627918269327
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842146,
+      "text": "The digital services tax now",
+      "width": 0.2878464700061376,
+      "x": 0.1513859337602574,
+      "y": 0.21506352067659074
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01489376805438758,
+      "text": "awaits②the",
+      "width": 0.11310465643790046,
+      "x": 0.439183278043646,
+      "y": 0.21493683723121793
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0146720543530805,
+      "text": "法国数字服务税法案目前正待总统",
+      "width": 0.3155650254413386,
+      "x": 0.6119402986226145,
+      "y": 0.20916515437902006
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014972776769509921,
+      "text": "signature® of President Emmanuel Macron, who has",
+      "width": 0.5031982909506075,
+      "x": 0.0490405217599483,
+      "y": 0.19600725925456985
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014582365697178856,
+      "text": "埃马纽埃尔•马克龙签署，（鉴于）此前他",
+      "width": 0.35394453716659047,
+      "x": 0.573560784028645,
+      "y": 0.19186046578098082
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014598193056137743,
+      "text": "expressed support for the measure, and it could go into",
+      "width": 0.5010660834382281,
+      "x": 0.049040511621326784,
+      "y": 0.17732558163611645
+    },
+    {
+      "confidence": 1,
+      "height": 0.014632486388384769,
+      "text": "已对此举措表示过支持，所以该法案极有",
+      "width": 0.3539445778025133,
+      "x": 0.5735607626674304,
+      "y": 0.17286751321165605
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013255497072223288,
+      "text": "effect within the next few weeks. ② But it has already",
+      "width": 0.5010660834382282,
+      "x": 0.04904051403781564,
+      "y": 0.1597096188434688
+    },
+    {
+      "confidence": 1,
+      "height": 0.016333938294010864,
+      "text": "可能在未来几周内生效。但是，法案已引",
+      "width": 0.3518123702901339,
+      "x": 0.573560766436312,
+      "y": 0.1524500910737553
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01786215465427965,
+      "text": "sparked®",
+      "width": 0.083343505859375,
+      "x": 0.04681438883388483,
+      "y": 0.1378712487648892
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017695099818511695,
+      "text": "significant controversy®，with the United States",
+      "width": 0.4243070193518018,
+      "x": 0.12579957670469624,
+      "y": 0.13793103409198781
+    },
+    {
+      "confidence": 1,
+      "height": 0.01600683752291865,
+      "text": "发重大争议，美国贸易代表已经开始调查",
+      "width": 0.35607674467896977,
+      "x": 0.5714285815873096,
+      "y": 0.13372093015633968
+    },
+    {
+      "confidence": 1,
+      "height": 0.013208014562644865,
+      "text": "trade representative opening",
+      "width": 0.2430703560617094,
+      "x": 0.0490405179890457,
+      "y": 0.12063953536337779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013208014995346518,
+      "text": "an investigation into whether",
+      "width": 0.2558635401821009,
+      "x": 0.29424306572984515,
+      "y": 0.1206395350242303
+    },
+    {
+      "confidence": 1,
+      "height": 0.014569176087145808,
+      "text": "此项税法是否歧视美国企业，进而可能导",
+      "width": 0.35607674467896966,
+      "x": 0.5714285811634088,
+      "y": 0.11479128862917409
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014645675133014624,
+      "text": "the tax discriminates® against American companies, which",
+      "width": 0.5010660834382281,
+      "x": 0.04904052739957784,
+      "y": 0.10163339419986128
+    },
+    {
+      "confidence": 1,
+      "height": 0.01473008829106437,
+      "text": "致美国对法国实施贸易制裁。",
+      "width": 0.2515991454753037,
+      "x": 0.5714285740488239,
+      "y": 0.09573502754651786
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013157894736842035,
+      "text": "in turn could lead to trade sanctions® against France.",
+      "width": 0.44776118008020555,
+      "x": 0.04690833000254091,
+      "y": 0.08575317600926957
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394825570136,
+      "text": "35",
+      "width": 0.02345415818865859,
+      "x": 0.8933901917212358,
+      "y": 0.04651162833212774
+    }
+  ],
+  "vision_ocr_text": "revenue（gross 意为 being the total amount of sth before anything is taken away”总的；毛的”）暗示该税征收基\n数较高，可能会给跨国公司带来沉重负担。\n③句进一步明确该税法的主要针对对象。句子先借 refer to A as B结构将“数字服务税”聚焦为\n“GAFA 税”，后借 meaning that 结构明确“GAFA税”主要征收对象是以谷歌、苹果、脸书和亚马逊为主的大\n型跨国科技公司，最后再借破折号后 in other words （used to introduce an explanation of sth“换句话说；也就是\n说：换言之”将征税对象进一步明晰为美国跨国科技公司，就此法国数字服务税法的矛头指向“美国科技巨\n头”厥然纸上。is designed to“旨在”、apply primarily to”“主要适用于”凸显该税法针对性强、目标极为明确。\n【深层解读】一、重大事件开篇，预示全文主述话题：开篇句交代时间、主体、事件，为典型的新闻评述\n型写作手法，预测全文将围绕a digital services tax 这一话题展开论述。二、①②③句暗藏语义递进：a\ndigital services tax-an entirely new tax>the tax-~GAFA tax 虽然同指税，含义却层层递进，从数字服务\n税到“GAFA”税，从强调该税的“新”到强调其“征税范围广、额度高”再到其“针对性强”，将税法内容逐\n步细化，一一呈现；同理，multinationals-GAFA— companies such as Google, Apple, Facebook and\nAmazon-multinational tech companies based in the United States 虽同指新税征收对象，亦是层层深化，\n表明若实施该税法，美国大型科技公司首当其冲，为下文美国对此税法的反应做铺垫。\n•真题精解。\n36. The French Senate has passed a bill to\n36.法国参议院通过了一项”\n”的法案。\nLAJ regulate digital services platforms\n［A］规范数字服务平台\n［B］ protect French companies' interests\n［B］保护法国公司利益\n［C］ impose a levy on tech multinationals\n［C］对跨国科技公司征税\n［D］ curb the influence of advertising\n［D］遏制广告影响力\n［精准定位」文首句指出，法国参议院通过一项数字服务税法案，将向为法国消费者/用户提供数字\n服务的大型跨国公司征收一项全新税费，故［C］正确。\n［命题解密］正确项［C］impose a levy、tech multinationals 分别同义改写文首句中 impose an entirely\nnew tax、multinationals that provide digital services。\n［A］利用②句第一分句中碎片信息 Digital services、platform 杂糅而来，但该部分意在解释数字服务税\n法案中“数字服务”的含义，并非指向法案内容，［B］利用常识误导学生认为“法国对跨国公司收税”意在“保\n护本土公司利益”，但由第三段首句 in need of revenue 可知，法国数字服务税意在“提高本国财政收入”，\n［D］利用②句中 targeting advertising based on user data 所传递出的广告影响力“基于用户数据即可精准定\n投”捏造而来，但它错误属性同［A］，对应的原文指向的是“数字服务”的具体内容，而非法案本身的内容。\n［技巧总结］本题解答难点在子：明确题干中 bill 指向开篇句中a digital services tax。两者的对等关系\n可以借助 a digital services tax 前 passed”经表决通过（动议、法律等）”\n’、后 impose“推行，采用（规章制度），强\n势实行”两词判断。然后再据由 which 从句所展示的a digital services tax 具体内容“向提供数字服务的大\n型跨国公司征收一项全新税种”锁定正确项［C］（粗犷型学习者甚至只借助“tax 一词与［C］中levy 一词同\n义”即可做出选择）。\n①\nThe digital services tax now\nawaits②the\n法国数字服务税法案目前正待总统\nsignature® of President Emmanuel Macron, who has\n埃马纽埃尔•马克龙签署，（鉴于）此前他\nexpressed support for the measure, and it could go into\n已对此举措表示过支持，所以该法案极有\neffect within the next few weeks. ② But it has already\n可能在未来几周内生效。但是，法案已引\nsparked®\nsignificant controversy®，with the United States\n发重大争议，美国贸易代表已经开始调查\ntrade representative opening\nan investigation into whether\n此项税法是否歧视美国企业，进而可能导\nthe tax discriminates® against American companies, which\n致美国对法国实施贸易制裁。\nin turn could lead to trade sanctions® against France.\n35",
+  "pdf_text_layer": "revenue(gross\n  ~~f..fi ,\n                       -.,i\n                   iiJ~~~~oo0 ~1'*mm::fA m\n                                            being the total amount of sth before anything is taken away\",~89 ;~89\")~mW:.fflAiE1&~\n                                                    o\n\n       ® ~ ilt- ~ P,ij ~ ~ ~ i! a{] ± ~ it M x.f ~ o 1U =f 16 ffi refer to A as B ~ f4) lit-\" fi !¥ H!l ~ & \"~ ~ '1\n  \"GAFA & \" , Fc ffi meaning that ~ f1g f!ij fiffl \"GAFA & \"£ ~ ffl: t& ~,J-~ ¾ ~ ~ ~ , 1(l ~ 45 ® SIE Q, ~ '1 £ 1¥.1 ::k                                     *,\n ffll~OO~H:1}~ ,j}Fc,Nfflit~%Fc in other words (used to introduce an explanation of sth \"~~~~;-tglt~\n ~; ~ ;;-z.\") ~ro:&X.J\"aut1:-~lffl ~ 1-1 ~ oo ~ oo ~tt 0 ~ , ~ itt ~ oo fl B!l ~ & ~ 1¥.1 ~ ~ iaJ \"~ oo ~ tt a                                  *                            m\n ~\"~;&ffi;_t is designed to\"~?£\" ,apply primarily to\" £~~.m r''8 ~ ~&7¼#5<.ff.£5j, § ~f&.:!k}f!ijfiffl\n                            O                                                                                                                                                                              0\n\n\n\n        ( ~~M~l -,a**i*:fftl, ffi~~3t±~~ll1I :7f·1U~ftll'tl'sJ ,1:-f* ,$# ,.:!kJAffll~irJlflW~\n ffi!~ff:=ft!, ffi~~X!f1f 00 ~ a digital services tax ~ - ~/ffi ~7f~i£ o                  (D@@1:iJ lfff ijlffi )t ii1 i!: a                              =,\n digital services tax-an entirely new ta~the ta~GAFA tax ffl.~ ~ffi&                      ..>l !p~~:ii:iir ,b\\~-*Hll4r                                   '*\n & f'J \"GAFA\" & , b\\ s!i ~ ~ & ~\"MT\" f'J si iim Jt\" ffl: & ffi: Ill j , $i Jl ~ \"N ¥tl Jt\" # X.J\" tt si\" , ~ & ~ ~ ~ ~\n ~~,ft,--li!,}M; ~l.!l!,multinationals-GAFA-companies such as Google, Apple, Facebook and\n Amazon-multinational tech companies based in the United States li~ffi.ffi&ffl:t&X,J-~,~~~~~{t,\n ~im~~m&~&~ ,~ml:kffi!'4tt¾ ~1t ~Jt?lfl ,;J;Jrx~ mJ)(if .tlt&~09&1.iil14t•~ o\n\n                                        .\n                                                                                           ::~:~:-~~if::~l :I\n   36. The French Senate has passed a bill to                                                            •         36. itfE~iS£~ilM7-IDi\"                                           \"tl{J it~ 0\n   [A] regulate digital services platforms                                                                         [A] ~ffl:fi* Bll*JJl- ~\n   [BJ protect French companies' interests                                                                         [BJ {¥tf~ffil¾ ii.J~J~\n   [CJ impose a levy on tech multinationals                                                                        [CJ X.J\"~OO~tt1}lUffl:&\n   [DJ curb the influence of advertising                                                                          [DJ ilifi!Jj~~P~jJ\n     [ ff ii~ w: J x s 10 ffi ill , ~ 00 #~~iii i:t-JJJ!\" ~ Bll & ~ $ , ~ rtiJ 1-J tii: IE j~ •~I ffi P Sl ~ fX  * *                                                                                      *\nBll*l¥1::kffll~l@i~ ii.I ffl:1&-J.m½frt#.Jl, ~[C]lEfiffl o\n     [ $ ~ ~ WJiE ?ifA ~ [ CJ impose a levy, tech multinationals ,tJJIJ ~ Jl D.!(~ X B 1U i:p impose an entirely\nnew tax,multinationals that provide digital serviceso\n         [A]l!J ffl ®10ffi-5j-,fij i:p i$ J:t ffi ,ti!- Digital services,platform ~ # im                                                            *,© i.f<ffiS5j-j: t£fff ff fl *Bi*~\n t¼;t i:p\"fi-*Hll*\"~-$\" Jl ,J:r~Fffi ialt!$ r'-1 W,[BJ*1Jffl~tR~~~~t\\1-J\"t¼®X.J\"~!E1}ir.J t&&\".1£\"{¥\n                                                     =\n tF-* ± ¾ ~ ~J tt\", ffi mffi & 1t ~ in need of revenue iiJ ~ , rt: ml fi Bll :91- & 1t 1£ \"W: ~-* I@ JM~ l&A\",                              *\n[ D]*1J Jfl@~ i:p targeting advertising based on user data Nr~l!1 lli ~ j {5-~ ptt;J JJ \"~ r ffl P f.t ffl llP iiJ ffl 1l~\n                                                                                                                           *\n                                                                                                                       *•\n~ \"ffi Ji ffij°3f€ , ffi -e ffl Wt,- tt lfi'J [ A] , X.J\" EiZ ~ m{ X ffi fDl ~ ~ \"fi Bll ~\" ~ A-1* l*1 ~ , im ~Ft¼ ;t-* ~ 09 rf-1 ~ o\n          [ jtJ:5 .~, !is] *J!IM~~1t~t£                               -r:\n                                                         IY=l ?ifAJIFf i:p bill ffi ftiJ 10 i:p a digital° services taxo iW ;f 99~,t~~~\niiJ ~ ,ff!lb a digital services tax DU passed\"~~llclin ( ~iSl.. ~$~) \" ,)ii impose\" jl ff,* ffl ( ~ •ifi!J Jl) , ~j\n~~fi\"\"~iii]Jtl 1'r ?'&.Fc-NM EB which~'sl]Nf li!JJ' 09 a digital services tax A-f* P-1 ~\" rtiJ ~,fjt~~ Bll:91-09 ::k\n                                    O\n\n\nffll~ !E1} ~ffl:1&-JJ!½frmf+\"i!l!~lEfft~[C](ffl!)\"\"~~ J3 ;l-tf ~..R ffi !lb\"tax -iiij ~ [CJ i:p levy -iii]~\n..>l.\" ftPAJ .ftJtili~~) o\n .... ··-··· ······ ................... .............. .... ····- ...................................................... - .................... .\n\n          [       0 The digital services tax now awaitsa> the\nsignature~ of President Emmanuel Macron,      who has\n                                                                                                                                          * mAt ~ Ha. ~ M. * ~ a 1m -tt -~- M.           J£.\n                                                                                                                                ~~ !H.~ it:              • J¼ Jt~ ~;J-' ( -1--t ) Jt 1W ~\nexpressed support for the measure, and it could go into                                                                          e.,,t~~~~~~~#,M~~*~~*\neffect within the next few weeks. 8 But it has already                                                                           of i~,ff. =*- At JL fol 11.J i. 3tt 1!!~ , *•e.. {I\n                                                                                                                                                                         o\n\nsparkedl3> significant controversy®, with the United States                                                                     £Yk.~,*~~i~~e..~~~~~\ntrade representative opening an investigation into whether                                                                      ~•«*~~~«*OO¼~,~~of~~\nthe tax discriminatesG> against American companies, which a. ~ liJ ,t 00 ~ ~ ff ~ '*1) ~ •\nin....turn    could lead        to trade sanctions(6)              against France.\n                                                                                                                                                     *\n        ········-······ ...... .................. . ............ . ················ ................................. . ........................... _.................. ... ...... - ........................ .\n\n\n                                                                                                                                                                                                     35",
+  "quality": {
+    "vision_line_count": 61,
+    "vision_character_count": 2465,
+    "pdf_text_character_count": 7038,
+    "nonempty": true
+  }
+}

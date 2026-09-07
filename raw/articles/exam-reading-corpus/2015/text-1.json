@@ -1,0 +1,113 @@
+{
+  "schema": "exam_reading_practice_safe_v1",
+  "reference_id": "EXAM-READING-2015-T1",
+  "source_id": "RAW-ARTICLE-20260711-021",
+  "ingest_date": "2026-07-11",
+  "year": 2015,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 1,
+  "visibility": "practice_safe",
+  "truth_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一真题/2015年考研英语一真题.pdf",
+  "truth_pages": [
+    4,
+    5
+  ],
+  "truth_extraction": {
+    "passage": "visual_ocr_eng_300dpi",
+    "questions": "visual_ocr_eng_300dpi"
+  },
+  "analysis_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2015年考研英语一真题解析.pdf",
+  "analysis_page_range": "12-20",
+  "analysis_anchor_status": "text_anchor",
+  "answer_visibility": "hidden_until_review",
+  "protected_analysis_path": "raw/protected/exam-reading-analysis/2015/text-1.md",
+  "analysis_preprocess_status": "preprocessed_complete",
+  "raw_path": "raw/articles/exam-reading-corpus/2015/text-1.json",
+  "article_path": "articles/2026-07-11-2015-english-i-text-1.md",
+  "passage_paragraphs": [
+    "King Juan Carlos of Spain once insisted “kings don’t abdicate, they die in their sleep.” But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down. So, does the Spanish crisis suggest that monarchy is seeing its last days? Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles?",
+    "The Spanish case provides arguments both for and against monarchy. When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above “mere” politics and “embody” a spirit of national unity.",
+    "It is this apparent transcendence of politics that explains monarchs’ continuing popularity as heads of state. And so, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican city and Andorra). But unlike their absolutist counterparts in the Gulf and Asia, most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure.",
+    "Even so, kings and queens undoubtedly have a downside. Symbolic of national unity as they claim to be, their very history — and sometimes the way they behave today — embodies outdated and indefensible privileges and inequalities. At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states.",
+    "The most successful monarchies strive to abandon or hide their old aristocratic ways. Princes and princesses have day-jobs and ride bicycles, not horses (or helicopters). Even so, these are wealthy families who party with the international 1%, and media intrusiveness makes it increasingly difficult to maintain the right image.",
+    "While Europe’s monarchies will no doubt be smart enough to survive for some time to come, it is the British royals who have most to fear from the Spanish example.",
+    "It is only the Queen who has preserved the monarchy’s reputation with her rather ordinary (if well-heeled) granny style. The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world. He has failed to understand that monarchies have largely survived because they provide a service —as non-controversial and non-political heads of state. Charles ought to know that as English history shows, it is kings, not republicans, who are the monarchy’s worst enemies."
+  ],
+  "questions": [
+    {
+      "number": 21,
+      "prompt": "According to the first two paragraphs, King Juan Carl of Spain",
+      "options": {
+        "A": "eased his relationship with his rivals.",
+        "B": "used to enjoy high public support.",
+        "C": "was unpopular among European royals.",
+        "D": "ended his reign in embarrassment."
+      }
+    },
+    {
+      "number": 22,
+      "prompt": "Monarchs are kept as heads of state in Europe mostly",
+      "options": {
+        "A": "to give voters more public figures to look up to.",
+        "B": "to achieve a balance between tradition and reality.",
+        "C": "owing to their undoubted and respectable status.",
+        "D": "due to their everlasting political embodiment."
+      }
+    },
+    {
+      "number": 23,
+      "prompt": "Which of the following is shown to be odd, according to Paragraph 4?",
+      "options": {
+        "A": "Aristocrats’ excessive reliance on inherited wealth.",
+        "B": "The role of the nobility in modern democracies.",
+        "C": "The simple lifestyle of the aristocratic families.",
+        "D": "The nobility’s adherence to their privileges."
+      }
+    },
+    {
+      "number": 24,
+      "prompt": "The British royals “have most to fear” because Charles",
+      "options": {
+        "A": "fails to adapt himself to his future role.",
+        "B": "fails to change his lifestyle as advised.",
+        "C": "takes republicans as his potential allies.",
+        "D": "takes a tough line on political issues."
+      }
+    },
+    {
+      "number": 25,
+      "prompt": "Which of the following is the best title of the text?",
+      "options": {
+        "A": "Carlos, Glory and Disgrace Combined",
+        "B": "Charles, Anxious to Succeed to the Throne",
+        "C": "Carlos, a Lesson for All European Monarchs",
+        "D": "Charles, Slow to React to the Coming Threats"
+      }
+    }
+  ],
+  "quality": {
+    "passage_words": 419,
+    "paragraphs": 7,
+    "source_token_count": 426,
+    "final_token_count": 426,
+    "source_token_coverage": 1.0,
+    "question_page_continuation_words_merged": 0,
+    "question_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "options_per_question": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "structural_gate": "ok",
+    "visual_verification": "pending_sample"
+  }
+}

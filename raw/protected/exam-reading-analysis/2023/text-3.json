@@ -1,0 +1,134 @@
+{
+  "schema": "exam_reading_protected_analysis_v1",
+  "generated_date": "2026-07-16",
+  "analysis_id": "EXAM-ANALYSIS-2023-T3",
+  "reference_id": "EXAM-READING-2023-T3",
+  "year": 2023,
+  "exam": "考研英语一",
+  "section": "Section II Reading Comprehension Part A",
+  "text_no": 3,
+  "question_numbers": [
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+  "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+  "old_analysis_anchor_range": "18-20",
+  "preprocessed_source_pages": [
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "source_page_paths": [
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-017.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-018.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-019.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-020.md",
+    "raw/protected/exam-reading-analysis/source-pages/2023/page-021.md"
+  ],
+  "visibility": "hidden_until_review",
+  "answer_key": {
+    "31": "A",
+    "32": "C",
+    "33": "A",
+    "34": "A",
+    "35": "D"
+  },
+  "questions": [
+    {
+      "question_number": 31,
+      "correct_answer": "A",
+      "answer_evidence_page": 18,
+      "answer_evidence_pages": [
+        18
+      ],
+      "analysis_source_pages": [
+        18
+      ],
+      "analysis_text": "〇 答案解析\n31. The author mentions two books in Paragraph 1 to\n一段中，作者提及两本书是为了\n选项出处\npresent\n展现\nA.an ongoing conflict\nA. 一种持续存在的冲突\n一段②句\nB.an intellectual concept\nB. 一个智力的概念\n六段（句\nC.a prevailing sentiment\nC. 一个盛行的观点\n原文未提\nD.a literary phenomenon\nD. 一种文学现象\n六段②句\n口浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。\n从题干的角度解答——如何得出正解，排除干扰\n找关键词：two books 和 Paragraph 1。回文定位：根据关键词可定位至一段②句，其中two books 与该句中的\nBoth of these books 相对应。比对匹配：该句指出，这两本书都将在下周由企兰登书屋（PRH）出版，该公司\n目前与水石书店陷入了僵局。由此可知，这两本书的出版商企鹅兰登书屋与零售商水石书店之间持续存在冲突。\n可见，作者提及两本书是为了展现这一冲突，故A正确。\n六段 •句提到文学机构正变得越来越大，但文中并未体现文学现象，故排除D。六段③ 句提及出版业也需要\n多种方式来传递知识联系，并未提及与智力相关的概念，故排除B。文中并未提及盛行的观点的相关信息，故\n排除C。",
+      "anchor_score": 1.272,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 32,
+      "correct_answer": "C",
+      "answer_evidence_page": 18,
+      "answer_evidence_pages": [
+        18
+      ],
+      "analysis_source_pages": [
+        18,
+        19
+      ],
+      "analysis_text": "32. Why did Waterstones shope retire PRH books to their\n为什么水石书店将企鹅兰登书屋出版\n选项出处\nrelevant sections？\n的书籍放回相关区域？\nA. To make them easily noticesble.\nA.为了使它们容易被注意到。\n二段•句\n二段0句\nB. To comply with PRH’s requirement.\nB. 为了遵守企鹅兰登书屋的要求。\n三段①句\nC. To respond to PRH’s business move.\nC.为了回应企鹅兰登书屋的商业行动。\n二段\nD. To arrange them in a systematic way.\nD. 为了以系统的方式整理它们。\n二段@句\n【路径一】从题干的角度解答-——如何得出正解\n找关键词：retire PRH books to their relevant sections。回文定位：根据关键词可定位至二段图句，其与该句中的\nretiring them to their relevant sections 相对应。比对匹配：该句指出，行业杂志《书商》报道称，水石书店的分\n店经理被告知要把企鹅兰登书屋出版的书籍从桌子、展示区和橱窗等显眼区域移走，并“悄悄地将这些书放回\n相关区域”。但由此无法得知水石书店要把企鹅兰登书屋出版的书籍放回相关区域的具体原因，故需联系上文。\n辐射匹配：二段 句指出，去年年底，企鹅兰登书屋证实已经对水石书店实行了“水平十分显著的”信贷限额。\n可见，正是因为企鹅兰登书屋先对水石书店采取了商业行动，水石书店才将其出版的书籍放回相关区域，故\nC正确。\n【路径二】从选项的角度解答-—如何排除干扰\n找关键词：easily noticeable。回文定位：根据关键词可定位至二段•句，其与该句中的 prominent 相对应。\nA 比对匹配：该句提到，水石书店的分店经理被告知要把企鹅兰登书屋出版的书籍从显眼区域移走。由此\n可知，水石书店的举动会使这些书籍更不容易被顾客看到，A选项表述与此相悖，故排除。\n18\n找关键词：PRH和 requirement。回文定位：根据关键词可定位至二段•句，其中 requirement 与该句中\n的had introduced a credit limit 相对应。比对匹配：该句提到，企鹅兰登书屋证实已经对水石书店实行了“水\n平十分显著的”信贷限额，但并未提及水石书店是否遵守了企鹅兰登书屋的要求，故需联系下文。辐射\nB\n匹配：三段 句提到，目前水石书店是在企鹅兰登书屋缩短了信贷期限的情况下经营的，可见水石书店\n遵守了企鹅兰登书屋对其提出的信贷限额要求，但与水石书店将企鹅兰登书屋出版的书籍放回相关区域\n无关，故排除B。\n找关键词：arrange。回文定位：根据关键词可定位至二段•句，其与该句中的 remove 和 retiring 相对应。\n比对匹配：该句提到，水石书店的分店经理被告知要把企鹅兰登书屋出版的书籍从桌子、展示区和橱窗\nD\n等显眼区域移走，并“悄悄地将这些书放回相关区域”。文中并未提及水石书店将企鹅兰登书屋出版的\n书籍放回相关区域是为了以系统的方式整理它们，故排除D。",
+      "anchor_score": 1.213,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 33,
+      "correct_answer": "A",
+      "answer_evidence_page": 19,
+      "answer_evidence_pages": [
+        19
+      ],
+      "analysis_source_pages": [
+        19
+      ],
+      "analysis_text": "33. What message does the spokesperson for\n水石书店的发言人似乎在传达什么\n选项出处\nWaterstones seem to convey？\n信息？\nA. Their customers remain loyal.\nA. 他们的顾客仍然忠实。\n三段0⑤ 句\nB. The credit limit will be removed.\nB. 信贷限额将被取消。\n二段0句\nC. Their stock is underestimated.\nC. 他们的库存被低估了。\n三段②句\nD. The book market is rather slack.\nD. 图书市场相当不景气。\n三段⑥句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：the spokesperson for Waterstones。回文定位：根据关键词可定位至三段 句。比对匹配：该句提到，\n水石书店的一位发言人讲道，目前水石书店是在企鹅兰登书屋缩短了信贷期限的情况下经营的，企鹅兰登书屋\n是英国唯—一家对他们的交易能力施加限制的出版商。仅凭该句尚不能确定答案，故需联系下文。辐射匹配：\n三段 句提到，我们（水石书店）5月份的月度图书销量超过了2018年以来的任何一个月的图书销量。可见，\n水石书店的图书销量很好，证明该书店依然拥有忠实的顾客，故A正确。\n【路径二】从选项的角度解答—如何排除干扰\n找关键词：credit limit。回文定位：根据关键词可定位至二段•句。比对匹配：该句提到，企鹅兰登书\nB屋证实已经对水石书店实行了“水平十分显著的”信贷限额，并未提及信贷限额将被取消的相关信息，\n故排除B。\n找关键词：stock。回文定位：根据关键词可定位至三段•句。比对匹配：该句提到，水石书店会尽力确\nC 保对顾客的供应仍然处于良好状态，尽管总体库存水平较低。由此可知，水石书店发言人提到水石书店\n的图书库存水平较低的事实，并非在传达库存被低估，故排除C。\n找关键词：rather slack。回文定位：根据关键词可定位至三段③句，其与该句中的 The sales.. surpassed\nany month since 2018表意相反。比对匹配：该句提到，我们（水石书店）5月份的月度图书销量超过了\nD\n2018年以来的任何一个月的图书销量。由此可知，图书市场很有活力，D选项内容与原文表意相反，故",
+      "anchor_score": 1.2732,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 34,
+      "correct_answer": "A",
+      "answer_evidence_page": 20,
+      "answer_evidence_pages": [
+        20
+      ],
+      "analysis_source_pages": [
+        19,
+        20
+      ],
+      "analysis_text": "排除。\n34. What can be one consequence of the current\n当前纷争的一个后果是什么？\n选项出处\ndispute？\nA. Sales of books by, mid-list PRH writers fall\nA. 企鹅兰登书屋书刊销量排行居中的\n四段2句\noff considerably.\n作家的书籍销量大幅下降。\nB. Lesser-known PRH writers become the target of\nB. 企鹅兰登书屋知名度较低的作家成光\n四段②句\ncriticism.\n批评的对象。\nC. Waterstones staff hesitate to promote big-name\nC.水石书店的员工不愿推销知名作家\n四段③句\nauthors’ books.\n的书籍。\nD. Waterstones branches suffer a severe reduction in\nD.水石书店的分店收人严重减少。\n三段③句\nrevenue.\n19\n【路径一】从题干的角度解答——如何得出正解\n找关键词：dispute。回文定位：根据关键词可定位至四段②句。比对匹配：该句提到，知名的企鹅兰登书屋\n作家可能会受到一些影响，但会祈祷这场纷争结束的还是那些书刊销量排行居中的作家，他们通常依赖水石书\n店员工的热情来推销知名度较低的作家的作品。由此可见，知名度较低的作家的作品销量依赖水石书店员工对\n书籍的热情推销。综上可推知，当前纷争使水石书店的员工推销知名度较低的作家书籍的热情降低，由此导致\n书刊销量排行居中的作家的书籍销量大幅下降，故A正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：Lesser-known PRH writers。回文定位：根据关键词可定位至四段③句，其与该句中的 lesser-\nknown writers 相对应。比对匹配：该句提到，书刊销量排行居中的作家通常依赖水石书店员工的热情来\nB\n推销知名度较低的作家的作品，并未提及企鹅兰登书屋知名度较低的作家成为批评对象的相关信息，故\n排除 B。\n找关键词：Waterstones staff、promote 和 big-name authors。回文定位：根据关键词可定位至四段@句，\n其中 big-name authors 与该句中的Big-name PRH authors 相对应。比对匹配：该句提到，知名的企鹅兰登\nC 书屋作家可能会受到一些影响，但会祈祷这场纷争结束的还是那些书刊销量排行居中的作家，他们通常\n依赖水石书店员工的热情来推销知名度较低的作家的作品。可见，文中仅简单指出知名作家可能会受影\n响，并未提及水石书店的员工是否愿意推销知名作家的书籍，故排除C。\n找关键词：a severe reduction in revenue。回文定位：根据关键词可定位至三段⑤句，其与该句中的The\nsales..surpassed any month since 2018表意相反。比对匹配：该句提到，我们（水石书店）5月份的月度\nD\n图书销量超过了2018年以来的任何一个月的图书销量。可见，水石书店的收入并未严重减少，且该句\n只是提到水石书店的图书销量情况，并未提及水石书店的分店收人的相关信息，故排除D。",
+      "anchor_score": 1.1113,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    },
+    {
+      "question_number": 35,
+      "correct_answer": "D",
+      "answer_evidence_page": 20,
+      "answer_evidence_pages": [
+        20
+      ],
+      "analysis_source_pages": [
+        20,
+        21
+      ],
+      "analysis_text": "35. Which of the following statements best represents\n下列哪一项最能代表劳尼的观点？\nLownie's view ？\n选项出处\nA. Small publishers ought to stick together.\nA. 小型出版商应该团结一致。\n六段④句\nB. Big publishers will lose their dominance.\nB.大型出版商将失去主导权。\n五段\nC. The publishing industry is having a hard time.\nC. 出版业正步履维艰。\n六段③句\nD. The merger of publishers is a worrying trend.\nD. 出版商的合并是一个令人担忧的趋势。\n五段\n六段 0③句\n亡浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。\n从选项的角度解答——如何得出正解，排除干扰\n找关键词：Small publishers。回文定位：根据关键词可定位至六段①句。比对匹配：该句提到，近年来\nA\n许多最有趣的书都来自小型出版商，并未提及小型出版商应该团结一致的相关信息，故排除A。\n找关键词：Big publishers。回文定位：根据关键词可定位至五段。比对匹配：五段提到，作家们已经在\nB 担心企鹅兰登书屋和另一家大型出版商西蒙与舒斯特拟议合并的后果。文中仅指出企鹅兰登书屋与大型\n出版商西蒙与舒斯特拟议合并，并未提及大型出版商是否会失去主导权的相关信息，故排除B。\n找关键词：The publishing industry。回文定位：根据关键词可定位至六段句。比对匹配：该句提到，\nC\n出版业从作家和员工的角度谈论多样性，但它也需要多种方式来传递知识联系、选择和不同的声音。文\n中仅指明出版业需要采取的行动，并未体现出版业正步履维艰的相关信息，故排除C。\n找关键词：merger。回文定位：根据关键词可定位至五段。比对匹配：五段提到，作家们已经在担心企\n鹅兰登书屋和另一家大型出版商西蒙与舒斯特拟议合并的后果—未联盟的英国出版商数量下降很可能\n导致更少的竞购战、更低的预付款以及更一致的出版内容。该段提到的是作家们的观点，无法确定该观\nD\n点是否也是劳尼的观点。由此尚无法得出正确答案，故需联系下文。辐射匹配：六段•句提到，劳尼表\n示这都是向着权力集中和企业联盟发生的更广泛变化的一部分。其中，“这”指的是企鹅兰登书屋和另\n一家大型出版商西蒙与舒斯特拟议合并。六段③句提到，劳尼表示出版业也需要多种方式来传递知识联\n20\n系、选择和不同的声音。可见，出版商的合并不能多样化地传递知识联系、选择和不同的声音，因而是\n一个令人担忧的趋势，D选项内容是对劳尼观点的概括，故正确。",
+      "anchor_score": 1.273,
+      "verification_status": "source_verified_high",
+      "verification_method": "embedded_text_layer_explicit_answer_determinations"
+    }
+  ],
+  "full_source_analysis_text": "### PDF p17\n\nweek by Penguin Random House （PRH）， a company currently\n书屋（PRH）出版，该公司目前与水石书店陷\ninvolved in a stand-off with Waterstones.\n二了優局。\n［2｝③The problem began late last year, when PRH confirmed\n（32）这个问题始于去年年底，当时企鹅\nthat it had introduced a credit limit with Waterstones \"at a very\n兰登书屋证实已经对水石书店实行了“水平十\neignificant level'. @The trade magazine The Boohseller reported\n分显著的”信贷限额。行业杂志《书商》报道称，\nthat Waterstones branch managers were being told to remove\n水石书店的分店经理被告知要把企鹅兰登书屋\nPRH books from prominent areas such as tables, display spaces\n出版的书籍从桌子、展示区和橱窗等显眼区城\nand windows, and were \"quietly retiring them to their relevant\n移走，并“悄悄地将这些书放回相关区域”。\n'sections\".\n（33）企鵝兰登书屋拒绝就此事发表评论，\n［3］OPRH declined to comment on the issue, but a\n但是水石书店的一位发言人告诉我：“目前水\nspokesperson for Waterstones told me： “Waterstones are\n石书店是在企鹅兰登书屋缩短了信贷期限的情\ncurrently operating with reduced credit terms from PRH, the\n况下经营的，企鹅兰登书屋是英團唯——家对\nonly publisher in the UK to place any limitations on our ability\n我们的交易能力施加限制的出版商。我们没有\nto trade. @We are not boycotting PRH titles but we are doing\n抵制企鹅兰登书屋出版的书籍，而是在尽力确\nour utmost to ensure that availability for customers remains good\n保对顾客的供应仍然处于良好状态，尽管总体\ndespite the lower overall levels of stock. ⑧We are hopeful with\n库存水平較低。现在我们的书店已经靈新开张\nour shops now open again that normality will retur and that we\n了，我们希望可以恢复正常，并且我们可以获\nwill be allowed to buy appropriately. @Certainly, our shops are\n准适当地购买书籍。当然，我们的书店特别忙。\nexceptionally busy. ©The sales for our May Books of the Month\n（33） 我们5月份的月度图书销量超过了2018\nsurpassed any month since 2018.”\n年以来的任何一个月的图书銷量。”\n［4］©In the meantime, PRH authors have been the losers.\n在此期间，企鹅兰登书屋的作家沦为这场\n©Big-name PRH authors may suffer a bit, but it's those mid-\n冲突中的受害者。（34）知名的企鹅兰登书屋\nlist authors, who normally rely on Waterstones staff's passion for\n作家可能会受到一些影响，但会祈祷这场纷争\npromoting books by lesser-known writers, who will be praying\n结束的还是那些书刊销量排行居中的作家，他\nfor an end to the dispute.\n们通常依赖水石书店员工的热情来推销知名度\n［5］③It comes at a time when authors are already worried\n较低的作家的作品。\nabout the consequences of the proposed merger between PRH\n（35）与此同时，作家们已经在担心企鹅\nand another big publisher, Simon & Schuster-the reduction in\n兰登书屋和另一家大型出版商西蒙与舒斯特拟\nthe number of unaligned UK publishers is likely to lead to fewer\nbidding wars, lower advances, and more conformity in terms of\n议合并的后果——未联盟的英国出版商数量下\nwhat is published.\n降很可能导致更少的竟购战、更低的预付款以\n［6］0*This is all part of a wider change towards concentration\n及更一致的出版内容。\nof power and cartels. ②Literary agencies are getting bigger\n（35）“这都是向着权力集中和企业联盟\nto have the clout to negotiate better terms with publishers，\n发生的更广泛变化的一部分。文学机构正变得\npublishers consolidating to deal with Amazon，” says Lownie.\n越来越大，以便获得影响力与出版商商定更有\n⑧\"The publishing industry talks about diversity in terms\n利的条件，而出版商正合并起来以应对亚马\nof authors and staff but it also needs a plurality of ways of\n逊，”劳尼表示。（35）“出版业从作家和员\ndelivering intellectual contact, choice and different voices.\n工的角度谈论多样性，但它也需要多种方式来\n④After all, many of the most interesting books in recent years\n传递知识联系、选择和不同的声音。毕竟，近\nhave come from small publishers.”\n年来许多最有趣的书都来自小型出版商。”\n［7］@We shall see whether that plurality is a casualty of the\n当前，出版商有着需要大到足以对付所有\ncurrent need among publishers to be big enough to take on all-\n竞争者的需求，至于这种多元性是否会成为这\ncomers.\n一需求的牺牲品，让我们拭目以待。\n\n### PDF p18\n\n◎ 篇章结构\n［第一段：引出话题——企鹅兰登书屋与水石书店之间持续存在冲突\n在书店和出版\n第二至四段：介绍冲突产生的「第二段：水石书店针对企鹅兰登书屋商业行动所采取的措施。\n商之间的战争<\n原因以及带来的 第三段：水石书店发言人针对该冲突所发表的观点\n中没有嬴家\n第四段：企鹅兰登书屋的作家受到了该冲突导致的不同程度的影响\n「第五段：作家们对出版商合并带来的后果表示担忧\n第五至七段：对出版商合并的 第六段：劳尼对出版商合并这一现象的观点\n【第七段：关注出版商是否会牺牲多元性来满足其需求\n〇 答案解析\n31. The author mentions two books in Paragraph 1 to\n一段中，作者提及两本书是为了\n选项出处\npresent\n展现\nA.an ongoing conflict\nA. 一种持续存在的冲突\n一段②句\nB.an intellectual concept\nB. 一个智力的概念\n六段（句\nC.a prevailing sentiment\nC. 一个盛行的观点\n原文未提\nD.a literary phenomenon\nD. 一种文学现象\n六段②句\n口浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。\n从题干的角度解答——如何得出正解，排除干扰\n找关键词：two books 和 Paragraph 1。回文定位：根据关键词可定位至一段②句，其中two books 与该句中的\nBoth of these books 相对应。比对匹配：该句指出，这两本书都将在下周由企兰登书屋（PRH）出版，该公司\n目前与水石书店陷入了僵局。由此可知，这两本书的出版商企鹅兰登书屋与零售商水石书店之间持续存在冲突。\n可见，作者提及两本书是为了展现这一冲突，故A正确。\n六段 •句提到文学机构正变得越来越大，但文中并未体现文学现象，故排除D。六段③ 句提及出版业也需要\n多种方式来传递知识联系，并未提及与智力相关的概念，故排除B。文中并未提及盛行的观点的相关信息，故\n排除C。\n32. Why did Waterstones shope retire PRH books to their\n为什么水石书店将企鹅兰登书屋出版\n选项出处\nrelevant sections？\n的书籍放回相关区域？\nA. To make them easily noticesble.\nA.为了使它们容易被注意到。\n二段•句\n二段0句\nB. To comply with PRH’s requirement.\nB. 为了遵守企鹅兰登书屋的要求。\n三段①句\nC. To respond to PRH’s business move.\nC.为了回应企鹅兰登书屋的商业行动。\n二段\nD. To arrange them in a systematic way.\nD. 为了以系统的方式整理它们。\n二段@句\n【路径一】从题干的角度解答-——如何得出正解\n找关键词：retire PRH books to their relevant sections。回文定位：根据关键词可定位至二段图句，其与该句中的\nretiring them to their relevant sections 相对应。比对匹配：该句指出，行业杂志《书商》报道称，水石书店的分\n店经理被告知要把企鹅兰登书屋出版的书籍从桌子、展示区和橱窗等显眼区域移走，并“悄悄地将这些书放回\n相关区域”。但由此无法得知水石书店要把企鹅兰登书屋出版的书籍放回相关区域的具体原因，故需联系上文。\n辐射匹配：二段 句指出，去年年底，企鹅兰登书屋证实已经对水石书店实行了“水平十分显著的”信贷限额。\n可见，正是因为企鹅兰登书屋先对水石书店采取了商业行动，水石书店才将其出版的书籍放回相关区域，故\nC正确。\n【路径二】从选项的角度解答-—如何排除干扰\n找关键词：easily noticeable。回文定位：根据关键词可定位至二段•句，其与该句中的 prominent 相对应。\nA 比对匹配：该句提到，水石书店的分店经理被告知要把企鹅兰登书屋出版的书籍从显眼区域移走。由此\n可知，水石书店的举动会使这些书籍更不容易被顾客看到，A选项表述与此相悖，故排除。\n18\n\n### PDF p19\n\n找关键词：PRH和 requirement。回文定位：根据关键词可定位至二段•句，其中 requirement 与该句中\n的had introduced a credit limit 相对应。比对匹配：该句提到，企鹅兰登书屋证实已经对水石书店实行了“水\n平十分显著的”信贷限额，但并未提及水石书店是否遵守了企鹅兰登书屋的要求，故需联系下文。辐射\nB\n匹配：三段 句提到，目前水石书店是在企鹅兰登书屋缩短了信贷期限的情况下经营的，可见水石书店\n遵守了企鹅兰登书屋对其提出的信贷限额要求，但与水石书店将企鹅兰登书屋出版的书籍放回相关区域\n无关，故排除B。\n找关键词：arrange。回文定位：根据关键词可定位至二段•句，其与该句中的 remove 和 retiring 相对应。\n比对匹配：该句提到，水石书店的分店经理被告知要把企鹅兰登书屋出版的书籍从桌子、展示区和橱窗\nD\n等显眼区域移走，并“悄悄地将这些书放回相关区域”。文中并未提及水石书店将企鹅兰登书屋出版的\n书籍放回相关区域是为了以系统的方式整理它们，故排除D。\n33. What message does the spokesperson for\n水石书店的发言人似乎在传达什么\n选项出处\nWaterstones seem to convey？\n信息？\nA. Their customers remain loyal.\nA. 他们的顾客仍然忠实。\n三段0⑤ 句\nB. The credit limit will be removed.\nB. 信贷限额将被取消。\n二段0句\nC. Their stock is underestimated.\nC. 他们的库存被低估了。\n三段②句\nD. The book market is rather slack.\nD. 图书市场相当不景气。\n三段⑥句\n【路径一】从题干的角度解答——如何得出正解\n找关键词：the spokesperson for Waterstones。回文定位：根据关键词可定位至三段 句。比对匹配：该句提到，\n水石书店的一位发言人讲道，目前水石书店是在企鹅兰登书屋缩短了信贷期限的情况下经营的，企鹅兰登书屋\n是英国唯—一家对他们的交易能力施加限制的出版商。仅凭该句尚不能确定答案，故需联系下文。辐射匹配：\n三段 句提到，我们（水石书店）5月份的月度图书销量超过了2018年以来的任何一个月的图书销量。可见，\n水石书店的图书销量很好，证明该书店依然拥有忠实的顾客，故A正确。\n【路径二】从选项的角度解答—如何排除干扰\n找关键词：credit limit。回文定位：根据关键词可定位至二段•句。比对匹配：该句提到，企鹅兰登书\nB屋证实已经对水石书店实行了“水平十分显著的”信贷限额，并未提及信贷限额将被取消的相关信息，\n故排除B。\n找关键词：stock。回文定位：根据关键词可定位至三段•句。比对匹配：该句提到，水石书店会尽力确\nC 保对顾客的供应仍然处于良好状态，尽管总体库存水平较低。由此可知，水石书店发言人提到水石书店\n的图书库存水平较低的事实，并非在传达库存被低估，故排除C。\n找关键词：rather slack。回文定位：根据关键词可定位至三段③句，其与该句中的 The sales.. surpassed\nany month since 2018表意相反。比对匹配：该句提到，我们（水石书店）5月份的月度图书销量超过了\nD\n2018年以来的任何一个月的图书销量。由此可知，图书市场很有活力，D选项内容与原文表意相反，故\n排除。\n34. What can be one consequence of the current\n当前纷争的一个后果是什么？\n选项出处\ndispute？\nA. Sales of books by, mid-list PRH writers fall\nA. 企鹅兰登书屋书刊销量排行居中的\n四段2句\noff considerably.\n作家的书籍销量大幅下降。\nB. Lesser-known PRH writers become the target of\nB. 企鹅兰登书屋知名度较低的作家成光\n四段②句\ncriticism.\n批评的对象。\nC. Waterstones staff hesitate to promote big-name\nC.水石书店的员工不愿推销知名作家\n四段③句\nauthors’ books.\n的书籍。\nD. Waterstones branches suffer a severe reduction in\nD.水石书店的分店收人严重减少。\n三段③句\nrevenue.\n19\n\n### PDF p20\n\n【路径一】从题干的角度解答——如何得出正解\n找关键词：dispute。回文定位：根据关键词可定位至四段②句。比对匹配：该句提到，知名的企鹅兰登书屋\n作家可能会受到一些影响，但会祈祷这场纷争结束的还是那些书刊销量排行居中的作家，他们通常依赖水石书\n店员工的热情来推销知名度较低的作家的作品。由此可见，知名度较低的作家的作品销量依赖水石书店员工对\n书籍的热情推销。综上可推知，当前纷争使水石书店的员工推销知名度较低的作家书籍的热情降低，由此导致\n书刊销量排行居中的作家的书籍销量大幅下降，故A正确。\n【路径二】从选项的角度解答——如何排除干扰\n找关键词：Lesser-known PRH writers。回文定位：根据关键词可定位至四段③句，其与该句中的 lesser-\nknown writers 相对应。比对匹配：该句提到，书刊销量排行居中的作家通常依赖水石书店员工的热情来\nB\n推销知名度较低的作家的作品，并未提及企鹅兰登书屋知名度较低的作家成为批评对象的相关信息，故\n排除 B。\n找关键词：Waterstones staff、promote 和 big-name authors。回文定位：根据关键词可定位至四段@句，\n其中 big-name authors 与该句中的Big-name PRH authors 相对应。比对匹配：该句提到，知名的企鹅兰登\nC 书屋作家可能会受到一些影响，但会祈祷这场纷争结束的还是那些书刊销量排行居中的作家，他们通常\n依赖水石书店员工的热情来推销知名度较低的作家的作品。可见，文中仅简单指出知名作家可能会受影\n响，并未提及水石书店的员工是否愿意推销知名作家的书籍，故排除C。\n找关键词：a severe reduction in revenue。回文定位：根据关键词可定位至三段⑤句，其与该句中的The\nsales..surpassed any month since 2018表意相反。比对匹配：该句提到，我们（水石书店）5月份的月度\nD\n图书销量超过了2018年以来的任何一个月的图书销量。可见，水石书店的收入并未严重减少，且该句\n只是提到水石书店的图书销量情况，并未提及水石书店的分店收人的相关信息，故排除D。\n35. Which of the following statements best represents\n下列哪一项最能代表劳尼的观点？\nLownie's view ？\n选项出处\nA. Small publishers ought to stick together.\nA. 小型出版商应该团结一致。\n六段④句\nB. Big publishers will lose their dominance.\nB.大型出版商将失去主导权。\n五段\nC. The publishing industry is having a hard time.\nC. 出版业正步履维艰。\n六段③句\nD. The merger of publishers is a worrying trend.\nD. 出版商的合并是一个令人担忧的趋势。\n五段\n六段 0③句\n亡浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。\n从选项的角度解答——如何得出正解，排除干扰\n找关键词：Small publishers。回文定位：根据关键词可定位至六段①句。比对匹配：该句提到，近年来\nA\n许多最有趣的书都来自小型出版商，并未提及小型出版商应该团结一致的相关信息，故排除A。\n找关键词：Big publishers。回文定位：根据关键词可定位至五段。比对匹配：五段提到，作家们已经在\nB 担心企鹅兰登书屋和另一家大型出版商西蒙与舒斯特拟议合并的后果。文中仅指出企鹅兰登书屋与大型\n出版商西蒙与舒斯特拟议合并，并未提及大型出版商是否会失去主导权的相关信息，故排除B。\n找关键词：The publishing industry。回文定位：根据关键词可定位至六段句。比对匹配：该句提到，\nC\n出版业从作家和员工的角度谈论多样性，但它也需要多种方式来传递知识联系、选择和不同的声音。文\n中仅指明出版业需要采取的行动，并未体现出版业正步履维艰的相关信息，故排除C。\n找关键词：merger。回文定位：根据关键词可定位至五段。比对匹配：五段提到，作家们已经在担心企\n鹅兰登书屋和另一家大型出版商西蒙与舒斯特拟议合并的后果—未联盟的英国出版商数量下降很可能\n导致更少的竞购战、更低的预付款以及更一致的出版内容。该段提到的是作家们的观点，无法确定该观\nD\n点是否也是劳尼的观点。由此尚无法得出正确答案，故需联系下文。辐射匹配：六段•句提到，劳尼表\n示这都是向着权力集中和企业联盟发生的更广泛变化的一部分。其中，“这”指的是企鹅兰登书屋和另\n一家大型出版商西蒙与舒斯特拟议合并。六段③句提到，劳尼表示出版业也需要多种方式来传递知识联\n20\n\n### PDF p21\n\n系、选择和不同的声音。可见，出版商的合并不能多样化地传递知识联系、选择和不同的声音，因而是\n一个令人担忧的趋势，D选项内容是对劳尼观点的概括，故正确。\nText 4\n◎命题分析\n配套外敉音频\nText 4选自2020年12月1日的 The Scientist （《科学家》），原文标题是 “Citations Are the Currency of Science”\n（《引用是科学的货币》）。文章主要围绕科学论文引用乱象以及如何遏制该现象所展开。\n题目设置：36题至 40题均为细节理解题。\n◎ 英汉对照\n［1］@Scientific papers are the recordkeepers of progress in\n科学论文是研究进展的记录者。每年，研\nresearch. @Each year researchers publish millions of papers in\n究人员在3万多种期刊上发表数百万篇论文。\nmore than 30,000 jourals. ③The scientific community measures\n科学界通过多种方式来衡量那些论文的质量，\nthe quality of those papers in a number of ways, including the\n包括期刊的感知质量（由标题的影响因子反映）\nperceived quality of the journal （as reflected by the title's impact\n和特定论文的累计被引用次数。（36）科学家\nfactor） and the number of citations a specific paper accumulates.\n@The careers of scientists and the reputation of their institutions\n的职业生涯和他们所在机构的声誉取决于他们\ndepend on the number and prestige of the papers they produce，\n所发表的论文的数量和声望，但更多的是取决\nbut even more so on the citations attracted by these papers.\n于这些论文所吸引的引用次数。\n［2］①Citation cartels, where journals, authors, and\n引用卡特尔，即期刊、作者和机构合谋夸\ninstitutions conspire to inflate citation numbers, have existed\n大被引用次数的组织，存在已久。2016年，\nfor a long time. @In 2016, researchers developed an algorithm\n研究人员开发了一种算法来识别可疑的引用模\nto recognize suspicious citation patterns, including groups of\n式，包括成群的很大比例上相互引用的作者，\nauthors that disproportionately cite one another and groups of\n以及大量的频繁相互引用以增加其出版物影响\njournals that cite each other frequently to increase the impact\nfactors of their publications. @Recently, another expression\n因子的期刊。最近，这种掠夺性行为的另一种\nof this predatory behavior has emerged: so-called support\n表现形式已经出现了：（37）所谓的支持服务\nservice consultancies that provide language and other editorial\n咨询公司为独立作者和期刊提供语言和其他编\nsupport to individual authors and to journals sometimes advise\n挥支持，有时会建议投稿者在他们的文章中添\ncontributors to add a number of citations to their articles.\n加一些引文。\n［3］@The advent of electronic publishing and authors' need to\n电子出版的问世和作者为他们的论文寻找\nfind outlets for their papers resulted in thousands of new journals.\n出路的需求导致了数以千计的新期刊的出现。\n@The birth of predatory journals wasn't far behind. @These\njournals can act as milk cows. where every single article in\n掠夺性期刊的诞生紧随其后。（38）这些期刊\nan issue may cite a specific paper or a series of papers. @In\n就像奶牛一样，每期期刊上的每一篇文章都可\nsome instances, there is absolutely no relationship between the\n能引用一篇特定论文或一系列论文。在某些情\ncontent of the article and the citations. SThe peculiar part is\n况下，文章的内容和引文之间完全没有关系。\nthat the journal that the editor is supposedly working for is not\n（38）奇怪的是，据称编辑为之工作的期刊根\nprofiting at all—it is just providing citations to other journals.\n本没有盈利——它只是向其他期刊提供引文。\n©Such practices can lead an article to accrue more than 150\n这样的做法可能会导致一篇文章在发表的同一\ncitations in the same year that it was published\n年内被引用超过150次。\n［4］@How insidious is this type of citation manipulation？\n②In one example, an individual-acting as author, editor，\n这种类型的引用操纵有多狡猾？举一个例\nand consultant—was able to use at least 15 journals as\n子，一个人——作为作者、编辑和顾问—能\ncitation providers to articles published by five scientists at\n够使用至少15种期刊为三所大学的五名科学\n⑦1",
+  "extraction_status": "preprocessed_complete",
+  "quality": {
+    "answer_count": 5,
+    "question_analysis_count": 5,
+    "nonempty_question_analysis_count": 5,
+    "source_page_count": 5,
+    "full_source_analysis_characters": 12024,
+    "minimum_anchor_score": 1.1113,
+    "vision_ocr_dpi": 150,
+    "source_verified_answers": true
+  }
+}

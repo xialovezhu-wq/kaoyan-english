@@ -1,0 +1,446 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P047",
+  "year": 2019,
+  "pdf_page": 47,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 1,
+      "height": 0.020440029507354796,
+      "text": "必要性，而非列举相关案例；另外，本文第五至七段分析的是新裁定的影响，而非其他案件的影响。",
+      "width": 0.8314993889455374,
+      "x": 0.03405305659164545,
+      "y": 0.9170711445968133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018888260892348296,
+      "text": "［技巧总结］本题与2018年Text1最后一题相似，同样考查全篇论证结构，考生需站在全文高度",
+      "width": 0.8442038977214792,
+      "x": 0.07255681376994197,
+      "y": 0.8983532416676238
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "抓取文章主线，切忌囿于个别段内容。具体来看，题干中的 the Supreme Court decision Thursday 提示",
+      "width": 0.882478622465811,
+      "x": 0.03418804801923112,
+      "y": 0.8807040415332685
+    },
+    {
+      "confidence": 1,
+      "height": 0.017631363526783295,
+      "text": "它是全文关注核心，答案应体现文章如何围绕它展开论述。根据第二至四段的事实细节及第五至七",
+      "width": 0.8803418648220069,
+      "x": 0.03632479533116182,
+      "y": 0.8604651162493844
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "段的事件影响及各方反应可确定［A］为答案。同时结合排除法确保答案正确：文中并不涉及本次裁定",
+      "width": 0.882478622465811,
+      "x": 0.03418804801923112,
+      "y": 0.8415697674133293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017762120730563047,
+      "text": "的形成过程（大法官内部争论），排除［B］；并无针对裁定结果本身的观点交锋，排除［C］；并无案件引",
+      "width": 0.8803418648220069,
+      "x": 0.03418804865737242,
+      "y": 0.8212209301738029
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629915697478257,
+      "text": "述，排除［D］。",
+      "width": 0.11752136289043758,
+      "x": 0.03418803748284386,
+      "y": 0.8037790696783487
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.020860495436766602,
+      "text": "Part B 如何赢得每一场争论",
+      "width": 0.35897434695897323,
+      "x": 0.22649572951196642,
+      "y": 0.7555410688253056
+    },
+    {
+      "confidence": 1,
+      "height": 0.011794669687203996,
+      "text": "朗读",
+      "width": 0.02991453013356038,
+      "x": 0.8632478631810832,
+      "y": 0.7209302325442972
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.023509747978916695,
+      "text": "—、文章总体分析",
+      "width": 0.1875297341374198,
+      "x": 0.0710172764576984,
+      "y": 0.6831395346880775
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837229543426,
+      "text": "本文节选自杂志 Time《时代》2018.07.02一篇题为 How to Win Every Argument（如何赢得每一场",
+      "width": 0.8418803443835473,
+      "x": 0.07478631311805571,
+      "y": 0.6569767442846957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744186023378924,
+      "text": "争论）的文章。主旨：剖析“争论（argument）”的本质，并提出正确的争论方式。脉络：典型的“驳论——立",
+      "width": 0.8803418648220069,
+      "x": 0.034188047450107506,
+      "y": 0.6366279071650821
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "论”结构：先批驳以卡耐基为代表的错误争论观“争论就像争斗或比赛，结果往往是两败俱伤，因此应竭",
+      "width": 0.8803418648220069,
+      "x": 0.034188047450107506,
+      "y": 0.6177325581200881
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "力避免”，后提出正确的争论观“争论需要理性的交流与客观的评判，需要双方的相互理解与尊重，争论",
+      "width": 0.882478622465811,
+      "x": 0.03418804801923112,
+      "y": 0.5988372092737945
+    },
+    {
+      "confidence": 1,
+      "height": 0.017703374641348857,
+      "text": "的过程是思想碰撞、启发思维、相互学习的过程”",
+      "width": 0.41025641326025675,
+      "x": 0.0341880358912391,
+      "y": 0.578226857946476
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.024936705866568598,
+      "text": "学二、语篇分析、：K00.8019",
+      "width": 0.2628205165753209,
+      "x": 0.03632478632467162,
+      "y": 0.54628422377729
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01325005316205885,
+      "text": "［A］ ①These tools can help you win every argument",
+      "width": 0.4423076900548074,
+      "x": 0.0747863295986646,
+      "y": 0.523255814100798
+    },
+    {
+      "confidence": 1,
+      "height": 0.014650480377316644,
+      "text": "这些方法能助你赢得任何争论",
+      "width": 0.2713675178630339,
+      "x": 0.5790598324680556,
+      "y": 0.5159883725177639
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013346699412518759,
+      "text": "一不",
+      "width": 0.02777777798116321,
+      "x": 0.8824786320297174,
+      "y": 0.5159883720889278
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014544358309431238,
+      "text": "- not in the unhelpful sense of beating\"",
+      "width": 0.3440170727398483,
+      "x": 0.03632480099652878,
+      "y": 0.5043604656015817
+    },
+    {
+      "confidence": 1,
+      "height": 0.010174418055249657,
+      "text": "your opponents",
+      "width": 0.13247862246581094,
+      "x": 0.38461539125997196,
+      "y": 0.5043604655605535
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "是从打败对手这种毫无助益的意义上获胜，",
+      "width": 0.373931621178098,
+      "x": 0.5384615444590278,
+      "y": 0.4954367666873062
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011927321805792368,
+      "text": "but in the better sense of learning about the issues that",
+      "width": 0.4829059681370712,
+      "x": 0.03418804640154985,
+      "y": 0.4854651162070879
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095175953,
+      "text": "而是从更好的意义上获胜：了解使人们产生",
+      "width": 0.3696581058904901,
+      "x": 0.5405983001225205,
+      "y": 0.47653194291910517
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013689700130378069,
+      "text": "divide people,learning why they disagree with us and",
+      "width": 0.4829059681370712,
+      "x": 0.03418804640154985,
+      "y": 0.4647979136762942
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "分歧的问题，认识到他们为何与我们观点相",
+      "width": 0.37179486353429403,
+      "x": 0.538461545690118,
+      "y": 0.45762711887577956
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013361859352678862,
+      "text": "learning to talk and work together with them.",
+      "width": 0.4038461403288448,
+      "x": 0.03418804126720151,
+      "y": 0.44622093053732903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013361859352678751,
+      "text": "② If we",
+      "width": 0.07051281919863767,
+      "x": 0.44658119672190616,
+      "y": 0.44622093042831745
+    },
+    {
+      "confidence": 1,
+      "height": 0.016297262059973838,
+      "text": "左，学会与其交谈并与其合作。如果我们重",
+      "width": 0.3696581058904901,
+      "x": 0.5405983005625896,
+      "y": 0.43741851367328155
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013352384778635762,
+      "text": "readjust our view of arguments — from a verbal fight or",
+      "width": 0.4829059681370712,
+      "x": 0.03418804640154985,
+      "y": 0.4273255815257011
+    },
+    {
+      "confidence": 1,
+      "height": 0.014993481095176064,
+      "text": "新调整自己的争论观——从“一场口舌之战",
+      "width": 0.37179486353429403,
+      "x": 0.5384615388738787,
+      "y": 0.41981747065000863
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014993481095175953,
+      "text": "tennis game to a reasoned® exchange through which we all",
+      "width": 0.4829059681370712,
+      "x": 0.03418804082462681,
+      "y": 0.4067796610974297
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "或一场网球比赛”转变为“一场我们都能从",
+      "width": 0.3717948635342939,
+      "x": 0.538461545247505,
+      "y": 0.3996088655745178
+    },
+    {
+      "confidence": 1,
+      "height": 0.013287953944995823,
+      "text": "gain mutual respect",
+      "width": 0.1730769151918261,
+      "x": 0.03418803837987041,
+      "y": 0.3878748368839543
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013287953323304569,
+      "text": "and understanding—then we change",
+      "width": 0.3119657959452975,
+      "x": 0.2051282079390323,
+      "y": 0.3878748371664982
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629726205997395,
+      "text": "中获得相互尊重与理解的理性交流”—一那",
+      "width": 0.3696581058904901,
+      "x": 0.540598299387376,
+      "y": 0.3807040416229003
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015306078626093012,
+      "text": "the very nature®",
+      "width": 0.13692569549619124,
+      "x": 0.034101256260480745,
+      "y": 0.36880044923258726
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011627905993604637,
+      "text": "'of what it means to “win\"",
+      "width": 0.23076922513701867,
+      "x": 0.16880342546567859,
+      "y": 0.37063953547219
+    },
+    {
+      "confidence": 1,
+      "height": 0.010430248029228872,
+      "text": "an argument.",
+      "width": 0.11752136289043758,
+      "x": 0.39743589779267297,
+      "y": 0.36897001279671593
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372295434372,
+      "text": "么我们就会改变“赢得”争论的本质内涵。",
+      "width": 0.3504273456712602,
+      "x": 0.5405982964806092,
+      "y": 0.3604651161633293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019192867826140936,
+      "text": "词汇注释与难句分析。",
+      "width": 0.22649572449316224,
+      "x": 0.35470085666367535,
+      "y": 0.3063885270327025
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0203488373538816,
+      "text": "淡",
+      "width": 0.03205128045548866,
+      "x": 0.576923077699606,
+      "y": 0.3066860466428266
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095175953,
+      "text": "①beat ［bi:t］v. 打败",
+      "width": 0.16025641326025675,
+      "x": 0.03418803201837593,
+      "y": 0.2803129076999853
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014993481095176064,
+      "text": "$• 经典搭配",
+      "width": 0.1388888807534714,
+      "x": 0.46794872317383407,
+      "y": 0.2803129075909735
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013301218970347306,
+      "text": "②reasoned ［'riznd］ a. 理智的",
+      "width": 0.23076922513701859,
+      "x": 0.03632479263092074,
+      "y": 0.2614080834865099
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.013117401043470367,
+      "text": "in the sense of（从•",
+      "width": 0.1602564132602567,
+      "x": 0.48504273554401683,
+      "y": 0.2587209304101489
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013151511375098957,
+      "text": "•意义上来说）",
+      "width": 0.11111111192465284,
+      "x": 0.6623931608752804,
+      "y": 0.26010430238989757
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011734028683181297,
+      "text": "③nature ［' nertjo］ n. 本质",
+      "width": 0.19658119069866392,
+      "x": 0.03632478762787606,
+      "y": 0.24119947879084602
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011627905993604637,
+      "text": "S",
+      "width": 0.01068376076198585,
+      "x": 0.47008546993951983,
+      "y": 0.2427325588249032
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883113696995,
+      "text": "If we readjust our view of arguments — from a verbal fight or tennis game to a reasoned exchange",
+      "width": 0.8461538596711553,
+      "x": 0.07264955883963624,
+      "y": 0.20203488397609726
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01629915697478257,
+      "text": "through which we all gain mutual respect, and understanding— then we change the very nature of what it",
+      "width": 0.8888888953972229,
+      "x": 0.03205128768600374,
+      "y": 0.1799217734316556
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01629726205997395,
+      "text": "means to “ win\" an argument.",
+      "width": 0.24358974171233955,
+      "x": 0.032051285425881475,
+      "y": 0.15840938716519182
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629726205997395,
+      "text": "47",
+      "width": 0.02777777798116321,
+      "x": 0.8760683761402944,
+      "y": 0.06388526706769782
+    }
+  ],
+  "vision_ocr_text": "必要性，而非列举相关案例；另外，本文第五至七段分析的是新裁定的影响，而非其他案件的影响。\n［技巧总结］本题与2018年Text1最后一题相似，同样考查全篇论证结构，考生需站在全文高度\n抓取文章主线，切忌囿于个别段内容。具体来看，题干中的 the Supreme Court decision Thursday 提示\n它是全文关注核心，答案应体现文章如何围绕它展开论述。根据第二至四段的事实细节及第五至七\n段的事件影响及各方反应可确定［A］为答案。同时结合排除法确保答案正确：文中并不涉及本次裁定\n的形成过程（大法官内部争论），排除［B］；并无针对裁定结果本身的观点交锋，排除［C］；并无案件引\n述，排除［D］。\nPart B 如何赢得每一场争论\n朗读\n—、文章总体分析\n本文节选自杂志 Time《时代》2018.07.02一篇题为 How to Win Every Argument（如何赢得每一场\n争论）的文章。主旨：剖析“争论（argument）”的本质，并提出正确的争论方式。脉络：典型的“驳论——立\n论”结构：先批驳以卡耐基为代表的错误争论观“争论就像争斗或比赛，结果往往是两败俱伤，因此应竭\n力避免”，后提出正确的争论观“争论需要理性的交流与客观的评判，需要双方的相互理解与尊重，争论\n的过程是思想碰撞、启发思维、相互学习的过程”\n学二、语篇分析、：K00.8019\n［A］ ①These tools can help you win every argument\n这些方法能助你赢得任何争论\n一不\n- not in the unhelpful sense of beating\"\nyour opponents\n是从打败对手这种毫无助益的意义上获胜，\nbut in the better sense of learning about the issues that\n而是从更好的意义上获胜：了解使人们产生\ndivide people,learning why they disagree with us and\n分歧的问题，认识到他们为何与我们观点相\nlearning to talk and work together with them.\n② If we\n左，学会与其交谈并与其合作。如果我们重\nreadjust our view of arguments — from a verbal fight or\n新调整自己的争论观——从“一场口舌之战\ntennis game to a reasoned® exchange through which we all\n或一场网球比赛”转变为“一场我们都能从\ngain mutual respect\nand understanding—then we change\n中获得相互尊重与理解的理性交流”—一那\nthe very nature®\n'of what it means to “win\"\nan argument.\n么我们就会改变“赢得”争论的本质内涵。\n词汇注释与难句分析。\n淡\n①beat ［bi:t］v. 打败\n$• 经典搭配\n②reasoned ［'riznd］ a. 理智的\nin the sense of（从•\n•意义上来说）\n③nature ［' nertjo］ n. 本质\nS\nIf we readjust our view of arguments — from a verbal fight or tennis game to a reasoned exchange\nthrough which we all gain mutual respect, and understanding— then we change the very nature of what it\nmeans to “ win\" an argument.\n47",
+  "pdf_text_layer": "必 要性， 而 非 列 举 相 关案 例； 另 外 ，本文第五至 七 段 分析的 是新裁定 的 影 响，而非 其 他 案 件的 影 响 。\n     ［ 技 巧 总结 ］ 本题与 20 1 8 年 T ext l 最后一题 相似，同 样考查全篇 论 证结 构 ，考生需站在全 文 高度\n抓 取文章主线， 切 忌圄于 个别 段 内 容 。 具 体 来看，题干 中的 t he S upreme Court decis ion Th ursd ay 提 示\n它 是全文关注核 心 ，答案应 体现 文章 如何 围绕它展开 论述 。 根 据第二至 四段的 事实 细 节及第 五 至 七\n段 的 事 件 影 响 及各方反应 可确 定［ A］为答案。 同时 结合 排除 法确 保 答案正确 ： 文 中 并 不 涉及 本 次 裁 定\n的 形成 过 程（大法官 内 部争论〉， 排 除［ BJ ； 并无针 对 裁定结果本身 的观 点交锋， 排除 ［ CJ ； 并 无 案 件引\n述 ， 排 除 ［ DJ o\n\n                                                                                                                 回滔届四田\n\n                          Part B        如何赢得每 一 场争论\n                                                                                                                 ，...~画酌Y\"li画E\n\n                                                                                                                 回事瞌耻现\n                                                                                                                 原文外教朗读\n\n\n\n等 ＝~主窒息垫分折\n     本文节选自杂志 Time 《 时代 》 20 1 8.07.02 一篇题为 H ow to Win E ve r y A rg um e nt （ 如何 赢得每一 场\n争 论 ）的文章 。 主旨： 剖 析 “争论（ a rg um e nt ）” 的 本质，并提 出 正 确的 争 论 方式。 脉络：典 型 的 “ 驳论一一立\n论”结 构 ：先 批 驳 以 卡耐基为 代 表 的 错误争论 观 “争论就像争斗或 比 赛 ， 结果往往是 两败 俱 伤 ，因 此 应竭\n力避免” ， 后提出正确 的 争论现“争论需要理性 的 交 流 与客 观的 评 判 ，需要双方 的相 互 理 解与尊重， 争论\n的过 程是 思 想碰撞、启发思维、 相 互学习 的过 程”。\n\n\n等 三」嚣篇分割                 vx：KZRZ2019\n\n\n     [A] OThese tools can help yo u win ever y arg um ent                              这些方法能助你 赢 得任何争论                           不\n-   not in t he unhelpful sense of beating( yo ur oppon n s\n                                                                                  是从打败对手这种 毫 无助益的 意 义上获胜，\nbut in t he better sense of learning abo ut the iss ues that                      而 是从更好的 意 义上获胜：了解使人们产生\ndi vid e peo ple, learning why t hey di sagree w ith us and                       分歧的问题，认识到他们为何与我们观点相\nlea rning to ta lk and work toge ther with them. f) If we                         左， 学 会与其交谈并与其合作 。 如采我们重\nreadjus t our view of arg um ents -    fr om a verba l fi g ht or                 新调 整 自己的争论观一一从 “ 一场口舌之战\ntenni s gam e to a reasoned( excha nge through whi ch we all                      或一场网球比 赛 ”转 变 为“一场我们都能从\nga in mutual re~pect and und ersta ndi ng         t hen we cha nge                中获 得 相互尊 重 与理解的理性交流”一一 那\nth e ve r y nature\"' of what it mea ns to “ w in ” an arg ument.                  么我们就会改变 “赢 得” 争论的本质内涵 。\n\n\n\n                                                                             分…\n                                                                                        J\n                                                                    难…\n                                             词－\n                                                          释 …\n                                                            －\n                                                                与\n                                                                －        旬        析\n                                                                                  …\n                                                   广」 …\n                                                                         －\n\n\n\n\n                                                          注                  －\n                                                                             -\n                                              φ                 u        ，        …\n\n                                                                    qpqy         配 JI\n( beat [bi:t] v . 打 败                                                            搭 m\n                                                                                            从      意   上   说\n( reasoned [ 1ri:znd ］ α 理智 的                                       ”bdb m       血（ MA                 义   来\n                                                                                 经 lm\n( nature [' ne时a］ η．本质                                              ,,\n\n     If we readjust our view of arguments -               from a verbal fight or tennis game to a reasoned exchange\nthrough which we all gain mutua l respect , and understanding -                       then we change the very nature of what it\nmeans to “ win ” an a rgument.\n\n\n\n\n                                                                                                                            47",
+  "quality": {
+    "vision_line_count": 53,
+    "vision_character_count": 1609,
+    "pdf_text_character_count": 4389,
+    "nonempty": true
+  }
+}

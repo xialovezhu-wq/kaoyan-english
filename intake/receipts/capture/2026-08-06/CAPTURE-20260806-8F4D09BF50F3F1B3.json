@@ -1,0 +1,19 @@
+{
+  "schema_version": "english_capture_receipt_v1",
+  "receipt_id": "CAPTURE-20260806-8F4D09BF50F3F1B3",
+  "capture_id": "EVT-20260806-8F4D09BF50F3F1B3",
+  "status": "created",
+  "event_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/events/2026-08-06/EVT-20260806-8F4D09BF50F3F1B3.json",
+  "event_sha256": "9c295e02a942eb35a59dbb11b3eb30e24f889b1aef44c77f334a1471c96d01cc",
+  "request_sha256": "c9b8a8f535aa7262d6fee89f40ced18b1a4dc6efae081e7616e334f4b4fee912",
+  "formal_write_count": 0,
+  "formal_writeback": "none",
+  "supersedes_event_id": null,
+  "receipt_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/receipts/capture/2026-08-06/CAPTURE-20260806-8F4D09BF50F3F1B3.json",
+  "original_status": "created",
+  "replayed": false,
+  "projection_status": "rendered",
+  "view_path": "/Users/xiazhibin/Documents/kaoyan-english/intake/views/2026-08-06/RAW-ARTICLE-20260710-001-quick-capture.md",
+  "view_sha256": "b2dd4b9d55570babe4087e0f54b2a5ae77f9f6566fbf6c55ccdc6b79545ef253",
+  "projection_error": null
+}

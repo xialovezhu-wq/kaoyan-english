@@ -1,0 +1,702 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2023-P017",
+  "year": 2023,
+  "pdf_page": 17,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2023年考研英语一真题解析.pdf",
+  "source_sha256": "cd6c4cfcb5cc1a4e66f651926a1063b83dbf6e26161fafe3e8e71f6438019568",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974557,
+      "text": "week by Penguin Random House （PRH）， a company currently",
+      "width": 0.5010706533299815,
+      "x": 0.04282656605449509,
+      "y": 0.9447674423945709
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01623809865657111,
+      "text": "书屋（PRH）出版，该公司目前与水石书店陷",
+      "width": 0.36616700427366955,
+      "x": 0.5631691740765843,
+      "y": 0.9416107382111064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "involved in a stand-off with Waterstones.",
+      "width": 0.3190578045231281,
+      "x": 0.04068523448897118,
+      "y": 0.9241610739859534
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01909044828990969,
+      "text": "二了優局。",
+      "width": 0.09635974393032565,
+      "x": 0.561027835850683,
+      "y": 0.9171511627024383
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "［2｝③The problem began late last year, when PRH confirmed",
+      "width": 0.4753747316870358,
+      "x": 0.06852247950980125,
+      "y": 0.9011627906544197
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01625760865691528,
+      "text": "（32）这个问题始于去年年底，当时企鹅",
+      "width": 0.33832974575533725,
+      "x": 0.591006435002417,
+      "y": 0.8979865770213243
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01719895945299399,
+      "text": "that it had introduced a credit limit with Waterstones \"at a very",
+      "width": 0.5013295088664139,
+      "x": 0.040590989877295446,
+      "y": 0.8807503204976919
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107382550335614,
+      "text": "兰登书屋证实已经对水石书店实行了“水平十",
+      "width": 0.36616700427366955,
+      "x": 0.5631691775383971,
+      "y": 0.8778523492024044
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016156156911145914,
+      "text": "eignificant level'. @The trade magazine The Boohseller reported",
+      "width": 0.5096359404006807,
+      "x": 0.034261255870323526,
+      "y": 0.8590116283152197
+    },
+    {
+      "confidence": 1,
+      "height": 0.02224676145003146,
+      "text": "分显著的”信贷限额。行业杂志《书商》报道称，",
+      "width": 0.36898123863900056,
+      "x": 0.5628651158527671,
+      "y": 0.852191141734326
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021638330037161868,
+      "text": "that Waterstones branch managers were being told to remove",
+      "width": 0.5059344301129332,
+      "x": 0.03821472010982826,
+      "y": 0.8357575112244395
+    },
+    {
+      "confidence": 1,
+      "height": 0.01342281879194629,
+      "text": "水石书店的分店经理被告知要把企鹅兰登书屋",
+      "width": 0.36616700427366955,
+      "x": 0.5631691790997819,
+      "y": 0.8355704695024939
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "PRH books from prominent areas such as tables, display spaces",
+      "width": 0.5010706533299814,
+      "x": 0.04282656476969847,
+      "y": 0.8167785237835405
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837167624656,
+      "text": "出版的书籍从桌子、展示区和橱窗等显眼区城",
+      "width": 0.36616700427366966,
+      "x": 0.563169174112273,
+      "y": 0.8125000000751519
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01624004952859559,
+      "text": "and windows, and were \"quietly retiring them to their relevant",
+      "width": 0.5074946337407178,
+      "x": 0.03640258113820637,
+      "y": 0.7965116281589697
+    },
+    {
+      "confidence": 1,
+      "height": 0.018895348926518563,
+      "text": "移走，并“悄悄地将这些书放回相关区域”。",
+      "width": 0.3597430238629332,
+      "x": 0.5631691776295612,
+      "y": 0.7892441857656651
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0133927838114285,
+      "text": "'sections\".",
+      "width": 0.08400901567817914,
+      "x": 0.036153951448409626,
+      "y": 0.7767338406745572
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01776962664303361,
+      "text": "（33）企鵝兰登书屋拒绝就此事发表评论，",
+      "width": 0.340471082630724,
+      "x": 0.5910064329619398,
+      "y": 0.7671140938489699
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "［3］OPRH declined to comment on the issue, but a",
+      "width": 0.4710920579362624,
+      "x": 0.0728051547577787,
+      "y": 0.7529069765168228
+    },
+    {
+      "confidence": 1,
+      "height": 0.016212735400103817,
+      "text": "但是水石书店的一位发言人告诉我：“目前水",
+      "width": 0.3683083411490563,
+      "x": 0.5610278443291121,
+      "y": 0.7483221479525544
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "spokesperson for Waterstones told me： “Waterstones are",
+      "width": 0.5010706533299814,
+      "x": 0.04282656271402416,
+      "y": 0.7325581396079082
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01620883429610498,
+      "text": "石书店是在企鹅兰登书屋缩短了信贷期限的情",
+      "width": 0.36616700427366955,
+      "x": 0.5631691711179833,
+      "y": 0.7267441860950162
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "currently operating with reduced credit terms from PRH, the",
+      "width": 0.5010706533299814,
+      "x": 0.04282656271402416,
+      "y": 0.7107382548981931
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017574527279642593,
+      "text": "况下经营的，企鹅兰登书屋是英團唯——家对",
+      "width": 0.36616700427366955,
+      "x": 0.5631691771381728,
+      "y": 0.7033557049804258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974668,
+      "text": "only publisher in the UK to place any limitations on our ability",
+      "width": 0.5010706533299815,
+      "x": 0.042826563966700815,
+      "y": 0.6904069772601231
+    },
+    {
+      "confidence": 1,
+      "height": 0.016189323655710908,
+      "text": "我们的交易能力施加限制的出版商。我们没有",
+      "width": 0.36616700427366955,
+      "x": 0.5631691771381728,
+      "y": 0.6831395351855478
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107382550335503,
+      "text": "to trade. @We are not boycotting PRH titles but we are doing",
+      "width": 0.5032119902053683,
+      "x": 0.04068522904843246,
+      "y": 0.6671140939223326
+    },
+    {
+      "confidence": 1,
+      "height": 0.016251755400792156,
+      "text": "抵制企鹅兰登书屋出版的书籍，而是在尽力确",
+      "width": 0.3683083411490563,
+      "x": 0.5610278436010607,
+      "y": 0.6610738256262847
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "our utmost to ensure that availability for customers remains good",
+      "width": 0.5053532968653311,
+      "x": 0.03854390199560019,
+      "y": 0.6468023255236058
+    },
+    {
+      "confidence": 1,
+      "height": 0.017512095534561567,
+      "text": "保对顾客的供应仍然处于良好状态，尽管总体",
+      "width": 0.36616700427366955,
+      "x": 0.563169177156527,
+      "y": 0.6395348842972406
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014813875031951307,
+      "text": "despite the lower overall levels of stock. ⑧We are hopeful with",
+      "width": 0.5010706533299814,
+      "x": 0.042826552349998735,
+      "y": 0.6261744968645011
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017724753386222147,
+      "text": "库存水平較低。现在我们的书店已经靈新开张",
+      "width": 0.36616700427366955,
+      "x": 0.563169172943465,
+      "y": 0.6174496645985139
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "our shops now open again that normality will retur and that we",
+      "width": 0.5010706533299814,
+      "x": 0.04282656271402416,
+      "y": 0.606040268439741
+    },
+    {
+      "confidence": 1,
+      "height": 0.0174925861742673,
+      "text": "了，我们希望可以恢复正常，并且我们可以获",
+      "width": 0.36616700427366955,
+      "x": 0.5631691756736578,
+      "y": 0.5959302327420081
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "will be allowed to buy appropriately. @Certainly, our shops are",
+      "width": 0.5032119902053681,
+      "x": 0.04068522042194129,
+      "y": 0.5843023255090709
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837167624667,
+      "text": "准适当地购买书籍。当然，我们的书店特别忙。",
+      "width": 0.3683083411490563,
+      "x": 0.5631691729658002,
+      "y": 0.5755813955935627
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016107382550335503,
+      "text": "exceptionally busy. ©The sales for our May Books of the Month",
+      "width": 0.5032119902053682,
+      "x": 0.04068522938875058,
+      "y": 0.5624161071507434
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "（33） 我们5月份的月度图书销量超过了2018",
+      "width": 0.3725910148998298,
+      "x": 0.5588865085029758,
+      "y": 0.5550335571196543
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.018360445163393968,
+      "text": "surpassed any month since 2018.”",
+      "width": 0.26847966260249073,
+      "x": 0.042448339679002724,
+      "y": 0.5416214434705391
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017687684897608413,
+      "text": "年以来的任何一个月的图书銷量。”",
+      "width": 0.2847965655940594,
+      "x": 0.5631691714856255,
+      "y": 0.5319767444135196
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "［4］©In the meantime, PRH authors have been the losers.",
+      "width": 0.47323339481164917,
+      "x": 0.07280515202315443,
+      "y": 0.521476509957375
+    },
+    {
+      "confidence": 1,
+      "height": 0.017549164663225203,
+      "text": "在此期间，企鹅兰登书屋的作家沦为这场",
+      "width": 0.3340471022199877,
+      "x": 0.5952890787079934,
+      "y": 0.5100671142226737
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01756087053542177,
+      "text": "©Big-name PRH authors may suffer a bit, but it's those mid-",
+      "width": 0.505353296865331,
+      "x": 0.04068524225255916,
+      "y": 0.49854651210247314
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "冲突中的受害者。（34）知名的企鹅兰登书屋",
+      "width": 0.36616700427366955,
+      "x": 0.5631691771381728,
+      "y": 0.48982558149329025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "list authors, who normally rely on Waterstones staff's passion for",
+      "width": 0.5032119599899444,
+      "x": 0.042826576571765584,
+      "y": 0.4796511628540322
+    },
+    {
+      "confidence": 1,
+      "height": 0.016226392784374655,
+      "text": "作家可能会受到一些影响，但会祈祷这场纷争",
+      "width": 0.3683083411490563,
+      "x": 0.5631691735796474,
+      "y": 0.4677852349868882
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "promoting books by lesser-known writers, who will be praying",
+      "width": 0.5010706533299815,
+      "x": 0.04282656128239378,
+      "y": 0.45906040260251013
+    },
+    {
+      "confidence": 1,
+      "height": 0.01619517691183403,
+      "text": "结束的还是那些书刊销量排行居中的作家，他",
+      "width": 0.36616700427366955,
+      "x": 0.5631691776704456,
+      "y": 0.4462209302810628
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0166814592860689,
+      "text": "for an end to the dispute.",
+      "width": 0.19571333781327352,
+      "x": 0.042356118436389645,
+      "y": 0.43678592894989665
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883691160405,
+      "text": "们通常依赖水石书店员工的热情来推销知名度",
+      "width": 0.36616700427366955,
+      "x": 0.563169176811238,
+      "y": 0.4258720931108152
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974668,
+      "text": "［5］③It comes at a time when authors are already worried",
+      "width": 0.4710920579362624,
+      "x": 0.0728051428734107,
+      "y": 0.41715116319762313
+    },
+    {
+      "confidence": 1,
+      "height": 0.014765100671141007,
+      "text": "较低的作家的作品。",
+      "width": 0.16059957069925745,
+      "x": 0.5631691674073305,
+      "y": 0.4040268457120083
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "about the consequences of the proposed merger between PRH",
+      "width": 0.5010706533299815,
+      "x": 0.04282656605449509,
+      "y": 0.39530201324070025
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837167624656,
+      "text": "（35）与此同时，作家们已经在担心企鹅",
+      "width": 0.33832974575533725,
+      "x": 0.5910064357488226,
+      "y": 0.3822674421622919
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974668,
+      "text": "and another big publisher, Simon & Schuster-the reduction in",
+      "width": 0.5010706533299814,
+      "x": 0.042826551439934475,
+      "y": 0.3750000003705882
+    },
+    {
+      "confidence": 1,
+      "height": 0.014765100671140896,
+      "text": "兰登书屋和另一家大型出版商西蒙与舒斯特拟",
+      "width": 0.36616700427366955,
+      "x": 0.5631691699456064,
+      "y": 0.36174496674240064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "the number of unaligned UK publishers is likely to lead to fewer",
+      "width": 0.5032119902053682,
+      "x": 0.04282655936733714,
+      "y": 0.35436241632562204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014802169799804643,
+      "text": "bidding wars, lower advances, and more conformity in terms of",
+      "width": 0.5032119902053682,
+      "x": 0.042826548045067594,
+      "y": 0.33284883716604763
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01598837167624656,
+      "text": "议合并的后果——未联盟的英国出版商数量下",
+      "width": 0.3683083411490563,
+      "x": 0.5631691745004183,
+      "y": 0.33866279099690577
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016185421911662057,
+      "text": "what is published.",
+      "width": 0.14346895123472309,
+      "x": 0.04282655365458704,
+      "y": 0.3093959733014613
+    },
+    {
+      "confidence": 1,
+      "height": 0.016107382550335503,
+      "text": "降很可能导致更少的竟购战、更低的预付款以",
+      "width": 0.36616700427366955,
+      "x": 0.5631691771381728,
+      "y": 0.3167785236726808
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "［6］0*This is all part of a wider change towards concentration",
+      "width": 0.47109205793626235,
+      "x": 0.0728051505465012,
+      "y": 0.2906040265736197
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081395706074361,
+      "text": "及更一致的出版内容。",
+      "width": 0.17558886839611698,
+      "x": 0.5631691649882369,
+      "y": 0.2979651161149861
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160516,
+      "text": "of power and cartels. ②Literary agencies are getting bigger",
+      "width": 0.5032119599899442,
+      "x": 0.04282656864885366,
+      "y": 0.2688953486098461
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0163122362738487,
+      "text": "（35）“这都是向着权力集中和企业联盟",
+      "width": 0.33832974575533725,
+      "x": 0.5910064314763642,
+      "y": 0.27583892644169705
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "to have the clout to negotiate better terms with publishers，",
+      "width": 0.5032119902053682,
+      "x": 0.04282655936733714,
+      "y": 0.2483221479189347
+    },
+    {
+      "confidence": 1,
+      "height": 0.016220540168301434,
+      "text": "发生的更广泛变化的一部分。文学机构正变得",
+      "width": 0.36616700427366955,
+      "x": 0.5631691719072154,
+      "y": 0.25290697687989994
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671140896,
+      "text": "publishers consolidating to deal with Amazon，” says Lownie.",
+      "width": 0.5010706533299814,
+      "x": 0.04496789158982712,
+      "y": 0.2281879194333175
+    },
+    {
+      "confidence": 1,
+      "height": 0.016220539528251532,
+      "text": "越来越大，以便获得影响力与出版商商定更有",
+      "width": 0.36616700427366955,
+      "x": 0.5631691725312595,
+      "y": 0.23087248335929056
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081394425974557,
+      "text": "⑧\"The publishing industry talks about diversity in terms",
+      "width": 0.5010706533299814,
+      "x": 0.0449678936776214,
+      "y": 0.20784883774340812
+    },
+    {
+      "confidence": 1,
+      "height": 0.01754331204715187,
+      "text": "利的条件，而出版商正合并起来以应对亚马",
+      "width": 0.36616700427366955,
+      "x": 0.5631691726169126,
+      "y": 0.20930232580886854
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "of authors and staff but it also needs a plurality of ways of",
+      "width": 0.5032119902053682,
+      "x": 0.0428265467870377,
+      "y": 0.1872483218781894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017757920770837154,
+      "text": "逊，”劳尼表示。（35）“出版业从作家和员",
+      "width": 0.36616700427366955,
+      "x": 0.5631691714713023,
+      "y": 0.18895348870131046
+    },
+    {
+      "confidence": 1,
+      "height": 0.013081394425974668,
+      "text": "delivering intellectual contact, choice and different voices.",
+      "width": 0.49892931645459465,
+      "x": 0.044967896189190795,
+      "y": 0.16569767489820464
+    },
+    {
+      "confidence": 1,
+      "height": 0.016107382550335614,
+      "text": "工的角度谈论多样性，但它也需要多种方式来",
+      "width": 0.36616700427366955,
+      "x": 0.5653105051972123,
+      "y": 0.16711409395520904
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014806071543853605,
+      "text": "④After all, many of the most interesting books in recent years",
+      "width": 0.4989293164545947,
+      "x": 0.044967887088548514,
+      "y": 0.14362416081771512
+    },
+    {
+      "confidence": 1,
+      "height": 0.01598837167624667,
+      "text": "传递知识联系、选择和不同的声音。毕竟，近",
+      "width": 0.36616700427366966,
+      "x": 0.5631691775740859,
+      "y": 0.14534883752670202
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014765100671141007,
+      "text": "have come from small publishers.”",
+      "width": 0.2698072678971999,
+      "x": 0.044967890890800354,
+      "y": 0.12348993270758246
+    },
+    {
+      "confidence": 1,
+      "height": 0.01760964553628186,
+      "text": "年来许多最有趣的书都来自小型出版商。”",
+      "width": 0.33832974575533725,
+      "x": 0.5653105049810037,
+      "y": 0.1248322147013613
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883691160405,
+      "text": "［7］@We shall see whether that plurality is a casualty of the",
+      "width": 0.4732333948116491,
+      "x": 0.07280514886826533,
+      "y": 0.10174418611953595
+    },
+    {
+      "confidence": 1,
+      "height": 0.016265412785062883,
+      "text": "当前，出版商有着需要大到足以对付所有",
+      "width": 0.33404710221998757,
+      "x": 0.5974304145216978,
+      "y": 0.10319767471783603
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01342281879194629,
+      "text": "current need among publishers to be big enough to take on all-",
+      "width": 0.5010706533299814,
+      "x": 0.04496789033715052,
+      "y": 0.08120805352509142
+    },
+    {
+      "confidence": 1,
+      "height": 0.016175666911489972,
+      "text": "竞争者的需求，至于这种多元性是否会成为这",
+      "width": 0.3683083411490563,
+      "x": 0.5631691652927097,
+      "y": 0.08120805375584839
+    },
+    {
+      "confidence": 1,
+      "height": 0.008987764064097625,
+      "text": "comers.",
+      "width": 0.06217908198290532,
+      "x": 0.0449275904054089,
+      "y": 0.06091309475181128
+    },
+    {
+      "confidence": 1,
+      "height": 0.016245902784718713,
+      "text": "一需求的牺牲品，让我们拭目以待。",
+      "width": 0.28693790246944617,
+      "x": 0.5631691615275896,
+      "y": 0.059593023391527944
+    }
+  ],
+  "vision_ocr_text": "week by Penguin Random House （PRH）， a company currently\n书屋（PRH）出版，该公司目前与水石书店陷\ninvolved in a stand-off with Waterstones.\n二了優局。\n［2｝③The problem began late last year, when PRH confirmed\n（32）这个问题始于去年年底，当时企鹅\nthat it had introduced a credit limit with Waterstones \"at a very\n兰登书屋证实已经对水石书店实行了“水平十\neignificant level'. @The trade magazine The Boohseller reported\n分显著的”信贷限额。行业杂志《书商》报道称，\nthat Waterstones branch managers were being told to remove\n水石书店的分店经理被告知要把企鹅兰登书屋\nPRH books from prominent areas such as tables, display spaces\n出版的书籍从桌子、展示区和橱窗等显眼区城\nand windows, and were \"quietly retiring them to their relevant\n移走，并“悄悄地将这些书放回相关区域”。\n'sections\".\n（33）企鵝兰登书屋拒绝就此事发表评论，\n［3］OPRH declined to comment on the issue, but a\n但是水石书店的一位发言人告诉我：“目前水\nspokesperson for Waterstones told me： “Waterstones are\n石书店是在企鹅兰登书屋缩短了信贷期限的情\ncurrently operating with reduced credit terms from PRH, the\n况下经营的，企鹅兰登书屋是英團唯——家对\nonly publisher in the UK to place any limitations on our ability\n我们的交易能力施加限制的出版商。我们没有\nto trade. @We are not boycotting PRH titles but we are doing\n抵制企鹅兰登书屋出版的书籍，而是在尽力确\nour utmost to ensure that availability for customers remains good\n保对顾客的供应仍然处于良好状态，尽管总体\ndespite the lower overall levels of stock. ⑧We are hopeful with\n库存水平較低。现在我们的书店已经靈新开张\nour shops now open again that normality will retur and that we\n了，我们希望可以恢复正常，并且我们可以获\nwill be allowed to buy appropriately. @Certainly, our shops are\n准适当地购买书籍。当然，我们的书店特别忙。\nexceptionally busy. ©The sales for our May Books of the Month\n（33） 我们5月份的月度图书销量超过了2018\nsurpassed any month since 2018.”\n年以来的任何一个月的图书銷量。”\n［4］©In the meantime, PRH authors have been the losers.\n在此期间，企鹅兰登书屋的作家沦为这场\n©Big-name PRH authors may suffer a bit, but it's those mid-\n冲突中的受害者。（34）知名的企鹅兰登书屋\nlist authors, who normally rely on Waterstones staff's passion for\n作家可能会受到一些影响，但会祈祷这场纷争\npromoting books by lesser-known writers, who will be praying\n结束的还是那些书刊销量排行居中的作家，他\nfor an end to the dispute.\n们通常依赖水石书店员工的热情来推销知名度\n［5］③It comes at a time when authors are already worried\n较低的作家的作品。\nabout the consequences of the proposed merger between PRH\n（35）与此同时，作家们已经在担心企鹅\nand another big publisher, Simon & Schuster-the reduction in\n兰登书屋和另一家大型出版商西蒙与舒斯特拟\nthe number of unaligned UK publishers is likely to lead to fewer\nbidding wars, lower advances, and more conformity in terms of\n议合并的后果——未联盟的英国出版商数量下\nwhat is published.\n降很可能导致更少的竟购战、更低的预付款以\n［6］0*This is all part of a wider change towards concentration\n及更一致的出版内容。\nof power and cartels. ②Literary agencies are getting bigger\n（35）“这都是向着权力集中和企业联盟\nto have the clout to negotiate better terms with publishers，\n发生的更广泛变化的一部分。文学机构正变得\npublishers consolidating to deal with Amazon，” says Lownie.\n越来越大，以便获得影响力与出版商商定更有\n⑧\"The publishing industry talks about diversity in terms\n利的条件，而出版商正合并起来以应对亚马\nof authors and staff but it also needs a plurality of ways of\n逊，”劳尼表示。（35）“出版业从作家和员\ndelivering intellectual contact, choice and different voices.\n工的角度谈论多样性，但它也需要多种方式来\n④After all, many of the most interesting books in recent years\n传递知识联系、选择和不同的声音。毕竟，近\nhave come from small publishers.”\n年来许多最有趣的书都来自小型出版商。”\n［7］@We shall see whether that plurality is a casualty of the\n当前，出版商有着需要大到足以对付所有\ncurrent need among publishers to be big enough to take on all-\n竞争者的需求，至于这种多元性是否会成为这\ncomers.\n一需求的牺牲品，让我们拭目以待。",
+  "pdf_text_layer": "ｗｅｅｋ\n weekｂｙbyＰｅｎｇｕｉｎ\n            Penguin Ｒａｎｄｏｍ      Ｈｏｕｓｅ（ＰＲＨ），ａ\n                       Random House      (PRH), a ｃｏｍｐａｎｙ ｃｕｒｒｅｎｔｌｙ 书屋(PRH)出版，\n                                                  company currently  书屋（ＰＲＨ）出版，该公司目前与水石书店陷\n                                                                               该公司目前与水石书店陷\n ｉｎｖｏｌｖｅｄ\n  involved ｉｎ\n            in ａa stand-off\n                  ｓｔａｎｄ－ｏｆｆ with\n                             ｗｉｔｈWaterstones.\n                                  Ｗａｔｅｒｓｔｏｎｅｓ．                      入了僵局。\n                                                                     入了僵局\n      ［２］●Ｔｈｅ\n       [2] ®The ｐｒｏｂｌｅｍ\n                problem ｂｅｇａｎ ｌａｔｅlast\n                        began late ｌａｓｔyear,\n                                         ｙｅａｒ，ｗｈｅｎ ＰＲＨ confirmed\n                                             when PRH  ｃｏｎｆｉｒｍｅｄ               （３２）这个问题始于去年年底，当时企鹅\n                                                                                (32)这个问题始于去年年底\n ｔｈａｔ\n  that ｉｔ ｈａｄ ｉｎｔｒｏｄｕｃｅｄ\n       it had introduced ａa ｃｒｅｄｉｔ ｌｉｍｉｔ with\n                            credit limit ｗｉｔｈ Waterstones\n                                              Ｗａｔｅｒｓｔｏｎｅｓ“ａｔ\n                                                          \"at aａ very\n                                                                 ｖｅｒｙ 兰登书屋证实已经对水石书店实行了“水平十\n                                                                      兰登•书屋证实已经对水石书店实行了 \"水平十\n ｓｉｇｎｉｆｉｃａｎｔ   ｌｅｖｅｌ＂．＠Ｔｈｅ\n  significant level\". ©The ｔｒａｄｅ\n                            trade ｍａｇａｚｉｎｅ\n                                  magazineＴｈｅ\n                                           TheＢｏｏｋｓｅｌｌｅｒ  ｒｅｐｏｒｔｅｄ 分显著的”信贷限额。\n                                               Bookseller reported 分显著的”信贷限额。行业杂志《书商》报道称，\n                                                                              行业杂志《书商》报道称，\n ｔｈａｔ\n  that Ｗａｔｅｒｓｔｏｎｅｓ\n       Waterstones ｂｒａｎｃｈ\n                   branch ｍａｎａｇｅｒｓ\n                          managers ｗｅｒｅ\n                                    were ｂｅｉｎｇ\n                                          being ｔｏｌｄ ｔｏ remove\n                                                told to  ｒｅｍｏｖｅ 水石书店的分店经理被告知要把\n                                                                水石书店的分店经理被告知要把企鹅兰登书屋\n                                                                               企鹅兰登书屋\n ＰＲＨ\n  PRHｂｏｏｋｓ ｆｒｏｍfromｐｒｏｍｉｎｅｎｔ\n       books                 ａｒｅａｓ\n                     prominent areasｓｕｃｈ\n                                      suchａｓasｔａｂｌｅｓ，\n                                               tables, ｄｉｓｐｌａｙ ｓｐａｃｅｓ 出版的书籍从桌子、\n                                                       display spaces 出版的书籍从桌子、展示区和橱窗等显眼区域\n                                                                                展示区和橱窗等显眼区域\n ａｎｄandｗｉｎｄｏｗｓ，\n        windows,ａｎｄandｗｅｒｅwere“ｑｕｉｅｔｌｙ\n                                \"quietlyｒｅｔｉｒｉｎｇ\n                                         retiring ｔｈｅｍ\n                                                  themｔｏto ｔｈｅｉｒ  ｒｅｌｅｖａｎｔ 移走，并“\n                                                            their relevant 移走，并“悄悄地将这些书放回相关区域”。\n                                                                                悄悄地将这些书放回相关区域”。\nｓｅｃｔｉｏｎｓ“．\n 'Sections\".                                                                   （３３）企鹅兰登书屋拒绝就此事发表评论，\n                                                                                (33 )企\n     ［３］●ＰＲＨ ｄｅｃｌｉｎｅｄ ｔｏ ｃｏｍｍｅｎｔ ｏｎ ｔｈｅ ｉｓｓｕｅ，ｂｕｔ ａ 但是水石书店的\n                                                    但是水石书店的一位发言人告诉我：“目前水\n       [3] OPRH declined to comment on the issue, but a     一位发言人告诉我：“目前水\nｓｐｏｋｅｓｐｅｒｓｏｎ\n spokesperson ｆｏｒ    Ｗａｔｅｒｓｔｏｎｅｓ told\n                for Waterstones    ｔｏｌｄme: u\n                                         ｍｅ：＂Ｗａｔｅｒｓｔｏｎｅｓ  ａｒｅ 石书\n                                              Waterstones are 石书店是在企鹅兰登书屋缩短了信贷期限的情\n                                                                店是在企鹅兰登书屋缩短了信贷期限的情\nｃｕｒｒｅｎｔｌｙ ｏｐｅｒａｔｉｎｇ ｗｉｔｈ ｒｅｄｕｃｅｄ ｃｒｅｄｉｔ ｔｅｒｍｓ ｆｒｏｍ ＰＲＨ，ｔｈｅ 况下经营的，\n currently operating  with reduced credit terms from PRH, the 况下经营的，企鹅兰登书屋是英国唯一一家对\n                                                                    企鹅兰登书屋是英国唯一一家对\n ｏｎｌｙ\n only ｐｕｂｌｉｓｈｅｒ\n        publisher ｉｎ\n                   in ｔｈｅ\n                      the ＵＫ\n                          UKｔｏtoｐｌａｃｅ\n                                 placeａｎｙ\n                                        anyｌｉｍｉｔａｔｉｏｎｓ\n                                             limitations ｏｎ\n                                                          onｏｕｒ\n                                                             ourａｂｉｌｉｔｙ\n                                                                  ability 我们的交易能力\n                                                                          我们的交易能力施加限制的出版商。我们没有\n                                                                                  施加限制的出版商。我们没有\n ｔｏto trade.\n      ｌｒａｄｅ．●Ｗｅ\n            ❷Weａｒｅ are ｎｏｔ\n                        not ｂｏｙｃｏｔｔｉｎｇ\n                             boycotting ＰＲＨ\n                                        PRHｔｉｔｌｅｓ     ｂｕｔ we\n                                               titles but  ｗｅ are\n                                                              ａｒｅ doing\n                                                                   ｄｏｉｎｇ 抵制企鹅兰登书屋出版的\n                                                                          抵制企鹅兰登书屋出版的书籍，而是在尽力确\n                                                                                      书籍，而是在\n ｏｕｒ\n  our ｕｔｍｏｓｔ\n      utmostｔｏ to ｅｎｓｕｒｅ\n                  ensure ｔｈａｔ  ａｖａｉｌａｂｉｌｉｔｙforｆｏｒcustomers\n                          that availability        ｃｕｓｔｏｍｅｒｓremains\n                                                             ｒｅｍａｉｎｓ good\n                                                                      ｇｏｏｄ 保对顾客的供应\n                                                                           保对顾客的供应仍然处于良好状态，尽管总体\n                                                                                   仍然处于良好状态，尽管总体\n ｄｅｓｐｉｔｅ ｔｈｅ ｌｏｗｅｒ ｏｖｅｒａｌｌ ｌｅｖｅｌｓ ｏｆ ｓｔｏｃｋ．＠Ｗｅ ａｒｅ ｈｏｐｅｆｕｌ ｗｉｔｈ 库存水平较低。现\n  despite  the  lower  overall levels of  stock.  ， We   are hopeful with\n                                                                           库存水平较低。现在我们的书店已经重新开张\n                                                                                    在我们的书店已经重新开张\n ｏｕｒ\n  our ｓｈｏｐｓ\n      shops ｎｏｗ\n             nowｏｐｅｎ\n                 openａｇａｉｎ\n                       againｔｈａｔ\n                             thatｎｏｒｍａｌｉｔｙ\n                                  normalityｗｉｌｌ  ｒｅｔｕｒｎ and\n                                            will return ａｎｄ that\n                                                            ｔｈａｔ weｗｅ         了，我们希望可以恢复正常，并且我们可以获\n                                                                              了      以恢复正常，\n ｗｉｌｌ\n  will ｂｅ\n       be ａｌｌｏｗｅｄ\n           allowed ｔｏ\n                    to ｂｕｙ\n                       buy ａｐｐｒｏｐｒｉａｔｅｌｙ．  ●Ｃｅｒｔａｉｎｌｙ， our\n                            appropriately. •Certainly,  ｏｕｒ shops\n                                                             ｓｈｏｐｓ are\n                                                                    ａｒｅ 准适当地购买书籍。当然，我们的书店特别忙。\n                                                                         准适当地购买书籍。当然，我们的书店特别忙。\nｅｘｃｅｐｔｉｏｎａｌｌｙ  ｂｕｓｙ．＠Ｔｈｅ\n exceptionally busy. •Theｓａｌｅｓ\n                          sales ｆｏｒ ｏｕｒ May\n                                for our Ｍａｙ Books\n                                            Ｂｏｏｋｓ ofｏｆ the\n                                                        ｔｈｅMonth\n                                                            Ｍｏｎｔｈ (33)我们5\n                                                                 （３３）我们５月份的月度图书销量超过了２０１８\n                                                                         月份的月度图书销量超过了 2018\nｓｕｒｐａｓｓｅｄ\n surpassedａｎｙ\n           any ｍｏｎｔｈ\n               month ｓｉｎｃｅ  ２０１８．”\n                      since 2018.\"\n                                                                              年以来的任何一个月的图书销量。”\n                                                                              年以来的任何一个月的图书销量。”\n     ［４］●Ｉｎ\n      [4] OIn ｔｈｅ ｍｅａｎｔｉｍｅ，ＰＲＨ\n              the meantime, PRHａｕｔｈｏｒｓ\n                                 authorsｈａｖｅ\n                                         haveｂｅｅｎ\n                                              beenｔｈｅ\n                                                   the ｌｏｓｅｒｓ．\n                                                        losers.\n                                                                               在此期间，企鹅兰登书屋的作家沦为这场\n                                                                               在此期间，企鹅兰登书屋的作家沦为这场\n ●Ｂｉｇ－ｎａｍｅ\n •Big-nameＰＲＨ\n           PRHａｕｔｈｏｒｓ ｍａｙmayｓｕｆｆｅｒ\n                authors        sufferａ a bit,\n                                       ｂｉｔ，ｂｕｔbutｉｔ＇ｓ  ｔｈｏｓｅ mid\n                                                  it's those ｍｉｄ－­ 冲突中的受害者。(34)\n                                                                   冲突中的受害者。（３４）知名的企鹅兰登书屋\n                                                                               知名的企鹅兰登书屋\n ｌｉｓｔ   ａｕｔｈｏｒｓ，ｗｈｏ\n  list authors, who ｎｏｒｍａｌｌｙ\n                     normallyｒｅｌｙ\n                              rely ｏｎ\n                                   on Ｗａｔｅｒｓｔｏｎｅｓ\n                                       Waterstonesｓｔａｆｆ＇ｓ\n                                                   stafF s ｐａｓｓｉｏｎ\n                                                           passion ｆｏｒ\n                                                                   for\n                                                                       作家可能会受到一些影响，但会祈祷这场纷争\n                                                                       作家可能会受到一些影响 ，\nｐｒｏｍｏｔｉｎｇ\n promotingｂｏｏｋｓ\n           booksｂｙbyｌｅｓｓｅｒ－ｋｎｏｗｎ ｗｒｉｔｅｒｓ，ｗｈｏ\n                     lesser-known writers, who ｗｉｌｌ ｂｅ praying\n                                               will be ｐｒａｙｉｎｇ 结束的还是那些书刊销量排行居中的作家，他\n                                                               结束的还是那些书刊销量排行居中的作家，他\n ｆｏｒfor ａｎan ｅｎｄ\n             end ｔｏ\n                  to ｔｈｅ ｄｉｓｐｕｔｅ．\n                     the dispute.\n     ［５］●Ｉｔ ｃｏｍｅｓ ａｔ ａ ｔｉｍｅ ｗｈｅｎ ａｕｔｈｏｒｓ ａｒｅ ａｌｒｅａｄｙ ｗｏｒｒｉｅｄ 们通常依赖水石书店员工的热情来推销知名度\n                                                                              们通常依赖水石书店员工的热情来推销知名度\n       [5]®It comes at a time when authors are already worried\n ａｂｏｕｔ\n  about ｔｈｅ\n          the ｃｏｎｓｅｑｕｅｎｃｅｓ\n              consequences of ｏｆ theｔｈｅproposed\n                                        ｐｒｏｐｏｓｅｄmerger\n                                                  ｍｅｒｇｅｒbetween    ＰＲＨ 较低的作家的作品。\n                                                          ｂｅｔｗｅｅｎPRH\n                                                             较低的作家的作品。\n                                                                         （３５）与此同时，作家们已经在担心企鹅\n ａｎｄandａｎｏｔｈｅｒ\n        another ｂｉｇ  ｐｕｂｌｉｓｈｅｒ，Ｓｉｍｏｎ\n                 big publisher, Simon ＆& Schuster\n                                           Ｓｃｈｕｓｔｅｒ—ｔｈｅ\n                                                      the ｒｅｄｕｃｔｉｏｎ  ｉｎ 兰登书屋和另一家大型出\n                                                          reduction in\n                                                                          (35)与此同时，\n\n  ｔｈｅ ｎｕｍｂｅｒ ｏｆofｕｎａｌｉｇｎｅｄ\n  the number     unalignedＵＫ\n                           UKｐｕｂｌｉｓｈｅｒｓ\n                               publishersｉｓisｌｉｋｅｌｙ\n                                              likely ｔｏ           ｆｅｗｅｒ 兰登书屋和另一家大型出版商西蒙与舒斯特拟\n                                                        ｌｅａｄ toｔｏfewer\n                                                     to lead\n                                                                                    版商西蒙与舒斯特拟\n\n ｂｉｄｄｉｎｇ  ｗａｒｓ，ｌｏｗｅｒ\n  bidding wars,        ａｄｖａｎｃｅｓ，ａｎｄandｍｏｒｅ\n                 lower advances,       moreｃｏｎｆｏｒｍｉｔｙ\n                                             conformity ｉｎ\n                                                                        议合并的后果————未联盟的英国出版商数量下\n                                                             ｔｅｒｍｓ ofｏｆ 议合并的后果—\n                                                          in terms\n                                                                                 未联盟的英国出版商数量下\n                                                                              降很可能导致更少的竞购战、更低的预付款以\n ｗｈａｔ\n  whatｉｓ  ｐｕｂｌｉｓｈｅｄ．\n       is published.\n                                                                               降很可能导致更少的竞购战、更低的预付款以\n\n      ［６］●＂Ｔｈｉｓ\n       [6J0t4This ｉｓ  ａｌｌ part\n                   is all  ｐａｒｔofｏｆa ａwider\n                                       ｗｉｄｅｒchange\n                                              ｃｈａｎｇｅtowards\n                                                     ｔｏｗａｒｄｓ concentration\n                                                              ｃｏｎｃｅｎｔｒａｔｉｏｎ   及更一致的出版内容。\n                                                                              及更一致的出版内容。\n\n ｏｆ ｐｏｗｅｒ ａｎｄ ｃａｒｔｅｌｓ．●Ｌｉｔｅｒａｒｙ ａｇｅｎｃｉｅｓ ａｒｅ ｇｅｔｔｉｎｇ ｂｉｇｇｅｒ\n  of power and cartels. ©Literary agencies are getting bigger                  （３５）“这都是向着权力集中和企业联盟\n                                                                               (35) “这都是向着 权力集中和企业联盟\n\n ｔｏto ｈａｖｅ\n       haveｔｈｅ\n            the ｃｌｏｕｔ\n                 clout ｔｏ\n                        to ｎｅｇｏｔｉａｔｅ ｂｅｔｔｅｒ terms\n                           negotiate better  ｔｅｒｍｓ with\n                                                   ｗｉｔｈ publishers,  发生的更广泛变化的一部分。文学机构正变得\n                                                         ｐｕｂｌｉｓｈｅｒｓ， 发生的更广泛变化的一部分 。文学机构正变得\n\n ｐｕｂｌｉｓｈｅｒｓ\n   publishers ｃｏｎｓｏｌｉｄａｔｉｎｇ\n               consolidating toｔｏ deal\n                                   ｄｅａｌwith\n                                        ｗｉｔｈAmazon,\"\n                                              Ａｍａｚｏｎ，＂ says\n                                                        ｓａｙｓ Lownie.\n                                                              Ｌｏｗｎｉｅ． 越来越大，以便获\n                                                                     越来越大，以便获得影响力与出版商商定更有\n                                                                              得影响力与出版商商定更有\n\n ●＂Ｔｈｅ\n  ❸\"Theｐｕｂｌｉｓｈｉｎｇ\n           publishingｉｎｄｕｓｔｒｙ\n                        industry ｔａｌｋｓ\n                                  talks ａｂｏｕｔ\n                                         about ｄｉｖｅｒｓｉｔｙ   ｉｎ terms\n                                                diversity in           利的条件，而出版商正合并起来以应对亚马\n                                                               ｔｅｒｍｓ 利的条件，而出版商正合并起      来以应对亚马\n\n ｏｆofａｕｔｈｏｒｓ\n      authors ａｎｄ\n               andｓｔａｆｆ\n                   staff ｂｕｔ\n                         but ｉｔ ａｌｓｏ needs\n                             it also  ｎｅｅｄｓ aａ plurality\n                                               ｐｌｕｒａｌｉｔｙofｏｆways      逊，”劳尼表示。（３５）“出版业从作家和员\n                                                             ｗａｙｓ ofｏｆ 逊，”劳尼表示。(35) ,“出版业从作家和员\n\n ｄｅｌｉｖｅｒｉｎｇ\n  delivering ｉｎｔｅｌｌｅｃｔｕａｌ    ｃｏｎｔａｃｔ，ｃｈｏｉｃｅ\n               intellectual contact,  choice ａｎｄ\n                                              and ｄｉｆｆｅｒｅｎｔ   ｖｏｉｃｅｓ． 工的角度谈论多样性，\n                                                   different voices.   工的角度谈论多样性，但它也需要多种方式来\n                                                                                 但它也需要多种方式来\n\n ●Ａｆｔｅｒ\n  ❹      ａｌｌ，ｍａｎｙ\n    After all, manyｏｆofｔｈｅ\n                        the ｍｏｓｔ\n                             mostｉｎｔｅｒｅｓｔｉｎｇ  ｂｏｏｋｓ inｉｎ recent\n                                  interesting books      ｒｅｃｅｎｔ years\n                                                                 ｙｅａｒｓ 传递知识联系、选择和\n                                                                      传递知识联系、选择和不同的声音。毕竟，近\n                                                                                  不同的声音 毕竟,近\n\n ｈａｖｅ\n  haveｃｏｍｅ\n       comeｆｒｏｍ\n             fromｓｍａｌｌ\n                  smallｐｕｂｌｉｓｈｅｒｓ．”\n                        publishers.\"                                          年来许多最有趣的书都来自小型出版商。”\n                                                                               年来许多最有趣的书 都来自小型出版商。”\n\n     ［７］●Ｗｅ\n      [7]GWeｓｈａｌｌ\n              shallｓｅｅ\n                    seeｗｈｅｔｈｅｒ\n                        whetherｔｈａｔ\n                                 thatｐｌｕｒａｌｉｔｙ\n                                       plurality ｉｓ\n                                                  is ａa casualty\n                                                        ｃａｓｕａｌｔｙ ofｏｆ the\n                                                                       ｔｈｅ     当前，出版商有着需要大到足以对付所有\n                                                                                当前，出版商有着需要大到足以对付所有\n\n ｃｕｒｒｅｎｔ\n current ｎｅｅｄ\n         need ａｍｏｎｇ\n              amongｐｕｂｌｉｓｈｅｒｓ\n                    publishersｔｏ\n                               to ｂｅ\n                                  be ｂｉｇ\n                                     big ｅｎｏｕｇｈ\n                                         enough ｔｏ\n                                                 to ｔａｋｅ\n                                                    take ｏｎ ａｌｌ－­ 竞争者的需求，\n                                                         on all   竞争者的需求，至于这种多元性是否会成为这\n                                                                         至于这种多元性是否会成为这\n\nｃｏｍｅｒｓ．\n  comers.                                                                     一需求的牺牲品，让我们拭目以待。\n                                                                              一需求的牺牲品， 让我们拭目以待。\n\n\n                                                                                                  １７\n                                                                                                   17",
+  "quality": {
+    "vision_line_count": 85,
+    "vision_character_count": 3204,
+    "pdf_text_character_count": 17550,
+    "nonempty": true
+  }
+}

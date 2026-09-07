@@ -1,0 +1,135 @@
+---
+source_id: EXAM-ANALYSIS-SOURCE-2019-P044
+year: 2019
+pdf_page: 44
+visibility: hidden_until_review
+source_role: protected_derived_ocr_evidence
+---
+
+# 2019 解析 PDF p44｜受保护逐页证据
+
+> [!warning] 答案解析受保护层
+> 用户只陈述选项时不读取本页；仅在明确要求核对答案、讲题或进入复盘后读取。Vision OCR 与 PDF 文字层均为来源转写，不冒充人工校订文本。
+
+## Vision OCR（中文 + 英文）
+
+```text
+另外，④句中 Amazon.com 因其特殊性，既是对上文大型连锁店的补充，也是对下文的铺垫：亚马逊
+本身虽然不是大型连锁店，但因为在多州设有仓库，所以根据原裁定就需要代收销售税，处境与大型连
+锁店相似；而依靠其网站的第三方卖家虽然和亚马逊同样是电商，却因为没有实体存在，所以无需代收
+销售税。这表明，电商内部也存在不公平现象，预测下文将着重分析新裁定对这类无实体存在的商家的
+影响（即：解释新裁定如何保证公平的市场竞争）。
+•真题精解•
+39. Who are most likely to welcome the Supreme Court
+39.谁最有可能欢迎最高法院的此次裁定？
+ruling？
+［A］ Internet entrepreneurs.
+［A］互联网企业象。
+［B］ Big-chain owners.
+［B］ 大型连锁店主。
+［C］ Third-party sellers.
+［C］第三方商家。
+［D］ Small retailers.
+［D］ 小型零售商。
+［精准定位］第五段①句指出，本次裁定对在多州设有实体机构的大型连锁店而言是一次胜利，所
+以最有可能欢迎此次裁定的应该是大型连锁店店主，［B］正确。
+［命题解密］正确项［B］ Big-chain owners 与第五段①句 big chains 所指相同，句中a victory 体现出
+新裁定给他们带来的巨大利好，因此他们应该最欢迎（welcome）此次裁定。
+［A］与第七段④句“互联网企业家完全没有受到本次裁定的周全考虑”相悖。［C］、［D］与第五段④
+句和第六段②句“第三方商家和小型零售商原本无需代收销售税，而此次裁定迫使他们开始收税”所暗
+示的“不会欢迎本次裁定”相悖。
+［技巧总结］题干设问句表明，本题是就“事件对各方影响”设置的事实判断题，解题关键在于准确定
+位各方受到的影响。具体来看，对第五、六段描述各类商家所受影响可定位如下：第五段①句明确指出
+新裁定对大型连锁店而言是胜利（a victory for big chains with a presence in many states）；第六段③句指
+出，根据新裁定，各州可立法强制要求州外商家（包括第三方卖家和小型零售商）开始代收销售税
+（requiring out-of-state sellers to collect the state's sales tax from customers），由此排除［C］、［D］并初步确
+定［B］为答案。最后，根据末段信息“互联网企业家没有受到本次裁定的周全考虑（internet
+entrepreneurs are not well served at all by this decision）”排除［A］。
+VI ① Until now, many sellers that have a physical
+在此之前，许多仅在一个或数个州有
+presence in only a single state or a few states have been able
+实体存在的商家在向州外地址运送（商
+to avoid charging sales taxes when they ship to addresses
+品）时都可以避免收取销售税。那些使用
+outside those states. ② Sellers that use eBay and Etsy，
+eBay 和 Etsy（均为较小商家提供销售平
+which provide platforms® for smaller sellers, also haven't
+台）的商家也没有在全国范围内收取销售
+been collecting sales tax nationwide. ⑧ Under the ruling
+税。而根据周四的裁定，各州可通过法
+Thursday, states can pass laws requiring out-of-state
+律，要求州外销售商对本州顾客收取销售
+sellers to collect the state's sales tax from customers
+and
+税，并上缴本州。
+send it to the state.
+•词汇注释与难句分析•
+①platform ［'pleetfo:m］ n. 平台
+经典搭配
+①out-of-state（州外的）
+44
+```
+
+## PDF 文字层（交叉核对）
+
+```text
+另外，④句中 Amazo n. com 因其特殊性，既是对上文大型连锁店的补充，也是对下文的铺垫：亚马逊
+本身虽然不是大型连锁店，但因为在多 州 设有仓库，所以根据原裁定就需要代收销售税，处境与大型连
+锁店相似；而依靠其网站的第 三 方卖家虽然和亚马逊同样是电商，却因为没有 实 体存在，所以无 需 代收
+销售税 。 这表明 ， 电商内部也存在不公平现象，预测下文将 着重 分析新裁定对这类无 实 体存在的商家的
+影响（ 即 ：解释新裁定如何保证公平的市场竞争） 。
+
+                                                  c~：辜题信，解：：~ ：：： ff
+ 39. Who are most likely to welcome the Supreme Court
+                                                                    39. 谁 最 有可能欢迎 最 高法院的此次 裁 定？
+ ruling?
+
+ [A] Inte rnet entrepreneun                                         [ A］互联网企业家 。
+
+ [BJ Big- chain owners .                                            [ BJ 大型 连锁店主 。
+
+ [ C] Third- party sell ers.                                        [ CJ 第 三 方商家 。
+
+ [ DJ Small retail ers.                                             [ DJ 小型 零售商 。
+
+       〔精准定位］ 第五段①句指出，本次裁定对在多州设有实体机构的大型连锁店而言是 一 次胜利，所
+以最有可能欢迎 此 次裁定的应该是大型连锁店店主， ［ BJ 正确 。
+       ［命题解密］ 正确项 ［ BJ Big- chain own e rs 与第五段 ① 句 big cha i n s 所指相同 ， 句中 a victory 体现出
+新裁定给 他们 带来的 巨 大利好，因此 他们 应该最欢迎（ welcome ） 此 次裁定 。
+       [ A ］与第 七段 ④ 句“互联网企业家完全没有受到本次裁定的周 全考虑” 相悖 。［ CJ 、 ［ D J 与第五段④
+句和第六段 ② 句 “第 三 方商家和小型零售商原本无需代收销售税，而此次裁定迫使他们开始收税”所暗
+示的“不会欢迎本次裁定”相悖 。
+       ［技巧总结］ 题干设问句表明，本题是就“事件对各方影响”设置的事实判断题， ff(/o 题关键在于准确定
+位各方受到的影响 。 具体来看，对第五、六段描述各类商家所受影响可定位如下：第五段 ① 句明确指出
+新裁定对大型连锁店而 言是 胜利（ a victory for big chains with a prese nce in many stat es ）；第 六段③ 句指
+出，根据新裁定，各州可 立法 强制要求 州 外商家（包括第 三 方卖家和小型零售商）开始代收销售税
+( requiring out- of- s tate sell ers to co llec t the state ’ s sa les tax from customers ），由 此 排除 ［ CJ 、［ DJ 并初步确
+定 ［ BJ 为 答案。最后，根据末段信息“互 联网企业 家没有受 到本次裁定的周 全考虑（ internet
+entrepreneurs are not w ell served at al l by this dec i s i on ）”排除［ A] .
+
+
+       VI O Until now, many se ll 巳rs that have a physica l
+                                                                             在此之前，许多仅在一个或数个州有
+pr巳senc e in only a single state or a few states have b巳en a bl e
+                                                                           实体存在的商家在向州外地址运送（商
+to avoid charging sa les taxes w hen they ship to addresses
+                                                                           品）时都可以避免收取销售税 。 那些使用
+outside t hose states. @ Sellers tha t use eBay and Etsy ,
+                                                                           eBay 和 Etsy （均为较 小商 家提供销售平
+wh ich provide platforms(      for sma ll er s e ll 巳r s, also haven ' t
+                                                                           台〉的商家也没有在全国范围内收取销售
+been co ll ecting sa les tax nationwide. @ Under t he ru li ng
+                                                                           税 。 而根据周四的裁定，各州可通过法
+Thursday,      s ta tes can pa ss laws      requ ir ing o ut of state
+                                                                           律，要求州外销售商对本州顾客收取销售
+sell ers to co ll ec t the state ’ s sales tax from customers and
+                                                                           税，并上缴本州 。
+send it to th e s tat e.
+
+
+                                          : : -::¥.it注释与难句：云：斤：＜ 1'
+( platform [ 1p l retfo:m ］ 凡 平台                              $    ·经典搭配
+                                                              ；①…f-sta te（少i'I 夕｜ 的 ）
+
+  44
+```

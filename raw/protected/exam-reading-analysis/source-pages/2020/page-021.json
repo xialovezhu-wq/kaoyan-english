@@ -1,0 +1,406 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2020-P021",
+  "year": 2020,
+  "pdf_page": 21,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2020年考研英语一真题解析.pdf",
+  "source_sha256": "c22c997403ed0c24f016b4aebb1de6f74a41d7c604c4f7a7306930f51a980065",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.023055248970773157,
+      "text": "功能注释：本句主干为 The most drastic reaction has been the emergence of Sci-Hub。 and thoroughly",
+      "width": 0.8496303684999584,
+      "x": 0.09534342078260534,
+      "y": 0.904185874420393
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021581376930673413,
+      "text": "illegal 为插入语，语义上与 most drastic 并列，对 reaction 进行补充说明。a kind of..papers 为同位语，",
+      "width": 0.8878416185518343,
+      "x": 0.055022259491376395,
+      "y": 0.8863684927014029
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02066107255344929,
+      "text": "解释 Sci-Hub 为何物；set up in 2012为 Sci-Hub 的后置定语，说明其创立时间；which 引导非限制性定语",
+      "width": 0.8856408675195054,
+      "x": 0.05505641923707972,
+      "y": 0.8683031846165543
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017465622613475507,
+      "text": "从句修饰 Sci-bub，进一步补充说明 Sci-Hub 的发展状况。",
+      "width": 0.4861995702087483,
+      "x": 0.05520170514686425,
+      "y": 0.8517441864896782
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.015292184987358293,
+      "text": "• 语篇分析•",
+      "width": 0.12120902174180881,
+      "x": 0.4202872100856243,
+      "y": 0.8252027452283444
+    },
+    {
+      "confidence": 1,
+      "height": 0.022559483846028683,
+      "text": "第四至六段为第二部分，介绍随着问题“科学出版商垄断科研发表、文献费用高昂“应运而生的产物。",
+      "width": 0.8347617829463396,
+      "x": 0.09323831989521793,
+      "y": 0.7935379129633122
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019073569482288888,
+      "text": "第四段承上引出外界针对现行问题所做的最大、但非法的“反抗”：免费文献下载网站Sci-Hub的出",
+      "width": 0.8428874832700448,
+      "x": 0.09341824713001662,
+      "y": 0.7774750225820765
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02053378951430429,
+      "text": "现。关键词为：①the most drastic, and thoroughly illegal, reaction； ②must be transformed。",
+      "width": 0.7626062319731491,
+      "x": 0.05289224884771453,
+      "y": 0.7580654970106309
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.02247377962117625,
+      "text": "①句介绍 Sci-hub及其成功发展。The most. ..， and...， reaction（reaction 指 a reverse or opposing",
+      "width": 0.8454764114116451,
+      "x": 0.09319481656262914,
+      "y": 0.7378273458605102
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019114363529160294,
+      "text": "action“反抗、对抗”）回应第三段末 increasingly desperate efforts，引1出对传统出模式仲击最饭端、最有",
+      "width": 0.8833428493059013,
+      "x": 0.05090683654672655,
+      "y": 0.7208333464354585
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185957878308,
+      "text": "效的一种应对（drastic 意为 extreme in effect），但补充性说明 thoroughly illegal 又彻底否认其存在的合",
+      "width": 0.8853502818154465,
+      "x": 0.050955423487181295,
+      "y": 0.702034884135027
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01611246616595663,
+      "text": "理性，与 a kind of（意为 not exact”有几分、稍稍”，也即：Sci-hub 甚至没有一个清晰合法的身份定位）两者",
+      "width": 0.8853502818154465,
+      "x": 0.05095543866461517,
+      "y": 0.6830154406215908
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019125384920624322,
+      "text": "一明一暗，初步流露作者对 Sci-Hub 的不支持态度。注：global photocopier 为比喻用法，作者将 Sci-Hub",
+      "width": 0.8897653202294986,
+      "x": 0.05086061851886727,
+      "y": 0.6626829104171414
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017468262758177033,
+      "text": "模糊定性为“全球性文献复印机”，与 offer access to every paywalled article（access to sth 指“对某事的使",
+      "width": 0.8853502818154464,
+      "x": 0.05095542601675359,
+      "y": 0.6453224344107826
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125436,
+      "text": "用机会或权利”）一起，说明其规模巨大，影响之广的同时，更突显其“违规/不合法性”：科研文献的复印",
+      "width": 0.8853502818154465,
+      "x": 0.05095544340756315,
+      "y": 0.6248864664979714
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01605701966246731,
+      "text": "版本随用隨取，却不具备任何知识产权。",
+      "width": 0.3397027531151436,
+      "x": 0.05307856399444509,
+      "y": 0.6061046514064933
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.021444326742035336,
+      "text": "②句分析 Sci-Hub 成功的现实启示：正规合法的文献获取渠道已失去正统性，必须加以改革。The",
+      "width": 0.8474594460698872,
+      "x": 0.09111844060990185,
+      "y": 0.584728720824789
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016063620890410357,
+      "text": "success 承上概括 Sci-Hub 当前强的发展态势，which 定语从句浅层说明这一文献分享模式得到大批",
+      "width": 0.8853502818154465,
+      "x": 0.05095544340756315,
+      "y": 0.5697674421768422
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744185957878308,
+      "text": "研究人员的认可（他们自己通过合法渠道获取后主动上传分享），深层表现业界对当前论文获取收费高",
+      "width": 0.8853502818154465,
+      "x": 0.05095544340756315,
+      "y": 0.5494186051670038
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017447140734375477,
+      "text": "昂、出版商坐收渔利的不满和反抗。shows引出 Sci-Hub 成功带来的启示；has lost legitimacy 直指正规文献",
+      "width": 0.8853502818154466,
+      "x": 0.05095542201690535,
+      "y": 0.5290644865114114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125436,
+      "text": "获取体系问题严重，表面合法，实则不合理，已遭众多用户抛弃；must be transformed 则斩钉截铁强调，当前",
+      "width": 0.8874734622707088,
+      "x": 0.048832262240441904,
+      "y": 0.5099909170388297
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859578783192,
+      "text": "体系必须立即、彻底改变。注意句中出现多处与“法律”相关的表达，legally assessed 与 legal ecosystem 侧重",
+      "width": 0.8853502818154465,
+      "x": 0.048832281364039144,
+      "y": 0.49127907038502705
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125325,
+      "text": "于“法律允许/规定的、合法的（legal）”，而 has lost legitimacy 则侧重于“正当的、合情合理的、正统的",
+      "width": 0.8832271824161687,
+      "x": 0.05095541722382336,
+      "y": 0.4722979106903308
+    },
+    {
+      "confidence": 1,
+      "height": 0.017447140734375366,
+      "text": "（legitimate）”，三者集中说明当前科研出版体系虽合法但已在用户中失去其合理性，亟待改革。",
+      "width": 0.783439484250498,
+      "x": 0.048832281388551335,
+      "y": 0.4534883725361899
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441859578783192,
+      "text": "【深层解读】本段基于上文“问题”引出“现有解决对策（reaction）”，且段中 drastic, offer access to",
+      "width": 0.8513800429791252,
+      "x": 0.08492569685792487,
+      "y": 0.43459302374743014
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016348773841961872,
+      "text": "every paywalled article、the success、the legal ecosystem has lost legitimacy 似乎均指向“Sci-Hub 是时代",
+      "width": 0.8853502818154466,
+      "x": 0.04883228123665055,
+      "y": 0.41553133506826345
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016004213303679404,
+      "text": "救星，能有效解决问题”，但段首 thoroughly illegal、claims to（上文用于暗讽传统出版商，此处又用于 Sci-",
+      "width": 0.8853502818154465,
+      "x": 0.05095543971860357,
+      "y": 0.3968023259038286
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016057019662467198,
+      "text": "Hub）、以及段末的（legal ecosystem）must be transformed 却微妙反映作者深层心态：Sci-Hub 再成功也",
+      "width": 0.8811040019609063,
+      "x": 0.0509554226748902,
+      "y": 0.37783832885230884
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125325,
+      "text": "终究不合法，不能保障所有人权利的话，越成功可能反而越危险，业界应该做的不是抛弃现有体系，而是",
+      "width": 0.8853502818154466,
+      "x": 0.04883229746807275,
+      "y": 0.3574023611432876
+    },
+    {
+      "confidence": 1,
+      "height": 0.017468262758177033,
+      "text": "对现有出版体系进行改革，让合法的生态重获其正统合理性。",
+      "width": 0.5244161294276021,
+      "x": 0.0488322793590934,
+      "y": 0.3372093027929727
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.020338685592665273,
+      "text": "• 真题精解",
+      "width": 0.11091358443180405,
+      "x": 0.41375764625726524,
+      "y": 0.3117783316804651
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01180744777475029,
+      "text": "28. How does the author feel about the success of Sci-Hub？",
+      "width": 0.4861995702087484,
+      "x": 0.05944799045825846,
+      "y": 0.284741144259651
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01603985785571793,
+      "text": "28. 作者对 Sci-Hub 的成功作何感想？",
+      "width": 0.32696389328752706,
+      "x": 0.5605095638020964,
+      "y": 0.2833787466934574
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015794336525122743,
+      "text": "［A］ Relieved.",
+      "width": 0.11709456931389028,
+      "x": 0.05716396702232205,
+      "y": 0.2595446921403999
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016029296410722482,
+      "text": "［A］如释重负。",
+      "width": 0.13375795726598805,
+      "x": 0.5626326996047979,
+      "y": 0.25872093052557554
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014211036203992555,
+      "text": "［B］ Puzzled.",
+      "width": 0.10644284029247594,
+      "x": 0.05930512019366663,
+      "y": 0.23635378422680597
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016348773841961872,
+      "text": "［B］困惑不解。",
+      "width": 0.13163481733871807,
+      "x": 0.5626326991331887,
+      "y": 0.23524069036411333
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013301861058788722,
+      "text": "［C］ Concerned.",
+      "width": 0.13163481733871807,
+      "x": 0.057324842958383374,
+      "y": 0.21344232514900463
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.016117746455359794,
+      "text": "［C］ 忧心忡仲。",
+      "width": 0.13163481733871807,
+      "x": 0.5626326985847103,
+      "y": 0.21207992771348616
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660298228805213,
+      "text": "［D］ Encouraged.",
+      "width": 0.1443736670343366,
+      "x": 0.05732484233208862,
+      "y": 0.19028156233742133
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014660298228805324,
+      "text": "［D］鼓舞人心。",
+      "width": 0.13375795726598805,
+      "x": 0.5605095550612735,
+      "y": 0.19028156209759572
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185957878308,
+      "text": "［精准定位］第四段①句 thoroughly illegal（完全不合法）初步暗示作者对Sci-Hub 的质疑态度；②句",
+      "width": 0.8492568625238628,
+      "x": 0.08280256130707074,
+      "y": 0.1656976748072655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017711171662125325,
+      "text": "评述 Sci-Hub 的成功带来的启示：科学出版业合法的生态体系在其用户中已失去合理/正统性（the legal",
+      "width": 0.8874734622707088,
+      "x": 0.04883227905572815,
+      "y": 0.14668483200766325
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016053059445414908,
+      "text": "ecosystem has lost legitimacy），该合法体系必须彻底改变（must be transformed），以重获权威/合理性。",
+      "width": 0.8895965616699867,
+      "x": 0.046709159058849425,
+      "y": 0.12790697702059206
+    },
+    {
+      "confidence": 1,
+      "height": 0.017461662396423105,
+      "text": "由此可见，作者通过非法（无版权保障的）网站的大获成功反向凸显当前科学出版业态的弊病之重，改革",
+      "width": 0.8832271824161687,
+      "x": 0.04883227719955877,
+      "y": 0.10899182570692179
+    },
+    {
+      "confidence": 1,
+      "height": 0.017711171662125325,
+      "text": "之迫切（如不进行自我改革，事态可能会进一步恶化，催生更多危及各方合法权利的非法事物），可见作",
+      "width": 0.8853502818154465,
+      "x": 0.04670914151569195,
+      "y": 0.08991825645061247
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01744185957878308,
+      "text": "者对 Sci-Hub 等非法网站的成功其实是感到担忧的，［C］正确。",
+      "width": 0.5350318290639524,
+      "x": 0.046709145234477945,
+      "y": 0.06976744230363174
+    },
+    {
+      "confidence": 1,
+      "height": 0.013169845594913743,
+      "text": "21",
+      "width": 0.023354564529965982,
+      "x": 0.8917197451690481,
+      "y": 0.05086285191031159
+    }
+  ],
+  "vision_ocr_text": "功能注释：本句主干为 The most drastic reaction has been the emergence of Sci-Hub。 and thoroughly\nillegal 为插入语，语义上与 most drastic 并列，对 reaction 进行补充说明。a kind of..papers 为同位语，\n解释 Sci-Hub 为何物；set up in 2012为 Sci-Hub 的后置定语，说明其创立时间；which 引导非限制性定语\n从句修饰 Sci-bub，进一步补充说明 Sci-Hub 的发展状况。\n• 语篇分析•\n第四至六段为第二部分，介绍随着问题“科学出版商垄断科研发表、文献费用高昂“应运而生的产物。\n第四段承上引出外界针对现行问题所做的最大、但非法的“反抗”：免费文献下载网站Sci-Hub的出\n现。关键词为：①the most drastic, and thoroughly illegal, reaction； ②must be transformed。\n①句介绍 Sci-hub及其成功发展。The most. ..， and...， reaction（reaction 指 a reverse or opposing\naction“反抗、对抗”）回应第三段末 increasingly desperate efforts，引1出对传统出模式仲击最饭端、最有\n效的一种应对（drastic 意为 extreme in effect），但补充性说明 thoroughly illegal 又彻底否认其存在的合\n理性，与 a kind of（意为 not exact”有几分、稍稍”，也即：Sci-hub 甚至没有一个清晰合法的身份定位）两者\n一明一暗，初步流露作者对 Sci-Hub 的不支持态度。注：global photocopier 为比喻用法，作者将 Sci-Hub\n模糊定性为“全球性文献复印机”，与 offer access to every paywalled article（access to sth 指“对某事的使\n用机会或权利”）一起，说明其规模巨大，影响之广的同时，更突显其“违规/不合法性”：科研文献的复印\n版本随用隨取，却不具备任何知识产权。\n②句分析 Sci-Hub 成功的现实启示：正规合法的文献获取渠道已失去正统性，必须加以改革。The\nsuccess 承上概括 Sci-Hub 当前强的发展态势，which 定语从句浅层说明这一文献分享模式得到大批\n研究人员的认可（他们自己通过合法渠道获取后主动上传分享），深层表现业界对当前论文获取收费高\n昂、出版商坐收渔利的不满和反抗。shows引出 Sci-Hub 成功带来的启示；has lost legitimacy 直指正规文献\n获取体系问题严重，表面合法，实则不合理，已遭众多用户抛弃；must be transformed 则斩钉截铁强调，当前\n体系必须立即、彻底改变。注意句中出现多处与“法律”相关的表达，legally assessed 与 legal ecosystem 侧重\n于“法律允许/规定的、合法的（legal）”，而 has lost legitimacy 则侧重于“正当的、合情合理的、正统的\n（legitimate）”，三者集中说明当前科研出版体系虽合法但已在用户中失去其合理性，亟待改革。\n【深层解读】本段基于上文“问题”引出“现有解决对策（reaction）”，且段中 drastic, offer access to\nevery paywalled article、the success、the legal ecosystem has lost legitimacy 似乎均指向“Sci-Hub 是时代\n救星，能有效解决问题”，但段首 thoroughly illegal、claims to（上文用于暗讽传统出版商，此处又用于 Sci-\nHub）、以及段末的（legal ecosystem）must be transformed 却微妙反映作者深层心态：Sci-Hub 再成功也\n终究不合法，不能保障所有人权利的话，越成功可能反而越危险，业界应该做的不是抛弃现有体系，而是\n对现有出版体系进行改革，让合法的生态重获其正统合理性。\n• 真题精解\n28. How does the author feel about the success of Sci-Hub？\n28. 作者对 Sci-Hub 的成功作何感想？\n［A］ Relieved.\n［A］如释重负。\n［B］ Puzzled.\n［B］困惑不解。\n［C］ Concerned.\n［C］ 忧心忡仲。\n［D］ Encouraged.\n［D］鼓舞人心。\n［精准定位］第四段①句 thoroughly illegal（完全不合法）初步暗示作者对Sci-Hub 的质疑态度；②句\n评述 Sci-Hub 的成功带来的启示：科学出版业合法的生态体系在其用户中已失去合理/正统性（the legal\necosystem has lost legitimacy），该合法体系必须彻底改变（must be transformed），以重获权威/合理性。\n由此可见，作者通过非法（无版权保障的）网站的大获成功反向凸显当前科学出版业态的弊病之重，改革\n之迫切（如不进行自我改革，事态可能会进一步恶化，催生更多危及各方合法权利的非法事物），可见作\n者对 Sci-Hub 等非法网站的成功其实是感到担忧的，［C］正确。\n21",
+  "pdf_text_layer": "IJJ ~itff =*1:iJ.±-r:1-J The most drastic reaction has been the emergence of Sci-Hub and thoroughly       0\n\n\n illegal '1ti A iB', ~ Jl..t .!j most drastic #Jtl, .xf reaction :ill:fii~ JEi)l~ a kind of... papers Jg ls'] -fiL ~,\n                                                                                              o\n\n m~ Sci-Hub 1-.J'JPJ~, set up in 2012 1-; Sci- Hub e<JlfiI~i-a, i}l!!ijJ(:-€tl'iI..El-tfaJ; which i31 ~=IF~ifi1Jtt~i-a\n                         - ,~-\n.M. 'A)~ifp Sci- bub,:i!-=*t~    .... - .. Sci- Hub .89\n                              1f i.~ffjj                £.litt<R.\n                                                      ........ · - .,\n\n                                                      : ~:-j~j}ft~f:::~1 ;/\n       .-im~itl.i'1-=fifS~ 1t-tBltlftftfaJ!li '4~W~ifti~rlJTM?iJF~~ ,x~• m. ~\"J5!i.ffiim~a{)\"f=!fm o\n                                    I\n                                                       11\n\n\n\n       • izg ~ 7't...t sl W~~Wtt~Imfi~ faJBPJf1!« a{] ii* , i§ ~I: ii a<J\" & m\" : ~ fl ~ ~ 7'lt fijJ gt; Sci-Hub a<J tf:1\niji! o ~ it ifil .'-1 : CD the most drastic, and thoroughly illegal, reaction; @ must he t ransf'ormed               0\n\n\n       (Diijfl-tB Sci-hub .olXnl.lJJ~.ll o The most ... , and. .. , reaction(reaction ffi a reverse or opposing\naction\" Lim .. ~m\") @J mlffi      =Fi*       increasingly desperate efforts, 'JI tt .x,r #\"~it ~ i-fLrX., Pr rlr ~ ~ )'ffii, :ft 1=J\n~ ~-fip mZ5t9\"(drastic \"lt.:1-J extreme in effect), {E 1<~ 3ttt~ IW thoroughly illegal R f!JJ ~~iJ..Jtf¥:(£ ~ it\nJl!tt, ~ a kind of(~1-; not exact\"~ JL?t,fflffi\" ,-tf;ep :Sci-hub l{:~~;f;f - 1'?W~-€t~e<J~fil,~'Ul.)~~\n-l!ij-Dff ,~~ifitfffl:~.x,f Sci- Hub e<J~.1[~~.JJt o tl:: global photocopier 1-; tl:; l fr1 ffl ~, fF~:11f Sci-Hub\nmm~tt'1\"~3*tt:t~j!EfJVl.\", !=j offer access to every paywalled article(access to sth ffi\".xiJ';!tt$a9~\nJflVI.fi~~~J\")-®,~f!JlJt~~e *'~IJliiJzr-a9 ~a,t ,£~.ilP.Jt\"il~/ ~-frf*:tt\" :~ivf:t~tf(Jj[~\n                      ~A*\nNi* PIH JM lfiH 1TK , tfJ ff fiil ~ t9. t=:fJ.    o\n\n    @ i:i] ~#f Sci-Hub JocJ.iJ ~ J~~/is m: .iE ti!.\\1 ~ ii~ X ~~mt~ ii 2 ~ ~ .iE~ 1!1, ~- ~Di 1Jtl tl. ~ 1(i O The\nsuccess ilt...t. tft ffi Sci-Huh ~ 1Jtr5.i ~ ~ ~ )lt ~~--,which )Et~ 1' 'i:iJ ~ .rz¼ lbt. ~ ~ - :,c. AA J} :!¥- ~ ~ ~.ij- \"$1)-}c ffl:\n                                                                          **),\nii1f ~ A .61 tJ(J iA. RJ <ftB 111 § a ,1 n ,g. 1!ml! Yt 1tit Ja\" ± ;1; .t ~ fJit~ ~ JJ4b& -W- M~ rir it x Yt 1lil i& Jt iRi\n~ 'tfilf&ill~t&ffi~J~~-.ffi!imo shows ~I tfi Sci-Hub J/1.~iffr-*~Js.m ;has lost legitimacy 1iffi.iE~X!t\n~Jlilf*~fll]IJIF'.ffl: ,~ffii½t! ,3tJilU~1tJ11! I B:il~~ffl.PWL~ ;must be transformed JilUffi'U·~~i ~,                          ~mr\n                                                                        *\n-f* ~&,~~DP , W1 la; D.k ~ o tl: •1ij ~ tfi ~ ~ ~ ~ \"~ • \"ffl tf9 ~:iii , legally assessed ~ legal ecosystem {JIU It\nr\"~-ft ilf / ~Jt!. jE a<J, it~ a<J <legal)\", ffii has lost l,egitimacy }jlU -ffiU ffi'. r \".iE ~ ~,it·~½ J.I a<J, .iE t!f. a<J\n(legitimate)\" ·=~-r:p~IY) ~frr~HifftfiNif*~li½t!fllB:(fffl,P ~~:Ji:Jt:1tJ:ltt                          ,&!~~-.\n     (~~-~] *il:£-r ..tx\"fll]jj\"sl tfj \"~~-~~- (reaction)\"' ii~ i:f:i drastic,offer access to\ne.very paywalled article,the success,the legal ecosystem has lost legitimacy {~3¥-.isJffiffiJ\"Sci-Hub ~a,fft\n~£, ft~1i\"~ff ~l'i:iJl1I\" ,© m:tt thoroughly illegal,claims to<...t.:::tffl rliff~1tm tfi Jtli ffJi, ~~..>t}ff -r Sci-\nHub),   ~11~*~         (legal ecosystem) must 'be transformed~-~ & !Wcf'F;ff ~~,C,, ~: Sci-Hub -flf At~m\n~~~½t¼ ,~~1*-PJf1i\" A~~J~~ ,~~~RJ~li mi~~~ ,.ill!..W-mZ~M~~i:WL\"!f.~~1*~, mi¾\n~~~w~~~~ff~¥.u••~~~m ~ a~ ~• ~ ~p\n\n                                                      :~:~-.:ijw.f::~:;/\n 28. How does the author feel about the success of Sci-Hub?                  28. 1'F fir~ Set-Hub ~ @t J.jJ 1t fRJ lfi m?\n [A] Relieved.                                                               [A] ~a~m:~o\n [BJ Puzzled.                                                                [BJ ~~~Mo\n [ CJ Concerned.                                                             [ CJ tt ,t:., # •fip o\n [DJ Encouraged.                                                             [DJ !{1$,A,C., o\n  [ ffl)t:iEf.n:] jjlllQm;(D1Q thoroughly illegal(7t3!-~1t~)f1Ji:Plli.7J\\f'l::?f:;tf Sci-Hub ~,m~~lt ;@1i]\nW~ Sci-Hub tf(J     lit~**  ~ ls m :~ ~ WRli )lk {t i¼ ~ ~ ~-f* ~ :(£ Jt }ff F r:p e. ~-¼ ft 3'. / .iE tt <the legal\necosystem has lost legitimacy) ,~½t¼-f*~~,~~*i!Jc~<must be transforme~), IJ.Cm:SttCoot /½i.l!tto\n                                                                                                                         m\n w~AJ .fil ,f'l:~31u~l:t!<~Jt&~f¥$~) ~16~*l1tJit~li.(DJ 8lll~ftr~~WJl&~~~~~zm, i!Jc._\nZia {7J <:fnt~i!fr El ~P.k:iJ, -~AJh~J!-~ ~{t, -fl~l!~~ll~ 1iitt!~~J ~ ~I: t!$ ~), AJ .00.f'F\n:«-X1 Sci-Hub ·~l:t¼~~~Jvt~lt~~~JljffltJt(t(J, [C].iE~ o\n                                                                                                                               21",
+  "quality": {
+    "vision_line_count": 48,
+    "vision_character_count": 2307,
+    "pdf_text_character_count": 5070,
+    "nonempty": true
+  }
+}

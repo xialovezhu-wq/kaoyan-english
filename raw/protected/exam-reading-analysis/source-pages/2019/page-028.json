@@ -1,0 +1,518 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P028",
+  "year": 2019,
+  "pdf_page": 28,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.013111676399906513,
+      "text": "LB］ has remained popular for as long as 200 years",
+      "width": 0.42307690733694014,
+      "x": 0.07905984116058959,
+      "y": 0.9127604167104628
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164844195011,
+      "text": "［B］200年来一直受人欢迎",
+      "width": 0.23290597616027597,
+      "x": 0.5576923127287754,
+      "y": 0.9127604163743063
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014923444638649586,
+      "text": "［C］ involves some concerns raised by Al today",
+      "width": 0.39548726282813995,
+      "x": 0.07895816777790628,
+      "y": 0.8848196090115504
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014565164223313332,
+      "text": "［C］涉及 AI 目前所引发的一些担忧",
+      "width": 0.3119657962258291,
+      "x": 0.5576923186819572,
+      "y": 0.8851744189517644
+    },
+    {
+      "confidence": 1,
+      "height": 0.013671875,
+      "text": "［D］ has sparked serious ethical controversies",
+      "width": 0.3803418623533285,
+      "x": 0.07905984185752372,
+      "y": 0.8587239585357682
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "［D］引发了严重的伦理争议",
+      "width": 0.23931623144624792,
+      "x": 0.5576923094905513,
+      "y": 0.8574218747028011
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "［精准定位］由题干关键词 Mary Shelley's novel Frankenstein 虽可直接定位至首段，但由is",
+      "width": 0.8461538146738805,
+      "x": 0.10683762962887153,
+      "y": 0.831380208610482
+    },
+    {
+      "confidence": 1,
+      "height": 0.01772953011095524,
+      "text": "mentioned because it 即可推断此题考查写作目的，故应结合文章话题及下文内容予以解答。首段以科",
+      "width": 0.8803418623533285,
+      "x": 0.06837608437889116,
+      "y": 0.8110465116411968
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "幻小说《弗兰肯斯坦》出版200周年开篇，称赞著作者极有远见，在书中预言了未来（200年后的今天）技",
+      "width": 0.8803418623533286,
+      "x": 0.06837608365850047,
+      "y": 0.7936046515057512
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "术将带来的诸多道德问题，浏览下文发现只有篇末复现作品相关词 Frankenstein，而 Al、ethical/ethics 却",
+      "width": 0.8803418623533286,
+      "x": 0.06837607108218806,
+      "y": 0.7732558137941793
+    },
+    {
+      "confidence": 1,
+      "height": 0.01889534791310632,
+      "text": "贯穿全篇。由此推知，文章关注点并非《弗兰肯斯坦》本身，该小说只是作为开篇引子用以引出本文核心",
+      "width": 0.8803418623533285,
+      "x": 0.0683760752335923,
+      "y": 0.750000000273098
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883822003963,
+      "text": "话题“与AI 相关的伦理道德问题”，也即，文章提及《弗兰肯斯坦》是因为书中预言了200年后的今天新",
+      "width": 0.8803418623533286,
+      "x": 0.06837607108218806,
+      "y": 0.7354651164766814
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "科技（AI）所引发的道德伦理问题，［C］正确。",
+      "width": 0.373931621683055,
+      "x": 0.06837607261644969,
+      "y": 0.7148437497955258
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "［命题解密］正确项LC］恰当解读了小说重大意义 foreshadow many ethical questions to be raised by",
+      "width": 0.8440170580399904,
+      "x": 0.1068376308548521,
+      "y": 0.6959635415556897
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "technologies yet to come 与下文复现关键词 Al、ethical/ethics、issues/questions 之间“引子-正题”关联。",
+      "width": 0.867521322549988,
+      "x": 0.06623934616090323,
+      "y": 0.6757812496979281
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "［A］中 fascinate 源自第三段②句，但原文意在说明“人类痴迷于某种‘机器人’概念”，选项内容“全球",
+      "width": 0.8418803014061003,
+      "x": 0.10683763636959914,
+      "y": 0.6569010417258596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017668968066573143,
+      "text": "AI科学家痴迷于《弗兰肯斯坦》”文中并未提及。",
+      "width": 0.40598288349721623,
+      "x": 0.06837608464028067,
+      "y": 0.6366279069464293
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768410826722766,
+      "text": "［B］由开篇句所涉信息“《弗兰肯斯坦》出版200周年”过度推出“该小说200年来一直受欢迎”，但下",
+      "width": 0.8418803014061004,
+      "x": 0.10683763658327443,
+      "y": 0.6177325581092201
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "文并未论及小说的受欢迎度，故选项偏离文章话题，并非小说被提及的原因。",
+      "width": 0.6474359154244492,
+      "x": 0.06837606477709147,
+      "y": 0.5988372092278034
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "［DJ中 ethical controversies 源自首段末句中 ethical questions，但选项将引发伦理问题的主体由“新",
+      "width": 0.8418803014061003,
+      "x": 0.10683763308815848,
+      "y": 0.5799418604511561
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "技术”偷换为“小说《弗兰肯斯坦》”。",
+      "width": 0.3012820422877754,
+      "x": 0.0683760758860268,
+      "y": 0.5610465115267373
+    },
+    {
+      "confidence": 1,
+      "height": 0.01744186008969928,
+      "text": "［技巧总结］本题就开篇引子（事例、故事、名人名言等）设置写作目的题。解题思路为：一、首先明确",
+      "width": 0.8440170580399904,
+      "x": 0.10470086809538942,
+      "y": 0.5406976747807317
+    },
+    {
+      "confidence": 1,
+      "height": 0.016306322688857566,
+      "text": "引子的作用：激发读者兴趣，为引人正题服务；二、大体锁定全文主述话题词：速览下文抓取与引子内容",
+      "width": 0.8803418623533286,
+      "x": 0.06837607108218806,
+      "y": 0.5214843750202853
+    },
+    {
+      "confidence": 1,
+      "height": 0.01629118248820305,
+      "text": "有关联的高频复现词；三、分析选项：“能体现引子本身所涉内容”且“能和下文内容顺接（或反映全文主",
+      "width": 0.8824786189872186,
+      "x": 0.06623931416023697,
+      "y": 0.5026041663920362
+    },
+    {
+      "confidence": 1,
+      "height": 0.017729530110955127,
+      "text": "述话题）”的选项是正确项，“与引子所涉内容相悖/无关”或“无法与下文内容建立有效关联（偏离全文主",
+      "width": 0.8803418623533286,
+      "x": 0.0683760699344469,
+      "y": 0.483723958247848
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017578125,
+      "text": "述话题）”的通常是干扰项。如本题，［A］、［B］实际均囿于小说本身，而未与全文多次反复出现的AI、",
+      "width": 0.8846153756211088,
+      "x": 0.06623931189030045,
+      "y": 0.4635416667384792
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017623546843727467,
+      "text": "ethical/ethics、questions/issues/problem 相关联，故均予以排除。",
+      "width": 0.542735015752215,
+      "x": 0.06623933640808032,
+      "y": 0.44331395345805724
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "I Today the rapid growth of artificial intelligence （Al）",
+      "width": 0.46581195232055195,
+      "x": 0.11111112159613415,
+      "y": 0.4140624999915833
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "如今，人工智能（AI）的快速发展引",
+      "width": 0.30128204228777544,
+      "x": 0.6410256434928645,
+      "y": 0.4055232559285087
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011900435512264496,
+      "text": "raises fundamental|",
+      "width": 0.18162391925680227,
+      "x": 0.06837607374054475,
+      "y": 0.3982558144793863
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "questions：“What is intelligence，",
+      "width": 0.326923063431663,
+      "x": 0.2500000012969892,
+      "y": 0.39518229143981554
+    },
+    {
+      "confidence": 1,
+      "height": 0.021282833069562912,
+      "text": "发了一些根本性的问题：“何谓智力、身",
+      "width": 0.3424159082873115,
+      "x": 0.6001930439436183,
+      "y": 0.3849161725379949
+    },
+    {
+      "confidence": 1,
+      "height": 0.014966026569406155,
+      "text": "identity®",
+      "width": 0.07496552449076567,
+      "x": 0.06614971732007806,
+      "y": 0.37623791740903545
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "， or consciousness® ？ What makes humans humans？”",
+      "width": 0.43589741790888403,
+      "x": 0.14102564457119912,
+      "y": 0.3763020834120302
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "份或意识？是什么让人成其 人？”",
+      "width": 0.30128204228777544,
+      "x": 0.6004273576808986,
+      "y": 0.36773255821278394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013217659667134285,
+      "text": "II ①What is being called artificial general intelligence，",
+      "width": 0.46581195232055195,
+      "x": 0.11111112251493761,
+      "y": 0.35742187524556057
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "目前所谓的通用人工智能—模仿",
+      "width": 0.30128204228777544,
+      "x": 0.6410256430120953,
+      "y": 0.3488372094895551
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01602521414558089,
+      "text": "machines that would imitate the way humans think，",
+      "width": 0.5088024504796755,
+      "x": 0.06828447347900829,
+      "y": 0.33715961424650165
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "人类思维方式的机器—对科学家们来",
+      "width": 0.34401708727138713,
+      "x": 0.5982905982232809,
+      "y": 0.32994186063781095
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "continues to evade® scientists. ② Yet humans|",
+      "width": 0.450854685114718,
+      "x": 0.06837608376030452,
+      "y": 0.3183139537482761
+    },
+    {
+      "confidence": 1,
+      "height": 0.010416666977107525,
+      "text": "remain",
+      "width": 0.06196581084152741,
+      "x": 0.5170940166233959,
+      "y": 0.31966145821942893
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "说一直扑朔迷离。然而，人类依然痴迷",
+      "width": 0.34401708727138713,
+      "x": 0.598290601342939,
+      "y": 0.30794270830340154
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "fascinated® by the idea of robots that would look, move, and",
+      "width": 0.5085470265355603,
+      "x": 0.06837605649717711,
+      "y": 0.29941860503219075
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666674,
+      "text": "于像人类一样观察、移动和反应的机器",
+      "width": 0.341880330637497,
+      "x": 0.6004273584907752,
+      "y": 0.289062499899405
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550024022658592,
+      "text": "respond like humans, similar to those recently depicted®on",
+      "width": 0.5106837247066571,
+      "x": 0.06837609487601591,
+      "y": 0.2790697677017645
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333337,
+      "text": "人概念，就像《西部世界》《人类》等新近",
+      "width": 0.34401708727138713,
+      "x": 0.5982905996762723,
+      "y": 0.27018229139136596
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111676399906402,
+      "text": "popular sci-fi® TV series such as “Westworld” and",
+      "width": 0.5085470265355604,
+      "x": 0.06837606301427106,
+      "y": 0.26162790701421546
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "热门科幻电视剧所刻画的那类机器人。",
+      "width": 0.32905982006555323,
+      "x": 0.6004273572749157,
+      "y": 0.2499999999445114
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013126816600561142,
+      "text": "“Humans.”",
+      "width": 0.10256409919124908,
+      "x": 0.06623931920779423,
+      "y": 0.24273255825227602
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.0132933625330528,
+      "text": "N ①Just how people think is still far too complex to be",
+      "width": 0.4700854655883321,
+      "x": 0.10897436709899619,
+      "y": 0.22238372093396208
+    },
+    {
+      "confidence": 1,
+      "height": 0.014610586067040798,
+      "text": "人类思维方式仍然极为复杂，难以",
+      "width": 0.30341879892166546,
+      "x": 0.6388888881032698,
+      "y": 0.21940104152189255
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013308502733707428,
+      "text": "understood, let alone reproduced®， says David Eagleman, a",
+      "width": 0.508546968072767,
+      "x": 0.06837608225635179,
+      "y": 0.20348837198774117
+    },
+    {
+      "confidence": 1,
+      "height": 0.01459544524550438,
+      "text": "理解，更不要说复制了，斯坦福大学神经",
+      "width": 0.34401708727138713,
+      "x": 0.5982906045302607,
+      "y": 0.20052083363703355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "Stanford University neuroscientist. ② “We are just in a",
+      "width": 0.508546968072767,
+      "x": 0.06837609315378729,
+      "y": 0.18294270862813777
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01768410826722777,
+      "text": "科学家大卫•伊格曼说。“我们正面临",
+      "width": 0.34401708727138713,
+      "x": 0.5982906051036225,
+      "y": 0.18023255841445263
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013263081510861752,
+      "text": "situation where there are no good theories explaining what",
+      "width": 0.5128204813405471,
+      "x": 0.06623932343229078,
+      "y": 0.16406249982625187
+    },
+    {
+      "confidence": 1,
+      "height": 0.014565164844195011,
+      "text": "的处境是，目前尚没有哪项理论能够足",
+      "width": 0.341880330637497,
+      "x": 0.6004273588977757,
+      "y": 0.16276041636392424
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013247940689325333,
+      "text": "consciousness actually is and how you could ever build a",
+      "width": 0.5085470265355604,
+      "x": 0.06837606446726245,
+      "y": 0.14518229192685794
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "以解释意识究竟是什么，又怎能建造一",
+      "width": 0.341880330637497,
+      "x": 0.6004273571705678,
+      "y": 0.14244186017862692
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015713056549429893,
+      "text": "machine to get there.”",
+      "width": 0.1948842015759698,
+      "x": 0.06606026332445675,
+      "y": 0.12540137417303854
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.022019512951374054,
+      "text": "台复制人类意识的机器呢。”",
+      "width": 0.24218083524155887,
+      "x": 0.6001424800531987,
+      "y": 0.11916153319601985
+    },
+    {
+      "confidence": 1,
+      "height": 0.011930716534455654,
+      "text": "28",
+      "width": 0.02350427364480906,
+      "x": 0.07905982888272367,
+      "y": 0.0651041669072292
+    }
+  ],
+  "vision_ocr_text": "LB］ has remained popular for as long as 200 years\n［B］200年来一直受人欢迎\n［C］ involves some concerns raised by Al today\n［C］涉及 AI 目前所引发的一些担忧\n［D］ has sparked serious ethical controversies\n［D］引发了严重的伦理争议\n［精准定位］由题干关键词 Mary Shelley's novel Frankenstein 虽可直接定位至首段，但由is\nmentioned because it 即可推断此题考查写作目的，故应结合文章话题及下文内容予以解答。首段以科\n幻小说《弗兰肯斯坦》出版200周年开篇，称赞著作者极有远见，在书中预言了未来（200年后的今天）技\n术将带来的诸多道德问题，浏览下文发现只有篇末复现作品相关词 Frankenstein，而 Al、ethical/ethics 却\n贯穿全篇。由此推知，文章关注点并非《弗兰肯斯坦》本身，该小说只是作为开篇引子用以引出本文核心\n话题“与AI 相关的伦理道德问题”，也即，文章提及《弗兰肯斯坦》是因为书中预言了200年后的今天新\n科技（AI）所引发的道德伦理问题，［C］正确。\n［命题解密］正确项LC］恰当解读了小说重大意义 foreshadow many ethical questions to be raised by\ntechnologies yet to come 与下文复现关键词 Al、ethical/ethics、issues/questions 之间“引子-正题”关联。\n［A］中 fascinate 源自第三段②句，但原文意在说明“人类痴迷于某种‘机器人’概念”，选项内容“全球\nAI科学家痴迷于《弗兰肯斯坦》”文中并未提及。\n［B］由开篇句所涉信息“《弗兰肯斯坦》出版200周年”过度推出“该小说200年来一直受欢迎”，但下\n文并未论及小说的受欢迎度，故选项偏离文章话题，并非小说被提及的原因。\n［DJ中 ethical controversies 源自首段末句中 ethical questions，但选项将引发伦理问题的主体由“新\n技术”偷换为“小说《弗兰肯斯坦》”。\n［技巧总结］本题就开篇引子（事例、故事、名人名言等）设置写作目的题。解题思路为：一、首先明确\n引子的作用：激发读者兴趣，为引人正题服务；二、大体锁定全文主述话题词：速览下文抓取与引子内容\n有关联的高频复现词；三、分析选项：“能体现引子本身所涉内容”且“能和下文内容顺接（或反映全文主\n述话题）”的选项是正确项，“与引子所涉内容相悖/无关”或“无法与下文内容建立有效关联（偏离全文主\n述话题）”的通常是干扰项。如本题，［A］、［B］实际均囿于小说本身，而未与全文多次反复出现的AI、\nethical/ethics、questions/issues/problem 相关联，故均予以排除。\nI Today the rapid growth of artificial intelligence （Al）\n如今，人工智能（AI）的快速发展引\nraises fundamental|\nquestions：“What is intelligence，\n发了一些根本性的问题：“何谓智力、身\nidentity®\n， or consciousness® ？ What makes humans humans？”\n份或意识？是什么让人成其 人？”\nII ①What is being called artificial general intelligence，\n目前所谓的通用人工智能—模仿\nmachines that would imitate the way humans think，\n人类思维方式的机器—对科学家们来\ncontinues to evade® scientists. ② Yet humans|\nremain\n说一直扑朔迷离。然而，人类依然痴迷\nfascinated® by the idea of robots that would look, move, and\n于像人类一样观察、移动和反应的机器\nrespond like humans, similar to those recently depicted®on\n人概念，就像《西部世界》《人类》等新近\npopular sci-fi® TV series such as “Westworld” and\n热门科幻电视剧所刻画的那类机器人。\n“Humans.”\nN ①Just how people think is still far too complex to be\n人类思维方式仍然极为复杂，难以\nunderstood, let alone reproduced®， says David Eagleman, a\n理解，更不要说复制了，斯坦福大学神经\nStanford University neuroscientist. ② “We are just in a\n科学家大卫•伊格曼说。“我们正面临\nsituation where there are no good theories explaining what\n的处境是，目前尚没有哪项理论能够足\nconsciousness actually is and how you could ever build a\n以解释意识究竟是什么，又怎能建造一\nmachine to get there.”\n台复制人类意识的机器呢。”\n28",
+  "pdf_text_layer": "[BJ has rema ined popular for as long as 200 yea rs                          [ BJ 200 年来 一 直受人欢 迎\n\n [ CJ involves som e concerns raised by AI today                              [CJ 涉及 A I 目前所引发的一些担 忧\n\n [ DJ has sparked serious ethica l cont rovers ies                            [ DJ 引发了严重的伦理争议\n\n       ［精准定位］ 由题干 关键 词 M a ry She ll 町 ’ s novel Frank e n ste in 虽可直接定位至首段， 但由 I S\nm entioned beca use it 即可推断此题 考查写 作目的 ，故应 结合文 章话题及下文 内 容予 以解答 。首段 以科\n幻小说《弗 兰 肯 斯坦 》 出版 20 0 周年开篇，称赞著 作 者极有 远见， 在书中预言了未来（ 200 年后 的今 天）技\n术将带来的诸多道德问题，浏览下文发现只有篇末复现作品相关词 Frankenstein ，而 AI 、 et h ical/ e thi cs 却\n贯穿全篇 。 由此推知， 文章关注点并非 《 弗 兰 肯斯坦 》本身，该 小说 只是作为开篇引子 用以引出本 文核 心\n话题“与 A I 相关的伦理道德问题”，也即，文 章提及《弗兰 肯斯坦 》 是因为书中预言了 200 年后 的 今天新\n科技 CAD 所引发的道德伦理问题， ［ CJ 正确 。\n       ［命题解密］ 正确项［ CJ 恰当解读了 小说 重大意义 for es ha dow many et hi ca l qu es tions to be ra ised by\ntechnologies yet to come 与 下 文复现关键词 A I 、 et h i cal/ et hi cs 、 i ss u es / qu es tions 之间“引子正题”关联 。\n       [ A ］ 中 fa scin ate 源自第 三 段 ②句 ，但原文意在说明“人类痴迷于某种‘机器人’概念”，选项内容“全球\nAI 科 学家 痴迷于《弗 兰 肯斯坦》”文中并未提及 。\n       [ B］！」：I 开篇句 所涉信息“ 《 弗 兰 肯斯坦》 出版 200 周年” 过 度 推出 “该 小说 200 年来一直受欢 迎” ， 但下\n文并未论及 小说的 受欢 迎度 ，故选项偏离文章话题，并 非小说被 提及 的原 因。\n       [ DJ 中巳th i ca l controversies 源自首段末句中 et h i ca l qu es ti or山但选项将引发伦理问题的主体由“新\n技术”偷换为“小说《 弗兰肯斯坦 》” 。\n       ［技巧总结］ 本题就开篇引子（事例、故事、名人名言等）设置写作目 的 题 。 解题思路为： 一 、首先明确\n引 子 的作用： 激发读者兴趣，为引人正题服务 ； 二 、 大体锁定全文主 述 话题词 ： 速览下文 抓取 与引子 内 容\n有关联的高频复 现 词； 三 、分析 选项 ． “能体现引子本身 所 涉 内 容”且“能和下文 内 容 Ji因 接（或反映全文主\n述话题）”的选项是正确项，“与引子所涉内容相悖 ／ 无关”或“无法与下文内容建立有效关联（偏离全文主\n述话题）”的通常是干扰项。如本题， ［ A ］ 、 ［ B J 实际 均围于小说本身，而未与全文多次反复出现的 AI 、\net hical/ e thi cs 、 qu est ion s/ issu es/ prob l em 相关联，故 均予以排除 。\n\n       II Today the ra pid growth of artifi cia l intelligence CAD                    如今，人工智能 CAD 的快速发展引\nra ises     fund am enta l   questions : “ What               is   intelligence,\n                                                                                   发了一些根本性的问题 ： “何谓智力、身\nidentity(    ,   or consciousness( ? What makes humans humans ?”\n                                                                                   份或意识 ？ 是什么让人成其为人？”\n       田 0 What is being ca lled a rtifi cia l genera l intelli gence,\n                                                                                      目前所谓的通用人工智能 一一模仿\nmac hines that        wou ld     imitate     t he      way    humans     think,\n                                                                                   人类思维方式的机器 一一对科学家们来\ncontinues to evade(            scientists.        8     Yet   humans     remain\n                                                                                   说一直扑朔迷离 。 然而，人类依然痴迷\nfascinated® by the idea of ro bot s that wou ld look , mo ve , a nd\n                                                                                   于像人类一样观察、移动和反应的机器\nrespond like huma ns, similar to those recently depicted® on\n                                                                                   ｜人概念，就像 《 西部世界 》《 人类 》 等新近\npopular sci- fi ® TV           series   such          as “ W estwo rld ”    and\n                                                                                   热门科幻电视剧所刻画的那类机器人 。\n“ Humans. ”\n       N OJ ust how people think is still far too comp lex to be                      人类思维方式仍然极为复杂，难以\nund erstood, let a lone reproduced(           ,   says David Eagleman, a           理解，更不妥说复制了，斯坦福大学神经\nStanford Un ive rsit y neuroscienti st.               8 “ We are j ust in a        科学家大卫·伊格曼说 。 “我们正面临\nsituatio n where t her e are no good t heori es exp laining what                   的处境是，目前尚没有哪项理论能够足\nconscio us ness act ually is and how you cou ld ever build a                       以解释意识究竟是什么，又怎能建造一\nmachin e to get th ere. \"                                                          台复制人类意识的机器呢 。 ”\n\n\n\n\n  28",
+  "quality": {
+    "vision_line_count": 62,
+    "vision_character_count": 2332,
+    "pdf_text_character_count": 3782,
+    "nonempty": true
+  }
+}

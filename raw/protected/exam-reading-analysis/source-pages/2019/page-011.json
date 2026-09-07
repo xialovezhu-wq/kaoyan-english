@@ -1,0 +1,438 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2019-P011",
+  "year": 2019,
+  "pdf_page": 11,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2019年考研英语一真题解析.pdf",
+  "source_sha256": "2d30e4a1891dc12914d93b4a4b803c3dbe31214d734fe565c68d0cfeb7a75773",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01744186008969939,
+      "text": "3.理解关键词含义：对全段内容进行推理可知段落关键词 a rather unusual rule 内涵：1. 以往罚款",
+      "width": 0.8454935514009916,
+      "x": 0.07296138585172149,
+      "y": 0.9098837211906154
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "通常只是针对金融机构，很少针对高管个人；2. 以往即便有针对高管的惩罚，也没有如此大的力度、如此",
+      "width": 0.8841201782226562,
+      "x": 0.03218882908609686,
+      "y": 0.8893229164353535
+    },
+    {
+      "confidence": 1,
+      "height": 0.017667367433508274,
+      "text": "深远的影响。",
+      "width": 0.11422315744253306,
+      "x": 0.031944216407686236,
+      "y": 0.8683465491495296
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "4.体味作者态度：rather unusual、hold bankers accountable、a much larger benefit, to build a stronger",
+      "width": 0.8476394653320313,
+      "x": 0.07296139332647344,
+      "y": 0.8473837206437432
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "economy for future generations 均传递作者对新规的肯定。",
+      "width": 0.5000000000000001,
+      "x": 0.03218884536838331,
+      "y": 0.8268229164910706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017684108267227883,
+      "text": "5. 推理全篇主旨：末句以 Yet（连接句子表示含惊讶之意的转折）、also 引出作者强调信息，且句中放",
+      "width": 0.8433476374699519,
+      "x": 0.07296137769742735,
+      "y": 0.80523255810922
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "大关注范围（all corporations）、提出更大希冀（more long-term decision-making）、并强调深远意图（build a",
+      "width": 0.8884120060847356,
+      "x": 0.03218883785891998,
+      "y": 0.7848837207999932
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "stronger economy for future generations），均暗示本句与文章主旨紧密相关。",
+      "width": 0.6480686481182392,
+      "x": 0.032188857307117756,
+      "y": 0.7643229164910706
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.018940769756833675,
+      "text": "．真题精解。",
+      "width": 0.13948497772216795,
+      "x": 0.39484978697940243,
+      "y": 0.7369186051737764
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011794452245036835,
+      "text": "21. According to Paragraph 1, one motive in imposing the",
+      "width": 0.5042918278620793,
+      "x": 0.04291845954893177,
+      "y": 0.7076822915604606
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "21.根据第一段，施行新规的目的之一",
+      "width": 0.36051500760591937,
+      "x": 0.5472103118622762,
+      "y": 0.7049418605056619
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01041666666666663,
+      "text": "new rule is to",
+      "width": 0.1137339005103478,
+      "x": 0.042918455574582945,
+      "y": 0.6888020832462198
+    },
+    {
+      "confidence": 1,
+      "height": 0.014534883201122284,
+      "text": "是",
+      "width": 0.021459227341872,
+      "x": 0.56437768264523,
+      "y": 0.6860465119604854
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013081395377715355,
+      "text": "。",
+      "width": 0.019313304240886953,
+      "x": 0.6394849788881402,
+      "y": 0.6831395347384679
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01326308151086164,
+      "text": "［A］ enhance bankers' sense of responsibility",
+      "width": 0.37982832101675185,
+      "x": 0.040772530022740075,
+      "y": 0.6640624998807576
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014565164844195122,
+      "text": "［A］增强银行家的责任感",
+      "width": 0.2231759584867038,
+      "x": 0.5622317646407683,
+      "y": 0.6627604163639242
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111676399906402,
+      "text": "［B］ help corporations achieve larger profits",
+      "width": 0.3669527787428636,
+      "x": 0.042918464083503784,
+      "y": 0.6366279070059098
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013111676399906624,
+      "text": "［B］帮助企业获得更多利润",
+      "width": 0.24034334329458384,
+      "x": 0.5622317642325363,
+      "y": 0.6366279070349794
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013671875,
+      "text": "［C］ build a new system of financial regulation",
+      "width": 0.3905579200157752,
+      "x": 0.042918469766790354,
+      "y": 0.6087239585466693
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333326,
+      "text": "［C］建立新的金融监管体制",
+      "width": 0.24034334329458384,
+      "x": 0.5622317635458411,
+      "y": 0.6087239582909738
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013096536199251885,
+      "text": "［D］ guarantee the bonuses of top executives",
+      "width": 0.3755364638108473,
+      "x": 0.04291846806775217,
+      "y": 0.5813802080557395
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014550024022658592,
+      "text": "［D］保证高管的奖金",
+      "width": 0.18240343240591195,
+      "x": 0.562231757911851,
+      "y": 0.5813802082029025
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666674,
+      "text": "［精准定位］第一段③句指出，新规主要目的是让银行家对有害冒险负责，并重建公众信任，概括即",
+      "width": 0.843347637469952,
+      "x": 0.07296138042198291,
+      "y": 0.5520833332038602
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014610586067040687,
+      "text": "为增强银行家的责任感，［A］正确。",
+      "width": 0.3025750967172476,
+      "x": 0.03218884346541057,
+      "y": 0.5319010415218925
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "［命题解密］正确项［A］是对③句 to hold bankers accountable for harmful risk-taking 的同义改写。",
+      "width": 0.8326180091271034,
+      "x": 0.07296139002872283,
+      "y": 0.5116279072366481
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017684108267227883,
+      "text": "［B］对④句 larger benefit...all corporations 断章取义，该句含义实为“新规有望带来更大的益",
+      "width": 0.8454935514009916,
+      "x": 0.07081545927804489,
+      "y": 0.4895833335508777
+    },
+    {
+      "confidence": 1,
+      "height": 0.017653827245036724,
+      "text": "处—企业将会制定更多长期决策”。［C］夸大其词，文中只提及“一项新的银行业监管规定”，并未提及",
+      "width": 0.8841201782226561,
+      "x": 0.0321888348693587,
+      "y": 0.4680232557836387
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "“一套新的金融监管体制”（a new system of financial regulation 无据可依）。［D］对②句 guaranteed bonus",
+      "width": 0.8905579200157753,
+      "x": 0.03004293953610352,
+      "y": 0.4476744185725222
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "of top executives 断章取义，与该句完整含义“新规会推迟高管固定奖金的发放”相悖。",
+      "width": 0.7274678156926082,
+      "x": 0.032188844131010357,
+      "y": 0.42578124990119415
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "［技巧总结］题干中常用 motive/motivate、intention/intend、purpose、hope、aim 等词询问某政策，行",
+      "width": 0.843347637469952,
+      "x": 0.07296138042198291,
+      "y": 0.40552325582075743
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "为等的目的，解题时应从文中寻找体现“目的性”的同类词汇以锁定正确项来源，并与选项比对。具体来",
+      "width": 0.8841201782226562,
+      "x": 0.03218882908609686,
+      "y": 0.38517441844534206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "看本题：首先借题干中 motive 一词明确具体考查方向——新规目的（且one motive 暗示：文中很可能提",
+      "width": 0.8841201782226563,
+      "x": 0.03218883055963055,
+      "y": 0.364583333046399
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017653827245036835,
+      "text": "及多条目的，选项符合其中任何一条都正确）。随后锁定同样体现强烈“目的性”（The main purpose、",
+      "width": 0.886266092153696,
+      "x": 0.032188831256843284,
+      "y": 0.3430232559289875
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "hope for）的③④句为解题范围。最后将选项信息与锁定内容对比，发现［A］是对③句 to hold bankers",
+      "width": 0.8884120060847356,
+      "x": 0.032188855627159924,
+      "y": 0.322674418590691
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "accountable for... 的概括（enhance... sense of responsibility 与 hold...accountable 近义），故正确；其他",
+      "width": 0.8841201782226563,
+      "x": 0.03218883055963055,
+      "y": 0.30208333364305595
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372266292572,
+      "text": "选项或明显偏离文意（［B］、［D］），或找不到支撑信息（［C］），均错误。",
+      "width": 0.5793991088867188,
+      "x": 0.032188863367799365,
+      "y": 0.28052325574185366
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534883201122284,
+      "text": "I ①“Short-termism”or the desire for quick",
+      "width": 0.4248926896315355,
+      "x": 0.07510730260912503,
+      "y": 0.24854651213005896
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01458030504484975,
+      "text": "英格兰银行首席经济学家安德鲁•霍尔",
+      "width": 0.3454935514009916,
+      "x": 0.5643776902866287,
+      "y": 0.2412790701104024
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01720496018727613,
+      "text": "profits, has worsened\" in publicly traded companies®，",
+      "width": 0.4659151223989634,
+      "x": 0.03417209695396683,
+      "y": 0.22709876812551355
+    },
+    {
+      "confidence": 1,
+      "height": 0.017668968066573143,
+      "text": "丹称，“短期主义”，或者说是对迅速获利的渴",
+      "width": 0.3862660921536959,
+      "x": 0.5236051504539102,
+      "y": 0.2207031249143231
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011900435512264496,
+      "text": "says the Bank of England's top economist, Andrew",
+      "width": 0.4656652303842398,
+      "x": 0.034334772602944354,
+      "y": 0.2107558143582623
+    },
+    {
+      "confidence": 1,
+      "height": 0.01627604166666663,
+      "text": "望，在公开上市交易的公司中已经加剧。他援",
+      "width": 0.3884120060847356,
+      "x": 0.5236051589926822,
+      "y": 0.20182291656374518
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013217659667134285,
+      "text": "Haldane. ② He quotes a giant® of classical economics®，",
+      "width": 0.463519287109375,
+      "x": 0.036480707518273627,
+      "y": 0.19186046507761512
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014625726267695427,
+      "text": "引古典经济学巨匠阿尔弗雷德•马歇尔之言，",
+      "width": 0.3905579200157753,
+      "x": 0.5236051603783785,
+      "y": 0.18459302369740394
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011930716534455654,
+      "text": "Alfred Marshall, in describing this financial impatience",
+      "width": 0.463519287109375,
+      "x": 0.0364806939989607,
+      "y": 0.1729651165384949
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372266292572,
+      "text": "把这种“经济上的急躁”形容成就像是“从布丁",
+      "width": 0.3884120060847356,
+      "x": 0.5214592329018383,
+      "y": 0.16569767449185369
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01627604166666663,
+      "text": "as acting like “children who pick the plums® out of®",
+      "width": 0.46351928710937496,
+      "x": 0.03433478074788753,
+      "y": 0.15234374998326805
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333337,
+      "text": "里把葡萄干拣出马上吃掉的孩子”一样行事，",
+      "width": 0.39055792001577516,
+      "x": 0.5236051650457604,
+      "y": 0.14648437479785237
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01497395833333337,
+      "text": "their pudding to eat them at once” rather than putting",
+      "width": 0.4656652303842398,
+      "x": 0.03433476815015476,
+      "y": 0.13346354167508334
+    },
+    {
+      "confidence": 1,
+      "height": 0.01497395833333337,
+      "text": "而非先把葡萄干放到一边，留到最后再吃。",
+      "width": 0.3605150076059195,
+      "x": 0.523605160145538,
+      "y": 0.12630208354526662
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01327822171151638,
+      "text": "them aside® to be eaten last.",
+      "width": 0.23605150076059192,
+      "x": 0.03433476363973267,
+      "y": 0.116279069971026
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.00872093004484964,
+      "text": "1］",
+      "width": 0.019313304240887064,
+      "x": 0.8819742490598139,
+      "y": 0.0610465117702107
+    }
+  ],
+  "vision_ocr_text": "3.理解关键词含义：对全段内容进行推理可知段落关键词 a rather unusual rule 内涵：1. 以往罚款\n通常只是针对金融机构，很少针对高管个人；2. 以往即便有针对高管的惩罚，也没有如此大的力度、如此\n深远的影响。\n4.体味作者态度：rather unusual、hold bankers accountable、a much larger benefit, to build a stronger\neconomy for future generations 均传递作者对新规的肯定。\n5. 推理全篇主旨：末句以 Yet（连接句子表示含惊讶之意的转折）、also 引出作者强调信息，且句中放\n大关注范围（all corporations）、提出更大希冀（more long-term decision-making）、并强调深远意图（build a\nstronger economy for future generations），均暗示本句与文章主旨紧密相关。\n．真题精解。\n21. According to Paragraph 1, one motive in imposing the\n21.根据第一段，施行新规的目的之一\nnew rule is to\n是\n。\n［A］ enhance bankers' sense of responsibility\n［A］增强银行家的责任感\n［B］ help corporations achieve larger profits\n［B］帮助企业获得更多利润\n［C］ build a new system of financial regulation\n［C］建立新的金融监管体制\n［D］ guarantee the bonuses of top executives\n［D］保证高管的奖金\n［精准定位］第一段③句指出，新规主要目的是让银行家对有害冒险负责，并重建公众信任，概括即\n为增强银行家的责任感，［A］正确。\n［命题解密］正确项［A］是对③句 to hold bankers accountable for harmful risk-taking 的同义改写。\n［B］对④句 larger benefit...all corporations 断章取义，该句含义实为“新规有望带来更大的益\n处—企业将会制定更多长期决策”。［C］夸大其词，文中只提及“一项新的银行业监管规定”，并未提及\n“一套新的金融监管体制”（a new system of financial regulation 无据可依）。［D］对②句 guaranteed bonus\nof top executives 断章取义，与该句完整含义“新规会推迟高管固定奖金的发放”相悖。\n［技巧总结］题干中常用 motive/motivate、intention/intend、purpose、hope、aim 等词询问某政策，行\n为等的目的，解题时应从文中寻找体现“目的性”的同类词汇以锁定正确项来源，并与选项比对。具体来\n看本题：首先借题干中 motive 一词明确具体考查方向——新规目的（且one motive 暗示：文中很可能提\n及多条目的，选项符合其中任何一条都正确）。随后锁定同样体现强烈“目的性”（The main purpose、\nhope for）的③④句为解题范围。最后将选项信息与锁定内容对比，发现［A］是对③句 to hold bankers\naccountable for... 的概括（enhance... sense of responsibility 与 hold...accountable 近义），故正确；其他\n选项或明显偏离文意（［B］、［D］），或找不到支撑信息（［C］），均错误。\nI ①“Short-termism”or the desire for quick\n英格兰银行首席经济学家安德鲁•霍尔\nprofits, has worsened\" in publicly traded companies®，\n丹称，“短期主义”，或者说是对迅速获利的渴\nsays the Bank of England's top economist, Andrew\n望，在公开上市交易的公司中已经加剧。他援\nHaldane. ② He quotes a giant® of classical economics®，\n引古典经济学巨匠阿尔弗雷德•马歇尔之言，\nAlfred Marshall, in describing this financial impatience\n把这种“经济上的急躁”形容成就像是“从布丁\nas acting like “children who pick the plums® out of®\n里把葡萄干拣出马上吃掉的孩子”一样行事，\ntheir pudding to eat them at once” rather than putting\n而非先把葡萄干放到一边，留到最后再吃。\nthem aside® to be eaten last.\n1］",
+  "pdf_text_layer": "3 . 理解关键词含义： 对全段内容进行推理可知l 段落关键词 a rather unu s ua l rul e 内涵： 1. 以往罚款\n通常只是针对金融机构，很少针对 商管个人； 2. 以往 即 使有针对高管 的惩罚，也没有如此 大 的力 度、 如此\n深远的影响 。\n     4 . 体昧作者态度： rath e r unusu a l 、 ho ld ban kers accountable , a much lar ger benefit, to build a stronger\neconomy for futur e ge口 erations 均传递作者对新规的肯定 。\n     5 . 推理全篇主旨 ：末句以 Y et （连接句子表示含 惊讶之 意 的转折 ） 、 a ls o 引出作者强调信息，且句中放\n大关注范围（ all corporat i ons ）、提出更大希冀（ more long t erm d ec i s i on- making ）、并强调深远意图（ build a\nstronger eco nom y for futur e generations ），均暗示本句与文章主旨紧密相关 。\n\n                                                 ；三真题精辟＜ ii\n 21. According to Paragraph 1 , one motive in imposing the           21. 根据第一段，施行新规的目的之一\n new rule is to\n [A] en ha nce bankers ’ sense of res pons ibi lity\n                                                                     *      。\n\n\n\n\n                                                                     [A］增 强银行 家 的 责任感\n\n [BJ h elp corporation s ach ieve larger profits                     [BJ 帮 助企业 获得更多 利润\n\n [CJ build a n巳w system of fin ancia l regulat ion                   [CJ 建立 新的 金融 监 管 体制\n\n [DJ guarantee the bonu ses o f top executives                       [ DJ 保证高 管 的 奖金\n\n     ［精准定位］ 第一段③句指 H一1 ，却i 规 主要目 的 是 让银行 家 对 有害冒险负责，并重建公众信 任，概括即\n为增强银行家的责任感， ［ A ］ 正 确 。\n     ［命题解密］ 正确项 ［ A ］是对③句 to ho ld ba nke rs accountab le for harmful r isk t a king 的 同义改 写 。\n\n     [BJ 对④句 l arge r benefit ... a ll co rpora tion s 断 章 取义 ，眩句含义实为“新 1Ji\\ 有 望带来 更大的益\n处 一一 企业将 会 制定更 多长期决策 ” 。［ CJ 夸大其词，文 中只提 及“一 项新的银行业监 管 规 定”，并未提及\n6 一套新的金融监管体制” Ca n巴w system of fin a ncia l regu l a ti o n 元据可依 ） 。［ DJ 对 ② 句 guaranteed bon us\n\nof top execut i ves 断章取义，与 i衷句完整含义“新规会推迟高管固定奖金的发放”相悖 。\n     ［技巧总结］ 题干中常用 moti ve/ moti va t e 、 int e ntion/ int e nd 、 purpo se 、 ho p e 、 a im 等词询 问 某 政策、行\n为等的目的，解题时应从 文 中 寻找体 现 “目 的性”的同 类 词汇以锁定正确项 来源，并与选项 比对 。 具 体来\n看本题：首先借题干中 moti ve 一 词明确具体考查方向                                     新规目的（且 one mot i ve 暗示：文中很可能提\n及多条目的，选项符合 其 中任何 一 条都正确） 。 随后锁定同样体现强烈“目的性”（ The main purpose 、\nhope for ）的 ③④ 句为解题范罔 。 最后将选项信息与 锁定内 容对 比， 发现［ A ］ 是对 ③ 句 to hold bankers\naccountab le for ...的概括（ enhan ce . .. se nse of r espo nsibility 与 hold .. . acco unta bl e 近义 ）， 故 正 确； 其 他\n选项或明显偏离文 意（ ［町、 ［ D］ ），或找不到支撑信息 C [CJ ）， 均错 误 。\n\n\n     正 。 “ Shor t t ermism ”       o r th e d es i 陀 fo r qui ck\n                                                                     英格兰银行首席经济学家安德鲁·霍尔\nprofits, has worsened(      in publicly traded companies® ,\n                                                                   丹称，“短期主义’气或者说是对迅速获利的渴\nsays the Bank of Eng la nd ’ s top eco nomi s t, Andrew\n                                                                   望，在公开上市交易的公司中已经加剧 。 他援\nHaldane. @H e quotes a giant® of classical economics® ,\n                                                                   引古典经济学巨匠阿尔弗雷德·马歇尔之言，\nAlfred Marshall , in desc ribing thi s fin a ncial im patience\n                                                                   把这种“经济上的急躁”形容成就像是“从布丁\nas acting like “ children w ho pick the plums® out of1D\n                                                                   里把葡萄干拣出马上吃掉的孩子”一样行事，\nt heir pudding to ea t them at once ” rath er than putting\n                                                                   而非先把葡萄千放到一边，留到最后再吃 。\nthem aside( to be ea t en las t.\n\n\n\n                                                                                                         11",
+  "quality": {
+    "vision_line_count": 52,
+    "vision_character_count": 2118,
+    "pdf_text_character_count": 3394,
+    "nonempty": true
+  }
+}

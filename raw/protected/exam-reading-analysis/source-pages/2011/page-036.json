@@ -1,0 +1,478 @@
+{
+  "schema": "exam_reading_analysis_page_evidence_v1",
+  "generated_date": "2026-07-11",
+  "source_id": "EXAM-ANALYSIS-SOURCE-2011-P036",
+  "year": 2011,
+  "pdf_page": 36,
+  "source_pdf": "/Users/xiazhibin/Desktop/1. 1980-2025考研英一真题+解析/03、2010-2024年考研英语真题+解析/2010-2024年考研英语一解析/2011年考研英语一真题解析.pdf",
+  "source_sha256": "fcd02ed2e0a34af1e91da1550f2be904a8c4e4f6a3af40100903d6b9ac9e2623",
+  "visibility": "hidden_until_review",
+  "extraction_method": "macos_vision_accurate_zh-Hans_en-US_plus_pdftotext_layout",
+  "ocr_dpi": 150,
+  "vision_ocr_lines": [
+    {
+      "confidence": 0.5,
+      "height": 0.01335309284185271,
+      "text": "［B］ enjoyment in progress",
+      "width": 0.22292993082371093,
+      "x": 0.08280254772508729,
+      "y": 0.9127906979098275
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562038,
+      "text": "［B］过程中的乐趣",
+      "width": 0.15923566070614992,
+      "x": 0.5201698565592696,
+      "y": 0.9111111110492103
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013288493561588899,
+      "text": "LC」 happiness in retrospect",
+      "width": 0.233545642509971,
+      "x": 0.08280255418733563,
+      "y": 0.8849673201262096
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.014595682480756045,
+      "text": "LC］ 回想起的幸福",
+      "width": 0.15923566070614992,
+      "x": 0.5201698553157148,
+      "y": 0.8836601309359987
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011816005457460421,
+      "text": "LD」 lasting reward",
+      "width": 0.16135880596095245,
+      "x": 0.08280255232737935,
+      "y": 0.8588235293104903
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016901054880977373,
+      "text": "［D］持久的回报",
+      "width": 0.14034462339791465,
+      "x": 0.5200612324652486,
+      "y": 0.8556483095592804
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860523099262,
+      "text": "［精准定位］第一段②③句具体介绍 Senior 观点：应将育儿的幸福定义为“一种过去式状态”；当下",
+      "width": 0.8386411940390476,
+      "x": 0.1104033995986139,
+      "y": 0.8299418605607095
+    },
+    {
+      "confidence": 1,
+      "height": 0.017441860523099262,
+      "text": "的育儿过程虽然艰难，日后却会成为父母满足和快乐的源泉。可见 Senior 认养育子女的经历会让人",
+      "width": 0.8747346196074332,
+      "x": 0.07430997395424525,
+      "y": 0.8095930230814736
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "们日后回想起来觉得非常幸福，LC］正确。",
+      "width": 0.3524416163136353,
+      "x": 0.07218683867970034,
+      "y": 0.7906976743026779
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "［命题解密］正确项［C］是对②③句中 consider being happy as a past-tense condition... later be",
+      "width": 0.8428874553731477,
+      "x": 0.11040341309545006,
+      "y": 0.7718023255114957
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "sources of intense gratification and delight 的高度概括。",
+      "width": 0.4713375755295471,
+      "x": 0.0700637010250353,
+      "y": 0.7514534882561663
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01601307189542489,
+      "text": "［A］将②句用于说明育儿会带来“日后的快乐（a past-tense condition）”曲解为“稍纵即逝的/短暂的",
+      "width": 0.8386411940390475,
+      "x": 0.1104033874992308,
+      "y": 0.7339869281502499
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017709758858275526,
+      "text": "快乐”。［B］将②句 Senior 摒弃的观点“将育儿视为即时即地的快乐（enjoyment in progress 近义替换",
+      "width": 0.8789808809415331,
+      "x": 0.07218683240609132,
+      "y": 0.7136627904506597
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946567,
+      "text": "moment-to-moment joy）”视为其认同的观点。［D］将③句 later be sources of intense gratification and",
+      "width": 0.8832271422756334,
+      "x": 0.07006370240783102,
+      "y": 0.6947674416282593
+    },
+    {
+      "confidence": 1,
+      "height": 0.017738258137422358,
+      "text": "delight（育儿会带来日后的巨大快乐［但过程本身非常折磨］）错误理解为“育儿会带来持久的回报”。",
+      "width": 0.8407642955305927,
+      "x": 0.07218686036330535,
+      "y": 0.6744186046429355
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "［技巧总结］本题针对涉及“多组取舍关系”以及“抽象表达（a past-tense condition 等）”的第一段命",
+      "width": 0.8428874553731477,
+      "x": 0.10828027084491929,
+      "y": 0.6568627451538346
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352935,
+      "text": "制“人物观点题”。这要求：一、借助观点引出词（suggest, write, say 等）及取舍标志（Rather than，",
+      "width": 0.8789808809415331,
+      "x": 0.07218683575004031,
+      "y": 0.6366013070885421
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017707858366124873,
+      "text": "instead, instead of 等）对信息分类，区分人物所持观点及其摒弃观点；二、联系上下文明确抽象表达的具",
+      "width": 0.8789808809415333,
+      "x": 0.07006370411522049,
+      "y": 0.6162790695204271
+    },
+    {
+      "confidence": 1,
+      "height": 0.017648958692363603,
+      "text": "体含义；三、意识到“将人物摒弃观点当做赞同观点”及“对抽象表达断章取义”是最典型的干扰方式。",
+      "width": 0.8471337167072479,
+      "x": 0.07006372195423162,
+      "y": 0.5973837209012411
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "具体到本题，借助观点引出词 suggestion/suggests/writes/及取舍标记 Rather than/instead of 可明",
+      "width": 0.8386411940390475,
+      "x": 0.1104033874992308,
+      "y": 0.5784313727203894
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045805,
+      "text": "确划分 Jennifer Senior 所持有观点（①句 suggestion that 引领内容；②句 Senior suggests 及 we should 引",
+      "width": 0.8789808809415333,
+      "x": 0.07218684818558767,
+      "y": 0.5594771243426553
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "领部分；③句内容）及其摒弃的做法（②句 Rather than 及 instead of 引领内容），［C］是对其持有观点的概",
+      "width": 0.8789808809415333,
+      "x": 0.07218684923199328,
+      "y": 0.5405228758195726
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01764705882352946,
+      "text": "括，［B］将其摒弃观点当做持有观点，［A］、［D］对其中抽象表达断章取义，故［C］正确。",
+      "width": 0.7197452348231358,
+      "x": 0.07218682345892061,
+      "y": 0.520261437778505
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015032679738562149,
+      "text": "① The magazine cover showing an attractive",
+      "width": 0.3800424608628107,
+      "x": 0.14012739427666243,
+      "y": 0.48954248391390387
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "该杂志封面上的“魅力妈妈怀抱可爱宝宝”",
+      "width": 0.3651804586669455,
+      "x": 0.5817409842546375,
+      "y": 0.48235294114787064
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013277093725266864,
+      "text": "mother holding",
+      "width": 0.14437367309803717,
+      "x": 0.07218683829174569,
+      "y": 0.469281045574208
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.016339869281045694,
+      "text": "a cute baby is hardly the only",
+      "width": 0.30360931921643464,
+      "x": 0.2165605201157742,
+      "y": 0.4679738562436915
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "绝不是本周报刊亭上唯一的圣母圣子形象。还",
+      "width": 0.4033970149023811,
+      "x": 0.5414012835962262,
+      "y": 0.4593023255357206
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014643182941511568,
+      "text": "Madonna-and-child image on newsstands\" this week.",
+      "width": 0.4394904404707667,
+      "x": 0.07430998430283321,
+      "y": 0.4490196075464641
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "有关于“最近领养孩子的—且新近单身",
+      "width": 0.40127388423533095,
+      "x": 0.5414012725471814,
+      "y": 0.44040697672792706
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013102294572817752,
+      "text": "② There are also stories about newly adoptive — and",
+      "width": 0.4437367309803716,
+      "x": 0.0743099747610527,
+      "y": 0.42875817019298457
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017745857612759486,
+      "text": "的——妈妈桑德拉•布洛克”的报道，以及“珍",
+      "width": 0.403397014902381,
+      "x": 0.5414012827823551,
+      "y": 0.4183006538697204
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014591883366404046,
+      "text": "newly single - mom Sandra Bullock, as well as the",
+      "width": 0.4479829923144718,
+      "x": 0.07218685504587784,
+      "y": 0.40697674433518316
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.019637910680833204,
+      "text": "妮弗•安妮斯顿怀孕了”这一常见新闻。几乎",
+      "width": 0.40169792102354207,
+      "x": 0.5411998778251323,
+      "y": 0.3977830424113413
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014534882938160631,
+      "text": "usual “Jennifer Aniston is pregnant®”",
+      "width": 0.3524416163136353,
+      "x": 0.072186841029311,
+      "y": 0.3880813958855709
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.012194391637066593,
+      "text": "neWs.",
+      "width": 0.05122674172512659,
+      "x": 0.4308622137845475,
+      "y": 0.3848911760893955
+    },
+    {
+      "confidence": 1,
+      "height": 0.015988372353946456,
+      "text": "③",
+      "width": 0.023354564980384684,
+      "x": 0.49469214413755,
+      "y": 0.3866279069795191
+    },
+    {
+      "confidence": 1,
+      "height": 0.015032679738562038,
+      "text": "每周都会有对至少一位明星妈妈或准妈妈的特",
+      "width": 0.40127388423533106,
+      "x": 0.541401271762377,
+      "y": 0.3790849675154645
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014620382645550878,
+      "text": "Practically every week features®",
+      "width": 0.267515922823554,
+      "x": 0.07218684023365818,
+      "y": 0.36773255867626853
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.014654582154517093,
+      "text": "at Least one celebrity",
+      "width": 0.17409766290201506,
+      "x": 0.34394904816682675,
+      "y": 0.36470588232812917
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "别报道，她们在各报刊亭上笑迎读者。",
+      "width": 0.31847132141229983,
+      "x": 0.5414012851537227,
+      "y": 0.3575163398113371
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.013725490196078383,
+      "text": "mom,or mom-to-be, smiling on the newsstands.",
+      "width": 0.41188959592159113,
+      "x": 0.07218684372356374,
+      "y": 0.3470588236791359
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.030083398257984895,
+      "text": "•词汇注释与难向分析。以",
+      "width": 0.2666972289805658,
+      "x": 0.3816977594738141,
+      "y": 0.2944520550459655
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011905304279202777,
+      "text": "①newsstand ［'nju:zsteend］ n. 报摊",
+      "width": 0.2547770512947389,
+      "x": 0.07218684271781112,
+      "y": 0.281699346622469
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.011817905326294786,
+      "text": "②pregnant L' pregnont」a. 怀孕的",
+      "width": 0.2505307899606387,
+      "x": 0.07218683118740896,
+      "y": 0.26143790840241177
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.01176470588235301,
+      "text": "①as well as（既⋯⋯又⋯⋯；此外）",
+      "width": 0.28450105568646933,
+      "x": 0.5201698507661072,
+      "y": 0.26013071920763
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.011876805000055946,
+      "text": "③feature L'fittJa」 w. 以⋯⋯为特色",
+      "width": 0.2611465016468989,
+      "x": 0.07218683736657167,
+      "y": 0.24248366000045296
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.0117647058823529,
+      "text": "②mom-to-be（准妈妈）",
+      "width": 0.18046708407867018,
+      "x": 0.5265392798555695,
+      "y": 0.24117647032770373
+    },
+    {
+      "confidence": 0.3,
+      "height": 0.02819062276603357,
+      "text": "•语篇分析•沒",
+      "width": 0.16314021852686572,
+      "x": 0.43247685041721734,
+      "y": 0.20351104283676325
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "第二至五段为第二部分，批驳媒体影响下的社会流行育儿观（论证作者欲立观点）。",
+      "width": 0.7006369129421607,
+      "x": 0.10828026088560781,
+      "y": 0.18300653589687954
+    },
+    {
+      "confidence": 1,
+      "height": 0.01764705882352946,
+      "text": "第二段树靶：当前媒体高度关注明星育儿信息，宣扬神圣而又完美的育儿生活。关键词为：①hardly",
+      "width": 0.8407642955305927,
+      "x": 0.11040342537695393,
+      "y": 0.162745098336476
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.01463938258052655,
+      "text": "the only Madonna-and-child image； ②every week...at least one celebrity mom, or mom-to-be。",
+      "width": 0.7728237640789316,
+      "x": 0.07006370955289075,
+      "y": 0.14379084958622812
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.017441860523099262,
+      "text": "①句指出该杂志封面“圣母圣子形象”绝非本周唯一。hardly the only“绝非唯一”以断然否定的语气",
+      "width": 0.8407642955305927,
+      "x": 0.10828028102451241,
+      "y": 0.12209302331403182
+    },
+    {
+      "confidence": 1,
+      "height": 0.016339869281045805,
+      "text": "强调该画面在各杂志中非常普遍。",
+      "width": 0.29087047686312445,
+      "x": 0.07006370290601734,
+      "y": 0.10457516352911522
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988372353946456,
+      "text": "②句进而指出本周还有其他杂志刊登此类报道。There are also stories...as well as. .. 呼应 hardly the",
+      "width": 0.8428874553731477,
+      "x": 0.10828027084491929,
+      "y": 0.08284883713940261
+    },
+    {
+      "confidence": 0.5,
+      "height": 0.015988371107313326,
+      "text": "only，强调此类报道之多；newly、usual 反衬各杂志对明星收养孩子或怀孕消息的密切关注、高频报道，甚至",
+      "width": 0.8789808809415331,
+      "x": 0.07006371064388278,
+      "y": 0.06250000058369798
+    },
+    {
+      "confidence": 1,
+      "height": 0.011804605621138387,
+      "text": "36",
+      "width": 0.023354564980384712,
+      "x": 0.08492569014250403,
+      "y": 0.045058139781467665
+    }
+  ],
+  "vision_ocr_text": "［B］ enjoyment in progress\n［B］过程中的乐趣\nLC」 happiness in retrospect\nLC］ 回想起的幸福\nLD」 lasting reward\n［D］持久的回报\n［精准定位］第一段②③句具体介绍 Senior 观点：应将育儿的幸福定义为“一种过去式状态”；当下\n的育儿过程虽然艰难，日后却会成为父母满足和快乐的源泉。可见 Senior 认养育子女的经历会让人\n们日后回想起来觉得非常幸福，LC］正确。\n［命题解密］正确项［C］是对②③句中 consider being happy as a past-tense condition... later be\nsources of intense gratification and delight 的高度概括。\n［A］将②句用于说明育儿会带来“日后的快乐（a past-tense condition）”曲解为“稍纵即逝的/短暂的\n快乐”。［B］将②句 Senior 摒弃的观点“将育儿视为即时即地的快乐（enjoyment in progress 近义替换\nmoment-to-moment joy）”视为其认同的观点。［D］将③句 later be sources of intense gratification and\ndelight（育儿会带来日后的巨大快乐［但过程本身非常折磨］）错误理解为“育儿会带来持久的回报”。\n［技巧总结］本题针对涉及“多组取舍关系”以及“抽象表达（a past-tense condition 等）”的第一段命\n制“人物观点题”。这要求：一、借助观点引出词（suggest, write, say 等）及取舍标志（Rather than，\ninstead, instead of 等）对信息分类，区分人物所持观点及其摒弃观点；二、联系上下文明确抽象表达的具\n体含义；三、意识到“将人物摒弃观点当做赞同观点”及“对抽象表达断章取义”是最典型的干扰方式。\n具体到本题，借助观点引出词 suggestion/suggests/writes/及取舍标记 Rather than/instead of 可明\n确划分 Jennifer Senior 所持有观点（①句 suggestion that 引领内容；②句 Senior suggests 及 we should 引\n领部分；③句内容）及其摒弃的做法（②句 Rather than 及 instead of 引领内容），［C］是对其持有观点的概\n括，［B］将其摒弃观点当做持有观点，［A］、［D］对其中抽象表达断章取义，故［C］正确。\n① The magazine cover showing an attractive\n该杂志封面上的“魅力妈妈怀抱可爱宝宝”\nmother holding\na cute baby is hardly the only\n绝不是本周报刊亭上唯一的圣母圣子形象。还\nMadonna-and-child image on newsstands\" this week.\n有关于“最近领养孩子的—且新近单身\n② There are also stories about newly adoptive — and\n的——妈妈桑德拉•布洛克”的报道，以及“珍\nnewly single - mom Sandra Bullock, as well as the\n妮弗•安妮斯顿怀孕了”这一常见新闻。几乎\nusual “Jennifer Aniston is pregnant®”\nneWs.\n③\n每周都会有对至少一位明星妈妈或准妈妈的特\nPractically every week features®\nat Least one celebrity\n别报道，她们在各报刊亭上笑迎读者。\nmom,or mom-to-be, smiling on the newsstands.\n•词汇注释与难向分析。以\n①newsstand ［'nju:zsteend］ n. 报摊\n②pregnant L' pregnont」a. 怀孕的\n①as well as（既⋯⋯又⋯⋯；此外）\n③feature L'fittJa」 w. 以⋯⋯为特色\n②mom-to-be（准妈妈）\n•语篇分析•沒\n第二至五段为第二部分，批驳媒体影响下的社会流行育儿观（论证作者欲立观点）。\n第二段树靶：当前媒体高度关注明星育儿信息，宣扬神圣而又完美的育儿生活。关键词为：①hardly\nthe only Madonna-and-child image； ②every week...at least one celebrity mom, or mom-to-be。\n①句指出该杂志封面“圣母圣子形象”绝非本周唯一。hardly the only“绝非唯一”以断然否定的语气\n强调该画面在各杂志中非常普遍。\n②句进而指出本周还有其他杂志刊登此类报道。There are also stories...as well as. .. 呼应 hardly the\nonly，强调此类报道之多；newly、usual 反衬各杂志对明星收养孩子或怀孕消息的密切关注、高频报道，甚至\n36",
+  "pdf_text_layer": "[BJ enjoyment in progress                                [BJ 过程中的乐趣\n\n [ CJ happiness l 口 retrospect                            [CJ 回想起的幸福\n\n [DJ lasting reward                                       [DJ 持久的回报\n\n       ［精准定位］ 第一段②③句具体介绍 Senior 观点：应将育儿的幸福定义为“一种过去式状态”：当下\n的育儿过程虽然艰难，日后却会成为父母满足和快乐的源泉。可见 Senior 认为养育子女的经历会让人\n们日后回想起来觉得非常幸福，［ CJ 正确。\n       ［命题解密 ］ 正确项［ CJ 是对②③句中 consider being happy as a past tense condition ... later be\nsources of intense gratification and delight 的高度概括。\n       [A］将②句用于说明育 儿 会带来“日后的快乐（ a past- tense condition ）”曲解为“稍纵即逝的／短暂的\n快乐” 。［ BJ 将②句 Sen i or 摒弃的观点“将育儿视为即时即地的快乐（ enjoyment in progress 近义替换\nmoment- to-moment joy）”视为其认同的观点。［ DJ 将③句 later be sources of intense gratification and\nde l ight （育 JL 会带来日后的巨大快乐［但过程本身非常折磨］）错误理解为“育儿会带来持久的回报”。\n       ［技巧总结］ 本题针对涉及“多组取舍关系”以及“抽象表达（ a past-tense condition 等）”的第一段命\n制“人物观点题” 。这要求 ：一、借助观点引出词（ suggest, write , say 等）及取舍标志（ Rather than,\ninstead, instead of 等） 对信息分类，区分人物所持观点及其摒弃观点； 二 、联系上下文明确抽象表达的具\n体含义； 三 、意识到“将人物摒弃观点当做赞同观点”及“对抽象表达断章取义”是最典型的干扰方式。\n       具体到本题，借助观点引出同 suggestion/ suggests/ wr阳s／及取舍标记 Rather than/ instead of 可明\n确划分 ］ ennifer Senior 所持有观点（①句 suggestion that 引领内容；②句 Senior s uggests 及 we should 引\n领部分；③句内容）及其摒弃的做法（②句 Rather than 及 i nstead of 引领内容） , [CJ 是 对其持有观点的概\n括，［ BJ 将其摒弃观点当做持有观点，［ A］、［ DJ 对其中抽象表达断章取义，故［ CJ 正确。\n\n       血 。 因 The magazine cover showi 吨 an attractive\n                                                               该杂志封面上的 “ 魅力妈妈怀抱可 爱 宝宝”\nmother holding a cute baby is hardly the only\n                                                           绝不是本周报刊亭上唯 一 的圣母圣子形象 。 还\nMadonna-and-child image on newsstands(      this week.\n                                                           有关于 “ 最近领 养孩 子的 一一一且新近单身\n@There ar e a lso stories about newly adoptive      and\n                                                           的      妈妈 桑德 拉·布洛克”的报 道，以 及 “ 珍\nnewly single     mom Sandra Bullock , as well as the\n                                                           妮弗·安 妮 斯顿怀孕了”这 一 常见新闻 。 几 乎\nus ual “ Jennifer Anis ton is pregnant® ” news.      8\n                                                           每周都会有对至少 一 位明星妈妈或准妈妈的特\nPractically every week features® at least one celebrity\n                                                           别报道 ， 她们在各报刊 亭 上 笑迎读者 。\nmom, or mom to be, smiling on the newsstands.\n\n\n                                     ： ·词汇注释与难旬分析. :;/\n\n\n                                                     ;\n( newsstand [ 'nju:zstrend ］凡报摊                       I\\ ·经典搭配\n( pregnant ['pregnant ］ α ．怀孕的\n( feature [ 1fi:tfa] v. 以……为特色                            ( mo m to b e （准妈 妈）\n\n                                            ；二谭震耸听 ＜ ii\n       第二至五段为第二部分，批驳媒体影晌下的社会流行育儿观（论证作者欲立观点）。\n       第二段树靶 ： 当前媒体高度关注明星育儿信息，宣扬神圣而又完美的育儿生活 。 关键词为： ① hardly\nthe only Madonna-and-child image ; ( every week ... at least one celebrity mom , or mom- to-be 。\n       ① 旬指出该杂志封面“圣母圣子形象”绝非本周瞧一。 hard l y the on l y“绝非唯 一 ”以断然否定的语气\n强调该画面在各杂志中非常普遍。\n\n       ② 旬进而指出本周还有其他杂志刊登此类报道。 There are also stories... as well as . ..呼应 hardl y the\non l y ，强调此类报道之多； newl y 、 USl时反衬各杂志对明星收养孩子或怀孕消息的密切关注、高频报道、甚至\n  36",
+  "quality": {
+    "vision_line_count": 57,
+    "vision_character_count": 2166,
+    "pdf_text_character_count": 3108,
+    "nonempty": true
+  }
+}
