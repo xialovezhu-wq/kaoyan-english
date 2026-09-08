@@ -6,7 +6,7 @@
   "publication_target": "local",
   "github_backup_required": false,
   "local_version": "ccfe2e5012738f2f3ff8f45dcc450102e5eff560f0a6dadbf073d641a84e9f6a",
-  "event_id": "LOCAL-MCP-20260908-01",
+  "event_id": "MCP-PERSONALIZATION-20260908-01",
   "history_index": [
     "articles",
     "review",
@@ -9136,6 +9136,15 @@
   "history_state": {
     "bank/learning_events.jsonl": "not_created",
     "bank/review_exclusion_ledger.jsonl": "not_created"
+  },
+  "formal_version": "4dd61c738dc260e38f9fd69bdb3cff1eaf52581ada82d6fad126eed0cadc1156",
+  "formal_source_hashes": {
+    "bank/master_bank.csv": "0b28ba94eeeda40d5a7c06f3f8796e550aeafa9f9816f23a55df49f151f432f5",
+    "bank/mastered_items.csv": "a098f71b721db1cc08e6ef2ede846c01b962316c4d14b5494735af9152983bf2",
+    "bank/sentence_patterns.md": "24ffd7fa08643d273ea0284a04cb8b3360cd4e844065afd351a4d41ddba3afaf",
+    "bank/review_exclusion_ledger.jsonl": null,
+    "bank/learning_events.jsonl": null,
+    "bank/concept_aliases.json": null
   },
   "web_read": {
     "schema": "study-mcp-local-read-v1",
