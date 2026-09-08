@@ -3,8 +3,10 @@
   "subject": "english",
   "repository": "xialovezhu-wq/kaoyan-english",
   "branch": "main",
+  "publication_target": "local",
+  "github_backup_required": false,
   "local_version": "ccfe2e5012738f2f3ff8f45dcc450102e5eff560f0a6dadbf073d641a84e9f6a",
-  "event_id": "R11-web-read-repair-20260907-english-01",
+  "event_id": "LOCAL-MCP-20260908-01",
   "history_index": [
     "articles",
     "review",
@@ -9136,10 +9138,10 @@
     "bank/review_exclusion_ledger.jsonl": "not_created"
   },
   "web_read": {
-    "schema": "study-web-read-v1",
-    "entrypoint": "WEB_READ_START.json",
+    "schema": "study-mcp-local-read-v1",
+    "entrypoint": "Study Library.library",
     "status": "NOT_YET_VERIFIED",
-    "fetch_max_lines": 8
+    "manual_base64_transport_required": false
   },
   "file_inventory": [
     {
