@@ -723,7 +723,6 @@ class CaptureEventTests(unittest.TestCase):
                 "--occurred-at", f"{STUDY_DATE}T09:00:00Z",
             ]
             blocked = [
-                "publish_quick_flush_intent",
                 "freeze_nightly",
                 "apply_nightly",
                 "recover_nightly",
@@ -745,6 +744,10 @@ class CaptureEventTests(unittest.TestCase):
             expected = state / "views" / STUDY_DATE / "RAW-CLI-001-quick-capture.md"
             self.assertEqual(Path(receipt["view_path"]).resolve(), expected.resolve())
             self.assertEqual(receipt["projection_status"], "rendered")
+            self.assertEqual(receipt["quick_flush"]["status"], "created")
+            self.assertEqual(
+                receipt["quick_flush"]["event_id"], receipt["capture_id"]
+            )
             self.assertTrue(expected.is_file())
             rendered = expected.read_text(encoding="utf-8")
             self.assertTrue(rendered.startswith("<!-- study-intake-projection-binding-v1 "))
@@ -983,6 +986,8 @@ class CaptureEventTests(unittest.TestCase):
             assert_json_schema_subset(self, rendered, schema)
             self.assertEqual(rendered["projection_status"], "rendered")
             self.assertEqual(rendered["formal_write_count"], 0)
+            self.assertEqual(rendered["quick_flush"]["status"], "created")
+            self.assertTrue(Path(rendered["quick_flush"]["intent_path"]).is_file())
             persisted_rendered = json.loads(
                 Path(rendered["receipt_path"]).read_text(encoding="utf-8")
             )
@@ -1003,10 +1008,15 @@ class CaptureEventTests(unittest.TestCase):
             self.assertIsNone(failed["view_sha256"])
             self.assertEqual(failed["projection_error"], "fixture projection failure")
             self.assertEqual(failed["formal_write_count"], 0)
+            self.assertEqual(failed["quick_flush"]["status"], "created")
+            self.assertEqual(failed["quick_flush"]["event_id"], failed["capture_id"])
+            self.assertTrue(Path(failed["event_path"]).is_file())
+            self.assertTrue(Path(failed["quick_flush"]["intent_path"]).is_file())
             persisted_failed = json.loads(
                 Path(failed["receipt_path"]).read_text(encoding="utf-8")
             )
             assert_json_schema_subset(self, persisted_failed, schema)
+            self.assertNotIn("quick_flush", persisted_failed)
 
     def test_quick_capture_projection_binding_is_order_independent(self) -> None:
         with tempfile.TemporaryDirectory() as folder:

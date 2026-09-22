@@ -16,18 +16,18 @@ Use this immediately after the current sentence has actually been resolved. The 
 Run the project CLI rather than editing a projection or formal file by hand:
 
 ```text
-python3 -m english_pipeline.cli capture --repo-root <canonical-repo-root> --state-dir <state-dir> --idempotency-key <stable-turn-key> --source-id <source_id> --source-article <repository-relative-article-locator> --article-sha256 <article-source-hash-64-hex-without-prefix> --sentence-id <sentence_id> --source-sentence <exact-source-sentence> --sentence-sha256 <sentence-hash-64-hex-without-prefix> [--source-kind <article-or-question-or-option-or-explanation-or-user_provided>] [--first-translation <verbatim-first-translation>] [--user-evidence <verbatim-user-evidence>] [--evidence-state <observed-state>] [--evidence-kind <observed-kind>] [--translation <resolved-translation>] [--explanation <minimal-explanation>] [--candidate-json <json>] [--supersedes <event_id> --correction-reason <reason>] [--quick-flush]
+python3 /Users/xiazhibin/Documents/kaoyan-english/scripts/english_learning_pipeline.py capture --repo-root /Users/xiazhibin/Documents/kaoyan-english --state-dir /Users/xiazhibin/Documents/kaoyan-english/intake --idempotency-key <stable-turn-key> --source-id <source_id> --source-article <repository-relative-article-locator> --article-sha256 <article-source-hash-64-hex-without-prefix> --sentence-id <sentence_id> --source-sentence <exact-source-sentence> --sentence-sha256 <sentence-hash-64-hex-without-prefix> [--source-kind <article-or-question-or-option-or-explanation-or-user_provided>] [--first-translation <verbatim-first-translation>] [--user-evidence <verbatim-user-evidence>] [--evidence-state <observed-state>] [--evidence-kind <observed-kind>] [--translation <resolved-translation>] [--explanation <minimal-explanation>] [--candidate-json <json>] [--supersedes <event_id> --correction-reason <reason>]
 ```
 
 Direct flags and `--input-json` must enter the same source-object validator after request construction. Use a stable turn or message identity for `--idempotency-key`. Retrying the same resolved sentence must replay the existing result; do not generate a fresh random key on retry. Strip the display prefix `sha256:` from both hashes before passing their 64 lowercase hexadecimal values. Do not supply the compatibility alias `--article-id` as a second identity. Use `--supersedes` only with the exact current effective prior `event_id` for an evidence-backed correction; the new event records that immutable link as `supersedes_event_id`, while the old event remains byte-stable. Never use a capture ID and never erase or overwrite history.
 
-Use `--quick-flush` only when the user's current message explicitly says `快速入库`. It publishes a signed, content-addressed intent bound to this exact event and receipt, so the background adapter may form a one-event microbatch immediately. It does not fake `article_completed`, does not change the ordinary 5-capture/180-second policy and does not authorize formal curation. Without that explicit phrase, omit the flag.
+Every successful sentence capture publishes a signed, content-addressed one-event quick-flush intent bound to the exact event and its capture receipt. It does not wait for other captures or an elapsed-time threshold, does not fake `article_completed` and does not authorize formal curation. The legacy `--quick-flush` flag may be supplied by an older caller, but it is a no-op compatibility spelling because the successful path already quick-flushes every resolved sentence.
 
 `--candidate-json` contains only source-backed proposals and exact evidence enums. Guided understanding is not independent mastery. A mastery proposal requires explicit `independent_correct_use` evidence and remains only a proposal for nightly review.
 
 The CLI must also capture a resolved sentence when there are zero candidates and no observed unknown point. Omit `--candidate-json`, `--first-translation` or `--user-evidence` when their facts are absent; do not manufacture placeholder evidence. The resulting zero-candidate event still needs a real receipt and `formal_write_count=0`.
 
-The command atomically appends an immutable `english_capture_event_v2` under `<state-dir>/events` and persists an `english_capture_receipt_v2`. New event files are exactly the event's canonical JSON bytes with no final newline, so physical file SHA-256, event object SHA-256 and receipt `event_sha256` must be identical. Do not add release, activation, Dispatcher authority, MCP authority or consumption state to the Capture.
+The command atomically appends an immutable `english_capture_event_v2` under `/Users/xiazhibin/Documents/kaoyan-english/intake/events` and persists an `english_capture_receipt_v2`. New event files are exactly the event's canonical JSON bytes with no final newline, so physical file SHA-256, event object SHA-256, receipt `event_sha256` and receipt `capture_content_sha256` must be identical. The receipt also carries `subject=english`, the event id as `capture_id`, its capture `status`, `producer_binding_attestation_sha256` and `formal_write_count=0`. New post-threshold captures require a non-null attestation hash; immutable historical pre-attestation events retain null with `producer_binding_status=historical_pre_attestation`. Do not add release, activation, Dispatcher authority, MCP authority or consumption state to the Capture.
 
 The foreground Skill must not start, invoke or wait for Luna, Provider, MCP or Sol. The background worker may discover the event later, outside this Skill turn. Quick capture never performs a formal English write.
 
@@ -45,15 +45,18 @@ Report:
 快速入库回执
 
 receipt_id：<returned value>
+subject：english
 capture_id：<returned value>
+capture_content_sha256：<returned value; equal to event_sha256>
 status：created / idempotent_noop / capture_saved_but_projection_failed
 event_sha256：<returned value>
+producer_binding_attestation_sha256：<returned value or historical null>
 projection_status：rendered / failed
 view_path：<returned value or null>
 view_sha256：<returned value or null>
 formal_write_count：0
 formal_writeback：none
-quick_flush：created / idempotent_noop / omitted
+quick_flush：created / idempotent_noop
 ```
 
 If the command returns no valid durable event receipt, report `快速入库失败` with the safe error code. Do not fabricate a receipt, directly edit the article candidate area, or fall back to bank, mastered, SP or review writes.

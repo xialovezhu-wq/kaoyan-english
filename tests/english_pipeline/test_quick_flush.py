@@ -233,7 +233,7 @@ class QuickFlushIntentTests(unittest.TestCase):
                 capture_receipt=receipt,
             )
 
-    def test_cli_quick_flush_returns_event_and_intent_receipts(self) -> None:
+    def test_cli_capture_always_quick_flushes_and_legacy_flag_replays_noop(self) -> None:
         request_value = self._request(key="quick-flush-cli")
         request_value["parent_raw_capture_id"] = self._raw_parent(
             "quick-flush-cli"
@@ -255,7 +255,6 @@ class QuickFlushIntentTests(unittest.TestCase):
                 str(self.state),
                 "--input-json",
                 str(request_path),
-                "--quick-flush",
             ],
             cwd=script.parents[1],
             text=True,
@@ -268,6 +267,33 @@ class QuickFlushIntentTests(unittest.TestCase):
         self.assertEqual(result["quick_flush"]["status"], "created")
         self.assertEqual(result["quick_flush"]["event_id"], result["capture_id"])
         self.assertEqual(result["formal_write_count"], 0)
+
+        replayed = subprocess.run(
+            [
+                sys.executable,
+                str(script),
+                "capture",
+                "--repo-root",
+                str(self.repo),
+                "--state-dir",
+                str(self.state),
+                "--input-json",
+                str(request_path),
+                "--quick-flush",
+            ],
+            cwd=script.parents[1],
+            text=True,
+            capture_output=True,
+            check=False,
+        )
+        self.assertEqual(replayed.returncode, 0, replayed.stderr)
+        replay = json.loads(replayed.stdout)
+        self.assertEqual(replay["status"], "idempotent_noop")
+        self.assertEqual(replay["capture_id"], result["capture_id"])
+        self.assertEqual(replay["quick_flush"]["status"], "idempotent_noop")
+        self.assertEqual(
+            replay["quick_flush"]["intent_id"], result["quick_flush"]["intent_id"]
+        )
 
 
 if __name__ == "__main__":

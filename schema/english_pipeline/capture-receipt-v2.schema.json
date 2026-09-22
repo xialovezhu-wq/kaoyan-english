@@ -63,7 +63,35 @@
     "projection_status": {"enum": ["pending", "rendered", "failed"]},
     "view_path": {"type": ["string", "null"]},
     "view_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
-    "projection_error": {"type": ["string", "null"]}
+    "projection_error": {"type": ["string", "null"]},
+    "quick_flush": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "status",
+        "intent_id",
+        "intent_sha256",
+        "intent_path",
+        "event_id",
+        "event_sha256",
+        "capture_receipt_sha256",
+        "formal_write_count",
+        "formal_writeback"
+      ],
+      "properties": {
+        "schema_version": {"const": "english_quick_flush_receipt_v1"},
+        "status": {"enum": ["created", "idempotent_noop"]},
+        "intent_id": {"$ref": "#/$defs/sha256"},
+        "intent_sha256": {"$ref": "#/$defs/sha256"},
+        "intent_path": {"type": "string", "minLength": 1},
+        "event_id": {"type": "string", "pattern": "^EVT-[0-9]{8}-[A-F0-9]{16}$"},
+        "event_sha256": {"$ref": "#/$defs/sha256"},
+        "capture_receipt_sha256": {"$ref": "#/$defs/sha256"},
+        "formal_write_count": {"const": 0},
+        "formal_writeback": {"const": "none"}
+      }
+    }
   },
   "$defs": {
     "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
